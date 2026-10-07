@@ -1,0 +1,28 @@
+{
+ "day": 0,
+ "date": "YYYY-MM-DD",
+ "title_zh": "中文标题（主题 / 词根）",
+ "title_ja": "日本語タイトル",
+ "intro_zh": "一句话介绍今天的内容。",
+ "intro_ja": "今日の内容の一言紹介。",
+ "voice": "en-US-AriaNeural",
+ "roots": [
+  {"root": "-spect-", "origin": "Latin specere", "zh": "看", "ja": "見る",
+   "exp_zh": "中文解释（可写⚠️陷阱：看起来像但不同源的词）", "exp_ja": "日本語の説明",
+   "examples": ["prospective", "inspector"]}
+ ],
+ "groups": [
+  {"id": "spect", "title_zh": "词根 -spect-：看", "title_ja": "語根 -spect-：見る",
+   "words": [
+    {"w": "prospective", "pos": "adj.", "ipa": "/prəˈspɛktɪv/",
+     "zh": "潜在的；预期的", "ja": "見込みのある；将来の",
+     "ex": "Please send the product catalog to all prospective clients by Friday.",
+     "ex_zh": "请在周五之前把产品目录发给所有潜在客户。",
+     "ex_ja": "金曜日までに、すべての見込み客に製品カタログを送ってください。",
+     "parts": [["pro-", "向前", "前へ"], ["spect", "看", "見る"], ["-ive", "形容词后缀", "形容詞を作る"]],
+     "note": {"zh": "拉丁语 prospicere“向前看”。", "ja": "ラテン語 prospicere「前を見る」。"},
+     "forms": [["prospect (n.)", "前景；潜在客户", "見通し；見込み客"], ["prospective buyer", "潜在买家", "購入希望者"]],
+     "tip": {"zh": "（可选）TOEIC 提示 / 常见陷阱", "ja": "（任意）TOEIC のコツ"}}
+   ]}
+ ]
+}

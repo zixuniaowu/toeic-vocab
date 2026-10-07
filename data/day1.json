@@ -1,0 +1,2901 @@
+{
+ "day": 1,
+ "date": "2026-10-07",
+ "title_zh": "四大词根 + 合同与办公沟通",
+ "title_ja": "4つの語根＋契約と社内連絡",
+ "intro_zh": "今天先掌握 4 个超高频词根（spect 看 / tain 握 / mit 送 / port 运），再学合同与办公沟通的核心词。",
+ "intro_ja": "今日は超頻出の語根 4 つ（spect 見る／tain 保つ／mit 送る／port 運ぶ）と、契約・社内連絡の重要語を学びます。",
+ "voice": "en-US-AriaNeural",
+ "roots": [
+  {
+   "root": "-spect-",
+   "origin": "Latin specere / spectare",
+   "zh": "看",
+   "ja": "見る",
+   "exp_zh": "来自拉丁语 specere（看）。前缀决定“往哪儿看”：pro-（向前看 → 潜在的）、in-（往里看 → 检查）、re-（回头看 → 关于、尊重）。变体 -spic-：suspicious（可疑的）。",
+   "exp_ja": "ラテン語 specere（見る）から。接頭辞が「どこを見るか」を決める：pro-（前を見る → 見込みのある）、in-（中を見る → 検査する）、re-（振り返って見る → 〜に関して・尊敬）。変化形 -spic-：suspicious（疑わしい）。",
+   "examples": [
+    "prospective",
+    "inspector",
+    "perspective",
+    "aspect",
+    "expectation"
+   ]
+  },
+  {
+   "root": "-tain- / -ten- / -tin-",
+   "origin": "Latin tenere",
+   "zh": "握住；保持",
+   "ja": "つかむ；保つ",
+   "exp_zh": "来自拉丁语 tenere（握住）。动词多为 -tain，名词、形容词常变成 -ten- / -tin-：retain → retention，contain → continuous。⚠️ 陷阱：attain 来自 tangere（触碰），tentative 来自 tentare（尝试），都不属于这个词根。",
+   "exp_ja": "ラテン語 tenere（つかむ）から。動詞は -tain、名詞・形容詞では -ten- / -tin- になりやすい：retain → retention、contain → continuous。⚠️ 罠：attain は tangere（触れる）、tentative は tentare（試みる）由来で、この語根ではない。",
+   "examples": [
+    "obtain",
+    "retain",
+    "maintain",
+    "tenant",
+    "continuous"
+   ]
+  },
+  {
+   "root": "-mit- / -miss-",
+   "origin": "Latin mittere, missus",
+   "zh": "送",
+   "ja": "送る",
+   "exp_zh": "来自拉丁语 mittere（送；过去分词 missus）。动词用 -mit，名词用 -mission：admit → admission，transmit → transmission，omit → omission，emit → emission。",
+   "exp_ja": "ラテン語 mittere（送る、過去分詞 missus）から。動詞は -mit、名詞は -mission：admit → admission、transmit → transmission、omit → omission、emit → emission。",
+   "examples": [
+    "commitment",
+    "admission",
+    "transmit",
+    "remittance",
+    "emission"
+   ]
+  },
+  {
+   "root": "-port-",
+   "origin": "Latin portare",
+   "zh": "搬运；携带",
+   "ja": "運ぶ",
+   "exp_zh": "来自拉丁语 portare（搬运、携带）：ex-（运出去 → 出口）、trans-（运过去 → 运输）、re-（带回来 → 报告）。⚠️ 陷阱：opportunity 来自 portus（港口），portion 来自 portio（份额），都不是“搬运”。",
+   "exp_ja": "ラテン語 portare（運ぶ）から：ex-（運び出す → 輸出）、trans-（向こうへ運ぶ → 輸送）、re-（持ち帰る → 報告）。⚠️ 罠：opportunity は portus（港）、portion は portio（分け前）由来で、「運ぶ」ではない。",
+   "examples": [
+    "portable",
+    "exporter",
+    "transportation",
+    "reportedly",
+    "rapport"
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "spect",
+   "title_zh": "词根 -spect-：看",
+   "title_ja": "語根 -spect-：見る",
+   "words": [
+    {
+     "w": "prospective",
+     "pos": "adj.",
+     "ipa": "/prəˈspɛktɪv/",
+     "zh": "潜在的；预期的；未来的",
+     "ja": "見込みのある；将来の",
+     "ex": "Please send the product catalog to all prospective clients by Friday.",
+     "ex_zh": "请在周五之前把产品目录发给所有潜在客户。",
+     "ex_ja": "金曜日までに、すべての見込み客に製品カタログを送ってください。",
+     "parts": [
+      [
+       "pro-",
+       "向前",
+       "前へ"
+      ],
+      [
+       "spect",
+       "看",
+       "見る"
+      ],
+      [
+       "-ive",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 prospicere“向前看” → 往前看得到的 → 潜在的、未来的。",
+      "ja": "ラテン語 prospicere「前を見る」→ 先に見込まれる →「見込みのある」。"
+     },
+     "forms": [
+      [
+       "prospect (n.)",
+       "前景；可能性；潜在客户",
+       "見通し；見込み客"
+      ],
+      [
+       "prospective employee",
+       "准员工；候选员工",
+       "採用予定者"
+      ],
+      [
+       "prospective buyer",
+       "潜在买家",
+       "購入希望者"
+      ]
+     ],
+     "tip": {
+      "zh": "prospective = 还没成交但“有望”的：prospective clients / buyers / tenants。别和 perspective（观点）混淆。",
+      "ja": "prospective は「まだ契約前だが見込みのある」。perspective（視点）と混同しないこと。"
+     }
+    },
+    {
+     "w": "perspective",
+     "pos": "n.",
+     "ipa": "/pɚˈspɛktɪv/",
+     "zh": "观点；视角；（绘画）透视",
+     "ja": "視点；観点；見方",
+     "ex": "Working in the sales department gave her a new perspective on customer needs.",
+     "ex_zh": "在销售部工作让她对客户需求有了新的视角。",
+     "ex_ja": "営業部で働いたことで、彼女は顧客のニーズについて新たな視点を得た。",
+     "parts": [
+      [
+       "per-",
+       "穿过；彻底",
+       "通して；完全に"
+      ],
+      [
+       "spect",
+       "看",
+       "見る"
+      ],
+      [
+       "-ive",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 perspicere“看穿、看清” → 透视法 → 看问题的角度。",
+      "ja": "ラテン語 perspicere「見通す」→ 遠近法 →「物の見方」。"
+     },
+     "forms": [
+      [
+       "from a ... perspective",
+       "从……的角度",
+       "〜の観点から"
+      ],
+      [
+       "gain a new perspective",
+       "获得新视角",
+       "新たな視点を得る"
+      ],
+      [
+       "put ... in perspective",
+       "客观看待……",
+       "〜を冷静に捉える"
+      ]
+     ]
+    },
+    {
+     "w": "respectively",
+     "pos": "adv.",
+     "ipa": "/rɪˈspɛktɪvli/",
+     "zh": "分别地；各自地（按顺序对应）",
+     "ja": "それぞれ（順に）",
+     "ex": "Sales in the first and second quarters rose by 5 percent and 8 percent, respectively.",
+     "ex_zh": "第一季度和第二季度的销售额分别增长了5%和8%。",
+     "ex_ja": "第1四半期と第2四半期の売上は、それぞれ5％と8％増加した。",
+     "parts": [
+      [
+       "re-",
+       "向后；回",
+       "後ろへ；元へ"
+      ],
+      [
+       "spect",
+       "看",
+       "見る"
+      ],
+      [
+       "-ive",
+       "形容词后缀",
+       "形容詞を作る"
+      ],
+      [
+       "-ly",
+       "副词后缀",
+       "副詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "respect 原义“回头看 → 着眼于（某一方面）”；respective“各自的”，再加 -ly。",
+      "ja": "respect の元の意味は「振り返って見る → 〜に注目する」。respective「それぞれの」に -ly が付いた形。"
+     },
+     "forms": [
+      [
+       "respective (adj.)",
+       "各自的",
+       "それぞれの"
+      ],
+      [
+       "with respect to ~",
+       "关于……",
+       "〜に関して"
+      ],
+      [
+       "respectful (adj.)",
+       "恭敬的；有礼貌的",
+       "礼儀正しい"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5 词汇陷阱：respectful（恭敬的）/ respectable（体面的）/ respective（各自的）意思完全不同。respectively 常放句末，前面有逗号。",
+      "ja": "Part 5 の罠：respectful（礼儀正しい）／respectable（立派な）／respective（それぞれの）は意味が全く違う。respectively は文末のカンマの後によく置かれる。"
+     }
+    },
+    {
+     "w": "inspector",
+     "pos": "n.",
+     "ipa": "/ɪnˈspɛktɚ/",
+     "zh": "检查员；视察员",
+     "ja": "検査官；調査員",
+     "ex": "A safety inspector will visit the factory on Thursday morning.",
+     "ex_zh": "一名安全检查员将于周四上午来工厂视察。",
+     "ex_ja": "木曜日の午前に、安全検査官が工場を訪れる予定だ。",
+     "parts": [
+      [
+       "in-",
+       "向内",
+       "中へ"
+      ],
+      [
+       "spect",
+       "看",
+       "見る"
+      ],
+      [
+       "-or",
+       "表示“人”",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 inspicere“往里看” → 仔细查看。",
+      "ja": "ラテン語 inspicere「中をのぞく」→ 詳しく調べる。"
+     },
+     "forms": [
+      [
+       "inspect (v.)",
+       "检查；视察",
+       "検査する；視察する"
+      ],
+      [
+       "building inspector",
+       "建筑检查员",
+       "建築検査官"
+      ],
+      [
+       "health inspector",
+       "卫生检查员",
+       "衛生検査官"
+      ]
+     ]
+    },
+    {
+     "w": "aspect",
+     "pos": "n.",
+     "ipa": "/ˈæspɛkt/",
+     "zh": "方面；层面",
+     "ja": "側面；面；観点",
+     "ex": "Customer service is the most important aspect of our business.",
+     "ex_zh": "客户服务是我们业务中最重要的方面。",
+     "ex_ja": "顧客サービスは、当社の事業で最も重要な側面だ。",
+     "parts": [
+      [
+       "a(d)-",
+       "朝向",
+       "〜の方へ"
+      ],
+      [
+       "spect",
+       "看",
+       "見る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 aspicere“朝……看” → 看到的样子 → 方面。",
+      "ja": "ラテン語 aspicere「〜の方を見る」→ 見え方 →「側面」。"
+     },
+     "forms": [
+      [
+       "every aspect of ~",
+       "……的方方面面",
+       "〜のあらゆる面"
+      ],
+      [
+       "a key aspect",
+       "关键的一面",
+       "重要な側面"
+      ],
+      [
+       "in all aspects",
+       "在各方面",
+       "あらゆる点で"
+      ]
+     ]
+    },
+    {
+     "w": "spectator",
+     "pos": "n.",
+     "ipa": "/ˈspɛkteɪtɚ/",
+     "zh": "（比赛等的）观众",
+     "ja": "観客；見物人",
+     "ex": "More than 20,000 spectators are expected at the stadium this weekend.",
+     "ex_zh": "预计本周末将有两万多名观众来到体育场。",
+     "ex_ja": "今週末、スタジアムには2万人以上の観客が見込まれている。",
+     "parts": [
+      [
+       "spect",
+       "看",
+       "見る"
+      ],
+      [
+       "-ator",
+       "表示“人”",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 spectare“观看”（specere 的反复形式）。",
+      "ja": "ラテン語 spectare「眺める」（specere の反復形）。"
+     },
+     "forms": [
+      [
+       "spectacular (adj.)",
+       "壮观的",
+       "壮観な；見事な"
+      ],
+      [
+       "spectator sports",
+       "观赏性体育项目",
+       "観戦スポーツ"
+      ],
+      [
+       "audience (n.)",
+       "（演出、讲座的）观众；听众",
+       "（公演・講演の）観客；聴衆"
+      ]
+     ],
+     "tip": {
+      "zh": "spectator 多指看比赛的观众；看演出、听讲座的观众用 audience。",
+      "ja": "spectator は主にスポーツの観客。演劇や講演の観客・聴衆は audience。"
+     }
+    },
+    {
+     "w": "expectation",
+     "pos": "n.",
+     "ipa": "/ˌɛkspɛkˈteɪʃən/",
+     "zh": "期望；预期",
+     "ja": "期待；予想",
+     "ex": "The new model's sales have exceeded our expectations.",
+     "ex_zh": "新机型的销量超出了我们的预期。",
+     "ex_ja": "新モデルの売上は、私たちの予想を上回った。",
+     "parts": [
+      [
+       "ex-",
+       "向外",
+       "外へ"
+      ],
+      [
+       "(s)pect",
+       "看",
+       "見る"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 exspectare“向外张望（等待）”，ex- 后面的 s 脱落了。",
+      "ja": "ラテン語 exspectare「外を見て待つ」。ex- の後の s が落ちた形。"
+     },
+     "forms": [
+      [
+       "exceed expectations",
+       "超出预期",
+       "期待を上回る"
+      ],
+      [
+       "meet expectations",
+       "达到预期",
+       "期待に応える"
+      ],
+      [
+       "be expected to do",
+       "预计会……",
+       "〜する見込みだ"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5 常考搭配：exceed / meet / fall short of expectations（超出 / 达到 / 未达预期）。",
+      "ja": "Part 5 の頻出コロケーション：exceed / meet / fall short of expectations（期待を上回る／満たす／下回る）。"
+     }
+    },
+    {
+     "w": "speculate",
+     "pos": "v.",
+     "ipa": "/ˈspɛkjəˌleɪt/",
+     "zh": "推测；猜测；投机",
+     "ja": "推測する；憶測する；投機する",
+     "ex": "Analysts speculate that the two companies will merge next year.",
+     "ex_zh": "分析人士推测这两家公司明年会合并。",
+     "ex_ja": "アナリストたちは、両社が来年合併すると推測している。",
+     "parts": [
+      [
+       "specul",
+       "瞭望（specula 瞭望台）",
+       "見張る（specula＝見張り台）"
+      ],
+      [
+       "-ate",
+       "动词后缀",
+       "動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 speculari“观察、窥探”，来自 specula“瞭望台”，词根仍是 specere“看”。",
+      "ja": "ラテン語 speculari「観察する」は specula「見張り台」から。元は specere「見る」。"
+     },
+     "forms": [
+      [
+       "speculation (n.)",
+       "推测；投机",
+       "推測；投機"
+      ],
+      [
+       "speculate about/on ~",
+       "对……进行推测",
+       "〜について推測する"
+      ],
+      [
+       "There is speculation that ~",
+       "有传言说……",
+       "〜という憶測がある"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tain",
+   "title_zh": "词根 -tain- / -ten- / -tin-：握住、保持",
+   "title_ja": "語根 -tain- / -ten- / -tin-：つかむ・保つ",
+   "words": [
+    {
+     "w": "obtain",
+     "pos": "v.",
+     "ipa": "/əbˈteɪn/",
+     "zh": "获得；取得",
+     "ja": "得る；入手する；取得する",
+     "ex": "Visitors must obtain a pass from the reception desk before entering the building.",
+     "ex_zh": "访客进入大楼前必须在前台领取通行证。",
+     "ex_ja": "来訪者は建物に入る前に、受付で通行証を受け取らなければならない。",
+     "parts": [
+      [
+       "ob-",
+       "朝向；靠近",
+       "〜に向かって"
+      ],
+      [
+       "tain",
+       "握住；保持",
+       "つかむ；保つ"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 obtinere“握住 → 得到”。",
+      "ja": "ラテン語 obtinere「しっかり握る → 手に入れる」。"
+     },
+     "forms": [
+      [
+       "obtain permission",
+       "获得许可",
+       "許可を得る"
+      ],
+      [
+       "obtain A from B",
+       "从 B 获得 A",
+       "B から A を得る"
+      ],
+      [
+       "obtainable (adj.)",
+       "可获得的",
+       "入手可能な"
+      ]
+     ],
+     "tip": {
+      "zh": "obtain 比 get 正式。Part 7 同义替换：obtain ≈ get / acquire / receive。",
+      "ja": "obtain は get より改まった語。Part 7 の言い換え：obtain ≈ get / acquire / receive。"
+     }
+    },
+    {
+     "w": "retain",
+     "pos": "v.",
+     "ipa": "/rɪˈteɪn/",
+     "zh": "保留；留住（人才、客户）",
+     "ja": "保持する；保管する；（人材を）引き留める",
+     "ex": "Please retain your receipt as proof of purchase.",
+     "ex_zh": "请保留收据作为购买凭证。",
+     "ex_ja": "購入の証明として、レシートを保管しておいてください。",
+     "parts": [
+      [
+       "re-",
+       "向后；回",
+       "後ろへ；元へ"
+      ],
+      [
+       "tain",
+       "握住；保持",
+       "つかむ；保つ"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 retinere“往回拉住 → 留住”。",
+      "ja": "ラテン語 retinere「引き留める」。"
+     },
+     "forms": [
+      [
+       "retention (n.)",
+       "保留；留住",
+       "保持；定着"
+      ],
+      [
+       "employee retention",
+       "员工留任（率）",
+       "社員の定着（率）"
+      ],
+      [
+       "retain customers",
+       "留住客户",
+       "顧客をつなぎとめる"
+      ]
+     ]
+    },
+    {
+     "w": "container",
+     "pos": "n.",
+     "ipa": "/kənˈteɪnɚ/",
+     "zh": "容器；集装箱",
+     "ja": "容器；コンテナ",
+     "ex": "Store all cleaning products in sealed containers.",
+     "ex_zh": "所有清洁用品都要存放在密封容器里。",
+     "ex_ja": "洗剤類はすべて密閉容器に保管してください。",
+     "parts": [
+      [
+       "con-",
+       "一起；完全",
+       "共に；完全に"
+      ],
+      [
+       "tain",
+       "握住；保持",
+       "つかむ；保つ"
+      ],
+      [
+       "-er",
+       "表示“人/物”",
+       "〜する人・物"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 continere“合在一起拿住 → 容纳”。",
+      "ja": "ラテン語 continere「まとめて保つ → 収める」。"
+     },
+     "forms": [
+      [
+       "contain (v.)",
+       "包含；容纳",
+       "含む；収容する"
+      ],
+      [
+       "shipping container",
+       "集装箱",
+       "輸送用コンテナ"
+      ],
+      [
+       "contents (n.)",
+       "内容物；目录",
+       "中身；目次"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1 照片题常见：Some containers are stacked on the dock.（码头上堆着集装箱。）",
+      "ja": "Part 1 写真問題の定番：Some containers are stacked on the dock.（波止場にコンテナが積まれている。）"
+     }
+    },
+    {
+     "w": "entertain",
+     "pos": "v.",
+     "ipa": "/ˌɛntɚˈteɪn/",
+     "zh": "招待；款待；使娱乐",
+     "ja": "もてなす；接待する；楽しませる",
+     "ex": "Mr. Lee often entertains overseas clients at a restaurant near the office.",
+     "ex_zh": "李先生经常在公司附近的餐厅招待海外客户。",
+     "ex_ja": "リーさんは会社の近くのレストランで、よく海外の顧客を接待する。",
+     "parts": [
+      [
+       "enter- (inter-)",
+       "在……之间",
+       "間に"
+      ],
+      [
+       "tain",
+       "握住；保持",
+       "つかむ；保つ"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 entretenir（拉丁语 inter + tenere），原义“相互维系、保持” → 款待客人。",
+      "ja": "古フランス語 entretenir（ラテン語 inter + tenere）。元は「間を保つ」→「客をもてなす」。"
+     },
+     "forms": [
+      [
+       "entertainment (n.)",
+       "娱乐；招待",
+       "娯楽；接待"
+      ],
+      [
+       "entertainment expenses",
+       "招待费",
+       "接待費；交際費"
+      ],
+      [
+       "entertain clients",
+       "招待客户",
+       "顧客を接待する"
+      ]
+     ]
+    },
+    {
+     "w": "tenant",
+     "pos": "n.",
+     "ipa": "/ˈtɛnənt/",
+     "zh": "租户；房客",
+     "ja": "テナント；賃借人；入居者",
+     "ex": "The building's tenants have been asked to move their cars during the repaving work.",
+     "ex_zh": "大楼的租户被要求在路面重铺期间挪走车辆。",
+     "ex_ja": "舗装工事の間、ビルの入居者は車を移動するよう求められている。",
+     "parts": [
+      [
+       "ten",
+       "握住；持有",
+       "保つ；持つ"
+      ],
+      [
+       "-ant",
+       "表示“人”",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 tenant“持有（土地、房屋）的人”，来自 tenir < 拉丁语 tenere。",
+      "ja": "古フランス語 tenant「（土地・建物を）保有する人」、tenir < ラテン語 tenere から。"
+     },
+     "forms": [
+      [
+       "landlord (n.)",
+       "房东",
+       "家主；大家"
+      ],
+      [
+       "lease (n./v.)",
+       "租约；租赁",
+       "賃貸借契約；賃貸する"
+      ],
+      [
+       "tenancy (n.)",
+       "租赁（期）",
+       "賃借（期間）"
+      ]
+     ]
+    },
+    {
+     "w": "pertain",
+     "pos": "v.",
+     "ipa": "/pɚˈteɪn/",
+     "zh": "有关；从属（与 to 连用）",
+     "ja": "関係する；関連する（to と共に）",
+     "ex": "Please direct all questions pertaining to the new policy to the Human Resources Department.",
+     "ex_zh": "有关新政策的所有问题，请向人事部咨询。",
+     "ex_ja": "新しい方針に関するご質問は、すべて人事部にお寄せください。",
+     "parts": [
+      [
+       "per-",
+       "贯穿；彻底",
+       "通して；完全に"
+      ],
+      [
+       "tain",
+       "握住；保持",
+       "つかむ；保つ"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 pertinere“一直延伸到 → 关系到”。",
+      "ja": "ラテン語 pertinere「〜にまで及ぶ → 関係する」。"
+     },
+     "forms": [
+      [
+       "pertaining to ~",
+       "关于……",
+       "〜に関する"
+      ],
+      [
+       "pertinent (adj.)",
+       "相关的；切题的",
+       "関連のある；適切な"
+      ],
+      [
+       "pertain to ~",
+       "与……有关",
+       "〜に関係する"
+      ]
+     ],
+     "tip": {
+      "zh": "pertaining to = regarding = concerning = about，Part 5/7 常见同义替换。",
+      "ja": "pertaining to ＝ regarding ＝ concerning ＝ about。Part 5/7 の頻出言い換え。"
+     }
+    },
+    {
+     "w": "continuous",
+     "pos": "adj.",
+     "ipa": "/kənˈtɪnjuəs/",
+     "zh": "连续不断的；持续的",
+     "ja": "連続した；絶え間ない",
+     "ex": "The new battery provides up to ten hours of continuous use.",
+     "ex_zh": "新电池可连续使用长达十小时。",
+     "ex_ja": "新しいバッテリーは最大10時間の連続使用が可能だ。",
+     "parts": [
+      [
+       "con-",
+       "一起；完全",
+       "共に；完全に"
+      ],
+      [
+       "tin",
+       "握住；保持（tenere 的变体）",
+       "保つ（tenere の変化形）"
+      ],
+      [
+       "-uous",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 continuus“连在一起的”，来自 continere“合在一起拿住”。",
+      "ja": "ラテン語 continuus「つながった」は continere「まとめて保つ」から。"
+     },
+     "forms": [
+      [
+       "continue (v.)",
+       "继续",
+       "続ける"
+      ],
+      [
+       "continuously (adv.)",
+       "不断地",
+       "絶え間なく"
+      ],
+      [
+       "continual (adj.)",
+       "频繁反复的",
+       "繰り返し起こる"
+      ]
+     ],
+     "tip": {
+      "zh": "continuous = 中间不停；continual = 断断续续地反复发生。",
+      "ja": "continuous は途切れなく続く、continual は（途切れながら）何度も繰り返す。"
+     }
+    },
+    {
+     "w": "maintain",
+     "pos": "v.",
+     "ipa": "/meɪnˈteɪn/",
+     "zh": "维持；保养；坚持（主张）",
+     "ja": "維持する；保守する；主張する",
+     "ex": "It is important to maintain good relationships with our suppliers.",
+     "ex_zh": "与供应商保持良好关系很重要。",
+     "ex_ja": "仕入れ先と良好な関係を維持することが重要だ。",
+     "parts": [
+      [
+       "main (manus)",
+       "手",
+       "手"
+      ],
+      [
+       "tain",
+       "握住；保持",
+       "つかむ；保つ"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 maintenir，源自拉丁语 manu tenere“用手握住”。",
+      "ja": "古フランス語 maintenir、ラテン語 manu tenere「手で保つ」から。"
+     },
+     "forms": [
+      [
+       "maintenance (n.)",
+       "维护；保养",
+       "保守；メンテナンス"
+      ],
+      [
+       "maintain a balance",
+       "保持平衡",
+       "バランスを保つ"
+      ],
+      [
+       "well-maintained (adj.)",
+       "保养良好的",
+       "手入れの行き届いた"
+      ]
+     ],
+     "tip": {
+      "zh": "拼写陷阱：maintain → maintenance（不是 maintainance）。",
+      "ja": "つづりの罠：maintain → maintenance（maintainance ではない）。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "mit",
+   "title_zh": "词根 -mit- / -miss-：送",
+   "title_ja": "語根 -mit- / -miss-：送る",
+   "words": [
+    {
+     "w": "commitment",
+     "pos": "n.",
+     "ipa": "/kəˈmɪtmənt/",
+     "zh": "承诺；投入；致力",
+     "ja": "約束；献身；（〜への）取り組み",
+     "ex": "Our company has a strong commitment to reducing waste.",
+     "ex_zh": "我们公司致力于减少浪费。",
+     "ex_ja": "当社は廃棄物の削減に強く取り組んでいる。",
+     "parts": [
+      [
+       "com-",
+       "一起；完全",
+       "共に；完全に"
+      ],
+      [
+       "mit",
+       "送",
+       "送る"
+      ],
+      [
+       "-ment",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 committere“放到一起 → 托付”。",
+      "ja": "ラテン語 committere「一緒に送り込む → 委ねる」。"
+     },
+     "forms": [
+      [
+       "be committed to ~ing",
+       "致力于……",
+       "〜に尽力している"
+      ],
+      [
+       "make a commitment",
+       "做出承诺",
+       "約束する"
+      ],
+      [
+       "committee (n.)",
+       "委员会",
+       "委員会"
+      ]
+     ],
+     "tip": {
+      "zh": "commitment to 的 to 是介词，后接名词或 -ing：a commitment to improving quality。",
+      "ja": "commitment to の to は前置詞なので、名詞か -ing が続く：a commitment to improving quality。"
+     }
+    },
+    {
+     "w": "admission",
+     "pos": "n.",
+     "ipa": "/ədˈmɪʃən/",
+     "zh": "入场（费）；准许进入；承认",
+     "ja": "入場（料）；入学；入会；承認",
+     "ex": "Admission to the museum is free on the first Sunday of every month.",
+     "ex_zh": "每月第一个星期日博物馆免费入场。",
+     "ex_ja": "毎月第1日曜日は、博物館の入場が無料になる。",
+     "parts": [
+      [
+       "ad-",
+       "朝向",
+       "〜へ"
+      ],
+      [
+       "miss",
+       "送",
+       "送る"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 admittere“送进去 → 让进入”。",
+      "ja": "ラテン語 admittere「中へ送る → 入れる」。"
+     },
+     "forms": [
+      [
+       "admit (v.)",
+       "允许进入；承认",
+       "入れる；認める"
+      ],
+      [
+       "admission fee",
+       "入场费",
+       "入場料"
+      ],
+      [
+       "free admission",
+       "免费入场",
+       "入場無料"
+      ]
+     ]
+    },
+    {
+     "w": "transmit",
+     "pos": "v.",
+     "ipa": "/trænzˈmɪt/",
+     "zh": "传送；传输；传播",
+     "ja": "送信する；伝送する；伝える",
+     "ex": "The data is transmitted securely to our main server every night.",
+     "ex_zh": "数据每晚都会被安全地传输到我们的主服务器。",
+     "ex_ja": "データは毎晩、安全にメインサーバーへ送信される。",
+     "parts": [
+      [
+       "trans-",
+       "穿过；转移",
+       "越えて；向こうへ"
+      ],
+      [
+       "mit",
+       "送",
+       "送る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 transmittere“送过去”。",
+      "ja": "ラテン語 transmittere「向こうへ送る」。"
+     },
+     "forms": [
+      [
+       "transmission (n.)",
+       "传输；变速器",
+       "送信；伝達；変速機"
+      ],
+      [
+       "transmit A to B",
+       "把 A 传给 B",
+       "A を B に送る"
+      ],
+      [
+       "transmitter (n.)",
+       "发射器",
+       "送信機"
+      ]
+     ]
+    },
+    {
+     "w": "omit",
+     "pos": "v.",
+     "ipa": "/oʊˈmɪt/",
+     "zh": "省略；遗漏",
+     "ja": "省く；省略する；（うっかり）抜かす",
+     "ex": "Some important details were omitted from the final report.",
+     "ex_zh": "最终报告中遗漏了一些重要细节。",
+     "ex_ja": "最終報告書から、いくつかの重要な詳細が抜け落ちていた。",
+     "parts": [
+      [
+       "o(b)-",
+       "离开；朝向",
+       "離れて；〜へ"
+      ],
+      [
+       "mit",
+       "送",
+       "送る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 omittere = ob + mittere“放走、撇下 → 省略”。",
+      "ja": "ラテン語 omittere ＝ ob + mittere「手放す → 省く」。"
+     },
+     "forms": [
+      [
+       "omission (n.)",
+       "省略；遗漏",
+       "省略；脱落"
+      ],
+      [
+       "omit A from B",
+       "从 B 中省略 A",
+       "B から A を省く"
+      ]
+     ],
+     "tip": {
+      "zh": "过去式双写 t：omitted, omitting（重音在第二音节）。",
+      "ja": "過去形は t を重ねる：omitted, omitting（第2音節に強勢）。"
+     }
+    },
+    {
+     "w": "commission",
+     "pos": "n.",
+     "ipa": "/kəˈmɪʃən/",
+     "zh": "佣金；提成；委托",
+     "ja": "手数料；歩合；委託",
+     "ex": "Sales staff receive a 5 percent commission on every contract they close.",
+     "ex_zh": "销售人员每签下一份合同可获得5%的提成。",
+     "ex_ja": "営業担当者は、成約した契約ごとに5％の歩合を受け取る。",
+     "parts": [
+      [
+       "com-",
+       "一起；完全",
+       "共に；完全に"
+      ],
+      [
+       "miss",
+       "送",
+       "送る"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 commissio，来自 committere“托付” → 受托办事 → 办事所得的“佣金”。",
+      "ja": "ラテン語 commissio（committere「委ねる」から）→ 委託 → 委託の報酬「手数料」。"
+     },
+     "forms": [
+      [
+       "on commission",
+       "按提成计酬",
+       "歩合制で"
+      ],
+      [
+       "commission fee",
+       "手续费",
+       "手数料"
+      ],
+      [
+       "commission (v.)",
+       "委托（制作）",
+       "（作品などを）依頼する"
+      ]
+     ]
+    },
+    {
+     "w": "remittance",
+     "pos": "n.",
+     "ipa": "/rɪˈmɪtəns/",
+     "zh": "汇款；汇款额",
+     "ja": "送金；送金額",
+     "ex": "Please include the invoice number with your remittance.",
+     "ex_zh": "汇款时请注明发票号码。",
+     "ex_ja": "ご送金の際は請求書番号を添えてください。",
+     "parts": [
+      [
+       "re-",
+       "向后；回",
+       "後ろへ；元へ"
+      ],
+      [
+       "mit",
+       "送",
+       "送る"
+      ],
+      [
+       "-ance",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "remit 来自拉丁语 remittere“送回”。",
+      "ja": "remit はラテン語 remittere「送り返す」から。"
+     },
+     "forms": [
+      [
+       "remit (v.)",
+       "汇款；免除",
+       "送金する；免除する"
+      ],
+      [
+       "remit payment",
+       "汇出款项",
+       "代金を送金する"
+      ],
+      [
+       "wire transfer",
+       "电汇",
+       "電信送金"
+      ]
+     ]
+    },
+    {
+     "w": "dismiss",
+     "pos": "v.",
+     "ipa": "/dɪsˈmɪs/",
+     "zh": "否决；不予考虑；解雇；让……离开",
+     "ja": "却下する；退ける；解雇する；解散させる",
+     "ex": "The proposal was dismissed because it exceeded the budget.",
+     "ex_zh": "该提案因超出预算而被否决。",
+     "ex_ja": "その提案は予算を超えていたため却下された。",
+     "parts": [
+      [
+       "dis-",
+       "分离；离开",
+       "離れて"
+      ],
+      [
+       "miss",
+       "送",
+       "送る"
+      ]
+     ],
+     "note": {
+      "zh": "中世纪拉丁语 dismissus（拉丁语 dimittere“送走”）。",
+      "ja": "中世ラテン語 dismissus（ラテン語 dimittere「送り出す」）から。"
+     },
+     "forms": [
+      [
+       "dismissal (n.)",
+       "解雇；驳回",
+       "解雇；却下"
+      ],
+      [
+       "dismiss A as B",
+       "认为 A 是 B 而不予理会",
+       "A を B だとして退ける"
+      ],
+      [
+       "unfair dismissal",
+       "不当解雇",
+       "不当解雇"
+      ]
+     ],
+     "tip": {
+      "zh": "“解雇”还可以说 lay off（因经营原因裁员）、fire（口语）。",
+      "ja": "「解雇」は lay off（業績による人員削減）、fire（口語）とも言う。"
+     }
+    },
+    {
+     "w": "emission",
+     "pos": "n.",
+     "ipa": "/ɪˈmɪʃən/",
+     "zh": "排放；排放物",
+     "ja": "排出；排出物",
+     "ex": "The new delivery trucks will cut carbon emissions by 30 percent.",
+     "ex_zh": "新的送货卡车将把碳排放减少30%。",
+     "ex_ja": "新しい配送トラックにより、二酸化炭素の排出量が30％削減される。",
+     "parts": [
+      [
+       "e(x)-",
+       "向外",
+       "外へ"
+      ],
+      [
+       "miss",
+       "送",
+       "送る"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 emittere“送出去 → 排出”。",
+      "ja": "ラテン語 emittere「外へ送り出す → 放出する」。"
+     },
+     "forms": [
+      [
+       "emit (v.)",
+       "排放；发出",
+       "排出する；放つ"
+      ],
+      [
+       "carbon emissions",
+       "碳排放",
+       "二酸化炭素の排出（量）"
+      ],
+      [
+       "emission standards",
+       "排放标准",
+       "排出基準"
+      ]
+     ]
+    },
+    {
+     "w": "promising",
+     "pos": "adj.",
+     "ipa": "/ˈprɑmɪsɪŋ/",
+     "zh": "有前途的；有希望的",
+     "ja": "有望な；見込みのある",
+     "ex": "We received several applications from promising candidates.",
+     "ex_zh": "我们收到了几位很有潜力的候选人的申请。",
+     "ex_ja": "有望な候補者から何件か応募があった。",
+     "parts": [
+      [
+       "pro-",
+       "向前",
+       "前へ"
+      ],
+      [
+       "mis",
+       "送（mittere）",
+       "送る（mittere）"
+      ],
+      [
+       "-ing",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "promise 来自拉丁语 promittere“向前送出 → 预先说出、许诺”；promising“让人看到希望的”。",
+      "ja": "promise はラテン語 promittere「前へ送り出す → 前もって言う・約束する」から。promising は「将来に期待できる」。"
+     },
+     "forms": [
+      [
+       "promise (n./v.)",
+       "承诺；前途",
+       "約束（する）；将来性"
+      ],
+      [
+       "show promise",
+       "显示出潜力",
+       "将来性を示す"
+      ],
+      [
+       "a promising market",
+       "有前景的市场",
+       "有望な市場"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "port",
+   "title_zh": "词根 -port-：搬运",
+   "title_ja": "語根 -port-：運ぶ",
+   "words": [
+    {
+     "w": "portable",
+     "pos": "adj.",
+     "ipa": "/ˈpɔrtəbəl/",
+     "zh": "便携的；可携带的",
+     "ja": "持ち運びできる；携帯用の",
+     "ex": "This portable projector is ideal for presentations outside the office.",
+     "ex_zh": "这台便携式投影仪非常适合在公司外做演示。",
+     "ex_ja": "この携帯用プロジェクターは、社外でのプレゼンに最適だ。",
+     "parts": [
+      [
+       "port",
+       "搬运；携带",
+       "運ぶ"
+      ],
+      [
+       "-able",
+       "能……的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "晚期拉丁语 portabilis，来自 portare“搬运”。",
+      "ja": "後期ラテン語 portabilis（portare「運ぶ」から）。"
+     },
+     "forms": [
+      [
+       "portability (n.)",
+       "便携性",
+       "携帯性"
+      ],
+      [
+       "portable charger",
+       "充电宝；移动电源",
+       "モバイルバッテリー"
+      ],
+      [
+       "carry-on (n.)",
+       "随身行李",
+       "機内持ち込み手荷物"
+      ]
+     ]
+    },
+    {
+     "w": "portfolio",
+     "pos": "n.",
+     "ipa": "/pɔrtˈfoʊliˌoʊ/",
+     "zh": "作品集；投资组合；（产品）组合",
+     "ja": "作品集；ポートフォリオ；（製品・事業の）一覧",
+     "ex": "Applicants for the designer position should submit a portfolio of their work.",
+     "ex_zh": "应聘设计师职位的人应提交个人作品集。",
+     "ex_ja": "デザイナー職の応募者は、作品集を提出してください。",
+     "parts": [
+      [
+       "port(a)",
+       "携带",
+       "運ぶ"
+      ],
+      [
+       "folio",
+       "纸张（folium 叶）",
+       "紙（folium＝葉）"
+      ]
+     ],
+     "note": {
+      "zh": "意大利语 portafoglio = portare“携带” + foglio“纸张”，原指“装文件的夹子”。",
+      "ja": "イタリア語 portafoglio ＝ portare「運ぶ」＋ foglio「紙」。元は「書類入れ」。"
+     },
+     "forms": [
+      [
+       "investment portfolio",
+       "投资组合",
+       "投資ポートフォリオ"
+      ],
+      [
+       "product portfolio",
+       "产品组合",
+       "製品群"
+      ],
+      [
+       "online portfolio",
+       "在线作品集",
+       "オンライン作品集"
+      ]
+     ]
+    },
+    {
+     "w": "porter",
+     "pos": "n.",
+     "ipa": "/ˈpɔrtɚ/",
+     "zh": "搬运工；（酒店、车站的）行李员",
+     "ja": "ポーター；（ホテル・駅の）荷物係",
+     "ex": "A porter will carry your luggage up to your room.",
+     "ex_zh": "行李员会把您的行李送到房间。",
+     "ex_ja": "ポーターがお部屋までお荷物をお運びします。",
+     "parts": [
+      [
+       "port",
+       "搬运；携带",
+       "運ぶ"
+      ],
+      [
+       "-er",
+       "表示“人/物”",
+       "〜する人・物"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 porteour < 晚期拉丁语 portator“搬运者”。※ 英式英语里“门卫”义的 porter 来自 porta（门），是另一个词源。",
+      "ja": "古フランス語 porteour < 後期ラテン語 portator「運ぶ人」。※イギリス英語の「門番」の porter は porta（門）由来で別語源。"
+     },
+     "forms": [
+      [
+       "bellhop (n.)",
+       "（美）酒店行李员",
+       "ベルボーイ"
+      ],
+      [
+       "luggage cart",
+       "行李推车",
+       "荷物用カート"
+      ],
+      [
+       "carry (v.)",
+       "搬运",
+       "運ぶ"
+      ]
+     ]
+    },
+    {
+     "w": "exporter",
+     "pos": "n.",
+     "ipa": "/ɪkˈspɔrtɚ/",
+     "zh": "出口商；出口国",
+     "ja": "輸出業者；輸出国",
+     "ex": "Japan is one of the world's largest exporters of automobiles.",
+     "ex_zh": "日本是世界上最大的汽车出口国之一。",
+     "ex_ja": "日本は世界有数の自動車輸出国だ。",
+     "parts": [
+      [
+       "ex-",
+       "向外",
+       "外へ"
+      ],
+      [
+       "port",
+       "搬运；携带",
+       "運ぶ"
+      ],
+      [
+       "-er",
+       "表示“人/物”",
+       "〜する人・物"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 exportare“运出去”。",
+      "ja": "ラテン語 exportare「外へ運び出す」。"
+     },
+     "forms": [
+      [
+       "export (n.) /ˈɛkspɔrt/",
+       "出口（商品）",
+       "輸出（品）"
+      ],
+      [
+       "export (v.) /ɪkˈspɔrt/",
+       "出口",
+       "輸出する"
+      ],
+      [
+       "importer (n.)",
+       "进口商",
+       "輸入業者"
+      ]
+     ],
+     "tip": {
+      "zh": "export / import 名词重音在前（ˈEXport），动词重音在后（exˈPORT）。",
+      "ja": "export / import は名詞なら前（ˈEXport）、動詞なら後ろ（exˈPORT）に強勢。"
+     }
+    },
+    {
+     "w": "transportation",
+     "pos": "n.",
+     "ipa": "/ˌtrænspɚˈteɪʃən/",
+     "zh": "交通运输；交通工具",
+     "ja": "交通機関；輸送",
+     "ex": "The hotel offers free transportation to and from the airport.",
+     "ex_zh": "酒店提供往返机场的免费接送。",
+     "ex_ja": "ホテルは空港との無料送迎を提供している。",
+     "parts": [
+      [
+       "trans-",
+       "穿过；转移",
+       "越えて；向こうへ"
+      ],
+      [
+       "port",
+       "搬运；携带",
+       "運ぶ"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 transportare“运过去”。",
+      "ja": "ラテン語 transportare「向こうへ運ぶ」。"
+     },
+     "forms": [
+      [
+       "public transportation",
+       "公共交通",
+       "公共交通機関"
+      ],
+      [
+       "transport (v.)",
+       "运输",
+       "輸送する"
+      ],
+      [
+       "transportation costs",
+       "运输费",
+       "輸送費"
+      ]
+     ]
+    },
+    {
+     "w": "reportedly",
+     "pos": "adv.",
+     "ipa": "/rɪˈpɔrtɪdli/",
+     "zh": "据报道；据说",
+     "ja": "伝えられるところによると；報道によれば",
+     "ex": "The company is reportedly planning to open a new branch in Osaka.",
+     "ex_zh": "据报道，该公司正计划在大阪开设新分店。",
+     "ex_ja": "報道によると、その会社は大阪に新しい支店を開設する計画だという。",
+     "parts": [
+      [
+       "re-",
+       "向后；回",
+       "後ろへ；元へ"
+      ],
+      [
+       "port",
+       "搬运；携带",
+       "運ぶ"
+      ],
+      [
+       "-ed",
+       "过去分词",
+       "過去分詞"
+      ],
+      [
+       "-ly",
+       "副词后缀",
+       "副詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "report 来自拉丁语 reportare“带回（消息）”。",
+      "ja": "report はラテン語 reportare「（知らせを）持ち帰る」から。"
+     },
+     "forms": [
+      [
+       "be reported to do",
+       "据说……",
+       "〜すると報じられている"
+      ],
+      [
+       "report (v./n.)",
+       "报告；报道",
+       "報告（する）；報道"
+      ],
+      [
+       "reporter (n.)",
+       "记者",
+       "記者"
+      ]
+     ]
+    },
+    {
+     "w": "rapport",
+     "pos": "n.",
+     "ipa": "/ræˈpɔr/",
+     "zh": "融洽关系；信任感",
+     "ja": "信頼関係；打ち解けた関係",
+     "ex": "Good salespeople build rapport with their clients quickly.",
+     "ex_zh": "优秀的销售员能很快和客户建立融洽的关系。",
+     "ex_ja": "優秀な営業担当者は、顧客とすぐに信頼関係を築く。",
+     "parts": [
+      [
+       "r(e)-",
+       "回",
+       "元へ"
+      ],
+      [
+       "ap- (ad-)",
+       "朝向",
+       "〜へ"
+      ],
+      [
+       "port",
+       "搬运；携带",
+       "運ぶ"
+      ]
+     ],
+     "note": {
+      "zh": "法语 rapport，来自 rapporter“带回 → 联系、关系”。",
+      "ja": "フランス語 rapport（rapporter「持ち帰る」→「関係」）から。"
+     },
+     "forms": [
+      [
+       "build rapport with ~",
+       "与……建立融洽关系",
+       "〜と信頼関係を築く"
+      ],
+      [
+       "good rapport",
+       "良好关系",
+       "良好な関係"
+      ]
+     ],
+     "tip": {
+      "zh": "发音 /ræˈpɔr/，结尾的 t 不发音（法语来源）。",
+      "ja": "発音は /ræˈpɔr/。語末の t は発音しない（フランス語由来）。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "contract",
+   "title_zh": "主题：合同与协议",
+   "title_ja": "テーマ：契約と合意",
+   "words": [
+    {
+     "w": "negotiate",
+     "pos": "v.",
+     "ipa": "/nɪˈɡoʊʃiˌeɪt/",
+     "zh": "谈判；协商",
+     "ja": "交渉する；（交渉して）取り決める",
+     "ex": "We negotiated a lower price with the supplier for bulk orders.",
+     "ex_zh": "我们与供应商谈判，为大宗订单争取到了更低的价格。",
+     "ex_ja": "大量注文について、仕入れ先と交渉してより安い価格を取り決めた。",
+     "parts": [
+      [
+       "neg-",
+       "否定（不）",
+       "否定（〜でない）"
+      ],
+      [
+       "oti",
+       "空闲（otium）",
+       "暇（otium）"
+      ],
+      [
+       "-ate",
+       "动词后缀",
+       "動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 negotium“不闲着 → 事务、生意” → negotiari“做生意”。",
+      "ja": "ラテン語 negotium「暇でないこと → 仕事・商売」→ negotiari「商売をする」。"
+     },
+     "forms": [
+      [
+       "negotiation (n.)",
+       "谈判",
+       "交渉"
+      ],
+      [
+       "negotiate a contract",
+       "谈合同",
+       "契約を交渉する"
+      ],
+      [
+       "negotiable (adj.)",
+       "可协商的",
+       "交渉の余地がある"
+      ]
+     ],
+     "tip": {
+      "zh": "招聘广告常见：Salary is negotiable.（薪资面议。）",
+      "ja": "求人広告の定番：Salary is negotiable.（給与は応相談。）"
+     }
+    },
+    {
+     "w": "renewal",
+     "pos": "n.",
+     "ipa": "/rɪˈnuəl/",
+     "zh": "续约；更新",
+     "ja": "更新；（契約の）延長",
+     "ex": "Your contract is up for renewal at the end of March.",
+     "ex_zh": "你的合同将于三月底到期，需要续签。",
+     "ex_ja": "あなたの契約は3月末に更新時期を迎える。",
+     "parts": [
+      [
+       "re-",
+       "再；重新",
+       "再び"
+      ],
+      [
+       "new",
+       "新的（英语本族词）",
+       "新しい（英語本来の語）"
+      ],
+      [
+       "-al",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁前缀 re- + 英语本族词 new 组成的混合词。",
+      "ja": "ラテン語系の接頭辞 re- と英語本来の new が組み合わさった語。"
+     },
+     "forms": [
+      [
+       "renew (v.)",
+       "续订；更新",
+       "更新する"
+      ],
+      [
+       "renewal fee",
+       "续约费",
+       "更新料"
+      ],
+      [
+       "renew a subscription",
+       "续订",
+       "定期購読を更新する"
+      ]
+     ]
+    },
+    {
+     "w": "expire",
+     "pos": "v.",
+     "ipa": "/ɪkˈspaɪɚ/",
+     "zh": "到期；失效",
+     "ja": "期限が切れる；失効する",
+     "ex": "My passport expires next month, so I need to renew it before the business trip.",
+     "ex_zh": "我的护照下个月到期，所以出差前得去更新。",
+     "ex_ja": "パスポートが来月で期限切れになるので、出張前に更新しなければならない。",
+     "parts": [
+      [
+       "ex-",
+       "向外",
+       "外へ"
+      ],
+      [
+       "(s)pire",
+       "呼吸（spirare）",
+       "息をする（spirare）"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 exspirare“呼出（最后一口气）” → 终止 → 到期。",
+      "ja": "ラテン語 exspirare「息を吐き出す（息絶える）」→ 終わる →「期限が切れる」。"
+     },
+     "forms": [
+      [
+       "expiration date",
+       "有效期；截止日期",
+       "有効期限"
+      ],
+      [
+       "expiry (n.)",
+       "（英）到期",
+       "（英）満了"
+      ],
+      [
+       "expired (adj.)",
+       "过期的",
+       "期限切れの"
+      ]
+     ]
+    },
+    {
+     "w": "terminate",
+     "pos": "v.",
+     "ipa": "/ˈtɝməˌneɪt/",
+     "zh": "终止；结束",
+     "ja": "終了させる；（契約を）解除する",
+     "ex": "Either party may terminate the agreement with 30 days' written notice.",
+     "ex_zh": "任何一方提前30天书面通知即可终止本协议。",
+     "ex_ja": "いずれの当事者も、30日前に書面で通知すれば本契約を解除できる。",
+     "parts": [
+      [
+       "termin",
+       "界限；终点（terminus）",
+       "境界；終点（terminus）"
+      ],
+      [
+       "-ate",
+       "动词后缀",
+       "動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 terminus“界石、终点” → terminare“划定界限、结束”。",
+      "ja": "ラテン語 terminus「境界石・終点」→ terminare「区切る・終える」。"
+     },
+     "forms": [
+      [
+       "termination (n.)",
+       "终止；解约",
+       "終了；解約"
+      ],
+      [
+       "terminate a contract",
+       "终止合同",
+       "契約を解除する"
+      ],
+      [
+       "terminal (n./adj.)",
+       "航站楼；末端的",
+       "ターミナル；末端の"
+      ]
+     ]
+    },
+    {
+     "w": "binding",
+     "pos": "adj.",
+     "ipa": "/ˈbaɪndɪŋ/",
+     "zh": "有约束力的",
+     "ja": "拘束力のある",
+     "ex": "Once both sides sign, the agreement becomes legally binding.",
+     "ex_zh": "一旦双方签字，该协议就具有法律约束力。",
+     "ex_ja": "双方が署名すれば、その合意は法的拘束力を持つ。",
+     "parts": [
+      [
+       "bind",
+       "捆绑",
+       "縛る"
+      ],
+      [
+       "-ing",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "bind 是英语本族词（古英语 bindan），没有拉丁词根可拆。",
+      "ja": "bind は英語本来の語（古英語 bindan）で、ラテン語の語根はない。"
+     },
+     "forms": [
+      [
+       "legally binding",
+       "有法律约束力的",
+       "法的拘束力のある"
+      ],
+      [
+       "non-binding (adj.)",
+       "无约束力的",
+       "拘束力のない"
+      ],
+      [
+       "bind (v.)",
+       "约束；装订",
+       "拘束する；製本する"
+      ]
+     ]
+    },
+    {
+     "w": "clause",
+     "pos": "n.",
+     "ipa": "/klɔz/",
+     "zh": "（合同、法律的）条款",
+     "ja": "（契約・法律の）条項",
+     "ex": "Please read the cancellation clause carefully before signing.",
+     "ex_zh": "签字前请仔细阅读取消条款。",
+     "ex_ja": "署名する前に、解約条項をよくお読みください。",
+     "parts": [
+      [
+       "claus",
+       "关闭（claudere）",
+       "閉じる（claudere）"
+      ]
+     ],
+     "note": {
+      "zh": "中世纪拉丁语 clausa“（一段文字的）结尾”，来自 claudere“关闭”；close 同源。",
+      "ja": "中世ラテン語 clausa「（文の）区切り」、claudere「閉じる」から。close と同語源。"
+     },
+     "forms": [
+      [
+       "cancellation clause",
+       "解约条款",
+       "解約条項"
+      ],
+      [
+       "confidentiality clause",
+       "保密条款",
+       "守秘義務条項"
+      ],
+      [
+       "include a clause",
+       "加入条款",
+       "条項を盛り込む"
+      ]
+     ]
+    },
+    {
+     "w": "amendment",
+     "pos": "n.",
+     "ipa": "/əˈmɛndmənt/",
+     "zh": "修改；修正（案）",
+     "ja": "修正；改正",
+     "ex": "The lawyer suggested several amendments to the draft contract.",
+     "ex_zh": "律师对合同草案提出了几处修改意见。",
+     "ex_ja": "弁護士は契約書の草案にいくつかの修正を提案した。",
+     "parts": [
+      [
+       "a- (ex-)",
+       "去除",
+       "取り除く"
+      ],
+      [
+       "mend",
+       "缺陷（menda）",
+       "欠点（menda）"
+      ],
+      [
+       "-ment",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 emendare = ex（去除）+ menda（错误）→“改正错误”，经古法语 amender 变成 a-。",
+      "ja": "ラテン語 emendare ＝ ex（取り除く）＋ menda（誤り）→「誤りを正す」。古フランス語 amender を経て a- になった。"
+     },
+     "forms": [
+      [
+       "amend (v.)",
+       "修改",
+       "修正する"
+      ],
+      [
+       "make an amendment",
+       "做出修改",
+       "修正を加える"
+      ],
+      [
+       "amendment to ~",
+       "对……的修改",
+       "〜の修正"
+      ]
+     ]
+    },
+    {
+     "w": "stipulate",
+     "pos": "v.",
+     "ipa": "/ˈstɪpjəˌleɪt/",
+     "zh": "（合同）规定；约定",
+     "ja": "（契約で）規定する；明記する",
+     "ex": "The contract stipulates that payment must be made within 30 days of delivery.",
+     "ex_zh": "合同规定必须在交货后30天内付款。",
+     "ex_ja": "契約では、納品後30日以内に支払うことが規定されている。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：来自拉丁语 stipulari“订约”，其词源不明（与 stipula“稻草”有关的说法证据不足），建议整体记忆。",
+      "ja": "信頼できる語根分解はない。ラテン語 stipulari「契約を結ぶ」から来ているが、語源は不明（stipula「わら」説は根拠が弱い）。丸ごと覚えよう。"
+     },
+     "forms": [
+      [
+       "stipulation (n.)",
+       "规定；条件",
+       "規定；条件"
+      ],
+      [
+       "stipulate that ~",
+       "规定……",
+       "〜と規定する"
+      ],
+      [
+       "as stipulated in ~",
+       "按……的规定",
+       "〜に定められたとおり"
+      ]
+     ],
+     "tip": {
+      "zh": "同义替换：stipulate ≈ specify ≈ state（合同中的“规定”）。",
+      "ja": "言い換え：stipulate ≈ specify ≈ state（契約で「定める」）。"
+     }
+    },
+    {
+     "w": "obligation",
+     "pos": "n.",
+     "ipa": "/ˌɑbləˈɡeɪʃən/",
+     "zh": "义务；责任",
+     "ja": "義務；責任",
+     "ex": "There is no obligation to purchase anything during the free trial.",
+     "ex_zh": "免费试用期间没有任何购买义务。",
+     "ex_ja": "無料お試し期間中に購入する義務は一切ない。",
+     "parts": [
+      [
+       "ob-",
+       "朝向",
+       "〜に向かって"
+      ],
+      [
+       "lig",
+       "捆绑（ligare）",
+       "縛る（ligare）"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 obligare“绑住 → 使负有义务”。",
+      "ja": "ラテン語 obligare「縛りつける → 義務を負わせる」。"
+     },
+     "forms": [
+      [
+       "oblige (v.)",
+       "迫使；使负有义务",
+       "義務を負わせる"
+      ],
+      [
+       "be obligated to do",
+       "有义务做……",
+       "〜する義務がある"
+      ],
+      [
+       "without obligation",
+       "无义务；不强制",
+       "義務なしで"
+      ]
+     ],
+     "tip": {
+      "zh": "广告常见：free estimate with no obligation（免费估价，不强制购买）。",
+      "ja": "広告の定番：free estimate with no obligation（無料見積もり、購入義務なし）。"
+     }
+    },
+    {
+     "w": "liable",
+     "pos": "adj.",
+     "ipa": "/ˈlaɪəbəl/",
+     "zh": "负有（法律）责任的；易于……的",
+     "ja": "（法的）責任がある；〜しがちな",
+     "ex": "The company is not liable for any loss or damage to personal belongings.",
+     "ex_zh": "本公司对个人物品的任何遗失或损坏概不负责。",
+     "ex_ja": "当社は私物の紛失や破損について一切責任を負いません。",
+     "parts": [
+      [
+       "li",
+       "捆绑（古法语 lier < ligare）",
+       "縛る（古フランス語 lier < ligare）"
+      ],
+      [
+       "-able",
+       "能……的；易于……的",
+       "〜できる；〜しやすい"
+      ]
+     ],
+     "note": {
+      "zh": "多半来自盎格鲁-法语，古法语 lier“捆绑”（拉丁语 ligare），与 obligation 同源。",
+      "ja": "おそらくアングロ・フランス語から。古フランス語 lier「縛る」（ラテン語 ligare）で、obligation と同語源。"
+     },
+     "forms": [
+      [
+       "liability (n.)",
+       "责任；负债",
+       "責任；負債"
+      ],
+      [
+       "be liable for ~",
+       "对……负责",
+       "〜の責任を負う"
+      ],
+      [
+       "be liable to do",
+       "容易……；可能……",
+       "〜しがちである"
+      ]
+     ],
+     "tip": {
+      "zh": "be liable for（承担责任）vs. be liable to do（容易……）：Prices are liable to change.（价格可能变动。）",
+      "ja": "be liable for（責任を負う）と be liable to do（〜しがち）：Prices are liable to change.（価格は変更されることがあります。）"
+     }
+    },
+    {
+     "w": "draft",
+     "pos": "n./v.",
+     "ipa": "/dræft/",
+     "zh": "草稿；起草",
+     "ja": "草案；下書き；起草する",
+     "ex": "Could you send me the first draft of the proposal by Wednesday?",
+     "ex_zh": "你能在周三之前把提案的初稿发给我吗？",
+     "ex_ja": "水曜日までに企画書の初稿を送っていただけますか。",
+     "parts": [],
+     "note": {
+      "zh": "没有拉丁词根可拆：英语本族词，是 draught 的另一种拼法，与古英语 dragan“拉、拖”有关。",
+      "ja": "ラテン語の語根はない。英語本来の語で draught の別つづり、古英語 dragan「引く」に関連。"
+     },
+     "forms": [
+      [
+       "rough draft",
+       "草稿",
+       "下書き"
+      ],
+      [
+       "draft a contract",
+       "起草合同",
+       "契約書を起草する"
+      ],
+      [
+       "final draft",
+       "定稿",
+       "最終稿"
+      ]
+     ]
+    },
+    {
+     "w": "confidential",
+     "pos": "adj.",
+     "ipa": "/ˌkɑnfəˈdɛnʃəl/",
+     "zh": "机密的；保密的",
+     "ja": "機密の；内密の",
+     "ex": "All personal information you provide will be kept strictly confidential.",
+     "ex_zh": "您提供的所有个人信息都将被严格保密。",
+     "ex_ja": "ご提供いただいた個人情報は、すべて厳重に機密として扱われます。",
+     "parts": [
+      [
+       "con-",
+       "完全（加强语气）",
+       "完全に（強意）"
+      ],
+      [
+       "fid",
+       "信任（fidere）",
+       "信じる（fidere）"
+      ],
+      [
+       "-ential",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 confidere“完全信任”；confidential“只告诉可信任之人的”。",
+      "ja": "ラテン語 confidere「完全に信頼する」。confidential は「信頼できる人にだけ伝える」。"
+     },
+     "forms": [
+      [
+       "confidentiality (n.)",
+       "机密性；保密",
+       "機密性；守秘"
+      ],
+      [
+       "confidential documents",
+       "机密文件",
+       "機密書類"
+      ],
+      [
+       "confident (adj.)",
+       "自信的（同源）",
+       "自信のある（同語源）"
+      ]
+     ]
+    },
+    {
+     "w": "tentative",
+     "pos": "adj.",
+     "ipa": "/ˈtɛntətɪv/",
+     "zh": "暂定的；试探性的",
+     "ja": "仮の；暫定的な",
+     "ex": "We have set a tentative date of June 10 for the product launch.",
+     "ex_zh": "我们把产品发布的日期暂定为6月10日。",
+     "ex_ja": "製品発表の日程を、仮に6月10日とした。",
+     "parts": [
+      [
+       "tent",
+       "尝试（tentare）",
+       "試みる（tentare）"
+      ],
+      [
+       "-ative",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "来自拉丁语 tentare“尝试”。注意：不属于 -tain- / -ten-（握住）词根！",
+      "ja": "ラテン語 tentare「試みる」から。-tain- / -ten-（保つ）の語根ではないので注意！"
+     },
+     "forms": [
+      [
+       "tentatively (adv.)",
+       "暂定地",
+       "仮に"
+      ],
+      [
+       "tentative schedule",
+       "暂定日程",
+       "仮の日程"
+      ],
+      [
+       "tentative agreement",
+       "初步协议",
+       "暫定合意"
+      ]
+     ],
+     "tip": {
+      "zh": "tentatively scheduled = 暂定（还可能变）。Part 7 常问“什么是暂定的”。",
+      "ja": "tentatively scheduled ＝仮決定（変更の可能性あり）。Part 7 でよく問われる。"
+     }
+    },
+    {
+     "w": "valid",
+     "pos": "adj.",
+     "ipa": "/ˈvælɪd/",
+     "zh": "有效的；合理的",
+     "ja": "有効な；妥当な",
+     "ex": "This ticket is valid for one year from the date of purchase.",
+     "ex_zh": "本票自购买之日起一年内有效。",
+     "ex_ja": "このチケットは購入日から1年間有効です。",
+     "parts": [
+      [
+       "val",
+       "强；有价值（valere）",
+       "強い；価値がある（valere）"
+      ],
+      [
+       "-id",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 validus“强有力的”，来自 valere“强、有价值”（value 同源）。",
+      "ja": "ラテン語 validus「強い」、valere「強い・価値がある」から（value と同語源）。"
+     },
+     "forms": [
+      [
+       "validity (n.)",
+       "有效性",
+       "有効性"
+      ],
+      [
+       "invalid (adj.)",
+       "无效的",
+       "無効な"
+      ],
+      [
+       "validate (v.)",
+       "使生效；验证",
+       "有効にする；検証する"
+      ]
+     ],
+     "tip": {
+      "zh": "valid for + 期间 / valid until + 时间点。",
+      "ja": "valid for ＋期間／valid until ＋時点。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "office",
+   "title_zh": "主题：办公沟通与会议",
+   "title_ja": "テーマ：社内連絡と会議",
+   "words": [
+    {
+     "w": "memorandum",
+     "pos": "n.",
+     "ipa": "/ˌmɛməˈrændəm/",
+     "zh": "（公司内部）备忘录；通知",
+     "ja": "社内連絡；覚え書き；メモ",
+     "ex": "According to the memorandum, the office will be closed on Monday.",
+     "ex_zh": "根据备忘录，办公室周一不开放。",
+     "ex_ja": "社内連絡によると、オフィスは月曜日は閉まるそうだ。",
+     "parts": [
+      [
+       "memor",
+       "记得（memor）",
+       "覚えている（memor）"
+      ],
+      [
+       "-andum",
+       "“应被……的”（拉丁语动形词）",
+       "「〜されるべきもの」（ラテン語の動形容詞）"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 memorandum“应被记住的事”。常缩写为 memo，复数 memoranda / memorandums。",
+      "ja": "ラテン語 memorandum「覚えておくべきこと」。略して memo、複数形は memoranda / memorandums。"
+     },
+     "forms": [
+      [
+       "memo (n.)",
+       "备忘录（缩写）",
+       "社内文書；メモ"
+      ],
+      [
+       "memorandum of understanding",
+       "谅解备忘录",
+       "覚書（MOU）"
+      ],
+      [
+       "memorize (v.)",
+       "记住（同源）",
+       "暗記する（同語源）"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7 文体：memo 是公司内部通知，开头常有 To / From / Date / Subject。",
+      "ja": "Part 7 の文書形式：memo は社内文書で、冒頭に To / From / Date / Subject がある。"
+     }
+    },
+    {
+     "w": "correspondence",
+     "pos": "n.",
+     "ipa": "/ˌkɔrəˈspɑndəns/",
+     "zh": "信件往来；通信；一致",
+     "ja": "通信；文書のやり取り；一致",
+     "ex": "Please keep copies of all correspondence with the client.",
+     "ex_zh": "请保留与该客户往来的所有信件副本。",
+     "ex_ja": "その顧客とのやり取りの文書は、すべて控えを保管してください。",
+     "parts": [
+      [
+       "cor- (com-)",
+       "一起；相互",
+       "共に；互いに"
+      ],
+      [
+       "respond",
+       "回应",
+       "応答する"
+      ],
+      [
+       "-ence",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "中世纪拉丁语 correspondere“相互回应 → 相符；通信”。",
+      "ja": "中世ラテン語 correspondere「互いに応じる → 一致する；文通する」。"
+     },
+     "forms": [
+      [
+       "correspond with ~",
+       "与……通信",
+       "〜とやり取りする"
+      ],
+      [
+       "correspond to ~",
+       "相当于……；与……一致",
+       "〜に相当する；一致する"
+      ],
+      [
+       "correspondent (n.)",
+       "通讯记者",
+       "特派員"
+      ]
+     ]
+    },
+    {
+     "w": "inquiry",
+     "pos": "n.",
+     "ipa": "/ɪnˈkwaɪri, ˈɪnkwəri/",
+     "zh": "询问；咨询；调查",
+     "ja": "問い合わせ；照会；調査",
+     "ex": "Thank you for your inquiry about our corporate rates.",
+     "ex_zh": "感谢您咨询我们的企业价格。",
+     "ex_ja": "法人料金についてのお問い合わせ、ありがとうございます。",
+     "parts": [
+      [
+       "in-",
+       "向内",
+       "中へ"
+      ],
+      [
+       "quir",
+       "寻求（quaerere）",
+       "求める（quaerere）"
+      ],
+      [
+       "-y",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 inquirere“探求”（quaerere“寻找”；question、request 同源）。",
+      "ja": "ラテン語 inquirere「探り求める」（quaerere「探す」。question、request と同語源）。"
+     },
+     "forms": [
+      [
+       "inquire (v.)",
+       "询问",
+       "尋ねる"
+      ],
+      [
+       "inquire about ~",
+       "询问……",
+       "〜について問い合わせる"
+      ],
+      [
+       "make an inquiry",
+       "进行询问",
+       "問い合わせる"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7 常见：What is the purpose of the e-mail? → To respond to an inquiry（回复询问）。英式拼写为 enquiry。",
+      "ja": "Part 7 の頻出：メールの目的は？→ To respond to an inquiry（問い合わせへの返答）。イギリス式つづりは enquiry。"
+     }
+    },
+    {
+     "w": "acknowledge",
+     "pos": "v.",
+     "ipa": "/əkˈnɑlɪdʒ/",
+     "zh": "确认收到；承认；致谢",
+     "ja": "受け取りを知らせる；認める；謝意を表す",
+     "ex": "Please acknowledge receipt of this e-mail by replying to it.",
+     "ex_zh": "请回复此邮件以确认收到。",
+     "ex_ja": "このメールを受け取ったことを、返信でお知らせください。",
+     "parts": [],
+     "note": {
+      "zh": "没有拉丁词根可拆：英语本族词，由 a- + knowledge（中古英语 knowlechen“承认”）构成。",
+      "ja": "ラテン語の語根はない。英語本来の語で、a- ＋ knowledge（中英語 knowlechen「認める」）から。"
+     },
+     "forms": [
+      [
+       "acknowledgment (n.)",
+       "确认（函）；致谢",
+       "受領通知；謝辞"
+      ],
+      [
+       "acknowledge receipt of ~",
+       "确认收到……",
+       "〜の受領を確認する"
+      ],
+      [
+       "acknowledge (that) ~",
+       "承认……",
+       "〜を認める"
+      ]
+     ]
+    },
+    {
+     "w": "clarify",
+     "pos": "v.",
+     "ipa": "/ˈklɛrəˌfaɪ/",
+     "zh": "澄清；阐明",
+     "ja": "明確にする；はっきりさせる",
+     "ex": "Could you clarify the deadline for the budget report?",
+     "ex_zh": "你能明确一下预算报告的截止日期吗？",
+     "ex_ja": "予算報告書の締め切りをはっきりさせていただけますか。",
+     "parts": [
+      [
+       "clar",
+       "清楚的；明亮的（clarus）",
+       "明るい；はっきりした（clarus）"
+      ],
+      [
+       "-ify",
+       "使……化",
+       "〜にする"
+      ]
+     ],
+     "note": {
+      "zh": "晚期拉丁语 clarificare = clarus“清楚的” + facere“做”。",
+      "ja": "後期ラテン語 clarificare ＝ clarus「明るい」＋ facere「する」。"
+     },
+     "forms": [
+      [
+       "clarification (n.)",
+       "澄清；说明",
+       "説明；明確化"
+      ],
+      [
+       "ask for clarification",
+       "要求说明",
+       "説明を求める"
+      ],
+      [
+       "clear (adj.)",
+       "清楚的（同源）",
+       "はっきりした（同語源）"
+      ]
+     ]
+    },
+    {
+     "w": "circulate",
+     "pos": "v.",
+     "ipa": "/ˈsɝkjəˌleɪt/",
+     "zh": "传阅；分发；流通",
+     "ja": "回覧する；配布する；流通する",
+     "ex": "I'll circulate the meeting notes to everyone this afternoon.",
+     "ex_zh": "我今天下午会把会议笔记发给大家传阅。",
+     "ex_ja": "今日の午後、会議のメモを全員に回覧します。",
+     "parts": [
+      [
+       "circul",
+       "圆圈（circulus 小圆环）",
+       "円（circulus＝小さな輪）"
+      ],
+      [
+       "-ate",
+       "动词后缀",
+       "動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 circulari“围成圈 → 绕圈流动”。",
+      "ja": "ラテン語 circulari「輪になる → 巡る」。"
+     },
+     "forms": [
+      [
+       "circulation (n.)",
+       "流通；发行量",
+       "流通；発行部数"
+      ],
+      [
+       "circular (adj./n.)",
+       "圆形的；传单",
+       "円形の；回覧状"
+      ],
+      [
+       "circulate a memo",
+       "传阅备忘录",
+       "社内文書を回覧する"
+      ]
+     ]
+    },
+    {
+     "w": "convene",
+     "pos": "v.",
+     "ipa": "/kənˈvin/",
+     "zh": "召集；召开（会议）",
+     "ja": "（会議を）招集する；開く",
+     "ex": "The board of directors will convene next Tuesday to approve the budget.",
+     "ex_zh": "董事会将于下周二召开会议批准预算。",
+     "ex_ja": "取締役会は来週火曜日に開かれ、予算を承認する予定だ。",
+     "parts": [
+      [
+       "con-",
+       "一起；完全",
+       "共に；完全に"
+      ],
+      [
+       "ven",
+       "来（venire）",
+       "来る（venire）"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 convenire“聚到一起来”。",
+      "ja": "ラテン語 convenire「一緒に来る → 集まる」。"
+     },
+     "forms": [
+      [
+       "convention (n.)",
+       "大会；惯例",
+       "大会；慣習"
+      ],
+      [
+       "convene a meeting",
+       "召开会议",
+       "会議を招集する"
+      ],
+      [
+       "convenient (adj.)",
+       "方便的（同源）",
+       "便利な（同語源）"
+      ]
+     ]
+    },
+    {
+     "w": "adjourn",
+     "pos": "v.",
+     "ipa": "/əˈdʒɝn/",
+     "zh": "休会；（会议）暂停、延期",
+     "ja": "休会する；（会議を）中断・延期する",
+     "ex": "The meeting was adjourned until Friday because several managers were absent.",
+     "ex_zh": "由于几位经理缺席，会议休会至周五。",
+     "ex_ja": "数名のマネージャーが欠席したため、会議は金曜日まで延期された。",
+     "parts": [
+      [
+       "ad-",
+       "朝向",
+       "〜へ"
+      ],
+      [
+       "journ",
+       "日（diurnum）",
+       "日（diurnum）"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 ajorner“定下（另一个）日子”，jorn“日”来自拉丁语 diurnum（journal、journey 同源）。",
+      "ja": "古フランス語 ajorner「（別の）日を定める」。jorn「日」はラテン語 diurnum から（journal、journey と同語源）。"
+     },
+     "forms": [
+      [
+       "adjournment (n.)",
+       "休会；延期",
+       "休会；延期"
+      ],
+      [
+       "adjourn a meeting",
+       "宣布休会",
+       "会議を休会にする"
+      ],
+      [
+       "journal (n.)",
+       "日志；期刊（同源）",
+       "日誌；専門誌（同語源）"
+      ]
+     ]
+    },
+    {
+     "w": "preliminary",
+     "pos": "adj.",
+     "ipa": "/prɪˈlɪməˌnɛri/",
+     "zh": "初步的；预备的",
+     "ja": "予備的な；準備の；最初の",
+     "ex": "The preliminary results of the survey will be shared at the next meeting.",
+     "ex_zh": "调查的初步结果将在下次会议上公布。",
+     "ex_ja": "調査の初期結果は、次回の会議で共有される。",
+     "parts": [
+      [
+       "pre-",
+       "在前",
+       "前に"
+      ],
+      [
+       "limin",
+       "门槛（limen）",
+       "敷居（limen）"
+      ],
+      [
+       "-ary",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "近代拉丁语 praeliminaris：prae“之前” + limen“门槛” → 跨进门槛之前的。",
+      "ja": "近代ラテン語 praeliminaris：prae「前」＋ limen「敷居」→ 敷居をまたぐ前の。"
+     },
+     "forms": [
+      [
+       "preliminary interview",
+       "初试；初步面试",
+       "一次面接"
+      ],
+      [
+       "preliminary draft",
+       "初稿",
+       "予備草案"
+      ],
+      [
+       "preliminary findings",
+       "初步调查结果",
+       "予備的な調査結果"
+      ]
+     ]
+    },
+    {
+     "w": "minutes",
+     "pos": "n.",
+     "ipa": "/ˈmɪnɪts/",
+     "zh": "会议记录",
+     "ja": "議事録",
+     "ex": "Ms. Tanaka will take the minutes at today's meeting.",
+     "ex_zh": "田中女士将负责做今天的会议记录。",
+     "ex_ja": "今日の会議では田中さんが議事録を取る。",
+     "parts": [
+      [
+       "minut",
+       "细小的（minutus）",
+       "小さい（minutus）"
+      ],
+      [
+       "-es",
+       "复数",
+       "複数形"
+      ]
+     ],
+     "note": {
+      "zh": "一般认为来自中世纪拉丁语 minuta“（用小字写的）草稿”，minutus“细小的”。此义总用复数 minutes。",
+      "ja": "中世ラテン語 minuta「（小さな字の）下書き」から来たとされる。minutus「小さい」。この意味では常に複数形 minutes。"
+     },
+     "forms": [
+      [
+       "take (the) minutes",
+       "做会议记录",
+       "議事録を取る"
+      ],
+      [
+       "meeting minutes",
+       "会议纪要",
+       "会議の議事録"
+      ],
+      [
+       "minute (adj.) /maɪˈnut/",
+       "微小的",
+       "ごく小さな"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 3/4 常考：Who will take the minutes?（谁做会议记录？）别听成“分钟”。",
+      "ja": "Part 3/4 の頻出：Who will take the minutes?（誰が議事録を取るか）。「分」と聞き間違えないこと。"
+     }
+    },
+    {
+     "w": "reminder",
+     "pos": "n.",
+     "ipa": "/rɪˈmaɪndɚ/",
+     "zh": "提醒；提示（信）",
+     "ja": "念押し；（確認の）お知らせ；リマインダー",
+     "ex": "This is a reminder that the office will close early on Friday.",
+     "ex_zh": "特此提醒：办公室周五将提前关门。",
+     "ex_ja": "念のためお知らせします。金曜日はオフィスが早めに閉まります。",
+     "parts": [
+      [
+       "re-",
+       "再；重新",
+       "再び"
+      ],
+      [
+       "mind",
+       "记住；想起（英语本族词）",
+       "心；思い出す（英語本来の語）"
+      ],
+      [
+       "-er",
+       "表示“人/物”",
+       "〜する人・物"
+      ]
+     ],
+     "note": {
+      "zh": "remind = 拉丁前缀 re- + 英语本族词 mind。",
+      "ja": "remind ＝ラテン語系の接頭辞 re- ＋英語本来の mind。"
+     },
+     "forms": [
+      [
+       "remind A of B",
+       "让 A 想起 B",
+       "A に B を思い出させる"
+      ],
+      [
+       "remind A to do",
+       "提醒 A 做……",
+       "A に〜するよう念を押す"
+      ],
+      [
+       "send a reminder",
+       "发送提醒",
+       "催促・確認の連絡を送る"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 4 广播开头的固定说法：This is a reminder that ~（特此提醒……）。",
+      "ja": "Part 4 のアナウンス冒頭の定型：This is a reminder that ~（〜についてお知らせします）。"
+     }
+    },
+    {
+     "w": "collaborate",
+     "pos": "v.",
+     "ipa": "/kəˈlæbəˌreɪt/",
+     "zh": "合作；协作",
+     "ja": "協力する；共同で取り組む",
+     "ex": "Our design team collaborated with engineers in Germany on the new model.",
+     "ex_zh": "我们的设计团队与德国的工程师合作开发了新机型。",
+     "ex_ja": "当社のデザインチームは、新モデルについてドイツのエンジニアと協力した。",
+     "parts": [
+      [
+       "col- (com-)",
+       "一起",
+       "共に"
+      ],
+      [
+       "labor",
+       "劳动；工作",
+       "働く"
+      ],
+      [
+       "-ate",
+       "动词后缀",
+       "動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 collaborare“一起劳动”。",
+      "ja": "ラテン語 collaborare「共に働く」。"
+     },
+     "forms": [
+      [
+       "collaboration (n.)",
+       "合作",
+       "協力；共同作業"
+      ],
+      [
+       "collaborate with A on B",
+       "与 A 在 B 上合作",
+       "B について A と協力する"
+      ],
+      [
+       "collaborative (adj.)",
+       "协作的",
+       "協力的な"
+      ]
+     ]
+    },
+    {
+     "w": "delegate",
+     "pos": "v./n.",
+     "ipa": "/ˈdɛləˌɡeɪt/",
+     "zh": "委派；授权（v.）；代表（n.）",
+     "ja": "（仕事・権限を）任せる；代表者",
+     "ex": "Good managers know how to delegate tasks to their team members.",
+     "ex_zh": "优秀的管理者懂得如何把任务分派给团队成员。",
+     "ex_ja": "優れたマネージャーは、チームのメンバーに仕事を任せる方法を心得ている。",
+     "parts": [
+      [
+       "de-",
+       "离开",
+       "離れて"
+      ],
+      [
+       "leg",
+       "派遣（legare）",
+       "派遣する（legare）"
+      ],
+      [
+       "-ate",
+       "动词后缀",
+       "動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 delegare“派遣、委托”。",
+      "ja": "ラテン語 delegare「派遣する・委ねる」。"
+     },
+     "forms": [
+      [
+       "delegation (n.)",
+       "代表团；委派",
+       "代表団；委任"
+      ],
+      [
+       "conference delegate",
+       "会议代表",
+       "会議の代表者"
+      ],
+      [
+       "delegate A to B",
+       "把 A 委派给 B",
+       "A を B に任せる"
+      ]
+     ],
+     "tip": {
+      "zh": "动词读 /ˈdɛləˌɡeɪt/，名词（代表）读 /ˈdɛləɡət/。",
+      "ja": "動詞は /ˈdɛləˌɡeɪt/、名詞（代表者）は /ˈdɛləɡət/ と発音する。"
+     }
+    },
+    {
+     "w": "prompt",
+     "pos": "adj./v.",
+     "ipa": "/prɑmpt/",
+     "zh": "迅速的；及时的（adj.）；促使（v.）",
+     "ja": "迅速な；即座の；促す",
+     "ex": "Thank you for your prompt reply to my request.",
+     "ex_zh": "感谢您对我的请求迅速回复。",
+     "ex_ja": "私の依頼に迅速にご返信いただき、ありがとうございます。",
+     "parts": [
+      [
+       "pro-",
+       "向前",
+       "前へ"
+      ],
+      [
+       "(e)mpt",
+       "拿取（emere）",
+       "取る（emere）"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 promptus“拿出来的 → 准备好的”，来自 promere = pro + emere。",
+      "ja": "ラテン語 promptus「取り出された → 準備のできた」。promere ＝ pro ＋ emere から。"
+     },
+     "forms": [
+      [
+       "promptly (adv.)",
+       "迅速地；准时地",
+       "迅速に；時間どおりに"
+      ],
+      [
+       "prompt A to do",
+       "促使 A 做……",
+       "A に〜するよう促す"
+      ],
+      [
+       "at 9 a.m. promptly",
+       "上午9点整",
+       "午前9時ちょうどに"
+      ]
+     ],
+     "tip": {
+      "zh": "promptly = immediately / on time：The meeting will begin promptly at 9.（会议9点准时开始。）",
+      "ja": "promptly ＝ immediately / on time：The meeting will begin promptly at 9.（会議は9時ちょうどに始まります。）"
+     }
+    }
+   ]
+  }
+ ]
+}
