@@ -1,0 +1,2933 @@
+{
+ "day": 2,
+ "date": "2026-10-10",
+ "title_zh": "四大词根 + 营销广告与法规合规",
+ "title_ja": "4つの語根＋広告マーケと法規・コンプライアンス",
+ "intro_zh": "今天掌握 4 个高频词根（dict 说 / duc 引导 / ject 投 / ced 走），再学市场营销广告与法规合规的核心词——对 Part 5 词汇题和 Part 7 商务邮件都很实用。",
+ "intro_ja": "今日は語根 4 つ（dict 言う／duc 導く／ject 投げる／ced 進む）と、広告・マーケティングおよび法規・コンプライアンスの重要語を学びます。Part 5 と Part 7 に直結します。",
+ "voice": "en-US-AriaNeural",
+ "roots": [
+  {
+   "root": "-dict- / -dic-",
+   "origin": "Latin dicere / dictare",
+   "zh": "说；宣告",
+   "ja": "言う；述べる",
+   "exp_zh": "来自拉丁语 dicere（说）和 dictare（口述、命令）。前缀决定“怎么说”：pre-（预先说 → 预测）、contra-（对着说 → 反驳）、in-（指向着说 → 表明）。名词常变成 -diction / -dict：predict → prediction，verdict（真实说出的话 → 裁决）。",
+   "exp_ja": "ラテン語 dicere（言う）と dictare（口述する・命じる）から。接頭辞が「どう言うか」を決める：pre-（前もって言う → 予測）、contra-（反対に言う → 反論）、in-（指し示すように言う → 示す）。名詞は -diction / -dict になりやすい：predict → prediction、verdict（真実を述べたもの → 評決）。",
+   "examples": [
+    "indicate",
+    "predict",
+    "contradict",
+    "dedicate",
+    "verdict"
+   ]
+  },
+  {
+   "root": "-duc- / -duct-",
+   "origin": "Latin ducere",
+   "zh": "引导；带领",
+   "ja": "導く；連れて行く",
+   "exp_zh": "来自拉丁语 ducere（引导、带领）。前缀决定“往哪儿带”：re-（带回去 → 减少）、in-（带进来 → 介绍／诱导）、pro-（向前带 → 生产）、con-（一起带 → 引导／行为）。名词多为 -duction / -duct。",
+   "exp_ja": "ラテン語 ducere（導く）から。接頭辞が「どこへ導くか」を決める：re-（戻す → 減らす）、in-（中へ導く → 紹介する／誘発する）、pro-（前へ導く → 生産する）、con-（一緒に導く → 指揮する／行動）。名詞は -duction / -duct が多い。",
+   "examples": [
+    "reduce",
+    "introduce",
+    "conduct",
+    "productive",
+    "induction"
+   ]
+  },
+  {
+   "root": "-ject-",
+   "origin": "Latin jacere / jactus",
+   "zh": "投；扔",
+   "ja": "投げる",
+   "exp_zh": "来自拉丁语 jacere（投、扔；过去分词 jactus）。前缀决定“往哪儿扔”：re-（扔回去 → 拒绝）、pro-（向前扔 → 项目／投射）、in-（扔进去 → 注射）、e-（扔出去 → 弹出）、ob-（对着扔 → 反对／客观）。⚠️ project、subject、object、conduct 这类词名词与动词重音不同，见各词 tip。",
+   "exp_ja": "ラテン語 jacere（投げる、過去分詞 jactus）から。接頭辞が「どこへ投げるか」を決める：re-（投げ返す → 拒否）、pro-（前へ投げる → 計画／投影）、in-（中へ投げる → 注入）、e-（外へ投げる → 取り出す）、ob-（向かって投げる → 反対／客観）。⚠️ project などは名詞と動詞で強勢が違う（各語の tip を参照）。",
+   "examples": [
+    "reject",
+    "project",
+    "objective",
+    "inject",
+    "adjacent"
+   ]
+  },
+  {
+   "root": "-ced- / -ceed- / -cess-",
+   "origin": "Latin cedere",
+   "zh": "走；前进；让步",
+   "ja": "進む；譲る",
+   "exp_zh": "来自拉丁语 cedere（走、前进、让步）。拼写有三种：-ced-（precede）、-ceed-（仅 proceed / exceed / succeed 三个常用动词）、-cess-（名词 access / recession / successor）。前缀：pre-（走在前面）、ex-（走出边界 → 超过）、suc-（走到下面／接着 → 继任）、re-（往回走 → 衰退）。",
+   "exp_ja": "ラテン語 cedere（進む・譲る）から。綴りは 3 種：-ced-（precede）、-ceed-（よく使う動詞は proceed / exceed / succeed の 3 語のみ）、-cess-（名詞 access / recession / successor）。接頭辞：pre-（前を進む）、ex-（外へ出て超える）、suc-（続いて進む → 後継）、re-（戻るように進む → 後退・不況）。",
+   "examples": [
+    "proceed",
+    "exceed",
+    "access",
+    "precede",
+    "successor"
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "dict",
+   "title_zh": "词根 -dict- / -dic-：说",
+   "title_ja": "語根 -dict- / -dic-：言う",
+   "words": [
+    {
+     "w": "indicate",
+     "pos": "v.",
+     "ipa": "/ˈɪndɪkeɪt/",
+     "zh": "表明；指示；暗示",
+     "ja": "示す；指し示す",
+     "ex": "The latest sales figures indicate a steady rise in overseas demand.",
+     "ex_zh": "最新销售数据显示海外需求稳步上升。",
+     "ex_ja": "最新の売上データは、海外需要の着実な増加を示している。",
+     "parts": [
+      [
+       "in-",
+       "向内；朝向",
+       "中へ；〜に向けて"
+      ],
+      [
+       "dic",
+       "说",
+       "言う"
+      ],
+      [
+       "-ate",
+       "动词后缀",
+       "動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 indicare“指出、表明”。",
+      "ja": "ラテン語 indicare「指し示す」。"
+     },
+     "forms": [
+      [
+       "indication (n.)",
+       "迹象；指示",
+       "兆候；表示"
+      ],
+      [
+       "indicator (n.)",
+       "指标；指示器",
+       "指標；インジケーター"
+      ],
+      [
+       "indicative (adj.)",
+       "表明的；陈述的",
+       "示している；直説法の"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5 常考：indicate that + 从句；indicate + 名词。别和 suggest（建议／暗示）完全等同。",
+      "ja": "indicate that ＋節／indicate ＋名詞。suggest（提案・示唆）と完全には同じでない。"
+     }
+    },
+    {
+     "w": "predict",
+     "pos": "v.",
+     "ipa": "/prɪˈdɪkt/",
+     "zh": "预测；预言",
+     "ja": "予測する；予言する",
+     "ex": "Analysts predict that the new product line will boost fourth-quarter revenue.",
+     "ex_zh": "分析师预测新产品线将提升第四季度营收。",
+     "ex_ja": "アナリストは、新製品ラインが第4四半期の売上を押し上げると予測している。",
+     "parts": [
+      [
+       "pre-",
+       "预先；在前",
+       "前もって"
+      ],
+      [
+       "dict",
+       "说",
+       "言う"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 praedicere“预先说出”。",
+      "ja": "ラテン語 praedicere「前もって言う」。"
+     },
+     "forms": [
+      [
+       "prediction (n.)",
+       "预测",
+       "予測"
+      ],
+      [
+       "predictor (n.)",
+       "预测因素；预报器",
+       "予測因子"
+      ],
+      [
+       "predictable (adj.)",
+       "可预测的",
+       "予測可能な"
+      ]
+     ],
+     "tip": {
+      "zh": "TOEIC 财经短文常见：predict a rise / decline / recovery。",
+      "ja": "predict a rise / decline / recovery など経済ニュースで頻出。"
+     }
+    },
+    {
+     "w": "contradict",
+     "pos": "v.",
+     "ipa": "/ˌkɑntrəˈdɪkt/",
+     "zh": "反驳；与……矛盾",
+     "ja": "矛盾する；反論する",
+     "ex": "The witness's statement appears to contradict the official report.",
+     "ex_zh": "证人的陈述似乎与官方报告相矛盾。",
+     "ex_ja": "証人の供述は公式報告書と矛盾しているように見える。",
+     "parts": [
+      [
+       "contra-",
+       "相反；对着",
+       "反対に"
+      ],
+      [
+       "dict",
+       "说",
+       "言う"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 contradicere“对着说、反驳”。",
+      "ja": "ラテン語 contradicere「反対に言う」。"
+     },
+     "forms": [
+      [
+       "contradiction (n.)",
+       "矛盾",
+       "矛盾"
+      ],
+      [
+       "contradictory (adj.)",
+       "相互矛盾的",
+       "矛盾した"
+      ],
+      [
+       "self-contradictory",
+       "自相矛盾的",
+       "自己矛盾の"
+      ]
+     ],
+     "tip": {
+      "zh": "contradict + 人/陈述：Don't contradict your manager in the meeting.（别当面顶撞）。",
+      "ja": "contradict は人・発言の両方を目的語に取れる。"
+     }
+    },
+    {
+     "w": "dedicate",
+     "pos": "v.",
+     "ipa": "/ˈdɛdɪkeɪt/",
+     "zh": "致力于；把……献给",
+     "ja": "ささげる；専念する",
+     "ex": "She decided to dedicate more time to mentoring junior staff this year.",
+     "ex_zh": "她决定今年花更多时间指导初级员工。",
+     "ex_ja": "彼女は今年、若手社員の指導にもっと時間をささげることにした。",
+     "parts": [
+      [
+       "de-",
+       "完全；向下",
+       "完全に"
+      ],
+      [
+       "dic",
+       "说；宣告",
+       "言う；宣言する"
+      ],
+      [
+       "-ate",
+       "动词后缀",
+       "動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 dedicare“宣告归属、奉献”。",
+      "ja": "ラテン語 dedicare「奉献する・ささげる」。"
+     },
+     "forms": [
+      [
+       "dedication (n.)",
+       "奉献；题献",
+       "献身；献辞"
+      ],
+      [
+       "dedicated (adj.)",
+       "专注的；专用的",
+       "献身的な；専用の"
+      ],
+      [
+       "dedicate A to B",
+       "把 A 用于 B",
+       "A を B にささげる"
+      ]
+     ],
+     "tip": {
+      "zh": "podcast 已有 dedicated；此处学动词 dedicate to。a dedicated line = 专用线路。",
+      "ja": "dedicate A to B。a dedicated line は「専用回線」。"
+     }
+    },
+    {
+     "w": "dictate",
+     "pos": "v.",
+     "ipa": "/ˈdɪkteɪt/",
+     "zh": "口述；支配；规定",
+     "ja": "口述する；命じる；左右する",
+     "ex": "Market conditions often dictate how aggressively we can price the service.",
+     "ex_zh": "市场状况常常决定我们能把服务定价多高。",
+     "ex_ja": "市場の状況が、サービスの価格をどこまで強気に設定できるかを左右することが多い。",
+     "parts": [
+      [
+       "dict",
+       "说",
+       "言う"
+      ],
+      [
+       "-ate",
+       "动词后缀",
+       "動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 dictare“反复说、口述、命令”。",
+      "ja": "ラテン語 dictare「繰り返し言う・口述する・命じる」。"
+     },
+     "forms": [
+      [
+       "dictation (n.)",
+       "口述；听写",
+       "口述；書き取り"
+      ],
+      [
+       "dictator (n.)",
+       "独裁者",
+       "独裁者"
+      ],
+      [
+       "dictates (n.)",
+       "要求；规定",
+       "要求；命じること"
+      ]
+     ],
+     "tip": {
+      "zh": "商务义：X dictates Y = X 决定／迫使 Y。也可指口述信件给助手。",
+      "ja": "商務では「〜が〜を左右する」。秘書への口述の意味もある。"
+     }
+    },
+    {
+     "w": "verdict",
+     "pos": "n.",
+     "ipa": "/ˈvɝdɪkt/",
+     "zh": "裁决；（非正式）结论／评价",
+     "ja": "評決；判断；評価",
+     "ex": "The jury reached a verdict after three days of deliberation.",
+     "ex_zh": "陪审团经过三天评议后作出了裁决。",
+     "ex_ja": "陪審は3日間の評議の末に評決に達した。",
+     "parts": [
+      [
+       "ver",
+       "真实",
+       "真実の"
+      ],
+      [
+       "dict",
+       "说",
+       "言う"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 vere dictum“真实说出的话”→ 裁决。",
+      "ja": "ラテン語 vere dictum「真実を述べたこと」→ 評決。"
+     },
+     "forms": [
+      [
+       "reach a verdict",
+       "作出裁决",
+       "評決を下す"
+      ],
+      [
+       "final verdict",
+       "最终结论",
+       "最終判断"
+      ],
+      [
+       "the verdict is in",
+       "结果已经出来了",
+       "結果が出た"
+      ]
+     ],
+     "tip": {
+      "zh": "法律文常见；也可比喻：The critics' verdict on the campaign was mixed.",
+      "ja": "法廷用語だが、比喩で「評価・結論」にも使う。"
+     }
+    },
+    {
+     "w": "jurisdiction",
+     "pos": "n.",
+     "ipa": "/ˌdʒʊrɪsˈdɪkʃən/",
+     "zh": "管辖权；管辖范围；司法权",
+     "ja": "管轄権；管轄区域",
+     "ex": "This dispute falls under the jurisdiction of the regional labor board.",
+     "ex_zh": "这起纠纷属于地区劳资委员会的管辖范围。",
+     "ex_ja": "この紛争は地域の労働委員会の管轄に属する。",
+     "parts": [
+      [
+       "juris",
+       "法律；权利",
+       "法；権利"
+      ],
+      [
+       "dict",
+       "说；宣告",
+       "言う"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 jurisdictio“宣告法律”——谁有权“说了算”。",
+      "ja": "ラテン語 jurisdictio「法を述べること」→ 管轄権。"
+     },
+     "forms": [
+      [
+       "under the jurisdiction of",
+       "在……管辖下",
+       "〜の管轄下で"
+      ],
+      [
+       "jurisdictional (adj.)",
+       "管辖的",
+       "管轄の"
+      ],
+      [
+       "outside our jurisdiction",
+       "超出我们的权限",
+       "管轄外"
+      ]
+     ],
+     "tip": {
+      "zh": "合同与投诉信高频：Does this matter fall within our jurisdiction?",
+      "ja": "契約・苦情文で「管轄内か」を確認する定番語。"
+     }
+    },
+    {
+     "w": "predictable",
+     "pos": "adj.",
+     "ipa": "/prɪˈdɪktəbəl/",
+     "zh": "可预测的；不出所料的",
+     "ja": "予測可能な；予想どおりの",
+     "ex": "A predictable schedule helps remote teams coordinate across time zones.",
+     "ex_zh": "可预测的日程有助于远程团队跨时区协作。",
+     "ex_ja": "予測可能なスケジュールは、リモートチームの時差調整に役立つ。",
+     "parts": [
+      [
+       "pre-",
+       "预先",
+       "前もって"
+      ],
+      [
+       "dict",
+       "说",
+       "言う"
+      ],
+      [
+       "-able",
+       "能够……的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "predict + -able → 能够被“预先说出”的。",
+      "ja": "predict ＋ -able →「予測できる」。"
+     },
+     "forms": [
+      [
+       "predictability (n.)",
+       "可预测性",
+       "予測可能性"
+      ],
+      [
+       "unpredictable (adj.)",
+       "不可预测的",
+       "予測不能な"
+      ],
+      [
+       "predictably (adv.)",
+       "不出所料地",
+       "案の定"
+      ]
+     ],
+     "tip": {
+      "zh": "褒义：流程可预期；贬义：剧情／回复太老套。看语境。",
+      "ja": "予定が立てやすい（褒）／ありきたり（貶）の両義。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "duc",
+   "title_zh": "词根 -duc- / -duct-：引导",
+   "title_ja": "語根 -duc- / -duct-：導く",
+   "words": [
+    {
+     "w": "reduce",
+     "pos": "v.",
+     "ipa": "/rɪˈdus/",
+     "zh": "减少；降低；缩小",
+     "ja": "減らす；削減する",
+     "ex": "The factory plans to reduce energy consumption by fifteen percent this year.",
+     "ex_zh": "该工厂计划今年将能耗降低百分之十五。",
+     "ex_ja": "その工場は今年、エネルギー消費を15パーセント削減する計画だ。",
+     "parts": [
+      [
+       "re-",
+       "回；向后",
+       "戻して"
+      ],
+      [
+       "duc",
+       "引导；带领",
+       "導く"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 reducere“带回、引回”→ 拉回到更小的量。",
+      "ja": "ラテン語 reducere「引き戻す」→ 量を減らす。"
+     },
+     "forms": [
+      [
+       "reduction (n.)",
+       "减少；折扣",
+       "削減；値下げ"
+      ],
+      [
+       "reducible (adj.)",
+       "可减少的",
+       "削減可能な"
+      ],
+      [
+       "reduce costs",
+       "降低成本",
+       "コストを削減する"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5：reduce A by 10%（减少百分之十）vs reduce A to 10%（减到只剩百分之十）。",
+      "ja": "reduce A by 10%（10%減らす）と to 10%（10%にする）を区別。"
+     }
+    },
+    {
+     "w": "introduce",
+     "pos": "v.",
+     "ipa": "/ˌɪntrəˈdus/",
+     "zh": "介绍；推行；引进",
+     "ja": "紹介する；導入する",
+     "ex": "The company will introduce a flexible leave policy starting next month.",
+     "ex_zh": "公司将从下月起推行弹性休假政策。",
+     "ex_ja": "同社は来月から柔軟な休暇制度を導入する。",
+     "parts": [
+      [
+       "intro-",
+       "向内；进入",
+       "中へ"
+      ],
+      [
+       "duc",
+       "引导",
+       "導く"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 introducere“引进来、引导入内”。",
+      "ja": "ラテン語 introducere「中へ導く・導入する」。"
+     },
+     "forms": [
+      [
+       "introduction (n.)",
+       "介绍；引言；推出",
+       "紹介；序論；導入"
+      ],
+      [
+       "introductory (adj.)",
+       "导论的；入门的",
+       "入門の；最初の"
+      ],
+      [
+       "reintroduce (v.)",
+       "重新引入",
+       "再導入する"
+      ]
+     ],
+     "tip": {
+      "zh": "商务高频：introduce a product / policy / speaker。",
+      "ja": "製品・制度・講演者の「導入・紹介」で頻出。"
+     }
+    },
+    {
+     "w": "conduct",
+     "pos": "n./v.",
+     "ipa": "/kənˈdʌkt/",
+     "zh": "行为，实施；进行，指挥",
+     "ja": "行為・実施；行う・指揮する",
+     "ex": "The board will conduct a thorough review of the safety procedures.",
+     "ex_zh": "董事会将对安全程序进行全面审查。",
+     "ex_ja": "取締役会は安全手順の徹底的な見直しを行う。",
+     "parts": [
+      [
+       "con-",
+       "一起",
+       "一緒に"
+      ],
+      [
+       "duct",
+       "引导",
+       "導く"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 conductus“一起引导”→ 带领做事；名词指行为方式。",
+      "ja": "ラテン語 conductus「一緒に導く」→ 実施する；名詞は「行い」。"
+     },
+     "forms": [
+      [
+       "conductor (n.)",
+       "指挥；售票员；导体",
+       "指揮者；車掌；導体"
+      ],
+      [
+       "code of conduct",
+       "行为准则",
+       "行動規範"
+      ],
+      [
+       "conduct business",
+       "开展业务",
+       "事業を行う"
+      ]
+     ],
+     "tip": {
+      "zh": "⚠️ 重音不同：名词 CONduct（行为），动词 conDUCT（进行）。TOEIC 听力常考动词义。",
+      "ja": "⚠️ 名詞は CONduct、動詞は conDUCT。リスニングでは動詞義が多い。"
+     },
+     "hl": "conduct"
+    },
+    {
+     "w": "productive",
+     "pos": "adj.",
+     "ipa": "/prəˈdʌktɪv/",
+     "zh": "富有成效的；多产的",
+     "ja": "生産的な；成果の多い",
+     "ex": "A short morning meeting can be surprisingly productive if the agenda is clear.",
+     "ex_zh": "如果议程清晰，短短的晨会也能出奇地高效。",
+     "ex_ja": "議題が明確なら、短い朝の会議でも驚くほど生産的になり得る。",
+     "parts": [
+      [
+       "pro-",
+       "向前",
+       "前へ"
+      ],
+      [
+       "duct",
+       "引导",
+       "導く"
+      ],
+      [
+       "-ive",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "与 produce（向前引出 → 生产）同源；productive = 能产出成果的。",
+      "ja": "produce（前へ引き出す→生産する）と同系。"
+     },
+     "forms": [
+      [
+       "productivity (n.)",
+       "生产力；效率",
+       "生産性"
+      ],
+      [
+       "produce (v.)",
+       "生产；制作",
+       "生産する"
+      ],
+      [
+       "counterproductive (adj.)",
+       "产生反效果的",
+       "逆効果の"
+      ]
+     ],
+     "tip": {
+      "zh": "podcast 已有 productivity；此处记形容词 productive meeting / day。",
+      "ja": "a productive meeting / day の形で覚える。"
+     }
+    },
+    {
+     "w": "induce",
+     "pos": "v.",
+     "ipa": "/ɪnˈdus/",
+     "zh": "引起；劝使；诱导",
+     "ja": "引き起こす；促す；誘導する",
+     "ex": "Higher shipping fees may induce customers to choose local suppliers instead.",
+     "ex_zh": "更高的运费可能促使客户改选本地供应商。",
+     "ex_ja": "送料の値上げは、顧客に地元の供給業者を選ばせる要因になり得る。",
+     "parts": [
+      [
+       "in-",
+       "进入；向内",
+       "中へ"
+      ],
+      [
+       "duc",
+       "引导",
+       "導く"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 inducere“引进、劝诱”。",
+      "ja": "ラテン語 inducere「引き入れる・勧める」。"
+     },
+     "forms": [
+      [
+       "inducement (n.)",
+       "诱因；激励",
+       "誘因；インセンティブ"
+      ],
+      [
+       "induced (adj.)",
+       "诱发的",
+       "誘発された"
+      ],
+      [
+       "induce someone to do",
+       "劝使某人做",
+       "人に〜させる"
+      ]
+     ],
+     "tip": {
+      "zh": "正式书面语；日常更常说 cause / encourage / persuade。",
+      "ja": "やや硬い語。日常では cause / encourage が多い。"
+     }
+    },
+    {
+     "w": "conducive",
+     "pos": "adj.",
+     "ipa": "/kənˈdusɪv/",
+     "zh": "有利于……的；有助的",
+     "ja": "（〜に）資する；助けとなる",
+     "ex": "A quiet workspace is conducive to focused writing and analysis.",
+     "ex_zh": "安静的工作环境有利于专注写作与分析。",
+     "ex_ja": "静かな作業環境は、集中した執筆や分析に資する。",
+     "parts": [
+      [
+       "con-",
+       "一起",
+       "一緒に"
+      ],
+      [
+       "duc",
+       "引导",
+       "導く"
+      ],
+      [
+       "-ive",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "“一起把人引向某处”→ 有助于达成某种状态。固定搭配 conducive to。",
+      "ja": "conducive to 〜 の形で「〜に役立つ」。"
+     },
+     "forms": [
+      [
+       "conducive to",
+       "有利于",
+       "〜に資する"
+      ],
+      [
+       "be conducive to growth",
+       "有利于增长",
+       "成長に資する"
+      ]
+     ],
+     "tip": {
+      "zh": "后面一定接 to + 名词/动名词，不接不定式。",
+      "ja": "後ろは to ＋名詞／動名詞。to do は不可。"
+     }
+    },
+    {
+     "w": "induction",
+     "pos": "n.",
+     "ipa": "/ɪnˈdʌkʃən/",
+     "zh": "入职培训；就职；归纳",
+     "ja": "入社研修；就任；帰納",
+     "ex": "All new hires must complete a two-day induction before joining their teams.",
+     "ex_zh": "所有新员工在加入团队前必须完成为期两天的入职培训。",
+     "ex_ja": "新入社員は全員、配属前に2日間の入社研修を修了しなければならない。",
+     "parts": [
+      [
+       "in-",
+       "进入",
+       "中へ"
+      ],
+      [
+       "duct",
+       "引导",
+       "導く"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "“引导进入”→ 引入组织／ inductive reasoning 归纳推理。TOEIC 多指出入职介绍。",
+      "ja": "「中へ導く」→ 入社オリエンテーションの意味が TOEIC では多い。"
+     },
+     "forms": [
+      [
+       "induction program",
+       "入职培训项目",
+       "入社研修プログラム"
+      ],
+      [
+       "induct (v.)",
+       "使正式就任",
+       "就任させる"
+      ],
+      [
+       "orientation (n.)",
+       "迎新介绍（近义）",
+       "オリエンテーション"
+      ]
+     ],
+     "tip": {
+      "zh": "近义 orientation（podcast 已有）；induction 偏英式／正式 HR 用语。",
+      "ja": "orientation に近い。induction はよりフォーマル／英寄りの人事語。"
+     }
+    },
+    {
+     "w": "reproduce",
+     "pos": "v.",
+     "ipa": "/ˌriprəˈdus/",
+     "zh": "复制；再现；繁殖",
+     "ja": "複製する；再現する；繁殖する",
+     "ex": "Please do not reproduce this training material without written permission.",
+     "ex_zh": "未经书面许可，请勿复制本培训材料。",
+     "ex_ja": "書面による許可なく、この研修資料を複製しないでください。",
+     "parts": [
+      [
+       "re-",
+       "再；重新",
+       "再び"
+      ],
+      [
+       "pro-",
+       "向前",
+       "前へ"
+      ],
+      [
+       "duc",
+       "引导",
+       "導く"
+      ]
+     ],
+     "note": {
+      "zh": "re- + produce → 再次生产／再现出来。",
+      "ja": "re- ＋ produce → 再び生み出す・複製する。"
+     },
+     "forms": [
+      [
+       "reproduction (n.)",
+       "复制；再生产",
+       "複製；再生産"
+      ],
+      [
+       "reproducible (adj.)",
+       "可再现的",
+       "再現可能な"
+      ],
+      [
+       "unauthorized reproduction",
+       "未经授权的复制",
+       "無断複製"
+      ]
+     ],
+     "tip": {
+      "zh": "版权声明常见：All rights reserved. Do not reproduce。",
+      "ja": "著作権表示で Do not reproduce が定番。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ject",
+   "title_zh": "词根 -ject-：投、扔",
+   "title_ja": "語根 -ject-：投げる",
+   "words": [
+    {
+     "w": "reject",
+     "pos": "v.",
+     "ipa": "/rɪˈdʒɛkt/",
+     "zh": "拒绝；驳回；排斥",
+     "ja": "拒否する；却下する",
+     "ex": "The committee decided to reject the proposal due to insufficient funding.",
+     "ex_zh": "委员会因资金不足决定驳回该提案。",
+     "ex_ja": "委員会は資金不足を理由にその提案を却下することにした。",
+     "parts": [
+      [
+       "re-",
+       "回；向后",
+       "戻して"
+      ],
+      [
+       "ject",
+       "投",
+       "投げる"
+      ]
+     ],
+     "note": {
+      "zh": "“扔回去”→ 拒绝接受。",
+      "ja": "「投げ返す」→ 受け入れない。"
+     },
+     "forms": [
+      [
+       "rejection (n.)",
+       "拒绝；驳回",
+       "拒否；却下"
+      ],
+      [
+       "rejected (adj.)",
+       "被拒的",
+       "却下された"
+      ],
+      [
+       "reject an application",
+       "拒绝申请",
+       "申請を却下する"
+      ]
+     ],
+     "tip": {
+      "zh": "简历／投标场景高频：reject an application / bid / claim。",
+      "ja": "応募・入札・請求の却下で頻出。"
+     }
+    },
+    {
+     "w": "inject",
+     "pos": "v.",
+     "ipa": "/ɪnˈdʒɛkt/",
+     "zh": "注入；投入（资金／活力）",
+     "ja": "注入する；投入する",
+     "ex": "The investors agreed to inject additional capital into the struggling subsidiary.",
+     "ex_zh": "投资者同意向这家陷入困境的子公司追加注资。",
+     "ex_ja": "投資家たちは経営難の子会社に追加資本を注入することに同意した。",
+     "parts": [
+      [
+       "in-",
+       "进入",
+       "中へ"
+      ],
+      [
+       "ject",
+       "投",
+       "投げる"
+      ]
+     ],
+     "note": {
+      "zh": "“扔进去”→ 注射；引申为注入资金或活力。",
+      "ja": "「中へ投げ入れる」→ 注射；資金などの注入。"
+     },
+     "forms": [
+      [
+       "injection (n.)",
+       "注射；注资",
+       "注射；資金注入"
+      ],
+      [
+       "inject life into",
+       "给……注入活力",
+       "〜に活を入れる"
+      ],
+      [
+       "cash injection",
+       "现金注资",
+       "資金注入"
+      ]
+     ],
+     "tip": {
+      "zh": "财经新闻：a cash injection；也可字面指医疗注射。",
+      "ja": "a cash injection（資金注入）がビジネス定番。"
+     }
+    },
+    {
+     "w": "eject",
+     "pos": "v.",
+     "ipa": "/ɪˈdʒɛkt/",
+     "zh": "弹出；驱逐；喷出",
+     "ja": "取り出す；追放する；噴出する",
+     "ex": "Please eject the USB drive safely before unplugging it from the laptop.",
+     "ex_zh": "从笔记本电脑拔出之前，请先安全弹出 U 盘。",
+     "ex_ja": "ノートPCから抜く前に、USBドライブを安全に取り出してください。",
+     "parts": [
+      [
+       "e-",
+       "向外",
+       "外へ"
+      ],
+      [
+       "ject",
+       "投",
+       "投げる"
+      ]
+     ],
+     "note": {
+      "zh": "“向外扔”→ 弹出介质、驱逐人员、喷出物质。",
+      "ja": "「外へ投げる」→ 取り出し・退去・噴出。"
+     },
+     "forms": [
+      [
+       "ejection (n.)",
+       "弹出；驱逐",
+       "排出；退去"
+      ],
+      [
+       "eject from",
+       "从……驱逐",
+       "〜から退去させる"
+      ],
+      [
+       "safe eject",
+       "安全弹出",
+       "安全な取り出し"
+      ]
+     ],
+     "tip": {
+      "zh": "IT 场景：eject a disk / drive；航空／安保也可指请离。",
+      "ja": "IT ではディスク取り出し。保安では退去命令にも。"
+     }
+    },
+    {
+     "w": "objective",
+     "pos": "n./adj.",
+     "ipa": "/əbˈdʒɛktɪv/",
+     "zh": "目标；客观的",
+     "ja": "目標；客観的な",
+     "ex": "Our primary objective this quarter is to expand into two new regional markets.",
+     "ex_zh": "本季度我们的首要目标是打入两个新的区域市场。",
+     "ex_ja": "今四半期の主な目標は、新たな地域市場を2つ開拓することだ。",
+     "parts": [
+      [
+       "ob-",
+       "对着；朝向",
+       "向かって"
+      ],
+      [
+       "ject",
+       "投",
+       "投げる"
+      ],
+      [
+       "-ive",
+       "形容词／相关后缀",
+       "形容詞などを作る"
+      ]
+     ],
+     "note": {
+      "zh": "“被扔到面前的事物”→ 对象；作目标讲；作形容词讲“不掺主观”。",
+      "ja": "「目の前に置かれたもの」→ 対象・目標；形容詞は「客観的」。"
+     },
+     "forms": [
+      [
+       "objectively (adv.)",
+       "客观地",
+       "客観的に"
+      ],
+      [
+       "objectivity (n.)",
+       "客观性",
+       "客観性"
+      ],
+      [
+       "meet an objective",
+       "达成目标",
+       "目標を達成する"
+      ]
+     ],
+     "tip": {
+      "zh": "名词 = goal；形容词 ↔ subjective。meeting objectives 是绩效考核套话。",
+      "ja": "名詞は goal に近い。形容詞は subjective の対義。"
+     }
+    },
+    {
+     "w": "subjective",
+     "pos": "adj.",
+     "ipa": "/səbˈdʒɛktɪv/",
+     "zh": "主观的；受个人看法影响的",
+     "ja": "主観的な",
+     "ex": "Performance ratings should be based on data, not purely subjective impressions.",
+     "ex_zh": "绩效评分应基于数据，而非纯粹主观印象。",
+     "ex_ja": "業績評価は、純粋に主観的な印象ではなくデータに基づくべきだ。",
+     "parts": [
+      [
+       "sub-",
+       "在……之下",
+       "下に"
+      ],
+      [
+       "ject",
+       "投",
+       "投げる"
+      ],
+      [
+       "-ive",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "与 subject（置于……之下）相关 → 受个人立场影响的。",
+      "ja": "subject（〜の下に置かれる）と関連 → 主観的。"
+     },
+     "forms": [
+      [
+       "subjectivity (n.)",
+       "主观性",
+       "主観性"
+      ],
+      [
+       "subjectively (adv.)",
+       "主观地",
+       "主観的に"
+      ],
+      [
+       "highly subjective",
+       "非常主观",
+       "きわめて主観的"
+      ]
+     ],
+     "tip": {
+      "zh": "报告写作：避免 highly subjective claims；用证据支撑。",
+      "ja": "報告書では主観的主張を避け、根拠を示す。"
+     }
+    },
+    {
+     "w": "adjacent",
+     "pos": "adj.",
+     "ipa": "/əˈdʒeɪsənt/",
+     "zh": "邻近的；毗连的",
+     "ja": "隣接する；隣の",
+     "ex": "The new warehouse will be built on the lot adjacent to the current distribution center.",
+     "ex_zh": "新仓库将建在现有配送中心毗邻的地块上。",
+     "ex_ja": "新しい倉庫は、現在の配送センターに隣接する区画に建設される。",
+     "parts": [
+      [
+       "ad-",
+       "朝向；靠近",
+       "〜の方へ"
+      ],
+      [
+       "jac / ject",
+       "躺；投置",
+       "横たわる／置く"
+      ],
+      [
+       "-ent",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 adjacere“躺在旁边”→ 相邻。词根变体 jac- 与 ject- 同源。",
+      "ja": "ラテン語 adjacere「隣に横たわる」→ 隣接。jac- は ject- の変化形。"
+     },
+     "forms": [
+      [
+       "adjacency (n.)",
+       "毗邻",
+       "隣接"
+      ],
+      [
+       "adjacent to",
+       "与……相邻",
+       "〜に隣接して"
+      ],
+      [
+       "adjacent offices",
+       "相邻办公室",
+       "隣り合うオフィス"
+      ]
+     ],
+     "tip": {
+      "zh": "地产／设施说明高频：the building adjacent to headquarters。",
+      "ja": "不動産・施設説明で頻出。後ろは to。"
+     }
+    },
+    {
+     "w": "projection",
+     "pos": "n.",
+     "ipa": "/prəˈdʒɛkʃən/",
+     "zh": "预测；投影；投射",
+     "ja": "予測；投影；見通し",
+     "ex": "According to our sales projection, demand will peak in November.",
+     "ex_zh": "根据我们的销售预测，需求将在十一月达到峰值。",
+     "ex_ja": "当社の売上予測によれば、需要は11月にピークを迎える。",
+     "parts": [
+      [
+       "pro-",
+       "向前",
+       "前へ"
+      ],
+      [
+       "ject",
+       "投",
+       "投げる"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "“向前投出”→ 影像投影；数字／趋势的“投射”即预测。",
+      "ja": "「前へ投げる」→ 映像の投影；数値の見通し。"
+     },
+     "forms": [
+      [
+       "project (v./n.)",
+       "规划；项目",
+       "計画する；プロジェクト"
+      ],
+      [
+       "sales projection",
+       "销售预测",
+       "売上予測"
+      ],
+      [
+       "budget projection",
+       "预算预测",
+       "予算見通し"
+      ]
+     ],
+     "tip": {
+      "zh": "财经阅读：projection ≈ forecast（podcast 已有 forecast）。",
+      "ja": "projection は forecast に近い财经語。"
+     }
+    },
+    {
+     "w": "project",
+     "pos": "n./v.",
+     "ipa": "/prəˈdʒɛkt/",
+     "zh": "项目；规划，预计，投影",
+     "ja": "プロジェクト；計画する、見込む、投影する",
+     "ex": "We project that the renovation will be completed by the end of March.",
+     "ex_zh": "我们预计翻新工程将于三月底完成。",
+     "ex_ja": "改修工事は3月末までに完了する見込みだ。",
+     "parts": [
+      [
+       "pro-",
+       "向前",
+       "前へ"
+      ],
+      [
+       "ject",
+       "投",
+       "投げる"
+      ]
+     ],
+     "note": {
+      "zh": "“向前投出”→ 抛出计划／数字；名词即项目。",
+      "ja": "「前へ投げる」→ 計画や数値を出す；名詞はプロジェクト。"
+     },
+     "forms": [
+      [
+       "projector (n.)",
+       "投影仪",
+       "プロジェクター"
+      ],
+      [
+       "projected (adj.)",
+       "预计的",
+       "見込まれる"
+      ],
+      [
+       "project manager",
+       "项目经理",
+       "プロジェクト管理者"
+      ]
+     ],
+     "tip": {
+      "zh": "⚠️ 重音：名词 PROject，动词 proJECT（预计／投影）。例句是动词义。",
+      "ja": "⚠️ 名詞は PROject、動詞は proJECT。例文は動詞「見込む」。"
+     },
+     "hl": "project"
+    }
+   ]
+  },
+  {
+   "id": "ced",
+   "title_zh": "词根 -ced- / -ceed- / -cess-：走",
+   "title_ja": "語根 -ced- / -ceed- / -cess-：進む",
+   "words": [
+    {
+     "w": "proceed",
+     "pos": "v.",
+     "ipa": "/prəˈsid/",
+     "zh": "继续进行；着手",
+     "ja": "続行する；進める",
+     "ex": "After the safety check, we can proceed with the installation.",
+     "ex_zh": "安全检查完成后，我们就可以着手安装。",
+     "ex_ja": "安全確認の後、設置作業を進めることができる。",
+     "parts": [
+      [
+       "pro-",
+       "向前",
+       "前へ"
+      ],
+      [
+       "ceed",
+       "走",
+       "進む"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 procedere“向前走”。注意拼写是 -ceed 不是 -cede。",
+      "ja": "ラテン語 procedere「前へ進む」。綴りは -ceed。"
+     },
+     "forms": [
+      [
+       "procedure (n.)",
+       "程序；手续",
+       "手順；手続き"
+      ],
+      [
+       "proceedings (n.)",
+       "会议记录；诉讼程序",
+       "議事；訴訟手続き"
+      ],
+      [
+       "proceed with",
+       "继续做",
+       "〜を進める"
+      ]
+     ],
+     "tip": {
+      "zh": "podcast 已有 procedure；记住动词 proceed with + 名词。proceeds (n.) = 销售收入。",
+      "ja": "proceed with ＋名詞。proceeds（名詞・複数）は売上金。"
+     }
+    },
+    {
+     "w": "exceed",
+     "pos": "v.",
+     "ipa": "/ɪkˈsid/",
+     "zh": "超过；超出",
+     "ja": "超える；上回る",
+     "ex": "Monthly expenses must not exceed the amount approved in the budget.",
+     "ex_zh": "月度开支不得超过预算批准的金额。",
+     "ex_ja": "月次経費は、予算で承認された額を超えてはならない。",
+     "parts": [
+      [
+       "ex-",
+       "向外；超出",
+       "外へ"
+      ],
+      [
+       "ceed",
+       "走",
+       "進む"
+      ]
+     ],
+     "note": {
+      "zh": "“走出界限之外”→ 超过。拼写 -ceed。",
+      "ja": "「限界の外へ出る」→ 超える。綴りは -ceed。"
+     },
+     "forms": [
+      [
+       "excess (n./adj.)",
+       "过量；超额的",
+       "過剰；余分な"
+      ],
+      [
+       "excessive (adj.)",
+       "过度的",
+       "過度の"
+      ],
+      [
+       "exceed expectations",
+       "超出预期",
+       "期待を上回る"
+      ]
+     ],
+     "tip": {
+      "zh": "通知／规章高频：Do not exceed the speed / weight / budget limit。",
+      "ja": "制限を超えるな、の注意文で頻出。"
+     }
+    },
+    {
+     "w": "access",
+     "pos": "n./v.",
+     "ipa": "/ˈæksɛs/",
+     "zh": "进入；使用权；访问",
+     "ja": "アクセス；入場；利用する",
+     "ex": "Employees need a security badge to access the research laboratory.",
+     "ex_zh": "员工需要安保徽章才能进入研究室。",
+     "ex_ja": "社員が研究室に入るにはセキュリティバッジが必要だ。",
+     "parts": [
+      [
+       "ac- / ad-",
+       "朝向",
+       "〜へ"
+      ],
+      [
+       "cess",
+       "走",
+       "進む"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 accessus“走近、接近”→ 获得进入的途径。",
+      "ja": "ラテン語 accessus「近づくこと」→ アクセス権。"
+     },
+     "forms": [
+      [
+       "accessible (adj.)",
+       "可到达的；易懂的",
+       "アクセスしやすい；分かりやすい"
+      ],
+      [
+       "accessibility (n.)",
+       "无障碍；可及性",
+       "アクセシビリティ"
+      ],
+      [
+       "gain access to",
+       "获得……的使用权",
+       "〜へのアクセスを得る"
+      ]
+     ],
+     "tip": {
+      "zh": "IT／楼宇安保都极高频：access the system / building。",
+      "ja": "システム／建物へのアクセスで超頻出。"
+     }
+    },
+    {
+     "w": "precede",
+     "pos": "v.",
+     "ipa": "/prɪˈsid/",
+     "zh": "先于；在……之前发生",
+     "ja": "〜に先行する；先立つ",
+     "ex": "A brief product demo will precede the Q&A session.",
+     "ex_zh": "简短的产品演示将安排在问答环节之前。",
+     "ex_ja": "短い製品デモが質疑応答の前に行われる。",
+     "parts": [
+      [
+       "pre-",
+       "在前",
+       "前に"
+      ],
+      [
+       "cede",
+       "走",
+       "進む"
+      ]
+     ],
+     "note": {
+      "zh": "“走在前面”。拼写 -cede（不是 -ceed）。",
+      "ja": "「前を進む」。綴りは -cede（-ceed ではない）。"
+     },
+     "forms": [
+      [
+       "preceding (adj.)",
+       "在前的；前述的",
+       "先行する；前述の"
+      ],
+      [
+       "precedent (n.)",
+       "先例",
+       "先例"
+      ],
+      [
+       "precedence (n.)",
+       "优先",
+       "優先"
+      ]
+     ],
+     "tip": {
+      "zh": "易混：precede（先于）vs proceed（继续）。拼写差一个字母。",
+      "ja": "precede（先行）と proceed（続行）を混同しやすい。"
+     }
+    },
+    {
+     "w": "successor",
+     "pos": "n.",
+     "ipa": "/səkˈsɛsɚ/",
+     "zh": "继任者；接替的事物",
+     "ja": "後継者；後任",
+     "ex": "The board has not yet named a successor to the retiring CEO.",
+     "ex_zh": "董事会尚未指定退休首席执行官的继任者。",
+     "ex_ja": "取締役会は、引退するCEOの後継者をまだ指名していない。",
+     "parts": [
+      [
+       "suc- / sub-",
+       "在后；接着",
+       "次に"
+      ],
+      [
+       "cess",
+       "走",
+       "進む"
+      ],
+      [
+       "-or",
+       "表示人",
+       "人を表す"
+      ]
+     ],
+     "note": {
+      "zh": "“接着走上来的人”→ 继任者。与 success（成功）同源：走到后面／顺利达成。",
+      "ja": "「続いて進む人」→ 後継者。success（成功）と同系。"
+     },
+     "forms": [
+      [
+       "succeed (v.)",
+       "继任；成功",
+       "後任になる；成功する"
+      ],
+      [
+       "succession (n.)",
+       "继任；连续",
+       "継承；連続"
+      ],
+      [
+       "successor to",
+       "……的继任者",
+       "〜の後継者"
+      ]
+     ],
+     "tip": {
+      "zh": "succeed 双义：成功 / 继任。successor 只指人／继任产品。",
+      "ja": "succeed は「成功」と「後任になる」。successor は後継者・後継機。"
+     }
+    },
+    {
+     "w": "concede",
+     "pos": "v.",
+     "ipa": "/kənˈsid/",
+     "zh": "承认（失败／事实）；让步",
+     "ja": "認める；譲歩する",
+     "ex": "The candidate refused to concede defeat until all ballots were counted.",
+     "ex_zh": "在全部选票清点完毕之前，该候选人拒绝承认败选。",
+     "ex_ja": "その候補者は全票の集計が終わるまで敗北を認めようとしなかった。",
+     "parts": [
+      [
+       "con-",
+       "完全；一起",
+       "完全に"
+      ],
+      [
+       "cede",
+       "走；让步",
+       "進む；譲る"
+      ]
+     ],
+     "note": {
+      "zh": "“完全让出／走开放弃”→ 承认对方正确或自己失败。",
+      "ja": "「譲って退く」→ 敗北や事実を認める。"
+     },
+     "forms": [
+      [
+       "concession (n.)",
+       "让步；特许经营权",
+       "譲歩；特许"
+      ],
+      [
+       "concession stand",
+       "小卖部",
+       "売店"
+      ],
+      [
+       "concede that",
+       "承认……",
+       "〜だと認める"
+      ]
+     ],
+     "tip": {
+      "zh": "谈判：make concessions；选举：concede defeat。",
+      "ja": "交渉の譲歩、選挙の敗北宣言で使う。"
+     }
+    },
+    {
+     "w": "recession",
+     "pos": "n.",
+     "ipa": "/rɪˈsɛʃən/",
+     "zh": "经济衰退；（缓慢）后退",
+     "ja": "景気後退；不況",
+     "ex": "Several firms delayed expansion plans because of the ongoing recession.",
+     "ex_zh": "由于持续的经济衰退，多家公司推迟了扩张计划。",
+     "ex_ja": "進行中の景気後退のため、複数の企業が拡大計画を延期した。",
+     "parts": [
+      [
+       "re-",
+       "向后",
+       "後ろへ"
+      ],
+      [
+       "cess",
+       "走",
+       "進む"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "“往回走”→ 经济回落。动词 recede = 退去、减少。",
+      "ja": "「後ろへ進む」→ 景気後退。動詞 recede は後退する。"
+     },
+     "forms": [
+      [
+       "recessive (adj.)",
+       "衰退的；隐性的",
+       "後退的な；劣性の"
+      ],
+      [
+       "recede (v.)",
+       "后退；减弱",
+       "後退する；弱まる"
+      ],
+      [
+       "economic recession",
+       "经济衰退",
+       "景気後退"
+      ]
+     ],
+     "tip": {
+      "zh": "财经 Part 7 常见；搭配 enter / exit a recession。",
+      "ja": "enter / exit a recession が定番コロケーション。"
+     }
+    },
+    {
+     "w": "excessive",
+     "pos": "adj.",
+     "ipa": "/ɪkˈsɛsɪv/",
+     "zh": "过度的；过分的",
+     "ja": "過度の；過剰な",
+     "ex": "The auditor flagged excessive overtime as a risk to employee well-being.",
+     "ex_zh": "审计员将过度加班标为影响员工身心健康的风险。",
+     "ex_ja": "監査人は、過度の残業を従業員の健康リスクとして指摘した。",
+     "parts": [
+      [
+       "ex-",
+       "超出",
+       "外へ"
+      ],
+      [
+       "cess",
+       "走",
+       "進む"
+      ],
+      [
+       "-ive",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "与 exceed / excess 同族：走出合理范围之外的。",
+      "ja": "exceed / excess と同系。適切な範囲を超えた。"
+     },
+     "forms": [
+      [
+       "excess (n.)",
+       "过量",
+       "過剰"
+      ],
+      [
+       "excessively (adv.)",
+       "过度地",
+       "過度に"
+      ],
+      [
+       "excessive fees",
+       "过高费用",
+       "過大な手数料"
+      ]
+     ],
+     "tip": {
+      "zh": "投诉信／审计报告常用：excessive noise / charges / delays。",
+      "ja": "苦情・監査で excessive ＋名詞が定番。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "marketing",
+   "title_zh": "主题：市场营销与广告",
+   "title_ja": "テーマ：マーケティングと広告",
+   "words": [
+    {
+     "w": "advertise",
+     "pos": "v.",
+     "ipa": "/ˈædvɚtaɪz/",
+     "zh": "做广告；宣传",
+     "ja": "宣伝する；広告を出す",
+     "ex": "We plan to advertise the spring sale in both print and online media.",
+     "ex_zh": "我们计划在印刷和网络媒体上为春季促销做广告。",
+     "ex_ja": "春のセールを印刷媒体とオンラインの両方で宣伝する予定だ。",
+     "parts": [
+      [
+       "ad-",
+       "朝向",
+       "〜へ"
+      ],
+      [
+       "vert",
+       "转",
+       "向く"
+      ],
+      [
+       "-ise / -ize",
+       "动词后缀",
+       "動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 advertere“使注意力转向”→ 打广告吸引注意。",
+      "ja": "ラテン語 advertere「注意を向ける」→ 広告する。"
+     },
+     "forms": [
+      [
+       "advertisement (n.)",
+       "广告",
+       "広告"
+      ],
+      [
+       "advertising (n.)",
+       "广告业；做广告",
+       "広告（活動）"
+      ],
+      [
+       "advertiser (n.)",
+       "广告主",
+       "広告主"
+      ]
+     ],
+     "tip": {
+      "zh": "英式常缩写为 advert；美式口语说 ad。动词 advertise 正式写作更常见。",
+      "ja": "名詞は advertisement / ad。動詞 advertise はフォーマル寄りの書き言葉でも頻出。"
+     }
+    },
+    {
+     "w": "billboard",
+     "pos": "n.",
+     "ipa": "/ˈbɪlbɔrd/",
+     "zh": "户外广告牌；大幅广告板",
+     "ja": "看板；屋外広告板",
+     "ex": "A large billboard near the station displays the new smartphone campaign.",
+     "ex_zh": "车站附近的大型广告牌展示着新智能手机的宣传活动。",
+     "ex_ja": "駅近くの大きな看板に、新型スマートフォンのキャンペーンが表示されている。",
+     "parts": [],
+     "note": {
+      "zh": "本族复合词：bill（告示）+ board（板）。没有拉丁词根拆分。",
+      "ja": "bill（掲示）＋ board（板）の複合語。ラテン語根の分解はない。"
+     },
+     "forms": [
+      [
+       "billboard ad",
+       "广告牌广告",
+       "看板広告"
+      ],
+      [
+       "digital billboard",
+       "电子广告牌",
+       "デジタル看板"
+      ],
+      [
+       "billboard space",
+       "广告牌位",
+       "看板枠"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1／Part 7 场景图常见：highway billboard。",
+      "ja": "高速道路の看板など Part 1・7 の情景で出やすい。"
+     }
+    },
+    {
+     "w": "slogan",
+     "pos": "n.",
+     "ipa": "/ˈsloʊɡən/",
+     "zh": "广告语；口号",
+     "ja": "スローガン；キャッチフレーズ",
+     "ex": "The marketing team spent weeks crafting a memorable slogan for the brand.",
+     "ex_zh": "市场团队花了数周为品牌打磨一句令人难忘的广告语。",
+     "ex_ja": "マーケティングチームは、ブランドの印象的なスローガン作りに何週間も費やした。",
+     "parts": [],
+     "note": {
+      "zh": "借自苏格兰盖尔语 sluagh-ghairm“战斗呐喊”，后指口号。无拉丁词根拆分。",
+      "ja": "スコットランド・ゲール語 sluagh-ghairm「戦闘の叫び」由来。ラテン語根はない。"
+     },
+     "forms": [
+      [
+       "catchy slogan",
+       "朗朗上口的广告语",
+       "キャッチーなスローガン"
+      ],
+      [
+       "campaign slogan",
+       "活动口号",
+       "キャンペーンスローガン"
+      ],
+      [
+       "brand slogan",
+       "品牌口号",
+       "ブランドスローガン"
+      ]
+     ],
+     "tip": {
+      "zh": "与 tagline 近义；slogan 更偏口号感。",
+      "ja": "tagline に近いが、slogan の方が「叫び・標語」感が強い。"
+     }
+    },
+    {
+     "w": "endorse",
+     "pos": "v.",
+     "ipa": "/ɪnˈdɔrs/",
+     "zh": "代言；赞同；背书",
+     "ja": "支持する；推奨する；裏書きする",
+     "ex": "The athlete agreed to endorse the company's new line of running shoes.",
+     "ex_zh": "这位运动员同意为公司的新跑鞋系列代言。",
+     "ex_ja": "その選手は、同社の新しいランニングシューズの推奨（エンドース）に同意した。",
+     "parts": [
+      [
+       "en-",
+       "使；放上",
+       "〜にする"
+      ],
+      [
+       "dors",
+       "背；背面",
+       "背中"
+      ]
+     ],
+     "note": {
+      "zh": "原义“写在票据背面”→ 背书；引申为公开支持／代言。",
+      "ja": "元は手形の裏面に書くこと → 裏書き；転じて公に支持・推奨。"
+     },
+     "forms": [
+      [
+       "endorsement (n.)",
+       "代言；赞同；背书",
+       "推奨；支持；裏書き"
+      ],
+      [
+       "endorser (n.)",
+       "代言人；背书人",
+       "推奨者"
+      ],
+      [
+       "product endorsement",
+       "产品代言",
+       "製品推奨"
+      ]
+     ],
+     "tip": {
+      "zh": "名人代言 = celebrity endorsement；也可指上司 endorse a proposal。",
+      "ja": "有名人の推奨のほか、上司が提案を承認する意もある。"
+     }
+    },
+    {
+     "w": "sponsor",
+     "pos": "n./v.",
+     "ipa": "/ˈspɑnsɚ/",
+     "zh": "赞助商；赞助",
+     "ja": "スポンサー；後援する",
+     "ex": "A local bank will sponsor the charity marathon again this year.",
+     "ex_zh": "一家本地银行今年将再次赞助这场慈善马拉松。",
+     "ex_ja": "地元の銀行が今年もチャリティマラソンを後援する。",
+     "parts": [],
+     "note": {
+      "zh": "来自拉丁语 spondere（承诺、保证），经法语 sponsor。词根对记词帮助有限，可记“承诺出钱支持”。",
+      "ja": "ラテン語 spondere（約束する）経由。語根分解の実用性は低く、「支援を約束する側」と覚える。"
+     },
+     "forms": [
+      [
+       "sponsorship (n.)",
+       "赞助",
+       "スポンサーシップ"
+      ],
+      [
+       "corporate sponsor",
+       "企业赞助商",
+       "企業スポンサー"
+      ],
+      [
+       "title sponsor",
+       "冠名赞助商",
+       "タイトルスポンサー"
+      ]
+     ],
+     "tip": {
+      "zh": "活动通知高频：sponsored by…；title sponsor = 冠名赞助。",
+      "ja": "sponsored by … が案内文の定番。"
+     }
+    },
+    {
+     "w": "publicity",
+     "pos": "n.",
+     "ipa": "/pʌˈblɪsəti/",
+     "zh": "宣传；曝光；（媒体）关注",
+     "ja": "広報；宣伝；話題",
+     "ex": "The product launch generated extensive publicity in the trade press.",
+     "ex_zh": "产品发布在行业媒体上获得了广泛宣传。",
+     "ex_ja": "製品発表は業界紙で幅広い広報効果を生んだ。",
+     "parts": [
+      [
+       "public",
+       "公众的",
+       "公の"
+      ],
+      [
+       "-ity",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "public + -ity → 面向公众的曝光／知名度。",
+      "ja": "public ＋ -ity → 世間の注目・広報。"
+     },
+     "forms": [
+      [
+       "publicize (v.)",
+       "宣传；公布",
+       "公表する；宣伝する"
+      ],
+      [
+       "publicity campaign",
+       "宣传活动",
+       "広報キャンペーン"
+      ],
+      [
+       "seek publicity",
+       "寻求曝光",
+       "話題を求める"
+      ]
+     ],
+     "tip": {
+      "zh": "中性词：可以是好曝光，也可以是 unwanted publicity（负面关注）。",
+      "ja": "良い話題にも悪い注目（unwanted publicity）にも使う。"
+     }
+    },
+    {
+     "w": "flyer",
+     "pos": "n.",
+     "ipa": "/ˈflaɪɚ/",
+     "zh": "传单；（非正式）飞行员",
+     "ja": "チラシ；フライヤー",
+     "ex": "Volunteers handed out flyers for the weekend open house at the mall.",
+     "ex_zh": "志愿者在商场分发周末开放日传单。",
+     "ex_ja": "ボランティアがモールで週末のオープンハウスのチラシを配った。",
+     "parts": [],
+     "note": {
+      "zh": "本族词 fly + -er；广告义指“会飞散发放的纸页”。无拉丁词根。",
+      "ja": "fly ＋ -er の英語本族語。広告の紙を配るイメージ。ラテン語根はない。"
+     },
+     "forms": [
+      [
+       "hand out flyers",
+       "发传单",
+       "チラシを配る"
+      ],
+      [
+       "promotional flyer",
+       "促销传单",
+       "宣伝チラシ"
+      ],
+      [
+       "flyer design",
+       "传单设计",
+       "チラシデザイン"
+      ]
+     ],
+     "tip": {
+      "zh": "也可拼 flier；TOEIC 广告／活动场景都常见。",
+      "ja": "flier とも綴る。イベント案内で頻出。"
+     }
+    },
+    {
+     "w": "catalog",
+     "pos": "n.",
+     "ipa": "/ˈkætəlɔɡ/",
+     "zh": "商品目录；图录",
+     "ja": "カタログ；目録",
+     "ex": "Please update the online catalog before the holiday shopping season begins.",
+     "ex_zh": "请在假日购物季开始前更新线上商品目录。",
+     "ex_ja": "ホリデー商戦が始まる前にオンラインカタログを更新してください。",
+     "parts": [
+      [
+       "cata-",
+       "向下；完整",
+       "下に；完全に"
+      ],
+      [
+       "log",
+       "说；记录",
+       "述べる；記録"
+      ]
+     ],
+     "note": {
+      "zh": "希腊语 katalogos“完整列出”→ 目录。美式 catalog，英式 catalogue。",
+      "ja": "ギリシャ語 katalogos「一覧にしたもの」。米 catalog／英 catalogue。"
+     },
+     "forms": [
+      [
+       "catalogue (BrE)",
+       "目录（英式拼写）",
+       "カタログ（英綴り）"
+      ],
+      [
+       "product catalog",
+       "产品目录",
+       "製品カタログ"
+      ],
+      [
+       "catalog price",
+       "目录价",
+       "カタログ価格"
+      ]
+     ],
+     "tip": {
+      "zh": "TOEIC 多用美式 catalog；与 brochure（小册子）不同，catalog 更像完整商品清单。",
+      "ja": "brochure（冊子）より「商品一覧」のニュアンス。"
+     }
+    },
+    {
+     "w": "commercial",
+     "pos": "n./adj.",
+     "ipa": "/kəˈmɝʃəl/",
+     "zh": "商业广告；商业的",
+     "ja": "CM・広告；商業の",
+     "ex": "The thirty-second commercial will air during prime-time television.",
+     "ex_zh": "这则三十秒的广告将在黄金时段电视播出。",
+     "ex_ja": "その30秒のCMはプライムタイムのテレビで放送される。",
+     "parts": [
+      [
+       "commerc",
+       "贸易；商业",
+       "商業"
+      ],
+      [
+       "-ial",
+       "形容词／相关后缀",
+       "形容詞などを作る"
+      ]
+     ],
+     "note": {
+      "zh": "来自 commerce（贸易）。名词特指电视／广播广告。",
+      "ja": "commerce（商業）から。名詞はテレビ／ラジオの広告枠。"
+     },
+     "forms": [
+      [
+       "commerce (n.)",
+       "商业；贸易",
+       "商業"
+      ],
+      [
+       "commercially (adv.)",
+       "商业上",
+       "商業的に"
+      ],
+      [
+       "TV commercial",
+       "电视广告",
+       "テレビCM"
+      ]
+     ],
+     "tip": {
+      "zh": "名词 = TV/radio ad；形容词 = 商业性的（commercial use）。",
+      "ja": "名詞は CM。形容詞は「商業用の」。"
+     }
+    },
+    {
+     "w": "unveil",
+     "pos": "v.",
+     "ipa": "/ʌnˈveɪl/",
+     "zh": "揭幕；首次公布",
+     "ja": "発表する；お披露目する",
+     "ex": "The CEO will unveil the redesigned logo at tomorrow's press conference.",
+     "ex_zh": "首席执行官将在明天的新闻发布会上揭晓重新设计的标志。",
+     "ex_ja": "CEOは明日の記者会見で、刷新されたロゴをお披露目する。",
+     "parts": [
+      [
+       "un-",
+       "去掉；相反",
+       "取り除く"
+      ],
+      [
+       "veil",
+       "面纱；遮盖",
+       "ベール"
+      ]
+     ],
+     "note": {
+      "zh": "字面“揭去面纱”→ 首次公开新产品／计划。",
+      "ja": "ベールを取り除く → 初めて公に示す。"
+     },
+     "forms": [
+      [
+       "unveiling (n.)",
+       "揭幕；发布",
+       "お披露目"
+      ],
+      [
+       "unveil a plan",
+       "公布计划",
+       "計画を発表する"
+      ],
+      [
+       "officially unveil",
+       "正式发布",
+       "正式に発表する"
+      ]
+     ],
+     "tip": {
+      "zh": "新闻稿高频：unveil a product / strategy / partnership。",
+      "ja": "製品・戦略・提携の発表文で頻出。"
+     }
+    },
+    {
+     "w": "niche",
+     "pos": "n./adj.",
+     "ipa": "/nɪtʃ/",
+     "zh": "利基市场；小众的定位",
+     "ja": "ニッチ；すき間市場",
+     "ex": "The startup found a profitable niche selling eco-friendly office supplies.",
+     "ex_zh": "这家初创公司找到了销售环保办公用品的利润利基市场。",
+     "ex_ja": "そのスタートアップは、環境に優しい事務用品という収益性の高いニッチを見つけた。",
+     "parts": [],
+     "note": {
+      "zh": "借自法语 niche（壁龛）；商业引申为细分、小众市场。无实用拉丁词根拆分。",
+      "ja": "フランス語 niche（壁の窪み）から。ビジネスではすき間市場。ラテン語根の実用分解はない。"
+     },
+     "forms": [
+      [
+       "niche market",
+       "利基市场",
+       "ニッチ市場"
+      ],
+      [
+       "niche product",
+       "小众产品",
+       "ニッチ製品"
+      ],
+      [
+       "carve out a niche",
+       "开辟细分市场",
+       "ニッチを切り開く"
+      ]
+     ],
+     "tip": {
+      "zh": "美音常 /nɪtʃ/；有人读 /niʃ/。TOEIC 取前者即可。",
+      "ja": "米音は /nɪtʃ/ が多い。"
+     }
+    },
+    {
+     "w": "demographic",
+     "pos": "n./adj.",
+     "ipa": "/ˌdɛməˈɡræfɪk/",
+     "zh": "人口统计特征；人口的",
+     "ja": "人口統計上の属性；人口の",
+     "ex": "Our core demographic is professionals between the ages of twenty-five and forty.",
+     "ex_zh": "我们的核心受众是二十五至四十岁的职场人士。",
+     "ex_ja": "当社の主要な顧客層は、25歳から40歳のビジネスパーソンだ。",
+     "parts": [
+      [
+       "demo",
+       "人民",
+       "人民"
+      ],
+      [
+       "graph",
+       "写；记录",
+       "書く"
+      ],
+      [
+       "-ic",
+       "形容词／相关后缀",
+       "形容詞などを作る"
+      ]
+     ],
+     "note": {
+      "zh": "希腊语 demos（人民）+ graphein（书写）→ 人口统计；名词常指目标人群。",
+      "ja": "ギリシャ語 demos（人々）＋ graphein（書く）→ 人口統計；名詞で顧客層。"
+     },
+     "forms": [
+      [
+       "demographics (n.)",
+       "人口统计数据",
+       "人口統計データ"
+      ],
+      [
+       "target demographic",
+       "目标人群",
+       "ターゲット層"
+      ],
+      [
+       "demographic data",
+       "人口数据",
+       "人口データ"
+      ]
+     ],
+     "tip": {
+      "zh": "营销策划书套话：target demographic；复数 demographics 指统计数据。",
+      "ja": "target demographic が企画書の定番。"
+     }
+    },
+    {
+     "w": "persuasive",
+     "pos": "adj.",
+     "ipa": "/pɚˈsweɪsɪv/",
+     "zh": "有说服力的",
+     "ja": "説得力のある",
+     "ex": "She delivered a persuasive presentation that convinced the clients to renew.",
+     "ex_zh": "她做了一场很有说服力的演示，说服客户续约。",
+     "ex_ja": "彼女は説得力のあるプレゼンで、顧客に契約更新を納得させた。",
+     "parts": [
+      [
+       "per-",
+       "彻底；完全",
+       "完全に"
+      ],
+      [
+       "suas",
+       "劝；促",
+       "勧める"
+      ],
+      [
+       "-ive",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "来自拉丁语 persuadere（劝服）：per-（彻底）+ suadere（劝）。",
+      "ja": "ラテン語 persuadere（説得する）から。"
+     },
+     "forms": [
+      [
+       "persuade (v.)",
+       "说服",
+       "説得する"
+      ],
+      [
+       "persuasion (n.)",
+       "说服；信念",
+       "説得；説得力"
+      ],
+      [
+       "persuasively (adv.)",
+       "有说服力地",
+       "説得力をもって"
+      ]
+     ],
+     "tip": {
+      "zh": "写作／演讲评价：a persuasive argument / email。",
+      "ja": "a persuasive argument が評価コメントで定番。"
+     }
+    },
+    {
+     "w": "pamphlet",
+     "pos": "n.",
+     "ipa": "/ˈpæmflət/",
+     "zh": "小册子；宣传册",
+     "ja": "パンフレット；小冊子",
+     "ex": "The visitor center provides free pamphlets about local hiking trails.",
+     "ex_zh": "游客中心提供关于当地徒步路线的免费小册子。",
+     "ex_ja": "ビジターセンターでは、地元のハイキングコースに関する無料のパンフレットを配布している。",
+     "parts": [],
+     "note": {
+      "zh": "词源与中世纪幽默诗 Pamphilus 有关，后泛指小册子。无可靠的词根教学拆分。",
+      "ja": "中世の詩篇名に由来し、後に小冊子全般を指す。語根分解は実用的でない。"
+     },
+     "forms": [
+      [
+       "informational pamphlet",
+       "说明小册子",
+       "案内パンフレット"
+      ],
+      [
+       "pamphlet rack",
+       "宣传册架",
+       "パンフレット立て"
+      ],
+      [
+       "distribute pamphlets",
+       "分发小册子",
+       "パンフレットを配布する"
+      ]
+     ],
+     "tip": {
+      "zh": "与 brochure／flyer 近义；pamphlet 常指信息说明类薄册。",
+      "ja": "brochure / flyer に近い。案内・説明寄りの薄い冊子。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "compliance",
+   "title_zh": "主题：法规与合规",
+   "title_ja": "テーマ：法規とコンプライアンス",
+   "words": [
+    {
+     "w": "regulation",
+     "pos": "n.",
+     "ipa": "/ˌrɛɡjəˈleɪʃən/",
+     "zh": "规章；法规；管理",
+     "ja": "規制；規則；条例",
+     "ex": "New environmental regulations will affect how factories dispose of waste.",
+     "ex_zh": "新的环保法规将影响工厂如何处理废弃物。",
+     "ex_ja": "新しい環境規制は、工場の廃棄物処理の方法に影響する。",
+     "parts": [
+      [
+       "regul",
+       "规则；管理",
+       "規則"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "来自拉丁语 regula（尺子、规则）→ regulate 管理 → regulation 规章。",
+      "ja": "ラテン語 regula（規則）→ regulate → regulation。"
+     },
+     "forms": [
+      [
+       "regulate (v.)",
+       "管理；调控",
+       "規制する"
+      ],
+      [
+       "regulatory (adj.)",
+       "监管的",
+       "規制の"
+      ],
+      [
+       "government regulation",
+       "政府法规",
+       "政府規制"
+      ]
+     ],
+     "tip": {
+      "zh": "podcast 有 safety regulations 短语；此处记单数／复数 regulation(s) 与 regulatory agency。",
+      "ja": "regulatory agency（規制当局）とセットで覚える。"
+     }
+    },
+    {
+     "w": "violation",
+     "pos": "n.",
+     "ipa": "/ˌvaɪəˈleɪʃən/",
+     "zh": "违反；违规；侵害",
+     "ja": "違反；侵害",
+     "ex": "Parking in the fire lane is a serious violation of building safety rules.",
+     "ex_zh": "在消防通道停车严重违反建筑物安全规定。",
+     "ex_ja": "消防車用レーンへの駐車は、建物の安全規則の重大な違反だ。",
+     "parts": [
+      [
+       "viol",
+       "用力对待；违背",
+       "破る"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 violare“冒犯、违背”。",
+      "ja": "ラテン語 violare「侵す・破る」。"
+     },
+     "forms": [
+      [
+       "violate (v.)",
+       "违反",
+       "違反する"
+      ],
+      [
+       "violator (n.)",
+       "违规者",
+       "違反者"
+      ],
+      [
+       "in violation of",
+       "违反……",
+       "〜に違反して"
+      ]
+     ],
+     "tip": {
+      "zh": "警告信套话：This is a violation of company policy.",
+      "ja": "社内ポリシー違反の通知文で定番。"
+     }
+    },
+    {
+     "w": "penalty",
+     "pos": "n.",
+     "ipa": "/ˈpɛnəlti/",
+     "zh": "处罚；罚款；违约金",
+     "ja": "罰則；罰金；違約金",
+     "ex": "Late payment of the invoice will result in a financial penalty.",
+     "ex_zh": "逾期支付发票将导致金钱处罚。",
+     "ex_ja": "請求書の支払い遅延は金銭的な罰則の対象となる。",
+     "parts": [],
+     "note": {
+      "zh": "来自拉丁语 poena（惩罚），经法语。可记词，不必强拆词根。",
+      "ja": "ラテン語 poena（罰）経由。語根分解より単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "penalize (v.)",
+       "处罚",
+       "罰する"
+      ],
+      [
+       "penalty fee",
+       "罚金；违约金",
+       "違約金"
+      ],
+      [
+       "severe penalty",
+       "严厉处罚",
+       "厳しい罰則"
+      ]
+     ],
+     "tip": {
+      "zh": "合同条款：penalty for early termination / late delivery。",
+      "ja": "早期解約・遅延の違約金条項で頻出。"
+     }
+    },
+    {
+     "w": "enforce",
+     "pos": "v.",
+     "ipa": "/ɪnˈfɔrs/",
+     "zh": "执行；强制实施",
+     "ja": "施行する；強制する",
+     "ex": "Security staff are authorized to enforce the visitor registration policy.",
+     "ex_zh": "安保人员有权执行访客登记政策。",
+     "ex_ja": "警備員は来訪者登録ポリシーを施行する権限を与えられている。",
+     "parts": [
+      [
+       "en-",
+       "使；加以",
+       "〜にする"
+      ],
+      [
+       "force",
+       "力量；强制",
+       "力"
+      ]
+     ],
+     "note": {
+      "zh": "en- + force → 使……具有强制力并付诸实施。",
+      "ja": "en- ＋ force → 力を持たせて実行する。"
+     },
+     "forms": [
+      [
+       "enforcement (n.)",
+       "执行；执法",
+       "施行；取り締まり"
+      ],
+      [
+       "law enforcement",
+       "执法部门",
+       "法執行機関"
+      ],
+      [
+       "strictly enforce",
+       "严格执行",
+       "厳格に施行する"
+      ]
+     ],
+     "tip": {
+      "zh": "policy / rule / law + enforce；名词 enforcement。",
+      "ja": "規則を enforce する。名詞は enforcement。"
+     }
+    },
+    {
+     "w": "prohibit",
+     "pos": "v.",
+     "ipa": "/proʊˈhɪbɪt/",
+     "zh": "禁止",
+     "ja": "禁止する",
+     "ex": "Company policy prohibits the use of personal USB drives on office computers.",
+     "ex_zh": "公司政策禁止在办公电脑上使用私人 U 盘。",
+     "ex_ja": "会社の方針では、オフィスのPCで私用USBドライブを使うことを禁止している。",
+     "parts": [
+      [
+       "pro-",
+       "向前；在前",
+       "前に"
+      ],
+      [
+       "hibit",
+       "持有；保持",
+       "持つ"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 prohibere“挡在前面、阻止持有”→ 禁止。与 inhibit（抑制）同源。",
+      "ja": "ラテン語 prohibere「前で阻む」→ 禁止。inhibit（抑制）と同系。"
+     },
+     "forms": [
+      [
+       "prohibition (n.)",
+       "禁止",
+       "禁止"
+      ],
+      [
+       "prohibited (adj.)",
+       "被禁止的",
+       "禁止された"
+      ],
+      [
+       "strictly prohibited",
+       "严禁",
+       "厳禁"
+      ]
+     ],
+     "tip": {
+      "zh": "告示英语：Smoking is strictly prohibited。比 forbid 更正式。",
+      "ja": "掲示では forbid より禁止感が強いフォーマル語。"
+     }
+    },
+    {
+     "w": "restrict",
+     "pos": "v.",
+     "ipa": "/rɪˈstrɪkt/",
+     "zh": "限制；约束",
+     "ja": "制限する；規制する",
+     "ex": "Management decided to restrict overtime during the slow season.",
+     "ex_zh": "管理层决定在淡季限制加班。",
+     "ex_ja": "経営陣は閑散期の残業を制限することにした。",
+     "parts": [
+      [
+       "re-",
+       "向后；回",
+       "後ろへ"
+      ],
+      [
+       "strict",
+       "拉紧；束缚",
+       "縛る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 restringere“拉紧、束缚回来”→ 限制范围。",
+      "ja": "ラテン語 restringere「締めつける」→ 制限する。"
+     },
+     "forms": [
+      [
+       "restriction (n.)",
+       "限制",
+       "制限"
+      ],
+      [
+       "restricted (adj.)",
+       "受限的；保密的",
+       "制限された；関係者外秘の"
+      ],
+      [
+       "restrict access",
+       "限制访问",
+       "アクセスを制限する"
+      ]
+     ],
+     "tip": {
+      "zh": "restricted area = 禁区／限制区域；与 access 常一起出现。",
+      "ja": "restricted area は立入制限区域。"
+     }
+    },
+    {
+     "w": "legislation",
+     "pos": "n.",
+     "ipa": "/ˌlɛdʒɪsˈleɪʃən/",
+     "zh": "立法；法律（总称）",
+     "ja": "立法；法律（総称）",
+     "ex": "Pending legislation could change the way overtime is calculated.",
+     "ex_zh": "待决立法可能改变加班费的计算方式。",
+     "ex_ja": "審議中の立法が、残業代の計算方法を変える可能性がある。",
+     "parts": [
+      [
+       "legis",
+       "法律",
+       "法"
+      ],
+      [
+       "lat",
+       "提出；携带",
+       "提出する"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 legis latio“提出法律”→ 立法过程或所立之法的总称。",
+      "ja": "ラテン語 legis latio「法を提案すること」→ 立法／法令の総称。"
+     },
+     "forms": [
+      [
+       "legislate (v.)",
+       "立法",
+       "立法する"
+      ],
+      [
+       "legislative (adj.)",
+       "立法的",
+       "立法の"
+      ],
+      [
+       "legislator (n.)",
+       "立法者；议员",
+       "立法府議員"
+      ]
+     ],
+     "tip": {
+      "zh": "不可数总称：new legislation；具体一条法常用 law / act / statute。",
+      "ja": "不可算の総称。個別の法律は law / act。"
+     }
+    },
+    {
+     "w": "exempt",
+     "pos": "adj./v.",
+     "ipa": "/ɪɡˈzɛmpt/",
+     "zh": "被免除的；免除",
+     "ja": "免除された；免除する",
+     "ex": "Full-time students are exempt from the annual membership fee.",
+     "ex_zh": "全日制学生免交年度会费。",
+     "ex_ja": "全日制の学生は年会費を免除される。",
+     "parts": [
+      [
+       "ex-",
+       "出去",
+       "外へ"
+      ],
+      [
+       "empt",
+       "拿；取",
+       "取る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 exemptus“被取出”→ 从义务中拿出来 = 免除。",
+      "ja": "ラテン語 exemptus「取り出された」→ 義務から外す。"
+     },
+     "forms": [
+      [
+       "exemption (n.)",
+       "免除",
+       "免除"
+      ],
+      [
+       "tax-exempt (adj.)",
+       "免税的",
+       "非課税の"
+      ],
+      [
+       "exempt from",
+       "免除……",
+       "〜を免除される"
+      ]
+     ],
+     "tip": {
+      "zh": "固定搭配 exempt from + 名词；名词 exemption。",
+      "ja": "exempt from ＋名詞。名詞は exemption。"
+     }
+    },
+    {
+     "w": "disclosure",
+     "pos": "n.",
+     "ipa": "/dɪsˈkloʊʒɚ/",
+     "zh": "披露；公开；透露",
+     "ja": "開示；公表",
+     "ex": "Full disclosure of potential conflicts of interest is required of all board members.",
+     "ex_zh": "所有董事会成员都必须充分披露潜在的利益冲突。",
+     "ex_ja": "取締役は全員、潜在的な利益相反を十分に開示することが求められる。",
+     "parts": [
+      [
+       "dis-",
+       "相反；去掉",
+       "反対・除去"
+      ],
+      [
+       "clos",
+       "关闭；遮住",
+       "閉じる"
+      ],
+      [
+       "-ure",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "dis- + close → 不再关闭／隐藏 = 公开。动词 disclose。",
+      "ja": "dis- ＋ close → 閉じたものを開く＝開示。動詞は disclose。"
+     },
+     "forms": [
+      [
+       "disclose (v.)",
+       "披露",
+       "開示する"
+      ],
+      [
+       "full disclosure",
+       "充分披露",
+       "全面開示"
+      ],
+      [
+       "non-disclosure agreement",
+       "保密协议（NDA）",
+       "秘密保持契約"
+      ]
+     ],
+     "tip": {
+      "zh": "NDA = non-disclosure agreement，商务极高频。",
+      "ja": "NDA（秘密保持契約）とセットで超頻出。"
+     }
+    },
+    {
+     "w": "ethical",
+     "pos": "adj.",
+     "ipa": "/ˈɛθɪkəl/",
+     "zh": "道德的；伦理的",
+     "ja": "倫理的な；道徳的な",
+     "ex": "The firm adopted stricter ethical guidelines for supplier relationships.",
+     "ex_zh": "该公司对供应商关系采用了更严格的道德准则。",
+     "ex_ja": "同社は、取引先との関係についてより厳格な倫理ガイドラインを採用した。",
+     "parts": [
+      [
+       "ethic",
+       "伦理",
+       "倫理"
+      ],
+      [
+       "-al",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "来自希腊语 ethos（习俗、品格）。ethics = 伦理学／职业道德。",
+      "ja": "ギリシャ語 ethos（習い・品格）から。ethics は倫理・職業倫理。"
+     },
+     "forms": [
+      [
+       "ethics (n.)",
+       "伦理；道德规范",
+       "倫理"
+      ],
+      [
+       "ethically (adv.)",
+       "合乎道德地",
+       "倫理的に"
+      ],
+      [
+       "unethical (adj.)",
+       "不道德的",
+       "非倫理的な"
+      ]
+     ],
+     "tip": {
+      "zh": "HR／合规培训：ethical conduct / code of ethics。",
+      "ja": "ethical conduct / code of ethics が研修定番。"
+     }
+    },
+    {
+     "w": "integrity",
+     "pos": "n.",
+     "ipa": "/ɪnˈtɛɡrəti/",
+     "zh": "正直；诚信；完整",
+     "ja": "誠実；高潔；完全性",
+     "ex": "We value integrity and expect employees to report concerns honestly.",
+     "ex_zh": "我们重视诚信，并期望员工诚实报告问题。",
+     "ex_ja": "当社は誠実さを重視し、社員が懸念を正直に報告することを期待する。",
+     "parts": [
+      [
+       "integr",
+       "完整；整个",
+       "完全な"
+      ],
+      [
+       "-ity",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 integer（完整的、未受损的）→ 人格完整即正直；也指数据／结构完整。",
+      "ja": "ラテン語 integer（完全な）→ 人格の誠実さ；データの完全性。"
+     },
+     "forms": [
+      [
+       "integral (adj.)",
+       "不可或缺的",
+       "不可欠な"
+      ],
+      [
+       "integrate (v.)",
+       "整合；一体化",
+       "統合する"
+      ],
+      [
+       "data integrity",
+       "数据完整性",
+       "データ完全性"
+      ]
+     ],
+     "tip": {
+      "zh": "企业文化关键词；IT 也说 data integrity。",
+      "ja": "企業理念の定番語。IT では data integrity。"
+     }
+    },
+    {
+     "w": "litigation",
+     "pos": "n.",
+     "ipa": "/ˌlɪtɪˈɡeɪʃən/",
+     "zh": "诉讼；打官司",
+     "ja": "訴訟",
+     "ex": "The two companies settled the dispute to avoid costly litigation.",
+     "ex_zh": "两家公司为了避免昂贵的诉讼而达成和解。",
+     "ex_ja": "両社は高額な訴訟を避けるため、紛争を和解で解決した。",
+     "parts": [
+      [
+       "litig",
+       "争讼",
+       "争う"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 litigare“打官司、争论”。",
+      "ja": "ラテン語 litigare「争う・訴える」。"
+     },
+     "forms": [
+      [
+       "litigate (v.)",
+       "提起诉讼",
+       "訴訟する"
+      ],
+      [
+       "litigious (adj.)",
+       "好诉讼的",
+       "訴訟好きの"
+      ],
+      [
+       "pending litigation",
+       "未决诉讼",
+       "係属中の訴訟"
+      ]
+     ],
+     "tip": {
+      "zh": "合同免责与年报风险披露常见词；比 lawsuit 更总称、更正式。",
+      "ja": "lawsuit より総称的・フォーマル。契約・有報で頻出。"
+     }
+    },
+    {
+     "w": "license",
+     "pos": "n./v.",
+     "ipa": "/ˈlaɪsəns/",
+     "zh": "执照；许可证；许可",
+     "ja": "免許；ライセンス；許可する",
+     "ex": "Software users must renew their license before the expiration date.",
+     "ex_zh": "软件用户必须在到期日之前续订许可证。",
+     "ex_ja": "ソフトウェア利用者は有効期限前にライセンスを更新しなければならない。",
+     "parts": [],
+     "note": {
+      "zh": "来自拉丁语 licere（被允许）。美式 license（名／动），英式名词 licence、动词 license。",
+      "ja": "ラテン語 licere（許される）。米は名動詞とも license。英は名詞 licence／動詞 license。"
+     },
+     "forms": [
+      [
+       "licensed (adj.)",
+       "有执照的",
+       "免許を持つ"
+      ],
+      [
+       "licensing (n.)",
+       "许可授权",
+       "ライセンス供与"
+      ],
+      [
+       "driver's license",
+       "驾驶执照",
+       "運転免許証"
+      ]
+     ],
+     "tip": {
+      "zh": "TOEIC 美式拼写为主；driver's / business / software license。",
+      "ja": "TOEIC は米綴り license が中心。"
+     }
+    },
+    {
+     "w": "attorney",
+     "pos": "n.",
+     "ipa": "/əˈtɝni/",
+     "zh": "律师；（法律）代理人",
+     "ja": "弁護士；代理人",
+     "ex": "Please contact our corporate attorney before signing the merger agreement.",
+     "ex_zh": "签署并购协议前请先联系公司法律顾问。",
+     "ex_ja": "合併契約に署名する前に、当社の顧問弁護士に連絡してください。",
+     "parts": [],
+     "note": {
+      "zh": "源自古法语 atorné“被指派者”。美式常用 attorney；英式更常说 lawyer / solicitor。无实用词根拆分。",
+      "ja": "古フランス語 atorné「任命された人」。米では attorney、英では lawyer が多い。語根分解の実用性は低い。"
+     },
+     "forms": [
+      [
+       "power of attorney",
+       "授权委托书",
+       "委任状"
+      ],
+      [
+       "attorney-at-law",
+       "执业律师",
+       "弁護士"
+      ],
+      [
+       "defense attorney",
+       "辩护律师",
+       "弁護側弁護士"
+      ]
+     ],
+     "tip": {
+      "zh": "美式商务信：consult your attorney；power of attorney = 授权书。",
+      "ja": "consult your attorney が米商務の定番。"
+     }
+    }
+   ]
+  }
+ ]
+}
