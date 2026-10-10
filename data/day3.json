@@ -1,0 +1,2934 @@
+{
+ "day": 3,
+ "date": "2026-10-11",
+ "title_zh": "四大词根 + 人事招聘与财务会计",
+ "title_ja": "4つの語根＋人事・採用と財務・会計",
+ "intro_zh": "今天掌握 4 个高频词根（scrib 写 / struct 建造 / fer 携带 / tract 拉），再学人事招聘与财务会计核心词——对应错题里偏弱的 Part 5 词性题和 Part 7 商务文件阅读。",
+ "intro_ja": "今日は語根 4 つ（scrib 書く／struct 建てる／fer 運ぶ／tract 引く）と、人事・採用および財務・会計の重要語を学びます。Part 5 の品詞問題と Part 7 の文書読解に直結します。",
+ "voice": "en-US-AriaNeural",
+ "roots": [
+  {
+   "root": "-scrib- / -script-",
+   "origin": "Latin scribere",
+   "zh": "写",
+   "ja": "書く",
+   "exp_zh": "来自拉丁语 scribere（写；过去分词 scriptus）。前缀决定“怎么写 / 写到哪儿”：de-（写下细节 → 描述）、pre-（预先写 → 开处方／规定）、trans-（抄写过去 → 誊本）、post-（写在后面 → 附言）、a-（写到某人身上 → 归因）。名词常为 -scription / -script。",
+   "exp_ja": "ラテン語 scribere（書く、過去分詞 scriptus）から。接頭辞が「どう書くか」を決める：de-（詳しく書く → 記述する）、pre-（前もって書く → 処方する／定める）、trans-（書き写す → 書き起こし）、post-（後に書く → 追伸）、a-（書きつける → 帰する）。名詞は -scription / -script が多い。",
+   "examples": [
+    "describe",
+    "prescribe",
+    "transcript",
+    "manuscript",
+    "postscript"
+   ]
+  },
+  {
+   "root": "-struct- / -stru-",
+   "origin": "Latin struere",
+   "zh": "建造；堆积",
+   "ja": "建てる；積み上げる",
+   "exp_zh": "来自拉丁语 struere（堆积、建造；过去分词 structus）。前缀：con-（一起建 → 建造）、in-（往里建／教导结构 → 指导）、ob-（挡住建造 → 妨碍）、re-（重新建 → 重建）、de-（拆掉结构 → 破坏）。名词多为 -struction / -structure。⚠️ industry、instrument 看起来像但不同源，勿硬拆。",
+   "exp_ja": "ラテン語 struere（積み上げる・建てる、過去分詞 structus）から。接頭辞：con-（共に建てる → 建設する）、in-（中に組み立てる／教える → 指導する）、ob-（妨げて建てる → 妨害する）、re-（再び建てる → 再建する）、de-（構造を壊す → 破壊）。名詞は -struction / -structure。⚠️ industry や instrument は見た目が似ても別語源。",
+   "examples": [
+    "construct",
+    "instruct",
+    "infrastructure",
+    "obstruct",
+    "reconstruct"
+   ]
+  },
+  {
+   "root": "-fer-",
+   "origin": "Latin ferre",
+   "zh": "携带；带来",
+   "ja": "運ぶ；もたらす",
+   "exp_zh": "来自拉丁语 ferre（携带、带来）。前缀决定“带到哪儿 / 怎么带”：re-（带回 → 提及／参考）、pre-（带到前面 → 更喜欢）、con-（带到一起 → 商议／授予）、de-（往后带 → 推迟）、inter-（带到中间 → 干涉）。名词常为 -ference / -ferral。⚠️ fertile、ferry 同源但业务场景较少；offer 虽同源，日常已固化，本课不单列。",
+   "exp_ja": "ラテン語 ferre（運ぶ）から。接頭辞：re-（戻すように運ぶ → 言及する／参照する）、pre-（前に運ぶ → 好む）、con-（共に運ぶ → 協議する／授与する）、de-（先送りに運ぶ → 延期する）、inter-（間に入って運ぶ → 干渉する）。名詞は -ference / -ferral。",
+   "examples": [
+    "refer",
+    "prefer",
+    "confer",
+    "defer",
+    "inference"
+   ]
+  },
+  {
+   "root": "-tract-",
+   "origin": "Latin trahere / tractus",
+   "zh": "拉；抽",
+   "ja": "引く；引き出す",
+   "exp_zh": "来自拉丁语 trahere（拉；过去分词 tractus）。前缀：ex-（拉出来 → 提取）、dis-（拉开注意力 → 分心）、re-（拉回去 → 撤回）、pro-（向前拉长 → 拖延的）、abs-（拉开 → 摘要／抽象）、con-（一起拉 → 承包商／合同相关）。⚠️ attract（ad+tract）同源但本站尽量避开播客已讲词；contract 名词／动词重音不同，见 contractor 相关 tip。",
+   "exp_ja": "ラテン語 trahere（引く、過去分詞 tractus）から。接頭辞：ex-（引き出す → 抽出する）、dis-（注意を引き離す → 気をそらす）、re-（引き戻す → 撤回する）、pro-（長く引き延ばす → 長引いた）、abs-（引き離す → 要約／抽象）、con-（共に引く → 請負業者）。",
+   "examples": [
+    "extract",
+    "distract",
+    "retract",
+    "abstract",
+    "contractor"
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "scrib",
+   "title_zh": "词根 -scrib- / -script-：写",
+   "title_ja": "語根 -scrib- / -script-：書く",
+   "words": [
+    {
+     "w": "describe",
+     "pos": "v.",
+     "ipa": "/dɪˈskraɪb/",
+     "zh": "描述；描绘",
+     "ja": "説明する；記述する",
+     "ex": "Please describe the problem in detail so our technicians can assist you.",
+     "ex_zh": "请详细描述问题，以便我们的技术人员协助您。",
+     "ex_ja": "技術者が対応できるよう、問題を詳しく説明してください。",
+     "parts": [
+      [
+       "de-",
+       "向下；完全",
+       "下へ；完全に"
+      ],
+      [
+       "scrib",
+       "写",
+       "書く"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 describere“写下、描写”。",
+      "ja": "ラテン語 describere「書き記す」。"
+     },
+     "forms": [
+      [
+       "description (n.)",
+       "描述；说明书",
+       "説明；記述"
+      ],
+      [
+       "descriptive (adj.)",
+       "描述性的",
+       "記述的な"
+      ],
+      [
+       "describe in detail",
+       "详细描述",
+       "詳しく説明する"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5 常考：a detailed description of…",
+      "ja": "Part 5：a detailed description of… が定番。"
+     }
+    },
+    {
+     "w": "prescribe",
+     "pos": "v.",
+     "ipa": "/prɪˈskraɪb/",
+     "zh": "开（药方）；规定；指示",
+     "ja": "処方する；定める",
+     "ex": "Company policy does not prescribe a dress code for remote employees.",
+     "ex_zh": "公司政策并未对远程员工规定着装要求。",
+     "ex_ja": "会社の方針では、リモート社員の服装規定は定めていない。",
+     "parts": [
+      [
+       "pre-",
+       "预先",
+       "前もって"
+      ],
+      [
+       "scrib",
+       "写",
+       "書く"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 praescribere“预先写下来 → 规定／开处方”。",
+      "ja": "ラテン語 praescribere「前もって書き定める」。"
+     },
+     "forms": [
+      [
+       "prescription (n.)",
+       "处方；规定",
+       "処方箋；規定"
+      ],
+      [
+       "prescribed (adj.)",
+       "规定的；处方的",
+       "定められた"
+      ],
+      [
+       "prescribe rules",
+       "制定规则",
+       "規則を定める"
+      ]
+     ],
+     "tip": {
+      "zh": "商务义＝正式规定；医疗义＝开药。看语境。",
+      "ja": "ビジネスでは「定める」、医療では「処方する」。"
+     }
+    },
+    {
+     "w": "manuscript",
+     "pos": "n.",
+     "ipa": "/ˈmænjəskrɪpt/",
+     "zh": "手稿；原稿",
+     "ja": "原稿；手書き原稿",
+     "ex": "The editor returned the manuscript with suggested revisions in the margins.",
+     "ex_zh": "编辑退回了手稿，并在页边写了修改建议。",
+     "ex_ja": "編集者は、余白に修正案を記して原稿を返した。",
+     "parts": [
+      [
+       "manu",
+       "手",
+       "手"
+      ],
+      [
+       "script",
+       "写；文字",
+       "書く；文字"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 manuscriptum“手写的东西”（manus 手 + scriptus 写）。",
+      "ja": "ラテン語 manuscriptum（manus 手＋scriptus 書かれたもの）。"
+     },
+     "forms": [
+      [
+       "submit a manuscript",
+       "提交原稿",
+       "原稿を提出する"
+      ],
+      [
+       "manuscript review",
+       "稿件审阅",
+       "原稿の査読"
+      ],
+      [
+       "unpublished manuscript",
+       "未刊稿",
+       "未刊の原稿"
+      ]
+     ]
+    },
+    {
+     "w": "transcript",
+     "pos": "n.",
+     "ipa": "/ˈtrænskrɪpt/",
+     "zh": "誊本；文字记录；成绩单",
+     "ja": "書き起こし；謄本；成績証明書",
+     "ex": "A full transcript of the conference call will be emailed to all participants.",
+     "ex_zh": "电话会议的完整文字记录将通过电子邮件发给所有与会者。",
+     "ex_ja": "電話会議の全文書き起こしは、全参加者にメールで送付される。",
+     "parts": [
+      [
+       "trans-",
+       "横过；转换",
+       "横切って；移して"
+      ],
+      [
+       "script",
+       "写",
+       "書く"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 transcribere“抄写过去”。商务里常指会议／通话的文字稿。",
+      "ja": "ラテン語 transcribere「書き写す」。会議・通話の文字起こしに多用。"
+     },
+     "forms": [
+      [
+       "transcription (n.)",
+       "转录；誊写",
+       "書き起こし"
+      ],
+      [
+       "transcribe (v.)",
+       "誊写；转录",
+       "書き起こす"
+      ],
+      [
+       "official transcript",
+       "正式成绩单／官方誊本",
+       "正式な成績証明書／謄本"
+      ]
+     ],
+     "tip": {
+      "zh": "学校语境＝成绩单；会议语境＝文字记录。",
+      "ja": "学校では成績証明書、会議では書き起こし。"
+     }
+    },
+    {
+     "w": "descriptive",
+     "pos": "adj.",
+     "ipa": "/dɪˈskrɪptɪv/",
+     "zh": "描述性的；说明性的",
+     "ja": "記述的な；説明的な",
+     "ex": "The brochure includes descriptive captions under each product photograph.",
+     "ex_zh": "宣传册在每张产品照片下都附有说明性文字。",
+     "ex_ja": "パンフレットには、各製品写真の下に説明キャプションが付いている。",
+     "parts": [
+      [
+       "de-",
+       "向下；完全",
+       "下へ；完全に"
+      ],
+      [
+       "script",
+       "写",
+       "書く"
+      ],
+      [
+       "-ive",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "describe 的形容词形式：起描述作用的。",
+      "ja": "describe の形容詞形。"
+     },
+     "forms": [
+      [
+       "descriptively (adv.)",
+       "描述性地",
+       "記述的に"
+      ],
+      [
+       "descriptive statistics",
+       "描述性统计",
+       "記述統計"
+      ],
+      [
+       "highly descriptive",
+       "非常详尽的",
+       "非常に詳しい"
+      ]
+     ]
+    },
+    {
+     "w": "prescription",
+     "pos": "n.",
+     "ipa": "/prɪˈskrɪpʃən/",
+     "zh": "处方；规定；指示",
+     "ja": "処方箋；規定；指示",
+     "ex": "Safety rules are not optional; they are a prescription for accident prevention.",
+     "ex_zh": "安全规定不是可选项，而是预防事故的硬性要求。",
+     "ex_ja": "安全規則は任意ではなく、事故防止のための定めである。",
+     "parts": [
+      [
+       "pre-",
+       "预先",
+       "前もって"
+      ],
+      [
+       "script",
+       "写",
+       "書く"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "prescribe 的名词：写下的规定或药方。",
+      "ja": "prescribe の名詞。定め・処方箋。"
+     },
+     "forms": [
+      [
+       "prescription drug",
+       "处方药",
+       "処方薬"
+      ],
+      [
+       "fill a prescription",
+       "配药",
+       "処方箋を調剤する"
+      ],
+      [
+       "prescription for success",
+       "成功的要诀（引申）",
+       "成功の処方箋（比喩）"
+      ]
+     ],
+     "tip": {
+      "zh": "TOEIC 也考比喻义：a prescription for…＝解决办法。",
+      "ja": "比喩で a prescription for…＝解決策、も出る。"
+     }
+    },
+    {
+     "w": "postscript",
+     "pos": "n.",
+     "ipa": "/ˈpoʊstskrɪpt/",
+     "zh": "附言；又及（P.S.）",
+     "ja": "追伸；P.S.",
+     "ex": "She added a postscript asking recipients to confirm attendance by Friday.",
+     "ex_zh": "她加了一段附言，请收件人在周五前确认出席。",
+     "ex_ja": "彼女は、金曜日までに出欠を確認するよう追伸を加えた。",
+     "parts": [
+      [
+       "post-",
+       "在后",
+       "後に"
+      ],
+      [
+       "script",
+       "写",
+       "書く"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 postscriptum“写在后面的文字”；缩写 P.S.。",
+      "ja": "ラテン語 postscriptum「後に書かれたもの」。略語 P.S.。"
+     },
+     "forms": [
+      [
+       "P.S.",
+       "附言（缩写）",
+       "追伸（略語）"
+      ],
+      [
+       "add a postscript",
+       "添加附言",
+       "追伸を付ける"
+      ],
+      [
+       "postscript note",
+       "附言说明",
+       "追伸のメモ"
+      ]
+     ],
+     "tip": {
+      "zh": "正式商务邮件少用 P.S.；通知／半正式信可见。",
+      "ja": "フォーマルメールでは控えめに。"
+     }
+    },
+    {
+     "w": "ascribe",
+     "pos": "v.",
+     "ipa": "/əˈskraɪb/",
+     "zh": "把…归因于；归属于",
+     "ja": "〜のせいだとする；帰する",
+     "ex": "Analysts ascribe the sales decline to weaker demand in the domestic market.",
+     "ex_zh": "分析师将销售额下降归因于国内市场需求减弱。",
+     "ex_ja": "アナリストは売上減少を国内需要の弱まりに帰している。",
+     "parts": [
+      [
+       "a-",
+       "向；至",
+       "〜へ"
+      ],
+      [
+       "scrib",
+       "写",
+       "書く"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 ascribere“写到某人名下 → 归属／归因”。",
+      "ja": "ラテン語 ascribere「名を書きつける → 帰する」。"
+     },
+     "forms": [
+      [
+       "ascribe A to B",
+       "把 A 归因于 B",
+       "A を B に帰する"
+      ],
+      [
+       "ascribed (adj.)",
+       "被归因的",
+       "帰せられた"
+      ],
+      [
+       "ascription (n.)",
+       "归因；归属",
+       "帰属"
+      ]
+     ],
+     "tip": {
+      "zh": "近义 attribute A to B；Part 5／7 阅读常见。",
+      "ja": "attribute A to B と同義で頻出。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "struct",
+   "title_zh": "词根 -struct- / -stru-：建造",
+   "title_ja": "語根 -struct- / -stru-：建てる",
+   "words": [
+    {
+     "w": "construct",
+     "pos": "v.",
+     "ipa": "/kənˈstrʌkt/",
+     "zh": "建造；构建；构思",
+     "ja": "建設する；構築する",
+     "ex": "The firm will construct a new warehouse near the airport next spring.",
+     "ex_zh": "该公司将于明年春天在机场附近建造一座新仓库。",
+     "ex_ja": "同社は来春、空港近くに新しい倉庫を建設する予定だ。",
+     "parts": [
+      [
+       "con-",
+       "一起",
+       "共に"
+      ],
+      [
+       "struct",
+       "建造",
+       "建てる"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 construere“堆积在一起、建造”。名词 construction；名词重音在第一音节 /ˈkɑnstrʌkt/（结构／构想）时较少见，TOEIC 以动词＋construction 为主。",
+      "ja": "ラテン語 construere「積み上げて建てる」。"
+     },
+     "forms": [
+      [
+       "construction (n.)",
+       "建造；施工",
+       "建設；工事"
+      ],
+      [
+       "constructor (n.)",
+       "建造者；施工方",
+       "建設業者"
+      ],
+      [
+       "under construction",
+       "在建中",
+       "建設中"
+      ]
+     ],
+     "tip": {
+      "zh": "under construction 是通知／告示高频搭配。",
+      "ja": "under construction は告知定番。"
+     }
+    },
+    {
+     "w": "instruct",
+     "pos": "v.",
+     "ipa": "/ɪnˈstrʌkt/",
+     "zh": "指示；指导；训练",
+     "ja": "指示する；指導する",
+     "ex": "Managers must instruct new hires on emergency evacuation procedures.",
+     "ex_zh": "经理必须向新员工说明紧急疏散程序。",
+     "ex_ja": "管理職は、新入社員に緊急避難手順を指導しなければならない。",
+     "parts": [
+      [
+       "in-",
+       "向内",
+       "中へ"
+      ],
+      [
+       "struct",
+       "建造；安排",
+       "建てる"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 instruere“安排、装备、教导”（往心里‘搭建’知识）。",
+      "ja": "ラテン語 instruere「整える・教える」。"
+     },
+     "forms": [
+      [
+       "instruction (n.)",
+       "指示；说明书",
+       "指示；説明書"
+      ],
+      [
+       "instructor (n.)",
+       "讲师；教练",
+       "講師"
+      ],
+      [
+       "as instructed",
+       "按指示",
+       "指示どおり"
+      ]
+     ],
+     "tip": {
+      "zh": "follow the instructions / as instructed 极高频。",
+      "ja": "follow the instructions / as instructed が超頻出。"
+     }
+    },
+    {
+     "w": "infrastructure",
+     "pos": "n.",
+     "ipa": "/ˈɪnfrəstrʌktʃər/",
+     "zh": "基础设施",
+     "ja": "インフラ；社会基盤",
+     "ex": "The city invested heavily in transportation infrastructure before the summit.",
+     "ex_zh": "峰会前该市对交通基础设施进行了大量投资。",
+     "ex_ja": "サミット前に、市は交通インフラに大規模投資を行った。",
+     "parts": [
+      [
+       "infra-",
+       "在下；下方",
+       "下に"
+      ],
+      [
+       "struct",
+       "建造",
+       "建てる"
+      ],
+      [
+       "-ure",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "infra-（在下方）+ structure：支撑社会运转的底层结构。",
+      "ja": "infra-（下に）＋structure：社会を支える基盤。"
+     },
+     "forms": [
+      [
+       "IT infrastructure",
+       "IT 基础设施",
+       "IT インフラ"
+      ],
+      [
+       "infrastructure project",
+       "基建项目",
+       "インフラ事業"
+      ],
+      [
+       "critical infrastructure",
+       "关键基础设施",
+       "重要インフラ"
+      ]
+     ],
+     "tip": {
+      "zh": "新闻／招投标 Part 7 常见。",
+      "ja": "入札・ニュース系 Part 7 に多い。"
+     }
+    },
+    {
+     "w": "obstruct",
+     "pos": "v.",
+     "ipa": "/əbˈstrʌkt/",
+     "zh": "阻挡；妨碍；堵塞",
+     "ja": "妨害する；ふさぐ",
+     "ex": "Parked delivery vans must not obstruct the fire-exit doorway.",
+     "ex_zh": "停放的送货车不得堵塞消防出口。",
+     "ex_ja": "配達用バンは、非常口をふさいではならない。",
+     "parts": [
+      [
+       "ob-",
+       "对着；相反",
+       "向かい合って"
+      ],
+      [
+       "struct",
+       "建造",
+       "建てる"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 obstruere“堆在前面挡住”。",
+      "ja": "ラテン語 obstruere「前に積み上げてふさぐ」。"
+     },
+     "forms": [
+      [
+       "obstruction (n.)",
+       "障碍；堵塞",
+       "妨害；障害物"
+      ],
+      [
+       "obstructive (adj.)",
+       "妨碍的",
+       "妨害的な"
+      ],
+      [
+       "obstruct traffic",
+       "阻碍交通",
+       "交通を妨げる"
+      ]
+     ]
+    },
+    {
+     "w": "reconstruct",
+     "pos": "v.",
+     "ipa": "/ˌrikənˈstrʌkt/",
+     "zh": "重建；修复；再现",
+     "ja": "再建する；復元する",
+     "ex": "Engineers will reconstruct the damaged bridge within six months.",
+     "ex_zh": "工程师将在六个月内重建受损桥梁。",
+     "ex_ja": "技術者は、損傷した橋を 6 か月以内に再建する。",
+     "parts": [
+      [
+       "re-",
+       "再；重新",
+       "再び"
+      ],
+      [
+       "con-",
+       "一起",
+       "共に"
+      ],
+      [
+       "struct",
+       "建造",
+       "建てる"
+      ]
+     ],
+     "note": {
+      "zh": "re- + construct：重新建造；也可指根据证据‘再现’事件。",
+      "ja": "re-＋construct：建て直す；証拠から再現する意も。"
+     },
+     "forms": [
+      [
+       "reconstruction (n.)",
+       "重建；重建工程",
+       "再建"
+      ],
+      [
+       "reconstructed (adj.)",
+       "重建的",
+       "再建された"
+      ],
+      [
+       "post-disaster reconstruction",
+       "灾后重建",
+       "災害後の復興"
+      ]
+     ]
+    },
+    {
+     "w": "structural",
+     "pos": "adj.",
+     "ipa": "/ˈstrʌktʃərəl/",
+     "zh": "结构上的；结构性的",
+     "ja": "構造上の；構造的な",
+     "ex": "The inspection found no structural damage to the office building.",
+     "ex_zh": "检查未发现办公楼有结构性损坏。",
+     "ex_ja": "点検の結果、オフィスビルに構造上の損傷は見つからなかった。",
+     "parts": [
+      [
+       "struct",
+       "建造；结构",
+       "構造"
+      ],
+      [
+       "-ure",
+       "名词后缀",
+       "名詞を作る"
+      ],
+      [
+       "-al",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "structure 的形容词：与结构／骨架有关。",
+      "ja": "structure の形容詞。"
+     },
+     "forms": [
+      [
+       "structure (n.)",
+       "结构；建筑物",
+       "構造；構造物"
+      ],
+      [
+       "structural change",
+       "结构性变化",
+       "構造変化"
+      ],
+      [
+       "structural engineer",
+       "结构工程师",
+       "構造エンジニア"
+      ]
+     ],
+     "tip": {
+      "zh": "structural damage / reform 在新闻与报告中高频。",
+      "ja": "structural damage / reform が報告で頻出。"
+     }
+    },
+    {
+     "w": "destruction",
+     "pos": "n.",
+     "ipa": "/dɪˈstrʌkʃən/",
+     "zh": "破坏；毁灭",
+     "ja": "破壊；滅亡",
+     "ex": "The storm caused widespread destruction of coastal storage facilities.",
+     "ex_zh": "风暴对沿海仓储设施造成了大范围破坏。",
+     "ex_ja": "嵐は沿岸の保管施設に広範な破壊をもたらした。",
+     "parts": [
+      [
+       "de-",
+       "除去；相反",
+       "取り除く"
+      ],
+      [
+       "struct",
+       "建造",
+       "建てる"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 destruere“拆掉所建 → 破坏”。动词 destroy。",
+      "ja": "ラテン語 destruere「建てたものを壊す」。動詞は destroy。"
+     },
+     "forms": [
+      [
+       "destroy (v.)",
+       "破坏；摧毁",
+       "破壊する"
+      ],
+      [
+       "destructive (adj.)",
+       "破坏性的",
+       "破壊的な"
+      ],
+      [
+       "weapons of mass destruction",
+       "大规模杀伤性武器（新闻）",
+       "大量破壊兵器"
+      ]
+     ]
+    },
+    {
+     "w": "instructor",
+     "pos": "n.",
+     "ipa": "/ɪnˈstrʌktər/",
+     "zh": "讲师；教练；指导者",
+     "ja": "講師；指導者",
+     "ex": "Each training session will be led by a certified safety instructor.",
+     "ex_zh": "每场培训将由持证安全讲师主持。",
+     "ex_ja": "各研修は、認定を受けた安全指導者が進行する。",
+     "parts": [
+      [
+       "in-",
+       "向内",
+       "中へ"
+      ],
+      [
+       "struct",
+       "建造；教导",
+       "建てる"
+      ],
+      [
+       "-or",
+       "表示人",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "instruct + -or：进行指导的人。",
+      "ja": "instruct＋-or：指導する人。"
+     },
+     "forms": [
+      [
+       "instruct (v.)",
+       "指导；指示",
+       "指導する"
+      ],
+      [
+       "instruction (n.)",
+       "指导；说明书",
+       "指示；説明書"
+      ],
+      [
+       "lead instructor",
+       "首席讲师",
+       "主任講師"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fer",
+   "title_zh": "词根 -fer-：携带、带来",
+   "title_ja": "語根 -fer-：運ぶ",
+   "words": [
+    {
+     "w": "refer",
+     "pos": "v.",
+     "ipa": "/rɪˈfɝ/",
+     "zh": "提到；参考；转介",
+     "ja": "言及する；参照する；紹介する",
+     "ex": "Please refer to the attached schedule for the revised meeting times.",
+     "ex_zh": "请参阅附件时间表以了解修改后的会议时间。",
+     "ex_ja": "改定後の会議時刻については、添付のスケジュールを参照してください。",
+     "parts": [
+      [
+       "re-",
+       "回；再",
+       "戻して"
+      ],
+      [
+       "fer",
+       "携带",
+       "運ぶ"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 referre“带回 → 提及／查阅”。",
+      "ja": "ラテン語 referre「持ち帰る → 言及・参照」。"
+     },
+     "forms": [
+      [
+       "reference (n.)",
+       "参考；推荐信",
+       "参照；推薦状"
+      ],
+      [
+       "referral (n.)",
+       "转介；推荐",
+       "紹介"
+      ],
+      [
+       "refer to",
+       "查阅；提及",
+       "参照する；言及する"
+      ]
+     ],
+     "tip": {
+      "zh": "Please refer to… 是邮件／说明书套话。",
+      "ja": "Please refer to… はメール定型文。"
+     }
+    },
+    {
+     "w": "prefer",
+     "pos": "v.",
+     "ipa": "/prɪˈfɝ/",
+     "zh": "更喜欢；宁愿",
+     "ja": "好む；優先する",
+     "ex": "Most clients prefer online invoicing to paper statements.",
+     "ex_zh": "多数客户更喜欢电子发票而非纸质对账单。",
+     "ex_ja": "多くの顧客は紙の明細書よりオンライン請求を好む。",
+     "parts": [
+      [
+       "pre-",
+       "在前",
+       "前に"
+      ],
+      [
+       "fer",
+       "携带",
+       "運ぶ"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 praeferre“带到前面 → 更看重／更喜欢”。",
+      "ja": "ラテン語 praeferre「前に運ぶ → 好む」。"
+     },
+     "forms": [
+      [
+       "preference (n.)",
+       "偏好；优先",
+       "好み；優先"
+      ],
+      [
+       "preferred (adj.)",
+       "首选的",
+       "優先の"
+      ],
+      [
+       "prefer A to B",
+       "喜欢 A 甚于 B",
+       "B より A を好む"
+      ]
+     ],
+     "tip": {
+      "zh": "prefer A to B（不是 than）；preferred stock＝优先股。",
+      "ja": "prefer A to B（than 不可）。preferred stock＝優先株。"
+     }
+    },
+    {
+     "w": "confer",
+     "pos": "v.",
+     "ipa": "/kənˈfɝ/",
+     "zh": "商议；授予（学位／荣誉）",
+     "ja": "協議する；授与する",
+     "ex": "The committee will confer with legal counsel before approving the merger.",
+     "ex_zh": "委员会在批准合并前将与法律顾问商议。",
+     "ex_ja": "委員会は合併承認の前に顧問弁護士と協議する。",
+     "parts": [
+      [
+       "con-",
+       "一起",
+       "共に"
+      ],
+      [
+       "fer",
+       "携带",
+       "運ぶ"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 conferre“带到一起 → 商议；授予”。",
+      "ja": "ラテン語 conferre「共に運ぶ → 協議・授与」。"
+     },
+     "forms": [
+      [
+       "conference (n.)",
+       "会议；协商会",
+       "会議"
+      ],
+      [
+       "confer with",
+       "与…商议",
+       "〜と協議する"
+      ],
+      [
+       "confer a degree",
+       "授予学位",
+       "学位を授与する"
+      ]
+     ],
+     "tip": {
+      "zh": "confer with＝商议；confer on/upon＝授予。介词不同。",
+      "ja": "confer with＝協議、confer on＝授与。前置詞に注意。"
+     }
+    },
+    {
+     "w": "defer",
+     "pos": "v.",
+     "ipa": "/dɪˈfɝ/",
+     "zh": "推迟；延期；服从（意见）",
+     "ja": "延期する；従う",
+     "ex": "We decided to defer the product launch until quality testing is complete.",
+     "ex_zh": "我们决定将产品发布推迟到质量测试完成之后。",
+     "ex_ja": "品質テスト完了まで製品発売を延期することにした。",
+     "parts": [
+      [
+       "de-",
+       "离开；向下",
+       "離れて"
+      ],
+      [
+       "fer",
+       "携带",
+       "運ぶ"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 differre 的相关形式 deferre“往后带 → 推迟”；另有‘听从’义（defer to）。",
+      "ja": "ラテン語 deferre「先送りに運ぶ → 延期」；defer to で「意見に従う」。"
+     },
+     "forms": [
+      [
+       "deferment (n.)",
+       "延期",
+       "延期"
+      ],
+      [
+       "deferred (adj.)",
+       "延期的",
+       "延期された"
+      ],
+      [
+       "defer to",
+       "听从；遵从",
+       "〜に従う"
+      ]
+     ],
+     "tip": {
+      "zh": "deferred payment＝延期付款，财务常见。",
+      "ja": "deferred payment＝支払猶予、財務で頻出。"
+     }
+    },
+    {
+     "w": "interfere",
+     "pos": "v.",
+     "ipa": "/ˌɪntərˈfɪr/",
+     "zh": "干涉；妨碍；干扰",
+     "ja": "干渉する；妨げる",
+     "ex": "Personal calls should not interfere with your assigned work duties.",
+     "ex_zh": "私人电话不应妨碍你的本职工作。",
+     "ex_ja": "私用電話が担当業務の妨げになってはならない。",
+     "parts": [
+      [
+       "inter-",
+       "在…之间",
+       "間に"
+      ],
+      [
+       "fer",
+       "携带",
+       "運ぶ"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 interferre“带到中间 → 介入／妨碍”。拼写 -fere 来自法语影响。",
+      "ja": "ラテン語 interferre「間に入る」。綴り -fere はフランス語経由。"
+     },
+     "forms": [
+      [
+       "interference (n.)",
+       "干涉；干扰",
+       "干渉；妨害"
+      ],
+      [
+       "interfere with",
+       "妨碍",
+       "〜を妨げる"
+      ],
+      [
+       "interfere in",
+       "干涉（事务）",
+       "〜に干渉する"
+      ]
+     ],
+     "tip": {
+      "zh": "interfere with＋事物；interfere in＋事务／争端。",
+      "ja": "with は妨げる、in は干渉する。"
+     }
+    },
+    {
+     "w": "preference",
+     "pos": "n.",
+     "ipa": "/ˈprɛfərəns/",
+     "zh": "偏好；优先（权）",
+     "ja": "好み；優先",
+     "ex": "Please indicate your seating preference when you register for the seminar.",
+     "ex_zh": "报名研讨会时请注明您的座位偏好。",
+     "ex_ja": "セミナー申込の際、座席の希望を記入してください。",
+     "parts": [
+      [
+       "pre-",
+       "在前",
+       "前に"
+      ],
+      [
+       "fer",
+       "携带",
+       "運ぶ"
+      ],
+      [
+       "-ence",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "prefer 的名词。in preference to＝优先于。",
+      "ja": "prefer の名詞。in preference to＝〜より優先して。"
+     },
+     "forms": [
+      [
+       "prefer (v.)",
+       "更喜欢",
+       "好む"
+      ],
+      [
+       "preferential (adj.)",
+       "优惠的；优先的",
+       "優遇の"
+      ],
+      [
+       "customer preference",
+       "客户偏好",
+       "顧客の好み"
+      ]
+     ]
+    },
+    {
+     "w": "referral",
+     "pos": "n.",
+     "ipa": "/rɪˈfɝəl/",
+     "zh": "转介；推荐（客户／患者）",
+     "ja": "紹介；照会",
+     "ex": "Employee referral bonuses will be paid after the new hire's 90-day review.",
+     "ex_zh": "员工推荐奖金将在新员工通过 90 天评估后发放。",
+     "ex_ja": "社員紹介ボーナスは、新規採用者の 90 日評価後に支給される。",
+     "parts": [
+      [
+       "re-",
+       "回",
+       "戻して"
+      ],
+      [
+       "fer",
+       "携带",
+       "運ぶ"
+      ],
+      [
+       "-al",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "refer 的名词之一：把人／案件转给另一方。",
+      "ja": "refer の名詞：人や案件を回すこと。"
+     },
+     "forms": [
+      [
+       "refer (v.)",
+       "转介；提及",
+       "紹介する"
+      ],
+      [
+       "referral program",
+       "推荐计划",
+       "紹介プログラム"
+      ],
+      [
+       "referral fee",
+       "介绍费",
+       "紹介料"
+      ]
+     ],
+     "tip": {
+      "zh": "HR：employee referral＝员工内推，招聘邮件高频。",
+      "ja": "employee referral＝社員紹介採用で頻出。"
+     }
+    },
+    {
+     "w": "inference",
+     "pos": "n.",
+     "ipa": "/ˈɪnfərəns/",
+     "zh": "推断；推论",
+     "ja": "推論；推察",
+     "ex": "From the decline in orders, a reasonable inference is that demand has weakened.",
+     "ex_zh": "从订单下降可以合理推断需求已经减弱。",
+     "ex_ja": "受注減から、需要が弱まったと合理的に推論できる。",
+     "parts": [
+      [
+       "in-",
+       "向内",
+       "中へ"
+      ],
+      [
+       "fer",
+       "携带",
+       "運ぶ"
+      ],
+      [
+       "-ence",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 inferre“带进来 → 得出结论”。动词 infer。",
+      "ja": "ラテン語 inferre「中へ運ぶ → 結論を導く」。動詞は infer。"
+     },
+     "forms": [
+      [
+       "infer (v.)",
+       "推断",
+       "推論する"
+      ],
+      [
+       "inferential (adj.)",
+       "推论的",
+       "推論の"
+      ],
+      [
+       "draw an inference",
+       "作出推断",
+       "推論を導く"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7 常问 What can be inferred…？抓住这个词干。",
+      "ja": "Part 7 の What can be inferred…？に直結。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "tract",
+   "title_zh": "词根 -tract-：拉、抽",
+   "title_ja": "語根 -tract-：引く",
+   "words": [
+    {
+     "w": "extract",
+     "pos": "v.",
+     "ipa": "/ɪkˈstrækt/",
+     "zh": "提取；摘录；拔出",
+     "ja": "抽出する；抜粋する",
+     "ex": "The report extracts key findings from last quarter's customer survey.",
+     "ex_zh": "该报告摘录了上季度客户调查的主要发现。",
+     "ex_ja": "その報告書は、先四半期の顧客調査から主な知見を抜粋している。",
+     "parts": [
+      [
+       "ex-",
+       "出",
+       "外へ"
+      ],
+      [
+       "tract",
+       "拉",
+       "引く"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 extrahere“拉出来”。名词 /ˈɛkstrækt/（提取物／摘录）重音在前。",
+      "ja": "ラテン語 extrahere「引き出す」。名詞は前に強勢。"
+     },
+     "forms": [
+      [
+       "extraction (n.)",
+       "提取；摘录",
+       "抽出；抜粋"
+      ],
+      [
+       "extract from",
+       "从…摘录",
+       "〜から抜粋する"
+      ],
+      [
+       "data extract",
+       "数据摘录",
+       "データ抽出"
+      ]
+     ],
+     "tip": {
+      "zh": "动词后重：exTRACT；名词前重：EXtract。",
+      "ja": "動詞は後強勢、名詞は前強勢。"
+     }
+    },
+    {
+     "w": "distract",
+     "pos": "v.",
+     "ipa": "/dɪˈstrækt/",
+     "zh": "使分心；转移注意力",
+     "ja": "気をそらす；注意をそらす",
+     "ex": "Loud construction noise can distract employees working near the windows.",
+     "ex_zh": "嘈杂的施工声会让靠窗工作的员工分心。",
+     "ex_ja": "窓際で働く社員は、工事の騒音で気がそらされうる。",
+     "parts": [
+      [
+       "dis-",
+       "分开；离开",
+       "離して"
+      ],
+      [
+       "tract",
+       "拉",
+       "引く"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 distrahere“拉开 → 使注意力分散”。",
+      "ja": "ラテン語 distrahere「引き離す → 注意をそらす」。"
+     },
+     "forms": [
+      [
+       "distraction (n.)",
+       "分心的事物",
+       "気の散ること"
+      ],
+      [
+       "distracted (adj.)",
+       "分心的",
+       "注意散漫な"
+      ],
+      [
+       "distract from",
+       "使从…分心",
+       "〜から注意をそらす"
+      ]
+     ]
+    },
+    {
+     "w": "retract",
+     "pos": "v.",
+     "ipa": "/rɪˈtrækt/",
+     "zh": "撤回；收回（言论／承诺）",
+     "ja": "撤回する；引っ込める",
+     "ex": "The company had to retract its earlier statement about the merger timeline.",
+     "ex_zh": "该公司不得不撤回早前关于合并时间表的声明。",
+     "ex_ja": "同社は合併日程に関する先の声明を撤回せざるを得なかった。",
+     "parts": [
+      [
+       "re-",
+       "回",
+       "戻して"
+      ],
+      [
+       "tract",
+       "拉",
+       "引く"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 retrahere“拉回去”。新闻／公关常用。",
+      "ja": "ラテン語 retrahere「引き戻す」。広報・報道で頻出。"
+     },
+     "forms": [
+      [
+       "retraction (n.)",
+       "撤回；勘误",
+       "撤回；訂正"
+      ],
+      [
+       "retractable (adj.)",
+       "可收回的",
+       "引っ込められる"
+      ],
+      [
+       "retract a claim",
+       "撤回主张",
+       "主張を撤回する"
+      ]
+     ],
+     "tip": {
+      "zh": "issue a retraction＝发布撤回／更正声明。",
+      "ja": "issue a retraction＝撤回声明を出す。"
+     }
+    },
+    {
+     "w": "attractive",
+     "pos": "adj.",
+     "ipa": "/əˈtræktɪv/",
+     "zh": "有吸引力的；有魅力的",
+     "ja": "魅力的な；魅力のある",
+     "ex": "The bank is offering an attractive interest rate on business savings accounts.",
+     "ex_zh": "该银行正为企业储蓄账户提供有吸引力的利率。",
+     "ex_ja": "その銀行は、事業用貯蓄口座に魅力的な金利を提示している。",
+     "parts": [
+      [
+       "at-",
+       "向",
+       "〜へ"
+      ],
+      [
+       "tract",
+       "拉",
+       "引く"
+      ],
+      [
+       "-ive",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "attract（ad+tract 拉向自己）的形容词。at- 是 ad- 在 t 前的同化。",
+      "ja": "attract（ad＋tract）の形容詞。at- は ad- の同化。"
+     },
+     "forms": [
+      [
+       "attract (v.)",
+       "吸引",
+       "引きつける"
+      ],
+      [
+       "attraction (n.)",
+       "吸引力；景点",
+       "魅力；名所"
+      ],
+      [
+       "attractively priced",
+       "定价有吸引力的",
+       "魅力的な価格の"
+      ]
+     ],
+     "tip": {
+      "zh": "attractive offer / package 是招聘与营销套话。",
+      "ja": "attractive offer / package は求人・販促定番。"
+     }
+    },
+    {
+     "w": "distraction",
+     "pos": "n.",
+     "ipa": "/dɪˈstrækʃən/",
+     "zh": "分心；干扰因素",
+     "ja": "気の散ること；邪魔",
+     "ex": "Open-plan offices can create distractions that reduce concentration.",
+     "ex_zh": "开放式办公室可能产生干扰，降低专注度。",
+     "ex_ja": "オープンプランのオフィスは、集中を妨げる要因を生みうる。",
+     "parts": [
+      [
+       "dis-",
+       "分开",
+       "離して"
+      ],
+      [
+       "tract",
+       "拉",
+       "引く"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "distract 的名词：把注意力拉开的事物。",
+      "ja": "distract の名詞。"
+     },
+     "forms": [
+      [
+       "distract (v.)",
+       "使分心",
+       "気をそらす"
+      ],
+      [
+       "without distraction",
+       "不受干扰地",
+       "邪魔なく"
+      ],
+      [
+       "major distraction",
+       "严重干扰",
+       "大きな邪魔"
+      ]
+     ]
+    },
+    {
+     "w": "protracted",
+     "pos": "adj.",
+     "ipa": "/proʊˈtræktɪd/",
+     "zh": "拖延的；旷日持久的",
+     "ja": "長引いた；延々とした",
+     "ex": "After protracted negotiations, both sides signed the supply agreement.",
+     "ex_zh": "经过旷日持久的谈判，双方签署了供应协议。",
+     "ex_ja": "長引く交渉の末、双方は供給契約に調印した。",
+     "parts": [
+      [
+       "pro-",
+       "向前",
+       "前へ"
+      ],
+      [
+       "tract",
+       "拉",
+       "引く"
+      ],
+      [
+       "-ed",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 protrahere“向前拉长 → 延长”。多作形容词 protracted。",
+      "ja": "ラテン語 protrahere「長く引き延ばす」。形容詞 protracted が多い。"
+     },
+     "forms": [
+      [
+       "protract (v.)",
+       "延长；拖延",
+       "長引かせる"
+      ],
+      [
+       "protraction (n.)",
+       "延长",
+       "延長"
+      ],
+      [
+       "protracted dispute",
+       "旷日持久的争端",
+       "長期化した紛争"
+      ]
+     ],
+     "tip": {
+      "zh": "新闻／报告：protracted talks / delay。",
+      "ja": "protracted talks / delay が報道定番。"
+     }
+    },
+    {
+     "w": "contractor",
+     "pos": "n.",
+     "ipa": "/ˈkɑntræktər/",
+     "zh": "承包商；承包人",
+     "ja": "請負業者；契約業者",
+     "ex": "An independent contractor will upgrade the building's heating system.",
+     "ex_zh": "一名独立承包商将升级大楼的供暖系统。",
+     "ex_ja": "独立請負業者がビルの暖房システムを改修する。",
+     "parts": [
+      [
+       "con-",
+       "一起",
+       "共に"
+      ],
+      [
+       "tract",
+       "拉",
+       "引く"
+      ],
+      [
+       "-or",
+       "表示人",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "contract（拉到一起 → 契约）+ -or：签订承包合同的人／公司。",
+      "ja": "contract（契約）＋-or：請け負う人・会社。"
+     },
+     "forms": [
+      [
+       "contract (n./v.)",
+       "合同；订约",
+       "契約；契約する"
+      ],
+      [
+       "general contractor",
+       "总承包商",
+       "元請け"
+      ],
+      [
+       "subcontractor",
+       "分包商",
+       "下請け"
+      ]
+     ],
+     "tip": {
+      "zh": "contract 名词 /ˈkɑntrækt/、动词 /kənˈtrækt/ 重音不同。",
+      "ja": "名詞と動詞で強勢が異なる点に注意。"
+     }
+    },
+    {
+     "w": "abstract",
+     "pos": "n./adj.",
+     "ipa": "/ˈæbstrækt/",
+     "zh": "摘要；抽象的",
+     "ja": "要旨；抽象的な",
+     "ex": "Please submit a one-page abstract of your research before the conference.",
+     "ex_zh": "请在会议前提交一页的研究摘要。",
+     "ex_ja": "学会の前に、研究の 1 ページ要旨を提出してください。",
+     "parts": [
+      [
+       "abs-",
+       "离开",
+       "離れて"
+      ],
+      [
+       "tract",
+       "拉",
+       "引く"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 abstrahere“拉开 → 抽出要点／抽象”。名词／形容词前重；动词 /æbˈstrækt/（抽象出）后重。",
+      "ja": "ラテン語 abstrahere「引き離す」。名詞・形容詞は前強勢、動詞は後強勢。"
+     },
+     "forms": [
+      [
+       "abstract of",
+       "…的摘要",
+       "〜の要旨"
+      ],
+      [
+       "in the abstract",
+       "抽象地；理论上",
+       "抽象的に"
+      ],
+      [
+       "abstract idea",
+       "抽象概念",
+       "抽象的な考え"
+      ]
+     ],
+     "tip": {
+      "zh": "学术／会议通知：call for abstracts。",
+      "ja": "学会案内の call for abstracts に注意。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "hr",
+   "title_zh": "主题：人事与招聘",
+   "title_ja": "テーマ：人事・採用",
+   "words": [
+    {
+     "w": "layoff",
+     "pos": "n.",
+     "ipa": "/ˈleɪɔf/",
+     "zh": "裁员；解雇（通常因业务原因）",
+     "ja": "人員整理；一時解雇",
+     "ex": "The factory announced temporary layoffs during the seasonal slowdown.",
+     "ex_zh": "该工厂在淡季宣布了临时裁员。",
+     "ex_ja": "工場は季節的な閑散期に一時的な人員整理を発表した。",
+     "parts": [],
+     "note": {
+      "zh": "短语动词 lay off 的名词化；没有拉丁词根拆分，属日耳曼语来源。",
+      "ja": "句動詞 lay off の名詞化。ラテン語根の分解はなく、ゲルマン系。"
+     },
+     "forms": [
+      [
+       "lay off (v.)",
+       "裁员",
+       "解雇する"
+      ],
+      [
+       "mass layoff",
+       "大规模裁员",
+       "大量解雇"
+      ],
+      [
+       "avoid layoffs",
+       "避免裁员",
+       "人員整理を避ける"
+      ]
+     ],
+     "tip": {
+      "zh": "layoff≠fire（开除）：前者多因经营，后者多因个人表现。",
+      "ja": "layoff は経営理由、fire は個人理由が多い。"
+     }
+    },
+    {
+     "w": "appraisal",
+     "pos": "n.",
+     "ipa": "/əˈpreɪzəl/",
+     "zh": "评估；考核；估价",
+     "ja": "評価；査定",
+     "ex": "Annual performance appraisals will be completed by the end of March.",
+     "ex_zh": "年度绩效评估将于三月底前完成。",
+     "ex_ja": "年次の業績評価は 3 月末までに完了する。",
+     "parts": [
+      [
+       "ap-",
+       "向",
+       "〜へ"
+      ],
+      [
+       "prais",
+       "价值；称赞",
+       "価値"
+      ],
+      [
+       "-al",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "来自 praise／appraise（估价、评价）；HR 里多指绩效考核。",
+      "ja": "appraise（評価する）から。人事では業績評価を指すことが多い。"
+     },
+     "forms": [
+      [
+       "appraise (v.)",
+       "评估；估价",
+       "評価する"
+      ],
+      [
+       "performance appraisal",
+       "绩效考核",
+       "業績評価"
+      ],
+      [
+       "appraisal form",
+       "考核表",
+       "評価シート"
+      ]
+     ],
+     "tip": {
+      "zh": "performance appraisal / review 是 HR 邮件高频。",
+      "ja": "performance appraisal / review が人事メール定番。"
+     }
+    },
+    {
+     "w": "incentive",
+     "pos": "n.",
+     "ipa": "/ɪnˈsɛntɪv/",
+     "zh": "激励；奖励；刺激",
+     "ja": "インセンティブ；動機付け",
+     "ex": "Sales staff receive a cash incentive for exceeding monthly targets.",
+     "ex_zh": "销售人员超额完成月度目标可获现金奖励。",
+     "ex_ja": "営業担当は月次目標超過で現金インセンティブを受け取る。",
+     "parts": [
+      [
+       "in-",
+       "使…",
+       "〜させる"
+      ],
+      [
+       "cent",
+       "唱；激励（拉丁 canere 相关）",
+       "歌う・駆り立てる"
+      ],
+      [
+       "-ive",
+       "名词／形容词后缀",
+       "接尾辞"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 incentivum“刺激物”（原与‘定调／激励歌唱’相关）。现代义＝激励措施。",
+      "ja": "ラテン語 incentivum「刺激するもの」。現代では報奨・動機付け。"
+     },
+     "forms": [
+      [
+       "incentive program",
+       "激励计划",
+       "インセンティブ制度"
+      ],
+      [
+       "tax incentive",
+       "税收优惠",
+       "税優遇"
+      ],
+      [
+       "provide an incentive",
+       "提供激励",
+       "インセンティブを与える"
+      ]
+     ],
+     "tip": {
+      "zh": "financial / tax incentive 在政策与招聘文中常见。",
+      "ja": "financial / tax incentive が政策・求人で頻出。"
+     }
+    },
+    {
+     "w": "workforce",
+     "pos": "n.",
+     "ipa": "/ˈwɝkfɔrs/",
+     "zh": "劳动力；全体员工",
+     "ja": "労働力；従業員全体",
+     "ex": "The company aims to diversify its workforce over the next three years.",
+     "ex_zh": "该公司计划在未来三年使员工队伍更加多元化。",
+     "ex_ja": "同社は今後 3 年で従業員構成の多様化を目指す。",
+     "parts": [
+      [
+       "work",
+       "工作",
+       "仕事"
+      ],
+      [
+       "force",
+       "力量；队伍",
+       "力；集団"
+      ]
+     ],
+     "note": {
+      "zh": "合成词 work + force：工作的力量／队伍。",
+      "ja": "work＋force の合成語。"
+     },
+     "forms": [
+      [
+       "global workforce",
+       "全球员工队伍",
+       "グローバルな労働力"
+      ],
+      [
+       "workforce reduction",
+       "裁减人员",
+       "人員削減"
+      ],
+      [
+       "join the workforce",
+       "加入就业队伍",
+       "労働力に加わる"
+      ]
+     ]
+    },
+    {
+     "w": "relocation",
+     "pos": "n.",
+     "ipa": "/ˌriːloʊˈkeɪʃən/",
+     "zh": "搬迁；调职（异地）",
+     "ja": "移転；転勤",
+     "ex": "Relocation assistance covers moving costs for employees transferred overseas.",
+     "ex_zh": "搬迁援助涵盖调往海外员工的搬家费用。",
+     "ex_ja": "転勤支援には、海外赴任者の引越し費用が含まれる。",
+     "parts": [
+      [
+       "re-",
+       "再；换",
+       "再び"
+      ],
+      [
+       "loc",
+       "放置；地点",
+       "置く；場所"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "re- + locate：换到新地点。HR 常配 assistance / package。",
+      "ja": "re-＋locate：場所を移す。assistance / package とセット。"
+     },
+     "forms": [
+      [
+       "relocate (v.)",
+       "搬迁；调职",
+       "移転する；転勤する"
+      ],
+      [
+       "relocation package",
+       "搬迁补贴包",
+       "転勤手当パッケージ"
+      ],
+      [
+       "office relocation",
+       "办公室搬迁",
+       "オフィス移転"
+      ]
+     ],
+     "tip": {
+      "zh": "job posting 常写 relocation required / provided。",
+      "ja": "求人に relocation required / provided と出る。"
+     }
+    },
+    {
+     "w": "seniority",
+     "pos": "n.",
+     "ipa": "/sinˈjɔrəti/",
+     "zh": "资历；年资；上级地位",
+     "ja": "年功；先任順位",
+     "ex": "Vacation days are allocated according to years of seniority.",
+     "ex_zh": "休假天数按资历年限分配。",
+     "ex_ja": "有給日数は勤続年数（年功）に応じて割り当てられる。",
+     "parts": [
+      [
+       "senior",
+       "年长的；高级的",
+       "上位の"
+      ],
+      [
+       "-ity",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "senior（较年长／较高级）+ -ity。工会／HR 政策常见。",
+      "ja": "senior＋-ity。労務・人事制度で頻出。"
+     },
+     "forms": [
+      [
+       "senior (adj./n.)",
+       "资深的；高管",
+       "上級の；先輩"
+      ],
+      [
+       "by seniority",
+       "按资历",
+       "年功順に"
+      ],
+      [
+       "seniority system",
+       "年资制度",
+       "年功序列"
+      ]
+     ]
+    },
+    {
+     "w": "screening",
+     "pos": "n.",
+     "ipa": "/ˈskrinɪŋ/",
+     "zh": "筛选；审查；（安检）检查",
+     "ja": "選考；審査；スクリーニング",
+     "ex": "Background screening is required for all candidates in security-sensitive roles.",
+     "ex_zh": "所有安全敏感岗位的候选人须接受背景审查。",
+     "ex_ja": "セキュリティ上重要な職種の候補者には経歴審査が必須だ。",
+     "parts": [
+      [
+       "screen",
+       "筛；屏",
+       "ふるい；幕"
+      ],
+      [
+       "-ing",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "screen 作动词＝筛选／检查；没有更深的拉丁词根拆分（源自古法语 escren）。",
+      "ja": "screen「ふるいにかける」。深いラテン語根分解はない（古仏語 escren 系）。"
+     },
+     "forms": [
+      [
+       "screen (v.)",
+       "筛选；审查",
+       "審査する"
+      ],
+      [
+       "background screening",
+       "背景调查",
+       "経歴審査"
+      ],
+      [
+       "resume screening",
+       "简历筛选",
+       "履歴書の一次選考"
+      ]
+     ],
+     "tip": {
+      "zh": "HR：screening interview＝筛选面试。",
+      "ja": "screening interview＝書類・一次面接。"
+     }
+    },
+    {
+     "w": "severance",
+     "pos": "n.",
+     "ipa": "/ˈsɛvərəns/",
+     "zh": "遣散费；离职补偿；切断",
+     "ja": "退職金（解雇時）；切断",
+     "ex": "Laid-off workers will receive two months of severance pay.",
+     "ex_zh": "被裁员工将获得两个月的遣散费。",
+     "ex_ja": "解雇された従業員には 2 か月分の退職手当が支払われる。",
+     "parts": [
+      [
+       "sever",
+       "切断；分开",
+       "断つ"
+      ],
+      [
+       "-ance",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "sever（切断）→ 劳动关系被切断时的补偿：severance pay。",
+      "ja": "sever（断つ）→ 雇用関係切断時の手当。"
+     },
+     "forms": [
+      [
+       "severance pay",
+       "遣散费",
+       "退職手当"
+      ],
+      [
+       "severance package",
+       "离职补偿包",
+       "退職パッケージ"
+      ],
+      [
+       "sever (v.)",
+       "切断；断绝",
+       "断つ"
+      ]
+     ],
+     "tip": {
+      "zh": "与 layoff 常一起出现在 Part 7 人事通知里。",
+      "ja": "layoff と共に人事通知 Part 7 に出やすい。"
+     }
+    },
+    {
+     "w": "staffing",
+     "pos": "n.",
+     "ipa": "/ˈstæfɪŋ/",
+     "zh": "人员配置；招聘人手",
+     "ja": "人員配置；スタッフィング",
+     "ex": "Temporary staffing agencies can fill short-term vacancies quickly.",
+     "ex_zh": "临时人事代理机构能迅速填补短期空缺。",
+     "ex_ja": "人材派遣会社は短期の欠員を迅速に埋められる。",
+     "parts": [
+      [
+       "staff",
+       "全体职员",
+       "職員"
+      ],
+      [
+       "-ing",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "staff 作动词＝配备人员；名词 staffing＝配置／用工安排。本族／法语借词，无可靠拉丁词根拆分。",
+      "ja": "staff の動詞用法から。ラテン語根の無理な分解はしない。"
+     },
+     "forms": [
+      [
+       "staff (n./v.)",
+       "员工；配备人员",
+       "職員；配置する"
+      ],
+      [
+       "staffing agency",
+       "人才中介／派遣",
+       "人材紹介・派遣会社"
+      ],
+      [
+       "understaffed",
+       "人手不足的",
+       "人手不足の"
+      ]
+     ],
+     "tip": {
+      "zh": "understaffed / staffing shortage 是办公邮件常见抱怨点。",
+      "ja": "understaffed は社内メールで頻出。"
+     }
+    },
+    {
+     "w": "freelance",
+     "pos": "adj./v.",
+     "ipa": "/ˈfrilæns/",
+     "zh": "自由职业的；做自由职业",
+     "ja": "フリーランスの；フリーで働く",
+     "ex": "We hired a freelance designer to refresh the company website.",
+     "ex_zh": "我们聘请了一名自由设计师来改版公司网站。",
+     "ex_ja": "会社のウェブサイト刷新のため、フリーのデザイナーを雇った。",
+     "parts": [
+      [
+       "free",
+       "自由的",
+       "自由な"
+      ],
+      [
+       "lance",
+       "长矛（历史引申）",
+       "槍（歴史的比喩）"
+      ]
+     ],
+     "note": {
+      "zh": "原指中世纪‘自由长矛兵’（可受雇于各方）；现代义＝非固定雇的自由职业者。属习语化合成，勿按字面拆拉丁词根。",
+      "ja": "中世の「自由な槍兵」が語源。現代は非正規雇用の専門家。"
+     },
+     "forms": [
+      [
+       "freelancer (n.)",
+       "自由职业者",
+       "フリーランサー"
+      ],
+      [
+       "freelance work",
+       "自由职业工作",
+       "フリーの仕事"
+      ],
+      [
+       "go freelance",
+       "转为自由职业",
+       "フリーになる"
+      ]
+     ]
+    },
+    {
+     "w": "mentor",
+     "pos": "n./v.",
+     "ipa": "/ˈmɛntər/",
+     "zh": "导师；指导；辅导",
+     "ja": "メンター；指導する",
+     "ex": "Each new engineer is paired with a senior mentor for the first year.",
+     "ex_zh": "每位新工程师在第一年都会配对一名资深导师。",
+     "ex_ja": "新任エンジニアは初年度、先輩メンターと組む。",
+     "parts": [],
+     "note": {
+      "zh": "来自希腊神话中的 Mentor（奥德修斯之子的导师）；没有拉丁前缀词根拆分。",
+      "ja": "ギリシャ神話の Mentor に由来。ラテン接頭辞の分解はない。"
+     },
+     "forms": [
+      [
+       "mentoring (n.)",
+       "导师辅导",
+       "メンタリング"
+      ],
+      [
+       "mentorship (n.)",
+       "导师关系／制度",
+       "メンター制度"
+      ],
+      [
+       "peer mentor",
+       "同伴导师",
+       "同僚メンター"
+      ]
+     ],
+     "tip": {
+      "zh": "mentoring program 是培训／企业文化类 Part 7 常见。",
+      "ja": "mentoring program は研修文書で頻出。"
+     }
+    },
+    {
+     "w": "intern",
+     "pos": "n.",
+     "ipa": "/ˈɪntɝn/",
+     "zh": "实习生",
+     "ja": "インターン；実習生",
+     "ex": "Summer interns will rotate through three departments over eight weeks.",
+     "ex_zh": "暑期实习生将在八周内轮岗三个部门。",
+     "ex_ja": "夏季インターンは 8 週間で 3 部署をローテーションする。",
+     "parts": [],
+     "note": {
+      "zh": "来自 internus（内部的）相关法语／拉丁传统，现代固定指在机构内部实习的人；勿与 internet 混淆。动词 intern 另有‘拘留’义（重音可同），TOEIC 以名词为主。",
+      "ja": "機関の内部で実習する人。internet と混同しない。"
+     },
+     "forms": [
+      [
+       "internship (n.)",
+       "实习（期）",
+       "インターンシップ"
+      ],
+      [
+       "paid intern",
+       "带薪实习生",
+       "有給インターン"
+      ],
+      [
+       "intern program",
+       "实习项目",
+       "インターン制度"
+      ]
+     ],
+     "tip": {
+      "zh": "internship opportunity 是招聘启事高频。",
+      "ja": "internship opportunity が求人定番。"
+     }
+    },
+    {
+     "w": "bonus",
+     "pos": "n.",
+     "ipa": "/ˈboʊnəs/",
+     "zh": "奖金；额外津贴",
+     "ja": "ボーナス；特別手当",
+     "ex": "Employees who meet safety goals will receive a year-end bonus.",
+     "ex_zh": "达到安全目标的员工将获得年终奖金。",
+     "ex_ja": "安全目標を達成した社員には年末ボーナスが支給される。",
+     "parts": [],
+     "note": {
+      "zh": "拉丁语 bonus“好的”；英语里固化为‘额外好处／奖金’，无前缀词根拆分。",
+      "ja": "ラテン語 bonus「良い」。英語では特別手当の意味に固定。"
+     },
+     "forms": [
+      [
+       "performance bonus",
+       "绩效奖金",
+       "業績ボーナス"
+      ],
+      [
+       "signing bonus",
+       "签约奖金",
+       "入社一時金"
+      ],
+      [
+       "bonus payment",
+       "奖金发放",
+       "ボーナス支給"
+      ]
+     ],
+     "tip": {
+      "zh": "signing bonus / retention bonus 招聘与留才常见。",
+      "ja": "signing / retention bonus が採用・定着で頻出。"
+     }
+    },
+    {
+     "w": "retention",
+     "pos": "n.",
+     "ipa": "/rɪˈtɛnʃən/",
+     "zh": "留任；留存；保留",
+     "ja": "定着；保持；引き留め",
+     "ex": "Flexible schedules have improved employee retention in our call centers.",
+     "ex_zh": "弹性工时提高了我们呼叫中心的员工留任率。",
+     "ex_ja": "柔軟な勤務時間により、コールセンターの社員定着率が改善した。",
+     "parts": [
+      [
+       "re-",
+       "回",
+       "戻して"
+      ],
+      [
+       "tent",
+       "握住",
+       "握る"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "与 retain（re+tain 握住）同源：retention＝留住人才／客户／数据。tain 词根 Day 1 已学，这里是名词常用形。",
+      "ja": "retain と同系。人材・顧客・データの「引き留め／保持」。"
+     },
+     "forms": [
+      [
+       "retain (v.)",
+       "留住；保留",
+       "保持する；引き留める"
+      ],
+      [
+       "retention rate",
+       "留任率／留存率",
+       "定着率"
+      ],
+      [
+       "customer retention",
+       "客户留存",
+       "顧客維持"
+      ]
+     ],
+     "tip": {
+      "zh": "employee retention 是 HR 战略高频搭配。",
+      "ja": "employee retention は人事戦略の定番表現。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "finance",
+   "title_zh": "主题：财务与会计",
+   "title_ja": "テーマ：財務・会計",
+   "words": [
+    {
+     "w": "depreciation",
+     "pos": "n.",
+     "ipa": "/dɪˌpriʃiˈeɪʃən/",
+     "zh": "折旧；贬值",
+     "ja": "減価償却；価値下落",
+     "ex": "The accounting team calculated depreciation for all company vehicles.",
+     "ex_zh": "会计团队计算了所有公司车辆的折旧。",
+     "ex_ja": "経理チームは社用車すべての減価償却を計算した。",
+     "parts": [
+      [
+       "de-",
+       "向下；降低",
+       "下へ"
+      ],
+      [
+       "preci",
+       "价格；价值",
+       "価格"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "depreciate＝降低价值；会计上指固定资产折旧。",
+      "ja": "depreciate＝価値を下げる。会計では固定資産の減価償却。"
+     },
+     "forms": [
+      [
+       "depreciate (v.)",
+       "折旧；贬值",
+       "減価する"
+      ],
+      [
+       "accumulated depreciation",
+       "累计折旧",
+       "減価償却累計額"
+      ],
+      [
+       "depreciation expense",
+       "折旧费用",
+       "減価償却費"
+      ]
+     ],
+     "tip": {
+      "zh": "财务报表／Part 7 图表题常见。",
+      "ja": "財務諸表・チャート問題で頻出。"
+     }
+    },
+    {
+     "w": "asset",
+     "pos": "n.",
+     "ipa": "/ˈæsɛt/",
+     "zh": "资产；有价值的人或物",
+     "ja": "資産；有用な人材",
+     "ex": "Intellectual property is one of the firm's most valuable assets.",
+     "ex_zh": "知识产权是该公司最有价值的资产之一。",
+     "ex_ja": "知的財産は同社の最も価値ある資産の一つだ。",
+     "parts": [],
+     "note": {
+      "zh": "来自旧法语 asez（足够）相关法律用语 assets；没有清晰的拉丁前缀＋词根拆分，勿硬拆。",
+      "ja": "古仏語系の法律用語。無理な語根分解はしない。"
+     },
+     "forms": [
+      [
+       "fixed assets",
+       "固定资产",
+       "固定資産"
+      ],
+      [
+       "asset management",
+       "资产管理",
+       "資産管理"
+      ],
+      [
+       "liquid assets",
+       "流动资产",
+       "流動資産"
+      ]
+     ],
+     "tip": {
+      "zh": "assets and liabilities＝资产与负债，基础会计搭配。",
+      "ja": "assets and liabilities＝資産と負債。"
+     }
+    },
+    {
+     "w": "dividend",
+     "pos": "n.",
+     "ipa": "/ˈdɪvɪdɛnd/",
+     "zh": "股息；红利",
+     "ja": "配当；配当金",
+     "ex": "Shareholders will receive a quarterly dividend of 50 cents per share.",
+     "ex_zh": "股东将获得每股 50 美分的季度股息。",
+     "ex_ja": "株主は 1 株あたり 50 セントの四半期配当を受け取る。",
+     "parts": [
+      [
+       "divid",
+       "分开",
+       "分ける"
+      ],
+      [
+       "-end",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "与 divide 同源：公司利润‘分给’股东的部分。",
+      "ja": "divide と同系：利益を株主に分けるもの。"
+     },
+     "forms": [
+      [
+       "pay a dividend",
+       "派息",
+       "配当を支払う"
+      ],
+      [
+       "dividend yield",
+       "股息率",
+       "配当利回り"
+      ],
+      [
+       "stock dividend",
+       "股票股利",
+       "株式配当"
+      ]
+     ]
+    },
+    {
+     "w": "overhead",
+     "pos": "n./adj.",
+     "ipa": "/ˈoʊvərhɛd/",
+     "zh": "间接费用；管理费用；头顶的",
+     "ja": "間接費；オーバーヘッド；頭上の",
+     "ex": "Moving to a smaller office will reduce our monthly overhead costs.",
+     "ex_zh": "搬到更小的办公室将降低我们的月度间接费用。",
+     "ex_ja": "より小さいオフィスへの移転で月々の間接費が減る。",
+     "parts": [
+      [
+       "over",
+       "在…之上",
+       "上に"
+      ],
+      [
+       "head",
+       "头；顶部",
+       "頭"
+      ]
+     ],
+     "note": {
+      "zh": "字面‘在头顶上’→ 经营中持续存在的间接成本（租金、水电、行政等）。合成词。",
+      "ja": "文字どおり「頭上」→ 家賃・光熱・管理などの間接費。合成語。"
+     },
+     "forms": [
+      [
+       "overhead costs",
+       "间接成本",
+       "間接費"
+      ],
+      [
+       "reduce overhead",
+       "降低管理费用",
+       "間接費を削減する"
+      ],
+      [
+       "overhead projector",
+       "投影仪（旧式）",
+       "オーバーヘッドプロジェクタ"
+      ]
+     ],
+     "tip": {
+      "zh": "cut overhead 是降本邮件／报告套话。",
+      "ja": "cut overhead はコスト削減の定番。"
+     }
+    },
+    {
+     "w": "reconcile",
+     "pos": "v.",
+     "ipa": "/ˈrɛkənsaɪl/",
+     "zh": "对账；使一致；和解",
+     "ja": "照合する；和解させる",
+     "ex": "Please reconcile the bank statement with our internal cash records.",
+     "ex_zh": "请将银行对账单与我们的内部现金记录核对一致。",
+     "ex_ja": "銀行明細と社内の現金記録を照合してください。",
+     "parts": [
+      [
+       "re-",
+       "再",
+       "再び"
+      ],
+      [
+       "concil",
+       "召集；使和好",
+       "呼び集める"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 reconciliare“重新使和好”；会计引申为‘使账目一致’。",
+      "ja": "ラテン語 reconciliare「再び仲直りさせる」→ 会計では帳尻を合わせる。"
+     },
+     "forms": [
+      [
+       "reconciliation (n.)",
+       "对账；和解",
+       "照合；和解"
+      ],
+      [
+       "bank reconciliation",
+       "银行对账",
+       "銀行勘定照合"
+      ],
+      [
+       "reconcile differences",
+       "调和差异",
+       "相違を解消する"
+      ]
+     ],
+     "tip": {
+      "zh": "bank reconciliation 是会计流程高频术语。",
+      "ja": "bank reconciliation は経理の超基本語。"
+     }
+    },
+    {
+     "w": "surplus",
+     "pos": "n./adj.",
+     "ipa": "/ˈsɝpləs/",
+     "zh": "盈余；过剩",
+     "ja": "余剰；黒字；余分な",
+     "ex": "The budget surplus will be used to upgrade laboratory equipment.",
+     "ex_zh": "预算盈余将用于升级实验室设备。",
+     "ex_ja": "予算の余剰は、実験室設備の更新に充てられる。",
+     "parts": [
+      [
+       "sur-",
+       "在上；超出",
+       "上に；超えて"
+      ],
+      [
+       "plus",
+       "更多",
+       "より多く"
+      ]
+     ],
+     "note": {
+      "zh": "来自中古法语／拉丁 sur+plus“更多之上 → 多余”。反义 deficit（不足）。",
+      "ja": "フランス語・ラテン系 sur＋plus「余分」。対義語は deficit。"
+     },
+     "forms": [
+      [
+       "trade surplus",
+       "贸易顺差",
+       "貿易黒字"
+      ],
+      [
+       "budget surplus",
+       "预算盈余",
+       "予算黒字"
+      ],
+      [
+       "surplus inventory",
+       "过剩库存",
+       "余剰在庫"
+      ]
+     ],
+     "tip": {
+      "zh": "surplus ↔ deficit 成对记忆，图表题常考。",
+      "ja": "surplus と deficit を対で覚える。"
+     }
+    },
+    {
+     "w": "collateral",
+     "pos": "n./adj.",
+     "ipa": "/kəˈlætərəl/",
+     "zh": "抵押品；附属的",
+     "ja": "担保；付随的な",
+     "ex": "The loan requires real estate as collateral for amounts above $100,000.",
+     "ex_zh": "超过 10 万美元的贷款需以不动产作为抵押。",
+     "ex_ja": "10 万ドル超の融資には不動産を担保とする必要がある。",
+     "parts": [
+      [
+       "col-",
+       "一起",
+       "共に"
+      ],
+      [
+       "later",
+       "边；侧面",
+       "側面"
+      ],
+      [
+       "-al",
+       "后缀",
+       "接尾辞"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 collateralis“并肩的、附属的”→ 贷款旁挂的担保物。",
+      "ja": "ラテン語 collateralis「並んだ・付随の」→ 融資の担保。"
+     },
+     "forms": [
+      [
+       "provide collateral",
+       "提供抵押",
+       "担保を差し出す"
+      ],
+      [
+       "collateral damage",
+       "附带损害",
+       "付随的損害"
+      ],
+      [
+       "secure a loan with collateral",
+       "用抵押担保贷款",
+       "担保で融資を確保する"
+      ]
+     ],
+     "tip": {
+      "zh": "银行／贷款 Part 7 信件常见。",
+      "ja": "融資関連の Part 7 で頻出。"
+     }
+    },
+    {
+     "w": "equity",
+     "pos": "n.",
+     "ipa": "/ˈɛkwəti/",
+     "zh": "股本；权益；公平",
+     "ja": "自己資本；株式資本；公平",
+     "ex": "The founders still hold a majority equity stake in the start-up.",
+     "ex_zh": "创始人仍持有该初创公司的多数股权。",
+     "ex_ja": "創業者は今もそのスタートアップの過半数の株式持ち分を有する。",
+     "parts": [
+      [
+       "equ",
+       "平等；相等",
+       "等しい"
+      ],
+      [
+       "-ity",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 aequitas（公平、平等）；金融义＝所有者权益／股权。",
+      "ja": "ラテン語 aequitas（公平）。金融では自己資本・持分。"
+     },
+     "forms": [
+      [
+       "private equity",
+       "私募股权",
+       "プライベートエクイティ"
+      ],
+      [
+       "home equity",
+       "房屋净值",
+       "住宅の純資産"
+      ],
+      [
+       "equity stake",
+       "股权份额",
+       "持株比率"
+      ]
+     ],
+     "tip": {
+      "zh": "brand equity＝品牌价值，营销语境也见。",
+      "ja": "brand equity＝ブランド価値、も出る。"
+     }
+    },
+    {
+     "w": "liquidity",
+     "pos": "n.",
+     "ipa": "/lɪˈkwɪdəti/",
+     "zh": "流动性；变现能力",
+     "ja": "流動性；換金のしやすさ",
+     "ex": "The treasurer monitors cash liquidity to ensure suppliers are paid on time.",
+     "ex_zh": "财务主管监控现金流动性，以确保按时支付供应商。",
+     "ex_ja": "財務担当は、仕入先への期日払いを確実にするため現金流動性を監視する。",
+     "parts": [
+      [
+       "liquid",
+       "液体的；流动的",
+       "液体の；流動的な"
+      ],
+      [
+       "-ity",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "liquid（可流动的）→ 资产能多快变成现金。",
+      "ja": "liquid（流動的）→ 資産を現金化しやすい度合い。"
+     },
+     "forms": [
+      [
+       "liquid assets",
+       "流动资产",
+       "流動資産"
+      ],
+      [
+       "liquidity risk",
+       "流动性风险",
+       "流動性リスク"
+      ],
+      [
+       "liquidity crisis",
+       "流动性危机",
+       "流動性危機"
+      ]
+     ]
+    },
+    {
+     "w": "currency",
+     "pos": "n.",
+     "ipa": "/ˈkɝənsi/",
+     "zh": "货币；通货；流通",
+     "ja": "通貨；流通",
+     "ex": "Travelers should exchange currency at an official bank to avoid high fees.",
+     "ex_zh": "旅客应在正规银行兑换货币，以避免高额手续费。",
+     "ex_ja": "旅行者は手数料を抑えるため、正規の銀行で両替すべきだ。",
+     "parts": [
+      [
+       "curr",
+       "跑；流动",
+       "走る；流れる"
+      ],
+      [
+       "-ency",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "与 current／run 同源观念：在市面‘流通’的钱。",
+      "ja": "current と同源イメージ：市中を流通するお金。"
+     },
+     "forms": [
+      [
+       "foreign currency",
+       "外币",
+       "外貨"
+      ],
+      [
+       "currency exchange",
+       "货币兑换",
+       "両替"
+      ],
+      [
+       "digital currency",
+       "数字货币",
+       "デジタル通貨"
+      ]
+     ],
+     "tip": {
+      "zh": "currency exchange rate 旅行／出口阅读常见。",
+      "ja": "為替・渡航文書で頻出。"
+     }
+    },
+    {
+     "w": "amortization",
+     "pos": "n.",
+     "ipa": "/ˌæmərtəˈzeɪʃən/",
+     "zh": "摊销；分期偿还",
+     "ja": "償却；分割返済",
+     "ex": "The loan amortization schedule shows principal and interest for each month.",
+     "ex_zh": "贷款摊还表列出了每月的本金与利息。",
+     "ex_ja": "ローンの返済表には、各月の元金と利息が示されている。",
+     "parts": [
+      [
+       "a-",
+       "至",
+       "〜へ"
+      ],
+      [
+       "mort",
+       "死亡；终结（引申）",
+       "死・終結"
+      ],
+      [
+       "-ization",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "与拉丁 mors（死）相关的古义‘消灭债务’→ 现代会计／贷款的分期摊还。",
+      "ja": "古くは債務を「消滅させる」意 → 現代の分割償却・返済。"
+     },
+     "forms": [
+      [
+       "amortize (v.)",
+       "摊销；分期偿还",
+       "償却する"
+      ],
+      [
+       "amortization schedule",
+       "摊还表",
+       "返済スケジュール"
+      ],
+      [
+       "loan amortization",
+       "贷款分期偿还",
+       "ローンの分割返済"
+      ]
+     ],
+     "tip": {
+      "zh": "与 depreciation 常一起出现在会计语境。",
+      "ja": "depreciation と並んで会計文脈に出る。"
+     }
+    },
+    {
+     "w": "payable",
+     "pos": "adj./n.",
+     "ipa": "/ˈpeɪəbəl/",
+     "zh": "应付的；应付款",
+     "ja": "支払うべき；買掛金",
+     "ex": "Accounts payable must be settled within thirty days of the invoice date.",
+     "ex_zh": "应付账款须在发票开具日起三十天内结清。",
+     "ex_ja": "買掛金は請求書の日付から 30 日以内に決済しなければならない。",
+     "parts": [
+      [
+       "pay",
+       "支付",
+       "支払う"
+      ],
+      [
+       "-able",
+       "可…的；应…的",
+       "〜できる・すべき"
+      ]
+     ],
+     "note": {
+      "zh": "pay + -able：应当支付的。accounts payable (AP)＝应付账款。",
+      "ja": "pay＋-able。accounts payable＝買掛金。"
+     },
+     "forms": [
+      [
+       "accounts payable",
+       "应付账款",
+       "買掛金"
+      ],
+      [
+       "notes payable",
+       "应付票据",
+       "支払手形"
+      ],
+      [
+       "payable on demand",
+       "见票即付",
+       "要求払い"
+      ]
+     ],
+     "tip": {
+      "zh": "AP ↔ AR（accounts receivable）成对记。",
+      "ja": "AP と AR を対で覚える。"
+     }
+    },
+    {
+     "w": "receivable",
+     "pos": "adj./n.",
+     "ipa": "/rɪˈsivəbəl/",
+     "zh": "应收的；应收款",
+     "ja": "受け取るべき；売掛金",
+     "ex": "High accounts receivable may signal that customers are paying late.",
+     "ex_zh": "应收账款偏高可能表明客户付款延迟。",
+     "ex_ja": "売掛金が多いと、顧客の支払遅延を示唆することがある。",
+     "parts": [
+      [
+       "receive",
+       "接收",
+       "受け取る"
+      ],
+      [
+       "-able",
+       "可…的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "receive + -able：应当收到的。accounts receivable (AR)＝应收账款。",
+      "ja": "receive＋-able。accounts receivable＝売掛金。"
+     },
+     "forms": [
+      [
+       "accounts receivable",
+       "应收账款",
+       "売掛金"
+      ],
+      [
+       "notes receivable",
+       "应收票据",
+       "受取手形"
+      ],
+      [
+       "collect receivables",
+       "收应收账款",
+       "売掛金を回収する"
+      ]
+     ],
+     "tip": {
+      "zh": "aging of receivables＝账龄分析，财务报告可见。",
+      "ja": "aging of receivables＝売掛金の年齢調べ。"
+     }
+    },
+    {
+     "w": "profitability",
+     "pos": "n.",
+     "ipa": "/ˌprɑfɪtəˈbɪləti/",
+     "zh": "盈利能力；利润率",
+     "ja": "収益性；利益率",
+     "ex": "Management is reviewing product lines with low profitability.",
+     "ex_zh": "管理层正在审查盈利能力较低的产品线。",
+     "ex_ja": "経営陣は収益性の低い製品ラインを見直している。",
+     "parts": [
+      [
+       "profit",
+       "利润",
+       "利益"
+      ],
+      [
+       "-able",
+       "能…的",
+       "〜できる"
+      ],
+      [
+       "-ity",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "profitable 的名词：能赚钱的程度。",
+      "ja": "profitable の名詞：どれだけ利益を出せるか。"
+     },
+     "forms": [
+      [
+       "profitable (adj.)",
+       "有利可图的",
+       "収益性のある"
+      ],
+      [
+       "profit margin",
+       "利润率",
+       "利益率"
+      ],
+      [
+       "improve profitability",
+       "提高盈利能力",
+       "収益性を改善する"
+      ]
+     ],
+     "tip": {
+      "zh": "profitability analysis 是商务报告高频。",
+      "ja": "profitability analysis が報告書定番。"
+     }
+    }
+   ]
+  }
+ ]
+}
