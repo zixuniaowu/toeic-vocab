@@ -1,0 +1,2801 @@
+{
+ "day": 4,
+ "date": "2026-10-12",
+ "title_zh": "四大词根 + 出差差旅与物流仓储",
+ "title_ja": "4つの語根＋出張・宿泊と物流・倉庫",
+ "intro_zh": "今天掌握 4 个高频词根（pos 放置 / ven 来 / grad·gress 走 / cap·cept 拿），再学出差酒店与物流仓储核心词——强化 Part 5 介词搭配、动词形式与商务书面语。",
+ "intro_ja": "今日は語根 4 つ（pos 置く／ven 来る／grad·gress 進む／cap·cept 取る）と、出張・宿泊および物流・倉庫の重要語を学びます。Part 5 の前置詞・動詞形とビジネス文書の語彙を強化します。",
+ "voice": "en-US-AriaNeural",
+ "roots": [
+  {
+   "root": "-pos- / -pon- / -pound-",
+   "origin": "Latin ponere / positus",
+   "zh": "放置；摆放",
+   "ja": "置く；据える",
+   "exp_zh": "来自拉丁语 ponere（放置；过去分词 positus）。变体 pos / pon / pound（com+ponere → compound）。前缀：pro-（往前放 → 提议）、dis-（分开放 → 处理／丢弃）、ex-（放出来 → 暴露）、com-（放一起 → 组成）、ob-（对着放 → 反对）、im-（放上去 → 强加）。名词常为 -position / -posal。⚠️ purpose、positive 看起来像但不同源，勿硬拆。",
+   "exp_ja": "ラテン語 ponere（置く、過去分詞 positus）から。異形 pos / pon / pound。接頭辞：pro-（前に置く → 提案する）、dis-（分けて置く → 処分する）、ex-（外に出す → さらす）、com-（共に置く → 構成する）、ob-（向かい合わせて置く → 反対する）、im-（上に置く → 課す）。名詞は -position / -posal。⚠️ purpose や positive は別語源。",
+   "examples": [
+    "propose",
+    "dispose",
+    "expose",
+    "compose",
+    "oppose",
+    "impose"
+   ]
+  },
+  {
+   "root": "-ven- / -vent-",
+   "origin": "Latin venire / ventus",
+   "zh": "来；到来",
+   "ja": "来る；到来する",
+   "exp_zh": "来自拉丁语 venire（来；过去分词 ventus）。前缀：in-（进来／想出来 → 发明）、pre-（预先来挡住 → 防止）、inter-（来到中间 → 介入）、con-（一起来 → 大会／惯例）、ad-（向…来 → 冒险／到来）。名词常为 -vention / -venue。⚠️ invent 的“发明”义来自“想出来”；revenue、venue 同源但本站另课已提醒播客重叠时尽量避开。",
+   "exp_ja": "ラテン語 venire（来る、過去分詞 ventus）から。接頭辞：in-（中へ来る／思い浮かぶ → 発明する）、pre-（先に来て阻む → 防ぐ）、inter-（間に入る → 介入する）、con-（共に来る → 大会／慣例）、ad-（〜へ来る → 冒険／到来）。名詞は -vention が多い。",
+   "examples": [
+    "invent",
+    "prevent",
+    "intervene",
+    "convention",
+    "prevention",
+    "intervention"
+   ]
+  },
+  {
+   "root": "-grad- / -gress-",
+   "origin": "Latin gradi / gressus",
+   "zh": "走；迈步",
+   "ja": "歩む；進む",
+   "exp_zh": "来自拉丁语 gradi（走；过去分词 gressus）。grad 多表“级别／程度”，gress 多表“前进／行走”。前缀：pro-（向前走 → 进步）、de-（往下走 → 降级）、di-（走开 → 离题）、ad-（向…走 → 侵略的）、re-（往回走 → 倒退）。⚠️ congress 本义“走到一起”，业务场景较少；grade 单独也可看作同源。",
+   "exp_ja": "ラテン語 gradi（歩む、過去分詞 gressus）から。grad は「段階」、gress は「前進」のニュアンス。接頭辞：pro-（前へ進む → 進歩）、de-（下へ → 格下げ）、di-（脇へそれる → 脱線する）、ad-（向かって進む → 攻撃的な）、re-（戻る → 後退）。",
+   "examples": [
+    "progress",
+    "gradual",
+    "graduate",
+    "degrade",
+    "digress",
+    "aggressive"
+   ]
+  },
+  {
+   "root": "-cap- / -cept- / -ceive- / -cip-",
+   "origin": "Latin capere / captus",
+   "zh": "拿；取；抓住",
+   "ja": "取る；つかむ",
+   "exp_zh": "来自拉丁语 capere（拿、取；过去分词 captus）。变体 cept / ceive / cip。前缀：ac-（向自己拿 → 接受）、ex-（拿出去 → 除了）、re-（拿回来 → 收到／接受者）、per-（彻底拿住 → 察觉）、con-（一起拿／想出 → 构想）、cap-（抓住 → 捕获）。capable 来自“有能力拿住”。⚠️ except 与 accept 只差一个字母，Part 5 常考。",
+   "exp_ja": "ラテン語 capere（取る、過去分詞 captus）から。異形 cept / ceive / cip。接頭辞：ac-（自分の方へ取る → 受け入れる）、ex-（取り出す → 〜を除いて）、re-（取り戻す → 受け取る／受取人）、per-（しっかりつかむ → 知覚する）、con-（思い浮かべる → 構想する）。capable は「つかみ取れる力がある」。⚠️ except と accept は1文字違いで Part 5 頻出。",
+   "examples": [
+    "accept",
+    "except",
+    "receive",
+    "perceive",
+    "conceive",
+    "capture"
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "pos",
+   "title_zh": "词根 -pos- / -pon- / -pound-：放置",
+   "title_ja": "語根 -pos- / -pon- / -pound-：置く",
+   "words": [
+    {
+     "w": "propose",
+     "pos": "v.",
+     "ipa": "/prəˈpoʊz/",
+     "zh": "提议；求婚",
+     "ja": "提案する；申し込む",
+     "ex": "The committee will propose a new remote-work policy at Monday's meeting.",
+     "ex_zh": "委员会将在周一会议上提议新的远程办公政策。",
+     "ex_ja": "委員会は月曜の会議で新しい在宅勤務方針を提案します。",
+     "parts": [
+      [
+       "pro-",
+       "向前",
+       "前へ"
+      ],
+      [
+       "pose",
+       "放置",
+       "置く"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 proponere“往前放置、提出”。",
+      "ja": "ラテン語 proponere「前に置く・提出する」。"
+     },
+     "forms": [
+      [
+       "proposal (n.)",
+       "提案",
+       "提案"
+      ],
+      [
+       "propose that…",
+       "提议…",
+       "〜を提案する"
+      ],
+      [
+       "proposed (adj.)",
+       "拟议的",
+       "提案された"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5：propose + that + (should) 原形；名词 proposal 后常接 for / to。",
+      "ja": "Part 5：propose that + (should) 原形。名詞 proposal は for / to と組む。"
+     }
+    },
+    {
+     "w": "dispose",
+     "pos": "v.",
+     "ipa": "/dɪˈspoʊz/",
+     "zh": "处理；丢弃；使倾向于",
+     "ja": "処分する；配置する；〜する気にさせる",
+     "ex": "Please dispose of confidential documents in the shredding bin near the lobby.",
+     "ex_zh": "请将机密文件丢入大堂附近的碎纸箱处理。",
+     "ex_ja": "機密文書はロビー近くのシュレッダー箱で処分してください。",
+     "parts": [
+      [
+       "dis-",
+       "分开；除去",
+       "分けて；除去"
+      ],
+      [
+       "pose",
+       "放置",
+       "置く"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 disponere“分开安排”；业务里常与 of 搭配：dispose of。",
+      "ja": "ラテン語 disponere「分けて配置する」。ビジネスでは dispose of が定番。"
+     },
+     "forms": [
+      [
+       "disposal (n.)",
+       "处理；处置",
+       "処分"
+      ],
+      [
+       "dispose of",
+       "处理掉",
+       "処分する"
+      ],
+      [
+       "disposable (adj.)",
+       "一次性的",
+       "使い捨て用の"
+      ]
+     ],
+     "tip": {
+      "zh": "固定搭配 dispose of + 名词；Part 5 常考介词 of。",
+      "ja": "dispose of + 名詞。Part 5 で前置詞 of が狙われる。"
+     }
+    },
+    {
+     "w": "expose",
+     "pos": "v.",
+     "ipa": "/ɪkˈspoʊz/",
+     "zh": "使暴露；揭露；使接触",
+     "ja": "さらす；暴露する；触れさせる",
+     "ex": "Do not expose the battery packs to extreme heat during shipment.",
+     "ex_zh": "运输过程中请勿使电池组暴露在极端高温下。",
+     "ex_ja": "出荷中、バッテリーパックを極端な高温にさらさないでください。",
+     "parts": [
+      [
+       "ex-",
+       "向外",
+       "外へ"
+      ],
+      [
+       "pose",
+       "放置",
+       "置く"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 exponere“放出来、展示”。",
+      "ja": "ラテン語 exponere「外に出す・示す」。"
+     },
+     "forms": [
+      [
+       "exposure (n.)",
+       "暴露；接触",
+       "露出；暴露"
+      ],
+      [
+       "exposed to",
+       "暴露于",
+       "〜にさらされる"
+      ],
+      [
+       "expose a flaw",
+       "揭露缺陷",
+       "欠陥を明らかにする"
+      ]
+     ],
+     "tip": {
+      "zh": "常考 be exposed to + 名词（风险／化学品／市场）。",
+      "ja": "be exposed to + 名詞（リスク・化学物質など）が頻出。"
+     }
+    },
+    {
+     "w": "compose",
+     "pos": "v.",
+     "ipa": "/kəmˈpoʊz/",
+     "zh": "组成；撰写；使镇静",
+     "ja": "構成する；書く；落ち着かせる",
+     "ex": "The task force is composed of engineers from three different departments.",
+     "ex_zh": "该工作组由来自三个不同部门的工程师组成。",
+     "ex_ja": "そのタスクフォースは3つの異なる部門の技術者で構成されています。",
+     "parts": [
+      [
+       "com-",
+       "一起",
+       "共に"
+      ],
+      [
+       "pose",
+       "放置",
+       "置く"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 componere“放在一起、组成”。",
+      "ja": "ラテン語 componere「一緒に置く・構成する」。"
+     },
+     "forms": [
+      [
+       "composition (n.)",
+       "构成；作文",
+       "構成；作文"
+      ],
+      [
+       "be composed of",
+       "由…组成",
+       "〜で構成される"
+      ],
+      [
+       "composer (n.)",
+       "作曲家；撰写者",
+       "作曲家"
+      ]
+     ],
+     "tip": {
+      "zh": "被动 be composed of ≈ consist of（主动）；勿写成 compose of。",
+      "ja": "be composed of ≈ consist of。compose of は不可。"
+     }
+    },
+    {
+     "w": "oppose",
+     "pos": "v.",
+     "ipa": "/əˈpoʊz/",
+     "zh": "反对；反抗",
+     "ja": "反対する；抵抗する",
+     "ex": "Several board members oppose the merger because of regulatory risks.",
+     "ex_zh": "几位董事会成员因监管风险反对此次并购。",
+     "ex_ja": "規制リスクのため、数名の取締役が合併に反対しています。",
+     "parts": [
+      [
+       "op-",
+       "对着；反对",
+       "向かい；反対"
+      ],
+      [
+       "pose",
+       "放置",
+       "置く"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 opponere“放在对面、反对”（ob- + ponere）。",
+      "ja": "ラテン語 opponere「向かい合わせて置く・反対する」。"
+     },
+     "forms": [
+      [
+       "opposition (n.)",
+       "反对；对立面",
+       "反対；野党"
+      ],
+      [
+       "opposed to",
+       "反对…",
+       "〜に反対して"
+      ],
+      [
+       "opponent (n.)",
+       "对手",
+       "相手；反対者"
+      ]
+     ],
+     "tip": {
+      "zh": "be opposed to + 名词/动名词；名词 opposition to。",
+      "ja": "be opposed to + 名詞/動名詞。名詞は opposition to。"
+     }
+    },
+    {
+     "w": "impose",
+     "pos": "v.",
+     "ipa": "/ɪmˈpoʊz/",
+     "zh": "强加；征收（税／罚款）",
+     "ja": "課す；押しつける",
+     "ex": "The city will impose a fine on companies that violate the noise ordinance.",
+     "ex_zh": "市政府将对违反噪声条例的公司处以罚款。",
+     "ex_ja": "市は騒音条例に違反した企業に罰金を科します。",
+     "parts": [
+      [
+       "im-",
+       "向上；进入",
+       "上へ；中へ"
+      ],
+      [
+       "pose",
+       "放置",
+       "置く"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 imponere“放上去、强加”。",
+      "ja": "ラテン語 imponere「上に置く・課す」。"
+     },
+     "forms": [
+      [
+       "imposition (n.)",
+       "强加；负担",
+       "賦課；押しつけ"
+      ],
+      [
+       "impose on/upon",
+       "强加于",
+       "〜に課す"
+      ],
+      [
+       "impose a tax",
+       "征税",
+       "税金を課す"
+      ]
+     ],
+     "tip": {
+      "zh": "impose A on B：把 A 加在 B 上；Part 5 考介词 on。",
+      "ja": "impose A on B。Part 5 で on がポイント。"
+     }
+    },
+    {
+     "w": "compound",
+     "pos": "n./v.",
+     "ipa": "/ˈkɑmpaʊnd/",
+     "zh": "混合物；化合物；使恶化；混合",
+     "ja": "混合物；複合の；悪化させる",
+     "ex": "Rising fuel costs will compound the delay already caused by the port strike.",
+     "ex_zh": "不断上涨的燃料成本将使港口罢工已造成的延误进一步恶化。",
+     "ex_ja": "燃料費の上昇は、港湾ストライキですでに生じた遅延をさらに悪化させます。",
+     "parts": [
+      [
+       "com-",
+       "一起",
+       "共に"
+      ],
+      [
+       "pound",
+       "放置",
+       "置く"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 componere 的变体 compound“放在一起”；名词／动词重音不同。",
+      "ja": "ラテン語 componere の異形。名詞と動詞で強勢が異なる。"
+     },
+     "forms": [
+      [
+       "compound interest",
+       "复利",
+       "複利"
+      ],
+      [
+       "compound the problem",
+       "使问题恶化",
+       "問題を悪化させる"
+      ],
+      [
+       "compound (adj.)",
+       "复合的",
+       "複合の"
+      ]
+     ],
+     "tip": {
+      "zh": "名词 ˈkɑm-；动词常 kəmˈpaʊnd（使恶化）。例句里是动词义。",
+      "ja": "名詞は ˈkɑm-、動詞「悪化させる」は kəmˈ が多い。"
+     },
+     "say": "compound"
+    },
+    {
+     "w": "opposition",
+     "pos": "n.",
+     "ipa": "/ˌɑpəˈzɪʃən/",
+     "zh": "反对；对立；反对派",
+     "ja": "反対；対立；野党",
+     "ex": "Despite strong opposition from local residents, the warehouse project was approved.",
+     "ex_zh": "尽管当地居民强烈反对，仓库项目仍获批准。",
+     "ex_ja": "地域住民の強い反対にもかかわらず、倉庫プロジェクトは承認されました。",
+     "parts": [
+      [
+       "op-",
+       "对着",
+       "向かい"
+      ],
+      [
+       "pos",
+       "放置",
+       "置く"
+      ],
+      [
+       "-ition",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "oppose 的名词形式，来自 opponere。",
+      "ja": "oppose の名詞形。語源は opponere。"
+     },
+     "forms": [
+      [
+       "in opposition to",
+       "反对…",
+       "〜に反対して"
+      ],
+      [
+       "face opposition",
+       "遭遇反对",
+       "反対に直面する"
+      ],
+      [
+       "oppose (v.)",
+       "反对",
+       "反対する"
+      ]
+     ],
+     "tip": {
+      "zh": "in opposition to ≈ opposed to；后接名词。",
+      "ja": "in opposition to ≈ opposed to。後ろは名詞。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ven",
+   "title_zh": "词根 -ven- / -vent-：来",
+   "title_ja": "語根 -ven- / -vent-：来る",
+   "words": [
+    {
+     "w": "invent",
+     "pos": "v.",
+     "ipa": "/ɪnˈvɛnt/",
+     "zh": "发明；编造",
+     "ja": "発明する；作り上げる",
+     "ex": "Our R&D team hopes to invent a lighter packaging material by next quarter.",
+     "ex_zh": "我们的研发团队希望在下季度前发明更轻的包装材料。",
+     "ex_ja": "研究開発チームは来四半期までに、より軽い包装材を発明したいと考えています。",
+     "parts": [
+      [
+       "in-",
+       "进入；向内",
+       "中へ"
+      ],
+      [
+       "vent",
+       "来",
+       "来る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 invenire“到来、发现、想出”。",
+      "ja": "ラテン語 invenire「到来する・見つけ出す」。"
+     },
+     "forms": [
+      [
+       "invention (n.)",
+       "发明",
+       "発明"
+      ],
+      [
+       "inventor (n.)",
+       "发明者",
+       "発明者"
+      ],
+      [
+       "inventive (adj.)",
+       "有创造力的",
+       "独創的な"
+      ]
+     ],
+     "tip": {
+      "zh": "invention / inventor / inventive 词性题常考。",
+      "ja": "invention / inventor / inventive の品詞問題が頻出。"
+     }
+    },
+    {
+     "w": "prevent",
+     "pos": "v.",
+     "ipa": "/prɪˈvɛnt/",
+     "zh": "防止；阻止",
+     "ja": "防ぐ；妨げる",
+     "ex": "Wearing safety gloves can prevent minor injuries on the loading dock.",
+     "ex_zh": "在装卸码头戴安全手套可以防止轻微受伤。",
+     "ex_ja": "荷役ドックで安全手袋を着用すれば、軽いけがを防げます。",
+     "parts": [
+      [
+       "pre-",
+       "预先",
+       "前もって"
+      ],
+      [
+       "vent",
+       "来",
+       "来る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 praevenire“先到、抢先阻止”。",
+      "ja": "ラテン語 praevenire「先に来て阻む」。"
+     },
+     "forms": [
+      [
+       "prevention (n.)",
+       "预防",
+       "予防"
+      ],
+      [
+       "preventive (adj.)",
+       "预防性的",
+       "予防の"
+      ],
+      [
+       "prevent A from -ing",
+       "阻止A做…",
+       "Aが〜するのを防ぐ"
+      ]
+     ],
+     "tip": {
+      "zh": "prevent A from doing；不可写成 prevent to do。",
+      "ja": "prevent A from doing。prevent to do は不可。"
+     }
+    },
+    {
+     "w": "intervene",
+     "pos": "v.",
+     "ipa": "/ˌɪntərˈvin/",
+     "zh": "介入；干预；调停",
+     "ja": "介入する；干渉する",
+     "ex": "A mediator will intervene if the supplier and buyer cannot reach an agreement.",
+     "ex_zh": "若供应商与买方无法达成协议，调解人将介入。",
+     "ex_ja": "供給業者と買い手が合意できない場合、調停者が介入します。",
+     "parts": [
+      [
+       "inter-",
+       "在…之间",
+       "間に"
+      ],
+      [
+       "vene",
+       "来",
+       "来る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 intervenire“来到中间”。",
+      "ja": "ラテン語 intervenire「間に入って来る」。"
+     },
+     "forms": [
+      [
+       "intervention (n.)",
+       "干预；介入",
+       "介入"
+      ],
+      [
+       "intervene in",
+       "介入…",
+       "〜に介入する"
+      ],
+      [
+       "government intervention",
+       "政府干预",
+       "政府介入"
+      ]
+     ],
+     "tip": {
+      "zh": "intervene in + 名词；名词 intervention 书面语常见。",
+      "ja": "intervene in + 名詞。名詞 intervention は文書で頻出。"
+     }
+    },
+    {
+     "w": "convention",
+     "pos": "n.",
+     "ipa": "/kənˈvɛnʃən/",
+     "zh": "大会；惯例；公约",
+     "ja": "大会；慣例；条約",
+     "ex": "Over two thousand buyers will attend the annual electronics convention in Osaka.",
+     "ex_zh": "两千多名采购商将参加在大阪举行的年度电子产品大会。",
+     "ex_ja": "2千人を超える買い手が大阪の年次エレクトロニクス大会に参加します。",
+     "parts": [
+      [
+       "con-",
+       "一起",
+       "共に"
+      ],
+      [
+       "vent",
+       "来",
+       "来る"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 convenire“聚集到来”；也指约定俗成的惯例。",
+      "ja": "ラテン語 convenire「集まって来る」。慣例の意味もある。"
+     },
+     "forms": [
+      [
+       "conventional (adj.)",
+       "常规的；传统的",
+       "従来の；慣例の"
+      ],
+      [
+       "by convention",
+       "依照惯例",
+       "慣例により"
+      ],
+      [
+       "trade convention",
+       "行业大会",
+       "業界大会"
+      ]
+     ],
+     "tip": {
+      "zh": "convention = 大会／惯例；conventional methods 常考。",
+      "ja": "convention＝大会／慣例。conventional methods が頻出。"
+     }
+    },
+    {
+     "w": "adventure",
+     "pos": "n.",
+     "ipa": "/ədˈvɛntʃɚ/",
+     "zh": "冒险；奇遇",
+     "ja": "冒険；奇遇",
+     "ex": "The travel brochure highlights outdoor adventure packages for corporate retreats.",
+     "ex_zh": "旅游手册突出介绍供企业静修使用的户外冒险套餐。",
+     "ex_ja": "旅行パンフレットは、企業リトリート向けのアウトドア冒険パッケージを強調しています。",
+     "parts": [
+      [
+       "ad-",
+       "向；朝",
+       "〜へ"
+      ],
+      [
+       "vent",
+       "来",
+       "来る"
+      ],
+      [
+       "-ure",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 adventura“将要到来的事”；现多指冒险活动。",
+      "ja": "ラテン語 adventura「これから起こること」。現在は冒険の意が主。"
+     },
+     "forms": [
+      [
+       "adventurous (adj.)",
+       "爱冒险的",
+       "冒険好きな"
+      ],
+      [
+       "adventure travel",
+       "探险旅游",
+       "アドベンチャー旅行"
+      ],
+      [
+       "adventure (v.)",
+       "冒险去做",
+       "冒険する"
+      ]
+     ],
+     "tip": {
+      "zh": "TOEIC 旅游文常见 adventure tour / package。",
+      "ja": "旅行文で adventure tour / package がよく出る。"
+     }
+    },
+    {
+     "w": "prevention",
+     "pos": "n.",
+     "ipa": "/prɪˈvɛnʃən/",
+     "zh": "预防；防止",
+     "ja": "予防；防止",
+     "ex": "Fire prevention training is mandatory for all warehouse supervisors this month.",
+     "ex_zh": "本月所有仓库主管必须参加防火培训。",
+     "ex_ja": "今月、すべての倉庫監督者に防火研修が義務づけられています。",
+     "parts": [
+      [
+       "pre-",
+       "预先",
+       "前もって"
+      ],
+      [
+       "vent",
+       "来",
+       "来る"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "prevent 的名词；prevention of + 名词。",
+      "ja": "prevent の名詞。prevention of + 名詞。"
+     },
+     "forms": [
+      [
+       "accident prevention",
+       "事故预防",
+       "事故防止"
+      ],
+      [
+       "prevention of fraud",
+       "欺诈预防",
+       "不正防止"
+      ],
+      [
+       "preventive measure",
+       "预防措施",
+       "予防策"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5：prevention of + 名词；形容词用 preventive。",
+      "ja": "Part 5：prevention of + 名詞。形容詞は preventive。"
+     }
+    },
+    {
+     "w": "intervention",
+     "pos": "n.",
+     "ipa": "/ˌɪntərˈvɛnʃən/",
+     "zh": "介入；干预；调停",
+     "ja": "介入；干渉；調停",
+     "ex": "Early intervention by customer service can stop a minor complaint from escalating.",
+     "ex_zh": "客服及早介入可防止小投诉升级。",
+     "ex_ja": "カスタマーサービスの早期介入は、小さな苦情の拡大を止められます。",
+     "parts": [
+      [
+       "inter-",
+       "在…之间",
+       "間に"
+      ],
+      [
+       "vent",
+       "来",
+       "来る"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "intervene 的名词形式。",
+      "ja": "intervene の名詞形。"
+     },
+     "forms": [
+      [
+       "government intervention",
+       "政府干预",
+       "政府介入"
+      ],
+      [
+       "medical intervention",
+       "医疗干预",
+       "医療介入"
+      ],
+      [
+       "intervene (v.)",
+       "介入",
+       "介入する"
+      ]
+     ],
+     "tip": {
+      "zh": "书面语常见 early / timely intervention。",
+      "ja": "early / timely intervention が文書でよく出る。"
+     }
+    },
+    {
+     "w": "eventual",
+     "pos": "adj.",
+     "ipa": "/ɪˈvɛntʃuəl/",
+     "zh": "最终的；最后的",
+     "ja": "最終的な；結局の",
+     "ex": "The eventual cost of the delayed shipment exceeded the original budget by 12 percent.",
+     "ex_zh": "延误货运的最终成本超出原预算百分之十二。",
+     "ex_ja": "遅延した貨物の最終コストは当初予算を12％上回りました。",
+     "parts": [
+      [
+       "e-",
+       "向外",
+       "外へ"
+      ],
+      [
+       "vent",
+       "来",
+       "来る"
+      ],
+      [
+       "-ual",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "与 event（到来的事）同源；eventual = 最终会发生的。",
+      "ja": "event（起こること）と同系。eventual＝最終的に起こる。"
+     },
+     "forms": [
+      [
+       "eventually (adv.)",
+       "最终；终于",
+       "最終的に"
+      ],
+      [
+       "eventual outcome",
+       "最终结果",
+       "最終結果"
+      ],
+      [
+       "eventual buyer",
+       "最终买家",
+       "最終購入者"
+      ]
+     ],
+     "tip": {
+      "zh": "eventually ≠ eventfully；副词 eventually 表“最终”。",
+      "ja": "eventually は「最終的に」。eventfully と混同しない。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "grad",
+   "title_zh": "词根 -grad- / -gress-：走、迈步",
+   "title_ja": "語根 -grad- / -gress-：歩む",
+   "words": [
+    {
+     "w": "progress",
+     "pos": "n./v.",
+     "ipa": "/ˈprɑɡrɛs/",
+     "zh": "进步；进展；前进",
+     "ja": "進歩；進展；進む",
+     "ex": "We are making steady progress on renovating the hotel conference rooms.",
+     "ex_zh": "我们在酒店会议室翻新方面正稳步取得进展。",
+     "ex_ja": "ホテルの会議室改装は着実に進展しています。",
+     "parts": [
+      [
+       "pro-",
+       "向前",
+       "前へ"
+      ],
+      [
+       "gress",
+       "走",
+       "歩む"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 progredi“向前走”；名词与动词重音不同。",
+      "ja": "ラテン語 progredi「前へ進む」。名詞と動詞で強勢が異なる。"
+     },
+     "forms": [
+      [
+       "make progress",
+       "取得进展",
+       "進展する"
+      ],
+      [
+       "in progress",
+       "进行中",
+       "進行中"
+      ],
+      [
+       "progressive (adj.)",
+       "渐进的",
+       "進歩的な"
+      ]
+     ],
+     "tip": {
+      "zh": "名词 ˈprɑ-；动词 prəˈɡrɛs。TOEIC 多用名词 make progress / in progress。",
+      "ja": "名詞 ˈprɑ-、動詞 prəˈ。TOEIC では make progress / in progress が多い。"
+     }
+    },
+    {
+     "w": "gradual",
+     "pos": "adj.",
+     "ipa": "/ˈɡrædʒuəl/",
+     "zh": "逐渐的；逐步的",
+     "ja": "徐々の；段階的な",
+     "ex": "There has been a gradual increase in overnight stays at downtown hotels.",
+     "ex_zh": "市中心酒店的过夜入住呈现逐步增长。",
+     "ex_ja": "都心のホテルの宿泊数は徐々に増加しています。",
+     "parts": [
+      [
+       "grad",
+       "步；级别",
+       "歩；段階"
+      ],
+      [
+       "-ual",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 gradus“台阶、级别” → 一步一步的。",
+      "ja": "ラテン語 gradus「段・段階」→ 一歩ずつ。"
+     },
+     "forms": [
+      [
+       "gradually (adv.)",
+       "逐渐地",
+       "徐々に"
+      ],
+      [
+       "gradual decline",
+       "逐渐下降",
+       "徐々の低下"
+      ],
+      [
+       "gradual improvement",
+       "逐步改善",
+       "段階的な改善"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5：形容词 gradual + 名词；副词 gradually + 动词。",
+      "ja": "Part 5：gradual + 名詞／gradually + 動詞。"
+     }
+    },
+    {
+     "w": "graduate",
+     "pos": "v./n.",
+     "ipa": "/ˈɡrædʒuˌeɪt/",
+     "zh": "毕业；毕业生；逐步过渡",
+     "ja": "卒業する；卒業生；段階的に移る",
+     "ex": "New hires will graduate from the training program before joining the sales team.",
+     "ex_zh": "新员工在加入销售团队前将完成培训项目。",
+     "ex_ja": "新入社員は営業チームに加わる前に研修プログラムを修了します。",
+     "parts": [
+      [
+       "grad",
+       "步；级别",
+       "歩；段階"
+      ],
+      [
+       "-uate",
+       "动词／名词后缀",
+       "動詞・名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 graduare“授予学位／按级进行”；动词与名词读音略有差别。",
+      "ja": "ラテン語 graduare。動詞と名詞で発音がやや異なる。"
+     },
+     "forms": [
+      [
+       "graduation (n.)",
+       "毕业",
+       "卒業"
+      ],
+      [
+       "graduate from",
+       "从…毕业",
+       "〜を卒業する"
+      ],
+      [
+       "undergraduate (n.)",
+       "本科生",
+       "学部生"
+      ]
+     ],
+     "tip": {
+      "zh": "动词常 ˈɡrædʒuˌeɪt；名词可 ˈɡrædʒuət。graduate from + 学校。",
+      "ja": "動詞は ˈɡrædʒuˌeɪt が多い。graduate from + 学校。"
+     }
+    },
+    {
+     "w": "degrade",
+     "pos": "v.",
+     "ipa": "/dɪˈɡreɪd/",
+     "zh": "降级；贬低；使恶化",
+     "ja": "格下げする；卑しめる；劣化させる",
+     "ex": "Leaving packages outdoors overnight will degrade the quality of perishable goods.",
+     "ex_zh": "将包裹整夜留在户外会降低易腐货物的品质。",
+     "ex_ja": "荷物を屋外に一晩置くと、生鮮品の品質が劣化します。",
+     "parts": [
+      [
+       "de-",
+       "向下",
+       "下へ"
+      ],
+      [
+       "grade",
+       "级别；步",
+       "段階"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 degradare“降低等级”。",
+      "ja": "ラテン語 degradare「等級を下げる」。"
+     },
+     "forms": [
+      [
+       "degradation (n.)",
+       "退化；降级",
+       "劣化；格下げ"
+      ],
+      [
+       "degraded (adj.)",
+       "被降低的",
+       "劣化した"
+      ],
+      [
+       "degrade performance",
+       "降低性能",
+       "性能を低下させる"
+      ]
+     ],
+     "tip": {
+      "zh": "也可指“贬低某人”；名词 degradation 书面语常见。",
+      "ja": "人を貶める意もある。名詞 degradation は文書語。"
+     }
+    },
+    {
+     "w": "digress",
+     "pos": "v.",
+     "ipa": "/daɪˈɡrɛs/",
+     "zh": "离题；偏离主题",
+     "ja": "脱線する；本題から外れる",
+     "ex": "Let me digress for a moment to explain how the tracking system works.",
+     "ex_zh": "请允许我稍稍离题，说明一下追踪系统如何运作。",
+     "ex_ja": "少し脱線して、追跡システムの仕組みを説明させてください。",
+     "parts": [
+      [
+       "di-",
+       "离开；分开",
+       "離れて"
+      ],
+      [
+       "gress",
+       "走",
+       "歩む"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 digredi“走开、偏离”。",
+      "ja": "ラテン語 digredi「脇へそれる」。"
+     },
+     "forms": [
+      [
+       "digression (n.)",
+       "离题；题外话",
+       "脱線；余談"
+      ],
+      [
+       "digress from",
+       "偏离…",
+       "〜から脱線する"
+      ],
+      [
+       "without further digression",
+       "不再离题",
+       "これ以上脱線せず"
+      ]
+     ],
+     "tip": {
+      "zh": "会议／演示口语：If I may digress…；名词 digression。",
+      "ja": "会議で If I may digress…。名詞は digression。"
+     }
+    },
+    {
+     "w": "aggressive",
+     "pos": "adj.",
+     "ipa": "/əˈɡrɛsɪv/",
+     "zh": "积极进取的；侵略性的",
+     "ja": "積極的な；攻撃的な",
+     "ex": "The firm adopted an aggressive pricing strategy to win new logistics contracts.",
+     "ex_zh": "该公司采取积极定价策略以赢得新的物流合同。",
+     "ex_ja": "同社は新しい物流契約を得るため、積極的な価格戦略を採りました。",
+     "parts": [
+      [
+       "ag-",
+       "向；朝",
+       "〜へ"
+      ],
+      [
+       "gress",
+       "走",
+       "歩む"
+      ],
+      [
+       "-ive",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 aggredi“走向、攻击”（ad+grad）；商业语境常指“积极进取”。",
+      "ja": "ラテン語 aggredi「向かって行く・攻撃する」。ビジネスでは「積極的」の意が多い。"
+     },
+     "forms": [
+      [
+       "aggression (n.)",
+       "侵略；攻击性",
+       "攻撃；侵略"
+      ],
+      [
+       "aggressively (adv.)",
+       "积极地",
+       "積極的に"
+      ],
+      [
+       "aggressive marketing",
+       "积极营销",
+       "積極的なマーケティング"
+      ]
+     ],
+     "tip": {
+      "zh": "TOEIC 商务义多为“进取的”，不一定负面。",
+      "ja": "TOEIC では「積極的」の中立〜肯定用法が多い。"
+     }
+    },
+    {
+     "w": "regression",
+     "pos": "n.",
+     "ipa": "/rɪˈɡrɛʃən/",
+     "zh": "倒退；回归",
+     "ja": "後退；回帰",
+     "ex": "A regression in on-time delivery rates prompted a review of our courier partners.",
+     "ex_zh": "准时交货率的倒退促使我们审查快递合作伙伴。",
+     "ex_ja": "定時配達率の後退を受け、宅配パートナーの見直しが行われました。",
+     "parts": [
+      [
+       "re-",
+       "向后；再",
+       "戻って；再び"
+      ],
+      [
+       "gress",
+       "走",
+       "歩む"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 regredi“往回走”；统计里也指回归分析。",
+      "ja": "ラテン語 regredi「戻って行く」。統計の回帰分析の意もある。"
+     },
+     "forms": [
+      [
+       "regress (v.)",
+       "倒退",
+       "後退する"
+      ],
+      [
+       "regression analysis",
+       "回归分析",
+       "回帰分析"
+      ],
+      [
+       "economic regression",
+       "经济倒退",
+       "景気の後退"
+      ]
+     ],
+     "tip": {
+      "zh": "商务文可表指标“回落”；学术义 regression analysis。",
+      "ja": "指標の「後退」にも使う。学術では regression analysis。"
+     }
+    },
+    {
+     "w": "progressive",
+     "pos": "adj.",
+     "ipa": "/prəˈɡrɛsɪv/",
+     "zh": "渐进的；进步的；累进的",
+     "ja": "漸進的な；進歩的な；累進の",
+     "ex": "The company offers a progressive discount based on the volume of freight shipped.",
+     "ex_zh": "公司根据货运量提供累进折扣。",
+     "ex_ja": "同社は貨物の取扱量に応じた累進割引を提供しています。",
+     "parts": [
+      [
+       "pro-",
+       "向前",
+       "前へ"
+      ],
+      [
+       "gress",
+       "走",
+       "歩む"
+      ],
+      [
+       "-ive",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "progress 的形容词；也可指累进税率／折扣。",
+      "ja": "progress の形容詞。累進税率・割引の意もある。"
+     },
+     "forms": [
+      [
+       "progressively (adv.)",
+       "逐渐地",
+       "徐々に"
+      ],
+      [
+       "progressive tax",
+       "累进税",
+       "累進税"
+      ],
+      [
+       "progressive improvement",
+       "逐步改善",
+       "漸進的な改善"
+      ]
+     ],
+     "tip": {
+      "zh": "progressive + 名词；与 gradual 近义但更强调“前进／累进”。",
+      "ja": "progressive + 名詞。gradual に近いが「前進・累進」のニュアンス。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "cap",
+   "title_zh": "词根 -cap- / -cept- / -ceive- / -cip-：拿、取",
+   "title_ja": "語根 -cap- / -cept- / -ceive- / -cip-：取る",
+   "words": [
+    {
+     "w": "accept",
+     "pos": "v.",
+     "ipa": "/əkˈsɛpt/",
+     "zh": "接受；认可；承兑",
+     "ja": "受け入れる；認める；引き受ける",
+     "ex": "We are pleased to accept your offer to host the annual sales conference.",
+     "ex_zh": "我们很高兴接受贵方承办年度销售会议的提议。",
+     "ex_ja": "年次営業会議の開催をお引き受けいただけるとのご提案を喜んで受け入れます。",
+     "parts": [
+      [
+       "ac-",
+       "向；朝",
+       "〜へ"
+      ],
+      [
+       "cept",
+       "拿；取",
+       "取る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 acceptare“拿向自己、接受”。",
+      "ja": "ラテン語 acceptare「自分の方へ取る・受け入れる」。"
+     },
+     "forms": [
+      [
+       "acceptance (n.)",
+       "接受；承兑",
+       "受諾；引受け"
+      ],
+      [
+       "acceptable (adj.)",
+       "可接受的",
+       "許容できる"
+      ],
+      [
+       "accept an offer",
+       "接受报价",
+       "申し出を受ける"
+      ]
+     ],
+     "tip": {
+      "zh": "易与 except 混淆：accept=接受，except=除了。",
+      "ja": "except（〜を除く）と混同しやすい。accept＝受け入れる。"
+     }
+    },
+    {
+     "w": "except",
+     "pos": "prep./conj.",
+     "ipa": "/ɪkˈsɛpt/",
+     "zh": "除…之外",
+     "ja": "〜を除いて",
+     "ex": "All departments except Accounting will move to the new building in March.",
+     "ex_zh": "除会计部外，所有部门将于三月迁入新大楼。",
+     "ex_ja": "経理部を除く全部署が3月に新ビルへ移転します。",
+     "parts": [
+      [
+       "ex-",
+       "向外；出去",
+       "外へ"
+      ],
+      [
+       "cept",
+       "拿；取",
+       "取る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 excipere“拿出去、排除”。",
+      "ja": "ラテン語 excipere「取り出す・除外する」。"
+     },
+     "forms": [
+      [
+       "exception (n.)",
+       "例外",
+       "例外"
+      ],
+      [
+       "exceptional (adj.)",
+       "杰出的；例外的",
+       "例外的な；卓越した"
+      ],
+      [
+       "except for",
+       "除了…",
+       "〜を除いて"
+      ]
+     ],
+     "tip": {
+      "zh": "except / except for + 名词；with the exception of 同义。",
+      "ja": "except / except for + 名詞。with the exception of と同義。"
+     }
+    },
+    {
+     "w": "receive",
+     "pos": "v.",
+     "ipa": "/rɪˈsiv/",
+     "zh": "收到；接待；遭受",
+     "ja": "受け取る；迎える；受ける",
+     "ex": "Please confirm that you receive the invoice within two business days.",
+     "ex_zh": "请确认您在两个工作日内收到发票。",
+     "ex_ja": "請求書を2営業日以内に受け取ったことを確認してください。",
+     "parts": [
+      [
+       "re-",
+       "回；再",
+       "戻して"
+      ],
+      [
+       "ceive",
+       "拿；取",
+       "取る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 recipere“拿回来、接收”（ceive = capere 变体）。",
+      "ja": "ラテン語 recipere「取り戻す・受け取る」。ceive は capere の異形。"
+     },
+     "forms": [
+      [
+       "receipt (n.)",
+       "收据；收到",
+       "領収書；受領"
+      ],
+      [
+       "receiver (n.)",
+       "接收者；听筒",
+       "受取人；受信機"
+      ],
+      [
+       "received (adj.)",
+       "已收到的",
+       "受領済みの"
+      ]
+     ],
+     "tip": {
+      "zh": "receive ≠ receipt（收据）；Part 5 常考词性。",
+      "ja": "receive（動詞）と receipt（領収書）を混同しない。"
+     }
+    },
+    {
+     "w": "perceive",
+     "pos": "v.",
+     "ipa": "/pərˈsiv/",
+     "zh": "察觉；认为；感知",
+     "ja": "知覚する；〜と見なす",
+     "ex": "Customers may perceive long hold times as poor service quality.",
+     "ex_zh": "客户可能将长时间等候视为服务质量差。",
+     "ex_ja": "顧客は長い保留時間をサービス品質の低さと見なすことがあります。",
+     "parts": [
+      [
+       "per-",
+       "彻底；贯穿",
+       "徹底的に"
+      ],
+      [
+       "ceive",
+       "拿；取",
+       "取る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 percipere“彻底抓住、理解”。",
+      "ja": "ラテン語 percipere「しっかりつかむ・理解する」。"
+     },
+     "forms": [
+      [
+       "perception (n.)",
+       "认知；看法",
+       "認識；知覚"
+      ],
+      [
+       "perceived (adj.)",
+       "被认为的",
+       "認識された"
+      ],
+      [
+       "perceive A as B",
+       "把A视为B",
+       "AをBと見なす"
+      ]
+     ],
+     "tip": {
+      "zh": "perceive A as B；名词 perception of… 阅读常考。",
+      "ja": "perceive A as B。名詞 perception of… が読解で頻出。"
+     }
+    },
+    {
+     "w": "conceive",
+     "pos": "v.",
+     "ipa": "/kənˈsiv/",
+     "zh": "构想；设想；怀孕",
+     "ja": "構想する；思いつく；身ごもる",
+     "ex": "The designers conceived a modular layout that reduces warehouse walking time.",
+     "ex_zh": "设计师构想出可减少仓库步行时间的模块化布局。",
+     "ex_ja": "設計者は倉庫内の歩行時間を減らすモジュール式レイアウトを構想しました。",
+     "parts": [
+      [
+       "con-",
+       "一起；完全",
+       "共に"
+      ],
+      [
+       "ceive",
+       "拿；取",
+       "取る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 concipere“一起拿住、想出”。",
+      "ja": "ラテン語 concipere「つかんで思い浮かべる」。"
+     },
+     "forms": [
+      [
+       "concept (n.)",
+       "概念；构想",
+       "概念；コンセプト"
+      ],
+      [
+       "conception (n.)",
+       "构想；概念",
+       "構想；概念"
+      ],
+      [
+       "conceivable (adj.)",
+       "可想象的",
+       "考えられる"
+      ]
+     ],
+     "tip": {
+      "zh": "conceive of + 名词/动名词；名词常用 concept。",
+      "ja": "conceive of + 名詞/動名詞。名詞は concept が多い。"
+     }
+    },
+    {
+     "w": "capture",
+     "pos": "v./n.",
+     "ipa": "/ˈkæptʃɚ/",
+     "zh": "捕获；夺取；捕捉（数据／注意力）",
+     "ja": "捕らえる；獲得する；捉える",
+     "ex": "The new survey tool can capture customer feedback within minutes of checkout.",
+     "ex_zh": "新的调查工具可在结账后几分钟内捕捉客户反馈。",
+     "ex_ja": "新しい調査ツールは、会計後数分以内に顧客のフィードバックを捕捉できます。",
+     "parts": [
+      [
+       "capt",
+       "抓；拿",
+       "つかむ"
+      ],
+      [
+       "-ure",
+       "动词／名词后缀",
+       "動詞・名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 captura / capturare“抓住”。",
+      "ja": "ラテン語 captura / capturare「捕らえる」。"
+     },
+     "forms": [
+      [
+       "capture data",
+       "采集数据",
+       "データを取得する"
+      ],
+      [
+       "capture market share",
+       "夺取市场份额",
+       "市場シェアを獲得する"
+      ],
+      [
+       "captive (adj.)",
+       "被俘的；专属的",
+       "捕らえられた；専属の"
+      ]
+     ],
+     "tip": {
+      "zh": "商务义：capture attention / market share / data。",
+      "ja": "ビジネスでは capture attention / market share / data。"
+     }
+    },
+    {
+     "w": "recipient",
+     "pos": "n.",
+     "ipa": "/rɪˈsɪpiənt/",
+     "zh": "收件人；接受者",
+     "ja": "受取人；受信者",
+     "ex": "Please verify the recipient's address before dispatching the overnight package.",
+     "ex_zh": "发送隔夜包裹前请核对收件人地址。",
+     "ex_ja": "翌日配達の荷物を発送する前に、受取人の住所を確認してください。",
+     "parts": [
+      [
+       "re-",
+       "回",
+       "戻して"
+      ],
+      [
+       "cip",
+       "拿；取",
+       "取る"
+      ],
+      [
+       "-ient",
+       "表示人／物",
+       "人・物を表す"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 recipiens“正在接收的人”；与 receive 同源。",
+      "ja": "ラテン語 recipiens「受け取っている人」。receive と同系。"
+     },
+     "forms": [
+      [
+       "award recipient",
+       "获奖者",
+       "受賞者"
+      ],
+      [
+       "email recipient",
+       "邮件收件人",
+       "メール受信者"
+      ],
+      [
+       "receive (v.)",
+       "收到",
+       "受け取る"
+      ]
+     ],
+     "tip": {
+      "zh": "邮件／物流高频：recipient address / name。",
+      "ja": "メール・物流で recipient address / name が頻出。"
+     }
+    },
+    {
+     "w": "capable",
+     "pos": "adj.",
+     "ipa": "/ˈkeɪpəbəl/",
+     "zh": "有能力的；能够…的",
+     "ja": "能力のある；〜できる",
+     "ex": "Our support team is capable of resolving most software issues remotely.",
+     "ex_zh": "我们的支持团队能够远程解决大多数软件问题。",
+     "ex_ja": "サポートチームは、ほとんどのソフト問題を遠隔で解決できます。",
+     "parts": [
+      [
+       "cap",
+       "拿；取",
+       "取る"
+      ],
+      [
+       "-able",
+       "能够…的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 capabilis“能被抓住的／有能力的”。",
+      "ja": "ラテン語 capabilis「つかめる／能力がある」。"
+     },
+     "forms": [
+      [
+       "capability (n.)",
+       "能力；性能",
+       "能力；機能"
+      ],
+      [
+       "be capable of",
+       "能够…",
+       "〜できる"
+      ],
+      [
+       "capable employee",
+       "能干的员工",
+       "有能な従業員"
+      ]
+     ],
+     "tip": {
+      "zh": "be capable of + 名词/动名词；≠ be able to + 原形。",
+      "ja": "be capable of + 名詞/動名詞。be able to + 原形と形が違う。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "travel",
+   "title_zh": "主题：出差差旅与酒店接待",
+   "title_ja": "テーマ：出張・宿泊とホテル対応",
+   "words": [
+    {
+     "w": "lodging",
+     "pos": "n.",
+     "ipa": "/ˈlɑdʒɪŋ/",
+     "zh": "住宿；寄宿处",
+     "ja": "宿泊；宿",
+     "ex": "The conference fee includes lodging for two nights at the partner hotel.",
+     "ex_zh": "会议费包含合作酒店两晚住宿。",
+     "ex_ja": "会議費には提携ホテルでの2泊分の宿泊が含まれます。",
+     "parts": [],
+     "note": {
+      "zh": "本族词／法语借词 lodge 相关；没有可靠的拉丁词根拆分。",
+      "ja": "lodge 系の語。信頼できるラテン語根の分解はない。"
+     },
+     "forms": [
+      [
+       "lodging expenses",
+       "住宿费",
+       "宿泊費"
+      ],
+      [
+       "find lodging",
+       "找住宿",
+       "宿を見つける"
+      ],
+      [
+       "lodging allowance",
+       "住宿津贴",
+       "宿泊手当"
+      ]
+     ],
+     "tip": {
+      "zh": "差旅报销常写 lodging expenses；≈ accommodation。",
+      "ja": "出張精算で lodging expenses。accommodation に近い。"
+     }
+    },
+    {
+     "w": "layover",
+     "pos": "n.",
+     "ipa": "/ˈleɪˌoʊvɚ/",
+     "zh": "中途停留；转机停留",
+     "ja": "乗り継ぎ待ち；途中降機",
+     "ex": "Passengers with a layover longer than three hours may use the airline lounge.",
+     "ex_zh": "中转停留超过三小时的旅客可使用航司贵宾室。",
+     "ex_ja": "乗り継ぎが3時間を超える乗客は航空ラウンジを利用できます。",
+     "parts": [],
+     "note": {
+      "zh": "lay + over 合成词；没有拉丁词根拆分。",
+      "ja": "lay + over の合成語。ラテン語根の分解はない。"
+     },
+     "forms": [
+      [
+       "long layover",
+       "长时间中转",
+       "長い乗り継ぎ"
+      ],
+      [
+       "layover city",
+       "中转城市",
+       "乗り継ぎ都市"
+      ],
+      [
+       "during the layover",
+       "在中转期间",
+       "乗り継ぎの間に"
+      ]
+     ],
+     "tip": {
+      "zh": "≈ stopover；机票／行程邮件高频。",
+      "ja": "stopover に近い。航空券メールで頻出。"
+     }
+    },
+    {
+     "w": "departure",
+     "pos": "n.",
+     "ipa": "/dɪˈpɑrtʃɚ/",
+     "zh": "出发；离开；偏离",
+     "ja": "出発；離脱；逸脱",
+     "ex": "Please arrive at the gate 40 minutes before the scheduled departure time.",
+     "ex_zh": "请在预定起飞时间前 40 分钟到达登机口。",
+     "ex_ja": "予定の出発時刻の40分前までに搭乗口へお越しください。",
+     "parts": [
+      [
+       "de-",
+       "离开",
+       "離れて"
+      ],
+      [
+       "part",
+       "分开；部分",
+       "分ける"
+      ],
+      [
+       "-ure",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 departire“分开离开”；departure 为 depart 的名词。",
+      "ja": "ラテン語 departire「分けて離れる」。depart の名詞形。"
+     },
+     "forms": [
+      [
+       "departure time",
+       "出发时间",
+       "出発時刻"
+      ],
+      [
+       "departure gate",
+       "登机口",
+       "搭乗口"
+      ],
+      [
+       "depart (v.)",
+       "出发",
+       "出発する"
+      ]
+     ],
+     "tip": {
+      "zh": "departure from policy = 偏离政策（商务书面语）。",
+      "ja": "departure from policy＝方針からの逸脱（文書語）。"
+     }
+    },
+    {
+     "w": "suite",
+     "pos": "n.",
+     "ipa": "/swit/",
+     "zh": "套房；一套（软件／家具）",
+     "ja": "スイートルーム；一式",
+     "ex": "Executives will stay in a suite that includes a small meeting area.",
+     "ex_zh": "高管将入住在带小型会议区的套房。",
+     "ex_ja": "幹部は小さな会議スペース付きのスイートに滞在します。",
+     "parts": [],
+     "note": {
+      "zh": "来自法语 suite“跟随、一套”；没有拉丁词根拆分。",
+      "ja": "フランス語 suite「続き・一式」から。ラテン語根の分解はない。"
+     },
+     "forms": [
+      [
+       "hotel suite",
+       "酒店套房",
+       "ホテルのスイート"
+      ],
+      [
+       "software suite",
+       "软件套装",
+       "ソフト一式"
+      ],
+      [
+       "presidential suite",
+       "总统套房",
+       "プレジデンシャルスイート"
+      ]
+     ],
+     "tip": {
+      "zh": "发音 /swit/，勿与 sweet 混淆拼写；也可指软件套件。",
+      "ja": "発音は /swit/。ソフト一式の意もある。"
+     }
+    },
+    {
+     "w": "amenity",
+     "pos": "n.",
+     "ipa": "/əˈmɛnəti/",
+     "zh": "便利设施；舒适服务",
+     "ja": "アメニティ；快適設備",
+     "ex": "Every room includes basic amenities such as Wi-Fi, a mini fridge, and a safe.",
+     "ex_zh": "每间房配备 Wi-Fi、迷你冰箱和保险箱等基本设施。",
+     "ex_ja": "各室に Wi-Fi・ミニ冷蔵庫・金庫などの基本アメニティが付きます。",
+     "parts": [],
+     "note": {
+      "zh": "拉丁语 amoenitas“宜人”；英语里多指酒店设施，词根拆分对记忆帮助有限。",
+      "ja": "ラテン語 amoenitas「心地よさ」。ホテル設備の意が主で、語根分解の実益は小さい。"
+     },
+     "forms": [
+      [
+       "hotel amenities",
+       "酒店设施",
+       "ホテルの設備"
+      ],
+      [
+       "amenity fee",
+       "设施费",
+       "アメニティ料金"
+      ],
+      [
+       "public amenities",
+       "公共设施",
+       "公共の便益施設"
+      ]
+     ],
+     "tip": {
+      "zh": "amenities 常用复数；读 /əˈmɛnəti/。",
+      "ja": "複数 amenities が多い。発音 /əˈmɛnəti/。"
+     }
+    },
+    {
+     "w": "concierge",
+     "pos": "n.",
+     "ipa": "/ˌkɑnsiˈɛrʒ/",
+     "zh": "礼宾；酒店接待员",
+     "ja": "コンシェルジュ；総合案内係",
+     "ex": "The concierge can arrange airport transfers and restaurant reservations for guests.",
+     "ex_zh": "礼宾可为客人安排机场接送和餐厅预订。",
+     "ex_ja": "コンシェルジュは空港送迎やレストラン予約を手配できます。",
+     "parts": [],
+     "note": {
+      "zh": "法语借词；没有英语式拉丁词根拆分。",
+      "ja": "フランス語からの借用語。英語式のラテン語根分解はない。"
+     },
+     "forms": [
+      [
+       "concierge desk",
+       "礼宾台",
+       "コンシェルジュデスク"
+      ],
+      [
+       "concierge service",
+       "礼宾服务",
+       "コンシェルジュサービス"
+      ],
+      [
+       "hotel concierge",
+       "酒店礼宾",
+       "ホテルのコンシェルジュ"
+      ]
+     ],
+     "tip": {
+      "zh": "TOEIC 酒店场景高频；发音近似 /ˌkɑnsiˈɛrʒ/。",
+      "ja": "ホテル場面で頻出。発音は /ˌkɑnsiˈɛrʒ/ に近い。"
+     }
+    },
+    {
+     "w": "baggage",
+     "pos": "n.",
+     "ipa": "/ˈbæɡɪdʒ/",
+     "zh": "行李（总称）",
+     "ja": "手荷物；荷物（総称）",
+     "ex": "Oversized baggage must be checked at the special counter before security.",
+     "ex_zh": "超大件行李须在安检前到专用柜台托运。",
+     "ex_ja": "特大の手荷物は保安検査の前に専用カウンターで預けてください。",
+     "parts": [],
+     "note": {
+      "zh": "bag + -age；本族／法语相关，无拉丁词根拆分必要。",
+      "ja": "bag + -age。ラテン語根の分解は不要。"
+     },
+     "forms": [
+      [
+       "baggage claim",
+       "行李提取处",
+       "手荷物受取所"
+      ],
+      [
+       "carry-on baggage",
+       "随身行李",
+       "機内持ち込み荷物"
+      ],
+      [
+       "baggage allowance",
+       "行李额度",
+       "手荷物許容量"
+      ]
+     ],
+     "tip": {
+      "zh": "美式常用 baggage；英式也用 luggage。不可数。",
+      "ja": "米語は baggage、luggage も可。不可算。"
+     }
+    },
+    {
+     "w": "check-in",
+     "pos": "n./v.",
+     "ipa": "/ˈtʃɛkˌɪn/",
+     "zh": "办理入住／登机手续",
+     "ja": "チェックイン",
+     "ex": "Online check-in opens 24 hours before the flight departure.",
+     "ex_zh": "网上值机在航班起飞前 24 小时开放。",
+     "ex_ja": "オンラインチェックインは出発の24時間前に開始されます。",
+     "parts": [],
+     "note": {
+      "zh": "短语动词 check in 的名词化；没有词根拆分。",
+      "ja": "句動詞 check in の名詞化。語根分解はない。"
+     },
+     "forms": [
+      [
+       "check-in counter",
+       "值机柜台",
+       "チェックインカウンター"
+      ],
+      [
+       "check in (v.)",
+       "办理入住／登机",
+       "チェックインする"
+      ],
+      [
+       "early check-in",
+       "提前入住",
+       "アーリーチェックイン"
+      ]
+     ],
+     "tip": {
+      "zh": "名词常带连字符 check-in；动词可分开 check in。",
+      "ja": "名詞は check-in、動詞は check in と分けることが多い。"
+     }
+    },
+    {
+     "w": "check-out",
+     "pos": "n./v.",
+     "ipa": "/ˈtʃɛkˌaʊt/",
+     "zh": "退房；结账离开",
+     "ja": "チェックアウト",
+     "ex": "Guests must complete check-out by 11 a.m. to avoid an extra night charge.",
+     "ex_zh": "客人须在上午 11 点前办完退房，以免加收一晚费用。",
+     "ex_ja": "追加料金を避けるため、ゲストは午前11時までにチェックアウトを完了してください。",
+     "parts": [],
+     "note": {
+      "zh": "短语动词 check out 的名词化；没有词根拆分。",
+      "ja": "句動詞 check out の名詞化。語根分解はない。"
+     },
+     "forms": [
+      [
+       "check-out time",
+       "退房时间",
+       "チェックアウト時刻"
+      ],
+      [
+       "late check-out",
+       "延迟退房",
+       "レイトチェックアウト"
+      ],
+      [
+       "check out (v.)",
+       "退房",
+       "チェックアウトする"
+      ]
+     ],
+     "tip": {
+      "zh": "与 check-in 成对出现；注意连字符写法。",
+      "ja": "check-in と対。ハイフン表記に注意。"
+     }
+    },
+    {
+     "w": "occupancy",
+     "pos": "n.",
+     "ipa": "/ˈɑkjəpənsi/",
+     "zh": "入住率；占用；居住",
+     "ja": "稼働率；占有；宿泊",
+     "ex": "Hotel occupancy rates usually rise during the international trade fair.",
+     "ex_zh": "国际展会期间酒店入住率通常会上升。",
+     "ex_ja": "国際見本市の期間中、ホテルの稼働率は通常上がります。",
+     "parts": [
+      [
+       "occup",
+       "占用",
+       "占有する"
+      ],
+      [
+       "-ancy",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "来自 occupy（拉丁 occupare“占据”）；occupancy rate 为酒店KPI。",
+      "ja": "occupy（ラテン occupare「占める」）から。occupancy rate はホテルのKPI。"
+     },
+     "forms": [
+      [
+       "occupancy rate",
+       "入住率",
+       "稼働率"
+      ],
+      [
+       "full occupancy",
+       "满房",
+       "満室"
+      ],
+      [
+       "occupy (v.)",
+       "占用；居住",
+       "占める；入居する"
+      ]
+     ],
+     "tip": {
+      "zh": "occupancy rate 阅读图表题常见。",
+      "ja": "occupancy rate は図表問題で頻出。"
+     }
+    },
+    {
+     "w": "cancellation",
+     "pos": "n.",
+     "ipa": "/ˌkænsəˈleɪʃən/",
+     "zh": "取消；作废",
+     "ja": "キャンセル；取消し",
+     "ex": "A free cancellation is available up to 48 hours before the reserved date.",
+     "ex_zh": "预订日期前 48 小时可免费取消。",
+     "ex_ja": "予約日の48時間前まで無料キャンセルが可能です。",
+     "parts": [],
+     "note": {
+      "zh": "cancel + -ation；词源可追溯拉丁 cancellare，日常按派生记即可。",
+      "ja": "cancel + -ation。語源はラテン cancellare だが、派生として覚えれば足りる。"
+     },
+     "forms": [
+      [
+       "cancellation policy",
+       "取消政策",
+       "キャンセルポリシー"
+      ],
+      [
+       "cancel (v.)",
+       "取消",
+       "キャンセルする"
+      ],
+      [
+       "flight cancellation",
+       "航班取消",
+       "便の欠航・取消し"
+      ]
+     ],
+     "tip": {
+      "zh": "cancellation fee / policy 差旅邮件高频。",
+      "ja": "cancellation fee / policy が出張メールで頻出。"
+     }
+    },
+    {
+     "w": "refundable",
+     "pos": "adj.",
+     "ipa": "/rɪˈfʌndəbəl/",
+     "zh": "可退款的",
+     "ja": "返金可能な",
+     "ex": "Only refundable tickets can be changed without a penalty fee.",
+     "ex_zh": "只有可退票才能免罚金改签。",
+     "ex_ja": "違約金なしで変更できるのは返金可能なチケットだけです。",
+     "parts": [
+      [
+       "re-",
+       "回",
+       "戻して"
+      ],
+      [
+       "fund",
+       "款项",
+       "資金"
+      ],
+      [
+       "-able",
+       "可…的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "re- + fund（款项）+ -able；fund 来自拉丁 fundus，此处按常用派生理解即可。",
+      "ja": "re- + fund + -able。refund「返金する」の形容詞。"
+     },
+     "forms": [
+      [
+       "nonrefundable (adj.)",
+       "不可退款的",
+       "返金不可の"
+      ],
+      [
+       "refund (n./v.)",
+       "退款",
+       "返金"
+      ],
+      [
+       "fully refundable",
+       "全额可退",
+       "全額返金可能"
+      ]
+     ],
+     "tip": {
+      "zh": "常与 nonrefundable 对举；Part 5 考 -able 形容词。",
+      "ja": "nonrefundable と対。Part 5 で -able 形容詞が狙われる。"
+     }
+    },
+    {
+     "w": "passport",
+     "pos": "n.",
+     "ipa": "/ˈpæspɔrt/",
+     "zh": "护照",
+     "ja": "パスポート；旅券",
+     "ex": "Please bring a valid passport when you pick up your international tickets.",
+     "ex_zh": "领取国际机票时请携带有效护照。",
+     "ex_ja": "国際線チケット受取の際は有効なパスポートをご持参ください。",
+     "parts": [
+      [
+       "pass",
+       "通过",
+       "通る"
+      ],
+      [
+       "port",
+       "港口；入口",
+       "港；入り口"
+      ]
+     ],
+     "note": {
+      "zh": "字面“通过港口的证件”；port 此处为“口岸”，与“搬运”义的 -port- 场景不同但同源。",
+      "ja": "「港を通るための证件」。ここでの port は「口岸」。"
+     },
+     "forms": [
+      [
+       "passport control",
+       "护照检查",
+       "パスポート審査"
+      ],
+      [
+       "passport number",
+       "护照号码",
+       "旅券番号"
+      ],
+      [
+       "renew a passport",
+       "更新护照",
+       "パスポートを更新する"
+      ]
+     ],
+     "tip": {
+      "zh": "valid passport 固定搭配；过期用 expired。",
+      "ja": "valid passport が定番。期限切れは expired。"
+     }
+    },
+    {
+     "w": "customs",
+     "pos": "n.",
+     "ipa": "/ˈkʌstəmz/",
+     "zh": "海关；关税",
+     "ja": "税関；関税",
+     "ex": "All imported samples must be declared at customs upon arrival.",
+     "ex_zh": "所有进口样品抵达时须向海关申报。",
+     "ex_ja": "輸入サンプルは到着時にすべて税関で申告しなければなりません。",
+     "parts": [],
+     "note": {
+      "zh": "custom“习俗／海关”的复数形固化为“海关”；无词根拆分必要。",
+      "ja": "custom の複数形が「税関」として定着。語根分解は不要。"
+     },
+     "forms": [
+      [
+       "customs declaration",
+       "海关申报",
+       "税関申告"
+      ],
+      [
+       "go through customs",
+       "过海关",
+       "税関を通る"
+      ],
+      [
+       "customs duty",
+       "关税",
+       "関税"
+      ]
+     ],
+     "tip": {
+      "zh": "customs 作“海关”时通常复数形式、单数动词亦可视语境。",
+      "ja": "「税関」の意では複数形 customs が普通。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "logistics",
+   "title_zh": "主题：物流仓储与出货",
+   "title_ja": "テーマ：物流・倉庫と出荷",
+   "words": [
+    {
+     "w": "freight",
+     "pos": "n.",
+     "ipa": "/freɪt/",
+     "zh": "货运；运费；货物",
+     "ja": "貨物輸送；運賃；貨物",
+     "ex": "Air freight is faster but significantly more expensive than ocean shipping.",
+     "ex_zh": "空运更快，但比海运昂贵得多。",
+     "ex_ja": "航空貨物は速いですが、海上輸送より大幅に高額です。",
+     "parts": [],
+     "note": {
+      "zh": "来自中古荷兰／德语相关借词；没有可靠拉丁词根拆分。",
+      "ja": "中世オランダ・ドイツ系の借用語。信頼できるラテン語根の分解はない。"
+     },
+     "forms": [
+      [
+       "freight charge",
+       "运费",
+       "運賃"
+      ],
+      [
+       "freight forwarder",
+       "货运代理",
+       "フォワーダー"
+      ],
+      [
+       "by freight",
+       "以货运方式",
+       "貨物便で"
+      ]
+     ],
+     "tip": {
+      "zh": "freight 可指货物或运费；air / ocean freight 常考。",
+      "ja": "貨物にも運賃にも使う。air / ocean freight が頻出。"
+     }
+    },
+    {
+     "w": "logistics",
+     "pos": "n.",
+     "ipa": "/ləˈdʒɪstɪks/",
+     "zh": "物流；后勤",
+     "ja": "物流；ロジスティクス",
+     "ex": "Efficient logistics are essential for keeping retail shelves stocked year-round.",
+     "ex_zh": "高效物流对全年保持零售货架有货至关重要。",
+     "ex_ja": "小売棚を通年で満たすには、効率的な物流が不可欠です。",
+     "parts": [],
+     "note": {
+      "zh": "源自希腊语 logistikos（计算／后勤）；英语里作物流总称，词根拆分对记义帮助有限。",
+      "ja": "ギリシア語 logistikos に由来。英語では物流の総称で、語根分解の実益は小さい。"
+     },
+     "forms": [
+      [
+       "logistics company",
+       "物流公司",
+       "物流会社"
+      ],
+      [
+       "logistics manager",
+       "物流经理",
+       "物流マネージャー"
+      ],
+      [
+       "reverse logistics",
+       "逆向物流",
+       "リバースロジスティクス"
+      ]
+     ],
+     "tip": {
+      "zh": "常作不可数或复数形；配单数／复数动词皆见。",
+      "ja": "不可算または複数形。動詞の単複は両例あり。"
+     }
+    },
+    {
+     "w": "cargo",
+     "pos": "n.",
+     "ipa": "/ˈkɑrɡoʊ/",
+     "zh": "货物（船／机载）",
+     "ja": "貨物（船・航空機の）",
+     "ex": "The damaged cargo was inspected carefully before any insurance claim was filed.",
+     "ex_zh": "在提出任何保险索赔前，先仔细检查了受损货物。",
+     "ex_ja": "保険請求の前に、損傷した貨物が慎重に点検されました。",
+     "parts": [],
+     "note": {
+      "zh": "西班牙语／拉丁载货相关借词；无常用词根拆分。",
+      "ja": "スペイン語経由の借用語。常用の語根分解はない。"
+     },
+     "forms": [
+      [
+       "cargo hold",
+       "货舱",
+       "貨物室"
+      ],
+      [
+       "cargo ship",
+       "货船",
+       "貨物船"
+      ],
+      [
+       "cargo insurance",
+       "货物保险",
+       "貨物保険"
+      ]
+     ],
+     "tip": {
+      "zh": "cargo ≈ freight（货物）；更偏船／机载货物。",
+      "ja": "cargo ≈ freight。船・航空機の積み荷のニュアンス。"
+     }
+    },
+    {
+     "w": "outbound",
+     "pos": "adj.",
+     "ipa": "/ˈaʊtbaʊnd/",
+     "zh": "出港的；向外的；去程的",
+     "ja": "出発の；外向きの；往路の",
+     "ex": "Outbound shipments leave the warehouse every weekday at 4 p.m.",
+     "ex_zh": "出库货物每个工作日下午 4 点离开仓库。",
+     "ex_ja": "出荷貨物は平日の午後4時に倉庫を出発します。",
+     "parts": [
+      [
+       "out-",
+       "向外",
+       "外へ"
+      ],
+      [
+       "bound",
+       "开往；受约束",
+       "向かう"
+      ]
+     ],
+     "note": {
+      "zh": "out + bound（开往）；与 inbound 相对。",
+      "ja": "out + bound。inbound の対義。"
+     },
+     "forms": [
+      [
+       "outbound flight",
+       "出港航班",
+       "出発便"
+      ],
+      [
+       "outbound logistics",
+       "出库物流",
+       "アウトバウンド物流"
+      ],
+      [
+       "inbound (adj.)",
+       "进港的；来程的",
+       "到着の；復路の"
+      ]
+     ],
+     "tip": {
+      "zh": "outbound / inbound 成对出现于航班与物流。",
+      "ja": "フライト・物流で outbound / inbound が対で出る。"
+     }
+    },
+    {
+     "w": "inbound",
+     "pos": "adj.",
+     "ipa": "/ˈɪnbaʊnd/",
+     "zh": "进港的；向内的；回程的",
+     "ja": "到着の；内向きの；復路の",
+     "ex": "Inbound calls are routed to the customer service center in Manila.",
+     "ex_zh": "打入的电话被转接到马尼拉的客服中心。",
+     "ex_ja": "着信通話はマニラのカスタマーサービスセンターに転送されます。",
+     "parts": [
+      [
+       "in-",
+       "向内",
+       "中へ"
+      ],
+      [
+       "bound",
+       "开往",
+       "向かう"
+      ]
+     ],
+     "note": {
+      "zh": "in + bound；可指进港航班、入库货或打入电话。",
+      "ja": "in + bound。到着便・入庫貨物・着信電話などに使う。"
+     },
+     "forms": [
+      [
+       "inbound flight",
+       "进港航班",
+       "到着便"
+      ],
+      [
+       "inbound shipment",
+       "入库货物",
+       "入荷貨物"
+      ],
+      [
+       "inbound logistics",
+       "入库物流",
+       "インバウンド物流"
+      ]
+     ],
+     "tip": {
+      "zh": "客户服务：inbound call = 客户打入的电话。",
+      "ja": "CS：inbound call＝顧客からの着信。"
+     }
+    },
+    {
+     "w": "packing",
+     "pos": "n.",
+     "ipa": "/ˈpækɪŋ/",
+     "zh": "包装；装箱",
+     "ja": "梱包；包装",
+     "ex": "Fragile items require special packing materials before they can be shipped.",
+     "ex_zh": "易碎品发货前需要特殊包装材料。",
+     "ex_ja": "壊れやすい品は出荷前に特別な梱包材が必要です。",
+     "parts": [],
+     "note": {
+      "zh": "pack + -ing；本族词，无拉丁词根拆分。",
+      "ja": "pack + -ing。ラテン語根の分解はない。"
+     },
+     "forms": [
+      [
+       "packing list",
+       "装箱单",
+       "パッキングリスト"
+      ],
+      [
+       "packing material",
+       "包装材料",
+       "梱包材"
+      ],
+      [
+       "packing slip",
+       "发货单",
+       "出荷伝票"
+      ]
+     ],
+     "tip": {
+      "zh": "packing list 物流单据高频。",
+      "ja": "packing list は物流書類で頻出。"
+     }
+    },
+    {
+     "w": "tracking",
+     "pos": "n.",
+     "ipa": "/ˈtrækɪŋ/",
+     "zh": "追踪；跟踪（包裹／数据）",
+     "ja": "追跡；トラッキング",
+     "ex": "Customers can follow their orders with a tracking number sent by email.",
+     "ex_zh": "客户可用邮件发送的运单号跟踪订单。",
+     "ex_ja": "顧客はメールで送られる追跡番号で注文を追えます。",
+     "parts": [],
+     "note": {
+      "zh": "track + -ing；本族词，无拉丁词根拆分。",
+      "ja": "track + -ing。ラテン語根の分解はない。"
+     },
+     "forms": [
+      [
+       "tracking number",
+       "运单号",
+       "追跡番号"
+      ],
+      [
+       "package tracking",
+       "包裹追踪",
+       "荷物追跡"
+      ],
+      [
+       "track (v.)",
+       "追踪",
+       "追跡する"
+      ]
+     ],
+     "tip": {
+      "zh": "tracking number / code 客服与物流邮件必考。",
+      "ja": "tracking number / code がCS・物流メールの定番。"
+     }
+    },
+    {
+     "w": "courier",
+     "pos": "n.",
+     "ipa": "/ˈkɝiɚ/",
+     "zh": "快递公司；信使",
+     "ja": "宅配便業者；使者",
+     "ex": "A courier will pick up the signed contract from your office this afternoon.",
+     "ex_zh": "快递将于今天下午到贵办公室取已签署的合同。",
+     "ex_ja": "宅配業者が本日午後、御社オフィスから署名済み契約書を集荷します。",
+     "parts": [],
+     "note": {
+      "zh": "来自法语 courrier“送信人”；无常用拉丁词根拆分。",
+      "ja": "フランス語 courrier「使者」から。常用のラテン語根分解はない。"
+     },
+     "forms": [
+      [
+       "courier service",
+       "快递服务",
+       "宅配サービス"
+      ],
+      [
+       "by courier",
+       "通过快递",
+       "宅配便で"
+      ],
+      [
+       "courier company",
+       "快递公司",
+       "宅配会社"
+      ]
+     ],
+     "tip": {
+      "zh": "by courier ≈ 用快递寄送；比 mail 更快。",
+      "ja": "by courier＝宅配便で。mail より速い。"
+     }
+    },
+    {
+     "w": "dispatch",
+     "pos": "v./n.",
+     "ipa": "/dɪˈspætʃ/",
+     "zh": "派遣；发货；急件",
+     "ja": "派遣する；発送する；急送",
+     "ex": "We will dispatch a technician to your site within four hours of the report.",
+     "ex_zh": "我们将在接到报告后四小时内派遣技术人员到贵现场。",
+     "ex_ja": "報告から4時間以内に技術者を現地へ派遣します。",
+     "parts": [],
+     "note": {
+      "zh": "来自意大利语／西班牙语相关借词（急送）；没有可靠简单词根拆分。",
+      "ja": "イタリア・スペイン系の「急送」借用語。単純な語根分解は難しい。"
+     },
+     "forms": [
+      [
+       "dispatch a team",
+       "派遣团队",
+       "チームを派遣する"
+      ],
+      [
+       "order dispatch",
+       "订单发货",
+       "注文の発送"
+      ],
+      [
+       "dispatcher (n.)",
+       "调度员",
+       "ディスパッチャー"
+      ]
+     ],
+     "tip": {
+      "zh": "物流：dispatch = 发货／派出；名词可指急件。",
+      "ja": "物流では「発送・派遣」。名詞で急送便の意も。"
+     }
+    },
+    {
+     "w": "pallet",
+     "pos": "n.",
+     "ipa": "/ˈpælɪt/",
+     "zh": "托盘；栈板",
+     "ja": "パレット（貨物用）",
+     "ex": "Please stack the cartons evenly on each pallet before wrapping them.",
+     "ex_zh": "缠膜前请将纸箱均匀堆放在每个托盘上。",
+     "ex_ja": "ラップする前に、各パレット上に段ボールを均等に積んでください。",
+     "parts": [],
+     "note": {
+      "zh": "法语／拉丁相关“小铲／托板”借词；无教学用词根拆分。",
+      "ja": "フランス語系の借用語。学習用の語根分解はない。"
+     },
+     "forms": [
+      [
+       "pallet jack",
+       "托盘搬运车",
+       "パレットジャッキ"
+      ],
+      [
+       "on a pallet",
+       "放在托盘上",
+       "パレットに載せて"
+      ],
+      [
+       "palletized (adj.)",
+       "已打托的",
+       "パレット積みの"
+      ]
+     ],
+     "tip": {
+      "zh": "仓库场景高频；注意勿与 palate（上颚）混淆。",
+      "ja": "倉庫場面で頻出。palate（上あご）と混同しない。"
+     }
+    },
+    {
+     "w": "forklift",
+     "pos": "n.",
+     "ipa": "/ˈfɔrklɪft/",
+     "zh": "叉车；铲车",
+     "ja": "フォークリフト",
+     "ex": "Only certified operators may drive a forklift inside the warehouse.",
+     "ex_zh": "只有持证操作员可在仓库内驾驶叉车。",
+     "ex_ja": "認定を受けた作業者だけが倉庫内でフォークリフトを運転できます。",
+     "parts": [
+      [
+       "fork",
+       "叉",
+       "フォーク"
+      ],
+      [
+       "lift",
+       "举起",
+       "持ち上げる"
+      ]
+     ],
+     "note": {
+      "zh": "fork + lift 合成词；按部件理解即可。",
+      "ja": "fork + lift の合成語。部品イメージで覚えられる。"
+     },
+     "forms": [
+      [
+       "forklift operator",
+       "叉车司机",
+       "フォークリフト運転者"
+      ],
+      [
+       "forklift truck",
+       "叉车",
+       "フォークリフト車"
+      ],
+      [
+       "operate a forklift",
+       "操作叉车",
+       "フォークリフトを操作する"
+      ]
+     ],
+     "tip": {
+      "zh": "安全告示／仓库阅读题常见。",
+      "ja": "安全掲示・倉庫読解でよく出る。"
+     }
+    },
+    {
+     "w": "consignment",
+     "pos": "n.",
+     "ipa": "/kənˈsaɪnmənt/",
+     "zh": "托运；寄售；一批货物",
+     "ja": "委託；託送；配送貨物",
+     "ex": "The consignment of spare parts is expected to arrive at the depot on Tuesday.",
+     "ex_zh": "这批零部件托运货物预计周二抵达配送站。",
+     "ex_ja": "予備部品の託送貨物は火曜にデポへ到着する予定です。",
+     "parts": [
+      [
+       "con-",
+       "一起",
+       "共に"
+      ],
+      [
+       "sign",
+       "标记；签署",
+       "印；署名"
+      ],
+      [
+       "-ment",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "来自 consign（托付运送）；拉丁相关 consignare“加印交付”。",
+      "ja": "consign（託す）から。ラテン consignare「印を押して渡す」に関連。"
+     },
+     "forms": [
+      [
+       "on consignment",
+       "以寄售方式",
+       "委託販売で"
+      ],
+      [
+       "consign (v.)",
+       "托运；寄售",
+       "託送する；委託する"
+      ],
+      [
+       "consignment note",
+       "托运单",
+       "送り状"
+      ]
+     ],
+     "tip": {
+      "zh": "可指“一批货”或“寄售”；看语境。",
+      "ja": "「一荷物」にも「委託販売」にも使う。文脈で判断。"
+     }
+    },
+    {
+     "w": "carton",
+     "pos": "n.",
+     "ipa": "/ˈkɑrtən/",
+     "zh": "纸箱；硬纸盒",
+     "ja": "段ボール箱；カートン",
+     "ex": "Each carton should be labeled with the product code and destination city.",
+     "ex_zh": "每个纸箱应标注产品代码和目的地城市。",
+     "ex_ja": "各カートンに製品コードと配送先都市を表示してください。",
+     "parts": [],
+     "note": {
+      "zh": "法语 carton“硬纸板”；无拉丁词根拆分必要。",
+      "ja": "フランス語 carton「板紙」から。語根分解は不要。"
+     },
+     "forms": [
+      [
+       "cardboard carton",
+       "纸板箱",
+       "段ボール箱"
+      ],
+      [
+       "carton size",
+       "纸箱尺寸",
+       "カートンサイズ"
+      ],
+      [
+       "open a carton",
+       "打开纸箱",
+       "カートンを開ける"
+      ]
+     ],
+     "tip": {
+      "zh": "packing / labeling 场景与 carton 常一起出现。",
+      "ja": "梱包・ラベル場面で carton と共起しやすい。"
+     }
+    },
+    {
+     "w": "fulfillment",
+     "pos": "n.",
+     "ipa": "/fʊlˈfɪlmənt/",
+     "zh": "履行；订单履约；实现",
+     "ja": "履行；受注処理；実現",
+     "ex": "The new fulfillment center can process five thousand online orders per day.",
+     "ex_zh": "新履约中心每天可处理五千笔线上订单。",
+     "ex_ja": "新しいフルフィルメントセンターは1日5千件のオンライン注文を処理できます。",
+     "parts": [
+      [
+       "ful(l)",
+       "满；完全",
+       "満ちた"
+      ],
+      [
+       "fill",
+       "填满",
+       "満たす"
+      ],
+      [
+       "-ment",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "fulfill（履行／完成）+ -ment；美式拼写 fulfillment（一个 l）。",
+      "ja": "fulfill + -ment。米語綴りは l が1つ（fulfillment）。"
+     },
+     "forms": [
+      [
+       "order fulfillment",
+       "订单履约",
+       "受注処理"
+      ],
+      [
+       "fulfillment center",
+       "履约中心",
+       "フルフィルメントセンター"
+      ],
+      [
+       "fulfill (v.)",
+       "履行；完成",
+       "履行する；果たす"
+      ]
+     ],
+     "tip": {
+      "zh": "电商／物流：fulfillment = 接单到发货的履约流程。",
+      "ja": "EC・物流では注文〜発送までの履行プロセスを指す。"
+     }
+    }
+   ]
+  }
+ ]
+}
