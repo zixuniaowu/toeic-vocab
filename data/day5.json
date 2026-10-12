@@ -1,0 +1,2906 @@
+{
+ "day": 5,
+ "date": "2026-10-13",
+ "title_zh": "四大词根 + 生产质检与信息技术",
+ "title_ja": "4つの語根＋製造・品質とIT・テクノロジー",
+ "intro_zh": "今天掌握 4 个高频词根（vis·vid 看 / sign 标记 / pend·pens 悬挂·衡量 / press 压），再学生产质检与信息技术核心词——强化 Part 5 词形变化与商务场景词汇。",
+ "intro_ja": "今日は語根 4 つ（vis·vid 見る／sign 印／pend·pens ぶら下げる・量る／press 押す）と、製造・品質および IT・テクノロジーの重要語を学びます。Part 5 の語形とビジネス語彙を強化します。",
+ "voice": "en-US-AriaNeural",
+ "roots": [
+  {
+   "root": "-vis- / -vid-",
+   "origin": "Latin videre / visus",
+   "zh": "看；看见",
+   "ja": "見る；見える",
+   "exp_zh": "来自拉丁语 videre（看；过去分词 visus）。变体 vis / vid / view。前缀：re-（再看 → 修订）、super-（从上往下看 → 监督）、pro-（预先看 → 提供／临时的）、ad-（向…看／告知 → 建议）、in-（看不见 → 看不见的）。evidence 来自 evidere“看清楚”。⚠️ visit 同源但本课另选高频派生；television 本义“远处看见”。",
+   "exp_ja": "ラテン語 videre（見る、過去分詞 visus）から。異形 vis / vid / view。接頭辞：re-（再び見る → 改訂する）、super-（上から見る → 監督する）、pro-（前もって見る → 提供する／暫定の）、ad-（知らせる → 助言する）、in-（見えない → 見えない）。evidence は evidere「はっきり見る」。",
+   "examples": [
+    "revise",
+    "supervise",
+    "visible",
+    "invisible",
+    "evidence",
+    "provide",
+    "provisional",
+    "advise"
+   ]
+  },
+  {
+   "root": "-sign-",
+   "origin": "Latin signum / signare",
+   "zh": "标记；符号；指示",
+   "ja": "印；合図；示す",
+   "exp_zh": "来自拉丁语 signum（标记）及动词 signare（做标记）。前缀：de-（往下标出 → 指定）、in-（无标记／不重要 → 无关紧要的）、as-（标给 → 指派，本站尽量避开播客已讲词）。名词常为 -signature / -ignation。⚠️ assign、resign 同源但播客已出现，本课改选其他高频形。",
+   "exp_ja": "ラテン語 signum（印）と signare（印をつける）から。接頭辞：de-（示して決める → 指定する）、in-（重要でない → 取るに足りない）。名詞は -signature / -ignation が多い。⚠️ assign・resign は同源だが本課では他語を優先。",
+   "examples": [
+    "signify",
+    "significant",
+    "designate",
+    "designation",
+    "design",
+    "signature",
+    "signal",
+    "insignificant"
+   ]
+  },
+  {
+   "root": "-pend- / -pens-",
+   "origin": "Latin pendere / pensus",
+   "zh": "悬挂；衡量；支付",
+   "ja": "ぶら下げる；量る；支払う",
+   "exp_zh": "来自拉丁语 pendere（悬挂、衡量、支付；过去分词 pensus）。“挂着／悬而未决”→ pending；“称量后付出”→ expend / expense；“挂起暂停”→ suspend；“定期支付”→ pension。前缀：de-（依靠挂在…上 → 依赖）、im-（逼近悬挂 → 即将到来）、in- + dis-（无法省去 → 不可或缺）。⚠️ compensate / expenditure 同源，但播客已出现，本课避开。",
+   "exp_ja": "ラテン語 pendere（ぶら下げる・量る・支払う、過去分詞 pensus）から。pending は「懸案」、expend / expense は「支出」、suspend は「一時停止」、pension は「定期支払い」。接頭辞：de-（〜に依る）、im-（差し迫る）、indispensable は「欠かせない」。",
+   "examples": [
+    "depend",
+    "pending",
+    "expend",
+    "expense",
+    "suspend",
+    "pension",
+    "impending",
+    "indispensable"
+   ]
+  },
+  {
+   "root": "-press-",
+   "origin": "Latin premere / pressus",
+   "zh": "压；按；挤",
+   "ja": "押す；圧する",
+   "exp_zh": "来自拉丁语 premere（压；过去分词 pressus）。前缀：ex-（压出来 → 表达／快件）、im-（压进去 → 留下印象）、su(b)-（压下去 → 压制）、de-（往下压 → 使沮丧／萧条）、com-（压在一起 → 压缩）。名词多为 -pression / -pressure。⚠️ express 作名词（特快）与动词（表达）重音不同，见词条 tip。",
+   "exp_ja": "ラテン語 premere（押す、過去分詞 pressus）から。接頭辞：ex-（押し出す → 表現する／急行）、im-（押し込む → 印象づける）、su(b)-（抑え込む → 抑圧する）、de-（押し下げる → 落ち込ませる）。名詞は -pression / -pressure。⚠️ express は名詞と動詞で強勢が異なる場合あり。",
+   "examples": [
+    "express",
+    "expression",
+    "impress",
+    "impression",
+    "impressive",
+    "pressure",
+    "suppress",
+    "depress"
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "vis",
+   "title_zh": "词根 -vis- / -vid-：看",
+   "title_ja": "語根 -vis- / -vid-：見る",
+   "words": [
+    {
+     "w": "revise",
+     "pos": "v.",
+     "ipa": "/rɪˈvaɪz/",
+     "zh": "修订；修改；复习",
+     "ja": "改訂する；修正する；復習する",
+     "ex": "Please revise the draft budget before Friday's finance meeting.",
+     "ex_zh": "请在周五财务会议前修订预算草案。",
+     "ex_ja": "金曜の財務会議までに予算案を改訂してください。",
+     "parts": [
+      [
+       "re-",
+       "再",
+       "再び"
+      ],
+      [
+       "vise",
+       "看",
+       "見る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 revisere“再看一遍”。",
+      "ja": "ラテン語 revisere「再び見る」。"
+     },
+     "forms": [
+      [
+       "revision (n.)",
+       "修订；复习",
+       "改訂；復習"
+      ],
+      [
+       "revised edition",
+       "修订版",
+       "改訂版"
+      ],
+      [
+       "revise a plan",
+       "修改计划",
+       "計画を修正する"
+      ]
+     ],
+     "tip": {
+      "zh": "邮件里常用 Please revise…；名词 revision。",
+      "ja": "メールで Please revise… が定番。名詞は revision。"
+     }
+    },
+    {
+     "w": "supervise",
+     "pos": "v.",
+     "ipa": "/ˈsupɚvaɪz/",
+     "zh": "监督；指导；管理",
+     "ja": "監督する；指導する",
+     "ex": "A senior engineer will supervise the installation of the new assembly line.",
+     "ex_zh": "一名资深工程师将监督新装配线的安装。",
+     "ex_ja": "シニアエンジニアが新しい組立ラインの設置を監督します。",
+     "parts": [
+      [
+       "super-",
+       "在上面",
+       "上に"
+      ],
+      [
+       "vise",
+       "看",
+       "見る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 supervidere“从上往下看、监察”。",
+      "ja": "ラテン語 supervidere「上から見る・監視する」。"
+     },
+     "forms": [
+      [
+       "supervisor (n.)",
+       "主管；监督者",
+       "監督者；上司"
+      ],
+      [
+       "supervision (n.)",
+       "监督",
+       "監督"
+      ],
+      [
+       "under supervision",
+       "在监督下",
+       "監督のもとで"
+      ]
+     ],
+     "tip": {
+      "zh": "supervisor 是职场高频；under close supervision。",
+      "ja": "supervisor は職場頻出。under supervision も覚える。"
+     }
+    },
+    {
+     "w": "visible",
+     "pos": "adj.",
+     "ipa": "/ˈvɪzəbl/",
+     "zh": "可见的；明显的",
+     "ja": "見える；明白な",
+     "ex": "Wear a visible safety vest when walking through the warehouse aisles.",
+     "ex_zh": "在仓库通道行走时请穿醒目的安全背心。",
+     "ex_ja": "倉庫の通路を歩くときは、目立つ安全ベストを着用してください。",
+     "parts": [
+      [
+       "vis",
+       "看",
+       "見る"
+      ],
+      [
+       "-ible",
+       "可…的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 visibilis“能被看见的”。",
+      "ja": "ラテン語 visibilis「見ることができる」。"
+     },
+     "forms": [
+      [
+       "visibility (n.)",
+       "能见度；可见性",
+       "視界；可視性"
+      ],
+      [
+       "highly visible",
+       "非常显眼",
+       "非常に目立つ"
+      ],
+      [
+       "visible improvement",
+       "明显改善",
+       "目に見える改善"
+      ]
+     ],
+     "tip": {
+      "zh": "反义 invisible；business 里常说 visible results。",
+      "ja": "反対語 invisible。visible results も頻出。"
+     }
+    },
+    {
+     "w": "invisible",
+     "pos": "adj.",
+     "ipa": "/ɪnˈvɪzəbl/",
+     "zh": "看不见的；无形的",
+     "ja": "見えない；目に見えない",
+     "ex": "Some costs remain invisible until the quarterly report is published.",
+     "ex_zh": "有些成本要等到季报公布才会显现。",
+     "ex_ja": "四半期レポートが出るまで、一部のコストは見えません。",
+     "parts": [
+      [
+       "in-",
+       "不；无",
+       "〜ない"
+      ],
+      [
+       "vis",
+       "看",
+       "見る"
+      ],
+      [
+       "-ible",
+       "可…的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "in-（否定）+ visible。",
+      "ja": "否定の in- + visible。"
+     },
+     "forms": [
+      [
+       "invisibility (n.)",
+       "不可见",
+       "不可視"
+      ],
+      [
+       "invisible ink",
+       "隐形墨水",
+       "透明インキ"
+      ],
+      [
+       "invisible barrier",
+       "无形障碍",
+       "見えぬ障壁"
+      ]
+     ],
+     "tip": {
+      "zh": "TOEIC 阅读里常比喻“隐性成本／障碍”。",
+      "ja": "読解では「見えないコスト・障壁」の比喩で出る。"
+     }
+    },
+    {
+     "w": "evidence",
+     "pos": "n.",
+     "ipa": "/ˈɛvɪdəns/",
+     "zh": "证据；依据；迹象",
+     "ja": "証拠；根拠；形跡",
+     "ex": "There is clear evidence that the packaging redesign reduced shipping damage.",
+     "ex_zh": "有明确证据表明包装改版减少了运输破损。",
+     "ex_ja": "包装の刷新が輸送破損を減らしたという明確な証拠があります。",
+     "parts": [
+      [
+       "e-",
+       "出；清楚",
+       "外へ；はっきり"
+      ],
+      [
+       "vid",
+       "看",
+       "見る"
+      ],
+      [
+       "-ence",
+       "名词后缀",
+       "名詞化"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 evidere“看清楚、使明显”。",
+      "ja": "ラテン語 evidere「はっきり見る・明らかにする」。"
+     },
+     "forms": [
+      [
+       "evident (adj.)",
+       "明显的",
+       "明白な"
+      ],
+      [
+       "evidently (adv.)",
+       "显然",
+       "明らかに"
+      ],
+      [
+       "gather evidence",
+       "收集证据",
+       "証拠を集める"
+      ]
+     ],
+     "tip": {
+      "zh": "不可数居多；a piece of evidence。Part 5 考 evident / evidence 词性。",
+      "ja": "不可算が多い。evident / evidence の品詞入れ替えに注意。"
+     }
+    },
+    {
+     "w": "provide",
+     "pos": "v.",
+     "ipa": "/prəˈvaɪd/",
+     "zh": "提供；供给",
+     "ja": "提供する；与える",
+     "ex": "The vendor will provide free on-site training for the first month.",
+     "ex_zh": "供应商将在首月提供免费现场培训。",
+     "ex_ja": "ベンダーは最初の1か月、無料の現地研修を提供します。",
+     "parts": [
+      [
+       "pro-",
+       "向前；预先",
+       "前へ；前もって"
+      ],
+      [
+       "vide",
+       "看",
+       "見る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 providere“预先看见、准备好”。",
+      "ja": "ラテン語 providere「前もって見る・備える」。"
+     },
+     "forms": [
+      [
+       "provider (n.)",
+       "供应商；提供者",
+       "提供者；プロバイダ"
+      ],
+      [
+       "provision (n.)",
+       "供应；条款",
+       "供給；条項"
+      ],
+      [
+       "provide A with B",
+       "向 A 提供 B",
+       "A に B を提供する"
+      ]
+     ],
+     "tip": {
+      "zh": "搭配 provide sb with sth / provide sth for sb。",
+      "ja": "provide A with B / provide B for A の型を覚える。"
+     }
+    },
+    {
+     "w": "provisional",
+     "pos": "adj.",
+     "ipa": "/prəˈvɪʒənl/",
+     "zh": "临时的；暂定的",
+     "ja": "暫定的な；仮の",
+     "ex": "We issued a provisional schedule pending final approval from HQ.",
+     "ex_zh": "在总部最终批准前，我们发布了暂定时间表。",
+     "ex_ja": "本社の最終承認を待つ間、暫定スケジュールを発行しました。",
+     "parts": [
+      [
+       "pro-",
+       "预先",
+       "前もって"
+      ],
+      [
+       "vis",
+       "看／准备",
+       "見る／備える"
+      ],
+      [
+       "-ional",
+       "形容词后缀",
+       "形容詞化"
+      ]
+     ],
+     "note": {
+      "zh": "与 provide / provision 同源：先准备好的、暂用的。",
+      "ja": "provide / provision と同系。とりあえず備えた・仮の、の意。"
+     },
+     "forms": [
+      [
+       "provisionally (adv.)",
+       "暂时地",
+       "暫定的に"
+      ],
+      [
+       "provisional approval",
+       "临时批准",
+       "暫定承認"
+      ],
+      [
+       "provisional date",
+       "暂定日期",
+       "暫定日"
+      ]
+     ],
+     "tip": {
+      "zh": "≈ temporary / tentative；会议通知常写 provisional agenda。",
+      "ja": "temporary / tentative に近い。provisional agenda が会議で頻出。"
+     }
+    },
+    {
+     "w": "advise",
+     "pos": "v.",
+     "ipa": "/ədˈvaɪz/",
+     "zh": "建议；通知；劝告",
+     "ja": "助言する；勧める；通知する",
+     "ex": "Legal counsel advised the team to delay the product launch by two weeks.",
+     "ex_zh": "法律顾问建议团队将产品发布推迟两周。",
+     "ex_ja": "顧問弁護士は、発売を2週間遅らせるようチームに助言しました。",
+     "parts": [
+      [
+       "ad-",
+       "向；朝",
+       "〜へ"
+      ],
+      [
+       "vise",
+       "看",
+       "見る"
+      ]
+     ],
+     "note": {
+      "zh": "经由法语 aviser，与 videre“看”相关：让人看清形势。",
+      "ja": "フランス語 aviser 経由。videre「見る」と関連し、見通しを示す意。"
+     },
+     "forms": [
+      [
+       "advice (n.)",
+       "建议",
+       "助言；アドバイス"
+      ],
+      [
+       "advisor (n.)",
+       "顾问",
+       "顧問"
+      ],
+      [
+       "advise against",
+       "劝阻",
+       "〜しないよう助言する"
+      ]
+     ],
+     "tip": {
+      "zh": "⚠️ advice 不可数名词，advise 动词；发音 /s/ vs /z/。",
+      "ja": "⚠️ advice は不可算名詞、advise は動詞。語尾の /s/ と /z/ に注意。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "sign",
+   "title_zh": "词根 -sign-：标记",
+   "title_ja": "語根 -sign-：印・示す",
+   "words": [
+    {
+     "w": "signify",
+     "pos": "v.",
+     "ipa": "/ˈsɪɡnɪfaɪ/",
+     "zh": "表示；意味着；示意",
+     "ja": "意味する；示す",
+     "ex": "A red sticker on the carton may signify that the contents are fragile.",
+     "ex_zh": "纸箱上的红贴纸可能表示内装易碎。",
+     "ex_ja": "箱の赤いシールは、中身が壊れやすいことを示す場合があります。",
+     "parts": [
+      [
+       "sign",
+       "标记",
+       "印"
+      ],
+      [
+       "-ify",
+       "使…化",
+       "〜にする"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 significare“用标记表明”。",
+      "ja": "ラテン語 significare「印で示す」。"
+     },
+     "forms": [
+      [
+       "significance (n.)",
+       "重要性；意义",
+       "重要性；意味"
+      ],
+      [
+       "significant (adj.)",
+       "重要的",
+       "重要な"
+      ],
+      [
+       "signify that…",
+       "意味着…",
+       "〜を意味する"
+      ]
+     ],
+     "tip": {
+      "zh": "正式书面语；口语更常说 mean / indicate。",
+      "ja": "書き言葉寄り。口語では mean / indicate が多い。"
+     }
+    },
+    {
+     "w": "significant",
+     "pos": "adj.",
+     "ipa": "/sɪɡˈnɪfɪkənt/",
+     "zh": "重要的；显著的",
+     "ja": "重要な；著しい",
+     "ex": "The plant reported a significant drop in defect rates after recalibration.",
+     "ex_zh": "重新校准后，该工厂报告缺陷率显著下降。",
+     "ex_ja": "再校正の後、工場は不良率が大きく下がったと報告しました。",
+     "parts": [
+      [
+       "sign",
+       "标记",
+       "印"
+      ],
+      [
+       "-ificant",
+       "表示…的",
+       "〜を示す"
+      ]
+     ],
+     "note": {
+      "zh": "“带有标记／分量的”→ 重要、显著。",
+      "ja": "「印・重みのある」→ 重要・著しい。"
+     },
+     "forms": [
+      [
+       "significantly (adv.)",
+       "显著地",
+       "大幅に"
+      ],
+      [
+       "significance (n.)",
+       "重要性",
+       "重要性"
+      ],
+      [
+       "a significant increase",
+       "显著增长",
+       "大幅な増加"
+      ]
+     ],
+     "tip": {
+      "zh": "报告／图表题高频：a significant increase / decrease。",
+      "ja": "資料問題で a significant increase / decrease が頻出。"
+     }
+    },
+    {
+     "w": "designate",
+     "pos": "v.",
+     "ipa": "/ˈdɛzɪɡneɪt/",
+     "zh": "指定；任命；标明",
+     "ja": "指定する；任命する；示す",
+     "ex": "Please designate one team member as the emergency contact for this project.",
+     "ex_zh": "请指定一名团队成员作为本项目的紧急联系人。",
+     "ex_ja": "このプロジェクトの緊急連絡先として、チーム成員を1人指定してください。",
+     "parts": [
+      [
+       "de-",
+       "向下；完全",
+       "下へ；完全に"
+      ],
+      [
+       "sign",
+       "标记",
+       "印"
+      ],
+      [
+       "-ate",
+       "动词后缀",
+       "動詞化"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 designare“用标记标出、指定”。",
+      "ja": "ラテン語 designare「印をつけて示す・指定する」。"
+     },
+     "forms": [
+      [
+       "designation (n.)",
+       "指定；职务名称",
+       "指定；役職名"
+      ],
+      [
+       "designated (adj.)",
+       "指定的",
+       "指定された"
+      ],
+      [
+       "designate A as B",
+       "指定 A 为 B",
+       "A を B に指定する"
+      ]
+     ],
+     "tip": {
+      "zh": "designated smoking area / designated driver 等搭配常见。",
+      "ja": "designated area などのコロケーションが定番。"
+     }
+    },
+    {
+     "w": "designation",
+     "pos": "n.",
+     "ipa": "/ˌdɛzɪɡˈneɪʃən/",
+     "zh": "指定；名称；职务名",
+     "ja": "指定；名称；役職名",
+     "ex": "Her official designation on the org chart is Regional Sales Manager.",
+     "ex_zh": "她在组织架构图上的正式职务名称是区域销售经理。",
+     "ex_ja": "組織図上の正式な役職名は地域営業マネージャーです。",
+     "parts": [
+      [
+       "de-",
+       "向下；完全",
+       "下へ；完全に"
+      ],
+      [
+       "sign",
+       "标记",
+       "印"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞化"
+      ]
+     ],
+     "note": {
+      "zh": "designate 的名词：被标出的名称／指定。",
+      "ja": "designate の名詞。示された名称・指定。"
+     },
+     "forms": [
+      [
+       "job designation",
+       "职务名称",
+       "役職名"
+      ],
+      [
+       "official designation",
+       "正式名称",
+       "正式名称"
+      ],
+      [
+       "designate (v.)",
+       "指定",
+       "指定する"
+      ]
+     ],
+     "tip": {
+      "zh": "HR／名片场景：title ≈ designation。",
+      "ja": "人事・名刺では title と近い意味で使う。"
+     }
+    },
+    {
+     "w": "design",
+     "pos": "n./v.",
+     "ipa": "/dɪˈzaɪn/",
+     "zh": "设计；图案；构思",
+     "ja": "設計する；デザイン；構想",
+     "ex": "The industrial design team redesigned the handle to reduce wrist strain.",
+     "ex_zh": "工业设计团队重新设计了手柄以减轻手腕负担。",
+     "ex_ja": "工業デザインチームは、手首の負担を減らすためハンドルを再設計しました。",
+     "parts": [
+      [
+       "de-",
+       "完全；向下",
+       "完全に"
+      ],
+      [
+       "sign",
+       "标记",
+       "印"
+      ]
+     ],
+     "note": {
+      "zh": "与 designate 同源：画出标记／图样。美式名、动重音相同。",
+      "ja": "designate と同系。図に描く・設計する。米語では名動の強勢は同じ。"
+     },
+     "forms": [
+      [
+       "designer (n.)",
+       "设计师",
+       "デザイナー"
+      ],
+      [
+       "redesign (v./n.)",
+       "重新设计",
+       "再設計"
+      ],
+      [
+       "by design",
+       "有意；故意",
+       "意図的に"
+      ]
+     ],
+     "tip": {
+      "zh": "by design = 故意；by accident = 偶然。",
+      "ja": "by design は「意図的に」。by accident と対比。"
+     }
+    },
+    {
+     "w": "signature",
+     "pos": "n.",
+     "ipa": "/ˈsɪɡnətʃɚ/",
+     "zh": "签名；署名；鲜明特征",
+     "ja": "署名；サイン；特徴",
+     "ex": "Contracts are not valid until they bear an authorized signature.",
+     "ex_zh": "合同须有授权签名后方可生效。",
+     "ex_ja": "契約は権限ある署名があって初めて有効です。",
+     "parts": [
+      [
+       "sign",
+       "标记",
+       "印"
+      ],
+      [
+       "-ature",
+       "表示行为／结果",
+       "行為・結果"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 signatura“做标记的行为／印记”。",
+      "ja": "ラテン語 signatura「印をつけること・印」。"
+     },
+     "forms": [
+      [
+       "sign (v.)",
+       "签名",
+       "署名する"
+      ],
+      [
+       "digital signature",
+       "电子签名",
+       "電子署名"
+      ],
+      [
+       "signature dish",
+       "招牌菜",
+       "看板料理"
+      ]
+     ],
+     "tip": {
+      "zh": "authorized signature 合同高频；digital signature 电子合同常见。",
+      "ja": "authorized / digital signature が契約文で頻出。"
+     }
+    },
+    {
+     "w": "signal",
+     "pos": "n./v.",
+     "ipa": "/ˈsɪɡnl/",
+     "zh": "信号；示意；标志",
+     "ja": "信号；合図；示す",
+     "ex": "Falling orders may signal a broader slowdown in the sector.",
+     "ex_zh": "订单下降可能标志着该行业更广泛的放缓。",
+     "ex_ja": "受注減は、業界全体の減速を示す可能性があります。",
+     "parts": [
+      [
+       "sign",
+       "标记",
+       "印"
+      ],
+      [
+       "-al",
+       "名词／动词后缀",
+       "名詞・動詞化"
+      ]
+     ],
+     "note": {
+      "zh": "来自 signum：用来传递信息的标记。",
+      "ja": "signum から。情報を伝える印・合図。"
+     },
+     "forms": [
+      [
+       "signaling (n.)",
+       "发信号；示意",
+       "合図；シグナル"
+      ],
+      [
+       "send a signal",
+       "发出信号／信号",
+       "合図を送る"
+      ],
+      [
+       "warning signal",
+       "警告信号",
+       "警告信号"
+      ]
+     ],
+     "tip": {
+      "zh": "可作比喻：signal a change（预示变化）。",
+      "ja": "比喩で signal a change（変化を示す）も頻出。"
+     }
+    },
+    {
+     "w": "insignificant",
+     "pos": "adj.",
+     "ipa": "/ˌɪnsɪɡˈnɪfɪkənt/",
+     "zh": "微不足道的；无意义的",
+     "ja": "取るに足りない；重要でない",
+     "ex": "The price difference was insignificant compared with the gain in reliability.",
+     "ex_zh": "与可靠性提升相比，价差微不足道。",
+     "ex_ja": "信頼性の向上に比べれば、価格差は取るに足りませんでした。",
+     "parts": [
+      [
+       "in-",
+       "不；无",
+       "〜ない"
+      ],
+      [
+       "sign",
+       "标记",
+       "印"
+      ],
+      [
+       "-ificant",
+       "有…的",
+       "〜のある"
+      ]
+     ],
+     "note": {
+      "zh": "in-（否定）+ significant：没有分量／不重要。",
+      "ja": "否定の in- + significant。重要でない。"
+     },
+     "forms": [
+      [
+       "insignificance (n.)",
+       "微不足道",
+       "些細さ"
+      ],
+      [
+       "statistically insignificant",
+       "统计上不显著",
+       "統計的に有意でない"
+      ],
+      [
+       "significant (adj.)",
+       "重要的",
+       "重要な"
+      ]
+     ],
+     "tip": {
+      "zh": "报告里常与 significant 对举；注意否定前缀 in-。",
+      "ja": "significant と対で出やすい。接頭辞 in- に注意。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "pend",
+   "title_zh": "词根 -pend- / -pens-：悬挂；衡量",
+   "title_ja": "語根 -pend- / -pens-：ぶら下げる・量る",
+   "words": [
+    {
+     "w": "depend",
+     "pos": "v.",
+     "ipa": "/dɪˈpɛnd/",
+     "zh": "依赖；取决于",
+     "ja": "頼る；〜次第である",
+     "ex": "Delivery dates depend on when the raw materials arrive at the factory.",
+     "ex_zh": "交货日期取决于原材料何时到达工厂。",
+     "ex_ja": "納期は原材料が工場に到着する時期次第です。",
+     "parts": [
+      [
+       "de-",
+       "向下；从",
+       "下へ"
+      ],
+      [
+       "pend",
+       "悬挂",
+       "ぶら下げる"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 dependere“挂在…下面”→ 依靠、取决于。",
+      "ja": "ラテン語 dependere「下にぶら下がる」→ 依存する・次第である。"
+     },
+     "forms": [
+      [
+       "dependent (adj./n.)",
+       "依赖的；受抚养人",
+       "依存する；扶養家族"
+      ],
+      [
+       "dependence (n.)",
+       "依赖",
+       "依存"
+      ],
+      [
+       "depend on",
+       "取决于；依赖",
+       "〜次第である；頼る"
+      ]
+     ],
+     "tip": {
+      "zh": "固定搭配 depend on / upon；It depends.",
+      "ja": "depend on / upon。会話の It depends. も定番。"
+     }
+    },
+    {
+     "w": "pending",
+     "pos": "adj./prep.",
+     "ipa": "/ˈpɛndɪŋ/",
+     "zh": "待决的；直到…为止",
+     "ja": "未決の；〜まで保留して",
+     "ex": "All promotions are on hold pending the outcome of the audit.",
+     "ex_zh": "在审计结果出来之前，所有晋升暂停。",
+     "ex_ja": "監査の結果が出るまで、昇進はすべて保留です。",
+     "parts": [
+      [
+       "pend",
+       "悬挂",
+       "ぶら下げる"
+      ],
+      [
+       "-ing",
+       "进行／状态",
+       "状態"
+      ]
+     ],
+     "note": {
+      "zh": "“悬着的”→ 尚未决定；作介词 = until。",
+      "ja": "「宙ぶらりん」→ 未決。前置詞では until の意。"
+     },
+     "forms": [
+      [
+       "pending approval",
+       "待批准",
+       "承認待ち"
+      ],
+      [
+       "a pending case",
+       "未决案件",
+       "未決案件"
+      ],
+      [
+       "pending further notice",
+       "另行通知前",
+       "追って通知があるまで"
+      ]
+     ],
+     "tip": {
+      "zh": "邮件高频：pending approval / pending further notice。",
+      "ja": "メールで pending approval が頻出。"
+     }
+    },
+    {
+     "w": "expend",
+     "pos": "v.",
+     "ipa": "/ɪkˈspɛnd/",
+     "zh": "花费；消耗（时间／精力／金钱）",
+     "ja": "費やす；支出する",
+     "ex": "Do not expend the entire marketing budget in the first quarter.",
+     "ex_zh": "不要在第一季度花光全部营销预算。",
+     "ex_ja": "第1四半期にマーケティング予算を使い切らないでください。",
+     "parts": [
+      [
+       "ex-",
+       "向外",
+       "外へ"
+      ],
+      [
+       "pend",
+       "支付；衡量",
+       "支払う；量る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 expendere“称出、支付出去”。",
+      "ja": "ラテン語 expendere「量って支払う・支出する」。"
+     },
+     "forms": [
+      [
+       "expense (n.)",
+       "费用",
+       "費用"
+      ],
+      [
+       "expendable (adj.)",
+       "可消耗的",
+       "消耗してよい"
+      ],
+      [
+       "expend energy",
+       "耗费精力",
+       "精力を費やす"
+      ]
+     ],
+     "tip": {
+      "zh": "比 spend 正式；常接 time / effort / resources。",
+      "ja": "spend より硬い。time / effort / resources と組む。"
+     }
+    },
+    {
+     "w": "expense",
+     "pos": "n.",
+     "ipa": "/ɪkˈspɛns/",
+     "zh": "费用；开支；代价",
+     "ja": "費用；経費；犠牲",
+     "ex": "Please submit your travel expense report within five business days.",
+     "ex_zh": "请在五个工作日内提交差旅费用报销单。",
+     "ex_ja": "出張経費精算書は5営業日以内に提出してください。",
+     "parts": [
+      [
+       "ex-",
+       "向外",
+       "外へ"
+      ],
+      [
+       "pense",
+       "支付",
+       "支払い"
+      ]
+     ],
+     "note": {
+      "zh": "与 expend 同源；指花出去的钱／代价。",
+      "ja": "expend と同系。支出したお金・代償。"
+     },
+     "forms": [
+      [
+       "expenses (pl.)",
+       "开支；经费",
+       "経費"
+      ],
+      [
+       "at the expense of",
+       "以…为代价",
+       "〜を犠牲にして"
+      ],
+      [
+       "expense report",
+       "费用报销单",
+       "経費精算書"
+      ]
+     ],
+     "tip": {
+      "zh": "expense report / at company expense 差旅高频。",
+      "ja": "expense report / at company expense が出張で頻出。"
+     }
+    },
+    {
+     "w": "suspend",
+     "pos": "v.",
+     "ipa": "/səˈspɛnd/",
+     "zh": "暂停；中止；悬挂；使停学／停职",
+     "ja": "一時停止する；吊り下げる；停職にする",
+     "ex": "The airline had to suspend flights to the island because of the storm.",
+     "ex_zh": "因风暴，航空公司不得不暂停飞往该岛的航班。",
+     "ex_ja": "嵐のため、航空会社はその島への便を一時停止せざるを得ませんでした。",
+     "parts": [
+      [
+       "sus-",
+       "在下面",
+       "下に"
+      ],
+      [
+       "pend",
+       "悬挂",
+       "ぶら下げる"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 suspendere“挂在下面”→ 吊起／暂时搁置。",
+      "ja": "ラテン語 suspendere「下に吊るす」→ 一時停止・停職。"
+     },
+     "forms": [
+      [
+       "suspension (n.)",
+       "暂停；停职",
+       "一時停止；停職"
+      ],
+      [
+       "suspended (adj.)",
+       "被暂停的",
+       "停止中の"
+      ],
+      [
+       "suspend service",
+       "暂停服务",
+       "サービスを停止する"
+      ]
+     ],
+     "tip": {
+      "zh": "业务：suspend service / account；HR：suspend an employee。",
+      "ja": "業務で suspend service。人事では停職の意も。"
+     }
+    },
+    {
+     "w": "pension",
+     "pos": "n.",
+     "ipa": "/ˈpɛnʃən/",
+     "zh": "养老金；退休金",
+     "ja": "年金；退職金（年金型）",
+     "ex": "Employees become eligible for the company pension after five years of service.",
+     "ex_zh": "员工服务满五年后即有资格领取公司养老金。",
+     "ex_ja": "勤続5年で会社の年金受給資格を得ます。",
+     "parts": [
+      [
+       "pens",
+       "支付",
+       "支払い"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞化"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 pensio“支付、款项”← pendere。",
+      "ja": "ラテン語 pensio「支払い」← pendere。"
+     },
+     "forms": [
+      [
+       "pension plan",
+       "养老金计划",
+       "年金制度"
+      ],
+      [
+       "pension fund",
+       "养老基金",
+       "年金基金"
+      ],
+      [
+       "retire on a pension",
+       "靠养老金退休",
+       "年金で引退する"
+      ]
+     ],
+     "tip": {
+      "zh": "HR／福利阅读常见；与 severance（遣散费）不同。",
+      "ja": "福利厚生の読解で頻出。severance（退職金一時金）と区別。"
+     }
+    },
+    {
+     "w": "impending",
+     "pos": "adj.",
+     "ipa": "/ɪmˈpɛndɪŋ/",
+     "zh": "即将到来的；迫近的",
+     "ja": "差し迫った；間近の",
+     "ex": "Staff were briefed on evacuation routes ahead of the impending typhoon.",
+     "ex_zh": "在台风临近前，员工听取了疏散路线说明。",
+     "ex_ja": "接近中の台風に備え、職員は避難経路の説明を受けました。",
+     "parts": [
+      [
+       "im-",
+       "向；在上",
+       "〜に"
+      ],
+      [
+       "pend",
+       "悬挂",
+       "ぶら下げる"
+      ],
+      [
+       "-ing",
+       "形容词",
+       "形容詞"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 impendere“悬在上方”→ 逼近、即将发生。",
+      "ja": "ラテン語 impendere「上に懸かる」→ 差し迫る。"
+     },
+     "forms": [
+      [
+       "impend (v.)",
+       "即将发生",
+       "差し迫る"
+      ],
+      [
+       "impending deadline",
+       "迫近的截止日期",
+       "迫る期限"
+      ],
+      [
+       "impending change",
+       "即将到来的变化",
+       "間近の変化"
+      ]
+     ],
+     "tip": {
+      "zh": "语气偏正式／略带紧迫；常修饰 deadline / crisis / launch。",
+      "ja": "やや硬い・緊迫感。deadline / crisis を修飾しやすい。"
+     }
+    },
+    {
+     "w": "indispensable",
+     "pos": "adj.",
+     "ipa": "/ˌɪndɪˈspɛnsəbl/",
+     "zh": "不可或缺的；必需的",
+     "ja": "不可欠な；必須の",
+     "ex": "Reliable suppliers are indispensable to keeping the production line running.",
+     "ex_zh": "可靠的供应商对维持生产线运转不可或缺。",
+     "ex_ja": "信頼できる仕入先は、生産ライン維持に不可欠です。",
+     "parts": [
+      [
+       "in-",
+       "不",
+       "〜ない"
+      ],
+      [
+       "dis-",
+       "除去",
+       "除く"
+      ],
+      [
+       "pens",
+       "支付／省去",
+       "支払う／省く"
+      ],
+      [
+       "-able",
+       "可…的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "字面“无法省去／无法省掉开销的”→ 必不可少。",
+      "ja": "「省けない」→ 不可欠。dispensable の否定。"
+     },
+     "forms": [
+      [
+       "indispensable to/for",
+       "对…不可或缺",
+       "〜に不可欠"
+      ],
+      [
+       "dispensable (adj.)",
+       "可有可无的",
+       "なくてもよい"
+      ],
+      [
+       "an indispensable tool",
+       "必备工具",
+       "欠かせない道具"
+      ]
+     ],
+     "tip": {
+      "zh": "后接 to / for；语气强于 necessary / essential。",
+      "ja": "to / for と組む。necessary より強い響き。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "press",
+   "title_zh": "词根 -press-：压",
+   "title_ja": "語根 -press-：押す",
+   "words": [
+    {
+     "w": "express",
+     "pos": "v.",
+     "ipa": "/ɪkˈsprɛs/",
+     "zh": "表达；表示；快递寄出",
+     "ja": "表現する；述べる；宅配で送る",
+     "ex": "Customers expressed concern about delayed responses from the help desk.",
+     "ex_zh": "客户对服务台回复延迟表示担忧。",
+     "ex_ja": "顧客はヘルプデスクの返信遅延について懸念を示しました。",
+     "parts": [
+      [
+       "ex-",
+       "向外",
+       "外へ"
+      ],
+      [
+       "press",
+       "压",
+       "押す"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 exprimere“压出来、表述出来”。",
+      "ja": "ラテン語 exprimere「押し出す・言い表す」。"
+     },
+     "forms": [
+      [
+       "expression (n.)",
+       "表达；表情",
+       "表現；表情"
+      ],
+      [
+       "express delivery",
+       "快递",
+       "速達配達"
+      ],
+      [
+       "express concern",
+       "表达关切",
+       "懸念を示す"
+      ]
+     ],
+     "tip": {
+      "zh": "⚠️ 动词 /ɪkˈsprɛs/；名词 express（特快）常读 /ˈɛksprɛs/。",
+      "ja": "⚠️ 動詞は /ɪkˈsprɛs/。名詞の特急・急行は /ˈɛksprɛs/ が多い。"
+     }
+    },
+    {
+     "w": "expression",
+     "pos": "n.",
+     "ipa": "/ɪkˈsprɛʃən/",
+     "zh": "表达；措辞；表情",
+     "ja": "表現；言い回し；表情",
+     "ex": "A written expression of apology was attached to the replacement shipment.",
+     "ex_zh": "换货发运时附上了书面致歉说明。",
+     "ex_ja": "代替品の発送に、書面での謝罪の表明が添えられました。",
+     "parts": [
+      [
+       "ex-",
+       "向外",
+       "外へ"
+      ],
+      [
+       "press",
+       "压",
+       "押す"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞化"
+      ]
+     ],
+     "note": {
+      "zh": "express 的名词：压出来的表述。",
+      "ja": "express の名詞。押し出された表現。"
+     },
+     "forms": [
+      [
+       "facial expression",
+       "面部表情",
+       "表情"
+      ],
+      [
+       "freedom of expression",
+       "言论自由",
+       "表現の自由"
+      ],
+      [
+       "express (v.)",
+       "表达",
+       "表現する"
+      ]
+     ],
+     "tip": {
+      "zh": "business correspondence 里 expression of interest / apology 常见。",
+      "ja": "expression of interest / apology が文書で頻出。"
+     }
+    },
+    {
+     "w": "impress",
+     "pos": "v.",
+     "ipa": "/ɪmˈprɛs/",
+     "zh": "给…留下印象；使钦佩",
+     "ja": "印象づける；感心させる",
+     "ex": "The candidate impressed the panel with clear answers and relevant experience.",
+     "ex_zh": "该候选人清晰的回答和相关经验给面试官留下深刻印象。",
+     "ex_ja": "候補者は明確な回答と関連経験で面接官に好印象を与えました。",
+     "parts": [
+      [
+       "im-",
+       "向内；进入",
+       "中へ"
+      ],
+      [
+       "press",
+       "压",
+       "押す"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 imprimere“压进去”→ 留下印记／印象。",
+      "ja": "ラテン語 imprimere「押し込む」→ 印象を残す。"
+     },
+     "forms": [
+      [
+       "impression (n.)",
+       "印象",
+       "印象"
+      ],
+      [
+       "impressive (adj.)",
+       "令人印象深刻的",
+       "印象的な"
+      ],
+      [
+       "be impressed by",
+       "对…印象深刻",
+       "〜に感心する"
+      ]
+     ],
+     "tip": {
+      "zh": "impress sb with sth；first impression 面试高频。",
+      "ja": "impress A with B。first impression が面接で頻出。"
+     }
+    },
+    {
+     "w": "impression",
+     "pos": "n.",
+     "ipa": "/ɪmˈprɛʃən/",
+     "zh": "印象；感觉",
+     "ja": "印象；感じ",
+     "ex": "The clean showroom left a strong impression on visiting retailers.",
+     "ex_zh": "整洁的展厅给来访零售商留下深刻印象。",
+     "ex_ja": "きれいなショールームは来訪した小売業者に強い印象を残しました。",
+     "parts": [
+      [
+       "im-",
+       "向内",
+       "中へ"
+      ],
+      [
+       "press",
+       "压",
+       "押す"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞化"
+      ]
+     ],
+     "note": {
+      "zh": "impress 的名词。",
+      "ja": "impress の名詞。"
+     },
+     "forms": [
+      [
+       "first impression",
+       "第一印象",
+       "第一印象"
+      ],
+      [
+       "under the impression that",
+       "以为…",
+       "〜と思い込んで"
+      ],
+      [
+       "make an impression",
+       "留下印象",
+       "印象を与える"
+      ]
+     ],
+     "tip": {
+      "zh": "under the impression that = 误以为；阅读干扰项常见。",
+      "ja": "under the impression that は「〜と思い込む」。読解のひっかけに注意。"
+     }
+    },
+    {
+     "w": "impressive",
+     "pos": "adj.",
+     "ipa": "/ɪmˈprɛsɪv/",
+     "zh": "令人印象深刻的；出色的",
+     "ja": "印象的な；見事な",
+     "ex": "The factory achieved an impressive on-time delivery rate of 98 percent.",
+     "ex_zh": "该工厂实现了令人印象深刻的 98% 准时交货率。",
+     "ex_ja": "工場は納期遵守率98%という見事な実績を達成しました。",
+     "parts": [
+      [
+       "im-",
+       "向内",
+       "中へ"
+      ],
+      [
+       "press",
+       "压",
+       "押す"
+      ],
+      [
+       "-ive",
+       "形容词后缀",
+       "形容詞化"
+      ]
+     ],
+     "note": {
+      "zh": "能“压出”深刻印象的 → 出色的。",
+      "ja": "強い印象を残す → 見事な。"
+     },
+     "forms": [
+      [
+       "impressively (adv.)",
+       "出色地",
+       "見事に"
+      ],
+      [
+       "an impressive record",
+       "出色业绩",
+       "見事な実績"
+      ],
+      [
+       "less than impressive",
+       "不尽如人意",
+       "今一つ"
+      ]
+     ],
+     "tip": {
+      "zh": "业绩／数据描述高频褒义词。",
+      "ja": "実績・数値をほめる定番形容詞。"
+     }
+    },
+    {
+     "w": "pressure",
+     "pos": "n.",
+     "ipa": "/ˈprɛʃɚ/",
+     "zh": "压力；压强；催促",
+     "ja": "圧力；プレッシャー；催促",
+     "ex": "Under time pressure, the team skipped a final quality check.",
+     "ex_zh": "在时间压力下，团队跳过了最后一道质检。",
+     "ex_ja": "時間的プレッシャーから、チームは最終品質チェックを省きました。",
+     "parts": [
+      [
+       "press",
+       "压",
+       "押す"
+      ],
+      [
+       "-ure",
+       "名词后缀",
+       "名詞化"
+      ]
+     ],
+     "note": {
+      "zh": "press 的名词：被压的状态／压力。",
+      "ja": "press の名詞。押される状態・圧力。"
+     },
+     "forms": [
+      [
+       "peer pressure",
+       "同辈压力",
+       "同調圧力"
+      ],
+      [
+       "pressure sb to…",
+       "迫使某人…",
+       "〜するよう圧力をかける"
+      ],
+      [
+       "under pressure",
+       "在压力下",
+       "プレッシャーのもとで"
+      ]
+     ],
+     "tip": {
+      "zh": "under pressure / put pressure on 商务邮件高频。",
+      "ja": "under pressure / put pressure on が頻出。"
+     }
+    },
+    {
+     "w": "suppress",
+     "pos": "v.",
+     "ipa": "/səˈprɛs/",
+     "zh": "压制；抑制；隐瞒",
+     "ja": "抑える；抑制する；隠す",
+     "ex": "The system is designed to suppress false alarms during routine maintenance.",
+     "ex_zh": "该系统旨在例行维护期间抑制误报。",
+     "ex_ja": "このシステムは定期保守中の誤警報を抑えるよう設計されています。",
+     "parts": [
+      [
+       "sup-",
+       "在下面",
+       "下に"
+      ],
+      [
+       "press",
+       "压",
+       "押す"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 supprimere“压下去、压住”。",
+      "ja": "ラテン語 supprimere「抑え込む」。"
+     },
+     "forms": [
+      [
+       "suppression (n.)",
+       "压制；抑制",
+       "抑制"
+      ],
+      [
+       "suppress a report",
+       "压下报告／不公开",
+       "報告を伏せる"
+      ],
+      [
+       "fire suppression",
+       "消防灭火系统",
+       "消火設備"
+      ]
+     ],
+     "tip": {
+      "zh": "可指技术“抑制噪音／误报”，也可指“隐瞒信息”。",
+      "ja": "技術的な「抑制」と「情報を伏せる」の両義に注意。"
+     }
+    },
+    {
+     "w": "depress",
+     "pos": "v.",
+     "ipa": "/dɪˈprɛs/",
+     "zh": "使沮丧；使萧条；按下",
+     "ja": "落ち込ませる；不振にする；押し下げる",
+     "ex": "Rising fuel costs continue to depress profit margins in the logistics unit.",
+     "ex_zh": "不断上涨的燃油成本继续压低物流部门的利润率。",
+     "ex_ja": "燃料費の上昇が、物流部門の利益率を押し下げ続けています。",
+     "parts": [
+      [
+       "de-",
+       "向下",
+       "下へ"
+      ],
+      [
+       "press",
+       "压",
+       "押す"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 deprimere“往下压”。",
+      "ja": "ラテン語 deprimere「下へ押す」。"
+     },
+     "forms": [
+      [
+       "depression (n.)",
+       "萧条；抑郁",
+       "不況；うつ"
+      ],
+      [
+       "depressed (adj.)",
+       "萧条的；沮丧的",
+       "不振の；落ち込んだ"
+      ],
+      [
+       "depress the button",
+       "按下按钮",
+       "ボタンを押し下げる"
+      ]
+     ],
+     "tip": {
+      "zh": "经济语境：depress prices / demand；亦可指按下开关。",
+      "ja": "経済では prices / demand を押し下げる意。ボタンを押す意もある。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "mfg",
+   "title_zh": "主题：生产制造与质量检验",
+   "title_ja": "テーマ：製造・品質検査",
+   "words": [
+    {
+     "w": "calibrate",
+     "pos": "v.",
+     "ipa": "/ˈkæləbreɪt/",
+     "zh": "校准；标定",
+     "ja": "校正する；較正する",
+     "ex": "Technicians must calibrate the sensors every Monday before the morning shift.",
+     "ex_zh": "技术人员须在每周一早班前校准传感器。",
+     "ex_ja": "技術者は毎週月曜の朝番前にセンサーを校正しなければなりません。",
+     "parts": [],
+     "note": {
+      "zh": "来自 caliber（口径／水准）；没有简单的拉丁前缀+词根拆法，宜整词记。",
+      "ja": "caliber（口径・水準）由来。単純な語根分解はしにくい。"
+     },
+     "forms": [
+      [
+       "calibration (n.)",
+       "校准",
+       "校正"
+      ],
+      [
+       "recalibrate (v.)",
+       "重新校准",
+       "再校正する"
+      ],
+      [
+       "out of calibration",
+       "校准失效",
+       "校正ずれ"
+      ]
+     ],
+     "tip": {
+      "zh": "质检／实验室场景高频；out of calibration = 需重校。",
+      "ja": "品質・検査シーンで頻出。"
+     }
+    },
+    {
+     "w": "tolerance",
+     "pos": "n.",
+     "ipa": "/ˈtɑlərəns/",
+     "zh": "公差；容许偏差；耐受",
+     "ja": "公差；許容差；耐性",
+     "ex": "Parts outside the specified tolerance must be sent back for rework.",
+     "ex_zh": "超出规定公差的零件须退回返工。",
+     "ex_ja": "指定公差を外れた部品は手直しに回さねばなりません。",
+     "parts": [],
+     "note": {
+      "zh": "源自拉丁 tolerare（忍受）；工程里指允许误差范围，勿硬拆成 TOEIC 常用词根。",
+      "ja": "ラテン tolerare（耐える）由来。工学では許容誤差の意。"
+     },
+     "forms": [
+      [
+       "tolerant (adj.)",
+       "宽容的；耐受的",
+       "寛容な；耐性のある"
+      ],
+      [
+       "zero tolerance",
+       "零容忍",
+       "ゼロトレランス"
+      ],
+      [
+       "within tolerance",
+       "在公差内",
+       "公差内"
+      ]
+     ],
+     "tip": {
+      "zh": "制造：within / outside tolerance；HR 也有 zero tolerance policy。",
+      "ja": "製造では within tolerance。人事の zero tolerance にも注意。"
+     }
+    },
+    {
+     "w": "batch",
+     "pos": "n.",
+     "ipa": "/bætʃ/",
+     "zh": "批次；一组；一次生产量",
+     "ja": "ロット；一群；一回分",
+     "ex": "Each batch of batteries is labeled with a unique production code.",
+     "ex_zh": "每批电池都标有唯一生产代码。",
+     "ex_ja": "バッテリーの各ロットには固有の製造コードが付きます。",
+     "parts": [],
+     "note": {
+      "zh": "本族词（baking 一批的引申）；没有可靠拉丁词根拆分。",
+      "ja": "本来「一焼き分」などの語。ラテン語根の分解はない。"
+     },
+     "forms": [
+      [
+       "batch number",
+       "批号",
+       "ロット番号"
+      ],
+      [
+       "batch production",
+       "批量生产",
+       "バッチ生産"
+      ],
+      [
+       "in batches",
+       "分批地",
+       "ロットごとに"
+      ]
+     ],
+     "tip": {
+      "zh": "质检追溯常问 batch number / lot number。",
+      "ja": "品質追跡で batch / lot number が頻出。"
+     }
+    },
+    {
+     "w": "scrap",
+     "pos": "n./v.",
+     "ipa": "/skræp/",
+     "zh": "废料；报废；废弃",
+     "ja": "くず；スクラップ；廃棄する",
+     "ex": "The plant aims to cut scrap by ten percent through tighter process controls.",
+     "ex_zh": "工厂希望通过更严格的过程控制将废料减少百分之十。",
+     "ex_ja": "工場は工程管理の強化でスクラップを10%削減することを目指しています。",
+     "parts": [],
+     "note": {
+      "zh": "本族词；没有可靠拉丁词根拆分。",
+      "ja": "ゲルマン系の語。信頼できるラテン語根の分解はない。"
+     },
+     "forms": [
+      [
+       "scrap rate",
+       "报废率",
+       "スクラップ率"
+      ],
+      [
+       "scrap metal",
+       "废金属",
+       "くず金属"
+      ],
+      [
+       "scrap a plan",
+       "取消计划",
+       "計画を破棄する"
+      ]
+     ],
+     "tip": {
+      "zh": "制造：scrap rate；也可比喻 scrap a project。",
+      "ja": "製造の scrap rate。計画破棄の比喩も。"
+     }
+    },
+    {
+     "w": "yield",
+     "pos": "n./v.",
+     "ipa": "/jild/",
+     "zh": "产量；收益率；产生；让步",
+     "ja": "収穫高；利回り；生じる；譲る",
+     "ex": "Improving first-pass yield reduced the need for costly rework.",
+     "ex_zh": "提高一次通过率减少了昂贵的返工需求。",
+     "ex_ja": "初回合格率の向上で、高コストな手直しの必要が減りました。",
+     "parts": [],
+     "note": {
+      "zh": "本族词（古英语 gieldan）；制造指产出率，金融指收益率，无拉丁词根拆分。",
+      "ja": "古英語系。製造では出来高・歩留まり、金融では利回り。"
+     },
+     "forms": [
+      [
+       "high yield",
+       "高产出／高收益",
+       "高利回り；高収量"
+      ],
+      [
+       "yield rate",
+       "成品率；收益率",
+       "歩留まり；利回り"
+      ],
+      [
+       "yield to",
+       "让步于",
+       "〜に譲る"
+      ]
+     ],
+     "tip": {
+      "zh": "TOEIC：生产 yield + 金融 yield；注意一词多义。",
+      "ja": "製造と金融の両義に注意。"
+     }
+    },
+    {
+     "w": "blueprint",
+     "pos": "n.",
+     "ipa": "/ˈbluprɪnt/",
+     "zh": "蓝图；详细计划；设计图",
+     "ja": "青写真；設計図；詳細計画",
+     "ex": "The architect submitted a revised blueprint for the new warehouse wing.",
+     "ex_zh": "建筑师提交了新仓库侧翼的修订蓝图。",
+     "ex_ja": "建築家は新倉庫棟の改訂設計図を提出しました。",
+     "parts": [
+      [
+       "blue",
+       "蓝色",
+       "青"
+      ],
+      [
+       "print",
+       "印刷；图",
+       "印刷；図"
+      ]
+     ],
+     "note": {
+      "zh": "合成词：原指蓝色底图；引申为详细计划。",
+      "ja": "合成語。元は青図で、転じて詳細計画。"
+     },
+     "forms": [
+      [
+       "blueprint for…",
+       "…的蓝图／方案",
+       "〜の青写真"
+      ],
+      [
+       "detailed blueprint",
+       "详细蓝图",
+       "詳細な設計図"
+      ],
+      [
+       "follow the blueprint",
+       "按蓝图执行",
+       "設計図どおりに進める"
+      ]
+     ],
+     "tip": {
+      "zh": "可指实体图纸，也可比喻战略方案。",
+      "ja": "実図にも戦略案の比喩にも使う。"
+     }
+    },
+    {
+     "w": "precision",
+     "pos": "n.",
+     "ipa": "/prɪˈsɪʒən/",
+     "zh": "精确；精密",
+     "ja": "精密；正確さ",
+     "ex": "The new CNC machines offer greater precision for small metal parts.",
+     "ex_zh": "新的数控机床可为小型金属零件提供更高精度。",
+     "ex_ja": "新しいCNC機械は小型金属部品でより高い精度を発揮します。",
+     "parts": [
+      [
+       "pre-",
+       "预先；在前",
+       "前もって"
+      ],
+      [
+       "cis",
+       "切",
+       "切る"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞化"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 praecidere“预先切齐／截断”→ 精确。词根 cis/cid = 切。",
+      "ja": "ラテン praecidere「切りそろえる」→ 精密。cis/cid は「切る」。"
+     },
+     "forms": [
+      [
+       "precise (adj.)",
+       "精确的",
+       "正確な；精密な"
+      ],
+      [
+       "precision tools",
+       "精密工具",
+       "精密工具"
+      ],
+      [
+       "with precision",
+       "精确地",
+       "正確に"
+      ]
+     ],
+     "tip": {
+      "zh": "precision engineering / instruments 制造阅读高频。",
+      "ja": "precision engineering などが読解で頻出。"
+     }
+    },
+    {
+     "w": "contamination",
+     "pos": "n.",
+     "ipa": "/kənˌtæməˈneɪʃən/",
+     "zh": "污染；玷污；混入异物",
+     "ja": "汚染；混入；コンタミ",
+     "ex": "Strict hygiene rules help prevent contamination of food packaging lines.",
+     "ex_zh": "严格的卫生规定有助于防止食品包装线受到污染。",
+     "ex_ja": "厳しい衛生規則が食品包装ラインの汚染防止に役立ちます。",
+     "parts": [
+      [
+       "con-",
+       "一起",
+       "共に"
+      ],
+      [
+       "tamin",
+       "接触／玷污",
+       "触れる／汚す"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞化"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 contaminare“通过接触弄脏”。",
+      "ja": "ラテン contaminare「触れて汚す」。"
+     },
+     "forms": [
+      [
+       "contaminate (v.)",
+       "污染",
+       "汚染する"
+      ],
+      [
+       "contaminated (adj.)",
+       "被污染的",
+       "汚染された"
+      ],
+      [
+       "cross-contamination",
+       "交叉污染",
+       "交差汚染"
+      ]
+     ],
+     "tip": {
+      "zh": "食品／制药／电子洁净室场景高频。",
+      "ja": "食品・製薬・クリーンルームで頻出。"
+     }
+    },
+    {
+     "w": "downtime",
+     "pos": "n.",
+     "ipa": "/ˈdaʊntaɪm/",
+     "zh": "停机时间；故障停运时间",
+     "ja": "ダウンタイム；停止時間",
+     "ex": "Unplanned downtime on Line B delayed the entire week's shipment.",
+     "ex_zh": "B 线的计划外停机延误了整周发货。",
+     "ex_ja": "Bラインの計画外停止が、週全体の出荷を遅らせました。",
+     "parts": [
+      [
+       "down",
+       "停止；向下",
+       "停止；下"
+      ],
+      [
+       "time",
+       "时间",
+       "時間"
+      ]
+     ],
+     "note": {
+      "zh": "合成词 down + time；没有拉丁词根拆分。",
+      "ja": "down + time の合成語。"
+     },
+     "forms": [
+      [
+       "planned downtime",
+       "计划停机",
+       "計画停止"
+      ],
+      [
+       "reduce downtime",
+       "减少停机",
+       "停止時間を減らす"
+      ],
+      [
+       "network downtime",
+       "网络中断时间",
+       "ネットワーク停止"
+      ]
+     ],
+     "tip": {
+      "zh": "制造与 IT 通用；unplanned downtime 成本话题常见。",
+      "ja": "製造でもITでも使う。"
+     }
+    },
+    {
+     "w": "throughput",
+     "pos": "n.",
+     "ipa": "/ˈθrupʊt/",
+     "zh": "吞吐量；生产处理量",
+     "ja": "スループット；処理量",
+     "ex": "Adding a second packing station increased daily throughput by fifteen percent.",
+     "ex_zh": "增设第二个包装工位使日吞吐量提高了百分之十五。",
+     "ex_ja": "梱包ステーションを増設し、1日の処理量が15%増えました。",
+     "parts": [
+      [
+       "through",
+       "穿过；完成",
+       "通して"
+      ],
+      [
+       "put",
+       "投放；产出",
+       "置く；出す"
+      ]
+     ],
+     "note": {
+      "zh": "合成词 through + put：单位时间内通过／处理的量。",
+      "ja": "through + put。単位時間あたりの処理量。"
+     },
+     "forms": [
+      [
+       "high throughput",
+       "高吞吐",
+       "高スループット"
+      ],
+      [
+       "throughput capacity",
+       "吞吐能力",
+       "処理能力"
+      ],
+      [
+       "increase throughput",
+       "提高产量／吞吐",
+       "処理量を上げる"
+      ]
+     ],
+     "tip": {
+      "zh": "工厂 KPI 与网络带宽语境都会出现。",
+      "ja": "工場KPIでも通信でも出る。"
+     }
+    },
+    {
+     "w": "rework",
+     "pos": "n./v.",
+     "ipa": "/ˈriwɝk/",
+     "zh": "返工；返修",
+     "ja": "手直し；再加工する",
+     "ex": "Products that fail inspection are sent to the rework station before reshipment.",
+     "ex_zh": "未通过检验的产品在重新发货前送往返工工位。",
+     "ex_ja": "検査不合格品は再出荷前に手直しステーションへ送られます。",
+     "parts": [
+      [
+       "re-",
+       "再",
+       "再び"
+      ],
+      [
+       "work",
+       "工作；加工",
+       "作業する"
+      ]
+     ],
+     "note": {
+      "zh": "前缀 re- + work；工业用语指不合格品返修。",
+      "ja": "re- + work。不良品の手直しを指す。"
+     },
+     "forms": [
+      [
+       "rework cost",
+       "返工成本",
+       "手直し費用"
+      ],
+      [
+       "rework rate",
+       "返工率",
+       "手直し率"
+      ],
+      [
+       "require rework",
+       "需要返工",
+       "手直しが必要"
+      ]
+     ],
+     "tip": {
+      "zh": "与 scrap 对比：能修好→ rework；不能→ scrap。",
+      "ja": "直せるなら rework、だめなら scrap。"
+     }
+    },
+    {
+     "w": "gauge",
+     "pos": "n./v.",
+     "ipa": "/ɡeɪdʒ/",
+     "zh": "量规；仪表；测量；判断",
+     "ja": "ゲージ；計器；測定する；見極める",
+     "ex": "Use a digital gauge to verify the thickness of each metal sheet.",
+     "ex_zh": "请用数字量规核验每张金属板的厚度。",
+     "ex_ja": "デジタルゲージで各金属板の厚さを確認してください。",
+     "parts": [],
+     "note": {
+      "zh": "来自古法语／法兰克语相关词；没有可靠拉丁词根拆分。",
+      "ja": "古フランス語系。ラテン語根の分解は難しい。"
+     },
+     "forms": [
+      [
+       "pressure gauge",
+       "压力表",
+       "圧力計"
+      ],
+      [
+       "gauge interest",
+       "试探兴趣",
+       "関心を探る"
+      ],
+      [
+       "narrow-gauge",
+       "窄轨的",
+       "狭軌の"
+      ]
+     ],
+     "tip": {
+      "zh": "制造指量具；商务也可 gauge customer reaction。",
+      "ja": "製造は計器。ビジネスでは反応を探る意も。"
+     }
+    },
+    {
+     "w": "benchmark",
+     "pos": "n./v.",
+     "ipa": "/ˈbɛntʃmɑrk/",
+     "zh": "基准；标杆；以…为基准比较",
+     "ja": "ベンチマーク；基準；比較評価する",
+     "ex": "We will benchmark our defect rate against industry leaders this quarter.",
+     "ex_zh": "本季度我们将把缺陷率与行业领先者对标。",
+     "ex_ja": "今四半期、不良率を業界リーダーと比較評価します。",
+     "parts": [
+      [
+       "bench",
+       "工作台；基准台",
+       "作業台"
+      ],
+      [
+       "mark",
+       "标记",
+       "印"
+      ]
+     ],
+     "note": {
+      "zh": "原指测量用的基准刻记；引申为对标比较。",
+      "ja": "測量の基準点から転じ、比較評価の意。"
+     },
+     "forms": [
+      [
+       "benchmarking (n.)",
+       "标杆管理",
+       "ベンチマーキング"
+      ],
+      [
+       "set a benchmark",
+       "设立基准",
+       "基準を設ける"
+      ],
+      [
+       "industry benchmark",
+       "行业基准",
+       "業界基準"
+      ]
+     ],
+     "tip": {
+      "zh": "管理／质量报告高频；可作名词或动词。",
+      "ja": "品質・経営報告で名動詞とも頻出。"
+     }
+    },
+    {
+     "w": "deviation",
+     "pos": "n.",
+     "ipa": "/ˌdiviˈeɪʃən/",
+     "zh": "偏差；偏离；违规偏离",
+     "ja": "偏差；逸脱；ずれ",
+     "ex": "Any deviation from the approved process must be logged and reviewed.",
+     "ex_zh": "任何偏离既定工艺的情况都必须记录并复核。",
+     "ex_ja": "承認済み工程からの逸脱はすべて記録し、見直さねばなりません。",
+     "parts": [
+      [
+       "de-",
+       "离开",
+       "離れて"
+      ],
+      [
+       "via",
+       "道路",
+       "道"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞化"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 deviare“离开道路”→ 偏离标准。",
+      "ja": "ラテン deviare「道を外れる」→ 基準からのずれ。"
+     },
+     "forms": [
+      [
+       "deviate (v.)",
+       "偏离",
+       "逸脱する"
+      ],
+      [
+       "standard deviation",
+       "标准差",
+       "標準偏差"
+      ],
+      [
+       "zero deviation",
+       "零偏差",
+       "偏差ゼロ"
+      ]
+     ],
+     "tip": {
+      "zh": "质量体系：process deviation；统计：standard deviation。",
+      "ja": "品質の process deviation と統計の standard deviation。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "it",
+   "title_zh": "主题：信息技术与网络安全",
+   "title_ja": "テーマ：IT・サイバーセキュリティ",
+   "words": [
+    {
+     "w": "software",
+     "pos": "n.",
+     "ipa": "/ˈsɔftwɛr/",
+     "zh": "软件",
+     "ja": "ソフトウェア",
+     "ex": "The accounting software will be updated overnight to fix a billing bug.",
+     "ex_zh": "会计软件将在夜间更新以修复计费漏洞。",
+     "ex_ja": "会計ソフトウェアは請求の不具合修正のため夜間に更新されます。",
+     "parts": [
+      [
+       "soft",
+       "软的",
+       "軟らかい"
+      ],
+      [
+       "ware",
+       "制品；物件",
+       "製品"
+      ]
+     ],
+     "note": {
+      "zh": "相对 hardware 的造词；ware = 物品。",
+      "ja": "hardware に対する造語。ware は製品の意。"
+     },
+     "forms": [
+      [
+       "software update",
+       "软件更新",
+       "ソフト更新"
+      ],
+      [
+       "software license",
+       "软件许可",
+       "ソフトライセンス"
+      ],
+      [
+       "software vendor",
+       "软件供应商",
+       "ソフトベンダー"
+      ]
+     ],
+     "tip": {
+      "zh": "不可数；a piece of software / a software program。",
+      "ja": "不可算。a software とは言いにくい。"
+     }
+    },
+    {
+     "w": "hardware",
+     "pos": "n.",
+     "ipa": "/ˈhɑrdwɛr/",
+     "zh": "硬件；五金件",
+     "ja": "ハードウェア；金物",
+     "ex": "New hardware was installed in the server room during the weekend outage window.",
+     "ex_zh": "在周末停机窗口期间，机房安装了新硬件。",
+     "ex_ja": "週末の停止枠でサーバ室に新しいハードウェアを設置しました。",
+     "parts": [
+      [
+       "hard",
+       "硬的",
+       "硬い"
+      ],
+      [
+       "ware",
+       "制品",
+       "製品"
+      ]
+     ],
+     "note": {
+      "zh": "相对 software；也可指五金。",
+      "ja": "software の対。金物の意もある。"
+     },
+     "forms": [
+      [
+       "computer hardware",
+       "计算机硬件",
+       "コンピュータ機器"
+      ],
+      [
+       "hardware failure",
+       "硬件故障",
+       "ハード故障"
+      ],
+      [
+       "hardware store",
+       "五金店",
+       "金物店"
+      ]
+     ],
+     "tip": {
+      "zh": "IT 与“五金店”两义均可能在 Part 7 出现。",
+      "ja": "ITと金物店の両義に注意。"
+     }
+    },
+    {
+     "w": "firewall",
+     "pos": "n.",
+     "ipa": "/ˈfaɪɚwɔl/",
+     "zh": "防火墙",
+     "ja": "ファイアウォール",
+     "ex": "The IT team tightened firewall rules after detecting unusual login attempts.",
+     "ex_zh": "在发现异常登录尝试后，IT 团队收紧了防火墙规则。",
+     "ex_ja": "不審なログイン試行を検知し、ITチームはファイアウォール規則を厳しくしました。",
+     "parts": [
+      [
+       "fire",
+       "火",
+       "火"
+      ],
+      [
+       "wall",
+       "墙",
+       "壁"
+      ]
+     ],
+     "note": {
+      "zh": "合成词：原指防火隔墙，引申为网络安全屏障。",
+      "ja": "合成語。防火壁から転じてネット防衛。"
+     },
+     "forms": [
+      [
+       "firewall settings",
+       "防火墙设置",
+       "FW設定"
+      ],
+      [
+       "corporate firewall",
+       "企业防火墙",
+       "社内FW"
+      ],
+      [
+       "behind the firewall",
+       "在防火墙内",
+       "FWの内側で"
+      ]
+     ],
+     "tip": {
+      "zh": "安全邮件／通知高频；rules / settings 常搭配。",
+      "ja": "セキュリティ通知で頻出。"
+     }
+    },
+    {
+     "w": "encryption",
+     "pos": "n.",
+     "ipa": "/ɪnˈkrɪpʃən/",
+     "zh": "加密",
+     "ja": "暗号化",
+     "ex": "All customer data must be stored with strong encryption at rest and in transit.",
+     "ex_zh": "所有客户数据在静态与传输中都必须强加密存储。",
+     "ex_ja": "顧客データは保存時・転送時とも強力な暗号化が必須です。",
+     "parts": [
+      [
+       "en-",
+       "使…",
+       "〜にする"
+      ],
+      [
+       "crypt",
+       "隐藏；秘密",
+       "隠す"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞化"
+      ]
+     ],
+     "note": {
+      "zh": "crypt 来自希腊 kryptos（隐藏）；en- 使成为。",
+      "ja": "ギリシア kryptos（隠れた）＋ en-。"
+     },
+     "forms": [
+      [
+       "encrypt (v.)",
+       "加密",
+       "暗号化する"
+      ],
+      [
+       "encrypted (adj.)",
+       "已加密的",
+       "暗号化された"
+      ],
+      [
+       "end-to-end encryption",
+       "端到端加密",
+       "エンドツーエンド暗号"
+      ]
+     ],
+     "tip": {
+      "zh": "隐私政策／IT 安全阅读高频。",
+      "ja": "プライバシー・セキュリティ読解で頻出。"
+     }
+    },
+    {
+     "w": "backup",
+     "pos": "n./adj.",
+     "ipa": "/ˈbækʌp/",
+     "zh": "备份；备用（的）",
+     "ja": "バックアップ；予備の",
+     "ex": "Nightly backups are stored off-site in case the main server fails.",
+     "ex_zh": "夜间备份异地保存，以防主服务器故障。",
+     "ex_ja": "メインサーバ障害に備え、夜間バックアップは外部保管しています。",
+     "parts": [
+      [
+       "back",
+       "背面；支持",
+       "後ろ；支える"
+      ],
+      [
+       "up",
+       "向上；完成",
+       "上へ"
+      ]
+     ],
+     "note": {
+      "zh": "合成词；动词常分写 back up。",
+      "ja": "合成語。動詞は back up と分かち書きが多い。"
+     },
+     "forms": [
+      [
+       "back up (v.)",
+       "备份；支持",
+       "バックアップする"
+      ],
+      [
+       "backup copy",
+       "备份副本",
+       "予備コピー"
+      ],
+      [
+       "backup plan",
+       "备用方案",
+       "代替計画"
+      ]
+     ],
+     "tip": {
+      "zh": "⚠️ 名词／形容词 backup；动词短语 back up。",
+      "ja": "⚠️ 名詞・形容詞は backup、動詞は back up。"
+     }
+    },
+    {
+     "w": "bandwidth",
+     "pos": "n.",
+     "ipa": "/ˈbændwɪdθ/",
+     "zh": "带宽；传输容量；（喻）处理能力",
+     "ja": "帯域幅；回線容量；（比喩）余力",
+     "ex": "Video calls may freeze if office bandwidth is shared by too many users.",
+     "ex_zh": "若过多用户共享办公带宽，视频通话可能卡顿。",
+     "ex_ja": "オフィスの帯域を多数が共有すると、動画通話が止まることがあります。",
+     "parts": [
+      [
+       "band",
+       "频带",
+       "帯"
+      ],
+      [
+       "width",
+       "宽度",
+       "幅"
+      ]
+     ],
+     "note": {
+      "zh": "合成词：频带宽度；商务口语也指“精力／资源余量”。",
+      "ja": "合成語。比喩で「余力」の意も。"
+     },
+     "forms": [
+      [
+       "limited bandwidth",
+       "带宽有限／余力不足",
+       "帯域不足；余力不足"
+      ],
+      [
+       "bandwidth upgrade",
+       "带宽升级",
+       "帯域増強"
+      ],
+      [
+       "enough bandwidth",
+       "足够带宽／余力",
+       "十分な余力"
+      ]
+     ],
+     "tip": {
+      "zh": "IT 本义 + 会议口语 we don't have the bandwidth。",
+      "ja": "IT本義と「余力がない」の比喩の両方が出る。"
+     }
+    },
+    {
+     "w": "outage",
+     "pos": "n.",
+     "ipa": "/ˈaʊtɪdʒ/",
+     "zh": "断供；停电；服务中断",
+     "ja": "停止；停電；障害",
+     "ex": "An unexpected power outage halted packaging for nearly two hours.",
+     "ex_zh": "突发停电使包装作业中断近两小时。",
+     "ex_ja": "突然の停電で梱包作業が約2時間止まりました。",
+     "parts": [],
+     "note": {
+      "zh": "来自 out + 名词后缀 -age；指供应／服务中断，无复杂拉丁词根。",
+      "ja": "out + -age。供給・サービスの停止を指す。"
+     },
+     "forms": [
+      [
+       "power outage",
+       "停电",
+       "停電"
+      ],
+      [
+       "network outage",
+       "网络中断",
+       "回線障害"
+      ],
+      [
+       "scheduled outage",
+       "计划停机",
+       "計画停止"
+      ]
+     ],
+     "tip": {
+      "zh": "与 downtime 近义；通知邮件常用 scheduled outage。",
+      "ja": "downtime に近い。scheduled outage が通知定番。"
+     }
+    },
+    {
+     "w": "deploy",
+     "pos": "v.",
+     "ipa": "/dɪˈplɔɪ/",
+     "zh": "部署；上线；调配",
+     "ja": "展開する；配備する；本番投入する",
+     "ex": "We will deploy the new CRM module to all branches next Monday.",
+     "ex_zh": "下周一我们将把新 CRM 模块部署到全部分支机构。",
+     "ex_ja": "来週月曜に新CRMモジュールを全支店へ展開します。",
+     "parts": [],
+     "note": {
+      "zh": "来自法语 déployer（展开）；英语 IT 指发布上线，不宜硬拆拉丁词根。",
+      "ja": "フランス語 déployer（展開する）由来。ITでは本番投入の意。"
+     },
+     "forms": [
+      [
+       "deployment (n.)",
+       "部署；上线",
+       "展開；デプロイ"
+      ],
+      [
+       "deploy to production",
+       "部署到生产环境",
+       "本番へデプロイする"
+      ],
+      [
+       "rapid deployment",
+       "快速部署",
+       "迅速展開"
+      ]
+     ],
+     "tip": {
+      "zh": "IT 发布／军队调配均用；deployment window 常见。",
+      "ja": "ITの本番投入で頻出。"
+     }
+    },
+    {
+     "w": "malware",
+     "pos": "n.",
+     "ipa": "/ˈmælwɛr/",
+     "zh": "恶意软件",
+     "ja": "マルウェア；悪意のあるソフト",
+     "ex": "Do not open attachments from unknown senders; they may contain malware.",
+     "ex_zh": "请勿打开不明发件人的附件，其中可能含有恶意软件。",
+     "ex_ja": "差出人不明の添付は開かないでください。マルウェアの恐れがあります。",
+     "parts": [
+      [
+       "mal-",
+       "坏的；恶",
+       "悪い"
+      ],
+      [
+       "ware",
+       "软件／制品",
+       "ソフト；製品"
+      ]
+     ],
+     "note": {
+      "zh": "mal-（坏）+ ware；对标 software。",
+      "ja": "mal-（悪い）+ ware。software の対。"
+     },
+     "forms": [
+      [
+       "malware attack",
+       "恶意软件攻击",
+       "マルウェア攻撃"
+      ],
+      [
+       "detect malware",
+       "检测恶意软件",
+       "マルウェアを検出する"
+      ],
+      [
+       "anti-malware",
+       "反恶意软件",
+       "アンチマルウェア"
+      ]
+     ],
+     "tip": {
+      "zh": "安全通知高频；与 virus / ransomware 同类。",
+      "ja": "セキュリティ通知で virus 等と並ぶ。"
+     }
+    },
+    {
+     "w": "phishing",
+     "pos": "n.",
+     "ipa": "/ˈfɪʃɪŋ/",
+     "zh": "网络钓鱼（诈骗）",
+     "ja": "フィッシング（詐欺）",
+     "ex": "The security bulletin warns employees about a new phishing email campaign.",
+     "ex_zh": "安全公告提醒员工警惕新的钓鱼邮件活动。",
+     "ex_ja": "セキュリティ公報は、新たなフィッシングメールへの注意を促しています。",
+     "parts": [],
+     "note": {
+      "zh": "由 fishing 谐音造词（用诱饵“钓”信息）；无拉丁词根。",
+      "ja": "fishing のもじり。ラテン語根はない。"
+     },
+     "forms": [
+      [
+       "phishing email",
+       "钓鱼邮件",
+       "フィッシングメール"
+      ],
+      [
+       "phishing scam",
+       "钓鱼诈骗",
+       "フィッシング詐欺"
+      ],
+      [
+       "anti-phishing",
+       "反钓鱼",
+       "アンチフィッシング"
+      ]
+     ],
+     "tip": {
+      "zh": "公司安全培训／公告必考词。",
+      "ja": "社内セキュリティ研修の定番語。"
+     }
+    },
+    {
+     "w": "authentication",
+     "pos": "n.",
+     "ipa": "/ɔˌθɛntɪˈkeɪʃən/",
+     "zh": "身份验证；认证",
+     "ja": "認証；本人確認",
+     "ex": "Two-factor authentication is required to access the payroll system.",
+     "ex_zh": "访问薪资系统需要双因素身份验证。",
+     "ex_ja": "給与システムへのアクセスには二要素認証が必要です。",
+     "parts": [
+      [
+       "authentic",
+       "真实的；可信的",
+       "真正の"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞化"
+      ]
+     ],
+     "note": {
+      "zh": "来自 authentic（真实可信）← 希腊 authentikos；整词记更稳妥。",
+      "ja": "authentic（真正の）← ギリシア語。語根暗記よりまとめて覚える。"
+     },
+     "forms": [
+      [
+       "authenticate (v.)",
+       "验证；认证",
+       "認証する"
+      ],
+      [
+       "multi-factor authentication",
+       "多因素认证",
+       "多要素認証"
+      ],
+      [
+       "user authentication",
+       "用户认证",
+       "ユーザー認証"
+      ]
+     ],
+     "tip": {
+      "zh": "缩写 MFA / 2FA 常与 authentication 同现。",
+      "ja": "MFA / 2FA と共に出やすい。"
+     }
+    },
+    {
+     "w": "latency",
+     "pos": "n.",
+     "ipa": "/ˈleɪtənsi/",
+     "zh": "延迟；时延",
+     "ja": "遅延；レイテンシ",
+     "ex": "High network latency made the remote desktop session almost unusable.",
+     "ex_zh": "网络延迟过高，使远程桌面几乎无法使用。",
+     "ex_ja": "ネットワーク遅延が高く、リモートデスクトップはほぼ使えませんでした。",
+     "parts": [],
+     "note": {
+      "zh": "源自拉丁 latens（潜伏的）；IT 指信号往返延迟，词根拆分帮助有限。",
+      "ja": "ラテン latens（潜在する）由来。ITでは通信遅延。"
+     },
+     "forms": [
+      [
+       "low latency",
+       "低延迟",
+       "低遅延"
+      ],
+      [
+       "latency issue",
+       "延迟问题",
+       "遅延の問題"
+      ],
+      [
+       "reduce latency",
+       "降低延迟",
+       "遅延を減らす"
+      ]
+     ],
+     "tip": {
+      "zh": "网络／云服务报告高频技术词。",
+      "ja": "ネットワーク・クラウド報告で頻出。"
+     }
+    },
+    {
+     "w": "breach",
+     "pos": "n./v.",
+     "ipa": "/britʃ/",
+     "zh": "违约；泄露；突破；违反",
+     "ja": "違反；侵害；漏洩；破る",
+     "ex": "Customers were notified within 72 hours of the data breach.",
+     "ex_zh": "数据泄露发生后 72 小时内已通知客户。",
+     "ex_ja": "データ漏洩の発生から72時間以内に顧客へ通知しました。",
+     "parts": [],
+     "note": {
+      "zh": "本族词（破口、裂口）；无可靠拉丁词根拆分。",
+      "ja": "ゲルマン系「裂け目」。ラテン語根の分解はない。"
+     },
+     "forms": [
+      [
+       "data breach",
+       "数据泄露",
+       "データ漏洩"
+      ],
+      [
+       "security breach",
+       "安全漏洞／侵扰",
+       "セキュリティ侵害"
+      ],
+      [
+       "breach of contract",
+       "违约",
+       "契約違反"
+      ]
+     ],
+     "tip": {
+      "zh": "data / security breach 安全新闻高频；也指 breach of contract。",
+      "ja": "data breach と breach of contract の両義。"
+     }
+    },
+    {
+     "w": "digitize",
+     "pos": "v.",
+     "ipa": "/ˈdɪdʒɪtaɪz/",
+     "zh": "数字化；电子化",
+     "ja": "デジタル化する；電子化する",
+     "ex": "HR plans to digitize all paper personnel files by the end of the year.",
+     "ex_zh": "人力资源部计划在年底前将全部纸质人事档案数字化。",
+     "ex_ja": "人事部は年末までに紙の人事ファイルをすべてデジタル化する予定です。",
+     "parts": [
+      [
+       "digit",
+       "数字；数位",
+       "数字"
+      ],
+      [
+       "-ize",
+       "使…化",
+       "〜化する"
+      ]
+     ],
+     "note": {
+      "zh": "digit（数字）+ -ize；指转为数字形式。",
+      "ja": "digit + -ize。数字形式にすること。"
+     },
+     "forms": [
+      [
+       "digitization (n.)",
+       "数字化",
+       "デジタル化"
+      ],
+      [
+       "digital (adj.)",
+       "数字的；数码的",
+       "デジタルの"
+      ],
+      [
+       "digitized records",
+       "数字化记录",
+       "電子化された記録"
+      ]
+     ],
+     "tip": {
+      "zh": "办公现代化／无纸化主题常见。",
+      "ja": "ペーパーレス化の話題で頻出。英式亦可 digitise。"
+     }
+    }
+   ]
+  }
+ ]
+}
