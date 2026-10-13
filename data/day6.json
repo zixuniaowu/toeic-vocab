@@ -1,0 +1,2843 @@
+{
+ "day": 6,
+ "date": "2026-10-14",
+ "title_zh": "四大词根 + 房产租赁与医疗保险",
+ "title_ja": "4つの語根＋不動産・賃貸と医療・保険",
+ "intro_zh": "今天掌握 4 个高频词根（vert·vers 转 / clud·clus 关 / rupt 断 / tend·tens 伸），再学房产租赁、物业设施和医疗保险的核心词——强化 Part 5 词形变化（diverse / diversity / diversify）和 Part 7 租房广告、保险通知的阅读。",
+ "intro_ja": "今日は語根 4 つ（vert·vers 回す／clud·clus 閉じる／rupt 壊れる／tend·tens 伸ばす）と、不動産・賃貸、施設管理、医療・保険の重要語を学びます。Part 5 の語形（diverse / diversity / diversify）と、Part 7 の賃貸広告・保険のお知らせの読解を強化します。",
+ "voice": "en-US-AriaNeural",
+ "roots": [
+  {
+   "root": "-vert- / -vers-",
+   "origin": "Latin vertere / versus",
+   "zh": "转；转向",
+   "ja": "回す；向きを変える",
+   "exp_zh": "来自拉丁语 vertere（转；过去分词 versus）。前缀：con-（彻底转 → 转换）、di-（转开 → 改道／多样）、re-（转回 → 颠倒、撤销）、ad-（转向对着 → 不利的）、in- + ad-（没把注意力转过来 → 不小心地）。versatile 来自 versare“反复转动”。⚠️ advertise（Day 2）也同源；但 verify（核实）来自 verus“真实的”，不同源。",
+   "exp_ja": "ラテン語 vertere（回す、過去分詞 versus）から。接頭辞：con-（すっかり回す → 転換）、di-（わきへ向ける → 迂回・多様）、re-（後ろへ回す → 逆転・取り消し）、ad-（向かい合う → 不利な）、in-＋ad-（注意を向けない → うっかり）。versatile は versare「くるくる回す」から。⚠️ advertise（Day 2）も同源だが、verify は verus「真の」由来で別語源。",
+   "examples": [
+    "conversion",
+    "divert",
+    "versatile",
+    "reverse",
+    "diverse",
+    "diversify",
+    "inadvertently",
+    "adverse"
+   ]
+  },
+  {
+   "root": "-clud- / -clus- / -clos-",
+   "origin": "Latin claudere / clausus",
+   "zh": "关闭",
+   "ja": "閉じる",
+   "exp_zh": "来自拉丁语 claudere（关闭；过去分词 clausus），在复合词中变为 -cludere / -clusus，经法语变为 clos(e)。前缀：ex-（关在外 → 排除／独家）、in-（关在内 → 包括）、con-（完全关上 → 结束／结论）、pre-（预先关上 → 阻止）、en-（围在里面 → 附上）。⚠️ disclose / disclosure（Day 2）同源；cloud（云）与之无关。",
+   "exp_ja": "ラテン語 claudere（閉じる、過去分詞 clausus）から。複合語では -cludere / -clusus、フランス語経由で clos(e) に。接頭辞：ex-（締め出す → 除外・独占）、in-（閉じ込める → 含む）、con-（すっかり閉じる → 終える・結論）、pre-（前もって閉ざす → 妨げる）、en-（中に囲う → 同封する）。⚠️ disclose（Day 2）も同源。cloud（雲）は無関係。",
+   "examples": [
+    "exclude",
+    "conclude",
+    "preclude",
+    "exclusive",
+    "inclusive",
+    "enclose",
+    "closure",
+    "conclusive"
+   ]
+  },
+  {
+   "root": "-rupt-",
+   "origin": "Latin rumpere / ruptus",
+   "zh": "破裂；断开",
+   "ja": "壊れる；断ち切る",
+   "exp_zh": "来自拉丁语 rumpere（打破；过去分词 ruptus）。前缀：inter-（从中间断开 → 打断）、dis-（打散 → 扰乱）、ab-（断开离去 → 突然的）、cor-（彻底打坏 → 损坏、腐败）。bankrupt 来自意大利语 banca rotta“破了的长凳”，英语拼写受 ruptus 影响。小知识：route（路线）也来自拉丁语 rupta (via)“开辟出来的路”。",
+   "exp_ja": "ラテン語 rumpere（壊す、過去分詞 ruptus）から。接頭辞：inter-（間で断つ → 中断）、dis-（ばらばらに → 混乱させる）、ab-（断ち切る → 突然の）、cor-（すっかり壊す → 破損・腐敗）。bankrupt はイタリア語 banca rotta「壊れた台」から。豆知識：route（経路）もラテン語 rupta (via)「切り開かれた道」から。",
+   "examples": [
+    "interrupt",
+    "uninterrupted",
+    "disrupt",
+    "disruption",
+    "disruptive",
+    "abrupt",
+    "bankrupt",
+    "corrupt"
+   ]
+  },
+  {
+   "root": "-tend- / -tens- / -tent-",
+   "origin": "Latin tendere / tensus, tentus",
+   "zh": "伸展；朝向",
+   "ja": "伸ばす；向ける",
+   "exp_zh": "来自拉丁语 tendere（伸展、伸向；过去分词 tensus / tentus）。前缀：ex-（向外伸 → 延长／广泛）、in-（伸向 → 打算／集中）、at-（把心伸向 → 留意、周到）、super- + in-（在上面照看 → 主管）。⚠️ Day 1 的 tentative 来自 tentare“尝试”，不属于这个词根；而 tender（投标）同源（法语 tendre“递出”）。",
+   "exp_ja": "ラテン語 tendere（伸ばす・向ける、過去分詞 tensus / tentus）から。接頭辞：ex-（外へ伸ばす → 延長・広範）、in-（〜へ向ける → 意図・集中）、at-（心を向ける → 気配り）、super-＋in-（上から目を配る → 管理人）。⚠️ Day 1 の tentative は tentare「試す」由来でこの語根ではない。tender（入札）は同源（フランス語 tendre「差し出す」）。",
+   "examples": [
+    "extend",
+    "extension",
+    "extensive",
+    "intend",
+    "intensive",
+    "attentive",
+    "superintendent",
+    "tendency"
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "vert",
+   "title_zh": "词根 -vert- / -vers-：转",
+   "title_ja": "語根 -vert- / -vers-：回す",
+   "words": [
+    {
+     "w": "conversion",
+     "pos": "n.",
+     "ipa": "/kənˈvɝʒən/",
+     "zh": "转换；转变；（营销）转化",
+     "ja": "転換；変換；（マーケ）コンバージョン",
+     "ex": "The conversion of the old warehouse into office space will be completed in March.",
+     "ex_zh": "旧仓库改建为办公空间的工程将于三月完工。",
+     "ex_ja": "古い倉庫をオフィススペースに改装する工事は3月に完了します。",
+     "parts": [
+      [
+       "con-",
+       "完全；一起",
+       "完全に・共に"
+      ],
+      [
+       "vers",
+       "转",
+       "回す・向ける"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 conversio，来自 convertere“彻底转过来、改变”。",
+      "ja": "ラテン語 conversio（convertere「すっかり向きを変える」）から。"
+     },
+     "forms": [
+      [
+       "convert (v.)",
+       "转换；改装",
+       "変換する；改装する"
+      ],
+      [
+       "currency conversion",
+       "货币兑换",
+       "通貨両替"
+      ],
+      [
+       "conversion rate",
+       "转化率；兑换率",
+       "成約率；換算レート"
+      ]
+     ],
+     "tip": {
+      "zh": "convert 作动词重音在后 /kənˈvɝt/，作名词（皈依者）重音在前 /ˈkɑnvɝt/；TOEIC 多用动词和 conversion。",
+      "ja": "convert は動詞 /kənˈvɝt/、名詞（改宗者）は /ˈkɑnvɝt/。TOEIC では動詞と conversion が中心。"
+     }
+    },
+    {
+     "w": "divert",
+     "pos": "v.",
+     "ipa": "/dɪˈvɝt/",
+     "zh": "使转向；改道；转移（注意力、资金）",
+     "ja": "迂回させる；転用する；（注意を）そらす",
+     "ex": "Traffic will be diverted to Elm Street while the bridge is being repaired.",
+     "ex_zh": "桥梁维修期间，车辆将改道至榆树街。",
+     "ex_ja": "橋の補修中、車両はエルム通りへ迂回させられます。",
+     "parts": [
+      [
+       "di-",
+       "分开；离开（= dis-）",
+       "離れて"
+      ],
+      [
+       "vert",
+       "转",
+       "回す・向ける"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 divertere“转向一边”。",
+      "ja": "ラテン語 divertere「わきへ向ける」。"
+     },
+     "forms": [
+      [
+       "diversion (n.)",
+       "改道；绕行路线；消遣",
+       "迂回路；気晴らし"
+      ],
+      [
+       "divert funds",
+       "挪用／调拨资金",
+       "資金を振り向ける"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 4 交通广播高频：Traffic is being diverted… 也可读 /daɪˈvɝt/。",
+      "ja": "Part 4 の交通情報で頻出。/daɪˈvɝt/ とも発音。"
+     }
+    },
+    {
+     "w": "versatile",
+     "pos": "adj.",
+     "ipa": "/ˈvɝsətəl/",
+     "zh": "多功能的；多才多艺的；用途广的",
+     "ja": "多用途の；多才な",
+     "ex": "This versatile printer can scan, copy, and fax documents.",
+     "ex_zh": "这台多功能打印机可以扫描、复印和传真文件。",
+     "ex_ja": "この多機能プリンターはスキャン、コピー、ファクスができます。",
+     "parts": [
+      [
+       "vers",
+       "转",
+       "回す・向ける"
+      ],
+      [
+       "-atile",
+       "形容词后缀（易于…的）",
+       "〜しやすい"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 versatilis“能转动的、灵活的”，来自 versare（vertere 的反复动词）。",
+      "ja": "ラテン語 versatilis「回転する・融通のきく」（versare＜vertere）。"
+     },
+     "forms": [
+      [
+       "versatility (n.)",
+       "多功能性；多才多艺",
+       "多用途性；多才さ"
+      ],
+      [
+       "a versatile employee",
+       "多面手员工",
+       "何でもこなせる社員"
+      ]
+     ],
+     "tip": {
+      "zh": "形容产品“一机多用”或人才“能胜任多种工作”。",
+      "ja": "製品の「多機能」にも人の「多才」にも使う。"
+     }
+    },
+    {
+     "w": "reverse",
+     "pos": "v./adj./n.",
+     "ipa": "/rɪˈvɝs/",
+     "zh": "撤销；颠倒；相反的；背面",
+     "ja": "覆す；逆にする；逆の；裏面",
+     "ex": "The board voted to reverse its earlier decision to close the branch.",
+     "ex_zh": "董事会投票推翻了先前关闭该分店的决定。",
+     "ex_ja": "取締役会は支店閉鎖という以前の決定を覆すことを可決しました。",
+     "parts": [
+      [
+       "re-",
+       "向后",
+       "後ろへ"
+      ],
+      [
+       "vers",
+       "转",
+       "回す・向ける"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 reversus，revertere“转回去”的过去分词。",
+      "ja": "ラテン語 reversus（revertere「後ろへ向き直る」の過去分詞）。"
+     },
+     "forms": [
+      [
+       "reversal (n.)",
+       "逆转；撤销",
+       "逆転；取り消し"
+      ],
+      [
+       "in reverse order",
+       "按相反顺序",
+       "逆の順番で"
+      ],
+      [
+       "on the reverse side",
+       "在背面",
+       "裏面に"
+      ]
+     ],
+     "tip": {
+      "zh": "名词、动词、形容词重音都在第二音节，不变。see the reverse side = 见背面。",
+      "ja": "品詞が変わっても強勢は第2音節で同じ。see the reverse side＝裏面参照。"
+     }
+    },
+    {
+     "w": "diverse",
+     "pos": "adj.",
+     "ipa": "/dɪˈvɝs/",
+     "zh": "多样的；各种各样的",
+     "ja": "多様な；さまざまな",
+     "ex": "Our company serves a diverse range of clients, from startups to government agencies.",
+     "ex_zh": "本公司服务的客户多种多样，从初创企业到政府机构。",
+     "ex_ja": "当社はスタートアップから政府機関まで、多様な顧客にサービスを提供しています。",
+     "parts": [
+      [
+       "di-",
+       "分开（= dis-）",
+       "離れて"
+      ],
+      [
+       "vers",
+       "转",
+       "回す・向ける"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 diversus“转向不同方向的”，divertere 的过去分词。",
+      "ja": "ラテン語 diversus「別々の方向へ向いた」（divertere の過去分詞）。"
+     },
+     "forms": [
+      [
+       "diversity (n.)",
+       "多样性",
+       "多様性"
+      ],
+      [
+       "a diverse workforce",
+       "多元化的员工队伍",
+       "多様な人材"
+      ]
+     ],
+     "tip": {
+      "zh": "也读 /daɪˈvɝs/。a diverse range of… 是 Part 5 常见搭配。",
+      "ja": "/daɪˈvɝs/ とも。a diverse range of… は Part 5 頻出。"
+     }
+    },
+    {
+     "w": "diversify",
+     "pos": "v.",
+     "ipa": "/dɪˈvɝsəˌfaɪ/",
+     "zh": "使多样化；扩大（业务）范围",
+     "ja": "多様化する；多角化する",
+     "ex": "The firm plans to diversify its product line to reduce its dependence on a single market.",
+     "ex_zh": "该公司计划扩充产品线，以减少对单一市场的依赖。",
+     "ex_ja": "同社は単一市場への依存を減らすため、製品ラインを多様化する計画です。",
+     "parts": [
+      [
+       "di-",
+       "分开（= dis-）",
+       "離れて"
+      ],
+      [
+       "vers",
+       "转",
+       "回す・向ける"
+      ],
+      [
+       "-ify",
+       "使成为",
+       "〜にする"
+      ]
+     ],
+     "note": {
+      "zh": "中世纪拉丁语 diversificare，diverse + -ify“使变得多样”。",
+      "ja": "中世ラテン語 diversificare（diverse＋-ify「多様にする」）。"
+     },
+     "forms": [
+      [
+       "diversification (n.)",
+       "多元化；多样化经营",
+       "多角化"
+      ],
+      [
+       "diversify investments",
+       "分散投资",
+       "投資を分散する"
+      ]
+     ],
+     "tip": {
+      "zh": "词形题：diverse (adj.) / diversity (n.) / diversify (v.) / diversification (n.)。",
+      "ja": "語形問題：diverse / diversity / diversify / diversification を区別。"
+     }
+    },
+    {
+     "w": "inadvertently",
+     "pos": "adv.",
+     "ipa": "/ˌɪnədˈvɝtəntli/",
+     "zh": "不小心地；无意中",
+     "ja": "うっかり；不注意で",
+     "ex": "I inadvertently deleted the file, so could you please send it to me again?",
+     "ex_zh": "我不小心把文件删了，能请您再发一次吗？",
+     "ex_ja": "うっかりファイルを削除してしまったので、もう一度送っていただけますか。",
+     "parts": [
+      [
+       "in-",
+       "不",
+       "〜でない"
+      ],
+      [
+       "ad-",
+       "朝向",
+       "〜へ"
+      ],
+      [
+       "vert",
+       "转",
+       "回す・向ける"
+      ],
+      [
+       "-ent",
+       "形容词后缀",
+       "形容詞を作る"
+      ],
+      [
+       "-ly",
+       "副词后缀",
+       "副詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "advert“把注意力转向”（拉丁语 advertere）→ inadvertent“没注意到的”（17 世纪英语造词）。",
+      "ja": "advert「注意を向ける」（ラテン語 advertere）→ inadvertent「注意を向けない」。"
+     },
+     "forms": [
+      [
+       "inadvertent (adj.)",
+       "无意的；疏忽的",
+       "不注意による"
+      ],
+      [
+       "an inadvertent error",
+       "无心之失",
+       "うっかりミス"
+      ]
+     ],
+     "tip": {
+      "zh": "道歉邮件常用；同义 accidentally / by mistake。",
+      "ja": "おわびメールで頻出。accidentally / by mistake と同義。"
+     }
+    },
+    {
+     "w": "adverse",
+     "pos": "adj.",
+     "ipa": "/ædˈvɝs/",
+     "zh": "不利的；有害的；相反的",
+     "ja": "不利な；悪い；有害な",
+     "ex": "The outdoor event may be canceled in the event of adverse weather conditions.",
+     "ex_zh": "如遇恶劣天气，户外活动可能取消。",
+     "ex_ja": "悪天候の場合、屋外イベントは中止になることがあります。",
+     "parts": [
+      [
+       "ad-",
+       "朝向；对着",
+       "〜に向かって"
+      ],
+      [
+       "vers",
+       "转",
+       "回す・向ける"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 adversus“转过来对着的、敌对的”。",
+      "ja": "ラテン語 adversus「向かい合った・敵対する」。"
+     },
+     "forms": [
+      [
+       "adversely (adv.)",
+       "不利地",
+       "不利に"
+      ],
+      [
+       "adverse effect",
+       "不良影响；副作用",
+       "悪影響；副作用"
+      ],
+      [
+       "adversity (n.)",
+       "逆境",
+       "逆境"
+      ]
+     ],
+     "tip": {
+      "zh": "也读 /ˈædvɝs/（重音在前）。adverse weather = 恶劣天气，与 inclement weather 同义。",
+      "ja": "/ˈædvɝs/（前に強勢）とも。adverse weather＝inclement weather（悪天候）。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "clud",
+   "title_zh": "词根 -clud- / -clus- / -clos-：关闭",
+   "title_ja": "語根 -clud- / -clus- / -clos-：閉じる",
+   "words": [
+    {
+     "w": "exclude",
+     "pos": "v.",
+     "ipa": "/ɪkˈsklud/",
+     "zh": "排除；不包括",
+     "ja": "除外する；含めない",
+     "ex": "The quoted price excludes shipping and handling charges.",
+     "ex_zh": "所报价格不含运费和手续费。",
+     "ex_ja": "見積価格には送料・手数料は含まれていません。",
+     "parts": [
+      [
+       "ex-",
+       "向外",
+       "外へ"
+      ],
+      [
+       "clud",
+       "关闭",
+       "閉じる"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 excludere“关在外面”。",
+      "ja": "ラテン語 excludere「締め出す」。"
+     },
+     "forms": [
+      [
+       "exclusion (n.)",
+       "排除",
+       "除外"
+      ],
+      [
+       "excluding (prep.)",
+       "不包括",
+       "〜を除いて"
+      ]
+     ],
+     "tip": {
+      "zh": "报价、保险条款常见：excluding tax（不含税）。",
+      "ja": "見積・保険の文面で頻出：excluding tax（税抜き）。"
+     },
+     "hl": "excludes"
+    },
+    {
+     "w": "conclude",
+     "pos": "v.",
+     "ipa": "/kənˈklud/",
+     "zh": "结束；得出结论；缔结（协议）",
+     "ja": "終える；結論づける；締結する",
+     "ex": "The conference will conclude with a reception in the main hall.",
+     "ex_zh": "会议将以主会场的招待酒会结束。",
+     "ex_ja": "会議はメインホールでのレセプションで締めくくられます。",
+     "parts": [
+      [
+       "con-",
+       "完全；一起",
+       "完全に"
+      ],
+      [
+       "clud",
+       "关闭",
+       "閉じる"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 concludere“完全关上 → 结束、推断”。",
+      "ja": "ラテン語 concludere「すっかり閉じる → 終える・推論する」。"
+     },
+     "forms": [
+      [
+       "conclusion (n.)",
+       "结论；结束",
+       "結論；終わり"
+      ],
+      [
+       "in conclusion",
+       "总之",
+       "結論として"
+      ],
+      [
+       "conclude an agreement",
+       "达成协议",
+       "契約を締結する"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 3/4 设问：What does the speaker conclude?（说话人得出什么结论？）",
+      "ja": "Part 3/4 の設問 What does the speaker conclude? に注意。"
+     }
+    },
+    {
+     "w": "preclude",
+     "pos": "v.",
+     "ipa": "/prɪˈklud/",
+     "zh": "妨碍；排除…的可能",
+     "ja": "妨げる；不可能にする",
+     "ex": "A prior commitment precludes me from attending Thursday's meeting.",
+     "ex_zh": "因为有先前的安排，我无法出席周四的会议。",
+     "ex_ja": "先約があるため、木曜の会議には出席できません。",
+     "parts": [
+      [
+       "pre-",
+       "预先",
+       "前もって"
+      ],
+      [
+       "clud",
+       "关闭",
+       "閉じる"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 praecludere“预先关闭、堵住”。",
+      "ja": "ラテン語 praecludere「前もって閉ざす」。"
+     },
+     "forms": [
+      [
+       "preclude A from doing",
+       "使 A 无法做…",
+       "A が〜するのを妨げる"
+      ],
+      [
+       "preclusion (n.)",
+       "排除；阻止",
+       "排除"
+      ]
+     ],
+     "tip": {
+      "zh": "结构同 prevent A from doing，Part 5 介词 from 是考点。",
+      "ja": "prevent A from doing と同じ形。Part 5 で from が問われる。"
+     },
+     "hl": "precludes"
+    },
+    {
+     "w": "exclusive",
+     "pos": "adj.",
+     "ipa": "/ɪkˈsklusɪv/",
+     "zh": "独家的；专用的；排他的",
+     "ja": "独占的；限定の；専用の",
+     "ex": "Members receive exclusive access to our online seminars.",
+     "ex_zh": "会员可独家参加我们的在线研讨会。",
+     "ex_ja": "会員はオンラインセミナーに限定でアクセスできます。",
+     "parts": [
+      [
+       "ex-",
+       "向外",
+       "外へ"
+      ],
+      [
+       "clus",
+       "关闭",
+       "閉じる"
+      ],
+      [
+       "-ive",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "中世纪拉丁语 exclusivus，来自 excludere“关在外面”。",
+      "ja": "中世ラテン語 exclusivus（excludere「締め出す」）から。"
+     },
+     "forms": [
+      [
+       "exclusively (adv.)",
+       "专门地；仅仅",
+       "もっぱら；独占的に"
+      ],
+      [
+       "exclusive offer",
+       "独家优惠",
+       "限定特典"
+      ],
+      [
+       "exclusive rights",
+       "独家权利",
+       "独占権"
+      ]
+     ],
+     "tip": {
+      "zh": "广告文高频：exclusive discount / exclusively for members。",
+      "ja": "広告で頻出：exclusive discount / exclusively for members。"
+     }
+    },
+    {
+     "w": "inclusive",
+     "pos": "adj.",
+     "ipa": "/ɪnˈklusɪv/",
+     "zh": "包括在内的；包容的",
+     "ja": "含めた；包括的な",
+     "ex": "The registration fee is inclusive of lunch and all workshop materials.",
+     "ex_zh": "报名费包括午餐和所有研讨会资料。",
+     "ex_ja": "登録料には昼食とワークショップの全資料が含まれます。",
+     "parts": [
+      [
+       "in-",
+       "向内",
+       "中へ"
+      ],
+      [
+       "clus",
+       "关闭",
+       "閉じる"
+      ],
+      [
+       "-ive",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "来自拉丁语 includere“关在里面”的过去分词 inclusus。",
+      "ja": "ラテン語 includere「中に閉じ込める」の過去分詞 inclusus から。"
+     },
+     "forms": [
+      [
+       "inclusive of …",
+       "包括…",
+       "〜込みで"
+      ],
+      [
+       "all-inclusive",
+       "全包的",
+       "すべて込みの"
+      ],
+      [
+       "Monday to Friday inclusive",
+       "周一至周五（含首尾）",
+       "月〜金（両日含む）"
+      ]
+     ],
+     "tip": {
+      "zh": "inclusive of tax = 含税；反义 exclusive of tax = 不含税。",
+      "ja": "inclusive of tax＝税込み、exclusive of tax＝税抜き。"
+     }
+    },
+    {
+     "w": "enclose",
+     "pos": "v.",
+     "ipa": "/ɪnˈkloʊz/",
+     "zh": "随信附上；围住",
+     "ja": "同封する；囲む",
+     "ex": "Please find enclosed a copy of the signed agreement.",
+     "ex_zh": "随信附上已签署协议的副本，请查收。",
+     "ex_ja": "署名済み契約書の写しを同封いたしますので、ご確認ください。",
+     "parts": [
+      [
+       "en-",
+       "在里面",
+       "中に"
+      ],
+      [
+       "close",
+       "关闭（= clos）",
+       "閉じる"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 enclos，来自拉丁语 includere“关在里面”。",
+      "ja": "古フランス語 enclos（ラテン語 includere「閉じ込める」）から。"
+     },
+     "forms": [
+      [
+       "enclosure (n.)",
+       "附件；围场",
+       "同封物；囲い地"
+      ],
+      [
+       "enclosed (adj.)",
+       "随附的",
+       "同封の"
+      ]
+     ],
+     "tip": {
+      "zh": "商务信函套话：Please find enclosed… / Enclosed is…；s 读 /z/。",
+      "ja": "ビジネスレターの定型：Please find enclosed…。s は /z/。"
+     },
+     "hl": "enclosed"
+    },
+    {
+     "w": "closure",
+     "pos": "n.",
+     "ipa": "/ˈkloʊʒɚ/",
+     "zh": "关闭；封闭；停业",
+     "ja": "閉鎖；休業",
+     "ex": "The temporary closure of the parking garage will begin on Monday.",
+     "ex_zh": "停车楼将于周一开始临时关闭。",
+     "ex_ja": "立体駐車場の一時閉鎖は月曜日から始まります。",
+     "parts": [
+      [
+       "clos",
+       "关闭",
+       "閉じる"
+      ],
+      [
+       "-ure",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 closure，来自晚期拉丁语 clausura，源自 claudere“关闭”。",
+      "ja": "古フランス語 closure（後期ラテン語 clausura＜claudere「閉じる」）。"
+     },
+     "forms": [
+      [
+       "road closure",
+       "道路封闭",
+       "道路閉鎖"
+      ],
+      [
+       "plant closure",
+       "工厂关闭",
+       "工場閉鎖"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 4 通知高频：due to the closure of…；注意读 /ˈkloʊʒɚ/。",
+      "ja": "Part 4 のお知らせで頻出：due to the closure of…。"
+     }
+    },
+    {
+     "w": "conclusive",
+     "pos": "adj.",
+     "ipa": "/kənˈklusɪv/",
+     "zh": "决定性的；确凿的",
+     "ja": "決定的な；確実な",
+     "ex": "The survey results provide conclusive evidence that customers prefer the new design.",
+     "ex_zh": "调查结果提供了确凿证据，表明顾客更喜欢新设计。",
+     "ex_ja": "調査結果は、顧客が新デザインを好むという決定的な証拠を示しています。",
+     "parts": [
+      [
+       "con-",
+       "完全",
+       "完全に"
+      ],
+      [
+       "clus",
+       "关闭",
+       "閉じる"
+      ],
+      [
+       "-ive",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "晚期拉丁语 conclusivus，来自 concludere“结束、推断”。",
+      "ja": "後期ラテン語 conclusivus（concludere「結論づける」）から。"
+     },
+     "forms": [
+      [
+       "conclusively (adv.)",
+       "决定性地",
+       "決定的に"
+      ],
+      [
+       "inconclusive (adj.)",
+       "无定论的",
+       "決定的でない"
+      ]
+     ],
+     "tip": {
+      "zh": "词形题：conclude (v.) / conclusion (n.) / conclusive (adj.)。",
+      "ja": "語形問題：conclude / conclusion / conclusive。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "rupt",
+   "title_zh": "词根 -rupt-：破裂、断开",
+   "title_ja": "語根 -rupt-：壊れる・断ち切る",
+   "words": [
+    {
+     "w": "interrupt",
+     "pos": "v.",
+     "ipa": "/ˌɪntɚˈrʌpt/",
+     "zh": "打断；中断",
+     "ja": "中断する；邪魔をする",
+     "ex": "Sorry to interrupt, but the client is waiting on line two.",
+     "ex_zh": "抱歉打断一下，客户正在二号线等着。",
+     "ex_ja": "お話し中すみません、お客様が2番でお待ちです。",
+     "parts": [
+      [
+       "inter-",
+       "在…之间",
+       "間に"
+      ],
+      [
+       "rupt",
+       "破裂；断开",
+       "壊れる・破る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 interrumpere“从中间打断”。",
+      "ja": "ラテン語 interrumpere「間で断ち切る」。"
+     },
+     "forms": [
+      [
+       "interruption (n.)",
+       "中断；打扰",
+       "中断；妨げ"
+      ],
+      [
+       "service interruption",
+       "服务中断",
+       "サービス停止"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 2/3 口语：Sorry to interrupt, but…（抱歉打扰一下……）",
+      "ja": "Part 2/3 の会話：Sorry to interrupt, but…。"
+     }
+    },
+    {
+     "w": "uninterrupted",
+     "pos": "adj.",
+     "ipa": "/ˌʌnɪntɚˈrʌptɪd/",
+     "zh": "不间断的；连续的",
+     "ja": "途切れない；連続した",
+     "ex": "The backup generator ensures uninterrupted power during storms.",
+     "ex_zh": "备用发电机确保暴风雨期间不断电。",
+     "ex_ja": "予備発電機により、嵐の間も途切れなく電力が供給されます。",
+     "parts": [
+      [
+       "un-",
+       "不",
+       "〜でない"
+      ],
+      [
+       "inter-",
+       "在…之间",
+       "間に"
+      ],
+      [
+       "rupt",
+       "破裂；断开",
+       "壊れる・破る"
+      ],
+      [
+       "-ed",
+       "形容词（过去分词）后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "un- + interrupted（interrupt 的过去分词）。",
+      "ja": "un-＋interrupted（interrupt の過去分詞）。"
+     },
+     "forms": [
+      [
+       "uninterrupted service",
+       "不间断服务",
+       "途切れないサービス"
+      ],
+      [
+       "uninterrupted view",
+       "无遮挡的景观",
+       "さえぎるもののない眺め"
+      ]
+     ],
+     "tip": {
+      "zh": "房产广告：uninterrupted views of the harbor（港湾景色一览无遗）。",
+      "ja": "不動産広告の uninterrupted views（眺望良好）も頻出。"
+     }
+    },
+    {
+     "w": "disrupt",
+     "pos": "v.",
+     "ipa": "/dɪsˈrʌpt/",
+     "zh": "扰乱；使中断",
+     "ja": "混乱させる；妨げる",
+     "ex": "The snowstorm disrupted train services across the region.",
+     "ex_zh": "暴风雪扰乱了整个地区的火车运行。",
+     "ex_ja": "吹雪で地域全体の列車運行が乱れました。",
+     "parts": [
+      [
+       "dis-",
+       "分开",
+       "ばらばらに"
+      ],
+      [
+       "rupt",
+       "破裂；断开",
+       "壊れる・破る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 disrumpere / dirumpere“打碎、破开”（过去分词 disruptus）。",
+      "ja": "ラテン語 disrumpere「ばらばらに壊す」（過去分詞 disruptus）。"
+     },
+     "forms": [
+      [
+       "disruption (n.)",
+       "中断；混乱",
+       "混乱；中断"
+      ],
+      [
+       "disruptive (adj.)",
+       "破坏性的；扰乱的",
+       "混乱を招く"
+      ]
+     ],
+     "tip": {
+      "zh": "交通、物流通知高频：be disrupted by…",
+      "ja": "交通・物流のお知らせで頻出：be disrupted by…。"
+     },
+     "hl": "disrupted"
+    },
+    {
+     "w": "disruption",
+     "pos": "n.",
+     "ipa": "/dɪsˈrʌpʃən/",
+     "zh": "中断；混乱；扰乱",
+     "ja": "混乱；中断；途絶",
+     "ex": "We apologize for any disruption caused by the ongoing construction work.",
+     "ex_zh": "对于正在进行的施工所造成的不便，我们深表歉意。",
+     "ex_ja": "工事に伴うご迷惑をおわびいたします。",
+     "parts": [
+      [
+       "dis-",
+       "分开",
+       "ばらばらに"
+      ],
+      [
+       "rupt",
+       "破裂；断开",
+       "壊れる・破る"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 disruptio，来自 disrumpere“打碎”。",
+      "ja": "ラテン語 disruptio（disrumpere「壊す」）から。"
+     },
+     "forms": [
+      [
+       "minimize disruption",
+       "把干扰降到最低",
+       "混乱を最小限にする"
+      ],
+      [
+       "supply chain disruption",
+       "供应链中断",
+       "サプライチェーンの途絶"
+      ]
+     ],
+     "tip": {
+      "zh": "致歉套话：We apologize for any disruption / inconvenience.",
+      "ja": "おわびの定型：We apologize for any disruption."
+     }
+    },
+    {
+     "w": "disruptive",
+     "pos": "adj.",
+     "ipa": "/dɪsˈrʌptɪv/",
+     "zh": "破坏性的；扰乱的；颠覆性的",
+     "ja": "混乱を招く；破壊的な",
+     "ex": "Noisy repairs can be disruptive, so they will be scheduled after business hours.",
+     "ex_zh": "嘈杂的维修会干扰工作，因此将安排在下班后进行。",
+     "ex_ja": "騒がしい修理は業務の妨げになるため、営業時間後に予定されます。",
+     "parts": [
+      [
+       "dis-",
+       "分开",
+       "ばらばらに"
+      ],
+      [
+       "rupt",
+       "破裂；断开",
+       "壊れる・破る"
+      ],
+      [
+       "-ive",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "disrupt + -ive（形容词后缀）。",
+      "ja": "disrupt＋-ive（形容詞語尾）。"
+     },
+     "forms": [
+      [
+       "disruptive technology",
+       "颠覆性技术",
+       "破壊的技術"
+      ],
+      [
+       "less disruptive",
+       "干扰更小",
+       "支障が少ない"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5 词形：disrupt (v.) / disruption (n.) / disruptive (adj.)。",
+      "ja": "Part 5 語形：disrupt / disruption / disruptive。"
+     }
+    },
+    {
+     "w": "abrupt",
+     "pos": "adj.",
+     "ipa": "/əˈbrʌpt/",
+     "zh": "突然的；唐突的",
+     "ja": "突然の；ぶっきらぼうな",
+     "ex": "The abrupt change in the schedule confused many of the participants.",
+     "ex_zh": "日程的突然变更让许多参加者感到困惑。",
+     "ex_ja": "スケジュールの突然の変更に、多くの参加者が戸惑いました。",
+     "parts": [
+      [
+       "ab-",
+       "离开",
+       "離れて"
+      ],
+      [
+       "rupt",
+       "破裂；断开",
+       "壊れる・破る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 abruptus“断开的、陡峭的”，abrumpere 的过去分词。",
+      "ja": "ラテン語 abruptus「断ち切られた・切り立った」（abrumpere の過去分詞）。"
+     },
+     "forms": [
+      [
+       "abruptly (adv.)",
+       "突然地",
+       "突然に"
+      ],
+      [
+       "come to an abrupt end",
+       "戛然而止",
+       "突然終わる"
+      ]
+     ],
+     "tip": {
+      "zh": "同义 sudden；abruptly 常修饰 end / stop / change。",
+      "ja": "sudden と同義。abruptly は end / stop / change と相性がよい。"
+     }
+    },
+    {
+     "w": "bankrupt",
+     "pos": "adj./v.",
+     "ipa": "/ˈbæŋkrʌpt/",
+     "zh": "破产的；使破产",
+     "ja": "破産した；破産させる",
+     "ex": "The supplier went bankrupt, so we had to find a new vendor quickly.",
+     "ex_zh": "供应商破产了，所以我们不得不尽快找新的卖家。",
+     "ex_ja": "仕入れ先が倒産したので、急いで新しい業者を探さなければなりませんでした。",
+     "parts": [
+      [
+       "bank",
+       "长凳；钱庄柜台",
+       "台；銀行"
+      ],
+      [
+       "rupt",
+       "破裂；断开",
+       "壊れる・破る"
+      ]
+     ],
+     "note": {
+      "zh": "来自意大利语 banca rotta“破了的（钱商）长凳”；英语拼写受拉丁语 ruptus“破裂”影响改为 -rupt。",
+      "ja": "イタリア語 banca rotta「壊れた（両替商の）台」から。英語の綴りはラテン語 ruptus の影響で -rupt に。"
+     },
+     "forms": [
+      [
+       "bankruptcy (n.)",
+       "破产",
+       "破産"
+      ],
+      [
+       "go bankrupt",
+       "破产",
+       "倒産する"
+      ],
+      [
+       "file for bankruptcy",
+       "申请破产",
+       "破産申請する"
+      ]
+     ],
+     "tip": {
+      "zh": "go bankrupt = go out of business（倒闭）。",
+      "ja": "go bankrupt は go out of business（廃業）と近い意味。"
+     }
+    },
+    {
+     "w": "corrupt",
+     "pos": "adj./v.",
+     "ipa": "/kəˈrʌpt/",
+     "zh": "（文件）损坏的；腐败的；损坏",
+     "ja": "（データが）破損した；腐敗した；破損させる",
+     "ex": "The attachment appears to be corrupted, so please resend it as a PDF.",
+     "ex_zh": "附件似乎已损坏，请以 PDF 格式重新发送。",
+     "ex_ja": "添付ファイルが破損しているようなので、PDF で再送してください。",
+     "parts": [
+      [
+       "cor-",
+       "完全（= com-）",
+       "完全に"
+      ],
+      [
+       "rupt",
+       "破裂；断开",
+       "壊れる・破る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 corruptus，corrumpere“彻底破坏、败坏”的过去分词。",
+      "ja": "ラテン語 corruptus（corrumpere「すっかり壊す・堕落させる」の過去分詞）。"
+     },
+     "forms": [
+      [
+       "corrupted file",
+       "损坏的文件",
+       "破損したファイル"
+      ],
+      [
+       "corruption (n.)",
+       "腐败；（数据）损坏",
+       "汚職；データ破損"
+      ]
+     ],
+     "tip": {
+      "zh": "形容词、动词同形同重音。IT 邮件里 corrupted = 损坏，不是“腐败”。",
+      "ja": "形容詞・動詞とも同じ強勢。IT の文脈では「破損」。"
+     },
+     "hl": "corrupted"
+    }
+   ]
+  },
+  {
+   "id": "tend",
+   "title_zh": "词根 -tend- / -tens- / -tent-：伸展",
+   "title_ja": "語根 -tend- / -tens- / -tent-：伸ばす",
+   "words": [
+    {
+     "w": "extend",
+     "pos": "v.",
+     "ipa": "/ɪkˈstɛnd/",
+     "zh": "延长；扩大；致以（邀请、谢意）",
+     "ja": "延長する；広げる；（招待・感謝を）述べる",
+     "ex": "The store will extend its opening hours during the holiday season.",
+     "ex_zh": "节日期间商店将延长营业时间。",
+     "ex_ja": "ホリデーシーズン中、店舗は営業時間を延長します。",
+     "parts": [
+      [
+       "ex-",
+       "向外",
+       "外へ"
+      ],
+      [
+       "tend",
+       "伸展；朝向",
+       "伸ばす・向ける"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 extendere“向外伸展”。",
+      "ja": "ラテン語 extendere「外へ伸ばす」。"
+     },
+     "forms": [
+      [
+       "extend a deadline",
+       "延长截止日期",
+       "締め切りを延ばす"
+      ],
+      [
+       "extend an invitation",
+       "发出邀请",
+       "招待する"
+      ],
+      [
+       "extended warranty",
+       "延长保修",
+       "延長保証"
+      ]
+     ],
+     "tip": {
+      "zh": "extend 后可接“谢意／邀请”：I'd like to extend my thanks to…",
+      "ja": "extend は感謝・招待にも：I'd like to extend my thanks to…。"
+     }
+    },
+    {
+     "w": "extension",
+     "pos": "n.",
+     "ipa": "/ɪkˈstɛnʃən/",
+     "zh": "延期；延长；（电话）分机；扩建",
+     "ja": "延長；（電話の）内線；増築",
+     "ex": "For technical support, please call extension 214.",
+     "ex_zh": "如需技术支持，请拨分机 214。",
+     "ex_ja": "技術サポートは内線 214 にお電話ください。",
+     "parts": [
+      [
+       "ex-",
+       "向外",
+       "外へ"
+      ],
+      [
+       "tens",
+       "伸展",
+       "伸ばす"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 extensio，来自 extendere（过去分词 extensus）。",
+      "ja": "ラテン語 extensio（extendere、過去分詞 extensus）から。"
+     },
+     "forms": [
+      [
+       "deadline extension",
+       "截止日期延期",
+       "締め切り延長"
+      ],
+      [
+       "request an extension",
+       "申请延期",
+       "延長を申請する"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 4 留言常见：call me at extension …（分机号）。",
+      "ja": "Part 4 の留守電で頻出：extension＝内線番号。"
+     }
+    },
+    {
+     "w": "extensive",
+     "pos": "adj.",
+     "ipa": "/ɪkˈstɛnsɪv/",
+     "zh": "广泛的；大量的；大规模的",
+     "ja": "広範な；大規模な",
+     "ex": "Applicants should have extensive experience in project management.",
+     "ex_zh": "应聘者应具有丰富的项目管理经验。",
+     "ex_ja": "応募者はプロジェクト管理の豊富な経験が必要です。",
+     "parts": [
+      [
+       "ex-",
+       "向外",
+       "外へ"
+      ],
+      [
+       "tens",
+       "伸展",
+       "伸ばす"
+      ],
+      [
+       "-ive",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "晚期拉丁语 extensivus，来自 extendere“伸展”。",
+      "ja": "後期ラテン語 extensivus（extendere「伸ばす」）から。"
+     },
+     "forms": [
+      [
+       "extensively (adv.)",
+       "广泛地",
+       "広範囲に"
+      ],
+      [
+       "extensive renovations",
+       "大规模翻修",
+       "大規模改装"
+      ]
+     ],
+     "tip": {
+      "zh": "招聘广告：extensive experience = 丰富经验；Part 5 常与 intensive 混淆。",
+      "ja": "求人広告で頻出。Part 5 では intensive と紛らわしい。"
+     }
+    },
+    {
+     "w": "intend",
+     "pos": "v.",
+     "ipa": "/ɪnˈtɛnd/",
+     "zh": "打算；意图；旨在",
+     "ja": "〜するつもりである；意図する",
+     "ex": "We intend to open two new branches in Osaka next year.",
+     "ex_zh": "我们打算明年在大阪开设两家新分店。",
+     "ex_ja": "当社は来年、大阪に新しく2支店を開設する予定です。",
+     "parts": [
+      [
+       "in-",
+       "朝向",
+       "〜へ"
+      ],
+      [
+       "tend",
+       "伸展；朝向",
+       "伸ばす・向ける"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 intendere“伸向、把注意力指向”。",
+      "ja": "ラテン語 intendere「〜へ伸ばす・注意を向ける」。"
+     },
+     "forms": [
+      [
+       "intention (n.)",
+       "意图；打算",
+       "意図"
+      ],
+      [
+       "be intended for …",
+       "专为…而设",
+       "〜向けである"
+      ],
+      [
+       "intended (adj.)",
+       "预期的；计划中的",
+       "意図された"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7 设问：For whom is the notice intended?（通知是给谁看的？）",
+      "ja": "Part 7 の設問 For whom is the notice intended? が定番。"
+     }
+    },
+    {
+     "w": "intensive",
+     "pos": "adj.",
+     "ipa": "/ɪnˈtɛnsɪv/",
+     "zh": "密集的；集中的；加强的",
+     "ja": "集中的な；徹底的な",
+     "ex": "New employees attend a two-week intensive training program.",
+     "ex_zh": "新员工要参加为期两周的集中培训。",
+     "ex_ja": "新入社員は2週間の集中研修を受けます。",
+     "parts": [
+      [
+       "in-",
+       "朝向",
+       "〜へ"
+      ],
+      [
+       "tens",
+       "伸展",
+       "伸ばす"
+      ],
+      [
+       "-ive",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "中世纪拉丁语 intensivus，来自 intensus“拉紧的”，intendere 的过去分词。",
+      "ja": "中世ラテン語 intensivus（intendere の過去分詞 intensus「張りつめた」）から。"
+     },
+     "forms": [
+      [
+       "intense (adj.)",
+       "强烈的",
+       "激しい"
+      ],
+      [
+       "intensify (v.)",
+       "加强",
+       "強める"
+      ],
+      [
+       "labor-intensive",
+       "劳动密集型的",
+       "労働集約的な"
+      ]
+     ],
+     "tip": {
+      "zh": "extensive（范围广）≠ intensive（程度深、集中）。",
+      "ja": "extensive（広い範囲）と intensive（集中的）を区別。"
+     }
+    },
+    {
+     "w": "attentive",
+     "pos": "adj.",
+     "ipa": "/əˈtɛntɪv/",
+     "zh": "周到的；细心的；专心的",
+     "ja": "気配りのできる；注意深い",
+     "ex": "The hotel staff were extremely attentive to our needs.",
+     "ex_zh": "酒店员工对我们的需求照顾得非常周到。",
+     "ex_ja": "ホテルのスタッフは私たちの要望にとても気を配ってくれました。",
+     "parts": [
+      [
+       "at-",
+       "朝向（= ad-）",
+       "〜へ"
+      ],
+      [
+       "tent",
+       "伸展；朝向",
+       "伸ばす・向ける"
+      ],
+      [
+       "-ive",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "来自 attend（拉丁语 attendere“把心伸向…”，过去分词 attentus）+ -ive。",
+      "ja": "attend（ラテン語 attendere「心を向ける」、過去分詞 attentus）＋-ive。"
+     },
+     "forms": [
+      [
+       "attention (n.)",
+       "注意；关注",
+       "注意"
+      ],
+      [
+       "be attentive to …",
+       "对…体贴周到",
+       "〜に気を配る"
+      ],
+      [
+       "attentively (adv.)",
+       "专心地",
+       "注意深く"
+      ]
+     ],
+     "tip": {
+      "zh": "顾客评价高频：attentive service（周到的服务）。",
+      "ja": "レビューで頻出：attentive service（行き届いたサービス）。"
+     }
+    },
+    {
+     "w": "superintendent",
+     "pos": "n.",
+     "ipa": "/ˌsupɚɪnˈtɛndənt/",
+     "zh": "（大楼）管理员；主管；负责人",
+     "ja": "（建物の）管理人；監督者；責任者",
+     "ex": "Please contact the building superintendent if the heating stops working.",
+     "ex_zh": "如果暖气坏了，请联系大楼管理员。",
+     "ex_ja": "暖房が動かなくなったら、ビルの管理人に連絡してください。",
+     "parts": [
+      [
+       "super-",
+       "在上面",
+       "上に"
+      ],
+      [
+       "in-",
+       "朝向",
+       "〜へ"
+      ],
+      [
+       "tend",
+       "伸展；朝向",
+       "伸ばす・向ける"
+      ],
+      [
+       "-ent",
+       "表示人",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "教会拉丁语 superintendere“在上面照看、监督”。",
+      "ja": "教会ラテン語 superintendere「上から目を配る・監督する」。"
+     },
+     "forms": [
+      [
+       "building superintendent",
+       "大楼管理员",
+       "ビル管理人"
+      ],
+      [
+       "site superintendent",
+       "工地主管",
+       "現場監督"
+      ]
+     ],
+     "tip": {
+      "zh": "美式口语常缩写为 super；与 landlord（房东）区分。",
+      "ja": "米口語では super と略す。landlord（家主）とは別人。"
+     }
+    },
+    {
+     "w": "tendency",
+     "pos": "n.",
+     "ipa": "/ˈtɛndənsi/",
+     "zh": "倾向；趋势",
+     "ja": "傾向；風潮",
+     "ex": "There is a growing tendency for employees to work from home on Fridays.",
+     "ex_zh": "员工周五居家办公的趋势日益增加。",
+     "ex_ja": "社員が金曜日に在宅勤務をする傾向が強まっています。",
+     "parts": [
+      [
+       "tend",
+       "伸展；朝向",
+       "伸ばす・向ける"
+      ],
+      [
+       "-ency",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "中世纪拉丁语 tendentia，来自 tendere“伸向、趋向”。",
+      "ja": "中世ラテン語 tendentia（tendere「〜へ向かう」）から。"
+     },
+     "forms": [
+      [
+       "tend to do",
+       "往往会…",
+       "〜しがちである"
+      ],
+      [
+       "have a tendency to do",
+       "有…的倾向",
+       "〜する傾向がある"
+      ]
+     ],
+     "tip": {
+      "zh": "tend to do 是 Part 5/7 高频表达。",
+      "ja": "tend to do は Part 5/7 で頻出。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "estate",
+   "title_zh": "主题：房产租赁与物业设施",
+   "title_ja": "テーマ：不動産・賃貸と施設管理",
+   "words": [
+    {
+     "w": "lease",
+     "pos": "n./v.",
+     "ipa": "/lis/",
+     "zh": "租约；租赁；出租",
+     "ja": "賃貸借契約；リース；賃貸する",
+     "ex": "The company signed a five-year lease on the new office.",
+     "ex_zh": "公司签了新办公室为期五年的租约。",
+     "ex_ja": "会社は新オフィスの5年間の賃貸契約を結びました。",
+     "parts": [],
+     "note": {
+      "zh": "英法语 les，来自 lesser“放开、出租”，源于拉丁语 laxare“放松”；没有可靠的前缀/词根拆分，整词记。",
+      "ja": "アングロ・フランス語 les（lesser「手放す・貸す」＜ラテン語 laxare「緩める」）。語根分解はせず丸ごと覚える。"
+     },
+     "forms": [
+      [
+       "sign a lease",
+       "签租约",
+       "賃貸契約を結ぶ"
+      ],
+      [
+       "lease agreement",
+       "租赁合同",
+       "賃貸契約書"
+      ],
+      [
+       "renew the lease",
+       "续租",
+       "契約を更新する"
+      ]
+     ],
+     "tip": {
+      "zh": "名词、动词同形同音 /lis/。",
+      "ja": "名詞・動詞とも同形同音 /lis/。"
+     }
+    },
+    {
+     "w": "landlord",
+     "pos": "n.",
+     "ipa": "/ˈlændlɔrd/",
+     "zh": "房东；业主",
+     "ja": "家主；大家",
+     "ex": "The landlord agreed to repaint the apartment before we move in.",
+     "ex_zh": "房东同意在我们入住前重新粉刷公寓。",
+     "ex_ja": "大家さんは入居前に部屋を塗り直すことに同意しました。",
+     "parts": [
+      [
+       "land",
+       "土地",
+       "土地"
+      ],
+      [
+       "lord",
+       "主人",
+       "主人"
+      ]
+     ],
+     "note": {
+      "zh": "英语本族复合词：land + lord“土地的主人”。",
+      "ja": "英語本来の複合語：land＋lord「土地の主」。"
+     },
+     "forms": [
+      [
+       "landlady (n.)",
+       "女房东",
+       "女性の家主"
+      ],
+      [
+       "tenant (n.)",
+       "租户",
+       "借り手"
+      ]
+     ],
+     "tip": {
+      "zh": "对照：landlord（出租方）↔ tenant（承租方）。",
+      "ja": "landlord（貸し手）↔ tenant（借り手）。"
+     }
+    },
+    {
+     "w": "premises",
+     "pos": "n.",
+     "ipa": "/ˈprɛmɪsɪz/",
+     "zh": "（企业的）场所；经营场地；房屋及土地",
+     "ja": "敷地；構内；店舗",
+     "ex": "Smoking is not permitted anywhere on the premises.",
+     "ex_zh": "场所内任何地方均禁止吸烟。",
+     "ex_ja": "敷地内は全面禁煙です。",
+     "parts": [
+      [
+       "pre-",
+       "在前",
+       "前に"
+      ],
+      [
+       "mis",
+       "送（= mit）",
+       "送る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 praemissa“前面送出的（话）”；在法律文书中指“前文所述的房产”，后转义为“房屋和场地”。",
+      "ja": "ラテン語 praemissa「前に述べたこと」。法律文書で「前記の物件」を指し、「建物・敷地」の意味に。"
+     },
+     "forms": [
+      [
+       "on the premises",
+       "在场所内",
+       "敷地内で"
+      ],
+      [
+       "off the premises",
+       "在场所外",
+       "敷地外で"
+      ]
+     ],
+     "tip": {
+      "zh": "此义永远用复数 premises；单数 premise 是“前提”。",
+      "ja": "この意味では常に複数形。単数 premise は「前提」。"
+     }
+    },
+    {
+     "w": "utility",
+     "pos": "n.",
+     "ipa": "/juˈtɪləti/",
+     "zh": "（水电煤等）公共事业；效用",
+     "ja": "（電気・ガス・水道などの）公共料金・公益事業；有用性",
+     "ex": "The monthly rent does not include utilities such as electricity and water.",
+     "ex_zh": "月租不包括水电等公用事业费用。",
+     "ex_ja": "月額家賃には電気や水道などの光熱費は含まれません。",
+     "parts": [
+      [
+       "util",
+       "有用",
+       "役立つ"
+      ],
+      [
+       "-ity",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 utilitas，来自 utilis“有用的”（uti“使用”）。",
+      "ja": "ラテン語 utilitas（utilis「役立つ」＜uti「使う」）。"
+     },
+     "forms": [
+      [
+       "utility bill",
+       "水电费账单",
+       "公共料金の請求書"
+      ],
+      [
+       "utilities included",
+       "含水电费",
+       "光熱費込み"
+      ],
+      [
+       "utilize (v.)",
+       "利用",
+       "利用する"
+      ]
+     ],
+     "tip": {
+      "zh": "租房广告：rent includes utilities = 房租含水电。",
+      "ja": "賃貸広告：utilities included＝光熱費込み。"
+     },
+     "hl": "utilities"
+    },
+    {
+     "w": "renovate",
+     "pos": "v.",
+     "ipa": "/ˈrɛnəveɪt/",
+     "zh": "翻新；整修",
+     "ja": "改装する；リフォームする",
+     "ex": "The hotel lobby is being renovated and will reopen next month.",
+     "ex_zh": "酒店大堂正在翻修，下个月重新开放。",
+     "ex_ja": "ホテルのロビーは改装中で、来月再開します。",
+     "parts": [
+      [
+       "re-",
+       "再",
+       "再び"
+      ],
+      [
+       "nov",
+       "新的",
+       "新しい"
+      ],
+      [
+       "-ate",
+       "动词后缀",
+       "動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 renovare“使重新变新”（novus“新”）。",
+      "ja": "ラテン語 renovare「再び新しくする」（novus「新しい」）。"
+     },
+     "forms": [
+      [
+       "renovation (n.)",
+       "翻新；装修",
+       "改装"
+      ],
+      [
+       "newly renovated",
+       "新装修的",
+       "改装したばかりの"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1/4 高频：be being renovated（正在翻修）。",
+      "ja": "Part 1/4 で頻出：be being renovated。"
+     },
+     "hl": "renovated"
+    },
+    {
+     "w": "mortgage",
+     "pos": "n.",
+     "ipa": "/ˈmɔrɡɪdʒ/",
+     "zh": "抵押贷款；房贷",
+     "ja": "住宅ローン；抵当",
+     "ex": "Many first-time buyers need a mortgage to purchase a home.",
+     "ex_zh": "许多首次购房者需要抵押贷款来买房。",
+     "ex_ja": "初めて家を買う人の多くは住宅ローンが必要です。",
+     "parts": [
+      [
+       "mort",
+       "死",
+       "死"
+      ],
+      [
+       "gage",
+       "抵押；担保",
+       "担保"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 mort gage“死的抵押”（还清后抵押“死去”失效）。",
+      "ja": "古フランス語 mort gage「死んだ担保」（完済すると担保が消える）。"
+     },
+     "forms": [
+      [
+       "mortgage rate",
+       "房贷利率",
+       "住宅ローン金利"
+      ],
+      [
+       "take out a mortgage",
+       "申请房贷",
+       "住宅ローンを組む"
+      ]
+     ],
+     "tip": {
+      "zh": "t 不发音：/ˈmɔrɡɪdʒ/，听力易听错。",
+      "ja": "t は発音しない：/ˈmɔrɡɪdʒ/。聞き取り注意。"
+     }
+    },
+    {
+     "w": "listing",
+     "pos": "n.",
+     "ipa": "/ˈlɪstɪŋ/",
+     "zh": "（房产等的）挂牌信息；列表；清单",
+     "ja": "（物件などの）掲載情報；一覧",
+     "ex": "Our website features new property listings every week.",
+     "ex_zh": "我们网站每周发布新的房产信息。",
+     "ex_ja": "当社サイトでは毎週新しい物件情報を掲載しています。",
+     "parts": [
+      [
+       "list",
+       "清单",
+       "一覧"
+      ],
+      [
+       "-ing",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "list“清单”（来自法语 liste，源自日耳曼语）+ -ing。",
+      "ja": "list「一覧」（フランス語 liste、ゲルマン語起源）＋-ing。"
+     },
+     "forms": [
+      [
+       "job listing",
+       "招聘信息",
+       "求人情報"
+      ],
+      [
+       "property listing",
+       "房源信息",
+       "物件情報"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7 常见网页、广告文体：listings = 刊登的条目。",
+      "ja": "Part 7 のウェブ・広告文で頻出。"
+     },
+     "hl": "listings"
+    },
+    {
+     "w": "furnished",
+     "pos": "adj.",
+     "ipa": "/ˈfɝnɪʃt/",
+     "zh": "带家具的",
+     "ja": "家具付きの",
+     "ex": "The apartment is fully furnished and close to the subway station.",
+     "ex_zh": "这套公寓家具齐全，离地铁站很近。",
+     "ex_ja": "そのアパートは家具完備で、地下鉄の駅に近いです。",
+     "parts": [],
+     "note": {
+      "zh": "来自 furnish“供应、配备”（古法语 furnir，源自日耳曼语）；没有可靠的拉丁词根拆分。",
+      "ja": "furnish「備え付ける」（古フランス語 furnir、ゲルマン語起源）から。確かな語根分解はない。"
+     },
+     "forms": [
+      [
+       "furnish (v.)",
+       "布置家具；提供",
+       "備え付ける；提供する"
+      ],
+      [
+       "unfurnished (adj.)",
+       "不带家具的",
+       "家具なしの"
+      ],
+      [
+       "furniture (n.)",
+       "家具",
+       "家具"
+      ]
+     ],
+     "tip": {
+      "zh": "furnish 也有“提供”义：furnish the documents（提供文件）。",
+      "ja": "furnish は「提供する」の意味も：furnish the documents。"
+     }
+    },
+    {
+     "w": "spacious",
+     "pos": "adj.",
+     "ipa": "/ˈspeɪʃəs/",
+     "zh": "宽敞的",
+     "ja": "広々とした",
+     "ex": "The new conference room is spacious enough for forty people.",
+     "ex_zh": "新会议室很宽敞，能容纳四十人。",
+     "ex_ja": "新しい会議室は40人が入れるほど広々としています。",
+     "parts": [
+      [
+       "spac",
+       "空间",
+       "空間"
+      ],
+      [
+       "-ious",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 spatiosus，来自 spatium“空间”。",
+      "ja": "ラテン語 spatiosus（spatium「空間」）から。"
+     },
+     "forms": [
+      [
+       "space (n.)",
+       "空间",
+       "スペース"
+      ],
+      [
+       "spacious office",
+       "宽敞的办公室",
+       "広いオフィス"
+      ]
+     ],
+     "tip": {
+      "zh": "广告近义词：roomy / large；反义 cramped（狭窄的）。",
+      "ja": "類義 roomy、反意 cramped（窮屈な）。"
+     }
+    },
+    {
+     "w": "plumbing",
+     "pos": "n.",
+     "ipa": "/ˈplʌmɪŋ/",
+     "zh": "管道系统；水管工程",
+     "ja": "配管；水道設備",
+     "ex": "A technician will inspect the plumbing on the third floor this afternoon.",
+     "ex_zh": "今天下午技术员将检查三楼的管道。",
+     "ex_ja": "今日の午後、技術者が3階の配管を点検します。",
+     "parts": [
+      [
+       "plumb",
+       "铅",
+       "鉛"
+      ],
+      [
+       "-ing",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "plumb 来自拉丁语 plumbum“铅”——古代水管用铅制成。",
+      "ja": "plumb はラテン語 plumbum「鉛」から。昔の水道管は鉛製だった。"
+     },
+     "forms": [
+      [
+       "plumber (n.)",
+       "水管工",
+       "配管工"
+      ],
+      [
+       "plumbing problem",
+       "水管故障",
+       "配管トラブル"
+      ]
+     ],
+     "tip": {
+      "zh": "b 不发音：plumber /ˈplʌmɚ/。",
+      "ja": "b は発音しない：plumber /ˈplʌmɚ/。"
+     }
+    },
+    {
+     "w": "appliance",
+     "pos": "n.",
+     "ipa": "/əˈplaɪəns/",
+     "zh": "家用电器；器具",
+     "ja": "家電製品；器具",
+     "ex": "All kitchen appliances in the unit come with a one-year warranty.",
+     "ex_zh": "该套房内所有厨房电器均享有一年保修。",
+     "ex_ja": "この部屋のキッチン家電はすべて1年保証付きです。",
+     "parts": [
+      [
+       "ap-",
+       "朝向（= ad-）",
+       "〜へ"
+      ],
+      [
+       "pli",
+       "折；贴上（拉丁语 plicare）",
+       "折る・くっつける"
+      ],
+      [
+       "-ance",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "来自 apply（拉丁语 applicare“贴上、应用”）+ -ance。",
+      "ja": "apply（ラテン語 applicare「くっつける・応用する」）＋-ance。"
+     },
+     "forms": [
+      [
+       "home appliance",
+       "家用电器",
+       "家電"
+      ],
+      [
+       "appliance store",
+       "家电商店",
+       "家電量販店"
+      ]
+     ],
+     "tip": {
+      "zh": "不要与 application（申请；应用程序）混淆。",
+      "ja": "application（申請；アプリ）と混同しない。"
+     },
+     "hl": "appliances"
+    },
+    {
+     "w": "occupant",
+     "pos": "n.",
+     "ipa": "/ˈɑkjəpənt/",
+     "zh": "居住者；占用者；（车内）乘员",
+     "ja": "居住者；入居者；（車の）乗員",
+     "ex": "The previous occupant left the office in excellent condition.",
+     "ex_zh": "前任使用者把办公室保持得非常好。",
+     "ex_ja": "前の入居者はオフィスをとてもきれいな状態で退去しました。",
+     "parts": [
+      [
+       "oc-",
+       "在上；朝向（= ob-）",
+       "〜に対して"
+      ],
+      [
+       "cup",
+       "拿；占（= cap）",
+       "取る・占める"
+      ],
+      [
+       "-ant",
+       "表示人",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 occupare“占据”（ob- + capere“拿”）。",
+      "ja": "ラテン語 occupare「占める」（ob-＋capere「取る」）。"
+     },
+     "forms": [
+      [
+       "occupy (v.)",
+       "占用；居住",
+       "占める"
+      ],
+      [
+       "occupancy (n.)",
+       "入住率；占用",
+       "入居率；使用"
+      ]
+     ],
+     "tip": {
+      "zh": "occupy / occupant / occupancy 词形题常考。",
+      "ja": "occupy / occupant / occupancy の語形に注意。"
+     }
+    },
+    {
+     "w": "custodian",
+     "pos": "n.",
+     "ipa": "/kʌˈstoʊdiən/",
+     "zh": "（楼宇）清洁管理员；保管人",
+     "ja": "（建物の）用務員・清掃管理人；管理者",
+     "ex": "The custodian unlocks the building at 7 a.m. every weekday.",
+     "ex_zh": "管理员每个工作日早上 7 点开楼门。",
+     "ex_ja": "用務員は平日毎朝7時に建物の鍵を開けます。",
+     "parts": [
+      [
+       "custod",
+       "看守",
+       "守る"
+      ],
+      [
+       "-ian",
+       "表示人",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 custodia“看守”，custos“守卫者”。",
+      "ja": "ラテン語 custodia「保護」、custos「番人」。"
+     },
+     "forms": [
+      [
+       "custody (n.)",
+       "保管；监护",
+       "保管；保護"
+      ],
+      [
+       "custodial staff",
+       "后勤清洁人员",
+       "清掃・管理スタッフ"
+      ]
+     ],
+     "tip": {
+      "zh": "同义 janitor；在 Part 1/3 常以清洁、钥匙场景出现。",
+      "ja": "janitor と同義。Part 1/3 の清掃・鍵の場面に登場。"
+     }
+    },
+    {
+     "w": "vacant",
+     "pos": "adj.",
+     "ipa": "/ˈveɪkənt/",
+     "zh": "空着的；（职位）空缺的",
+     "ja": "空いている；空席の",
+     "ex": "The vacant unit on the second floor is available for immediate occupancy.",
+     "ex_zh": "二楼的空置单元可立即入住。",
+     "ex_ja": "2階の空き物件はすぐに入居可能です。",
+     "parts": [
+      [
+       "vac",
+       "空",
+       "空の"
+      ],
+      [
+       "-ant",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 vacare“空着”（现在分词 vacans）。",
+      "ja": "ラテン語 vacare「空いている」（現在分詞 vacans）。"
+     },
+     "forms": [
+      [
+       "vacancy (n.)",
+       "空房；空缺",
+       "空室；欠員"
+      ],
+      [
+       "vacate (v.)",
+       "腾出；搬离",
+       "明け渡す"
+      ]
+     ],
+     "tip": {
+      "zh": "vacate the premises = 腾出场地；No Vacancy = 客满。",
+      "ja": "vacate the premises＝明け渡す。No Vacancy＝満室。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "health",
+   "title_zh": "主题：医疗保健与保险",
+   "title_ja": "テーマ：医療・保険",
+   "words": [
+    {
+     "w": "pharmacy",
+     "pos": "n.",
+     "ipa": "/ˈfɑrməsi/",
+     "zh": "药房；药店",
+     "ja": "薬局",
+     "ex": "You can pick up your prescription at the pharmacy on the first floor.",
+     "ex_zh": "您可以在一楼药房取处方药。",
+     "ex_ja": "処方薬は1階の薬局でお受け取りいただけます。",
+     "parts": [
+      [
+       "pharmac",
+       "药",
+       "薬"
+      ],
+      [
+       "-y",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "希腊语 pharmakeia“用药”，pharmakon“药”。",
+      "ja": "ギリシャ語 pharmakeia（pharmakon「薬」）から。"
+     },
+     "forms": [
+      [
+       "pharmacist (n.)",
+       "药剂师",
+       "薬剤師"
+      ],
+      [
+       "pharmaceutical (adj.)",
+       "制药的",
+       "製薬の"
+      ]
+     ],
+     "tip": {
+      "zh": "ph 读 /f/。pharmaceutical company = 制药公司。",
+      "ja": "ph は /f/。pharmaceutical company＝製薬会社。"
+     }
+    },
+    {
+     "w": "physician",
+     "pos": "n.",
+     "ipa": "/fɪˈzɪʃən/",
+     "zh": "内科医生；医师",
+     "ja": "医師；内科医",
+     "ex": "Please consult your physician before starting any new exercise program.",
+     "ex_zh": "开始任何新的运动计划前，请先咨询您的医生。",
+     "ex_ja": "新しい運動プログラムを始める前に、医師に相談してください。",
+     "parts": [
+      [
+       "physic",
+       "医术（原义“自然”）",
+       "医術（元は「自然」）"
+      ],
+      [
+       "-ian",
+       "表示人",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 fisicien，来自 physic“医术”，源于希腊语 physis“自然”。",
+      "ja": "古フランス語 fisicien（physic「医術」＜ギリシャ語 physis「自然」）。"
+     },
+     "forms": [
+      [
+       "primary care physician",
+       "家庭医生",
+       "かかりつけ医"
+      ],
+      [
+       "consult a physician",
+       "看医生",
+       "医師に相談する"
+      ]
+     ],
+     "tip": {
+      "zh": "⚠️ physician（医生）≠ physicist（物理学家）。",
+      "ja": "⚠️ physician（医師）と physicist（物理学者）は別。"
+     }
+    },
+    {
+     "w": "symptom",
+     "pos": "n.",
+     "ipa": "/ˈsɪmptəm/",
+     "zh": "症状；征兆",
+     "ja": "症状；兆候",
+     "ex": "If your symptoms continue for more than three days, please see a doctor.",
+     "ex_zh": "如果症状持续三天以上，请就医。",
+     "ex_ja": "症状が3日以上続く場合は、医師の診察を受けてください。",
+     "parts": [
+      [
+       "sym-",
+       "一起",
+       "共に"
+      ],
+      [
+       "ptom",
+       "落下（希腊语 piptein）",
+       "落ちる"
+      ]
+     ],
+     "note": {
+      "zh": "希腊语 symptoma“同时落下的事、偶发情况”。",
+      "ja": "ギリシャ語 symptoma「一緒に起こること・偶然の出来事」。"
+     },
+     "forms": [
+      [
+       "flu symptoms",
+       "流感症状",
+       "インフルエンザの症状"
+      ],
+      [
+       "develop symptoms",
+       "出现症状",
+       "症状が出る"
+      ]
+     ],
+     "tip": {
+      "zh": "p 弱读，听起来像 /ˈsɪmtəm/。",
+      "ja": "p は弱く、/ˈsɪmtəm/ のように聞こえる。"
+     },
+     "hl": "symptoms"
+    },
+    {
+     "w": "diagnosis",
+     "pos": "n.",
+     "ipa": "/ˌdaɪəɡˈnoʊsɪs/",
+     "zh": "诊断；（问题）判断",
+     "ja": "診断",
+     "ex": "The doctor will explain the diagnosis and treatment options at your next visit.",
+     "ex_zh": "医生会在您下次就诊时说明诊断结果和治疗方案。",
+     "ex_ja": "次回の診察で、医師が診断と治療の選択肢を説明します。",
+     "parts": [
+      [
+       "dia-",
+       "穿过；区分",
+       "通して・分けて"
+      ],
+      [
+       "gnosis",
+       "知道",
+       "知ること"
+      ]
+     ],
+     "note": {
+      "zh": "希腊语 diagnosis“分辨、识别”。",
+      "ja": "ギリシャ語 diagnosis「見分けること」。"
+     },
+     "forms": [
+      [
+       "diagnose (v.)",
+       "诊断",
+       "診断する"
+      ],
+      [
+       "diagnoses (pl.)",
+       "诊断（复数）",
+       "診断（複数形）"
+      ]
+     ],
+     "tip": {
+      "zh": "复数 diagnoses /ˌdaɪəɡˈnoʊsiz/；IT 场景 diagnostic test = 诊断测试。",
+      "ja": "複数形 diagnoses。IT の diagnostic test も同語源。"
+     }
+    },
+    {
+     "w": "medication",
+     "pos": "n.",
+     "ipa": "/ˌmɛdɪˈkeɪʃən/",
+     "zh": "药物；药物治疗",
+     "ja": "薬；薬物治療",
+     "ex": "Patients should bring a list of their current medications to the appointment.",
+     "ex_zh": "患者就诊时应携带目前服用药物的清单。",
+     "ex_ja": "患者は受診時に服用中の薬のリストを持参してください。",
+     "parts": [
+      [
+       "medic",
+       "治疗",
+       "治療する"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 medicatio，来自 medicari“治疗”（medicus“医生”）。",
+      "ja": "ラテン語 medicatio（medicari「治療する」＜medicus「医者」）。"
+     },
+     "forms": [
+      [
+       "medical (adj.)",
+       "医疗的",
+       "医療の"
+      ],
+      [
+       "take medication",
+       "服药",
+       "薬を飲む"
+      ]
+     ],
+     "tip": {
+      "zh": "可数用法 medications = 多种药物。",
+      "ja": "可算で medications（複数の薬）。"
+     },
+     "hl": "medications"
+    },
+    {
+     "w": "dosage",
+     "pos": "n.",
+     "ipa": "/ˈdoʊsɪdʒ/",
+     "zh": "剂量；用量",
+     "ja": "服用量；用量",
+     "ex": "Do not exceed the recommended dosage printed on the label.",
+     "ex_zh": "请勿超过标签上的推荐剂量。",
+     "ex_ja": "ラベル記載の推奨用量を超えないでください。",
+     "parts": [
+      [
+       "dos",
+       "给予（希腊语 dosis）",
+       "与えること"
+      ],
+      [
+       "-age",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "dose“一剂”（希腊语 dosis“给予”）+ -age。",
+      "ja": "dose「1回分」（ギリシャ語 dosis「与えること」）＋-age。"
+     },
+     "forms": [
+      [
+       "dose (n.)",
+       "一剂；剂量",
+       "1回分"
+      ],
+      [
+       "recommended dosage",
+       "推荐剂量",
+       "推奨用量"
+      ]
+     ],
+     "tip": {
+      "zh": "药品说明文常见：exceed the dosage（超量）。",
+      "ja": "薬の説明書で頻出：exceed the dosage。"
+     }
+    },
+    {
+     "w": "outpatient",
+     "pos": "n./adj.",
+     "ipa": "/ˈaʊtˌpeɪʃənt/",
+     "zh": "门诊病人；门诊的",
+     "ja": "外来患者；外来の",
+     "ex": "The clinic offers outpatient services from Monday to Saturday.",
+     "ex_zh": "该诊所周一至周六提供门诊服务。",
+     "ex_ja": "そのクリニックは月曜から土曜まで外来診療を行っています。",
+     "parts": [
+      [
+       "out-",
+       "外",
+       "外"
+      ],
+      [
+       "patient",
+       "病人（拉丁语 pati“忍受”）",
+       "患者（ラテン語 pati「耐える」）"
+      ]
+     ],
+     "note": {
+      "zh": "out + patient；patient 来自拉丁语 pati“忍受、受苦”。",
+      "ja": "out＋patient（ラテン語 pati「耐える・苦しむ」）。"
+     },
+     "forms": [
+      [
+       "inpatient (n./adj.)",
+       "住院病人；住院的",
+       "入院患者；入院の"
+      ],
+      [
+       "outpatient clinic",
+       "门诊部",
+       "外来診療所"
+      ]
+     ],
+     "tip": {
+      "zh": "对照 inpatient（住院）。",
+      "ja": "inpatient（入院）と対で覚える。"
+     }
+    },
+    {
+     "w": "wellness",
+     "pos": "n.",
+     "ipa": "/ˈwɛlnəs/",
+     "zh": "健康；身心健康",
+     "ja": "健康；ウェルネス",
+     "ex": "The company launched a wellness program that includes free yoga classes.",
+     "ex_zh": "公司推出了包含免费瑜伽课的健康计划。",
+     "ex_ja": "会社は無料ヨガ教室を含む健康増進プログラムを始めました。",
+     "parts": [
+      [
+       "well",
+       "好",
+       "よい"
+      ],
+      [
+       "-ness",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "英语本族词：well + -ness。",
+      "ja": "英語本来語：well＋-ness。"
+     },
+     "forms": [
+      [
+       "wellness program",
+       "健康促进计划",
+       "健康増進プログラム"
+      ],
+      [
+       "wellness center",
+       "健康中心",
+       "ウェルネスセンター"
+      ]
+     ],
+     "tip": {
+      "zh": "福利通知常见：employee wellness（员工健康）。",
+      "ja": "福利厚生の案内で頻出。"
+     }
+    },
+    {
+     "w": "premium",
+     "pos": "n./adj.",
+     "ipa": "/ˈprimiəm/",
+     "zh": "保险费；溢价；高级的",
+     "ja": "保険料；割増金；高級な",
+     "ex": "Your monthly insurance premium will increase slightly next year.",
+     "ex_zh": "您每月的保险费明年会略有上涨。",
+     "ex_ja": "来年、毎月の保険料がわずかに上がります。",
+     "parts": [
+      [
+       "pre-",
+       "在前",
+       "前に"
+      ],
+      [
+       "em",
+       "取得；买（拉丁语 emere）",
+       "取る・買う"
+      ],
+      [
+       "-ium",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 praemium“战利品、报酬”，来自 prae- + emere“拿、买”。",
+      "ja": "ラテン語 praemium「戦利品・報酬」（prae-＋emere「取る・買う」）。"
+     },
+     "forms": [
+      [
+       "insurance premium",
+       "保险费",
+       "保険料"
+      ],
+      [
+       "premium service",
+       "高级服务",
+       "プレミアムサービス"
+      ],
+      [
+       "at a premium",
+       "以溢价；供不应求",
+       "割増で；品薄で"
+      ]
+     ],
+     "tip": {
+      "zh": "保险语境 premium = 保费，不是“奖品”。",
+      "ja": "保険の文脈では「保険料」。"
+     }
+    },
+    {
+     "w": "coverage",
+     "pos": "n.",
+     "ipa": "/ˈkʌvɚɪdʒ/",
+     "zh": "保险范围；覆盖范围；新闻报道",
+     "ja": "補償範囲；（報道）取材；通信エリア",
+     "ex": "The new policy provides coverage for dental care and eye exams.",
+     "ex_zh": "新保单涵盖牙科护理和眼科检查。",
+     "ex_ja": "新しい保険は歯科治療と眼科検診を補償します。",
+     "parts": [
+      [
+       "cover",
+       "覆盖",
+       "覆う"
+      ],
+      [
+       "-age",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "cover（古法语 covrir，拉丁语 cooperire“完全盖住”）+ -age。",
+      "ja": "cover（古フランス語 covrir＜ラテン語 cooperire「すっかり覆う」）＋-age。"
+     },
+     "forms": [
+      [
+       "insurance coverage",
+       "保险保障",
+       "保険の補償"
+      ],
+      [
+       "media coverage",
+       "媒体报道",
+       "メディア報道"
+      ]
+     ],
+     "tip": {
+      "zh": "一词多义：保险“保障范围”、手机“信号覆盖”、新闻“报道”。",
+      "ja": "保険の補償・電波エリア・報道と多義。"
+     }
+    },
+    {
+     "w": "deductible",
+     "pos": "n./adj.",
+     "ipa": "/dɪˈdʌktəbəl/",
+     "zh": "（保险）免赔额；可扣除的",
+     "ja": "（保険の）免責額；控除できる",
+     "ex": "You must pay a $500 deductible before the insurance covers the repairs.",
+     "ex_zh": "在保险赔付修理费之前，您须先自付 500 美元免赔额。",
+     "ex_ja": "保険が修理費を補償する前に、500 ドルの免責額を自己負担する必要があります。",
+     "parts": [
+      [
+       "de-",
+       "离开；去掉",
+       "離れて"
+      ],
+      [
+       "duct",
+       "引导；带（= duc）",
+       "導く"
+      ],
+      [
+       "-ible",
+       "能…的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "来自拉丁语 deducere“引走、扣除”（过去分词 deductus）。",
+      "ja": "ラテン語 deducere「引き去る」（過去分詞 deductus）から。"
+     },
+     "forms": [
+      [
+       "deduct (v.)",
+       "扣除",
+       "差し引く"
+      ],
+      [
+       "tax-deductible (adj.)",
+       "可抵税的",
+       "税控除の対象となる"
+      ]
+     ],
+     "tip": {
+      "zh": "名词 = 免赔额；形容词 tax-deductible = 可抵税。",
+      "ja": "名詞は「免責額」、tax-deductible は「税控除対象の」。"
+     }
+    },
+    {
+     "w": "insurer",
+     "pos": "n.",
+     "ipa": "/ɪnˈʃʊrɚ/",
+     "zh": "保险公司；承保人",
+     "ja": "保険会社；保険者",
+     "ex": "Contact your insurer as soon as possible after an accident.",
+     "ex_zh": "发生事故后请尽快联系您的保险公司。",
+     "ex_ja": "事故の後はできるだけ早く保険会社に連絡してください。",
+     "parts": [
+      [
+       "in-",
+       "使（= en-）",
+       "〜にする"
+      ],
+      [
+       "sure",
+       "确定",
+       "確かな"
+      ],
+      [
+       "-er",
+       "表示人／机构",
+       "〜する人・組織"
+      ]
+     ],
+     "note": {
+      "zh": "insure 来自古法语 enseurer“使确定”。",
+      "ja": "insure は古フランス語 enseurer「確かにする」から。"
+     },
+     "forms": [
+      [
+       "insure (v.)",
+       "给…保险",
+       "保険をかける"
+      ],
+      [
+       "insurance (n.)",
+       "保险",
+       "保険"
+      ],
+      [
+       "the insured",
+       "被保险人",
+       "被保険者"
+      ]
+     ],
+     "tip": {
+      "zh": "insure（投保）≠ ensure（确保）——发音相同，Part 5 易混。",
+      "ja": "insure（保険をかける）と ensure（確実にする）は同音で紛らわしい。"
+     }
+    },
+    {
+     "w": "beneficiary",
+     "pos": "n.",
+     "ipa": "/ˌbɛnəˈfɪʃiˌɛri/",
+     "zh": "受益人；受惠者",
+     "ja": "受取人；受益者",
+     "ex": "Policyholders may name up to three beneficiaries.",
+     "ex_zh": "投保人最多可指定三名受益人。",
+     "ex_ja": "契約者は受取人を3人まで指定できます。",
+     "parts": [
+      [
+       "bene-",
+       "好",
+       "よい"
+      ],
+      [
+       "fic",
+       "做（拉丁语 facere）",
+       "する・作る"
+      ],
+      [
+       "-iary",
+       "表示人",
+       "〜の人"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 beneficiarius，来自 beneficium“善行、恩惠”（bene + facere）。",
+      "ja": "ラテン語 beneficiarius（beneficium「恩恵」＜bene＋facere）。"
+     },
+     "forms": [
+      [
+       "benefit (n./v.)",
+       "好处；受益",
+       "利益；恩恵を受ける"
+      ],
+      [
+       "beneficial (adj.)",
+       "有益的",
+       "有益な"
+      ]
+     ],
+     "tip": {
+      "zh": "词形题：benefit / beneficial / beneficiary（人）。",
+      "ja": "語形問題：benefit / beneficial / beneficiary（人）。"
+     },
+     "hl": "beneficiaries"
+    },
+    {
+     "w": "vaccination",
+     "pos": "n.",
+     "ipa": "/ˌvæksəˈneɪʃən/",
+     "zh": "接种疫苗；预防接种",
+     "ja": "予防接種；ワクチン接種",
+     "ex": "Free flu vaccinations will be available in the staff lounge on Tuesday.",
+     "ex_zh": "周二将在员工休息室提供免费流感疫苗接种。",
+     "ex_ja": "火曜日に社員ラウンジで無料のインフルエンザ予防接種が受けられます。",
+     "parts": [
+      [
+       "vaccin",
+       "疫苗（拉丁语 vacca“牛”）",
+       "ワクチン（ラテン語 vacca「牛」）"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "来自拉丁语 vacca“牛”：最早的天花疫苗取自牛痘（cowpox）。",
+      "ja": "ラテン語 vacca「牛」から。最初の天然痘ワクチンは牛痘由来。"
+     },
+     "forms": [
+      [
+       "vaccine (n.)",
+       "疫苗",
+       "ワクチン"
+      ],
+      [
+       "vaccinate (v.)",
+       "给…接种",
+       "予防接種をする"
+      ]
+     ],
+     "tip": {
+      "zh": "公司通知：flu vaccination / flu shot（流感疫苗）。",
+      "ja": "社内のお知らせ：flu vaccination / flu shot。"
+     },
+     "hl": "vaccinations"
+    }
+   ]
+  }
+ ]
+}
