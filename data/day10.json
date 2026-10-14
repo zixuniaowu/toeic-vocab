@@ -1,0 +1,2790 @@
+{
+ "day": 10,
+ "date": "2026-10-18",
+ "title_zh": "四大词根 + 政府公共与教育培训",
+ "title_ja": "4つの語根＋行政・公共と教育・研修",
+ "intro_zh": "今天掌握 4 个高频词根（manu·man 手 / val 价值 / dur 持久 / flu·flux 流），再学政府公共和教育培训的核心词——强化 Part 7 市政通知、学校招生启事的阅读。",
+ "intro_ja": "今日は語根 4 つ（manu·man 手／val 価値／dur 続く／flu·flux 流れる）と、行政・公共、教育・研修の重要語を学びます。Part 7 の市政のお知らせや学校の募集案内の読解を強化します。",
+ "voice": "en-US-AriaNeural",
+ "roots": [
+  {
+   "root": "-manu- / -man-",
+   "origin": "Latin manus",
+   "zh": "手",
+   "ja": "手",
+   "exp_zh": "来自拉丁语 manus（手）。manual“手的 → 手册／手动的”，manufacture“用手做 → 制造”，manage“用手操控 → 管理”，manipulate“用手操作”，maneuver“用手操作 → 机动”，command 经 mandare（manus + dare“交给”）同源。⚠️ maintain（Day 1）也含 man-，但来自 manu tenere“用手握住”。",
+   "exp_ja": "ラテン語 manus（手）から。manual「手の → 説明書・手動」、manufacture「手で作る → 製造」、manage「手で扱う → 管理」、manipulate「手で操る」、maneuver「手で動かす → 機動」。command は mandare（manus＋dare）経由で同源。⚠️ maintain（Day 1）も man- を含む（manu tenere）。",
+   "examples": [
+    "manual",
+    "manufacture",
+    "manage",
+    "manipulate",
+    "maneuver",
+    "emancipate",
+    "managerial",
+    "command"
+   ]
+  },
+  {
+   "root": "-val- / -vail-",
+   "origin": "Latin valere / valor",
+   "zh": "价值；强壮",
+   "ja": "価値がある；強い",
+   "exp_zh": "来自拉丁语 valere（强壮、有价值）和 valor（价值）。valuable“有价值的”，evaluate“估出价值”，available“能用得上的”，prevail“更强壮 → 占上风”，equivalent“价值相等的”，validate“使有效”。⚠️ invaluable = 贵到无法估价（≠ worthless）。",
+   "exp_ja": "ラテン語 valere（強い・価値がある）と valor（価値）から。valuable「価値のある」、evaluate「価値を見積もる」、available「利用できる」、prevail「より強い → 優勢」、equivalent「価値が等しい」、validate「有効にする」。⚠️ invaluable＝値踏みできないほど貴重（worthless ではない）。",
+   "examples": [
+    "valuable",
+    "evaluate",
+    "available",
+    "prevail",
+    "equivalent",
+    "invaluable",
+    "validate",
+    "validity"
+   ]
+  },
+  {
+   "root": "-dur-",
+   "origin": "Latin durare / durus",
+   "zh": "持久；坚硬",
+   "ja": "続く；硬い",
+   "exp_zh": "来自拉丁语 durare（持久）和 durus（硬的）。durable“耐用的”，endure“使坚硬 → 忍受”，duration“持续时间”，duress“严厉 → 胁迫”。during 是 dure 的现在分词形式。",
+   "exp_ja": "ラテン語 durare（続く）と durus（硬い）から。durable「耐久性のある」、endure「耐える」、duration「期間」、duress「厳しさ → 脅迫」。during は dure の現在分詞形。",
+   "examples": [
+    "durable",
+    "endure",
+    "duration",
+    "endurance",
+    "obdurate",
+    "duress",
+    "during",
+    "indurate"
+   ]
+  },
+  {
+   "root": "-flu- / -flux-",
+   "origin": "Latin fluere / fluxus",
+   "zh": "流",
+   "ja": "流れる",
+   "exp_zh": "来自拉丁语 fluere（流；过去分词 fluxus）。fluent“流畅的”，influence“流入 → 影响”，fluctuate“像波浪流动 → 波动”，affluent“流入丰富的 → 富裕的”，influx“流入”，superfluous“溢出来的 → 多余的”。",
+   "exp_ja": "ラテン語 fluere（流れる、過去分詞 fluxus）から。fluent「流暢な」、influence「流れ込む → 影響」、fluctuate「波のように動く → 変動」、affluent「流れ込む → 裕福な」、influx「流入」、superfluous「あふれ出た → 余分な」。",
+   "examples": [
+    "fluent",
+    "influence",
+    "fluctuate",
+    "affluent",
+    "influx",
+    "superfluous",
+    "fluid",
+    "confluence"
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "manu",
+   "title_zh": "词根 -manu- / -man-：手",
+   "title_ja": "語根 -manu- / -man-：手",
+   "words": [
+    {
+     "w": "manual",
+     "pos": "adj./n.",
+     "ipa": "/ˈmænjuəl/",
+     "zh": "手工的；手册",
+     "ja": "手動の；取扱説明書",
+     "ex": "Please read the instruction manual before operating the machine.",
+     "ex_zh": "操作机器前请阅读使用手册。",
+     "ex_ja": "機械を操作する前に取扱説明書をお読みください。",
+     "parts": [
+      [
+       "manu",
+       "手",
+       "手"
+      ],
+      [
+       "-al",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 manualis“手的”，来自 manus“手”。",
+      "ja": "ラテン語 manualis（manus「手」）から。"
+     },
+     "forms": [
+      [
+       "user manual",
+       "用户手册",
+       "ユーザーマニュアル"
+      ],
+      [
+       "manual labor",
+       "体力劳动",
+       "肉体労働"
+      ]
+     ],
+     "tip": {
+      "zh": "也指“手动的”：manual transmission。",
+      "ja": "「手動の」の意も。"
+     }
+    },
+    {
+     "w": "manufacture",
+     "pos": "v./n.",
+     "ipa": "/ˌmænjəˈfæktʃɚ/",
+     "zh": "制造；制造业",
+     "ja": "製造（する）",
+     "ex": "The company manufactures parts for electric vehicles.",
+     "ex_zh": "该公司制造电动汽车零部件。",
+     "ex_ja": "同社は電気自動車の部品を製造しています。",
+     "parts": [
+      [
+       "manu",
+       "手",
+       "手"
+      ],
+      [
+       "fact",
+       "做",
+       "する"
+      ],
+      [
+       "-ure",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 manufactura“手工制作”（manu + facere）。",
+      "ja": "ラテン語 manufactura（manu＋facere）。"
+     },
+     "forms": [
+      [
+       "manufacturer (n.)",
+       "制造商",
+       "製造業者"
+      ],
+      [
+       "manufacturing (n.)",
+       "制造业",
+       "製造業"
+      ]
+     ],
+     "tip": {
+      "zh": "缩写 mfg.。",
+      "ja": "略して mfg。"
+     },
+     "hl": "manufactures"
+    },
+    {
+     "w": "manage",
+     "pos": "v.",
+     "ipa": "/ˈmænɪdʒ/",
+     "zh": "管理；设法做到",
+     "ja": "管理する；何とかする",
+     "ex": "She manages a team of twelve sales representatives.",
+     "ex_zh": "她管理着一个有十二名销售代表的团队。",
+     "ex_ja": "彼女は 12 人の営業担当者のチームを管理しています。",
+     "parts": [
+      [
+       "man",
+       "手",
+       "手"
+      ],
+      [
+       "-age",
+       "动词/名词后缀",
+       "動詞・名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "意大利语 maneggiare“用手操控”，来自拉丁语 manus。",
+      "ja": "イタリア語 maneggiare（ラテン語 manus）から。"
+     },
+     "forms": [
+      [
+       "manager (n.)",
+       "经理",
+       "マネージャー"
+      ],
+      [
+       "management (n.)",
+       "管理",
+       "管理"
+      ]
+     ],
+     "tip": {
+      "zh": "manage to do = 设法做成。",
+      "ja": "manage to do＝何とか〜する。"
+     },
+     "hl": "manages"
+    },
+    {
+     "w": "manipulate",
+     "pos": "v.",
+     "ipa": "/məˈnɪpjəˌleɪt/",
+     "zh": "操纵；巧妙处理",
+     "ja": "操作する；巧みに扱う",
+     "ex": "The technician carefully manipulated the controls.",
+     "ex_zh": "技术员仔细地操纵着控制器。",
+     "ex_ja": "技術者が慎重に操作装置を扱いました。",
+     "parts": [
+      [
+       "man",
+       "手",
+       "手"
+      ],
+      [
+       "-ipul",
+       "（连接）",
+       "つなぎ"
+      ],
+      [
+       "-ate",
+       "动词后缀",
+       "動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 manipulare“用手操作”，来自 manipulus“一小把”。",
+      "ja": "ラテン語 manipulare（manipulus「一把」）から。"
+     },
+     "forms": [
+      [
+       "manipulation (n.)",
+       "操纵",
+       "操作"
+      ],
+      [
+       "manipulative (adj.)",
+       "操纵性的",
+       "操作的な"
+      ]
+     ],
+     "tip": {
+      "zh": "也可指贬义“操纵数据/人心”。",
+      "ja": "悪い意味の「操る」もある。"
+     },
+     "hl": "manipulated"
+    },
+    {
+     "w": "maneuver",
+     "pos": "n./v.",
+     "ipa": "/məˈnuvɚ/",
+     "zh": "机动；策略；巧妙操作",
+     "ja": "機動；策略；（巧みに）動かす",
+     "ex": "Parking in that narrow space requires careful maneuvering.",
+     "ex_zh": "把车停进那个狭窄的空位需要小心操作。",
+     "ex_ja": "その狭いスペースに駐車するには慎重な操作が必要です。",
+     "parts": [
+      [
+       "man",
+       "手",
+       "手"
+      ],
+      [
+       "-euver",
+       "做（法语 œuvre）",
+       "行う"
+      ]
+     ],
+     "note": {
+      "zh": "法语 manœuvre“用手操作”，来自拉丁语 manu operari。",
+      "ja": "フランス語 manœuvre（ラテン語 manu operari）から。"
+     },
+     "forms": [
+      [
+       "parking maneuver",
+       "泊车操作",
+       "駐車操作"
+      ],
+      [
+       "maneuverability (n.)",
+       "机动性",
+       "機動性"
+      ]
+     ],
+     "tip": {
+      "zh": "英式拼写 manoeuvre。",
+      "ja": "イギリス綴りは manoeuvre。"
+     },
+     "hl": "maneuvering"
+    },
+    {
+     "w": "emancipate",
+     "pos": "v.",
+     "ipa": "/ɪˈmænsəˌpeɪt/",
+     "zh": "解放；使不受束缚",
+     "ja": "解放する",
+     "ex": "New technology has emancipated many workers from repetitive tasks.",
+     "ex_zh": "新技术把许多工人从重复劳动中解放出来。",
+     "ex_ja": "新技術が多くの労働者を反復作業から解放しました。",
+     "parts": [
+      [
+       "e-",
+       "向外",
+       "外へ"
+      ],
+      [
+       "man",
+       "手",
+       "手"
+      ],
+      [
+       "cip",
+       "拿（capere）",
+       "取る"
+      ],
+      [
+       "-ate",
+       "动词后缀",
+       "動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 emancipare“从主人手中释放”（ex + manus + capere）。",
+      "ja": "ラテン語 emancipare（ex＋manus＋capere）。"
+     },
+     "forms": [
+      [
+       "emancipation (n.)",
+       "解放",
+       "解放"
+      ],
+      [
+       "emancipated (adj.)",
+       "解放的",
+       "解放された"
+      ]
+     ],
+     "tip": {
+      "zh": "进阶词，历史/社会语境更常见。",
+      "ja": "やや上級。歴史・社会の文脈で。"
+     },
+     "hl": "emancipated"
+    },
+    {
+     "w": "managerial",
+     "pos": "adj.",
+     "ipa": "/ˌmænəˈdʒɪriəl/",
+     "zh": "管理的；经理的",
+     "ja": "管理の；経営の",
+     "ex": "She has strong managerial skills and leads by example.",
+     "ex_zh": "她有很强的管理能力，并以身作则。",
+     "ex_ja": "彼女は優れた管理能力を持ち、率先垂範で導いています。",
+     "parts": [
+      [
+       "man",
+       "手",
+       "手"
+      ],
+      [
+       "-ager",
+       "管理者词干",
+       "管理者"
+      ],
+      [
+       "-ial",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "manager + -ial。",
+      "ja": "manager＋-ial。"
+     },
+     "forms": [
+      [
+       "managerial staff",
+       "管理人员",
+       "管理職"
+      ],
+      [
+       "managerial experience",
+       "管理经验",
+       "管理経験"
+      ]
+     ],
+     "tip": {
+      "zh": "招聘广告：managerial experience required。",
+      "ja": "求人広告で頻出。"
+     }
+    },
+    {
+     "w": "command",
+     "pos": "n./v.",
+     "ipa": "/kəˈmænd/",
+     "zh": "指挥；命令；掌握",
+     "ja": "指揮する；命令；掌握",
+     "ex": "The captain is in command of the ship.",
+     "ex_zh": "船长指挥着这艘船。",
+     "ex_ja": "船長が船を指揮しています。",
+     "parts": [
+      [
+       "com-",
+       "完全",
+       "完全に"
+      ],
+      [
+       "man",
+       "手",
+       "手"
+      ],
+      [
+       "d",
+       "给（dare）",
+       "与える"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 commandare“托付、命令”（com + mandare“交给”）；mandare 来自 manus + dare。",
+      "ja": "ラテン語 commandare（manus＋dare「手で渡す」系）。"
+     },
+     "forms": [
+      [
+       "commander (n.)",
+       "指挥官",
+       "司令官"
+      ],
+      [
+       "command of English",
+       "英语掌握程度",
+       "英語の力"
+      ]
+     ],
+     "tip": {
+      "zh": "in command of = 指挥…。",
+      "ja": "in command of＝〜を指揮して。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "val",
+   "title_zh": "词根 -val- / -vail-：价值、强壮",
+   "title_ja": "語根 -val- / -vail-：価値・強い",
+   "words": [
+    {
+     "w": "valuable",
+     "pos": "adj./n.",
+     "ipa": "/ˈvæljəbəl/",
+     "zh": "贵重的；有价值的",
+     "ja": "貴重な；価値のある",
+     "ex": "Please keep your valuable belongings with you at all times.",
+     "ex_zh": "请随时妥善保管贵重物品。",
+     "ex_ja": "貴重品は常に身につけて保管してください。",
+     "parts": [
+      [
+       "val",
+       "价值；强壮",
+       "価値・強い"
+      ],
+      [
+       "-u",
+       "连接",
+       "つなぎ"
+      ],
+      [
+       "-able",
+       "能…的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "中世纪拉丁语 valorabilis，来自 valor“价值”。",
+      "ja": "中世ラテン語 valorabilis（valor「価値」）から。"
+     },
+     "forms": [
+      [
+       "value (n./v.)",
+       "价值；估价",
+       "価値；評価する"
+      ],
+      [
+       "valuables (n.)",
+       "贵重物品",
+       "貴重品"
+      ]
+     ],
+     "tip": {
+      "zh": "名词 valuables 常用复数。",
+      "ja": "名詞 valuables は複数。"
+     }
+    },
+    {
+     "w": "evaluate",
+     "pos": "v.",
+     "ipa": "/ɪˈvæljuˌeɪt/",
+     "zh": "评估；评价",
+     "ja": "評価する",
+     "ex": "The committee will evaluate all proposals by Friday.",
+     "ex_zh": "委员会将在周五前评估所有提案。",
+     "ex_ja": "委員会は金曜日までにすべての提案を評価します。",
+     "parts": [
+      [
+       "e-",
+       "向外",
+       "外へ"
+      ],
+      [
+       "val",
+       "价值；强壮",
+       "価値・強い"
+      ],
+      [
+       "-u",
+       "连接",
+       "つなぎ"
+      ],
+      [
+       "-ate",
+       "动词后缀",
+       "動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "法语 évaluer，来自拉丁语 valere“值、强壮”。",
+      "ja": "フランス語 évaluer（ラテン語 valere）から。"
+     },
+     "forms": [
+      [
+       "evaluation (n.)",
+       "评估",
+       "評価"
+      ],
+      [
+       "evaluator (n.)",
+       "评估人",
+       "評価者"
+      ]
+     ],
+     "tip": {
+      "zh": "同义 assess / appraise。",
+      "ja": "assess と同義。"
+     }
+    },
+    {
+     "w": "available",
+     "pos": "adj.",
+     "ipa": "/əˈveɪləbəl/",
+     "zh": "可得到的；有空的",
+     "ja": "利用できる；空いている",
+     "ex": "Tickets are available online until the day of the show.",
+     "ex_zh": "演出当天之前都可以在网上购票。",
+     "ex_ja": "チケットは公演当日までオンラインで購入できます。",
+     "parts": [
+      [
+       "a-",
+       "朝向",
+       "〜へ"
+      ],
+      [
+       "val",
+       "价值；强壮",
+       "価値・強い"
+      ],
+      [
+       "-able",
+       "能…的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "avail（古法语 availlier“有用”，拉丁语 valere）+ -able。",
+      "ja": "avail（ラテン語 valere「価値がある」）＋-able。"
+     },
+     "forms": [
+      [
+       "availability (n.)",
+       "可用性；有空",
+       "空き状況"
+      ],
+      [
+       "make available",
+       "提供",
+       "提供する"
+      ]
+     ],
+     "tip": {
+      "zh": "be available for = 可用于…／有空做…。",
+      "ja": "be available for の形。"
+     }
+    },
+    {
+     "w": "prevail",
+     "pos": "v.",
+     "ipa": "/prɪˈveɪl/",
+     "zh": "流行；占上风；获胜",
+     "ja": "広がる；勝つ；優勢である",
+     "ex": "Calm weather is expected to prevail over the weekend.",
+     "ex_zh": "预计周末将持续晴好天气。",
+     "ex_ja": "週末は穏やかな天候が続く見込みです。",
+     "parts": [
+      [
+       "pre-",
+       "在前",
+       "前に"
+      ],
+      [
+       "val",
+       "价值；强壮",
+       "価値・強い"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 praevalere“更强壮、占优势”。",
+      "ja": "ラテン語 praevalere「より強い」。"
+     },
+     "forms": [
+      [
+       "prevailing (adj.)",
+       "流行的；盛行的",
+       "優勢な"
+      ],
+      [
+       "prevail over",
+       "胜过",
+       "〜に勝る"
+      ]
+     ],
+     "tip": {
+      "zh": "prevailing opinion = 主流意见。",
+      "ja": "prevailing opinion＝一般的な意見。"
+     }
+    },
+    {
+     "w": "equivalent",
+     "pos": "adj./n.",
+     "ipa": "/ɪˈkwɪvələnt/",
+     "zh": "相等的；等价物",
+     "ja": "同等の；相当するもの",
+     "ex": "One euro is roughly equivalent to one US dollar at current rates.",
+     "ex_zh": "按当前汇率，一欧元大约等于一美元。",
+     "ex_ja": "現在の為替では 1 ユーロは約 1 米ドルに相当します。",
+     "parts": [
+      [
+       "equi-",
+       "相等",
+       "等しい"
+      ],
+      [
+       "val",
+       "价值；强壮",
+       "価値・強い"
+      ],
+      [
+       "-ent",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "晚期拉丁语 aequivalens“价值相等的”。",
+      "ja": "後期ラテン語 aequivalens「価値が等しい」。"
+     },
+     "forms": [
+      [
+       "equivalence (n.)",
+       "等价",
+       "同等"
+      ],
+      [
+       "be equivalent to",
+       "等于",
+       "〜に相当する"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5：the equivalent of…。",
+      "ja": "Part 5 で頻出。"
+     }
+    },
+    {
+     "w": "invaluable",
+     "pos": "adj.",
+     "ipa": "/ɪnˈvæljəbəl/",
+     "zh": "非常宝贵的；无价的",
+     "ja": "計り知れないほど貴重な",
+     "ex": "Her advice has been invaluable throughout the project.",
+     "ex_zh": "她的建议在整个项目中非常宝贵。",
+     "ex_ja": "彼女の助言はこのプロジェクトを通じて非常に貴重でした。",
+     "parts": [
+      [
+       "in-",
+       "不（无法估价）",
+       "〜でない"
+      ],
+      [
+       "val",
+       "价值；强壮",
+       "価値・強い"
+      ],
+      [
+       "-u",
+       "连接",
+       "つなぎ"
+      ],
+      [
+       "-able",
+       "能…的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "in- + valuable：贵到无法估价，≠“没有价值”（那是 worthless）。",
+      "ja": "in-＋valuable：値踏みできないほど貴重。worthless（無価値）とは逆。"
+     },
+     "forms": [
+      [
+       "invaluable experience",
+       "宝贵经验",
+       "貴重な経験"
+      ],
+      [
+       "invaluable resource",
+       "宝贵资源",
+       "貴重な資源"
+      ]
+     ],
+     "tip": {
+      "zh": "⚠️ invaluable ≠ worthless。",
+      "ja": "invaluable ≠ worthless。"
+     }
+    },
+    {
+     "w": "validate",
+     "pos": "v.",
+     "ipa": "/ˈvæləˌdeɪt/",
+     "zh": "确认有效；验证",
+     "ja": "有効にする；検証する",
+     "ex": "Please validate your parking ticket at the front desk.",
+     "ex_zh": "请在前台确认停车票有效。",
+     "ex_ja": "フロントで駐車券の認証をしてください。",
+     "parts": [
+      [
+       "val",
+       "价值；强壮",
+       "価値・強い"
+      ],
+      [
+       "-id",
+       "形容词词干",
+       "形容詞語幹"
+      ],
+      [
+       "-ate",
+       "动词后缀",
+       "動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "valid（拉丁语 validus“强壮的、有效的”）+ -ate。",
+      "ja": "valid（ラテン語 validus）＋-ate。"
+     },
+     "forms": [
+      [
+       "validation (n.)",
+       "验证",
+       "検証"
+      ],
+      [
+       "valid (adj.)",
+       "有效的",
+       "有効な"
+      ]
+     ],
+     "tip": {
+      "zh": "parking validation = 停车票盖章免费用。",
+      "ja": "駐車券の認証。"
+     }
+    },
+    {
+     "w": "validity",
+     "pos": "n.",
+     "ipa": "/vəˈlɪdəti/",
+     "zh": "有效性；合法性",
+     "ja": "有効性；妥当性",
+     "ex": "Please check the validity of your passport before traveling.",
+     "ex_zh": "出行前请检查护照是否在有效期内。",
+     "ex_ja": "旅行前にパスポートの有効期限を確認してください。",
+     "parts": [
+      [
+       "val",
+       "价值；强壮",
+       "価値・強い"
+      ],
+      [
+       "-id",
+       "形容词词干",
+       "形容詞語幹"
+      ],
+      [
+       "-ity",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "valid + -ity。",
+      "ja": "valid＋-ity。"
+     },
+     "forms": [
+      [
+       "period of validity",
+       "有效期",
+       "有効期間"
+      ],
+      [
+       "question the validity",
+       "质疑有效性",
+       "妥当性を疑う"
+      ]
+     ],
+     "tip": {
+      "zh": "passport validity 是旅行通知常见词。",
+      "ja": "パスポートの有効期限で頻出。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "dur",
+   "title_zh": "词根 -dur-：持久、坚硬",
+   "title_ja": "語根 -dur-：続く・硬い",
+   "words": [
+    {
+     "w": "durable",
+     "pos": "adj.",
+     "ipa": "/ˈdʊrəbəl/",
+     "zh": "耐用的；持久的",
+     "ja": "耐久性のある；長持ちする",
+     "ex": "This luggage is made of durable materials suitable for frequent travel.",
+     "ex_zh": "这款行李箱采用耐用材料，适合频繁出行。",
+     "ex_ja": "このスーツケースは頻繁な旅行に適した耐久素材でできています。",
+     "parts": [
+      [
+       "dur",
+       "持久；坚硬",
+       "続く・硬い"
+      ],
+      [
+       "-able",
+       "能…的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 durabilis，来自 durare“持久”。",
+      "ja": "ラテン語 durabilis（durare「続く」）から。"
+     },
+     "forms": [
+      [
+       "durability (n.)",
+       "耐用性",
+       "耐久性"
+      ],
+      [
+       "durable goods",
+       "耐用品",
+       "耐久財"
+      ]
+     ],
+     "tip": {
+      "zh": "产品广告高频。",
+      "ja": "製品広告で頻出。"
+     }
+    },
+    {
+     "w": "endure",
+     "pos": "v.",
+     "ipa": "/ɛnˈdʊr/",
+     "zh": "忍受；持续",
+     "ja": "耐える；続く",
+     "ex": "Passengers had to endure a three-hour delay.",
+     "ex_zh": "乘客不得不忍受三小时的延误。",
+     "ex_ja": "乗客は 3 時間の遅延に耐えなければなりませんでした。",
+     "parts": [
+      [
+       "en-",
+       "使",
+       "〜にする"
+      ],
+      [
+       "dur",
+       "持久；坚硬",
+       "続く・硬い"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 indurare“使变硬 → 坚持”。",
+      "ja": "ラテン語 indurare「硬くする → 耐える」。"
+     },
+     "forms": [
+      [
+       "endurance (n.)",
+       "耐力",
+       "忍耐力"
+      ],
+      [
+       "enduring (adj.)",
+       "持久的",
+       "長続きする"
+      ]
+     ],
+     "tip": {
+      "zh": "同义 put up with / withstand。",
+      "ja": "put up with と同義。"
+     }
+    },
+    {
+     "w": "duration",
+     "pos": "n.",
+     "ipa": "/dʊˈreɪʃən/",
+     "zh": "持续时间",
+     "ja": "期間；持続時間",
+     "ex": "The duration of the flight is approximately five hours.",
+     "ex_zh": "飞行时间大约五小时。",
+     "ex_ja": "飛行時間はおよそ 5 時間です。",
+     "parts": [
+      [
+       "dur",
+       "持久；坚硬",
+       "続く・硬い"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 duratio，来自 durare。",
+      "ja": "ラテン語 duratio（durare）から。"
+     },
+     "forms": [
+      [
+       "for the duration of",
+       "在…期间",
+       "〜の間"
+      ],
+      [
+       "short duration",
+       "短时间",
+       "短時間"
+      ]
+     ],
+     "tip": {
+      "zh": "for the duration of the meeting。",
+      "ja": "会議の間、など。"
+     }
+    },
+    {
+     "w": "endurance",
+     "pos": "n.",
+     "ipa": "/ɛnˈdʊrəns/",
+     "zh": "耐力；持久力",
+     "ja": "忍耐力；持久力",
+     "ex": "The training builds both strength and endurance.",
+     "ex_zh": "这项训练既能增强力量，也能提高耐力。",
+     "ex_ja": "このトレーニングは筋力と持久力の両方を高めます。",
+     "parts": [
+      [
+       "en-",
+       "使",
+       "〜にする"
+      ],
+      [
+       "dur",
+       "持久；坚硬",
+       "続く・硬い"
+      ],
+      [
+       "-ance",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "endure + -ance。",
+      "ja": "endure＋-ance。"
+     },
+     "forms": [
+      [
+       "endurance test",
+       "耐力测试",
+       "耐久試験"
+      ],
+      [
+       "endurance athlete",
+       "耐力运动员",
+       "持久系アスリート"
+      ]
+     ],
+     "tip": {
+      "zh": "产品 endurance test = 耐久试验。",
+      "ja": "製品の耐久試験。"
+     }
+    },
+    {
+     "w": "obdurate",
+     "pos": "adj.",
+     "ipa": "/ˈɑbdərət/",
+     "zh": "固执的；冷酷的",
+     "ja": "頑固な；冷酷な",
+     "ex": "Despite our requests, the landlord remained obdurate.",
+     "ex_zh": "尽管我们一再请求，房东仍然固执己见。",
+     "ex_ja": "何度頼んでも家主は頑固なままでした。",
+     "parts": [
+      [
+       "ob-",
+       "对着",
+       "向かって"
+      ],
+      [
+       "dur",
+       "持久；坚硬",
+       "続く・硬い"
+      ],
+      [
+       "-ate",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 obduratus“变硬的、顽固的”。",
+      "ja": "ラテン語 obduratus「硬くなった・頑固な」。"
+     },
+     "forms": [
+      [
+       "obduracy (n.)",
+       "固执",
+       "頑固さ"
+      ],
+      [
+       "stubborn (adj.)",
+       "固执的",
+       "頑固な"
+      ]
+     ],
+     "tip": {
+      "zh": "进阶词，同义 stubborn。",
+      "ja": "上級語。stubborn と同義。"
+     }
+    },
+    {
+     "w": "duress",
+     "pos": "n.",
+     "ipa": "/dʊˈrɛs/",
+     "zh": "胁迫；强制",
+     "ja": "脅迫；強制",
+     "ex": "The contract was signed under duress and is therefore invalid.",
+     "ex_zh": "合同是在胁迫下签署的，因此无效。",
+     "ex_ja": "その契約は脅迫の下で結ばれたため無効です。",
+     "parts": [
+      [
+       "dur",
+       "持久；坚硬",
+       "続く・硬い"
+      ],
+      [
+       "-ess",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 duresse“严厉”，来自拉丁语 duritia“坚硬”。",
+      "ja": "古フランス語 duresse（ラテン語 duritia「硬さ」）から。"
+     },
+     "forms": [
+      [
+       "under duress",
+       "在胁迫下",
+       "脅迫の下で"
+      ],
+      [
+       "duress of circumstances",
+       "情势所迫",
+       "状況による強制"
+      ]
+     ],
+     "tip": {
+      "zh": "法律语境：under duress。",
+      "ja": "法律の文脈で。"
+     }
+    },
+    {
+     "w": "during",
+     "pos": "prep.",
+     "ipa": "/ˈdʊrɪŋ/",
+     "zh": "在…期间",
+     "ja": "〜の間に",
+     "ex": "Please turn off your phones during the performance.",
+     "ex_zh": "演出期间请关闭手机。",
+     "ex_ja": "公演中は携帯電話の電源をお切りください。",
+     "parts": [
+      [
+       "dur",
+       "持久；坚硬",
+       "続く・硬い"
+      ],
+      [
+       "-ing",
+       "词尾",
+       "語尾"
+      ]
+     ],
+     "note": {
+      "zh": "中古英语 during，来自 dure“持续”的现在分词。",
+      "ja": "中英語 during（dure「続く」の現在分詞）から。"
+     },
+     "forms": [
+      [
+       "during office hours",
+       "在办公时间内",
+       "営業時間中に"
+      ],
+      [
+       "during the meeting",
+       "会议期间",
+       "会議中に"
+      ]
+     ],
+     "tip": {
+      "zh": "介词；不要与 for（持续多久）混淆。",
+      "ja": "前置詞。for（期間の長さ）と区別。"
+     }
+    },
+    {
+     "w": "indurate",
+     "pos": "v./adj.",
+     "ipa": "/ˈɪndəˌreɪt/",
+     "zh": "使变硬；冷酷的",
+     "ja": "硬くする；冷酷な",
+     "ex": "Years of criticism had indurated him against harsh reviews.",
+     "ex_zh": "多年的批评使他对外界苛评变得麻木。",
+     "ex_ja": "長年の批判で彼は厳しい批評に動じなくなっていました。",
+     "parts": [
+      [
+       "in-",
+       "使",
+       "〜にする"
+      ],
+      [
+       "dur",
+       "持久；坚硬",
+       "続く・硬い"
+      ],
+      [
+       "-ate",
+       "动词后缀",
+       "動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 indurare“使变硬”。",
+      "ja": "ラテン語 indurare「硬くする」。"
+     },
+     "forms": [
+      [
+       "induration (n.)",
+       "硬化",
+       "硬化"
+      ],
+      [
+       "hardened (adj.)",
+       "变硬的；冷酷的",
+       "硬化した；冷酷な"
+      ]
+     ],
+     "tip": {
+      "zh": "进阶医学/文学词；TOEIC 较少，作词根扩展。",
+      "ja": "やや上級。語根理解用。"
+     },
+     "hl": "indurated"
+    }
+   ]
+  },
+  {
+   "id": "flu",
+   "title_zh": "词根 -flu- / -flux-：流",
+   "title_ja": "語根 -flu- / -flux-：流れる",
+   "words": [
+    {
+     "w": "fluent",
+     "pos": "adj.",
+     "ipa": "/ˈfluənt/",
+     "zh": "流利的",
+     "ja": "流暢な",
+     "ex": "Applicants must be fluent in both English and Japanese.",
+     "ex_zh": "应聘者必须英语和日语都流利。",
+     "ex_ja": "応募者は英語と日本語の両方に流暢である必要があります。",
+     "parts": [
+      [
+       "flu",
+       "流",
+       "流れる"
+      ],
+      [
+       "-ent",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 fluens“流动的”，fluere 的现在分词。",
+      "ja": "ラテン語 fluens（fluere「流れる」の現在分詞）。"
+     },
+     "forms": [
+      [
+       "fluency (n.)",
+       "流利",
+       "流暢さ"
+      ],
+      [
+       "be fluent in",
+       "精通…",
+       "〜が流暢だ"
+      ]
+     ],
+     "tip": {
+      "zh": "招聘广告高频。",
+      "ja": "求人広告で頻出。"
+     }
+    },
+    {
+     "w": "influence",
+     "pos": "n./v.",
+     "ipa": "/ˈɪnfluəns/",
+     "zh": "影响",
+     "ja": "影響（する）",
+     "ex": "Social media can strongly influence consumer decisions.",
+     "ex_zh": "社交媒体能强烈影响消费者的决定。",
+     "ex_ja": "ソーシャルメディアは消費者の決定に強く影響し得ます。",
+     "parts": [
+      [
+       "in-",
+       "向内",
+       "中へ"
+      ],
+      [
+       "flu",
+       "流",
+       "流れる"
+      ],
+      [
+       "-ence",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "中世纪拉丁语 influentia“流入”（旧指星辰影响）。",
+      "ja": "中世ラテン語 influentia「流れ込むこと」。"
+     },
+     "forms": [
+      [
+       "influential (adj.)",
+       "有影响力的",
+       "影響力のある"
+      ],
+      [
+       "under the influence of",
+       "在…影响下",
+       "〜の影響下で"
+      ]
+     ],
+     "tip": {
+      "zh": "动词 influence A to do。",
+      "ja": "動詞 influence A to do。"
+     }
+    },
+    {
+     "w": "fluctuate",
+     "pos": "v.",
+     "ipa": "/ˈflʌktʃuˌeɪt/",
+     "zh": "波动；上下浮动",
+     "ja": "変動する；上下する",
+     "ex": "Oil prices have fluctuated widely this year.",
+     "ex_zh": "今年油价剧烈波动。",
+     "ex_ja": "今年は原油価格が大きく変動しています。",
+     "parts": [
+      [
+       "fluctu",
+       "波浪（fluctus）",
+       "波"
+      ],
+      [
+       "-ate",
+       "动词后缀",
+       "動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 fluctuare“像波浪一样动”，来自 fluctus“波”（fluere）。",
+      "ja": "ラテン語 fluctuare（fluctus「波」＜fluere）。"
+     },
+     "forms": [
+      [
+       "fluctuation (n.)",
+       "波动",
+       "変動"
+      ],
+      [
+       "price fluctuation",
+       "价格波动",
+       "価格変動"
+      ]
+     ],
+     "tip": {
+      "zh": "图表、经济报道常见。",
+      "ja": "経済記事で頻出。"
+     },
+     "hl": "fluctuated"
+    },
+    {
+     "w": "affluent",
+     "pos": "adj.",
+     "ipa": "/ˈæfluənt/",
+     "zh": "富裕的",
+     "ja": "裕福な",
+     "ex": "The store targets affluent customers in urban areas.",
+     "ex_zh": "这家店面向城市富裕顾客。",
+     "ex_ja": "その店は都市部の裕福な顧客を対象としています。",
+     "parts": [
+      [
+       "af-",
+       "朝向（= ad-）",
+       "〜へ"
+      ],
+      [
+       "flu",
+       "流",
+       "流れる"
+      ],
+      [
+       "-ent",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 affluere“流向 → 丰富”。",
+      "ja": "ラテン語 affluere「流れ込む → 豊か」。"
+     },
+     "forms": [
+      [
+       "affluence (n.)",
+       "富裕",
+       "裕福"
+      ],
+      [
+       "affluent neighborhood",
+       "富裕社区",
+       "高級住宅街"
+      ]
+     ],
+     "tip": {
+      "zh": "同义 wealthy。",
+      "ja": "wealthy と同義。"
+     }
+    },
+    {
+     "w": "influx",
+     "pos": "n.",
+     "ipa": "/ˈɪnˌflʌks/",
+     "zh": "涌入；流入",
+     "ja": "流入；殺到",
+     "ex": "The city has seen a large influx of tourists this summer.",
+     "ex_zh": "今年夏天这座城市涌入了大量游客。",
+     "ex_ja": "今夏、市には観光客が大量に流入しています。",
+     "parts": [
+      [
+       "in-",
+       "向内",
+       "中へ"
+      ],
+      [
+       "flux",
+       "流",
+       "流れる"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 influxus“流入”。",
+      "ja": "ラテン語 influxus「流入」。"
+     },
+     "forms": [
+      [
+       "influx of",
+       "…的涌入",
+       "〜の流入"
+      ],
+      [
+       "tourist influx",
+       "游客涌入",
+       "観光客の流入"
+      ]
+     ],
+     "tip": {
+      "zh": "同义 inflow。",
+      "ja": "inflow と同義。"
+     }
+    },
+    {
+     "w": "superfluous",
+     "pos": "adj.",
+     "ipa": "/sʊˈpɝfluəs/",
+     "zh": "多余的；不必要的",
+     "ja": "余分な；不要な",
+     "ex": "Please remove any superfluous information from the report.",
+     "ex_zh": "请删除报告中任何多余的信息。",
+     "ex_ja": "報告書から余分な情報を削除してください。",
+     "parts": [
+      [
+       "super-",
+       "超过",
+       "超えて"
+      ],
+      [
+       "flu",
+       "流",
+       "流れる"
+      ],
+      [
+       "-ous",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 superfluus“溢出来的”。",
+      "ja": "ラテン語 superfluus「あふれ出た」。"
+     },
+     "forms": [
+      [
+       "superfluous detail",
+       "多余细节",
+       "余分な詳細"
+      ],
+      [
+       "unnecessary (adj.)",
+       "不必要的",
+       "不要な"
+      ]
+     ],
+     "tip": {
+      "zh": "同义 unnecessary / redundant。",
+      "ja": "unnecessary と同義。"
+     }
+    },
+    {
+     "w": "fluid",
+     "pos": "n./adj.",
+     "ipa": "/ˈfluɪd/",
+     "zh": "液体；流动的；不固定的",
+     "ja": "液体；流動的な",
+     "ex": "Check the brake fluid before starting a long trip.",
+     "ex_zh": "长途旅行前请检查刹车油。",
+     "ex_ja": "長距離運転の前にブレーキ液を点検してください。",
+     "parts": [
+      [
+       "flu",
+       "流",
+       "流れる"
+      ],
+      [
+       "-id",
+       "形容词/名词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 fluidus“流动的”。",
+      "ja": "ラテン語 fluidus「流れる」。"
+     },
+     "forms": [
+      [
+       "fluid situation",
+       "不稳定的局势",
+       "流動的な状況"
+      ],
+      [
+       "cleaning fluid",
+       "清洗液",
+       "洗浄液"
+      ]
+     ],
+     "tip": {
+      "zh": "比喻：a fluid schedule = 不固定的日程。",
+      "ja": "比喩で流動的な予定。"
+     }
+    },
+    {
+     "w": "confluence",
+     "pos": "n.",
+     "ipa": "/ˈkɑnfluəns/",
+     "zh": "汇合；交汇处",
+     "ja": "合流；合流点",
+     "ex": "The hotel is located at the confluence of two rivers.",
+     "ex_zh": "酒店位于两条河的汇合处。",
+     "ex_ja": "そのホテルは二つの川の合流点にあります。",
+     "parts": [
+      [
+       "con-",
+       "一起",
+       "共に"
+      ],
+      [
+       "flu",
+       "流",
+       "流れる"
+      ],
+      [
+       "-ence",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "晚期拉丁语 confluentia“流到一起”。",
+      "ja": "後期ラテン語 confluentia「流れ合うこと」。"
+     },
+     "forms": [
+      [
+       "confluence of ideas",
+       "思想的汇合",
+       "アイデアの融合"
+      ],
+      [
+       "river confluence",
+       "河流交汇",
+       "川の合流"
+      ]
+     ],
+     "tip": {
+      "zh": "进阶地理/比喻词。",
+      "ja": "やや上級。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "gov",
+   "title_zh": "主题：政府与公共事务",
+   "title_ja": "テーマ：行政・公共",
+   "words": [
+    {
+     "w": "municipal",
+     "pos": "adj.",
+     "ipa": "/mjuˈnɪsəpəl/",
+     "zh": "市政的；地方自治的",
+     "ja": "市の；地方自治体の",
+     "ex": "Municipal elections will be held next month.",
+     "ex_zh": "市政选举将于下月举行。",
+     "ex_ja": "来月、市議会議員選挙が行われます。",
+     "parts": [
+      [
+       "muni",
+       "义务；职责（munus）",
+       "義務"
+      ],
+      [
+       "cip",
+       "拿",
+       "取る"
+      ],
+      [
+       "-al",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 municipalis，来自 municipium“自治市”。",
+      "ja": "ラテン語 municipalis（municipium「自治都市」）から。"
+     },
+     "forms": [
+      [
+       "municipality (n.)",
+       "市政府；自治体",
+       "自治体"
+      ],
+      [
+       "municipal government",
+       "市政府",
+       "市政府"
+      ]
+     ],
+     "tip": {
+      "zh": "municipal bond = 市政债券。",
+      "ja": "municipal bond＝地方債。"
+     }
+    },
+    {
+     "w": "ordinance",
+     "pos": "n.",
+     "ipa": "/ˈɔrdənəns/",
+     "zh": "法令；条例",
+     "ja": "条例；法令",
+     "ex": "A new city ordinance bans smoking in public parks.",
+     "ex_zh": "一项新的市条例禁止在公园吸烟。",
+     "ex_ja": "新しい市条例で公園での喫煙が禁止されます。",
+     "parts": [
+      [
+       "ordin",
+       "秩序（ordo）",
+       "秩序"
+      ],
+      [
+       "-ance",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 ordenance，来自拉丁语 ordinare“安排”。",
+      "ja": "古フランス語 ordenance（ラテン語 ordinare）から。"
+     },
+     "forms": [
+      [
+       "city ordinance",
+       "市条例",
+       "市条例"
+      ],
+      [
+       "noise ordinance",
+       "噪音条例",
+       "騒音条例"
+      ]
+     ],
+     "tip": {
+      "zh": "比 law 更常指地方条例。",
+      "ja": "地方の条例を指す。"
+     }
+    },
+    {
+     "w": "mayor",
+     "pos": "n.",
+     "ipa": "/ˈmeɪɚ/",
+     "zh": "市长",
+     "ja": "市長",
+     "ex": "The mayor announced plans to expand public transportation.",
+     "ex_zh": "市长宣布了扩大公共交通的计划。",
+     "ex_ja": "市長が公共交通の拡充計画を発表しました。",
+     "parts": [
+      [
+       "may",
+       "大（maior）",
+       "大きい"
+      ],
+      [
+       "-er",
+       "表示人",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 maire，来自拉丁语 maior“更大的”。",
+      "ja": "古フランス語 maire（ラテン語 maior「より大きい」）から。"
+     },
+     "forms": [
+      [
+       "deputy mayor",
+       "副市长",
+       "副市長"
+      ],
+      [
+       "mayoral (adj.)",
+       "市长的",
+       "市長の"
+      ]
+     ],
+     "tip": {
+      "zh": "读 /ˈmeɪɚ/，不是 /ˈmaɪɚ/（虽也有）。",
+      "ja": "発音 /ˈmeɪɚ/。"
+     }
+    },
+    {
+     "w": "council",
+     "pos": "n.",
+     "ipa": "/ˈkaʊnsəl/",
+     "zh": "委员会；议会",
+     "ja": "評議会；議会",
+     "ex": "The city council voted in favor of the new housing plan.",
+     "ex_zh": "市议会投票赞成新住房计划。",
+     "ex_ja": "市議会は新しい住宅計画に賛成票を投じました。",
+     "parts": [
+      [
+       "coun",
+       "一起（= con-）",
+       "共に"
+      ],
+      [
+       "cil",
+       "召唤（calare）",
+       "呼ぶ"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 concile，来自拉丁语 concilium“召集在一起”。",
+      "ja": "古フランス語 concile（ラテン語 concilium）から。"
+     },
+     "forms": [
+      [
+       "city council",
+       "市议会",
+       "市議会"
+      ],
+      [
+       "council member",
+       "议员",
+       "議員"
+      ]
+     ],
+     "tip": {
+      "zh": "council（议会）≠ counsel（建议）。",
+      "ja": "council と counsel を区別。"
+     }
+    },
+    {
+     "w": "bureaucracy",
+     "pos": "n.",
+     "ipa": "/bjʊˈrɑkrəsi/",
+     "zh": "官僚机构；官僚作风",
+     "ja": "官僚制度；お役所仕事",
+     "ex": "Excessive bureaucracy can slow down the approval process.",
+     "ex_zh": "过多的官僚程序会拖慢审批进度。",
+     "ex_ja": "過剰な官僚主義は承認手続きを遅らせることがあります。",
+     "parts": [
+      [
+       "bureau",
+       "办公桌；局",
+       "机・局"
+      ],
+      [
+       "-cracy",
+       "统治",
+       "支配"
+      ]
+     ],
+     "note": {
+      "zh": "法语 bureaucratie（bureau“办公桌”+ 希腊语 -kratia“统治”）。",
+      "ja": "フランス語 bureaucratie。"
+     },
+     "forms": [
+      [
+       "bureaucratic (adj.)",
+       "官僚的",
+       "官僚的な"
+      ],
+      [
+       "bureaucrat (n.)",
+       "官僚",
+       "官僚"
+      ]
+     ],
+     "tip": {
+      "zh": "常含贬义。",
+      "ja": "しばしば否定的。"
+     }
+    },
+    {
+     "w": "citizen",
+     "pos": "n.",
+     "ipa": "/ˈsɪtəzən/",
+     "zh": "公民；市民",
+     "ja": "市民；国民",
+     "ex": "All citizens are required to renew their ID cards every ten years.",
+     "ex_zh": "所有公民须每十年更换一次身份证。",
+     "ex_ja": "すべての市民は 10 年ごとに身分証を更新する必要があります。",
+     "parts": [
+      [
+       "cit",
+       "城市（civitas）",
+       "都市"
+      ],
+      [
+       "-izen",
+       "表示人",
+       "〜の人"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 citeien，来自拉丁语 civitas“城市”。",
+      "ja": "古フランス語 citeien（ラテン語 civitas）から。"
+     },
+     "forms": [
+      [
+       "citizenship (n.)",
+       "公民身份",
+       "市民権"
+      ],
+      [
+       "senior citizen",
+       "老年人",
+       "高齢者"
+      ]
+     ],
+     "tip": {
+      "zh": "senior citizen = 老年人。",
+      "ja": "senior citizen＝高齢者。"
+     }
+    },
+    {
+     "w": "ballot",
+     "pos": "n.",
+     "ipa": "/ˈbælət/",
+     "zh": "选票；投票",
+     "ja": "投票用紙；投票",
+     "ex": "Voters will cast their ballots on Tuesday.",
+     "ex_zh": "选民将于周二投票。",
+     "ex_ja": "有権者は火曜日に投票します。",
+     "parts": [
+      [
+       "ball",
+       "小球（意大利语）",
+       "小さな玉"
+      ],
+      [
+       "-ot",
+       "指小后缀",
+       "小さい"
+      ]
+     ],
+     "note": {
+      "zh": "意大利语 ballotta“小金球”（古代抽签/投票用）。",
+      "ja": "イタリア語 ballotta「小さな球」。"
+     },
+     "forms": [
+      [
+       "cast a ballot",
+       "投票",
+       "投票する"
+      ],
+      [
+       "secret ballot",
+       "无记名投票",
+       "無記名投票"
+      ]
+     ],
+     "tip": {
+      "zh": "cast a ballot = 投票。",
+      "ja": "cast a ballot＝投票する。"
+     },
+     "hl": "ballots"
+    },
+    {
+     "w": "petition",
+     "pos": "n./v.",
+     "ipa": "/pəˈtɪʃən/",
+     "zh": "请愿（书）；请求",
+     "ja": "請願（書）；要請する",
+     "ex": "Residents signed a petition against the new parking fees.",
+     "ex_zh": "居民签名请愿反对新的停车费。",
+     "ex_ja": "住民は新しい駐車料金に反対する請願書に署名しました。",
+     "parts": [
+      [
+       "pet",
+       "寻求",
+       "求める"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 petitio“请求”，来自 petere。",
+      "ja": "ラテン語 petitio（petere「求める」）から。"
+     },
+     "forms": [
+      [
+       "sign a petition",
+       "在请愿书上签名",
+       "請願書に署名する"
+      ],
+      [
+       "petition for",
+       "请求…",
+       "〜を請願する"
+      ]
+     ],
+     "tip": {
+      "zh": "Day 11 也会学 -pet- 词根。",
+      "ja": "Day 11 で -pet- も学ぶ。"
+     }
+    },
+    {
+     "w": "referendum",
+     "pos": "n.",
+     "ipa": "/ˌrɛfəˈrɛndəm/",
+     "zh": "公民投票",
+     "ja": "国民投票；住民投票",
+     "ex": "A referendum on the tax increase will be held in June.",
+     "ex_zh": "关于增税的公民投票将于六月举行。",
+     "ex_ja": "増税に関する住民投票が 6 月に行われます。",
+     "parts": [
+      [
+       "refer",
+       "交付（re + fer）",
+       "委ねる"
+      ],
+      [
+       "-endum",
+       "应…的事物",
+       "〜されるべきもの"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 referendum“应交付表决的事”（Day 3 词根 -fer-）。",
+      "ja": "ラテン語 referendum（Day 3 の -fer-）。"
+     },
+     "forms": [
+      [
+       "hold a referendum",
+       "举行公投",
+       "住民投票を行う"
+      ],
+      [
+       "nationwide referendum",
+       "全国公投",
+       "全国民投票"
+      ]
+     ],
+     "tip": {
+      "zh": "政治新闻常见。",
+      "ja": "政治ニュースで。"
+     }
+    },
+    {
+     "w": "taxpayer",
+     "pos": "n.",
+     "ipa": "/ˈtæksˌpeɪɚ/",
+     "zh": "纳税人",
+     "ja": "納税者",
+     "ex": "Taxpayers will receive refunds by the end of the month.",
+     "ex_zh": "纳税人将在月底前收到退税。",
+     "ex_ja": "納税者は月末までに還付金を受け取ります。",
+     "parts": [
+      [
+       "tax",
+       "税",
+       "税"
+      ],
+      [
+       "pay",
+       "支付",
+       "払う"
+      ],
+      [
+       "-er",
+       "表示人",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "本族词复合 tax + payer；没有拉丁词根拆分的必要。",
+      "ja": "tax＋payer の複合語。"
+     },
+     "forms": [
+      [
+       "taxpayer money",
+       "纳税人的钱",
+       "税金"
+      ],
+      [
+       "taxpayer identification",
+       "纳税人识别号",
+       "納税者番号"
+      ]
+     ],
+     "tip": {
+      "zh": "政府通知常见。",
+      "ja": "行政の通知で。"
+     },
+     "hl": "Taxpayers"
+    },
+    {
+     "w": "census",
+     "pos": "n.",
+     "ipa": "/ˈsɛnsəs/",
+     "zh": "人口普查",
+     "ja": "国勢調査",
+     "ex": "The national census is conducted every ten years.",
+     "ex_zh": "全国人口普查每十年进行一次。",
+     "ex_ja": "国勢調査は 10 年ごとに実施されます。",
+     "parts": [
+      [
+       "cens",
+       "评估；登记",
+       "評価する"
+      ],
+      [
+       "-us",
+       "名词词尾",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 census“登记、评估财产”。",
+      "ja": "ラテン語 census「登録・資産評価」。"
+     },
+     "forms": [
+      [
+       "census data",
+       "普查数据",
+       "国勢調査データ"
+      ],
+      [
+       "census bureau",
+       "普查局",
+       "国勢調査局"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7 通知可能出现。",
+      "ja": "Part 7 のお知らせで。"
+     }
+    },
+    {
+     "w": "district",
+     "pos": "n.",
+     "ipa": "/ˈdɪstrɪkt/",
+     "zh": "地区；行政区",
+     "ja": "地区；区域",
+     "ex": "The school district will hold a public meeting next week.",
+     "ex_zh": "学区将于下周举行公开会议。",
+     "ex_ja": "学区は来週、公開会議を開きます。",
+     "parts": [
+      [
+       "di-",
+       "分开",
+       "分けて"
+      ],
+      [
+       "strict",
+       "拉紧（stringere）",
+       "引き締める"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 districtus“被划分管辖的区域”。",
+      "ja": "ラテン語 districtus「管轄区域」。"
+     },
+     "forms": [
+      [
+       "school district",
+       "学区",
+       "学区"
+      ],
+      [
+       "business district",
+       "商业区",
+       "ビジネス街"
+      ]
+     ],
+     "tip": {
+      "zh": "business district = 商业区。",
+      "ja": "business district＝ビジネス街。"
+     }
+    },
+    {
+     "w": "authority",
+     "pos": "n.",
+     "ipa": "/əˈθɔrəti/",
+     "zh": "当局；权威；权限",
+     "ja": "当局；権威；権限",
+     "ex": "Local authorities have closed the bridge for repairs.",
+     "ex_zh": "地方当局因维修关闭了这座桥。",
+     "ex_ja": "地方当局が補修のため橋を閉鎖しました。",
+     "parts": [
+      [
+       "author",
+       "作者；创始（auctor）",
+       "創始者"
+      ],
+      [
+       "-ity",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 autorité，来自拉丁语 auctoritas。",
+      "ja": "古フランス語 autorité（ラテン語 auctoritas）から。"
+     },
+     "forms": [
+      [
+       "authorities (n.)",
+       "当局",
+       "当局"
+      ],
+      [
+       "have authority to",
+       "有权…",
+       "〜する権限がある"
+      ]
+     ],
+     "tip": {
+      "zh": "复数 authorities = 当局。",
+      "ja": "複数形 authorities＝当局。"
+     },
+     "hl": "authorities"
+    },
+    {
+     "w": "enact",
+     "pos": "v.",
+     "ipa": "/ɛˈnækt/",
+     "zh": "制定（法律）；上演",
+     "ja": "制定する；上演する",
+     "ex": "Congress enacted a new law to protect consumer privacy.",
+     "ex_zh": "国会制定了新法以保护消费者隐私。",
+     "ex_ja": "議会は消費者のプライバシーを守る新法を制定しました。",
+     "parts": [
+      [
+       "en-",
+       "使",
+       "〜にする"
+      ],
+      [
+       "act",
+       "做；法令",
+       "行う・法令"
+      ]
+     ],
+     "note": {
+      "zh": "en- + act（拉丁语 actum“法令、行为”）。",
+      "ja": "en-＋act（ラテン語 actum）。"
+     },
+     "forms": [
+      [
+       "enactment (n.)",
+       "制定；法令",
+       "制定；法令"
+      ],
+      [
+       "enact a law",
+       "制定法律",
+       "法律を制定する"
+      ]
+     ],
+     "tip": {
+      "zh": "同义 pass a law。",
+      "ja": "pass a law と同義。"
+     },
+     "hl": "enacted"
+    }
+   ]
+  },
+  {
+   "id": "edu",
+   "title_zh": "主题：教育与培训",
+   "title_ja": "テーマ：教育・研修",
+   "words": [
+    {
+     "w": "tuition",
+     "pos": "n.",
+     "ipa": "/tuˈɪʃən/",
+     "zh": "学费",
+     "ja": "授業料",
+     "ex": "Tuition fees will increase by 3 percent next year.",
+     "ex_zh": "学费明年将上涨 3%。",
+     "ex_ja": "授業料は来年 3％上がります。",
+     "parts": [
+      [
+       "tuit",
+       "看护；教导（tueri）",
+       "見守る"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 tuitio“看护、教导”。",
+      "ja": "ラテン語 tuitio「保護・教導」。"
+     },
+     "forms": [
+      [
+       "tuition fee",
+       "学费",
+       "授業料"
+      ],
+      [
+       "free tuition",
+       "免学费",
+       "授業料無料"
+      ]
+     ],
+     "tip": {
+      "zh": "美式 tuition = 学费；英式常说 school fees。",
+      "ja": "米国では授業料。"
+     },
+     "hl": "Tuition"
+    },
+    {
+     "w": "enrollment",
+     "pos": "n.",
+     "ipa": "/ɛnˈroʊlmənt/",
+     "zh": "注册；入学人数",
+     "ja": "登録；在籍者数",
+     "ex": "Enrollment in the evening course has doubled this year.",
+     "ex_zh": "今年夜间课程的报名人数翻了一番。",
+     "ex_ja": "夜間講座の受講登録者は今年 2 倍になりました。",
+     "parts": [
+      [
+       "en-",
+       "使进入",
+       "中へ"
+      ],
+      [
+       "roll",
+       "名单；名册",
+       "名簿"
+      ],
+      [
+       "-ment",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "enroll（en- + roll“名册”）+ -ment。",
+      "ja": "enroll＋-ment。"
+     },
+     "forms": [
+      [
+       "enroll (v.)",
+       "注册；入学",
+       "登録する"
+      ],
+      [
+       "open enrollment",
+       "开放注册期",
+       "登録受付期間"
+      ]
+     ],
+     "tip": {
+      "zh": "英式拼写 enrolment。",
+      "ja": "イギリス綴りは enrolment。"
+     }
+    },
+    {
+     "w": "scholarship",
+     "pos": "n.",
+     "ipa": "/ˈskɑlɚˌʃɪp/",
+     "zh": "奖学金；学问",
+     "ja": "奨学金；学問",
+     "ex": "She received a full scholarship to study abroad.",
+     "ex_zh": "她获得了出国留学的全额奖学金。",
+     "ex_ja": "彼女は留学のための全額奨学金を受けました。",
+     "parts": [
+      [
+       "scholar",
+       "学者",
+       "学者"
+      ],
+      [
+       "-ship",
+       "状态；身份",
+       "状態・身分"
+      ]
+     ],
+     "note": {
+      "zh": "scholar（拉丁语 scholaris，来自 schola“学校”）+ -ship。",
+      "ja": "scholar（ラテン語 schola「学校」）＋-ship。"
+     },
+     "forms": [
+      [
+       "scholarship program",
+       "奖学金计划",
+       "奨学金制度"
+      ],
+      [
+       "apply for a scholarship",
+       "申请奖学金",
+       "奨学金に応募する"
+      ]
+     ],
+     "tip": {
+      "zh": "full scholarship = 全额奖学金。",
+      "ja": "full scholarship＝全額奨学金。"
+     }
+    },
+    {
+     "w": "diploma",
+     "pos": "n.",
+     "ipa": "/dɪˈploʊmə/",
+     "zh": "文凭；毕业证书",
+     "ja": "卒業証書；免状",
+     "ex": "Graduates will receive their diplomas at the ceremony.",
+     "ex_zh": "毕业生将在典礼上领取文凭。",
+     "ex_ja": "卒業生は式典で卒業証書を受け取ります。",
+     "parts": [
+      [
+       "diplo",
+       "折叠的（希腊语）",
+       "折った"
+      ],
+      [
+       "-ma",
+       "名词词尾",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "希腊语 diploma“折叠的文件 → 官方证书”。",
+      "ja": "ギリシャ語 diploma「折った公文書」。"
+     },
+     "forms": [
+      [
+       "high school diploma",
+       "高中文凭",
+       "高校の卒業証書"
+      ],
+      [
+       "diploma course",
+       "文凭课程",
+       "ディプロマ課程"
+      ]
+     ],
+     "tip": {
+      "zh": "与 degree（学位）不同。",
+      "ja": "degree（学位）と区別。"
+     },
+     "hl": "diplomas"
+    },
+    {
+     "w": "semester",
+     "pos": "n.",
+     "ipa": "/səˈmɛstɚ/",
+     "zh": "学期",
+     "ja": "学期；セメスター",
+     "ex": "Final exams will be held at the end of the semester.",
+     "ex_zh": "期末考试将在学期末举行。",
+     "ex_ja": "期末試験は学期末に行われます。",
+     "parts": [
+      [
+       "se-",
+       "六",
+       "六"
+      ],
+      [
+       "mester",
+       "月（mensis）",
+       "月"
+      ]
+     ],
+     "note": {
+      "zh": "德语 Semester，来自拉丁语 semestris“六个月的”。",
+      "ja": "ドイツ語 Semester（ラテン語 semestris「6 か月の」）。"
+     },
+     "forms": [
+      [
+       "fall semester",
+       "秋季学期",
+       "秋学期"
+      ],
+      [
+       "semester break",
+       "学期假期",
+       "学期休暇"
+      ]
+     ],
+     "tip": {
+      "zh": "英式也说 term。",
+      "ja": "イギリスでは term とも。"
+     }
+    },
+    {
+     "w": "faculty",
+     "pos": "n.",
+     "ipa": "/ˈfækəlti/",
+     "zh": "全体教师；院系；能力",
+     "ja": "教員団；学部；能力",
+     "ex": "The faculty will meet to discuss curriculum changes.",
+     "ex_zh": "全体教师将开会讨论课程改革。",
+     "ex_ja": "教員団がカリキュラム変更について話し合います。",
+     "parts": [
+      [
+       "fac",
+       "做",
+       "する"
+      ],
+      [
+       "-ulty",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 facultas“能力、便利”（Day 7 词根 -fac-）。",
+      "ja": "ラテン語 facultas（Day 7 の -fac-）。"
+     },
+     "forms": [
+      [
+       "faculty member",
+       "教员",
+       "教員"
+      ],
+      [
+       "the faculty of law",
+       "法学院",
+       "法学部"
+      ]
+     ],
+     "tip": {
+      "zh": "美式：全体教师；英式常指“院系”。",
+      "ja": "米国では教員団。"
+     }
+    },
+    {
+     "w": "assignment",
+     "pos": "n.",
+     "ipa": "/əˈsaɪnmənt/",
+     "zh": "作业；任务；分配",
+     "ja": "課題；任務；割り当て",
+     "ex": "Please submit your assignment by Friday afternoon.",
+     "ex_zh": "请于周五下午前提交作业。",
+     "ex_ja": "金曜日の午後までに課題を提出してください。",
+     "parts": [
+      [
+       "as-",
+       "朝向",
+       "〜へ"
+      ],
+      [
+       "sign",
+       "标记",
+       "印"
+      ],
+      [
+       "-ment",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "assign（拉丁语 assignare“指定”，Day 5 词根 -sign-）+ -ment。",
+      "ja": "assign（Day 5 の -sign-）＋-ment。"
+     },
+     "forms": [
+      [
+       "homework assignment",
+       "家庭作业",
+       "宿題"
+      ],
+      [
+       "assign (v.)",
+       "分配；指派",
+       "割り当てる"
+      ]
+     ],
+     "tip": {
+      "zh": "职场也指“任务、外派”。",
+      "ja": "仕事の「任務」も。"
+     }
+    },
+    {
+     "w": "textbook",
+     "pos": "n.",
+     "ipa": "/ˈtɛkstˌbʊk/",
+     "zh": "教科书",
+     "ja": "教科書",
+     "ex": "Students should bring the textbook to every class.",
+     "ex_zh": "学生每节课都应带教科书。",
+     "ex_ja": "学生は毎回の授業に教科書を持参してください。",
+     "parts": [
+      [
+       "text",
+       "文本",
+       "本文"
+      ],
+      [
+       "book",
+       "书",
+       "本"
+      ]
+     ],
+     "note": {
+      "zh": "本族词复合 text + book；没有可靠的拉丁词根拆分。",
+      "ja": "text＋book の複合語。"
+     },
+     "forms": [
+      [
+       "required textbook",
+       "指定教材",
+       "指定教科書"
+      ],
+      [
+       "online textbook",
+       "电子教材",
+       "オンライン教科書"
+      ]
+     ],
+     "tip": {
+      "zh": "required reading = 必读书目。",
+      "ja": "必読書の案内で。"
+     }
+    },
+    {
+     "w": "lecture",
+     "pos": "n./v.",
+     "ipa": "/ˈlɛktʃɚ/",
+     "zh": "讲座；讲课",
+     "ja": "講義；講演",
+     "ex": "Professor Kim will give a lecture on climate policy.",
+     "ex_zh": "金教授将就气候政策发表讲座。",
+     "ex_ja": "キム教授が気候政策について講義します。",
+     "parts": [
+      [
+       "lect",
+       "读；选（legere）",
+       "読む・選ぶ"
+      ],
+      [
+       "-ure",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 lectura“阅读”，来自 legere；Day 11 会系统学 -lect-。",
+      "ja": "ラテン語 lectura（legere）。Day 11 で -lect- を学ぶ。"
+     },
+     "forms": [
+      [
+       "guest lecture",
+       "客座讲座",
+       "特別講義"
+      ],
+      [
+       "lecture hall",
+       "讲堂",
+       "講義室"
+      ]
+     ],
+     "tip": {
+      "zh": "give / deliver a lecture。",
+      "ja": "give a lecture の形。"
+     }
+    },
+    {
+     "w": "campus",
+     "pos": "n.",
+     "ipa": "/ˈkæmpəs/",
+     "zh": "校园",
+     "ja": "キャンパス",
+     "ex": "The new library is located in the center of campus.",
+     "ex_zh": "新图书馆位于校园中心。",
+     "ex_ja": "新しい図書館はキャンパスの中央にあります。",
+     "parts": [
+      [
+       "camp",
+       "平地；场地",
+       "平地"
+      ],
+      [
+       "-us",
+       "名词词尾",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 campus“平地、场地”。",
+      "ja": "ラテン語 campus「平地」。"
+     },
+     "forms": [
+      [
+       "on campus",
+       "在校内",
+       "キャンパス内で"
+      ],
+      [
+       "campus tour",
+       "校园参观",
+       "キャンパスツアー"
+      ]
+     ],
+     "tip": {
+      "zh": "off-campus housing = 校外住宿。",
+      "ja": "off-campus＝キャンパス外。"
+     }
+    },
+    {
+     "w": "registrar",
+     "pos": "n.",
+     "ipa": "/ˈrɛdʒəˌstrɑr/",
+     "zh": "注册主任；登记员",
+     "ja": "学籍担当；登録担当者",
+     "ex": "Contact the registrar to update your personal information.",
+     "ex_zh": "请联系注册主任更新个人信息。",
+     "ex_ja": "個人情報の更新は学籍担当までご連絡ください。",
+     "parts": [
+      [
+       "registr",
+       "登记",
+       "登録"
+      ],
+      [
+       "-ar",
+       "表示人",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "register（中世纪拉丁语 registrum）+ -ar。",
+      "ja": "register＋-ar。"
+     },
+     "forms": [
+      [
+       "office of the registrar",
+       "教务处／注册处",
+       "学籍課"
+      ],
+      [
+       "registrar's office",
+       "注册处",
+       "学籍課"
+      ]
+     ],
+     "tip": {
+      "zh": "大学通知常见。",
+      "ja": "大学のお知らせで。"
+     }
+    },
+    {
+     "w": "academic",
+     "pos": "adj./n.",
+     "ipa": "/ˌækəˈdɛmɪk/",
+     "zh": "学术的；学业的",
+     "ja": "学術の；学業の",
+     "ex": "Students must maintain a good academic record.",
+     "ex_zh": "学生必须保持良好的学业成绩。",
+     "ex_ja": "学生は良好な学業成績を維持する必要があります。",
+     "parts": [
+      [
+       "academ",
+       "学院（Academia）",
+       "学園"
+      ],
+      [
+       "-ic",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "来自希腊语 Akademeia（柏拉图学园）。",
+      "ja": "ギリシャ語 Akademeia（プラトンの学園）から。"
+     },
+     "forms": [
+      [
+       "academic year",
+       "学年",
+       "学年"
+      ],
+      [
+       "academic performance",
+       "学业表现",
+       "学業成績"
+      ]
+     ],
+     "tip": {
+      "zh": "academic year = 学年。",
+      "ja": "academic year＝学年。"
+     }
+    },
+    {
+     "w": "internship",
+     "pos": "n.",
+     "ipa": "/ˈɪntɚnˌʃɪp/",
+     "zh": "实习",
+     "ja": "インターンシップ",
+     "ex": "The company offers summer internships to college students.",
+     "ex_zh": "该公司为大学生提供暑期实习。",
+     "ex_ja": "同社は大学生向けの夏季インターンシップを提供しています。",
+     "parts": [
+      [
+       "intern",
+       "实习医生／实习生",
+       "インターン"
+      ],
+      [
+       "-ship",
+       "状态；身份",
+       "状態"
+      ]
+     ],
+     "note": {
+      "zh": "intern（拉丁语 internus“内部的”）+ -ship。",
+      "ja": "intern（ラテン語 internus「内部の」）＋-ship。"
+     },
+     "forms": [
+      [
+       "paid internship",
+       "带薪实习",
+       "有給インターン"
+      ],
+      [
+       "intern (n.)",
+       "实习生",
+       "インターン"
+      ]
+     ],
+     "tip": {
+      "zh": "招聘/校园招聘高频。",
+      "ja": "採用・就活で頻出。"
+     }
+    },
+    {
+     "w": "orientation",
+     "pos": "n.",
+     "ipa": "/ˌɔriɛnˈteɪʃən/",
+     "zh": "迎新说明会；方向",
+     "ja": "オリエンテーション；方向付け",
+     "ex": "New student orientation will be held on August 25.",
+     "ex_zh": "新生迎新会将于 8 月 25 日举行。",
+     "ex_ja": "新入生オリエンテーションは 8 月 25 日に行われます。",
+     "parts": [
+      [
+       "orient",
+       "东方；定向",
+       "東・方向づける"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "法语 orientation，来自拉丁语 oriens“升起的太阳 → 东方”。",
+      "ja": "フランス語 orientation（ラテン語 oriens「東」）から。"
+     },
+     "forms": [
+      [
+       "new employee orientation",
+       "新员工培训",
+       "新入社員研修"
+      ],
+      [
+       "orient (v.)",
+       "使适应；定向",
+       "方向づける"
+      ]
+     ],
+     "tip": {
+      "zh": "职场也说 new employee orientation。",
+      "ja": "会社の新人研修も。"
+     }
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,2780 @@
+{
+ "day": 12,
+ "date": "2026-10-20",
+ "title_zh": "四大词根 + 法律谈判与旅游观光",
+ "title_ja": "4つの語根＋法務・交渉と観光・旅行",
+ "intro_zh": "今天掌握 4 个高频词根（solv·solu 松开 / term·termin 界限 / ann·enn 年 / graph·gram 写），再学法律谈判和旅游观光的核心词——强化 Part 7 合同纠纷、旅游宣传册的阅读和 Part 3 谈判对话。",
+ "intro_ja": "今日は語根 4 つ（solv·solu ほどく／term·termin 境界／ann·enn 年／graph·gram 書く）と、法務・交渉、観光・旅行の重要語を学びます。Part 7 の契約トラブル・観光パンフレットの読解と Part 3 の交渉の会話を強化します。",
+ "voice": "en-US-AriaNeural",
+ "roots": [
+  {
+   "root": "-solv- / -solu-",
+   "origin": "Latin solvere / solutus",
+   "zh": "松开；解开",
+   "ja": "ほどく；解く",
+   "exp_zh": "来自拉丁语 solvere（松开；过去分词 solutus）。solve“解开 → 解决”、dis-（解散 → 溶解、解散）、ab-（解开束缚 → 绝对的、赦免）、in-（无法偿付 → 破产的）。⚠️ resolve 已在 Day 7 学过；solid（固体的）来自 solidus，不同源。",
+   "exp_ja": "ラテン語 solvere（ほどく、過去分詞 solutus）から。solve「解く → 解決する」、dis-（ばらばらにほどく → 溶かす・解散する）、ab-（束縛を解く → 絶対の・免除する）、in-（支払えない → 支払不能の）。⚠️ resolve は Day 7 に既出。solid は solidus 由来で別。",
+   "examples": [
+    "solve",
+    "solution",
+    "dissolve",
+    "absolute",
+    "insolvent",
+    "solvent",
+    "absolve",
+    "soluble"
+   ]
+  },
+  {
+   "root": "-term- / -termin-",
+   "origin": "Latin terminus",
+   "zh": "界限；终点",
+   "ja": "境界；終点",
+   "exp_zh": "来自拉丁语 terminus（界碑、终点）。term“期限；条款；术语”、terminal“终点站”、de-（彻底划界 → 决定）、ex-（赶出界外 → 消灭）、in- + -able（没有终点的 → 冗长的）。⚠️ terminate 已学过；thermal（热的）来自希腊语 thermos，不同源。",
+   "exp_ja": "ラテン語 terminus（境界石・終点）から。term「期間・条件・用語」、terminal「終着駅」、de-（境界をはっきり定める → 決定する）、ex-（境界の外へ追う → 駆除する）、in-（終わりのない → 果てしない）。⚠️ terminate は既出。thermal はギリシャ語 thermos 由来で別。",
+   "examples": [
+    "term",
+    "terminal",
+    "determine",
+    "terminology",
+    "exterminate",
+    "interminable",
+    "predetermined",
+    "termination"
+   ]
+  },
+  {
+   "root": "-ann- / -enn-",
+   "origin": "Latin annus",
+   "zh": "年",
+   "ja": "年",
+   "exp_zh": "来自拉丁语 annus（年），复合词中变为 -enn-。annual“每年的”、anniversary“每年转回来的日子 → 周年纪念”、bi-（两…）：biannual“一年两次”、per-（贯穿）：perennial“常年的”、mill-（千）：millennium“千年”。⚠️ annoy（使烦恼）、announce（宣布）都与“年”无关。",
+   "exp_ja": "ラテン語 annus（年）から。複合語では -enn-。annual「毎年の」、anniversary「毎年巡る日 → 記念日」、biannual「年 2 回の」、perennial「長年続く」、millennium「千年」。⚠️ annoy・announce は「年」と無関係。",
+   "examples": [
+    "annual",
+    "anniversary",
+    "annually",
+    "biannual",
+    "perennial",
+    "millennium",
+    "annuity",
+    "semiannual"
+   ]
+  },
+  {
+   "root": "-graph- / -gram-",
+   "origin": "Greek graphein / gramma",
+   "zh": "写；画",
+   "ja": "書く；描く",
+   "exp_zh": "来自希腊语 graphein（写、画）和 gramma（写下的东西）。photo-（光）：photograph“用光画 → 照片”、auto-（自己）：autograph“亲笔签名”、para-（旁边）：paragraph“段落”、dia-（穿过）：diagram“图表”、pro-（预先）：program“预先写好的 → 节目、计划”、bio-（生命）：biography“传记”。⚠️ grammar 也同源；但 grab、graph paper 的 grab 无关。",
+   "exp_ja": "ギリシャ語 graphein（書く・描く）と gramma（書かれたもの）から。photograph「光で描く → 写真」、autograph「自筆 → サイン」、paragraph「段落」、diagram「図表」、program「前もって書かれたもの → 番組・計画」、biography「伝記」。⚠️ grammar も同源。",
+   "examples": [
+    "photograph",
+    "graphic",
+    "diagram",
+    "autograph",
+    "paragraph",
+    "program",
+    "biography",
+    "infographic"
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "solv",
+   "title_zh": "词根 -solv- / -solu-：松开、解开",
+   "title_ja": "語根 -solv- / -solu-：ほどく・解く",
+   "words": [
+    {
+     "w": "solve",
+     "pos": "v.",
+     "ipa": "/sɑlv/",
+     "zh": "解决；解答",
+     "ja": "解決する；解く",
+     "ex": "Our IT team solved the network problem within an hour.",
+     "ex_zh": "我们的 IT 团队在一小时内解决了网络问题。",
+     "ex_ja": "IT チームは 1 時間以内にネットワークの問題を解決しました。",
+     "parts": [
+      [
+       "solv",
+       "松开",
+       "ほどく"
+      ],
+      [
+       "-e",
+       "词尾",
+       "語尾"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 solvere“松开”。",
+      "ja": "ラテン語 solvere「ほどく」。"
+     },
+     "forms": [
+      [
+       "solution (n.)",
+       "解决办法",
+       "解決策"
+      ],
+      [
+       "problem-solving (n.)",
+       "解决问题",
+       "問題解決"
+      ]
+     ],
+     "tip": {
+      "zh": "problem-solving skills = 解决问题的能力。",
+      "ja": "求人広告で頻出。"
+     },
+     "hl": "solved"
+    },
+    {
+     "w": "solution",
+     "pos": "n.",
+     "ipa": "/səˈluʃən/",
+     "zh": "解决方案；溶液",
+     "ja": "解決策；溶液",
+     "ex": "We are looking for a cost-effective solution to the storage issue.",
+     "ex_zh": "我们正在寻找解决储存问题的高性价比方案。",
+     "ex_ja": "保管問題に対する費用対効果の高い解決策を探しています。",
+     "parts": [
+      [
+       "solu",
+       "松开",
+       "ほどく"
+      ],
+      [
+       "-tion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 solutio“松开、解答”。",
+      "ja": "ラテン語 solutio「ほどくこと・解答」。"
+     },
+     "forms": [
+      [
+       "solution to",
+       "…的解决办法",
+       "〜の解決策"
+      ],
+      [
+       "cleaning solution",
+       "清洁液",
+       "洗浄液"
+      ]
+     ],
+     "tip": {
+      "zh": "介词用 to：a solution to the problem。",
+      "ja": "前置詞は to。"
+     }
+    },
+    {
+     "w": "dissolve",
+     "pos": "v.",
+     "ipa": "/dɪˈzɑlv/",
+     "zh": "溶解；解散；解除",
+     "ja": "溶ける；解散する",
+     "ex": "The partnership was dissolved after ten years.",
+     "ex_zh": "合伙关系在十年后解除。",
+     "ex_ja": "そのパートナーシップは 10 年で解消されました。",
+     "parts": [
+      [
+       "dis-",
+       "分开",
+       "ばらばらに"
+      ],
+      [
+       "solv",
+       "松开",
+       "ほどく"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 dissolvere“松散开”。",
+      "ja": "ラテン語 dissolvere「ばらばらにほどく」。"
+     },
+     "forms": [
+      [
+       "dissolution (n.)",
+       "解散；溶解",
+       "解散"
+      ],
+      [
+       "dissolve a company",
+       "解散公司",
+       "会社を解散する"
+      ]
+     ],
+     "tip": {
+      "zh": "法律：dissolve a partnership / company。",
+      "ja": "法務の文脈で。"
+     },
+     "hl": "dissolved"
+    },
+    {
+     "w": "absolute",
+     "pos": "adj.",
+     "ipa": "/ˈæbsəˌlut/",
+     "zh": "绝对的；完全的",
+     "ja": "絶対の；完全な",
+     "ex": "The CEO has absolute confidence in the new strategy.",
+     "ex_zh": "首席执行官对新战略有绝对信心。",
+     "ex_ja": "CEO は新戦略に絶対的な自信を持っています。",
+     "parts": [
+      [
+       "ab-",
+       "离开",
+       "離れて"
+      ],
+      [
+       "solu",
+       "松开",
+       "ほどく"
+      ],
+      [
+       "-te",
+       "过去分词词尾",
+       "過去分詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 absolutus“解开束缚的 → 完全的”。",
+      "ja": "ラテン語 absolutus「束縛を解かれた → 完全な」。"
+     },
+     "forms": [
+      [
+       "absolutely (adv.)",
+       "绝对地；当然",
+       "全く；もちろん"
+      ],
+      [
+       "absolute minimum",
+       "最低限度",
+       "最低限"
+      ]
+     ],
+     "tip": {
+      "zh": "口语回答：Absolutely!（当然！）",
+      "ja": "会話で Absolutely!＝もちろん。"
+     }
+    },
+    {
+     "w": "insolvent",
+     "pos": "adj.",
+     "ipa": "/ɪnˈsɑlvənt/",
+     "zh": "无力偿还的；破产的",
+     "ja": "支払不能の；破産した",
+     "ex": "The supplier became insolvent and could not deliver the order.",
+     "ex_zh": "供应商资不抵债，无法交货。",
+     "ex_ja": "仕入先は支払不能に陥り、注文品を納品できませんでした。",
+     "parts": [
+      [
+       "in-",
+       "不",
+       "〜でない"
+      ],
+      [
+       "solv",
+       "松开（偿付）",
+       "支払う"
+      ],
+      [
+       "-ent",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "in- + solvent（拉丁语 solvens“偿付的”）。",
+      "ja": "in-＋solvent（ラテン語 solvens「支払う」）。"
+     },
+     "forms": [
+      [
+       "insolvency (n.)",
+       "无力偿债",
+       "支払不能"
+      ],
+      [
+       "solvent (adj.)",
+       "有偿付能力的",
+       "支払能力のある"
+      ]
+     ],
+     "tip": {
+      "zh": "同义 bankrupt（Day 6）。",
+      "ja": "bankrupt と近い。"
+     }
+    },
+    {
+     "w": "solvent",
+     "pos": "adj./n.",
+     "ipa": "/ˈsɑlvənt/",
+     "zh": "有偿付能力的；溶剂",
+     "ja": "支払能力のある；溶剤",
+     "ex": "The bank must prove that it remains solvent.",
+     "ex_zh": "银行必须证明其仍有偿付能力。",
+     "ex_ja": "銀行は支払能力を維持していることを証明しなければなりません。",
+     "parts": [
+      [
+       "solv",
+       "松开（偿付）",
+       "支払う"
+      ],
+      [
+       "-ent",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 solvens“松开 → 还清（债务）”。",
+      "ja": "ラテン語 solvens「ほどく → 返済する」。"
+     },
+     "forms": [
+      [
+       "solvency (n.)",
+       "偿付能力",
+       "支払能力"
+      ],
+      [
+       "cleaning solvent",
+       "清洗溶剂",
+       "洗浄溶剤"
+      ]
+     ],
+     "tip": {
+      "zh": "一词两义：有偿付能力 / 溶剂。",
+      "ja": "2 つの意味に注意。"
+     }
+    },
+    {
+     "w": "absolve",
+     "pos": "v.",
+     "ipa": "/əbˈzɑlv/",
+     "zh": "免除（责任）；赦免",
+     "ja": "免除する；赦す",
+     "ex": "The contract absolves the landlord of responsibility for minor repairs.",
+     "ex_zh": "合同免除了房东对小修的责任。",
+     "ex_ja": "契約により、家主は軽微な修繕の責任を免除されます。",
+     "parts": [
+      [
+       "ab-",
+       "离开",
+       "離れて"
+      ],
+      [
+       "solv",
+       "松开",
+       "ほどく"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 absolvere“解开、释放”。",
+      "ja": "ラテン語 absolvere「解き放つ」。"
+     },
+     "forms": [
+      [
+       "absolve A of B",
+       "免除 A 的 B",
+       "A の B を免除する"
+      ],
+      [
+       "absolution (n.)",
+       "赦免",
+       "赦免"
+      ]
+     ],
+     "tip": {
+      "zh": "结构 absolve A of / from B。",
+      "ja": "absolve A of B の形。"
+     },
+     "hl": "absolves"
+    },
+    {
+     "w": "soluble",
+     "pos": "adj.",
+     "ipa": "/ˈsɑljəbəl/",
+     "zh": "可溶的；可解决的",
+     "ja": "溶ける；解決できる",
+     "ex": "This coffee powder is soluble in cold water.",
+     "ex_zh": "这种咖啡粉可溶于冷水。",
+     "ex_ja": "このコーヒーの粉は冷水に溶けます。",
+     "parts": [
+      [
+       "solu",
+       "松开",
+       "ほどく"
+      ],
+      [
+       "-ble",
+       "能…的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "晚期拉丁语 solubilis“可溶解的”。",
+      "ja": "後期ラテン語 solubilis「溶ける」。"
+     },
+     "forms": [
+      [
+       "water-soluble",
+       "水溶性的",
+       "水溶性の"
+      ],
+      [
+       "insoluble (adj.)",
+       "不溶的；无法解决的",
+       "溶けない；解決できない"
+      ]
+     ],
+     "tip": {
+      "zh": "insoluble problem = 无解的问题。",
+      "ja": "insoluble＝解決不能。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "term",
+   "title_zh": "词根 -term- / -termin-：界限、终点",
+   "title_ja": "語根 -term- / -termin-：境界・終点",
+   "words": [
+    {
+     "w": "term",
+     "pos": "n.",
+     "ipa": "/tɝm/",
+     "zh": "期限；条款；术语",
+     "ja": "期間；条件；用語",
+     "ex": "Please read the terms and conditions carefully before signing.",
+     "ex_zh": "签字前请仔细阅读条款与条件。",
+     "ex_ja": "署名前に利用規約をよくお読みください。",
+     "parts": [
+      [
+       "term",
+       "界限",
+       "境界"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 terme，来自拉丁语 terminus“界限”。",
+      "ja": "古フランス語 terme（ラテン語 terminus）から。"
+     },
+     "forms": [
+      [
+       "terms and conditions",
+       "条款与条件",
+       "利用規約"
+      ],
+      [
+       "in terms of",
+       "就…而言",
+       "〜の点で"
+      ]
+     ],
+     "tip": {
+      "zh": "in terms of = 在…方面。",
+      "ja": "in terms of＝〜の点で。"
+     },
+     "hl": "terms"
+    },
+    {
+     "w": "terminal",
+     "pos": "n./adj.",
+     "ipa": "/ˈtɝmənəl/",
+     "zh": "航站楼；终端；末期的",
+     "ja": "ターミナル；端末；末期の",
+     "ex": "International flights depart from Terminal 2.",
+     "ex_zh": "国际航班从 2 号航站楼出发。",
+     "ex_ja": "国際線は第 2 ターミナルから出発します。",
+     "parts": [
+      [
+       "termin",
+       "终点",
+       "終点"
+      ],
+      [
+       "-al",
+       "形容词/名词后缀",
+       "〜の"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 terminalis“终点的”。",
+      "ja": "ラテン語 terminalis「終点の」。"
+     },
+     "forms": [
+      [
+       "bus terminal",
+       "公交总站",
+       "バスターミナル"
+      ],
+      [
+       "computer terminal",
+       "电脑终端",
+       "端末"
+      ]
+     ],
+     "tip": {
+      "zh": "机场广播高频。",
+      "ja": "空港のアナウンスで頻出。"
+     },
+     "hl": "Terminal"
+    },
+    {
+     "w": "determine",
+     "pos": "v.",
+     "ipa": "/dɪˈtɝmɪn/",
+     "zh": "决定；确定；查明",
+     "ja": "決定する；突き止める",
+     "ex": "Investigators are trying to determine the cause of the delay.",
+     "ex_zh": "调查人员正在设法查明延误原因。",
+     "ex_ja": "調査員は遅延の原因を突き止めようとしています。",
+     "parts": [
+      [
+       "de-",
+       "完全",
+       "完全に"
+      ],
+      [
+       "termin",
+       "界限",
+       "境界"
+      ],
+      [
+       "-e",
+       "词尾",
+       "語尾"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 determinare“划定界限”。",
+      "ja": "ラテン語 determinare「境界を定める」。"
+     },
+     "forms": [
+      [
+       "determination (n.)",
+       "决心；决定",
+       "決意"
+      ],
+      [
+       "determined (adj.)",
+       "坚定的",
+       "決意した"
+      ]
+     ],
+     "tip": {
+      "zh": "be determined to do = 决心做。",
+      "ja": "be determined to do。"
+     }
+    },
+    {
+     "w": "terminology",
+     "pos": "n.",
+     "ipa": "/ˌtɝməˈnɑlədʒi/",
+     "zh": "术语",
+     "ja": "専門用語",
+     "ex": "The manual explains all the technical terminology.",
+     "ex_zh": "手册解释了所有技术术语。",
+     "ex_ja": "マニュアルにはすべての技術用語が説明されています。",
+     "parts": [
+      [
+       "termin",
+       "界限；用语",
+       "用語"
+      ],
+      [
+       "-ology",
+       "学科",
+       "〜学"
+      ]
+     ],
+     "note": {
+      "zh": "德语 Terminologie，来自中世纪拉丁语 terminus“用语”+ -logy。",
+      "ja": "ドイツ語 Terminologie（terminus「用語」＋-logy）。"
+     },
+     "forms": [
+      [
+       "legal terminology",
+       "法律术语",
+       "法律用語"
+      ],
+      [
+       "medical terminology",
+       "医学术语",
+       "医学用語"
+      ]
+     ],
+     "tip": {
+      "zh": "翻译、手册语境。",
+      "ja": "翻訳・マニュアルで。"
+     }
+    },
+    {
+     "w": "exterminate",
+     "pos": "v.",
+     "ipa": "/ɪkˈstɝməˌneɪt/",
+     "zh": "灭除（害虫）；消灭",
+     "ja": "駆除する",
+     "ex": "The building manager hired a company to exterminate the pests.",
+     "ex_zh": "大楼管理员请了公司来灭除害虫。",
+     "ex_ja": "ビルの管理者は害虫を駆除するため業者を雇いました。",
+     "parts": [
+      [
+       "ex-",
+       "向外",
+       "外へ"
+      ],
+      [
+       "termin",
+       "界限",
+       "境界"
+      ],
+      [
+       "-ate",
+       "动词后缀",
+       "動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 exterminare“赶出界外”。",
+      "ja": "ラテン語 exterminare「境界の外へ追い出す」。"
+     },
+     "forms": [
+      [
+       "exterminator (n.)",
+       "灭虫人员",
+       "害虫駆除業者"
+      ],
+      [
+       "pest control",
+       "虫害防治",
+       "害虫駆除"
+      ]
+     ],
+     "tip": {
+      "zh": "物业通知：pest control / exterminator。",
+      "ja": "物件管理の通知で。"
+     }
+    },
+    {
+     "w": "interminable",
+     "pos": "adj.",
+     "ipa": "/ɪnˈtɝmɪnəbəl/",
+     "zh": "没完没了的；冗长的",
+     "ja": "果てしない；延々と続く",
+     "ex": "After an interminable meeting, the team finally reached a decision.",
+     "ex_zh": "经过一场没完没了的会议，团队终于做出了决定。",
+     "ex_ja": "延々と続いた会議の末、チームはようやく結論を出しました。",
+     "parts": [
+      [
+       "in-",
+       "不",
+       "〜でない"
+      ],
+      [
+       "termin",
+       "终点",
+       "終点"
+      ],
+      [
+       "-able",
+       "能…的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "晚期拉丁语 interminabilis“没有终点的”。",
+      "ja": "後期ラテン語 interminabilis「終わりのない」。"
+     },
+     "forms": [
+      [
+       "interminably (adv.)",
+       "没完没了地",
+       "延々と"
+      ],
+      [
+       "endless (adj.)",
+       "无尽的",
+       "終わりのない"
+      ]
+     ],
+     "tip": {
+      "zh": "带抱怨语气。",
+      "ja": "不満を込めて使う。"
+     }
+    },
+    {
+     "w": "predetermined",
+     "pos": "adj.",
+     "ipa": "/ˌpridɪˈtɝmɪnd/",
+     "zh": "预先确定的",
+     "ja": "あらかじめ決められた",
+     "ex": "The thermostat switches off at a predetermined temperature.",
+     "ex_zh": "恒温器在预设温度时会自动关闭。",
+     "ex_ja": "サーモスタットはあらかじめ設定された温度で切れます。",
+     "parts": [
+      [
+       "pre-",
+       "预先",
+       "前もって"
+      ],
+      [
+       "de-",
+       "完全",
+       "完全に"
+      ],
+      [
+       "termin",
+       "界限",
+       "境界"
+      ],
+      [
+       "-ed",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "pre- + determined。",
+      "ja": "pre-＋determined。"
+     },
+     "forms": [
+      [
+       "predetermine (v.)",
+       "预先决定",
+       "前もって決める"
+      ],
+      [
+       "at a predetermined time",
+       "在预定时间",
+       "所定の時間に"
+      ]
+     ],
+     "tip": {
+      "zh": "同义 preset。",
+      "ja": "preset と同義。"
+     }
+    },
+    {
+     "w": "termination",
+     "pos": "n.",
+     "ipa": "/ˌtɝməˈneɪʃən/",
+     "zh": "终止；解除",
+     "ja": "終了；解除",
+     "ex": "Either party may request termination of the contract with 30 days' notice.",
+     "ex_zh": "任何一方提前 30 天通知即可要求终止合同。",
+     "ex_ja": "どちらの当事者も 30 日前の通知で契約解除を求めることができます。",
+     "parts": [
+      [
+       "termin",
+       "终点",
+       "終点"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 terminatio“划界、结束”。",
+      "ja": "ラテン語 terminatio「境界づけ・終結」。"
+     },
+     "forms": [
+      [
+       "contract termination",
+       "合同终止",
+       "契約解除"
+      ],
+      [
+       "termination fee",
+       "解约费",
+       "解約手数料"
+      ]
+     ],
+     "tip": {
+      "zh": "合同条款高频。",
+      "ja": "契約条項で頻出。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ann",
+   "title_zh": "词根 -ann- / -enn-：年",
+   "title_ja": "語根 -ann- / -enn-：年",
+   "words": [
+    {
+     "w": "annual",
+     "pos": "adj.",
+     "ipa": "/ˈænjuəl/",
+     "zh": "每年的；年度的",
+     "ja": "毎年の；年次の",
+     "ex": "The annual shareholders' meeting will be held in June.",
+     "ex_zh": "年度股东大会将于六月举行。",
+     "ex_ja": "年次株主総会は 6 月に開かれます。",
+     "parts": [
+      [
+       "ann",
+       "年",
+       "年"
+      ],
+      [
+       "-ual",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "晚期拉丁语 annualis“每年的”。",
+      "ja": "後期ラテン語 annualis「毎年の」。"
+     },
+     "forms": [
+      [
+       "annually (adv.)",
+       "每年",
+       "毎年"
+      ],
+      [
+       "annual report",
+       "年报",
+       "年次報告書"
+      ]
+     ],
+     "tip": {
+      "zh": "annual leave = 年假。",
+      "ja": "annual leave＝年次休暇。"
+     }
+    },
+    {
+     "w": "anniversary",
+     "pos": "n.",
+     "ipa": "/ˌænəˈvɝsəri/",
+     "zh": "周年纪念",
+     "ja": "記念日；周年",
+     "ex": "The hotel is celebrating its 50th anniversary with special rates.",
+     "ex_zh": "酒店推出特价房庆祝 50 周年。",
+     "ex_ja": "ホテルは開業 50 周年を記念して特別料金を提供しています。",
+     "parts": [
+      [
+       "ann",
+       "年",
+       "年"
+      ],
+      [
+       "vers",
+       "转",
+       "回る"
+      ],
+      [
+       "-ary",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 anniversarius“每年转回来的”（Day 6 词根 -vers-）。",
+      "ja": "ラテン語 anniversarius「毎年巡ってくる」（Day 6 の -vers-）。"
+     },
+     "forms": [
+      [
+       "wedding anniversary",
+       "结婚纪念日",
+       "結婚記念日"
+      ],
+      [
+       "anniversary sale",
+       "周年庆促销",
+       "周年記念セール"
+      ]
+     ],
+     "tip": {
+      "zh": "广告：anniversary sale。",
+      "ja": "広告で頻出。"
+     }
+    },
+    {
+     "w": "annually",
+     "pos": "adv.",
+     "ipa": "/ˈænjuəli/",
+     "zh": "每年；一年一次",
+     "ja": "毎年；年 1 回",
+     "ex": "The safety equipment is inspected annually.",
+     "ex_zh": "安全设备每年检查一次。",
+     "ex_ja": "安全設備は毎年点検されます。",
+     "parts": [
+      [
+       "ann",
+       "年",
+       "年"
+      ],
+      [
+       "-ual",
+       "形容词后缀",
+       "形容詞を作る"
+      ],
+      [
+       "-ly",
+       "副词后缀",
+       "副詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "annual + -ly。",
+      "ja": "annual＋-ly。"
+     },
+     "forms": [
+      [
+       "twice annually",
+       "一年两次",
+       "年 2 回"
+      ],
+      [
+       "annual (adj.)",
+       "每年的",
+       "毎年の"
+      ]
+     ],
+     "tip": {
+      "zh": "同义 yearly / every year。",
+      "ja": "yearly と同義。"
+     }
+    },
+    {
+     "w": "biannual",
+     "pos": "adj.",
+     "ipa": "/baɪˈænjuəl/",
+     "zh": "一年两次的",
+     "ja": "年 2 回の",
+     "ex": "The company publishes a biannual newsletter for its clients.",
+     "ex_zh": "公司为客户出版一年两期的通讯。",
+     "ex_ja": "同社は顧客向けに年 2 回ニュースレターを発行しています。",
+     "parts": [
+      [
+       "bi-",
+       "二",
+       "二つ"
+      ],
+      [
+       "ann",
+       "年",
+       "年"
+      ],
+      [
+       "-ual",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "bi- + annual。",
+      "ja": "bi-＋annual。"
+     },
+     "forms": [
+      [
+       "biannually (adv.)",
+       "一年两次",
+       "年 2 回"
+      ],
+      [
+       "biennial (adj.)",
+       "两年一次的",
+       "2 年に 1 度の"
+      ]
+     ],
+     "tip": {
+      "zh": "⚠️ biannual（一年两次）≠ biennial（两年一次）。",
+      "ja": "biannual と biennial を区別。"
+     }
+    },
+    {
+     "w": "perennial",
+     "pos": "adj.",
+     "ipa": "/pəˈrɛniəl/",
+     "zh": "长期的；常年的；多年生的",
+     "ja": "長年の；多年生の",
+     "ex": "Traffic congestion is a perennial problem in the city center.",
+     "ex_zh": "交通拥堵是市中心长期存在的问题。",
+     "ex_ja": "交通渋滞は都心の長年の問題です。",
+     "parts": [
+      [
+       "per-",
+       "贯穿",
+       "通して"
+      ],
+      [
+       "enn",
+       "年",
+       "年"
+      ],
+      [
+       "-ial",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 perennis“贯穿全年的、持久的”。",
+      "ja": "ラテン語 perennis「一年中続く」。"
+     },
+     "forms": [
+      [
+       "perennial favorite",
+       "经久不衰的热门",
+       "定番の人気商品"
+      ],
+      [
+       "perennial plant",
+       "多年生植物",
+       "多年草"
+      ]
+     ],
+     "tip": {
+      "zh": "perennial bestseller = 常年畅销书。",
+      "ja": "定番の、の意も。"
+     }
+    },
+    {
+     "w": "millennium",
+     "pos": "n.",
+     "ipa": "/mɪˈlɛniəm/",
+     "zh": "千年；千禧年",
+     "ja": "千年（紀）",
+     "ex": "The building was completed at the turn of the millennium.",
+     "ex_zh": "这座建筑在千禧年之交竣工。",
+     "ex_ja": "その建物はミレニアムの変わり目に完成しました。",
+     "parts": [
+      [
+       "mill-",
+       "千",
+       "千"
+      ],
+      [
+       "enn",
+       "年",
+       "年"
+      ],
+      [
+       "-ium",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "新拉丁语 millennium（mille“千”+ annus）。",
+      "ja": "新ラテン語 millennium（mille「千」＋annus）。"
+     },
+     "forms": [
+      [
+       "millennial (n./adj.)",
+       "千禧一代",
+       "ミレニアル世代"
+      ],
+      [
+       "millennia (pl.)",
+       "几千年",
+       "複数形"
+      ]
+     ],
+     "tip": {
+      "zh": "millennials = 千禧一代（营销语境）。",
+      "ja": "マーケティングで millennials。"
+     }
+    },
+    {
+     "w": "annuity",
+     "pos": "n.",
+     "ipa": "/əˈnuəti/",
+     "zh": "年金；年金保险",
+     "ja": "年金",
+     "ex": "She receives a monthly annuity from her pension plan.",
+     "ex_zh": "她每月从养老金计划中领取年金。",
+     "ex_ja": "彼女は年金制度から毎月年金を受け取っています。",
+     "parts": [
+      [
+       "ann",
+       "年",
+       "年"
+      ],
+      [
+       "-uity",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "中世纪拉丁语 annuitas“每年支付的款项”。",
+      "ja": "中世ラテン語 annuitas「毎年の支払い」。"
+     },
+     "forms": [
+      [
+       "annuity plan",
+       "年金计划",
+       "年金プラン"
+      ],
+      [
+       "pension (n.)",
+       "养老金",
+       "年金"
+      ]
+     ],
+     "tip": {
+      "zh": "金融/保险语境。",
+      "ja": "金融・保険の文脈で。"
+     }
+    },
+    {
+     "w": "semiannual",
+     "pos": "adj.",
+     "ipa": "/ˌsɛmiˈænjuəl/",
+     "zh": "半年一次的",
+     "ja": "半年ごとの",
+     "ex": "Interest is paid on a semiannual basis.",
+     "ex_zh": "利息每半年支付一次。",
+     "ex_ja": "利息は半年ごとに支払われます。",
+     "parts": [
+      [
+       "semi-",
+       "半",
+       "半分"
+      ],
+      [
+       "ann",
+       "年",
+       "年"
+      ],
+      [
+       "-ual",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "semi- + annual。",
+      "ja": "semi-＋annual。"
+     },
+     "forms": [
+      [
+       "semiannually (adv.)",
+       "每半年",
+       "半年ごとに"
+      ],
+      [
+       "semiannual review",
+       "半年度评估",
+       "半期評価"
+      ]
+     ],
+     "tip": {
+      "zh": "与 biannual 同义。",
+      "ja": "biannual と同義。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "graph",
+   "title_zh": "词根 -graph- / -gram-：写、画",
+   "title_ja": "語根 -graph- / -gram-：書く・描く",
+   "words": [
+    {
+     "w": "photograph",
+     "pos": "n./v.",
+     "ipa": "/ˈfoʊtəˌɡræf/",
+     "zh": "照片；拍照",
+     "ja": "写真；撮影する",
+     "ex": "Please attach a recent photograph to your application.",
+     "ex_zh": "请在申请表上附一张近照。",
+     "ex_ja": "申込書に最近の写真を添付してください。",
+     "parts": [
+      [
+       "photo-",
+       "光",
+       "光"
+      ],
+      [
+       "graph",
+       "写；画",
+       "書く"
+      ]
+     ],
+     "note": {
+      "zh": "希腊语 phos“光”+ graphein“画”（19 世纪造词）。",
+      "ja": "ギリシャ語 phos「光」＋graphein「描く」。"
+     },
+     "forms": [
+      [
+       "photographer (n.)",
+       "摄影师",
+       "写真家"
+      ],
+      [
+       "photography (n.)",
+       "摄影",
+       "写真撮影"
+      ]
+     ],
+     "tip": {
+      "zh": "重音：PHOtograph / phoTOgrapher。",
+      "ja": "強勢の位置が変わる。"
+     }
+    },
+    {
+     "w": "graphic",
+     "pos": "adj./n.",
+     "ipa": "/ˈɡræfɪk/",
+     "zh": "图形的；生动的；图形",
+     "ja": "図の；生々しい；画像",
+     "ex": "We are hiring a graphic designer for our marketing team.",
+     "ex_zh": "我们正在为营销团队招聘平面设计师。",
+     "ex_ja": "マーケティングチームのグラフィックデザイナーを募集しています。",
+     "parts": [
+      [
+       "graph",
+       "写；画",
+       "書く"
+      ],
+      [
+       "-ic",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "希腊语 graphikos“书写的、绘画的”。",
+      "ja": "ギリシャ語 graphikos「書く・描く」。"
+     },
+     "forms": [
+      [
+       "graphic designer",
+       "平面设计师",
+       "グラフィックデザイナー"
+      ],
+      [
+       "graphics (n.)",
+       "图形",
+       "画像"
+      ]
+     ],
+     "tip": {
+      "zh": "招聘广告高频。",
+      "ja": "求人広告で頻出。"
+     }
+    },
+    {
+     "w": "diagram",
+     "pos": "n.",
+     "ipa": "/ˈdaɪəˌɡræm/",
+     "zh": "图表；示意图",
+     "ja": "図；図表",
+     "ex": "Follow the diagram to assemble the shelf.",
+     "ex_zh": "请按照示意图组装架子。",
+     "ex_ja": "図に従って棚を組み立ててください。",
+     "parts": [
+      [
+       "dia-",
+       "穿过",
+       "通して"
+      ],
+      [
+       "gram",
+       "写；画",
+       "書く"
+      ]
+     ],
+     "note": {
+      "zh": "希腊语 diagramma“用线画出的图形”。",
+      "ja": "ギリシャ語 diagramma「線で描いた図」。"
+     },
+     "forms": [
+      [
+       "wiring diagram",
+       "接线图",
+       "配線図"
+      ],
+      [
+       "diagrammatic (adj.)",
+       "图解的",
+       "図式の"
+      ]
+     ],
+     "tip": {
+      "zh": "说明书语境。",
+      "ja": "説明書で。"
+     }
+    },
+    {
+     "w": "autograph",
+     "pos": "n./v.",
+     "ipa": "/ˈɔtəˌɡræf/",
+     "zh": "亲笔签名；签名",
+     "ja": "サイン；サインする",
+     "ex": "The author will autograph copies of her book after the talk.",
+     "ex_zh": "作者将在演讲后为她的书签名。",
+     "ex_ja": "著者は講演後に著書にサインします。",
+     "parts": [
+      [
+       "auto-",
+       "自己",
+       "自分"
+      ],
+      [
+       "graph",
+       "写",
+       "書く"
+      ]
+     ],
+     "note": {
+      "zh": "希腊语 autographos“亲笔写的”。",
+      "ja": "ギリシャ語 autographos「自筆の」。"
+     },
+     "forms": [
+      [
+       "autographed (adj.)",
+       "有签名的",
+       "サイン入りの"
+      ],
+      [
+       "signature (n.)",
+       "签名（文件）",
+       "署名"
+      ]
+     ],
+     "tip": {
+      "zh": "名人签名用 autograph，文件签字用 signature。",
+      "ja": "有名人のサインは autograph。"
+     }
+    },
+    {
+     "w": "paragraph",
+     "pos": "n.",
+     "ipa": "/ˈpærəˌɡræf/",
+     "zh": "段落",
+     "ja": "段落",
+     "ex": "Please see the third paragraph of the contract.",
+     "ex_zh": "请参见合同第三段。",
+     "ex_ja": "契約書の第 3 段落をご覧ください。",
+     "parts": [
+      [
+       "para-",
+       "旁边",
+       "そばに"
+      ],
+      [
+       "graph",
+       "写",
+       "書く"
+      ]
+     ],
+     "note": {
+      "zh": "希腊语 paragraphos“写在旁边的分段记号”。",
+      "ja": "ギリシャ語 paragraphos「わきに書く区切り記号」。"
+     },
+     "forms": [
+      [
+       "opening paragraph",
+       "首段",
+       "冒頭段落"
+      ],
+      [
+       "in paragraph two",
+       "在第二段",
+       "第 2 段落で"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7 设问：in paragraph 2, line 3…。",
+      "ja": "Part 7 の設問で。"
+     }
+    },
+    {
+     "w": "program",
+     "pos": "n./v.",
+     "ipa": "/ˈproʊˌɡræm/",
+     "zh": "节目；计划；程序",
+     "ja": "番組；計画；プログラム",
+     "ex": "The loyalty program offers discounts to frequent guests.",
+     "ex_zh": "会员计划为常客提供折扣。",
+     "ex_ja": "ロイヤルティプログラムでは常連客に割引を提供しています。",
+     "parts": [
+      [
+       "pro-",
+       "预先",
+       "前もって"
+      ],
+      [
+       "gram",
+       "写",
+       "書く"
+      ]
+     ],
+     "note": {
+      "zh": "希腊语 programma“预先写好的公告”。",
+      "ja": "ギリシャ語 programma「前もって書かれた告示」。"
+     },
+     "forms": [
+      [
+       "training program",
+       "培训项目",
+       "研修プログラム"
+      ],
+      [
+       "programmer (n.)",
+       "程序员",
+       "プログラマー"
+      ]
+     ],
+     "tip": {
+      "zh": "英式拼写 programme。",
+      "ja": "イギリス綴りは programme。"
+     }
+    },
+    {
+     "w": "biography",
+     "pos": "n.",
+     "ipa": "/baɪˈɑɡrəfi/",
+     "zh": "传记",
+     "ja": "伝記",
+     "ex": "A short biography of each speaker is printed in the program.",
+     "ex_zh": "节目单上印有每位演讲者的简介。",
+     "ex_ja": "プログラムには各講演者の略歴が掲載されています。",
+     "parts": [
+      [
+       "bio-",
+       "生命",
+       "生命"
+      ],
+      [
+       "graph",
+       "写",
+       "書く"
+      ],
+      [
+       "-y",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "希腊语 biographia“生平的书写”。",
+      "ja": "ギリシャ語 biographia「生涯を書くこと」。"
+     },
+     "forms": [
+      [
+       "autobiography (n.)",
+       "自传",
+       "自伝"
+      ],
+      [
+       "bio (n.)",
+       "简介",
+       "略歴"
+      ]
+     ],
+     "tip": {
+      "zh": "会议手册：speaker bio = 演讲者简介。",
+      "ja": "講演者の略歴（bio）。"
+     }
+    },
+    {
+     "w": "infographic",
+     "pos": "n.",
+     "ipa": "/ˌɪnfoʊˈɡræfɪk/",
+     "zh": "信息图",
+     "ja": "インフォグラフィック",
+     "ex": "The report includes an infographic showing sales by region.",
+     "ex_zh": "报告附有一张按地区显示销售额的信息图。",
+     "ex_ja": "報告書には地域別の売上を示すインフォグラフィックが含まれています。",
+     "parts": [
+      [
+       "info",
+       "信息",
+       "情報"
+      ],
+      [
+       "graph",
+       "画",
+       "描く"
+      ],
+      [
+       "-ic",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "information + graphic 的混成词（20 世纪）。",
+      "ja": "information＋graphic の混成語。"
+     },
+     "forms": [
+      [
+       "data visualization",
+       "数据可视化",
+       "データの可視化"
+      ],
+      [
+       "chart (n.)",
+       "图表",
+       "グラフ"
+      ]
+     ],
+     "tip": {
+      "zh": "报告、演示中常见。",
+      "ja": "レポート・プレゼンで。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "legal",
+   "title_zh": "主题：法律与谈判",
+   "title_ja": "テーマ：法務・交渉",
+   "words": [
+    {
+     "w": "lawsuit",
+     "pos": "n.",
+     "ipa": "/ˈlɔˌsut/",
+     "zh": "诉讼",
+     "ja": "訴訟",
+     "ex": "The customer filed a lawsuit against the manufacturer.",
+     "ex_zh": "顾客对制造商提起了诉讼。",
+     "ex_ja": "その顧客は製造業者を相手に訴訟を起こしました。",
+     "parts": [
+      [
+       "law",
+       "法律",
+       "法"
+      ],
+      [
+       "suit",
+       "诉讼（sequi）",
+       "訴訟"
+      ]
+     ],
+     "note": {
+      "zh": "law + suit（古法语 suite“追随 → 起诉”，来自拉丁语 sequi，Day 9 词根）。",
+      "ja": "law＋suit（古フランス語 suite＜ラテン語 sequi、Day 9 の語根）。"
+     },
+     "forms": [
+      [
+       "file a lawsuit",
+       "提起诉讼",
+       "訴訟を起こす"
+      ],
+      [
+       "settle a lawsuit",
+       "和解诉讼",
+       "訴訟を和解する"
+      ]
+     ],
+     "tip": {
+      "zh": "file a lawsuit against … 常见。",
+      "ja": "file a lawsuit が定番。"
+     }
+    },
+    {
+     "w": "plaintiff",
+     "pos": "n.",
+     "ipa": "/ˈpleɪntɪf/",
+     "zh": "原告",
+     "ja": "原告",
+     "ex": "The plaintiff is seeking compensation for damages.",
+     "ex_zh": "原告正在寻求损害赔偿。",
+     "ex_ja": "原告は損害賠償を求めています。",
+     "parts": [
+      [
+       "plaint",
+       "控诉（plangere）",
+       "嘆く"
+      ],
+      [
+       "-iff",
+       "表示人",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 plaintif“抱怨的人”（与 Day 7 complaint 同源）。",
+      "ja": "古フランス語 plaintif「訴える人」（Day 7 complaint と同源）。"
+     },
+     "forms": [
+      [
+       "plaintiff's lawyer",
+       "原告律师",
+       "原告側弁護士"
+      ],
+      [
+       "defendant (n.)",
+       "被告",
+       "被告"
+      ]
+     ],
+     "tip": {
+      "zh": "反义 defendant。",
+      "ja": "対義語 defendant。"
+     }
+    },
+    {
+     "w": "defendant",
+     "pos": "n.",
+     "ipa": "/dɪˈfɛndənt/",
+     "zh": "被告",
+     "ja": "被告",
+     "ex": "The defendant denied all the charges.",
+     "ex_zh": "被告否认了所有指控。",
+     "ex_ja": "被告はすべての容疑を否認しました。",
+     "parts": [
+      [
+       "de-",
+       "离开",
+       "離れて"
+      ],
+      [
+       "fend",
+       "打击",
+       "打つ"
+      ],
+      [
+       "-ant",
+       "表示人",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 defendant“防卫者”，来自拉丁语 defendere。",
+      "ja": "古フランス語 defendant（ラテン語 defendere「防ぐ」）から。"
+     },
+     "forms": [
+      [
+       "defend (v.)",
+       "辩护；防守",
+       "弁護する"
+      ],
+      [
+       "defense (n.)",
+       "辩护",
+       "弁護"
+      ]
+     ],
+     "tip": {
+      "zh": "法律新闻语境。",
+      "ja": "法律ニュースで。"
+     }
+    },
+    {
+     "w": "testimony",
+     "pos": "n.",
+     "ipa": "/ˈtɛstəˌmoʊni/",
+     "zh": "证词；证明",
+     "ja": "証言；証拠",
+     "ex": "Several employees gave testimony at the hearing.",
+     "ex_zh": "几名员工在听证会上作证。",
+     "ex_ja": "数名の従業員が公聴会で証言しました。",
+     "parts": [
+      [
+       "test",
+       "证人（testis）",
+       "証人"
+      ],
+      [
+       "-imony",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 testimonium“证据”，来自 testis“证人”。",
+      "ja": "ラテン語 testimonium（testis「証人」）から。"
+     },
+     "forms": [
+      [
+       "testify (v.)",
+       "作证",
+       "証言する"
+      ],
+      [
+       "testimonial (n.)",
+       "推荐语；客户评价",
+       "推薦文"
+      ]
+     ],
+     "tip": {
+      "zh": "testimonial = 客户好评（广告）。",
+      "ja": "testimonial＝利用者の声。"
+     }
+    },
+    {
+     "w": "concession",
+     "pos": "n.",
+     "ipa": "/kənˈsɛʃən/",
+     "zh": "让步；特许经营；优惠",
+     "ja": "譲歩；売店営業権",
+     "ex": "Both sides made concessions to reach an agreement.",
+     "ex_zh": "双方都做出让步以达成协议。",
+     "ex_ja": "合意に達するため双方が譲歩しました。",
+     "parts": [
+      [
+       "con-",
+       "一起",
+       "共に"
+      ],
+      [
+       "cess",
+       "走；让",
+       "行く・譲る"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 concessio“让步”（Day 2 词根 -cess-）。",
+      "ja": "ラテン語 concessio「譲歩」（Day 2 の -cess-）。"
+     },
+     "forms": [
+      [
+       "make concessions",
+       "做出让步",
+       "譲歩する"
+      ],
+      [
+       "concession stand",
+       "小卖部",
+       "売店"
+      ]
+     ],
+     "tip": {
+      "zh": "concession stand = 体育场、影院小卖部。",
+      "ja": "売店の意味も。"
+     },
+     "hl": "concessions"
+    },
+    {
+     "w": "leverage",
+     "pos": "n./v.",
+     "ipa": "/ˈlɛvərɪdʒ/",
+     "zh": "影响力；筹码；利用",
+     "ja": "交渉力；影響力；活用する",
+     "ex": "Our strong sales record gives us leverage in negotiations.",
+     "ex_zh": "我们出色的销售业绩让我们在谈判中有筹码。",
+     "ex_ja": "好調な販売実績が交渉での強みになります。",
+     "parts": [
+      [
+       "lever",
+       "杠杆（levare“举起”）",
+       "てこ"
+      ],
+      [
+       "-age",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "lever（拉丁语 levare“举起”）+ -age。",
+      "ja": "lever（ラテン語 levare「持ち上げる」）＋-age。"
+     },
+     "forms": [
+      [
+       "leverage resources",
+       "利用资源",
+       "資源を活用する"
+      ],
+      [
+       "bargaining leverage",
+       "谈判筹码",
+       "交渉力"
+      ]
+     ],
+     "tip": {
+      "zh": "动词“充分利用”是商务热词。",
+      "ja": "動詞「活用する」も頻出。"
+     }
+    },
+    {
+     "w": "counteroffer",
+     "pos": "n.",
+     "ipa": "/ˈkaʊntɚˌɔfɚ/",
+     "zh": "还价；反要约",
+     "ja": "対案；カウンターオファー",
+     "ex": "The buyer rejected our price and made a counteroffer.",
+     "ex_zh": "买方拒绝了我们的报价并提出还价。",
+     "ex_ja": "買い手はこちらの価格を断り、対案を出しました。",
+     "parts": [
+      [
+       "counter-",
+       "相反",
+       "反対の"
+      ],
+      [
+       "of-",
+       "朝向（=ob-）",
+       "〜へ"
+      ],
+      [
+       "fer",
+       "携带",
+       "運ぶ"
+      ]
+     ],
+     "note": {
+      "zh": "counter- + offer（拉丁语 offerre，Day 3 词根 -fer-）。",
+      "ja": "counter-＋offer（ラテン語 offerre、Day 3 の -fer-）。"
+     },
+     "forms": [
+      [
+       "make a counteroffer",
+       "还价",
+       "対案を出す"
+      ],
+      [
+       "accept an offer",
+       "接受报价",
+       "申し出を受け入れる"
+      ]
+     ],
+     "tip": {
+      "zh": "谈判对话常见。",
+      "ja": "交渉の会話で。"
+     }
+    },
+    {
+     "w": "settlement",
+     "pos": "n.",
+     "ipa": "/ˈsɛtəlmənt/",
+     "zh": "和解；解决；结算",
+     "ja": "和解；決済",
+     "ex": "The two companies reached a settlement out of court.",
+     "ex_zh": "两家公司达成了庭外和解。",
+     "ex_ja": "両社は示談で和解に達しました。",
+     "parts": [
+      [
+       "settle",
+       "安顿；解决",
+       "落ち着かせる"
+      ],
+      [
+       "-ment",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "settle（古英语 setlan“安置”）+ -ment；本族词。",
+      "ja": "settle（古英語 setlan「置く」）＋-ment。"
+     },
+     "forms": [
+      [
+       "out-of-court settlement",
+       "庭外和解",
+       "示談"
+      ],
+      [
+       "settle (v.)",
+       "解决；结算",
+       "解決する；清算する"
+      ]
+     ],
+     "tip": {
+      "zh": "settle a bill = 结账。",
+      "ja": "settle a bill＝勘定を払う。"
+     }
+    },
+    {
+     "w": "arbitration",
+     "pos": "n.",
+     "ipa": "/ˌɑrbɪˈtreɪʃən/",
+     "zh": "仲裁",
+     "ja": "仲裁",
+     "ex": "The dispute will be resolved through arbitration.",
+     "ex_zh": "该争议将通过仲裁解决。",
+     "ex_ja": "その紛争は仲裁によって解決されます。",
+     "parts": [
+      [
+       "arbitr",
+       "裁判人（arbiter）",
+       "審判"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 arbitratio，来自 arbiter“裁判人”。",
+      "ja": "ラテン語 arbitratio（arbiter「審判者」）から。"
+     },
+     "forms": [
+      [
+       "arbitrator (n.)",
+       "仲裁人",
+       "仲裁人"
+      ],
+      [
+       "binding arbitration",
+       "有约束力的仲裁",
+       "拘束力のある仲裁"
+      ]
+     ],
+     "tip": {
+      "zh": "合同争议条款常见。",
+      "ja": "契約の紛争条項で。"
+     }
+    },
+    {
+     "w": "mediator",
+     "pos": "n.",
+     "ipa": "/ˈmidiˌeɪtɚ/",
+     "zh": "调解人",
+     "ja": "調停者；仲介者",
+     "ex": "A neutral mediator helped both parties reach an agreement.",
+     "ex_zh": "一位中立的调解人帮助双方达成协议。",
+     "ex_ja": "中立的な調停者が両者の合意を助けました。",
+     "parts": [
+      [
+       "medi",
+       "中间",
+       "中間"
+      ],
+      [
+       "-ator",
+       "表示人",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "晚期拉丁语 mediator“居间人”，来自 medius“中间的”。",
+      "ja": "後期ラテン語 mediator（medius「中間の」）から。"
+     },
+     "forms": [
+      [
+       "mediate (v.)",
+       "调解",
+       "調停する"
+      ],
+      [
+       "mediation (n.)",
+       "调解",
+       "調停"
+      ]
+     ],
+     "tip": {
+      "zh": "mediation（调解）比 arbitration（仲裁）更温和。",
+      "ja": "mediation と arbitration の違い。"
+     }
+    },
+    {
+     "w": "compromise",
+     "pos": "n./v.",
+     "ipa": "/ˈkɑmprəˌmaɪz/",
+     "zh": "妥协；危及",
+     "ja": "妥協（する）；損なう",
+     "ex": "After hours of discussion, they finally reached a compromise.",
+     "ex_zh": "经过几个小时的讨论，他们终于达成妥协。",
+     "ex_ja": "何時間も話し合った末、彼らはついに妥協点に達しました。",
+     "parts": [
+      [
+       "com-",
+       "一起",
+       "共に"
+      ],
+      [
+       "pro-",
+       "向前",
+       "前へ"
+      ],
+      [
+       "mise",
+       "送（mittere）",
+       "送る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 compromissum“共同承诺（接受仲裁）”（Day 1 词根 -mis-）。",
+      "ja": "ラテン語 compromissum「共同の約束」（Day 1 の -mis-）。"
+     },
+     "forms": [
+      [
+       "reach a compromise",
+       "达成妥协",
+       "妥協に達する"
+      ],
+      [
+       "compromise security",
+       "危及安全",
+       "安全を損なう"
+      ]
+     ],
+     "tip": {
+      "zh": "动词另义：危及（compromise quality）。",
+      "ja": "「損なう」の意味に注意。"
+     }
+    },
+    {
+     "w": "deadlock",
+     "pos": "n.",
+     "ipa": "/ˈdɛdˌlɑk/",
+     "zh": "僵局",
+     "ja": "行き詰まり",
+     "ex": "Talks between management and the union ended in deadlock.",
+     "ex_zh": "劳资谈判陷入僵局。",
+     "ex_ja": "経営陣と組合の交渉は行き詰まりました。",
+     "parts": [
+      [
+       "dead",
+       "死",
+       "死んだ"
+      ],
+      [
+       "lock",
+       "锁",
+       "錠"
+      ]
+     ],
+     "note": {
+      "zh": "本族词复合 dead + lock；没有可靠的拉丁词根拆分。",
+      "ja": "英語の複合語 dead＋lock。"
+     },
+     "forms": [
+      [
+       "break the deadlock",
+       "打破僵局",
+       "行き詰まりを打開する"
+      ],
+      [
+       "stalemate (n.)",
+       "僵局",
+       "膠着状態"
+      ]
+     ],
+     "tip": {
+      "zh": "同义 stalemate / impasse。",
+      "ja": "stalemate と同義。"
+     }
+    },
+    {
+     "w": "waiver",
+     "pos": "n.",
+     "ipa": "/ˈweɪvɚ/",
+     "zh": "弃权声明；免除",
+     "ja": "権利放棄書；免除",
+     "ex": "All participants must sign a liability waiver before the tour.",
+     "ex_zh": "所有参与者在参加旅行团前都须签署免责声明。",
+     "ex_ja": "参加者は全員、ツアー前に免責同意書に署名しなければなりません。",
+     "parts": [
+      [
+       "waive",
+       "放弃",
+       "放棄する"
+      ],
+      [
+       "-er",
+       "名词后缀（法律）",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "waive（盎格鲁-诺曼语 weyver“放弃”）+ -er；没有可靠的拉丁词根拆分。",
+      "ja": "waive（アングロ・ノルマン語 weyver「放棄する」）＋-er。"
+     },
+     "forms": [
+      [
+       "waive (v.)",
+       "免除；放弃",
+       "免除する"
+      ],
+      [
+       "fee waiver",
+       "费用减免",
+       "手数料免除"
+      ]
+     ],
+     "tip": {
+      "zh": "waive the fee = 免收费用。",
+      "ja": "waive the fee＝料金を免除する。"
+     }
+    },
+    {
+     "w": "injunction",
+     "pos": "n.",
+     "ipa": "/ɪnˈdʒʌŋkʃən/",
+     "zh": "禁令；强制令",
+     "ja": "差し止め命令",
+     "ex": "The court issued an injunction to stop the sale of the product.",
+     "ex_zh": "法院发出禁令，停止该产品的销售。",
+     "ex_ja": "裁判所はその製品の販売を差し止める命令を出しました。",
+     "parts": [
+      [
+       "in-",
+       "在上",
+       "上に"
+      ],
+      [
+       "junct",
+       "连接（iungere）",
+       "結ぶ"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "晚期拉丁语 injunctio“命令”，来自 injungere“加于…之上”。",
+      "ja": "後期ラテン語 injunctio（injungere「課す」）から。"
+     },
+     "forms": [
+      [
+       "court injunction",
+       "法院禁令",
+       "裁判所の差し止め命令"
+      ],
+      [
+       "seek an injunction",
+       "申请禁令",
+       "差し止めを求める"
+      ]
+     ],
+     "tip": {
+      "zh": "法律新闻进阶词。",
+      "ja": "法律ニュースの上級語。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "tour",
+   "title_zh": "主题：旅游与观光",
+   "title_ja": "テーマ：観光・旅行",
+   "words": [
+    {
+     "w": "sightseeing",
+     "pos": "n.",
+     "ipa": "/ˈsaɪtˌsiɪŋ/",
+     "zh": "观光；游览",
+     "ja": "観光",
+     "ex": "We'll have a free afternoon for sightseeing.",
+     "ex_zh": "我们会有一个自由的下午用来观光。",
+     "ex_ja": "午後は自由に観光する時間があります。",
+     "parts": [
+      [
+       "sight",
+       "景象",
+       "光景"
+      ],
+      [
+       "see",
+       "看",
+       "見る"
+      ],
+      [
+       "-ing",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "本族词复合 sight + seeing；没有可靠的拉丁词根拆分。",
+      "ja": "英語の複合語 sight＋seeing。"
+     },
+     "forms": [
+      [
+       "go sightseeing",
+       "去观光",
+       "観光に行く"
+      ],
+      [
+       "sightseeing tour",
+       "观光游",
+       "観光ツアー"
+      ]
+     ],
+     "tip": {
+      "zh": "旅游对话高频。",
+      "ja": "旅行の会話で頻出。"
+     }
+    },
+    {
+     "w": "attraction",
+     "pos": "n.",
+     "ipa": "/əˈtrækʃən/",
+     "zh": "景点；吸引力",
+     "ja": "名所；呼び物",
+     "ex": "The old castle is the city's most popular tourist attraction.",
+     "ex_zh": "古城是该市最受欢迎的旅游景点。",
+     "ex_ja": "その古城は市で最も人気のある観光名所です。",
+     "parts": [
+      [
+       "at-",
+       "朝向",
+       "〜へ"
+      ],
+      [
+       "tract",
+       "拉",
+       "引く"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 attractio“吸引”（Day 3 词根 -tract-）。",
+      "ja": "ラテン語 attractio（Day 3 の -tract-）。"
+     },
+     "forms": [
+      [
+       "tourist attraction",
+       "旅游景点",
+       "観光名所"
+      ],
+      [
+       "attract (v.)",
+       "吸引",
+       "引きつける"
+      ]
+     ],
+     "tip": {
+      "zh": "旅游宣传册必考词。",
+      "ja": "観光パンフレットで必須。"
+     }
+    },
+    {
+     "w": "hospitality",
+     "pos": "n.",
+     "ipa": "/ˌhɑspɪˈtæləti/",
+     "zh": "好客；（酒店餐饮）服务业",
+     "ja": "もてなし；接客業",
+     "ex": "Thank you for your warm hospitality during our visit.",
+     "ex_zh": "感谢您在我们访问期间的热情款待。",
+     "ex_ja": "訪問中の温かいおもてなしに感謝します。",
+     "parts": [
+      [
+       "hospit",
+       "客人；主人（hospes）",
+       "客・主人"
+      ],
+      [
+       "-al",
+       "形容词后缀",
+       "形容詞を作る"
+      ],
+      [
+       "-ity",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 hospitalitas，来自 hospes“主人、客人”。",
+      "ja": "ラテン語 hospitalitas（hospes「主人・客」）から。"
+     },
+     "forms": [
+      [
+       "hospitality industry",
+       "酒店餐饮业",
+       "接客業"
+      ],
+      [
+       "hospitable (adj.)",
+       "好客的",
+       "もてなしのよい"
+      ]
+     ],
+     "tip": {
+      "zh": "hospitality industry = 服务业（酒店餐饮）。",
+      "ja": "接客業の意味も。"
+     }
+    },
+    {
+     "w": "resort",
+     "pos": "n./v.",
+     "ipa": "/rɪˈzɔrt/",
+     "zh": "度假胜地；手段；求助",
+     "ja": "リゾート；手段；頼る",
+     "ex": "The beach resort offers diving lessons for beginners.",
+     "ex_zh": "这个海滨度假村为初学者提供潜水课程。",
+     "ex_ja": "そのビーチリゾートでは初心者向けのダイビング講習があります。",
+     "parts": [
+      [
+       "re-",
+       "再",
+       "再び"
+      ],
+      [
+       "sort",
+       "出去（sortir）",
+       "出る"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 resortir“再次出去 → 常去之处”；没有可靠的拉丁词根拆分。",
+      "ja": "古フランス語 resortir「再び出かける」。"
+     },
+     "forms": [
+      [
+       "last resort",
+       "最后的手段",
+       "最後の手段"
+      ],
+      [
+       "resort to",
+       "诉诸",
+       "〜に頼る"
+      ]
+     ],
+     "tip": {
+      "zh": "as a last resort = 作为最后手段。",
+      "ja": "as a last resort＝最後の手段として。"
+     }
+    },
+    {
+     "w": "cruise",
+     "pos": "n./v.",
+     "ipa": "/kruz/",
+     "zh": "游轮旅行；巡航",
+     "ja": "クルーズ；巡航する",
+     "ex": "The cruise stops at five ports along the coast.",
+     "ex_zh": "这趟游轮之旅沿海岸停靠五个港口。",
+     "ex_ja": "そのクルーズは沿岸の 5 つの港に寄港します。",
+     "parts": [
+      [
+       "cruise",
+       "交叉航行",
+       "横切る"
+      ]
+     ],
+     "note": {
+      "zh": "荷兰语 kruisen“交叉航行”（来自 kruis“十字”）。",
+      "ja": "オランダ語 kruisen「十字に航行する」から。"
+     },
+     "forms": [
+      [
+       "cruise ship",
+       "游轮",
+       "クルーズ船"
+      ],
+      [
+       "cruise control",
+       "定速巡航",
+       "クルーズコントロール"
+      ]
+     ],
+     "tip": {
+      "zh": "旅游广告常见。",
+      "ja": "旅行広告で。"
+     }
+    },
+    {
+     "w": "landmark",
+     "pos": "n.",
+     "ipa": "/ˈlændˌmɑrk/",
+     "zh": "地标；里程碑",
+     "ja": "名所；画期的な出来事",
+     "ex": "The tower is the most famous landmark in the city.",
+     "ex_zh": "这座塔是城市最著名的地标。",
+     "ex_ja": "その塔は市で最も有名なランドマークです。",
+     "parts": [
+      [
+       "land",
+       "土地",
+       "土地"
+      ],
+      [
+       "mark",
+       "标记",
+       "印"
+      ]
+     ],
+     "note": {
+      "zh": "本族词复合 land + mark；没有可靠的拉丁词根拆分。",
+      "ja": "英語の複合語 land＋mark。"
+     },
+     "forms": [
+      [
+       "historic landmark",
+       "历史地标",
+       "歴史的建造物"
+      ],
+      [
+       "landmark decision",
+       "里程碑式决定",
+       "画期的な決定"
+      ]
+     ],
+     "tip": {
+      "zh": "形容词：landmark agreement = 划时代协议。",
+      "ja": "形容詞「画期的な」も。"
+     }
+    },
+    {
+     "w": "scenic",
+     "pos": "adj.",
+     "ipa": "/ˈsinɪk/",
+     "zh": "风景优美的",
+     "ja": "景色のよい",
+     "ex": "We took the scenic route along the coast.",
+     "ex_zh": "我们走了沿海风景优美的路线。",
+     "ex_ja": "私たちは海岸沿いの景色のよいルートを通りました。",
+     "parts": [
+      [
+       "scen",
+       "场景（scaena）",
+       "場面"
+      ],
+      [
+       "-ic",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 scaenicus“舞台的”，来自希腊语 skene。",
+      "ja": "ラテン語 scaenicus「舞台の」（ギリシャ語 skene）から。"
+     },
+     "forms": [
+      [
+       "scene (n.)",
+       "场景",
+       "場面"
+      ],
+      [
+       "scenery (n.)",
+       "风景",
+       "景色"
+      ]
+     ],
+     "tip": {
+      "zh": "scenic view / scenic drive。",
+      "ja": "観光案内で。"
+     }
+    },
+    {
+     "w": "guided",
+     "pos": "adj.",
+     "ipa": "/ˈɡaɪdɪd/",
+     "zh": "有导游带领的",
+     "ja": "ガイド付きの",
+     "ex": "Guided tours of the factory are available on weekdays.",
+     "ex_zh": "工作日可参加有导游带领的工厂参观。",
+     "ex_ja": "平日はガイド付きの工場見学ができます。",
+     "parts": [
+      [
+       "guide",
+       "引导",
+       "案内する"
+      ],
+      [
+       "-ed",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "guide（古法语 guider，源自日耳曼语）+ -ed；没有可靠的拉丁词根拆分。",
+      "ja": "guide（古フランス語 guider、ゲルマン語起源）＋-ed。"
+     },
+     "forms": [
+      [
+       "guided tour",
+       "导览游",
+       "ガイド付きツアー"
+      ],
+      [
+       "self-guided (adj.)",
+       "自助导览的",
+       "セルフガイドの"
+      ]
+     ],
+     "tip": {
+      "zh": "self-guided tour = 自助参观。",
+      "ja": "自由見学は self-guided。"
+     },
+     "hl": "Guided"
+    },
+    {
+     "w": "brochure",
+     "pos": "n.",
+     "ipa": "/broʊˈʃʊr/",
+     "zh": "宣传册；小册子",
+     "ja": "パンフレット",
+     "ex": "Please take a brochure for more information about our tours.",
+     "ex_zh": "想了解更多旅游信息，请拿一本宣传册。",
+     "ex_ja": "ツアーの詳細はパンフレットをお取りください。",
+     "parts": [
+      [
+       "broch",
+       "缝订",
+       "綴じる"
+      ],
+      [
+       "-ure",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "法语 brochure“装订成的小册子”，来自 brocher“缝订”。",
+      "ja": "フランス語 brochure（brocher「綴じる」）から。"
+     },
+     "forms": [
+      [
+       "travel brochure",
+       "旅游手册",
+       "旅行パンフレット"
+      ],
+      [
+       "pamphlet (n.)",
+       "小册子",
+       "小冊子"
+      ]
+     ],
+     "tip": {
+      "zh": "读 /broʊˈʃʊr/。",
+      "ja": "発音 /broʊˈʃʊr/。"
+     }
+    },
+    {
+     "w": "destination",
+     "pos": "n.",
+     "ipa": "/ˌdɛstəˈneɪʃən/",
+     "zh": "目的地",
+     "ja": "目的地；行き先",
+     "ex": "Kyoto is a popular destination for international visitors.",
+     "ex_zh": "京都是外国游客喜爱的目的地。",
+     "ex_ja": "京都は外国人観光客に人気の目的地です。",
+     "parts": [
+      [
+       "de-",
+       "完全",
+       "完全に"
+      ],
+      [
+       "stin",
+       "站；定（stare）",
+       "立てる"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 destinatio“确定、目标”（与 Day 8 词根 -st- 同源）。",
+      "ja": "ラテン語 destinatio「定めること」（Day 8 の -st- と同源）。"
+     },
+     "forms": [
+      [
+       "travel destination",
+       "旅游目的地",
+       "旅行先"
+      ],
+      [
+       "final destination",
+       "最终目的地",
+       "最終目的地"
+      ]
+     ],
+     "tip": {
+      "zh": "旅游广告高频。",
+      "ja": "旅行広告で頻出。"
+     }
+    },
+    {
+     "w": "accommodate",
+     "pos": "v.",
+     "ipa": "/əˈkɑməˌdeɪt/",
+     "zh": "容纳；提供住宿；照顾需求",
+     "ja": "収容する；対応する",
+     "ex": "The conference hall can accommodate up to 500 guests.",
+     "ex_zh": "会议厅最多可容纳 500 位宾客。",
+     "ex_ja": "会議ホールは最大 500 人を収容できます。",
+     "parts": [
+      [
+       "ac-",
+       "朝向",
+       "〜へ"
+      ],
+      [
+       "com-",
+       "一起",
+       "共に"
+      ],
+      [
+       "mod",
+       "尺度",
+       "尺度"
+      ],
+      [
+       "-ate",
+       "动词后缀",
+       "動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 accommodare“使适合”。",
+      "ja": "ラテン語 accommodare「適合させる」。"
+     },
+     "forms": [
+      [
+       "accommodation (n.)",
+       "住宿",
+       "宿泊施設"
+      ],
+      [
+       "accommodate requests",
+       "满足要求",
+       "要望に応じる"
+      ]
+     ],
+     "tip": {
+      "zh": "拼写双 c 双 m。",
+      "ja": "c と m が 2 つずつ。"
+     }
+    },
+    {
+     "w": "heritage",
+     "pos": "n.",
+     "ipa": "/ˈhɛrɪtɪdʒ/",
+     "zh": "遗产；传统",
+     "ja": "遺産；伝統",
+     "ex": "The old town was named a World Heritage Site.",
+     "ex_zh": "这座古城被列为世界遗产。",
+     "ex_ja": "その旧市街は世界遺産に登録されました。",
+     "parts": [
+      [
+       "herit",
+       "继承（heres）",
+       "継ぐ"
+      ],
+      [
+       "-age",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 heritage，来自拉丁语 heres“继承人”。",
+      "ja": "古フランス語 heritage（ラテン語 heres「相続人」）から。"
+     },
+     "forms": [
+      [
+       "World Heritage Site",
+       "世界遗产",
+       "世界遺産"
+      ],
+      [
+       "cultural heritage",
+       "文化遗产",
+       "文化遺産"
+      ]
+     ],
+     "tip": {
+      "zh": "旅游宣传高频。",
+      "ja": "観光案内で頻出。"
+     }
+    },
+    {
+     "w": "panoramic",
+     "pos": "adj.",
+     "ipa": "/ˌpænəˈræmɪk/",
+     "zh": "全景的",
+     "ja": "全景の；パノラマの",
+     "ex": "The rooftop restaurant offers panoramic views of the city.",
+     "ex_zh": "屋顶餐厅可以饱览城市全景。",
+     "ex_ja": "屋上レストランからは市内を一望できます。",
+     "parts": [
+      [
+       "pan-",
+       "全部",
+       "すべて"
+      ],
+      [
+       "orama",
+       "景象",
+       "眺め"
+      ],
+      [
+       "-ic",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "panorama（希腊语 pan“全”+ horama“景象”）+ -ic。",
+      "ja": "panorama（ギリシャ語 pan＋horama）＋-ic。"
+     },
+     "forms": [
+      [
+       "panorama (n.)",
+       "全景",
+       "全景"
+      ],
+      [
+       "panoramic view",
+       "全景",
+       "パノラマの眺め"
+      ]
+     ],
+     "tip": {
+      "zh": "酒店广告常见。",
+      "ja": "ホテル広告で。"
+     }
+    },
+    {
+     "w": "hostel",
+     "pos": "n.",
+     "ipa": "/ˈhɑstəl/",
+     "zh": "青年旅舍；招待所",
+     "ja": "ユースホステル；宿泊所",
+     "ex": "Budget travelers often stay at hostels near the station.",
+     "ex_zh": "预算有限的旅行者常住在车站附近的青年旅舍。",
+     "ex_ja": "節約派の旅行者は駅近くのホステルによく泊まります。",
+     "parts": [
+      [
+       "host",
+       "客人；主人（hospes）",
+       "客・主人"
+      ],
+      [
+       "-el",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 hostel，来自中世纪拉丁语 hospitale（与 hotel、hospital 同源）。",
+      "ja": "古フランス語 hostel（中世ラテン語 hospitale、hotel・hospital と同源）。"
+     },
+     "forms": [
+      [
+       "youth hostel",
+       "青年旅舍",
+       "ユースホステル"
+      ],
+      [
+       "hotel (n.)",
+       "酒店",
+       "ホテル"
+      ]
+     ],
+     "tip": {
+      "zh": "hostel / hotel / hospital 同源。",
+      "ja": "hotel・hospital と同源。"
+     },
+     "hl": "hostels"
+    }
+   ]
+  }
+ ]
+}

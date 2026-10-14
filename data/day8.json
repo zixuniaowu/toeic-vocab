@@ -1,0 +1,2754 @@
+{
+ "day": 8,
+ "date": "2026-10-16",
+ "title_zh": "四大词根 + 餐饮外食与零售购物",
+ "title_ja": "4つの語根＋飲食・外食と小売・買い物",
+ "intro_zh": "今天掌握 4 个高频词根（cur·cour 跑 / sist·st 站 / spir 呼吸 / mov·mot·mob 动），再学餐厅餐饮和零售购物的核心词——强化 Part 2/3 点餐、退换货对话和 Part 7 促销广告的阅读。",
+ "intro_ja": "今日は語根 4 つ（cur·cour 走る／sist·st 立つ／spir 息をする／mov·mot·mob 動く）と、レストラン・飲食、小売・買い物の重要語を学びます。Part 2/3 の注文・返品の会話と Part 7 のセール広告の読解を強化します。",
+ "voice": "en-US-AriaNeural",
+ "roots": [
+  {
+   "root": "-cur- / -cour-",
+   "origin": "Latin currere / cursus",
+   "zh": "跑；流动",
+   "ja": "走る；流れる",
+   "exp_zh": "来自拉丁语 currere（跑；过去分词 cursus）。oc-（跑向 → 发生）、re-（跑回来 → 再发生）、con-（一起跑 → 同时发生的）、ex-（跑出去 → 短途旅行）、in-（跑进去 → 招致）。⚠️ Day 1–6 已出现的 currency、courier 也同源；cure（治疗）来自 cura“照料”，不同源。",
+   "exp_ja": "ラテン語 currere（走る、過去分詞 cursus）から。oc-（〜へ走る → 起こる）、re-（走り戻る → 再発する）、con-（共に走る → 同時の）、ex-（外へ走る → 小旅行）、in-（中へ走る → 招く）。⚠️ 既出の currency・courier も同源。cure（治療）は cura「世話」由来で別。",
+   "examples": [
+    "occur",
+    "recur",
+    "concurrent",
+    "excursion",
+    "curriculum",
+    "incur",
+    "precursor",
+    "cursor"
+   ]
+  },
+  {
+   "root": "-sist- / -st- / -stit-",
+   "origin": "Latin stare / sistere / statuere",
+   "zh": "站；立",
+   "ja": "立つ；立たせる",
+   "exp_zh": "来自拉丁语 stare（站）、sistere（使站立）、statuere（设立）。as-（站在旁边 → 帮助）、con-（站在一起 → 一贯的）、per-（一直站着 → 坚持）、re-（反着站 → 抵抗）、sub-（站在下面 → 代替）、in-（立起来 → 机构）。⚠️ 已用过的 estate、status 也属此家族；但 assistant 与 assist 同源，history 则无关。",
+   "exp_ja": "ラテン語 stare（立つ）、sistere（立たせる）、statuere（設ける）から。as-（そばに立つ → 助ける）、con-（共に立つ → 一貫した）、per-（立ち続ける → 固執する）、re-（逆らって立つ → 抵抗する）、sub-（下に立てる → 代わりにする）、in-（立てる → 機関）。",
+   "examples": [
+    "assist",
+    "consistent",
+    "persist",
+    "resist",
+    "substitute",
+    "constitute",
+    "institute",
+    "obstacle"
+   ]
+  },
+  {
+   "root": "-spir-",
+   "origin": "Latin spirare",
+   "zh": "呼吸",
+   "ja": "息をする",
+   "exp_zh": "来自拉丁语 spirare（呼吸）和 spiritus（气息、精神）。in-（吸进 → 激励）、a-（朝…呼吸 → 渴望）、per-（透过皮肤呼出 → 出汗）、tran-（透出 → 被得知、发生）。⚠️ expire（到期，“呼出最后一口气”）已在前面学过；spire（尖塔）不同源。",
+   "exp_ja": "ラテン語 spirare（息をする）と spiritus（息・精神）から。in-（吹き込む → 鼓舞する）、a-（〜へ息をする → 熱望する）、per-（皮膚から出す → 汗をかく）、tran-（にじみ出る → 明らかになる）。⚠️ expire（期限切れ）は既出。spire（尖塔）は別語源。",
+   "examples": [
+    "inspire",
+    "aspire",
+    "inspiration",
+    "respiratory",
+    "perspire",
+    "transpire",
+    "spirited",
+    "aspiration"
+   ]
+  },
+  {
+   "root": "-mov- / -mot- / -mob-",
+   "origin": "Latin movere / motus / mobilis",
+   "zh": "移动",
+   "ja": "動く；動かす",
+   "exp_zh": "来自拉丁语 movere（移动；过去分词 motus；形容词 mobilis）。pro-（向前推动 → 促进、促销）、re-（移开 → 去除）、e-（向外动 → 情绪）、de-（向下动 → 降职）。⚠️ moment（瞬间）也同源（movimentum“移动的一刹那”）；但 motel 是 motor + hotel 的合成词。",
+   "exp_ja": "ラテン語 movere（動かす、過去分詞 motus、形容詞 mobilis）から。pro-（前へ動かす → 促進・販促）、re-（取り除く）、e-（外へ動く → 感情）、de-（下へ動かす → 降格）。⚠️ moment も同源。motel は motor＋hotel の合成語。",
+   "examples": [
+    "promote",
+    "motivate",
+    "mobile",
+    "remote",
+    "emotion",
+    "removal",
+    "motive",
+    "demote"
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "cur",
+   "title_zh": "词根 -cur- / -cour-：跑",
+   "title_ja": "語根 -cur- / -cour-：走る",
+   "words": [
+    {
+     "w": "occur",
+     "pos": "v.",
+     "ipa": "/əˈkɝ/",
+     "zh": "发生；想到",
+     "ja": "起こる；思い浮かぶ",
+     "ex": "The power outage occurred at around 3 p.m.",
+     "ex_zh": "停电发生在下午 3 点左右。",
+     "ex_ja": "停電は午後 3 時ごろに起こりました。",
+     "parts": [
+      [
+       "oc-",
+       "朝向（=ob-）",
+       "〜へ"
+      ],
+      [
+       "cur",
+       "跑",
+       "走る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 occurrere“跑向、遇到”。",
+      "ja": "ラテン語 occurrere「走り寄る・出くわす」。"
+     },
+     "forms": [
+      [
+       "occurrence (n.)",
+       "发生；事件",
+       "出来事"
+      ],
+      [
+       "it occurred to me that",
+       "我想到…",
+       "〜と思いついた"
+      ]
+     ],
+     "tip": {
+      "zh": "过去式双写 r：occurred。",
+      "ja": "過去形は occurred（r を重ねる）。"
+     },
+     "hl": "occurred"
+    },
+    {
+     "w": "recur",
+     "pos": "v.",
+     "ipa": "/rɪˈkɝ/",
+     "zh": "再发生；复发",
+     "ja": "再発する；繰り返し起こる",
+     "ex": "Please contact us if the problem recurs.",
+     "ex_zh": "如果问题再次出现，请与我们联系。",
+     "ex_ja": "問題が再発した場合はご連絡ください。",
+     "parts": [
+      [
+       "re-",
+       "再",
+       "再び"
+      ],
+      [
+       "cur",
+       "跑",
+       "走る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 recurrere“跑回来”。",
+      "ja": "ラテン語 recurrere「走って戻る」。"
+     },
+     "forms": [
+      [
+       "recurring (adj.)",
+       "反复出现的",
+       "繰り返し起こる"
+      ],
+      [
+       "recurrence (n.)",
+       "复发",
+       "再発"
+      ]
+     ],
+     "tip": {
+      "zh": "recurring payment = 定期扣款。",
+      "ja": "recurring payment＝定期支払い。"
+     },
+     "hl": "recurs"
+    },
+    {
+     "w": "concurrent",
+     "pos": "adj.",
+     "ipa": "/kənˈkɝənt/",
+     "zh": "同时发生的；并行的",
+     "ja": "同時の；並行する",
+     "ex": "The conference will feature several concurrent sessions each afternoon.",
+     "ex_zh": "大会每天下午将有几场同时进行的分会。",
+     "ex_ja": "会議では毎日午後に複数のセッションが同時に行われます。",
+     "parts": [
+      [
+       "con-",
+       "一起",
+       "共に"
+      ],
+      [
+       "cur",
+       "跑",
+       "走る"
+      ],
+      [
+       "-ent",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 concurrere“一起跑”。",
+      "ja": "ラテン語 concurrere「共に走る」。"
+     },
+     "forms": [
+      [
+       "concurrently (adv.)",
+       "同时地",
+       "同時に"
+      ],
+      [
+       "concur (v.)",
+       "同意；同时发生",
+       "同意する"
+      ]
+     ],
+     "tip": {
+      "zh": "同义 simultaneous。",
+      "ja": "simultaneous と同義。"
+     }
+    },
+    {
+     "w": "excursion",
+     "pos": "n.",
+     "ipa": "/ɪkˈskɝʒən/",
+     "zh": "短途旅行；游览",
+     "ja": "小旅行；遠足",
+     "ex": "The hotel offers a half-day excursion to the old town.",
+     "ex_zh": "酒店提供去老城区的半日游。",
+     "ex_ja": "ホテルでは旧市街への半日ツアーを提供しています。",
+     "parts": [
+      [
+       "ex-",
+       "向外",
+       "外へ"
+      ],
+      [
+       "curs",
+       "跑",
+       "走る"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 excursio“跑出去、出击”。",
+      "ja": "ラテン語 excursio「走り出ること」。"
+     },
+     "forms": [
+      [
+       "day excursion",
+       "一日游",
+       "日帰り旅行"
+      ],
+      [
+       "excursion fare",
+       "游览票价",
+       "周遊運賃"
+      ]
+     ],
+     "tip": {
+      "zh": "旅行广告常见。",
+      "ja": "旅行広告で頻出。"
+     }
+    },
+    {
+     "w": "curriculum",
+     "pos": "n.",
+     "ipa": "/kəˈrɪkjələm/",
+     "zh": "课程；课程设置",
+     "ja": "カリキュラム；教育課程",
+     "ex": "The training curriculum includes customer service and sales skills.",
+     "ex_zh": "培训课程包括客户服务和销售技巧。",
+     "ex_ja": "研修カリキュラムには接客と営業スキルが含まれます。",
+     "parts": [
+      [
+       "curr",
+       "跑",
+       "走る"
+      ],
+      [
+       "-iculum",
+       "名词后缀（工具、场所）",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 curriculum“跑道、赛程”。",
+      "ja": "ラテン語 curriculum「競走路」。"
+     },
+     "forms": [
+      [
+       "curriculum vitae (CV)",
+       "简历",
+       "履歴書"
+      ],
+      [
+       "curricula (pl.)",
+       "课程（复数）",
+       "複数形"
+      ]
+     ],
+     "tip": {
+      "zh": "CV = curriculum vitae“人生的历程”= 简历。",
+      "ja": "CV は「人生の経歴」＝履歴書。"
+     }
+    },
+    {
+     "w": "incur",
+     "pos": "v.",
+     "ipa": "/ɪnˈkɝ/",
+     "zh": "招致；承担（费用）",
+     "ja": "（費用を）負担する；招く",
+     "ex": "Customers who cancel late will incur a $50 fee.",
+     "ex_zh": "延迟取消的顾客将被收取 50 美元费用。",
+     "ex_ja": "遅れて解約するお客様には 50 ドルの手数料がかかります。",
+     "parts": [
+      [
+       "in-",
+       "向内",
+       "中へ"
+      ],
+      [
+       "cur",
+       "跑",
+       "走る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 incurrere“跑进去、撞上”。",
+      "ja": "ラテン語 incurrere「走り込む・ぶつかる」。"
+     },
+     "forms": [
+      [
+       "incur costs",
+       "产生费用",
+       "費用を負担する"
+      ],
+      [
+       "incur a penalty",
+       "受罚",
+       "罰金を科される"
+      ]
+     ],
+     "tip": {
+      "zh": "宾语常是 cost / fee / expense / loss。",
+      "ja": "目的語は cost / fee / loss など。"
+     }
+    },
+    {
+     "w": "precursor",
+     "pos": "n.",
+     "ipa": "/priˈkɝsɚ/",
+     "zh": "先驱；前身",
+     "ja": "前身；先駆け",
+     "ex": "The small café was the precursor of today's national chain.",
+     "ex_zh": "那家小咖啡馆是如今全国连锁店的前身。",
+     "ex_ja": "その小さなカフェは現在の全国チェーンの前身でした。",
+     "parts": [
+      [
+       "pre-",
+       "在前",
+       "前に"
+      ],
+      [
+       "curs",
+       "跑",
+       "走る"
+      ],
+      [
+       "-or",
+       "表示人／物",
+       "〜するもの"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 praecursor“跑在前面的人”。",
+      "ja": "ラテン語 praecursor「先に走る者」。"
+     },
+     "forms": [
+      [
+       "precursor to",
+       "…的前兆",
+       "〜の前触れ"
+      ],
+      [
+       "forerunner (n.)",
+       "先驱",
+       "先駆者"
+      ]
+     ],
+     "tip": {
+      "zh": "同义 forerunner / predecessor。",
+      "ja": "predecessor と近い。"
+     }
+    },
+    {
+     "w": "cursor",
+     "pos": "n.",
+     "ipa": "/ˈkɝsɚ/",
+     "zh": "（电脑）光标",
+     "ja": "カーソル",
+     "ex": "Move the cursor to the top of the screen and click \"Save.\"",
+     "ex_zh": "把光标移到屏幕顶部，点击“保存”。",
+     "ex_ja": "カーソルを画面上部に移動し「保存」をクリックしてください。",
+     "parts": [
+      [
+       "curs",
+       "跑",
+       "走る"
+      ],
+      [
+       "-or",
+       "表示物",
+       "〜するもの"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 cursor“跑者”。",
+      "ja": "ラテン語 cursor「走る者」。"
+     },
+     "forms": [
+      [
+       "move the cursor",
+       "移动光标",
+       "カーソルを動かす"
+      ],
+      [
+       "cursory (adj.)",
+       "粗略的",
+       "ざっとした"
+      ]
+     ],
+     "tip": {
+      "zh": "cursory glance = 匆匆一瞥（Part 5 进阶）。",
+      "ja": "cursory＝ざっとした。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "sist",
+   "title_zh": "词根 -sist- / -st- / -stit-：站立",
+   "title_ja": "語根 -sist- / -st- / -stit-：立つ",
+   "words": [
+    {
+     "w": "assist",
+     "pos": "v.",
+     "ipa": "/əˈsɪst/",
+     "zh": "帮助；协助",
+     "ja": "手伝う；支援する",
+     "ex": "Our staff will be happy to assist you with your luggage.",
+     "ex_zh": "我们的员工很乐意帮您搬行李。",
+     "ex_ja": "スタッフが喜んでお荷物のお手伝いをいたします。",
+     "parts": [
+      [
+       "as-",
+       "在旁（=ad-）",
+       "そばに"
+      ],
+      [
+       "sist",
+       "站",
+       "立つ"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 assistere“站在旁边”。",
+      "ja": "ラテン語 assistere「そばに立つ」。"
+     },
+     "forms": [
+      [
+       "assistance (n.)",
+       "帮助",
+       "援助"
+      ],
+      [
+       "assistant (n.)",
+       "助理",
+       "アシスタント"
+      ]
+     ],
+     "tip": {
+      "zh": "assist A with B = 帮 A 做 B。",
+      "ja": "assist A with B の形。"
+     }
+    },
+    {
+     "w": "consistent",
+     "pos": "adj.",
+     "ipa": "/kənˈsɪstənt/",
+     "zh": "一贯的；一致的",
+     "ja": "一貫した；安定した",
+     "ex": "The restaurant is known for its consistent quality.",
+     "ex_zh": "这家餐厅以品质稳定著称。",
+     "ex_ja": "そのレストランは安定した品質で知られています。",
+     "parts": [
+      [
+       "con-",
+       "一起",
+       "共に"
+      ],
+      [
+       "sist",
+       "站",
+       "立つ"
+      ],
+      [
+       "-ent",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 consistere“站稳、站在一起”。",
+      "ja": "ラテン語 consistere「しっかり立つ」。"
+     },
+     "forms": [
+      [
+       "consistently (adv.)",
+       "一贯地",
+       "一貫して"
+      ],
+      [
+       "consist of",
+       "由…组成",
+       "〜から成る"
+      ]
+     ],
+     "tip": {
+      "zh": "consist of（由…组成）是另一常用义。",
+      "ja": "consist of も重要。"
+     }
+    },
+    {
+     "w": "persist",
+     "pos": "v.",
+     "ipa": "/pɚˈsɪst/",
+     "zh": "坚持；持续",
+     "ja": "続く；固執する",
+     "ex": "If the symptoms persist, please consult a doctor.",
+     "ex_zh": "如果症状持续，请咨询医生。",
+     "ex_ja": "症状が続く場合は医師にご相談ください。",
+     "parts": [
+      [
+       "per-",
+       "始终",
+       "通して"
+      ],
+      [
+       "sist",
+       "站",
+       "立つ"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 persistere“一直站着”。",
+      "ja": "ラテン語 persistere「立ち続ける」。"
+     },
+     "forms": [
+      [
+       "persistent (adj.)",
+       "持续的；坚持不懈的",
+       "しつこい"
+      ],
+      [
+       "persistence (n.)",
+       "坚持",
+       "粘り強さ"
+      ]
+     ],
+     "tip": {
+      "zh": "persist in doing = 坚持做。",
+      "ja": "persist in doing の形。"
+     }
+    },
+    {
+     "w": "resist",
+     "pos": "v.",
+     "ipa": "/rɪˈzɪst/",
+     "zh": "抵抗；忍住；耐（…）",
+     "ja": "抵抗する；耐える",
+     "ex": "This jacket is made of material that resists water.",
+     "ex_zh": "这件夹克的面料防水。",
+     "ex_ja": "このジャケットは水をはじく素材でできています。",
+     "parts": [
+      [
+       "re-",
+       "反",
+       "逆に"
+      ],
+      [
+       "sist",
+       "站",
+       "立つ"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 resistere“反着站”。",
+      "ja": "ラテン語 resistere「逆らって立つ」。"
+     },
+     "forms": [
+      [
+       "resistant (adj.)",
+       "耐…的",
+       "耐性のある"
+      ],
+      [
+       "water-resistant",
+       "防水的",
+       "防水の"
+      ]
+     ],
+     "tip": {
+      "zh": "产品说明：heat-resistant / water-resistant。",
+      "ja": "製品説明で頻出。"
+     },
+     "hl": "resists"
+    },
+    {
+     "w": "substitute",
+     "pos": "n./v.",
+     "ipa": "/ˈsʌbstəˌtut/",
+     "zh": "替代品；代替",
+     "ja": "代わり；代用する",
+     "ex": "You may substitute a salad for the fries at no extra charge.",
+     "ex_zh": "您可以免费把薯条换成沙拉。",
+     "ex_ja": "追加料金なしでポテトをサラダに替えられます。",
+     "parts": [
+      [
+       "sub-",
+       "在下",
+       "下に"
+      ],
+      [
+       "stit",
+       "设立（statuere）",
+       "立てる"
+      ],
+      [
+       "-ute",
+       "过去分词词尾",
+       "過去分詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 substituere“放在下面 → 替换”。",
+      "ja": "ラテン語 substituere「下に置く → 代わりにする」。"
+     },
+     "forms": [
+      [
+       "substitution (n.)",
+       "替换",
+       "代用"
+      ],
+      [
+       "substitute A for B",
+       "用 A 代替 B",
+       "B の代わりに A を使う"
+      ]
+     ],
+     "tip": {
+      "zh": "注意语序：substitute A for B（A 替 B）。",
+      "ja": "substitute A for B の語順に注意。"
+     }
+    },
+    {
+     "w": "constitute",
+     "pos": "v.",
+     "ipa": "/ˈkɑnstəˌtut/",
+     "zh": "构成；组成",
+     "ja": "構成する；〜となる",
+     "ex": "Women constitute more than half of our workforce.",
+     "ex_zh": "女性占我们员工的一半以上。",
+     "ex_ja": "女性が当社従業員の半数以上を占めています。",
+     "parts": [
+      [
+       "con-",
+       "一起",
+       "共に"
+      ],
+      [
+       "stit",
+       "设立",
+       "立てる"
+      ],
+      [
+       "-ute",
+       "动词词尾",
+       "動詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 constituere“共同设立”。",
+      "ja": "ラテン語 constituere「共に立てる」。"
+     },
+     "forms": [
+      [
+       "constitution (n.)",
+       "宪法；构成",
+       "憲法；構成"
+      ],
+      [
+       "constituent (n.)",
+       "成分",
+       "構成要素"
+      ]
+     ],
+     "tip": {
+      "zh": "同义 make up。",
+      "ja": "make up と同義。"
+     }
+    },
+    {
+     "w": "institute",
+     "pos": "n./v.",
+     "ipa": "/ˈɪnstəˌtut/",
+     "zh": "研究所；学院；制定",
+     "ja": "研究所；導入する",
+     "ex": "The institute offers evening courses in business English.",
+     "ex_zh": "该学院开设商务英语夜间课程。",
+     "ex_ja": "その学院はビジネス英語の夜間講座を開いています。",
+     "parts": [
+      [
+       "in-",
+       "在上",
+       "上に"
+      ],
+      [
+       "stit",
+       "设立",
+       "立てる"
+      ],
+      [
+       "-ute",
+       "词尾",
+       "語尾"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 instituere“设立”。",
+      "ja": "ラテン語 instituere「設ける」。"
+     },
+     "forms": [
+      [
+       "institution (n.)",
+       "机构",
+       "機関"
+      ],
+      [
+       "institute a policy",
+       "实施政策",
+       "方針を導入する"
+      ]
+     ],
+     "tip": {
+      "zh": "动词义“实施、制定”较难。",
+      "ja": "動詞「導入する」に注意。"
+     }
+    },
+    {
+     "w": "obstacle",
+     "pos": "n.",
+     "ipa": "/ˈɑbstəkəl/",
+     "zh": "障碍",
+     "ja": "障害；妨げ",
+     "ex": "Lack of funding is the biggest obstacle to the project.",
+     "ex_zh": "资金不足是这个项目最大的障碍。",
+     "ex_ja": "資金不足がこのプロジェクト最大の障害です。",
+     "parts": [
+      [
+       "ob-",
+       "对着",
+       "向かって"
+      ],
+      [
+       "st",
+       "站",
+       "立つ"
+      ],
+      [
+       "-acle",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 obstaculum“挡在面前的东西”。",
+      "ja": "ラテン語 obstaculum「前に立ちはだかるもの」。"
+     },
+     "forms": [
+      [
+       "overcome obstacles",
+       "克服障碍",
+       "障害を克服する"
+      ],
+      [
+       "obstacle to",
+       "…的障碍",
+       "〜への障害"
+      ]
+     ],
+     "tip": {
+      "zh": "介词用 to。",
+      "ja": "前置詞は to。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "spir",
+   "title_zh": "词根 -spir-：呼吸",
+   "title_ja": "語根 -spir-：息をする",
+   "words": [
+    {
+     "w": "inspire",
+     "pos": "v.",
+     "ipa": "/ɪnˈspaɪɚ/",
+     "zh": "激励；启发",
+     "ja": "刺激を与える；着想を与える",
+     "ex": "The chef was inspired by traditional Japanese cooking.",
+     "ex_zh": "这位厨师受到日本传统料理的启发。",
+     "ex_ja": "そのシェフは日本の伝統料理から着想を得ました。",
+     "parts": [
+      [
+       "in-",
+       "向内",
+       "中へ"
+      ],
+      [
+       "spir",
+       "呼吸",
+       "息をする"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 inspirare“吹进、注入气息”。",
+      "ja": "ラテン語 inspirare「息を吹き込む」。"
+     },
+     "forms": [
+      [
+       "inspiration (n.)",
+       "灵感",
+       "インスピレーション"
+      ],
+      [
+       "inspiring (adj.)",
+       "鼓舞人心的",
+       "感動的な"
+      ]
+     ],
+     "tip": {
+      "zh": "be inspired by = 受…启发。",
+      "ja": "be inspired by の形。"
+     },
+     "hl": "inspired"
+    },
+    {
+     "w": "aspire",
+     "pos": "v.",
+     "ipa": "/əˈspaɪɚ/",
+     "zh": "渴望；立志",
+     "ja": "熱望する；志す",
+     "ex": "She aspires to open her own bakery someday.",
+     "ex_zh": "她渴望有一天开自己的面包店。",
+     "ex_ja": "彼女はいつか自分のパン屋を開きたいと思っています。",
+     "parts": [
+      [
+       "a-",
+       "朝向（=ad-）",
+       "〜へ"
+      ],
+      [
+       "spir",
+       "呼吸",
+       "息をする"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 aspirare“朝…呼气 → 追求”。",
+      "ja": "ラテン語 aspirare「〜に息を向ける → 求める」。"
+     },
+     "forms": [
+      [
+       "aspiration (n.)",
+       "抱负",
+       "願望"
+      ],
+      [
+       "aspiring (adj.)",
+       "有抱负的",
+       "〜志望の"
+      ]
+     ],
+     "tip": {
+      "zh": "aspiring artist = 有志成为艺术家的人。",
+      "ja": "aspiring＝〜志望の。"
+     },
+     "hl": "aspires"
+    },
+    {
+     "w": "inspiration",
+     "pos": "n.",
+     "ipa": "/ˌɪnspəˈreɪʃən/",
+     "zh": "灵感；鼓舞",
+     "ja": "着想；ひらめき",
+     "ex": "The designer found inspiration for the new menu in local farms.",
+     "ex_zh": "设计师从当地农场获得新菜单的灵感。",
+     "ex_ja": "デザイナーは地元の農場から新メニューの着想を得ました。",
+     "parts": [
+      [
+       "in-",
+       "向内",
+       "中へ"
+      ],
+      [
+       "spir",
+       "呼吸",
+       "息をする"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 inspiratio“吹入”。",
+      "ja": "ラテン語 inspiratio「吹き込み」。"
+     },
+     "forms": [
+      [
+       "source of inspiration",
+       "灵感来源",
+       "ひらめきの源"
+      ],
+      [
+       "inspirational (adj.)",
+       "鼓舞人心的",
+       "感動を与える"
+      ]
+     ],
+     "tip": {
+      "zh": "词形题：inspire / inspiration / inspiring。",
+      "ja": "語形問題に注意。"
+     }
+    },
+    {
+     "w": "respiratory",
+     "pos": "adj.",
+     "ipa": "/ˈrɛspərəˌtɔri/",
+     "zh": "呼吸的",
+     "ja": "呼吸の；呼吸器の",
+     "ex": "Masks are recommended for people with respiratory conditions.",
+     "ex_zh": "建议有呼吸系统疾病的人佩戴口罩。",
+     "ex_ja": "呼吸器疾患のある方にはマスクの着用をお勧めします。",
+     "parts": [
+      [
+       "re-",
+       "再",
+       "再び"
+      ],
+      [
+       "spir",
+       "呼吸",
+       "息をする"
+      ],
+      [
+       "-atory",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 respirare“反复呼吸”。",
+      "ja": "ラテン語 respirare「繰り返し息をする」。"
+     },
+     "forms": [
+      [
+       "respiration (n.)",
+       "呼吸",
+       "呼吸"
+      ],
+      [
+       "respirator (n.)",
+       "呼吸器；防护面罩",
+       "人工呼吸器"
+      ]
+     ],
+     "tip": {
+      "zh": "健康通知中出现。",
+      "ja": "健康関連の通知で。"
+     }
+    },
+    {
+     "w": "perspire",
+     "pos": "v.",
+     "ipa": "/pɚˈspaɪɚ/",
+     "zh": "出汗",
+     "ja": "汗をかく",
+     "ex": "Kitchen staff often perspire heavily during the lunch rush.",
+     "ex_zh": "午餐高峰时，厨房员工常常大汗淋漓。",
+     "ex_ja": "ランチのピーク時、厨房スタッフはよく大汗をかきます。",
+     "parts": [
+      [
+       "per-",
+       "透过",
+       "通して"
+      ],
+      [
+       "spir",
+       "呼吸",
+       "息をする"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 perspirare“透过（皮肤）呼出”。",
+      "ja": "ラテン語 perspirare「（皮膚を）通して吐く」。"
+     },
+     "forms": [
+      [
+       "perspiration (n.)",
+       "汗",
+       "汗"
+      ],
+      [
+       "sweat (v./n.)",
+       "出汗",
+       "汗をかく"
+      ]
+     ],
+     "tip": {
+      "zh": "比 sweat 更正式。",
+      "ja": "sweat より改まった語。"
+     }
+    },
+    {
+     "w": "transpire",
+     "pos": "v.",
+     "ipa": "/trænˈspaɪɚ/",
+     "zh": "被得知；发生",
+     "ja": "判明する；起こる",
+     "ex": "It later transpired that the order had been sent to the wrong address.",
+     "ex_zh": "后来才得知订单被寄到了错误的地址。",
+     "ex_ja": "後になって、注文品が誤った住所に送られていたことが判明しました。",
+     "parts": [
+      [
+       "trans-",
+       "穿过",
+       "通って"
+      ],
+      [
+       "spir",
+       "呼吸",
+       "息をする"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 trans + spirare“透出气息 → 泄露”。",
+      "ja": "ラテン語 trans＋spirare「にじみ出る → 明るみに出る」。"
+     },
+     "forms": [
+      [
+       "it transpired that",
+       "结果发现…",
+       "〜と判明した"
+      ],
+      [
+       "transpiration (n.)",
+       "蒸腾",
+       "蒸散"
+      ]
+     ],
+     "tip": {
+      "zh": "常用 It transpired that…。",
+      "ja": "It transpired that… の形。"
+     },
+     "hl": "transpired"
+    },
+    {
+     "w": "spirited",
+     "pos": "adj.",
+     "ipa": "/ˈspɪrɪtɪd/",
+     "zh": "热烈的；精神饱满的",
+     "ja": "活発な；元気のある",
+     "ex": "The team had a spirited discussion about the new store layout.",
+     "ex_zh": "团队就新店面布局进行了热烈讨论。",
+     "ex_ja": "チームは新店舗のレイアウトについて活発な議論をしました。",
+     "parts": [
+      [
+       "spir",
+       "呼吸；精神",
+       "息・精神"
+      ],
+      [
+       "-it",
+       "名词词尾",
+       "名詞語尾"
+      ],
+      [
+       "-ed",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "spirit（拉丁语 spiritus“气息、精神”）+ -ed。",
+      "ja": "spirit（ラテン語 spiritus「息・精神」）＋-ed。"
+     },
+     "forms": [
+      [
+       "team spirit",
+       "团队精神",
+       "チーム精神"
+      ],
+      [
+       "spirit (n.)",
+       "精神；烈酒",
+       "精神；蒸留酒"
+      ]
+     ],
+     "tip": {
+      "zh": "spirited debate = 热烈辩论。",
+      "ja": "spirited debate＝白熱した議論。"
+     }
+    },
+    {
+     "w": "aspiration",
+     "pos": "n.",
+     "ipa": "/ˌæspəˈreɪʃən/",
+     "zh": "抱负；志向",
+     "ja": "願望；志",
+     "ex": "The program supports young employees with management aspirations.",
+     "ex_zh": "该项目支持有志于管理岗位的年轻员工。",
+     "ex_ja": "このプログラムは管理職を目指す若手社員を支援します。",
+     "parts": [
+      [
+       "a-",
+       "朝向（=ad-）",
+       "〜へ"
+      ],
+      [
+       "spir",
+       "呼吸",
+       "息をする"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 aspiratio“朝…呼气 → 渴求”。",
+      "ja": "ラテン語 aspiratio「〜への息 → 熱望」。"
+     },
+     "forms": [
+      [
+       "career aspirations",
+       "职业抱负",
+       "キャリアの目標"
+      ],
+      [
+       "aspire (v.)",
+       "渴望",
+       "熱望する"
+      ]
+     ],
+     "tip": {
+      "zh": "常用复数 aspirations。",
+      "ja": "複数形でよく使う。"
+     },
+     "hl": "aspirations"
+    }
+   ]
+  },
+  {
+   "id": "mov",
+   "title_zh": "词根 -mov- / -mot- / -mob-：移动",
+   "title_ja": "語根 -mov- / -mot- / -mob-：動く",
+   "words": [
+    {
+     "w": "promote",
+     "pos": "v.",
+     "ipa": "/prəˈmoʊt/",
+     "zh": "晋升；促销；推广",
+     "ja": "昇進させる；販売促進する",
+     "ex": "Mr. Kim was promoted to store manager last month.",
+     "ex_zh": "金先生上个月被提升为店长。",
+     "ex_ja": "キムさんは先月店長に昇進しました。",
+     "parts": [
+      [
+       "pro-",
+       "向前",
+       "前へ"
+      ],
+      [
+       "mot",
+       "移动",
+       "動く"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 promovere“向前推动”（过去分词 promotus）。",
+      "ja": "ラテン語 promovere「前へ動かす」（過去分詞 promotus）。"
+     },
+     "forms": [
+      [
+       "promotion (n.)",
+       "晋升；促销",
+       "昇進；販促"
+      ],
+      [
+       "promotional (adj.)",
+       "促销的",
+       "販促の"
+      ]
+     ],
+     "tip": {
+      "zh": "一词两义：晋升 / 促销。",
+      "ja": "「昇進」と「販促」の両方。"
+     },
+     "hl": "promoted"
+    },
+    {
+     "w": "motivate",
+     "pos": "v.",
+     "ipa": "/ˈmoʊtəˌveɪt/",
+     "zh": "激励；激发",
+     "ja": "やる気を起こさせる",
+     "ex": "Bonuses are used to motivate sales staff.",
+     "ex_zh": "奖金被用来激励销售人员。",
+     "ex_ja": "販売スタッフの意欲を高めるためにボーナスが使われます。",
+     "parts": [
+      [
+       "mot",
+       "移动",
+       "動く"
+      ],
+      [
+       "-ive",
+       "形容词后缀",
+       "形容詞を作る"
+      ],
+      [
+       "-ate",
+       "动词后缀",
+       "動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "motive（中世纪拉丁语 motivus“使动的”）+ -ate。",
+      "ja": "motive（中世ラテン語 motivus「動かす」）＋-ate。"
+     },
+     "forms": [
+      [
+       "motivation (n.)",
+       "动力",
+       "動機付け"
+      ],
+      [
+       "motivated (adj.)",
+       "积极的",
+       "意欲的な"
+      ]
+     ],
+     "tip": {
+      "zh": "招聘广告：highly motivated individual。",
+      "ja": "求人広告で頻出。"
+     }
+    },
+    {
+     "w": "mobile",
+     "pos": "adj./n.",
+     "ipa": "/ˈmoʊbəl/",
+     "zh": "移动的；手机",
+     "ja": "移動式の；携帯電話",
+     "ex": "Customers can now order food through our mobile app.",
+     "ex_zh": "顾客现在可以通过我们的手机应用点餐。",
+     "ex_ja": "お客様は当社のモバイルアプリで料理を注文できるようになりました。",
+     "parts": [
+      [
+       "mob",
+       "移动",
+       "動く"
+      ],
+      [
+       "-ile",
+       "形容词后缀（能…的）",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 mobilis“可移动的”。",
+      "ja": "ラテン語 mobilis「動かせる」。"
+     },
+     "forms": [
+      [
+       "mobility (n.)",
+       "流动性",
+       "機動性"
+      ],
+      [
+       "mobile phone",
+       "手机",
+       "携帯電話"
+      ]
+     ],
+     "tip": {
+      "zh": "mobile app / mobile payment 常见。",
+      "ja": "mobile payment なども。"
+     }
+    },
+    {
+     "w": "remote",
+     "pos": "adj.",
+     "ipa": "/rɪˈmoʊt/",
+     "zh": "远程的；偏远的",
+     "ja": "遠隔の；へんぴな",
+     "ex": "Many employees now work remote two days a week.",
+     "ex_zh": "现在许多员工每周远程办公两天。",
+     "ex_ja": "今では多くの社員が週 2 日リモートで働いています。",
+     "parts": [
+      [
+       "re-",
+       "向后；离开",
+       "後ろへ"
+      ],
+      [
+       "mot",
+       "移动",
+       "動く"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 remotus“移开的、遥远的”（removere 的过去分词）。",
+      "ja": "ラテン語 remotus「遠ざけられた」（removere の過去分詞）。"
+     },
+     "forms": [
+      [
+       "remote work",
+       "远程工作",
+       "リモートワーク"
+      ],
+      [
+       "remote control",
+       "遥控器",
+       "リモコン"
+      ]
+     ],
+     "tip": {
+      "zh": "remote location = 偏远地点。",
+      "ja": "remote location＝へき地。"
+     }
+    },
+    {
+     "w": "emotion",
+     "pos": "n.",
+     "ipa": "/ɪˈmoʊʃən/",
+     "zh": "情感；情绪",
+     "ja": "感情",
+     "ex": "Good advertising appeals to customers' emotions.",
+     "ex_zh": "好的广告能打动顾客的情感。",
+     "ex_ja": "優れた広告は顧客の感情に訴えかけます。",
+     "parts": [
+      [
+       "e-",
+       "向外",
+       "外へ"
+      ],
+      [
+       "mot",
+       "移动",
+       "動く"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "法语 émotion，来自拉丁语 emovere“向外移动、激动”。",
+      "ja": "フランス語 émotion（ラテン語 emovere「外へ動かす」）から。"
+     },
+     "forms": [
+      [
+       "emotional (adj.)",
+       "情感的",
+       "感情的な"
+      ],
+      [
+       "emotionally (adv.)",
+       "情感上",
+       "感情的に"
+      ]
+     ],
+     "tip": {
+      "zh": "广告营销语境。",
+      "ja": "広告の文脈で。"
+     },
+     "hl": "emotions"
+    },
+    {
+     "w": "removal",
+     "pos": "n.",
+     "ipa": "/rɪˈmuvəl/",
+     "zh": "移除；清除；搬迁",
+     "ja": "撤去；除去",
+     "ex": "Snow removal from the parking lot will begin at 6 a.m.",
+     "ex_zh": "停车场的除雪工作将于早上 6 点开始。",
+     "ex_ja": "駐車場の除雪は午前 6 時に始まります。",
+     "parts": [
+      [
+       "re-",
+       "离开",
+       "離れて"
+      ],
+      [
+       "mov",
+       "移动",
+       "動く"
+      ],
+      [
+       "-al",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "remove（拉丁语 removere“移开”）+ -al。",
+      "ja": "remove（ラテン語 removere「取り除く」）＋-al。"
+     },
+     "forms": [
+      [
+       "remove (v.)",
+       "移除",
+       "取り除く"
+      ],
+      [
+       "waste removal",
+       "垃圾清运",
+       "廃棄物撤去"
+      ]
+     ],
+     "tip": {
+      "zh": "通知中常见 snow removal / trash removal。",
+      "ja": "通知で snow removal など。"
+     }
+    },
+    {
+     "w": "motive",
+     "pos": "n.",
+     "ipa": "/ˈmoʊtɪv/",
+     "zh": "动机；目的",
+     "ja": "動機",
+     "ex": "The survey asked shoppers about their motives for choosing our store.",
+     "ex_zh": "调查询问了顾客选择本店的动机。",
+     "ex_ja": "調査では買い物客が当店を選ぶ動機を尋ねました。",
+     "parts": [
+      [
+       "mot",
+       "移动",
+       "動く"
+      ],
+      [
+       "-ive",
+       "形容词/名词后缀",
+       "〜するもの"
+      ]
+     ],
+     "note": {
+      "zh": "中世纪拉丁语 motivus“推动的”。",
+      "ja": "中世ラテン語 motivus「動かす」。"
+     },
+     "forms": [
+      [
+       "profit motive",
+       "逐利动机",
+       "利益動機"
+      ],
+      [
+       "ulterior motive",
+       "别有用心",
+       "下心"
+      ]
+     ],
+     "tip": {
+      "zh": "motive（动机）≠ motif（图案）。",
+      "ja": "motive と motif（模様）を区別。"
+     },
+     "hl": "motives"
+    },
+    {
+     "w": "demote",
+     "pos": "v.",
+     "ipa": "/dɪˈmoʊt/",
+     "zh": "降职；降级",
+     "ja": "降格させる",
+     "ex": "The supervisor was demoted after repeated complaints.",
+     "ex_zh": "那位主管在屡遭投诉后被降职。",
+     "ex_ja": "その主任は度重なる苦情を受けて降格されました。",
+     "parts": [
+      [
+       "de-",
+       "向下",
+       "下へ"
+      ],
+      [
+       "mot",
+       "移动",
+       "動く"
+      ]
+     ],
+     "note": {
+      "zh": "de- + promote 类推而来（19 世纪英语）。",
+      "ja": "promote にならい de- を付けた語（19 世紀）。"
+     },
+     "forms": [
+      [
+       "demotion (n.)",
+       "降职",
+       "降格"
+      ],
+      [
+       "promote (v.)",
+       "晋升",
+       "昇進させる"
+      ]
+     ],
+     "tip": {
+      "zh": "反义 promote。",
+      "ja": "反意語 promote。"
+     },
+     "hl": "demoted"
+    }
+   ]
+  },
+  {
+   "id": "dining",
+   "title_zh": "主题：餐饮与外食",
+   "title_ja": "テーマ：飲食・外食",
+   "words": [
+    {
+     "w": "reservation",
+     "pos": "n.",
+     "ipa": "/ˌrɛzɚˈveɪʃən/",
+     "zh": "预订；保留意见",
+     "ja": "予約；懸念",
+     "ex": "I'd like to make a reservation for four at 7 p.m.",
+     "ex_zh": "我想预订晚上 7 点四个人的位子。",
+     "ex_ja": "午後 7 時に 4 名で予約をお願いしたいのですが。",
+     "parts": [
+      [
+       "re-",
+       "向后",
+       "後ろへ"
+      ],
+      [
+       "serv",
+       "保存",
+       "保つ"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 reservare“保留”。",
+      "ja": "ラテン語 reservare「取っておく」。"
+     },
+     "forms": [
+      [
+       "reserve (v.)",
+       "预订",
+       "予約する"
+      ],
+      [
+       "have reservations about",
+       "对…有疑虑",
+       "〜に懸念を持つ"
+      ]
+     ],
+     "tip": {
+      "zh": "have reservations = 有保留意见。",
+      "ja": "「懸念」の意味もある。"
+     }
+    },
+    {
+     "w": "appetizer",
+     "pos": "n.",
+     "ipa": "/ˈæpəˌtaɪzɚ/",
+     "zh": "开胃菜",
+     "ja": "前菜",
+     "ex": "We ordered two appetizers to share before the main course.",
+     "ex_zh": "主菜前我们点了两道开胃菜一起分享。",
+     "ex_ja": "メインの前に、シェア用の前菜を 2 品注文しました。",
+     "parts": [
+      [
+       "ap-",
+       "朝向",
+       "〜へ"
+      ],
+      [
+       "pet",
+       "寻求",
+       "求める"
+      ],
+      [
+       "-ize",
+       "动词后缀",
+       "動詞を作る"
+      ],
+      [
+       "-er",
+       "表示物",
+       "〜するもの"
+      ]
+     ],
+     "note": {
+      "zh": "appetite（拉丁语 appetitus“渴求”）派生。",
+      "ja": "appetite（ラテン語 appetitus「欲求」）から。"
+     },
+     "forms": [
+      [
+       "appetite (n.)",
+       "食欲",
+       "食欲"
+      ],
+      [
+       "starter (n.)",
+       "头盘（英式）",
+       "前菜"
+      ]
+     ],
+     "tip": {
+      "zh": "英式说 starter。",
+      "ja": "イギリス英語では starter。"
+     },
+     "hl": "appetizers"
+    },
+    {
+     "w": "cuisine",
+     "pos": "n.",
+     "ipa": "/kwɪˈzin/",
+     "zh": "菜肴；烹饪风格",
+     "ja": "料理",
+     "ex": "The restaurant specializes in Mediterranean cuisine.",
+     "ex_zh": "这家餐厅专营地中海菜。",
+     "ex_ja": "そのレストランは地中海料理が専門です。",
+     "parts": [
+      [
+       "cuis",
+       "烹饪（拉丁语 coquere）",
+       "料理する"
+      ],
+      [
+       "-ine",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "法语 cuisine“厨房、烹饪”，来自拉丁语 coquere“烹调”。",
+      "ja": "フランス語 cuisine（ラテン語 coquere「料理する」）から。"
+     },
+     "forms": [
+      [
+       "local cuisine",
+       "当地菜",
+       "郷土料理"
+      ],
+      [
+       "Italian cuisine",
+       "意大利菜",
+       "イタリア料理"
+      ]
+     ],
+     "tip": {
+      "zh": "读 /kwɪˈzin/。",
+      "ja": "発音に注意。"
+     }
+    },
+    {
+     "w": "beverage",
+     "pos": "n.",
+     "ipa": "/ˈbɛvərɪdʒ/",
+     "zh": "饮料",
+     "ja": "飲み物",
+     "ex": "Complimentary beverages are served in the lobby.",
+     "ex_zh": "大厅提供免费饮料。",
+     "ex_ja": "ロビーで無料の飲み物を提供しています。",
+     "parts": [
+      [
+       "bever",
+       "喝（拉丁语 bibere）",
+       "飲む"
+      ],
+      [
+       "-age",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 bevrage，来自拉丁语 bibere“喝”。",
+      "ja": "古フランス語 bevrage（ラテン語 bibere「飲む」）から。"
+     },
+     "forms": [
+      [
+       "food and beverage (F&B)",
+       "餐饮",
+       "飲食"
+      ],
+      [
+       "hot beverage",
+       "热饮",
+       "温かい飲み物"
+      ]
+     ],
+     "tip": {
+      "zh": "drink 的正式说法。",
+      "ja": "drink の改まった語。"
+     },
+     "hl": "beverages"
+    },
+    {
+     "w": "caterer",
+     "pos": "n.",
+     "ipa": "/ˈkeɪtərɚ/",
+     "zh": "餐饮承办商",
+     "ja": "仕出し業者；ケータリング業者",
+     "ex": "We hired a caterer for the company's anniversary party.",
+     "ex_zh": "我们为公司周年派对请了餐饮承办商。",
+     "ex_ja": "会社の記念パーティーのためにケータリング業者を雇いました。",
+     "parts": [
+      [
+       "cater",
+       "备办食物",
+       "食事を用意する"
+      ],
+      [
+       "-er",
+       "表示人",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "来自古法语 acater“采购”；没有可靠的拉丁词根拆分。",
+      "ja": "古フランス語 acater「買う」から。"
+     },
+     "forms": [
+      [
+       "cater (v.)",
+       "承办宴席；迎合",
+       "料理をまかなう"
+      ],
+      [
+       "catering service",
+       "餐饮服务",
+       "ケータリング"
+      ]
+     ],
+     "tip": {
+      "zh": "cater to = 迎合、满足。",
+      "ja": "cater to＝〜の要望に応える。"
+     }
+    },
+    {
+     "w": "diner",
+     "pos": "n.",
+     "ipa": "/ˈdaɪnɚ/",
+     "zh": "就餐者；小餐馆",
+     "ja": "食事客；大衆食堂",
+     "ex": "The restaurant can seat up to 80 diners.",
+     "ex_zh": "这家餐厅最多可容纳 80 位就餐者。",
+     "ex_ja": "そのレストランは最大 80 名の客を収容できます。",
+     "parts": [
+      [
+       "dine",
+       "用餐",
+       "食事する"
+      ],
+      [
+       "-er",
+       "表示人",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "dine（古法语 disner“用餐”）+ -er。",
+      "ja": "dine（古フランス語 disner）＋-er。"
+     },
+     "forms": [
+      [
+       "dine (v.)",
+       "用餐",
+       "食事する"
+      ],
+      [
+       "dining area",
+       "用餐区",
+       "食事スペース"
+      ]
+     ],
+     "tip": {
+      "zh": "美式 diner 也指路边小餐馆。",
+      "ja": "米国では大衆食堂も。"
+     },
+     "hl": "diners"
+    },
+    {
+     "w": "patron",
+     "pos": "n.",
+     "ipa": "/ˈpeɪtrən/",
+     "zh": "顾客；赞助人",
+     "ja": "常連客；後援者",
+     "ex": "Parking is free for restaurant patrons.",
+     "ex_zh": "餐厅顾客停车免费。",
+     "ex_ja": "レストランのお客様は駐車無料です。",
+     "parts": [
+      [
+       "patr",
+       "父亲",
+       "父"
+      ],
+      [
+       "-on",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 patronus“保护人”，来自 pater“父亲”。",
+      "ja": "ラテン語 patronus「保護者」（pater「父」）から。"
+     },
+     "forms": [
+      [
+       "patronage (n.)",
+       "光顾；赞助",
+       "愛顧"
+      ],
+      [
+       "patron of the arts",
+       "艺术赞助人",
+       "芸術の後援者"
+      ]
+     ],
+     "tip": {
+      "zh": "告示常用：for patrons only。",
+      "ja": "掲示で for patrons only。"
+     },
+     "hl": "patrons"
+    },
+    {
+     "w": "gratuity",
+     "pos": "n.",
+     "ipa": "/ɡrəˈtuəti/",
+     "zh": "小费；赏钱",
+     "ja": "チップ；心付け",
+     "ex": "A 15 percent gratuity is added for parties of eight or more.",
+     "ex_zh": "八人以上的团体加收 15% 小费。",
+     "ex_ja": "8 名以上のグループには 15％のサービス料が加算されます。",
+     "parts": [
+      [
+       "grat",
+       "感谢；令人愉快",
+       "感謝"
+      ],
+      [
+       "-uity",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 gratuitus“免费的、施恩的”。",
+      "ja": "ラテン語 gratuitus「無償の」。"
+     },
+     "forms": [
+      [
+       "tip (n.)",
+       "小费",
+       "チップ"
+      ],
+      [
+       "gratuity included",
+       "含小费",
+       "サービス料込み"
+      ]
+     ],
+     "tip": {
+      "zh": "tip 的正式说法。",
+      "ja": "tip の改まった語。"
+     }
+    },
+    {
+     "w": "vegetarian",
+     "pos": "adj./n.",
+     "ipa": "/ˌvɛdʒəˈtɛriən/",
+     "zh": "素食的；素食者",
+     "ja": "菜食の；菜食主義者",
+     "ex": "Vegetarian options are clearly marked on the menu.",
+     "ex_zh": "素食选项在菜单上都有清楚标注。",
+     "ex_ja": "ベジタリアン向けメニューははっきり表示されています。",
+     "parts": [
+      [
+       "veget",
+       "植物",
+       "植物"
+      ],
+      [
+       "-arian",
+       "表示人／主义",
+       "〜主義の人"
+      ]
+     ],
+     "note": {
+      "zh": "vegetable + -arian（19 世纪英语造词）。",
+      "ja": "vegetable＋-arian（19 世紀の造語）。"
+     },
+     "forms": [
+      [
+       "vegan (n./adj.)",
+       "纯素的",
+       "完全菜食の"
+      ],
+      [
+       "dietary restrictions",
+       "饮食限制",
+       "食事制限"
+      ]
+     ],
+     "tip": {
+      "zh": "宴会通知常问 dietary restrictions。",
+      "ja": "食事制限の確認で。"
+     }
+    },
+    {
+     "w": "ingredient",
+     "pos": "n.",
+     "ipa": "/ɪnˈɡridiənt/",
+     "zh": "原料；成分",
+     "ja": "材料；成分",
+     "ex": "We use only fresh, locally grown ingredients.",
+     "ex_zh": "我们只用新鲜的本地食材。",
+     "ex_ja": "当店では地元産の新鮮な食材のみを使用しています。",
+     "parts": [
+      [
+       "in-",
+       "向内",
+       "中へ"
+      ],
+      [
+       "gred",
+       "走（gradi）",
+       "歩む"
+      ],
+      [
+       "-ient",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 ingredi“走进去”（Day 4 词根 -grad-）。",
+      "ja": "ラテン語 ingredi「中へ入る」（Day 4 の -grad-）。"
+     },
+     "forms": [
+      [
+       "key ingredient",
+       "关键成分",
+       "主要成分"
+      ],
+      [
+       "list of ingredients",
+       "配料表",
+       "原材料表示"
+      ]
+     ],
+     "tip": {
+      "zh": "也指成功的“要素”。",
+      "ja": "成功の「要素」の意味も。"
+     },
+     "hl": "ingredients"
+    },
+    {
+     "w": "takeout",
+     "pos": "n./adj.",
+     "ipa": "/ˈteɪkˌaʊt/",
+     "zh": "外卖；外带",
+     "ja": "持ち帰り",
+     "ex": "All items on the menu are available for takeout.",
+     "ex_zh": "菜单上的所有菜品都可以外带。",
+     "ex_ja": "メニューの全品がお持ち帰りできます。",
+     "parts": [
+      [
+       "take",
+       "拿",
+       "取る"
+      ],
+      [
+       "out",
+       "出",
+       "外へ"
+      ]
+     ],
+     "note": {
+      "zh": "本族词复合 take + out；没有可靠的拉丁词根拆分。",
+      "ja": "英語の複合語 take＋out。"
+     },
+     "forms": [
+      [
+       "for here or to go",
+       "堂食还是外带",
+       "店内か持ち帰りか"
+      ],
+      [
+       "takeaway (n.)",
+       "外卖（英式）",
+       "持ち帰り"
+      ]
+     ],
+     "tip": {
+      "zh": "英式说 takeaway。",
+      "ja": "英国では takeaway。"
+     }
+    },
+    {
+     "w": "banquet",
+     "pos": "n.",
+     "ipa": "/ˈbæŋkwɪt/",
+     "zh": "宴会",
+     "ja": "宴会；晩餐会",
+     "ex": "The awards banquet will be held in the hotel ballroom.",
+     "ex_zh": "颁奖晚宴将在酒店宴会厅举行。",
+     "ex_ja": "表彰晩餐会はホテルの宴会場で開かれます。",
+     "parts": [
+      [
+       "banc",
+       "长凳",
+       "ベンチ"
+      ],
+      [
+       "-quet",
+       "指小后缀",
+       "小さい"
+      ]
+     ],
+     "note": {
+      "zh": "法语 banquet，来自意大利语 banchetto“小长凳”。",
+      "ja": "フランス語 banquet（イタリア語 banchetto「小さな台」）から。"
+     },
+     "forms": [
+      [
+       "banquet hall",
+       "宴会厅",
+       "宴会場"
+      ],
+      [
+       "awards banquet",
+       "颁奖宴会",
+       "表彰晩餐会"
+      ]
+     ],
+     "tip": {
+      "zh": "和 bank 同源（bench）。",
+      "ja": "bank と同源（ベンチ）。"
+     }
+    },
+    {
+     "w": "culinary",
+     "pos": "adj.",
+     "ipa": "/ˈkʌləˌnɛri/",
+     "zh": "烹饪的",
+     "ja": "料理の",
+     "ex": "The chef trained at a famous culinary school in Paris.",
+     "ex_zh": "这位厨师在巴黎一所著名烹饪学校受训。",
+     "ex_ja": "そのシェフはパリの有名な料理学校で修業しました。",
+     "parts": [
+      [
+       "culin",
+       "厨房（拉丁语 culina）",
+       "台所"
+      ],
+      [
+       "-ary",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 culinarius，来自 culina“厨房”。",
+      "ja": "ラテン語 culinarius（culina「台所」）から。"
+     },
+     "forms": [
+      [
+       "culinary arts",
+       "烹饪艺术",
+       "料理芸術"
+      ],
+      [
+       "culinary skills",
+       "厨艺",
+       "料理の腕"
+      ]
+     ],
+     "tip": {
+      "zh": "招聘厨师广告常见。",
+      "ja": "料理人の求人で。"
+     }
+    },
+    {
+     "w": "spill",
+     "pos": "v./n.",
+     "ipa": "/spɪl/",
+     "zh": "洒出；溢出",
+     "ja": "こぼす；こぼれ",
+     "ex": "A waiter quickly cleaned up the coffee that had spilled on the table.",
+     "ex_zh": "服务员很快清理了洒在桌上的咖啡。",
+     "ex_ja": "ウエーターはテーブルにこぼれたコーヒーをすぐに片付けました。",
+     "parts": [
+      [
+       "spill",
+       "洒出",
+       "こぼす"
+      ]
+     ],
+     "note": {
+      "zh": "古英语 spillan；本族词，没有可靠的词根拆分。",
+      "ja": "古英語 spillan。英語本来の語。"
+     },
+     "forms": [
+      [
+       "spill over",
+       "溢出",
+       "あふれ出る"
+      ],
+      [
+       "oil spill",
+       "石油泄漏",
+       "石油流出"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1/3 场景词。",
+      "ja": "Part 1/3 の場面語。"
+     },
+     "hl": "spilled"
+    }
+   ]
+  },
+  {
+   "id": "retail",
+   "title_zh": "主题：零售与购物",
+   "title_ja": "テーマ：小売・買い物",
+   "words": [
+    {
+     "w": "merchandise",
+     "pos": "n.",
+     "ipa": "/ˈmɝtʃənˌdaɪz/",
+     "zh": "商品；货物",
+     "ja": "商品",
+     "ex": "All merchandise on this rack is 30 percent off.",
+     "ex_zh": "此货架上的所有商品打七折。",
+     "ex_ja": "このラックの商品はすべて 30％引きです。",
+     "parts": [
+      [
+       "merc",
+       "交易",
+       "取引"
+      ],
+      [
+       "-hand",
+       "（经法语）",
+       "フランス語経由"
+      ],
+      [
+       "-ise",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 marchandise，来自 marchand“商人”（拉丁语 merx“货物”）。",
+      "ja": "古フランス語 marchandise（marchand「商人」＜ラテン語 merx）から。"
+     },
+     "forms": [
+      [
+       "merchant (n.)",
+       "商人",
+       "商人"
+      ],
+      [
+       "merchandising (n.)",
+       "商品陈列策划",
+       "販売促進"
+      ]
+     ],
+     "tip": {
+      "zh": "不可数名词。",
+      "ja": "不可算名詞。"
+     }
+    },
+    {
+     "w": "receipt",
+     "pos": "n.",
+     "ipa": "/rɪˈsit/",
+     "zh": "收据；收到",
+     "ja": "領収書；受領",
+     "ex": "Please keep your receipt in case you need to return the item.",
+     "ex_zh": "请保留收据，以便需要退货时使用。",
+     "ex_ja": "返品が必要な場合に備えてレシートを保管してください。",
+     "parts": [
+      [
+       "re-",
+       "回",
+       "戻って"
+      ],
+      [
+       "ceipt",
+       "拿（capere）",
+       "取る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 recepta“收到的东西”（Day 4 词根 -cept-）；p 不发音。",
+      "ja": "ラテン語 recepta「受け取ったもの」（Day 4 の -cept-）。p は発音しない。"
+     },
+     "forms": [
+      [
+       "upon receipt of",
+       "收到…后",
+       "〜を受け取り次第"
+      ],
+      [
+       "receive (v.)",
+       "收到",
+       "受け取る"
+      ]
+     ],
+     "tip": {
+      "zh": "p 不发音：/rɪˈsit/。",
+      "ja": "p は黙字。"
+     }
+    },
+    {
+     "w": "retailer",
+     "pos": "n.",
+     "ipa": "/ˈriˌteɪlɚ/",
+     "zh": "零售商",
+     "ja": "小売業者",
+     "ex": "The retailer plans to open 20 new stores next year.",
+     "ex_zh": "这家零售商计划明年新开 20 家店。",
+     "ex_ja": "その小売業者は来年 20 店舗を新規出店する計画です。",
+     "parts": [
+      [
+       "re-",
+       "再",
+       "再び"
+      ],
+      [
+       "tail",
+       "切（tailler）",
+       "切る"
+      ],
+      [
+       "-er",
+       "表示人",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 retaillier“再切开 → 零卖”。",
+      "ja": "古フランス語 retaillier「切り分ける → 小売りする」。"
+     },
+     "forms": [
+      [
+       "retail (n./adj.)",
+       "零售",
+       "小売"
+      ],
+      [
+       "wholesaler (n.)",
+       "批发商",
+       "卸売業者"
+      ]
+     ],
+     "tip": {
+      "zh": "反义 wholesaler。",
+      "ja": "反意語 wholesaler。"
+     }
+    },
+    {
+     "w": "checkout",
+     "pos": "n.",
+     "ipa": "/ˈtʃɛkˌaʊt/",
+     "zh": "收银台；结账；退房",
+     "ja": "レジ；チェックアウト",
+     "ex": "There was a long line at the checkout.",
+     "ex_zh": "收银台前排着长队。",
+     "ex_ja": "レジに長い列ができていました。",
+     "parts": [
+      [
+       "check",
+       "核对",
+       "確認する"
+      ],
+      [
+       "out",
+       "出",
+       "外へ"
+      ]
+     ],
+     "note": {
+      "zh": "本族词复合 check + out；没有可靠的拉丁词根拆分。",
+      "ja": "英語の複合語 check＋out。"
+     },
+     "forms": [
+      [
+       "checkout counter",
+       "收银台",
+       "レジカウンター"
+      ],
+      [
+       "self-checkout",
+       "自助结账",
+       "セルフレジ"
+      ]
+     ],
+     "tip": {
+      "zh": "酒店语境指“退房”。",
+      "ja": "ホテルでは「チェックアウト」。"
+     }
+    },
+    {
+     "w": "voucher",
+     "pos": "n.",
+     "ipa": "/ˈvaʊtʃɚ/",
+     "zh": "代金券；凭证",
+     "ja": "引換券；クーポン",
+     "ex": "Each customer will receive a $10 voucher for their next visit.",
+     "ex_zh": "每位顾客将获得一张下次使用的 10 美元代金券。",
+     "ex_ja": "各お客様に次回使える 10 ドルの割引券を差し上げます。",
+     "parts": [
+      [
+       "vouch",
+       "担保（vocare“召唤”）",
+       "保証する"
+      ],
+      [
+       "-er",
+       "表示物",
+       "〜するもの"
+      ]
+     ],
+     "note": {
+      "zh": "vouch（古法语 vochier“召唤作证”，拉丁语 vocare）+ -er。",
+      "ja": "vouch（古フランス語 vochier＜ラテン語 vocare「呼ぶ」）＋-er。"
+     },
+     "forms": [
+      [
+       "gift voucher",
+       "礼券",
+       "商品券"
+      ],
+      [
+       "meal voucher",
+       "餐券",
+       "食事券"
+      ]
+     ],
+     "tip": {
+      "zh": "同义 coupon。",
+      "ja": "coupon と近い。"
+     }
+    },
+    {
+     "w": "clearance",
+     "pos": "n.",
+     "ipa": "/ˈklɪrəns/",
+     "zh": "清仓；许可；间隙",
+     "ja": "在庫一掃；許可",
+     "ex": "The clearance sale starts this Saturday.",
+     "ex_zh": "清仓大甩卖本周六开始。",
+     "ex_ja": "在庫一掃セールは今週土曜日から始まります。",
+     "parts": [
+      [
+       "clear",
+       "清除",
+       "片付ける"
+      ],
+      [
+       "-ance",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "clear（拉丁语 clarus“明亮的”）+ -ance。",
+      "ja": "clear（ラテン語 clarus「明るい」）＋-ance。"
+     },
+     "forms": [
+      [
+       "clearance sale",
+       "清仓甩卖",
+       "在庫処分セール"
+      ],
+      [
+       "security clearance",
+       "安全许可",
+       "機密取扱許可"
+      ]
+     ],
+     "tip": {
+      "zh": "也指“许可”：get clearance。",
+      "ja": "「許可」の意味も。"
+     }
+    },
+    {
+     "w": "bargain",
+     "pos": "n./v.",
+     "ipa": "/ˈbɑrɡən/",
+     "zh": "便宜货；讨价还价",
+     "ja": "掘り出し物；交渉する",
+     "ex": "At this price, the sofa is a real bargain.",
+     "ex_zh": "这个价格，沙发真是物超所值。",
+     "ex_ja": "この値段なら、そのソファーはお買い得です。",
+     "parts": [
+      [
+       "bargain",
+       "交易",
+       "取引"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 bargaignier，可能源自日耳曼语；没有可靠的词根拆分。",
+      "ja": "古フランス語 bargaignier（ゲルマン語起源か）。"
+     },
+     "forms": [
+      [
+       "bargain price",
+       "特价",
+       "格安価格"
+      ],
+      [
+       "bargain with",
+       "与…讨价还价",
+       "〜と交渉する"
+      ]
+     ],
+     "tip": {
+      "zh": "名词=划算的东西，动词=讲价。",
+      "ja": "名詞「お買い得」、動詞「交渉する」。"
+     }
+    },
+    {
+     "w": "inventory",
+     "pos": "n.",
+     "ipa": "/ˈɪnvənˌtɔri/",
+     "zh": "库存；存货清单",
+     "ja": "在庫；在庫目録",
+     "ex": "The store closes early on Sunday to take inventory.",
+     "ex_zh": "该店周日提前关门盘点库存。",
+     "ex_ja": "その店は棚卸しのため日曜日は早く閉まります。",
+     "parts": [
+      [
+       "in-",
+       "向内",
+       "中へ"
+      ],
+      [
+       "vent",
+       "来",
+       "来る"
+      ],
+      [
+       "-ory",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "中世纪拉丁语 inventorium“找到的东西的清单”（Day 4 词根 -vent-）。",
+      "ja": "中世ラテン語 inventorium「見つけた物の目録」（Day 4 の -vent-）。"
+     },
+     "forms": [
+      [
+       "take inventory",
+       "盘点",
+       "棚卸しをする"
+      ],
+      [
+       "inventory control",
+       "库存管理",
+       "在庫管理"
+      ]
+     ],
+     "tip": {
+      "zh": "同义 stock。",
+      "ja": "stock と同義。"
+     }
+    },
+    {
+     "w": "showroom",
+     "pos": "n.",
+     "ipa": "/ˈʃoʊˌrum/",
+     "zh": "展厅；陈列室",
+     "ja": "ショールーム",
+     "ex": "Visit our showroom to see the latest kitchen designs.",
+     "ex_zh": "欢迎光临我们的展厅，看看最新的厨房设计。",
+     "ex_ja": "最新のキッチンデザインをご覧にショールームへお越しください。",
+     "parts": [
+      [
+       "show",
+       "展示",
+       "見せる"
+      ],
+      [
+       "room",
+       "房间",
+       "部屋"
+      ]
+     ],
+     "note": {
+      "zh": "本族词复合 show + room；没有可靠的拉丁词根拆分。",
+      "ja": "英語の複合語 show＋room。"
+     },
+     "forms": [
+      [
+       "car showroom",
+       "汽车展厅",
+       "自動車ショールーム"
+      ],
+      [
+       "display (n.)",
+       "陈列",
+       "展示"
+      ]
+     ],
+     "tip": {
+      "zh": "汽车、家具广告常见。",
+      "ja": "車・家具の広告で。"
+     }
+    },
+    {
+     "w": "exchange",
+     "pos": "v./n.",
+     "ipa": "/ɪksˈtʃeɪndʒ/",
+     "zh": "交换；调换；兑换",
+     "ja": "交換（する）；両替",
+     "ex": "You may exchange the shirt for a different size.",
+     "ex_zh": "您可以把衬衫换成其他尺码。",
+     "ex_ja": "シャツは別のサイズと交換できます。",
+     "parts": [
+      [
+       "ex-",
+       "向外",
+       "外へ"
+      ],
+      [
+       "change",
+       "改变",
+       "変える"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 eschangier，ex- + 拉丁语 cambiare“交换”。",
+      "ja": "古フランス語 eschangier（ex-＋ラテン語 cambiare）。"
+     },
+     "forms": [
+      [
+       "exchange A for B",
+       "把 A 换成 B",
+       "A を B と交換する"
+      ],
+      [
+       "exchange rate",
+       "汇率",
+       "為替レート"
+      ]
+     ],
+     "tip": {
+      "zh": "exchange（换货）vs refund（退款）。",
+      "ja": "exchange と refund の違い。"
+     }
+    },
+    {
+     "w": "aisle",
+     "pos": "n.",
+     "ipa": "/aɪl/",
+     "zh": "过道；通道",
+     "ja": "通路",
+     "ex": "Paper towels are in aisle five, next to the cleaning supplies.",
+     "ex_zh": "纸巾在第五通道，清洁用品旁边。",
+     "ex_ja": "ペーパータオルは 5 番通路、掃除用品の隣にあります。",
+     "parts": [
+      [
+       "aisle",
+       "侧翼（拉丁语 ala“翅膀”）",
+       "翼"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 ele，来自拉丁语 ala“翅膀”；s 是后来混入的拼写，不发音。",
+      "ja": "古フランス語 ele（ラテン語 ala「翼」）から。s は黙字。"
+     },
+     "forms": [
+      [
+       "aisle seat",
+       "靠过道座位",
+       "通路側の席"
+      ],
+      [
+       "window seat",
+       "靠窗座位",
+       "窓側の席"
+      ]
+     ],
+     "tip": {
+      "zh": "s 不发音：/aɪl/。",
+      "ja": "s は発音しない。"
+     }
+    },
+    {
+     "w": "cashier",
+     "pos": "n.",
+     "ipa": "/kæˈʃɪr/",
+     "zh": "收银员",
+     "ja": "レジ係",
+     "ex": "Please pay the cashier at the front of the store.",
+     "ex_zh": "请到店前方的收银员处付款。",
+     "ex_ja": "店の前方のレジ係にお支払いください。",
+     "parts": [
+      [
+       "cash",
+       "现金",
+       "現金"
+      ],
+      [
+       "-ier",
+       "表示人",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "法语 caissier，来自 caisse“钱箱”。",
+      "ja": "フランス語 caissier（caisse「金庫」）から。"
+     },
+     "forms": [
+      [
+       "cash register",
+       "收银机",
+       "レジ"
+      ],
+      [
+       "pay in cash",
+       "付现金",
+       "現金で払う"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1：A cashier is handing a customer a bag。",
+      "ja": "Part 1 で頻出。"
+     }
+    },
+    {
+     "w": "browse",
+     "pos": "v.",
+     "ipa": "/braʊz/",
+     "zh": "浏览；随便看看",
+     "ja": "見て回る；閲覧する",
+     "ex": "Customers are welcome to browse without making a purchase.",
+     "ex_zh": "欢迎顾客随便看看，无需购买。",
+     "ex_ja": "お客様は購入しなくても自由に見て回れます。",
+     "parts": [
+      [
+       "browse",
+       "吃嫩叶",
+       "若葉を食べる"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 brouster“吃嫩枝”；没有可靠的拉丁词根拆分。",
+      "ja": "古フランス語 brouster「若枝を食べる」から。"
+     },
+     "forms": [
+      [
+       "browser (n.)",
+       "浏览器",
+       "ブラウザー"
+      ],
+      [
+       "I'm just browsing",
+       "我只是看看",
+       "見ているだけです"
+      ]
+     ],
+     "tip": {
+      "zh": "店里对话：I'm just browsing, thanks。",
+      "ja": "店での定番表現。"
+     }
+    },
+    {
+     "w": "discount",
+     "pos": "n./v.",
+     "ipa": "/ˈdɪsˌkaʊnt/",
+     "zh": "折扣；打折",
+     "ja": "割引（する）",
+     "ex": "Students receive a 10 percent discount with a valid ID.",
+     "ex_zh": "学生凭有效证件享受九折优惠。",
+     "ex_ja": "学生は有効な身分証で 10％割引を受けられます。",
+     "parts": [
+      [
+       "dis-",
+       "去掉",
+       "取り除く"
+      ],
+      [
+       "count",
+       "计算",
+       "数える"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 desconter“扣除计数”。",
+      "ja": "古フランス語 desconter「差し引いて数える」。"
+     },
+     "forms": [
+      [
+       "discounted (adj.)",
+       "打折的",
+       "割引された"
+      ],
+      [
+       "at a discount",
+       "打折",
+       "割引で"
+      ]
+     ],
+     "tip": {
+      "zh": "10 percent off = 九折。",
+      "ja": "10 percent off と同義。"
+     }
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,2834 @@
+{
+ "day": 7,
+ "date": "2026-10-15",
+ "title_zh": "四大词根 + 会议演示与客户服务",
+ "title_ja": "4つの語根＋会議・プレゼンと顧客サービス",
+ "intro_zh": "今天掌握 4 个高频词根（fac·fec·fic 做 / form 形状 / gen 产生 / plic·ply 折叠），再学会议演示和客户服务的核心词——强化 Part 3 会议对话和 Part 7 投诉邮件的阅读。",
+ "intro_ja": "今日は語根 4 つ（fac·fec·fic 作る／form 形／gen 生む／plic·ply 折る）と、会議・プレゼン、顧客サービスの重要語を学びます。Part 3 の会議の会話と Part 7 の苦情メールの読解を強化します。",
+ "voice": "en-US-AriaNeural",
+ "roots": [
+  {
+   "root": "-fac- / -fec- / -fic-",
+   "origin": "Latin facere / factus",
+   "zh": "做；制作",
+   "ja": "する；作る",
+   "exp_zh": "来自拉丁语 facere（做）。在复合词中变成 -fic- / -fec-。efficient“做得出来的 → 高效的”，defect“做坏了 → 缺陷”，sufficient“在下面做够 → 足够的”。⚠️ Day 6 的 beneficiary 也含 fic；而 face（脸）来自 facies，和“做”不是一回事。",
+   "exp_ja": "ラテン語 facere（する・作る）から。複合語では -fic- / -fec- に変化。efficient「やり遂げる → 効率的」、defect「作り損ない → 欠陥」、sufficient「下から満たす → 十分な」。⚠️ Day 6 の beneficiary も fic を含む。face（顔）は facies 由来で別。",
+   "examples": [
+    "facility",
+    "efficient",
+    "defect",
+    "proficient",
+    "sufficient",
+    "facilitate",
+    "affect",
+    "deficit"
+   ]
+  },
+  {
+   "root": "-form-",
+   "origin": "Latin forma",
+   "zh": "形状；形式",
+   "ja": "形；形式",
+   "exp_zh": "来自拉丁语 forma（形状）。con-（与…同形 → 遵守）、re-（重新塑形 → 改革）、uni-（一种形状 → 制服、统一的）、trans-（变形 → 转变）。inform“赋予形状 → 告知”也同源。⚠️ formidable（可怕的）来自 formido“恐惧”，不同源。",
+   "exp_ja": "ラテン語 forma（形）から。con-（同じ形にする → 従う）、re-（形を作り直す → 改革）、uni-（一つの形 → 制服・均一な）、trans-（形を変える → 変える）。inform「形を与える → 知らせる」も同源。⚠️ formidable は formido「恐怖」由来で別。",
+   "examples": [
+    "formal",
+    "conform",
+    "format",
+    "reform",
+    "uniform",
+    "transform",
+    "informative",
+    "formulate"
+   ]
+  },
+  {
+   "root": "-gen-",
+   "origin": "Latin genus / generare",
+   "zh": "产生；种类",
+   "ja": "生む；種類",
+   "exp_zh": "来自拉丁语 genus（出身、种类）和 generare（产生）。generate“产生”，general“同一种类的 → 一般的”，generous“出身高贵的 → 慷慨的”，genuine“天生的 → 真正的”。⚠️ engine 也同源（ingenium“天赋、巧思”）。",
+   "exp_ja": "ラテン語 genus（生まれ・種類）と generare（生む）から。generate「生み出す」、general「同じ種類の → 一般の」、generous「生まれのよい → 気前のよい」、genuine「生まれつきの → 本物の」。⚠️ engine も同源（ingenium「才能・工夫」）。",
+   "examples": [
+    "generate",
+    "genuine",
+    "generous",
+    "general",
+    "regenerate",
+    "ingenious",
+    "gender",
+    "genre"
+   ]
+  },
+  {
+   "root": "-plic- / -ply-",
+   "origin": "Latin plicare",
+   "zh": "折叠",
+   "ja": "折る；重ねる",
+   "exp_zh": "来自拉丁语 plicare（折叠）。ap-（折向 → 应用、申请）、com-（折在一起 → 复杂的 / 遵守）、im-（折进去 → 含义）、du-（折两次 → 复制）、multi-（折很多次 → 乘、增加）、ex-（展开 → 明确的）。⚠️ supply 来自 supplere“填满”，comply 也受 complere 影响，严格说属 -ple-“填满”，这里作为拼写形近的易混词一起记。",
+   "exp_ja": "ラテン語 plicare（折る）から。ap-（〜へ折る → 応用・申し込む）、com-（一緒に折る → 複雑な）、im-（折り込む → 含意）、du-（二つ折り → 複製）、multi-（何重にも → 増やす）、ex-（広げる → 明確な）。⚠️ supply は supplere「満たす」、comply も complere の影響を受けた語で、厳密には -ple-「満たす」系。つづりが似た語として一緒に覚える。",
+   "examples": [
+    "apply",
+    "complicated",
+    "implication",
+    "duplicate",
+    "comply",
+    "multiply",
+    "replicate",
+    "explicit"
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "fac",
+   "title_zh": "词根 -fac- / -fec- / -fic-：做",
+   "title_ja": "語根 -fac- / -fec- / -fic-：作る",
+   "words": [
+    {
+     "w": "facility",
+     "pos": "n.",
+     "ipa": "/fəˈsɪləti/",
+     "zh": "设施；场所；才能",
+     "ja": "施設；設備；才能",
+     "ex": "The new research facility will open next spring.",
+     "ex_zh": "新研究设施将于明年春天启用。",
+     "ex_ja": "新しい研究施設は来春オープンします。",
+     "parts": [
+      [
+       "fac",
+       "做",
+       "する"
+      ],
+      [
+       "-ility",
+       "名词后缀（能…性）",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 facilitas“容易做到”，来自 facilis“容易的”。",
+      "ja": "ラテン語 facilitas「容易さ」（facilis「容易な」）から。"
+     },
+     "forms": [
+      [
+       "facilities (n. pl.)",
+       "设施",
+       "施設"
+      ],
+      [
+       "manufacturing facility",
+       "生产厂",
+       "製造施設"
+      ]
+     ],
+     "tip": {
+      "zh": "复数 facilities 常指“设施、设备”。",
+      "ja": "複数形 facilities で「施設・設備」。"
+     }
+    },
+    {
+     "w": "efficient",
+     "pos": "adj.",
+     "ipa": "/ɪˈfɪʃənt/",
+     "zh": "高效的；效率高的",
+     "ja": "効率的な；有能な",
+     "ex": "The new software makes our billing process more efficient.",
+     "ex_zh": "新软件让我们的计费流程更高效。",
+     "ex_ja": "新しいソフトで請求処理がより効率的になります。",
+     "parts": [
+      [
+       "ef-",
+       "向外（=ex-）",
+       "外へ"
+      ],
+      [
+       "fic",
+       "做",
+       "する"
+      ],
+      [
+       "-ient",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 efficere“做成、完成”的现在分词。",
+      "ja": "ラテン語 efficere「成し遂げる」の現在分詞。"
+     },
+     "forms": [
+      [
+       "efficiency (n.)",
+       "效率",
+       "効率"
+      ],
+      [
+       "efficiently (adv.)",
+       "高效地",
+       "効率よく"
+      ]
+     ],
+     "tip": {
+      "zh": "efficient（高效的）≠ effective（有效的）。",
+      "ja": "efficient（効率的）と effective（効果的）を区別。"
+     }
+    },
+    {
+     "w": "defect",
+     "pos": "n.",
+     "ipa": "/ˈdifɛkt/",
+     "zh": "缺陷；瑕疵",
+     "ja": "欠陥；不具合",
+     "ex": "Every unit is inspected for defects before shipping.",
+     "ex_zh": "每台产品出货前都要检查有无缺陷。",
+     "ex_ja": "すべての製品は出荷前に欠陥の検査を受けます。",
+     "parts": [
+      [
+       "de-",
+       "离开；向下",
+       "離れて"
+      ],
+      [
+       "fec",
+       "做",
+       "する"
+      ],
+      [
+       "-t",
+       "过去分词词尾",
+       "過去分詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 deficere“离开、不足”的过去分词 defectus。",
+      "ja": "ラテン語 deficere「欠ける」の過去分詞 defectus。"
+     },
+     "forms": [
+      [
+       "defective (adj.)",
+       "有缺陷的",
+       "欠陥のある"
+      ],
+      [
+       "manufacturing defect",
+       "制造缺陷",
+       "製造上の欠陥"
+      ]
+     ],
+     "tip": {
+      "zh": "defective product（瑕疵品）是退换货题常客。",
+      "ja": "defective product（不良品）は返品の話題で頻出。"
+     },
+     "hl": "defects"
+    },
+    {
+     "w": "proficient",
+     "pos": "adj.",
+     "ipa": "/prəˈfɪʃənt/",
+     "zh": "熟练的；精通的",
+     "ja": "熟達した；堪能な",
+     "ex": "Applicants must be proficient in spreadsheet software.",
+     "ex_zh": "应聘者必须熟练使用电子表格软件。",
+     "ex_ja": "応募者は表計算ソフトに熟達している必要があります。",
+     "parts": [
+      [
+       "pro-",
+       "向前",
+       "前へ"
+      ],
+      [
+       "fic",
+       "做",
+       "する"
+      ],
+      [
+       "-ient",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 proficere“向前做 → 进步”。",
+      "ja": "ラテン語 proficere「前進する・上達する」。"
+     },
+     "forms": [
+      [
+       "proficiency (n.)",
+       "熟练；精通",
+       "熟達"
+      ],
+      [
+       "be proficient in",
+       "精通…",
+       "〜に堪能だ"
+      ]
+     ],
+     "tip": {
+      "zh": "招聘广告高频：proficient in / proficiency in。",
+      "ja": "求人広告で頻出：proficient in。"
+     }
+    },
+    {
+     "w": "sufficient",
+     "pos": "adj.",
+     "ipa": "/səˈfɪʃənt/",
+     "zh": "足够的；充分的",
+     "ja": "十分な",
+     "ex": "We do not have sufficient funds to expand this year.",
+     "ex_zh": "我们今年没有足够的资金来扩张。",
+     "ex_ja": "今年は事業拡大に十分な資金がありません。",
+     "parts": [
+      [
+       "suf-",
+       "在下面（=sub-）",
+       "下に"
+      ],
+      [
+       "fic",
+       "做",
+       "する"
+      ],
+      [
+       "-ient",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 sufficere“供应、足够”。",
+      "ja": "ラテン語 sufficere「供給する・足りる」。"
+     },
+     "forms": [
+      [
+       "insufficient (adj.)",
+       "不足的",
+       "不十分な"
+      ],
+      [
+       "sufficiently (adv.)",
+       "充分地",
+       "十分に"
+      ]
+     ],
+     "tip": {
+      "zh": "sufficient = enough，但更正式。",
+      "ja": "enough のフォーマルな言い方。"
+     }
+    },
+    {
+     "w": "facilitate",
+     "pos": "v.",
+     "ipa": "/fəˈsɪləˌteɪt/",
+     "zh": "促进；使便利；主持",
+     "ja": "促進する；円滑にする；進行役を務める",
+     "ex": "Ms. Tanaka will facilitate the discussion at the workshop.",
+     "ex_zh": "田中女士将在研讨会上主持讨论。",
+     "ex_ja": "田中さんがワークショップで議論の進行役を務めます。",
+     "parts": [
+      [
+       "fac",
+       "做",
+       "する"
+      ],
+      [
+       "-ilit",
+       "容易（facilis）",
+       "容易な"
+      ],
+      [
+       "-ate",
+       "动词后缀",
+       "動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "法语 faciliter，来自拉丁语 facilis“容易的”。",
+      "ja": "フランス語 faciliter（ラテン語 facilis「容易な」）から。"
+     },
+     "forms": [
+      [
+       "facilitator (n.)",
+       "主持人；协调人",
+       "進行役"
+      ],
+      [
+       "facilitate communication",
+       "促进沟通",
+       "意思疎通を円滑にする"
+      ]
+     ],
+     "tip": {
+      "zh": "会议里 facilitator = 主持人。",
+      "ja": "会議の facilitator＝進行役。"
+     }
+    },
+    {
+     "w": "affect",
+     "pos": "v.",
+     "ipa": "/əˈfɛkt/",
+     "zh": "影响",
+     "ja": "影響する",
+     "ex": "The road construction may affect delivery times.",
+     "ex_zh": "道路施工可能会影响送货时间。",
+     "ex_ja": "道路工事が配送時間に影響する可能性があります。",
+     "parts": [
+      [
+       "af-",
+       "朝向（=ad-）",
+       "〜へ"
+      ],
+      [
+       "fec",
+       "做",
+       "する"
+      ],
+      [
+       "-t",
+       "过去分词词尾",
+       "過去分詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 afficere“对…施加作用”，过去分词 affectus。",
+      "ja": "ラテン語 afficere「働きかける」（過去分詞 affectus）。"
+     },
+     "forms": [
+      [
+       "affected (adj.)",
+       "受影响的",
+       "影響を受けた"
+      ],
+      [
+       "adversely affect",
+       "不利影响",
+       "悪影響を与える"
+      ]
+     ],
+     "tip": {
+      "zh": "affect（v. 影响）≠ effect（n. 结果）。",
+      "ja": "affect（動）と effect（名）を混同しない。"
+     }
+    },
+    {
+     "w": "deficit",
+     "pos": "n.",
+     "ipa": "/ˈdɛfəsɪt/",
+     "zh": "赤字；不足额",
+     "ja": "赤字；不足",
+     "ex": "The company reported a budget deficit for the third quarter.",
+     "ex_zh": "公司公布第三季度预算出现赤字。",
+     "ex_ja": "同社は第3四半期の予算赤字を報告しました。",
+     "parts": [
+      [
+       "de-",
+       "离开",
+       "離れて"
+      ],
+      [
+       "fic",
+       "做",
+       "する"
+      ],
+      [
+       "-it",
+       "（拉丁语第三人称词尾）",
+       "ラテン語の動詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 deficit“它缺少了”，deficere 的变位形式。",
+      "ja": "ラテン語 deficit「それが不足している」（deficere の活用形）。"
+     },
+     "forms": [
+      [
+       "trade deficit",
+       "贸易逆差",
+       "貿易赤字"
+      ],
+      [
+       "budget deficit",
+       "预算赤字",
+       "財政赤字"
+      ]
+     ],
+     "tip": {
+      "zh": "反义词 surplus（盈余）。",
+      "ja": "反意語は surplus（黒字）。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "form",
+   "title_zh": "词根 -form-：形状",
+   "title_ja": "語根 -form-：形",
+   "words": [
+    {
+     "w": "formal",
+     "pos": "adj.",
+     "ipa": "/ˈfɔrməl/",
+     "zh": "正式的；正规的",
+     "ja": "正式な；フォーマルな",
+     "ex": "You will receive a formal offer letter by e-mail.",
+     "ex_zh": "您将通过电子邮件收到正式录用函。",
+     "ex_ja": "正式な内定通知書をメールでお受け取りになります。",
+     "parts": [
+      [
+       "form",
+       "形状",
+       "形"
+      ],
+      [
+       "-al",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 formalis“有形式的”。",
+      "ja": "ラテン語 formalis「形式の」。"
+     },
+     "forms": [
+      [
+       "formally (adv.)",
+       "正式地",
+       "正式に"
+      ],
+      [
+       "formality (n.)",
+       "手续；形式",
+       "形式的手続き"
+      ]
+     ],
+     "tip": {
+      "zh": "formerly（以前）≠ formally（正式地）。",
+      "ja": "formerly（以前）と formally（正式に）に注意。"
+     }
+    },
+    {
+     "w": "conform",
+     "pos": "v.",
+     "ipa": "/kənˈfɔrm/",
+     "zh": "符合；遵守",
+     "ja": "従う；適合する",
+     "ex": "All products must conform to national safety standards.",
+     "ex_zh": "所有产品都必须符合国家安全标准。",
+     "ex_ja": "すべての製品は国の安全基準に適合しなければなりません。",
+     "parts": [
+      [
+       "con-",
+       "一起",
+       "共に"
+      ],
+      [
+       "form",
+       "形状",
+       "形"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 conformare“使成同一形状”。",
+      "ja": "ラテン語 conformare「同じ形にする」。"
+     },
+     "forms": [
+      [
+       "conformity (n.)",
+       "一致；遵从",
+       "適合"
+      ],
+      [
+       "conform to",
+       "符合…",
+       "〜に従う"
+      ]
+     ],
+     "tip": {
+      "zh": "介词固定用 to：conform to regulations。",
+      "ja": "前置詞は to：conform to regulations。"
+     }
+    },
+    {
+     "w": "format",
+     "pos": "n./v.",
+     "ipa": "/ˈfɔrmæt/",
+     "zh": "格式；版式；设置格式",
+     "ja": "形式；書式；フォーマットする",
+     "ex": "Please submit your report in PDF format.",
+     "ex_zh": "请以 PDF 格式提交报告。",
+     "ex_ja": "報告書は PDF 形式で提出してください。",
+     "parts": [
+      [
+       "form",
+       "形状",
+       "形"
+      ],
+      [
+       "-at",
+       "（过去分词词尾）",
+       "過去分詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "经德语、法语来自拉丁语 formatus“被塑造的”。",
+      "ja": "ドイツ語・フランス語経由でラテン語 formatus「形作られた」から。"
+     },
+     "forms": [
+      [
+       "file format",
+       "文件格式",
+       "ファイル形式"
+      ],
+      [
+       "reformat (v.)",
+       "重新格式化",
+       "再フォーマットする"
+      ]
+     ],
+     "tip": {
+      "zh": "会议形式也可用 format：the format of the meeting。",
+      "ja": "会議の形式にも使う。"
+     }
+    },
+    {
+     "w": "reform",
+     "pos": "n./v.",
+     "ipa": "/rɪˈfɔrm/",
+     "zh": "改革；改进",
+     "ja": "改革（する）",
+     "ex": "The government announced a tax reform for small businesses.",
+     "ex_zh": "政府宣布了一项针对小企业的税制改革。",
+     "ex_ja": "政府は中小企業向けの税制改革を発表しました。",
+     "parts": [
+      [
+       "re-",
+       "重新",
+       "再び"
+      ],
+      [
+       "form",
+       "形状",
+       "形"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 reformare“重新塑形”。",
+      "ja": "ラテン語 reformare「形を作り直す」。"
+     },
+     "forms": [
+      [
+       "tax reform",
+       "税制改革",
+       "税制改革"
+      ],
+      [
+       "reformer (n.)",
+       "改革者",
+       "改革者"
+      ]
+     ],
+     "tip": {
+      "zh": "英语 reform 不是“装修”（那是 renovate）。",
+      "ja": "英語の reform は「改革」。家の改装は renovate。"
+     }
+    },
+    {
+     "w": "uniform",
+     "pos": "n./adj.",
+     "ipa": "/ˈjunəˌfɔrm/",
+     "zh": "制服；统一的；一致的",
+     "ja": "制服；均一な",
+     "ex": "Staff are required to wear a uniform at the front desk.",
+     "ex_zh": "前台员工必须穿制服。",
+     "ex_ja": "フロントのスタッフは制服の着用が義務付けられています。",
+     "parts": [
+      [
+       "uni-",
+       "一",
+       "一つ"
+      ],
+      [
+       "form",
+       "形状",
+       "形"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 uniformis“只有一种形状的”。",
+      "ja": "ラテン語 uniformis「一つの形の」。"
+     },
+     "forms": [
+      [
+       "uniformly (adv.)",
+       "一律地",
+       "一様に"
+      ],
+      [
+       "uniform quality",
+       "品质一致",
+       "均一な品質"
+      ]
+     ],
+     "tip": {
+      "zh": "形容词义：统一的、均一的。",
+      "ja": "形容詞「均一な」も重要。"
+     }
+    },
+    {
+     "w": "transform",
+     "pos": "v.",
+     "ipa": "/trænsˈfɔrm/",
+     "zh": "改变；转变；改造",
+     "ja": "変える；一変させる",
+     "ex": "The renovation transformed the lobby into a modern lounge.",
+     "ex_zh": "翻修把大厅改造成了现代化的休息室。",
+     "ex_ja": "改装でロビーはモダンなラウンジに生まれ変わりました。",
+     "parts": [
+      [
+       "trans-",
+       "转变；跨越",
+       "越えて"
+      ],
+      [
+       "form",
+       "形状",
+       "形"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 transformare“变形”。",
+      "ja": "ラテン語 transformare「形を変える」。"
+     },
+     "forms": [
+      [
+       "transformation (n.)",
+       "转变",
+       "変革"
+      ],
+      [
+       "transform A into B",
+       "把 A 变成 B",
+       "A を B に変える"
+      ]
+     ],
+     "tip": {
+      "zh": "结构 transform A into B。",
+      "ja": "transform A into B の形で。"
+     },
+     "hl": "transformed"
+    },
+    {
+     "w": "informative",
+     "pos": "adj.",
+     "ipa": "/ɪnˈfɔrmətɪv/",
+     "zh": "信息丰富的；有益的",
+     "ja": "有益な；情報に富む",
+     "ex": "Thank you for the informative presentation this morning.",
+     "ex_zh": "感谢您今天上午内容丰富的演示。",
+     "ex_ja": "今朝は有益なプレゼンをありがとうございました。",
+     "parts": [
+      [
+       "in-",
+       "向内",
+       "中へ"
+      ],
+      [
+       "form",
+       "形状",
+       "形"
+      ],
+      [
+       "-ative",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "inform（拉丁语 informare“赋予形状 → 告知”）+ -ative。",
+      "ja": "inform（ラテン語 informare「形を与える → 知らせる」）＋-ative。"
+     },
+     "forms": [
+      [
+       "inform (v.)",
+       "告知",
+       "知らせる"
+      ],
+      [
+       "information (n.)",
+       "信息",
+       "情報"
+      ]
+     ],
+     "tip": {
+      "zh": "评价演讲常用：very informative。",
+      "ja": "講演の感想で頻出。"
+     }
+    },
+    {
+     "w": "formulate",
+     "pos": "v.",
+     "ipa": "/ˈfɔrmjəˌleɪt/",
+     "zh": "制定；规划；配制",
+     "ja": "策定する；練る",
+     "ex": "The team needs to formulate a new marketing strategy.",
+     "ex_zh": "团队需要制定新的营销策略。",
+     "ex_ja": "チームは新しいマーケティング戦略を策定する必要があります。",
+     "parts": [
+      [
+       "form",
+       "形状",
+       "形"
+      ],
+      [
+       "-ul",
+       "小（指小词缀）",
+       "小さい"
+      ],
+      [
+       "-ate",
+       "动词后缀",
+       "動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "formula（拉丁语“小的形式、规则”）+ -ate。",
+      "ja": "formula（ラテン語「小さな型・定式」）＋-ate。"
+     },
+     "forms": [
+      [
+       "formula (n.)",
+       "公式；配方",
+       "公式；処方"
+      ],
+      [
+       "formulation (n.)",
+       "制定；配方",
+       "策定"
+      ]
+     ],
+     "tip": {
+      "zh": "formulate a plan = draw up a plan。",
+      "ja": "draw up a plan と同義。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "gen",
+   "title_zh": "词根 -gen-：产生、种类",
+   "title_ja": "語根 -gen-：生む・種類",
+   "words": [
+    {
+     "w": "generate",
+     "pos": "v.",
+     "ipa": "/ˈdʒɛnəˌreɪt/",
+     "zh": "产生；创造（收入等）",
+     "ja": "生み出す；発生させる",
+     "ex": "The new product line is expected to generate significant revenue.",
+     "ex_zh": "新产品线预计将带来可观收入。",
+     "ex_ja": "新製品ラインは大きな収益を生むと見込まれています。",
+     "parts": [
+      [
+       "gen",
+       "产生",
+       "生む"
+      ],
+      [
+       "-er",
+       "（连接）",
+       "つなぎ"
+      ],
+      [
+       "-ate",
+       "动词后缀",
+       "動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 generare“产生、生育”。",
+      "ja": "ラテン語 generare「生む」。"
+     },
+     "forms": [
+      [
+       "generation (n.)",
+       "产生；一代人",
+       "発生；世代"
+      ],
+      [
+       "generator (n.)",
+       "发电机",
+       "発電機"
+      ]
+     ],
+     "tip": {
+      "zh": "generate revenue / sales / leads 是常见搭配。",
+      "ja": "generate revenue / leads が定番。"
+     }
+    },
+    {
+     "w": "genuine",
+     "pos": "adj.",
+     "ipa": "/ˈdʒɛnjuɪn/",
+     "zh": "真正的；真诚的",
+     "ja": "本物の；心からの",
+     "ex": "All our bags are made of genuine leather.",
+     "ex_zh": "我们所有的包都是真皮制作。",
+     "ex_ja": "当店のバッグはすべて本革製です。",
+     "parts": [
+      [
+       "gen",
+       "产生；出身",
+       "生む・生まれ"
+      ],
+      [
+       "-uine",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 genuinus“天生的、本来的”。",
+      "ja": "ラテン語 genuinus「生まれつきの」。"
+     },
+     "forms": [
+      [
+       "genuinely (adv.)",
+       "真诚地",
+       "心から"
+      ],
+      [
+       "genuine parts",
+       "原装零件",
+       "純正部品"
+      ]
+     ],
+     "tip": {
+      "zh": "genuine parts = 原厂零件，常见于维修通知。",
+      "ja": "genuine parts＝純正部品。"
+     }
+    },
+    {
+     "w": "generous",
+     "pos": "adj.",
+     "ipa": "/ˈdʒɛnərəs/",
+     "zh": "慷慨的；丰厚的",
+     "ja": "気前のよい；手厚い",
+     "ex": "The position offers a generous benefits package.",
+     "ex_zh": "该职位提供丰厚的福利待遇。",
+     "ex_ja": "このポジションは手厚い福利厚生を提供しています。",
+     "parts": [
+      [
+       "gen",
+       "出身",
+       "生まれ"
+      ],
+      [
+       "-er",
+       "（连接）",
+       "つなぎ"
+      ],
+      [
+       "-ous",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 generosus“出身高贵的”。",
+      "ja": "ラテン語 generosus「生まれのよい」。"
+     },
+     "forms": [
+      [
+       "generosity (n.)",
+       "慷慨",
+       "寛大さ"
+      ],
+      [
+       "generous donation",
+       "慷慨捐赠",
+       "多額の寄付"
+      ]
+     ],
+     "tip": {
+      "zh": "招聘广告：generous salary / benefits。",
+      "ja": "求人広告の generous salary。"
+     }
+    },
+    {
+     "w": "general",
+     "pos": "adj./n.",
+     "ipa": "/ˈdʒɛnərəl/",
+     "zh": "一般的；总的；全体的",
+     "ja": "一般的な；全体の",
+     "ex": "The general manager will address all staff on Friday.",
+     "ex_zh": "总经理将于周五向全体员工讲话。",
+     "ex_ja": "総支配人が金曜日に全従業員に向けて話をします。",
+     "parts": [
+      [
+       "gen",
+       "种类",
+       "種類"
+      ],
+      [
+       "-er",
+       "（连接）",
+       "つなぎ"
+      ],
+      [
+       "-al",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 generalis“同一类的、全体的”。",
+      "ja": "ラテン語 generalis「種全体の」。"
+     },
+     "forms": [
+      [
+       "generally (adv.)",
+       "通常；一般地",
+       "一般に"
+      ],
+      [
+       "general public",
+       "公众",
+       "一般市民"
+      ]
+     ],
+     "tip": {
+      "zh": "general manager = 总经理（缩写 GM）。",
+      "ja": "general manager（GM）＝総支配人。"
+     }
+    },
+    {
+     "w": "regenerate",
+     "pos": "v.",
+     "ipa": "/rɪˈdʒɛnəˌreɪt/",
+     "zh": "再生；使复兴",
+     "ja": "再生する；活性化する",
+     "ex": "The city plans to regenerate the old harbor district.",
+     "ex_zh": "市政府计划复兴老港区。",
+     "ex_ja": "市は古い港湾地区を再生する計画です。",
+     "parts": [
+      [
+       "re-",
+       "重新",
+       "再び"
+      ],
+      [
+       "gen",
+       "产生",
+       "生む"
+      ],
+      [
+       "-ate",
+       "动词后缀",
+       "動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 regenerare“再生”。",
+      "ja": "ラテン語 regenerare「再び生む」。"
+     },
+     "forms": [
+      [
+       "regeneration (n.)",
+       "再生；复兴",
+       "再開発"
+      ],
+      [
+       "urban regeneration",
+       "城市更新",
+       "都市再生"
+      ]
+     ],
+     "tip": {
+      "zh": "城市开发报道中常见。",
+      "ja": "都市開発の記事で使う。"
+     }
+    },
+    {
+     "w": "ingenious",
+     "pos": "adj.",
+     "ipa": "/ɪnˈdʒiniəs/",
+     "zh": "巧妙的；有独创性的",
+     "ja": "巧妙な；独創的な",
+     "ex": "The engineer came up with an ingenious solution to the storage problem.",
+     "ex_zh": "那位工程师想出了一个解决储存问题的巧妙办法。",
+     "ex_ja": "そのエンジニアは保管問題の巧妙な解決策を思いつきました。",
+     "parts": [
+      [
+       "in-",
+       "在内",
+       "中に"
+      ],
+      [
+       "gen",
+       "产生；天生",
+       "生む"
+      ],
+      [
+       "-ious",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 ingeniosus，来自 ingenium“天赋、才智”。",
+      "ja": "ラテン語 ingeniosus（ingenium「才能」）から。"
+     },
+     "forms": [
+      [
+       "ingenuity (n.)",
+       "独创性；巧思",
+       "創意工夫"
+      ],
+      [
+       "ingenious design",
+       "巧妙的设计",
+       "巧妙な設計"
+      ]
+     ],
+     "tip": {
+      "zh": "ingenious（巧妙的）≠ ingenuous（天真的）。",
+      "ja": "ingenious と ingenuous（純真な）を混同しない。"
+     }
+    },
+    {
+     "w": "gender",
+     "pos": "n.",
+     "ipa": "/ˈdʒɛndɚ/",
+     "zh": "性别",
+     "ja": "性別",
+     "ex": "Applicants will not be evaluated on the basis of age or gender.",
+     "ex_zh": "不会根据年龄或性别评估应聘者。",
+     "ex_ja": "応募者は年齢や性別で評価されることはありません。",
+     "parts": [
+      [
+       "gen",
+       "种类",
+       "種類"
+      ],
+      [
+       "-der",
+       "（经古法语变化）",
+       "古フランス語での変化"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 gendre，来自拉丁语 genus“种类”。",
+      "ja": "古フランス語 gendre（ラテン語 genus「種類」）から。"
+     },
+     "forms": [
+      [
+       "gender equality",
+       "性别平等",
+       "男女平等"
+      ],
+      [
+       "gender-neutral (adj.)",
+       "性别中立的",
+       "性別に中立な"
+      ]
+     ],
+     "tip": {
+      "zh": "招聘通知的平等条款常见。",
+      "ja": "採用の平等方針で使う。"
+     }
+    },
+    {
+     "w": "genre",
+     "pos": "n.",
+     "ipa": "/ˈʒɑnrə/",
+     "zh": "类型；体裁（艺术）",
+     "ja": "ジャンル",
+     "ex": "The bookstore organizes its novels by genre.",
+     "ex_zh": "这家书店按类型陈列小说。",
+     "ex_ja": "その書店は小説をジャンル別に並べています。",
+     "parts": [
+      [
+       "gen",
+       "种类",
+       "種類"
+      ],
+      [
+       "-re",
+       "（法语词尾）",
+       "フランス語語尾"
+      ]
+     ],
+     "note": {
+      "zh": "法语 genre“种类”，来自拉丁语 genus。",
+      "ja": "フランス語 genre「種類」（ラテン語 genus）から。"
+     },
+     "forms": [
+      [
+       "music genre",
+       "音乐类型",
+       "音楽ジャンル"
+      ],
+      [
+       "film genre",
+       "电影类型",
+       "映画のジャンル"
+      ]
+     ],
+     "tip": {
+      "zh": "读音 /ˈʒɑnrə/，开头像法语。",
+      "ja": "発音 /ˈʒɑnrə/ に注意。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "plic",
+   "title_zh": "词根 -plic- / -ply-：折叠",
+   "title_ja": "語根 -plic- / -ply-：折る",
+   "words": [
+    {
+     "w": "apply",
+     "pos": "v.",
+     "ipa": "/əˈplaɪ/",
+     "zh": "申请；应用；适用",
+     "ja": "申し込む；応用する；適用される",
+     "ex": "Interested candidates should apply online by May 31.",
+     "ex_zh": "有意者请于 5 月 31 日前在线申请。",
+     "ex_ja": "興味のある方は 5 月 31 日までにオンラインで応募してください。",
+     "parts": [
+      [
+       "ap-",
+       "朝向（=ad-）",
+       "〜へ"
+      ],
+      [
+       "ply",
+       "折叠",
+       "折る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 applicare“折向、贴上”。",
+      "ja": "ラテン語 applicare「〜に折り当てる・当てはめる」。"
+     },
+     "forms": [
+      [
+       "application (n.)",
+       "申请；应用程序",
+       "申し込み；アプリ"
+      ],
+      [
+       "applicant (n.)",
+       "申请人",
+       "応募者"
+      ]
+     ],
+     "tip": {
+      "zh": "apply for（申请）/ apply to（适用于）。",
+      "ja": "apply for（申し込む）と apply to（当てはまる）。"
+     }
+    },
+    {
+     "w": "complicated",
+     "pos": "adj.",
+     "ipa": "/ˈkɑmpləˌkeɪtɪd/",
+     "zh": "复杂的",
+     "ja": "複雑な",
+     "ex": "The installation process is more complicated than expected.",
+     "ex_zh": "安装过程比预想的复杂。",
+     "ex_ja": "設置作業は予想より複雑です。",
+     "parts": [
+      [
+       "com-",
+       "一起",
+       "共に"
+      ],
+      [
+       "plic",
+       "折叠",
+       "折る"
+      ],
+      [
+       "-ate",
+       "动词后缀",
+       "動詞を作る"
+      ],
+      [
+       "-ed",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 complicare“折在一起”。",
+      "ja": "ラテン語 complicare「折り重ねる」。"
+     },
+     "forms": [
+      [
+       "complicate (v.)",
+       "使复杂",
+       "複雑にする"
+      ],
+      [
+       "complication (n.)",
+       "并发症；麻烦",
+       "厄介な問題"
+      ]
+     ],
+     "tip": {
+      "zh": "同义 complex。",
+      "ja": "complex と同義。"
+     }
+    },
+    {
+     "w": "implication",
+     "pos": "n.",
+     "ipa": "/ˌɪmpləˈkeɪʃən/",
+     "zh": "含义；影响；暗示",
+     "ja": "影響；含意",
+     "ex": "We need to consider the financial implications of the merger.",
+     "ex_zh": "我们需要考虑合并带来的财务影响。",
+     "ex_ja": "合併の財務的影響を検討する必要があります。",
+     "parts": [
+      [
+       "im-",
+       "向内",
+       "中へ"
+      ],
+      [
+       "plic",
+       "折叠",
+       "折る"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 implicare“折进去、牵连”。",
+      "ja": "ラテン語 implicare「折り込む・巻き込む」。"
+     },
+     "forms": [
+      [
+       "imply (v.)",
+       "暗示",
+       "ほのめかす"
+      ],
+      [
+       "implicit (adj.)",
+       "含蓄的",
+       "暗黙の"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 3/4 设问：What does the man imply?（暗示）。",
+      "ja": "Part 3/4 の設問 What does the man imply? に注意。"
+     },
+     "hl": "implications"
+    },
+    {
+     "w": "duplicate",
+     "pos": "v./n.",
+     "ipa": "/ˈdupləˌkeɪt/",
+     "zh": "复制；副本",
+     "ja": "複製する；写し",
+     "ex": "Please do not duplicate this document without permission.",
+     "ex_zh": "未经许可请勿复制本文件。",
+     "ex_ja": "許可なくこの書類を複製しないでください。",
+     "parts": [
+      [
+       "du-",
+       "二",
+       "二つ"
+      ],
+      [
+       "plic",
+       "折叠",
+       "折る"
+      ],
+      [
+       "-ate",
+       "动词后缀",
+       "動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 duplicare“折成两倍”。",
+      "ja": "ラテン語 duplicare「二重にする」。"
+     },
+     "forms": [
+      [
+       "in duplicate",
+       "一式两份",
+       "正副2通で"
+      ],
+      [
+       "duplication (n.)",
+       "重复",
+       "重複"
+      ]
+     ],
+     "tip": {
+      "zh": "名词读 /ˈdupləkət/。",
+      "ja": "名詞は /ˈdupləkət/。"
+     }
+    },
+    {
+     "w": "comply",
+     "pos": "v.",
+     "ipa": "/kəmˈplaɪ/",
+     "zh": "遵守；服从",
+     "ja": "従う；遵守する",
+     "ex": "All vendors must comply with our data protection policy.",
+     "ex_zh": "所有供应商都必须遵守我们的数据保护政策。",
+     "ex_ja": "すべての業者は当社のデータ保護方針に従わなければなりません。",
+     "parts": [
+      [
+       "com-",
+       "完全",
+       "完全に"
+      ],
+      [
+       "ply",
+       "填满（来自 complere；与 plic 形近）",
+       "満たす"
+      ]
+     ],
+     "note": {
+      "zh": "经意大利语 complire 来自拉丁语 complere“完成、满足”，拼写受 ply 影响。",
+      "ja": "イタリア語 complire 経由でラテン語 complere「満たす」から。つづりは ply の影響。"
+     },
+     "forms": [
+      [
+       "compliance (n.)",
+       "遵守",
+       "遵守"
+      ],
+      [
+       "comply with",
+       "遵守…",
+       "〜に従う"
+      ]
+     ],
+     "tip": {
+      "zh": "介词用 with：comply with regulations。",
+      "ja": "前置詞は with。"
+     }
+    },
+    {
+     "w": "multiply",
+     "pos": "v.",
+     "ipa": "/ˈmʌltəˌplaɪ/",
+     "zh": "乘；大量增加",
+     "ja": "掛け算する；増える",
+     "ex": "Online orders have multiplied since the website was redesigned.",
+     "ex_zh": "网站改版后，网上订单成倍增长。",
+     "ex_ja": "ウェブサイトの刷新以来、オンライン注文が大幅に増えました。",
+     "parts": [
+      [
+       "multi-",
+       "多",
+       "多くの"
+      ],
+      [
+       "ply",
+       "折叠",
+       "折る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 multiplicare“折很多次 → 增多”。",
+      "ja": "ラテン語 multiplicare「何重にも折る → 増やす」。"
+     },
+     "forms": [
+      [
+       "multiple (adj.)",
+       "多个的",
+       "複数の"
+      ],
+      [
+       "multiplication (n.)",
+       "乘法；增加",
+       "掛け算"
+      ]
+     ],
+     "tip": {
+      "zh": "multiple（多个的）是 Part 5 高频词。",
+      "ja": "multiple（複数の）も頻出。"
+     },
+     "hl": "multiplied"
+    },
+    {
+     "w": "replicate",
+     "pos": "v.",
+     "ipa": "/ˈrɛpləˌkeɪt/",
+     "zh": "复制；重现",
+     "ja": "再現する；複製する",
+     "ex": "Other branches hope to replicate the success of the Osaka store.",
+     "ex_zh": "其他分店希望复制大阪店的成功。",
+     "ex_ja": "他の支店は大阪店の成功を再現したいと考えています。",
+     "parts": [
+      [
+       "re-",
+       "再",
+       "再び"
+      ],
+      [
+       "plic",
+       "折叠",
+       "折る"
+      ],
+      [
+       "-ate",
+       "动词后缀",
+       "動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 replicare“折回、重复”。",
+      "ja": "ラテン語 replicare「折り返す・繰り返す」。"
+     },
+     "forms": [
+      [
+       "replica (n.)",
+       "复制品",
+       "複製品"
+      ],
+      [
+       "replication (n.)",
+       "复制",
+       "複製"
+      ]
+     ],
+     "tip": {
+      "zh": "replicate success = 复制成功。",
+      "ja": "成功を再現する、の意で使う。"
+     }
+    },
+    {
+     "w": "explicit",
+     "pos": "adj.",
+     "ipa": "/ɪkˈsplɪsɪt/",
+     "zh": "明确的；清楚的",
+     "ja": "明確な；はっきりした",
+     "ex": "The contract gives explicit instructions on how to cancel the service.",
+     "ex_zh": "合同明确说明了如何取消服务。",
+     "ex_ja": "契約書にはサービスの解約方法が明確に記されています。",
+     "parts": [
+      [
+       "ex-",
+       "向外",
+       "外へ"
+      ],
+      [
+       "plic",
+       "折叠（展开）",
+       "折る"
+      ],
+      [
+       "-it",
+       "过去分词词尾",
+       "過去分詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 explicitus“展开的 → 清楚的”。",
+      "ja": "ラテン語 explicitus「広げられた → はっきりした」。"
+     },
+     "forms": [
+      [
+       "explicitly (adv.)",
+       "明确地",
+       "明確に"
+      ],
+      [
+       "implicit (adj.)",
+       "含蓄的",
+       "暗黙の"
+      ]
+     ],
+     "tip": {
+      "zh": "反义词 implicit（含蓄的）。",
+      "ja": "反意語 implicit。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "meeting",
+   "title_zh": "主题：会议与演示",
+   "title_ja": "テーマ：会議・プレゼン",
+   "words": [
+    {
+     "w": "agenda",
+     "pos": "n.",
+     "ipa": "/əˈdʒɛndə/",
+     "zh": "议程；日程",
+     "ja": "議題；協議事項",
+     "ex": "The first item on the agenda is the budget review.",
+     "ex_zh": "议程的第一项是预算审查。",
+     "ex_ja": "議題の最初の項目は予算の見直しです。",
+     "parts": [
+      [
+       "agend",
+       "应做之事（拉丁语 agere“做”）",
+       "なすべきこと"
+      ],
+      [
+       "-a",
+       "复数词尾",
+       "複数語尾"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 agenda“应做的事情”，agere 的动形容词复数。",
+      "ja": "ラテン語 agenda「なすべきこと」（agere の動形容詞複数）。"
+     },
+     "forms": [
+      [
+       "on the agenda",
+       "在议程上",
+       "議題に上って"
+      ],
+      [
+       "meeting agenda",
+       "会议议程",
+       "会議の議題"
+      ]
+     ],
+     "tip": {
+      "zh": "会议对话：Let's move on to the next item on the agenda。",
+      "ja": "会議で頻出。"
+     }
+    },
+    {
+     "w": "presenter",
+     "pos": "n.",
+     "ipa": "/prɪˈzɛntɚ/",
+     "zh": "演讲者；主持人",
+     "ja": "発表者；プレゼンター",
+     "ex": "Each presenter will have 15 minutes to speak.",
+     "ex_zh": "每位演讲者有 15 分钟发言时间。",
+     "ex_ja": "各発表者の持ち時間は 15 分です。",
+     "parts": [
+      [
+       "pre-",
+       "在前",
+       "前に"
+      ],
+      [
+       "sent",
+       "存在（esse）",
+       "ある"
+      ],
+      [
+       "-er",
+       "表示人",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "present（拉丁语 praesentare“摆在面前”）+ -er。",
+      "ja": "present（ラテン語 praesentare「目の前に出す」）＋-er。"
+     },
+     "forms": [
+      [
+       "presentation (n.)",
+       "演示；陈述",
+       "発表"
+      ],
+      [
+       "present (v.)",
+       "展示；介绍",
+       "発表する"
+      ]
+     ],
+     "tip": {
+      "zh": "动词 present 重音在后 /prɪˈzɛnt/。",
+      "ja": "動詞 present は後ろに強勢。"
+     }
+    },
+    {
+     "w": "handout",
+     "pos": "n.",
+     "ipa": "/ˈhændˌaʊt/",
+     "zh": "讲义；分发材料",
+     "ja": "配布資料",
+     "ex": "Please refer to page three of the handout.",
+     "ex_zh": "请参见讲义第三页。",
+     "ex_ja": "配布資料の 3 ページをご覧ください。",
+     "parts": [
+      [
+       "hand",
+       "手",
+       "手"
+      ],
+      [
+       "out",
+       "向外",
+       "外へ"
+      ]
+     ],
+     "note": {
+      "zh": "复合词 hand out“分发”名词化；本族词，没有拉丁词根。",
+      "ja": "hand out「配る」の名詞化。英語本来の語。"
+     },
+     "forms": [
+      [
+       "hand out (v.)",
+       "分发",
+       "配る"
+      ],
+      [
+       "distribute handouts",
+       "分发讲义",
+       "資料を配る"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1 场景：A woman is handing out papers。",
+      "ja": "Part 1 の描写でも使う。"
+     }
+    },
+    {
+     "w": "moderator",
+     "pos": "n.",
+     "ipa": "/ˈmɑdəˌreɪtɚ/",
+     "zh": "主持人；调解人",
+     "ja": "司会者；進行役",
+     "ex": "The moderator introduced each panelist before the discussion began.",
+     "ex_zh": "讨论开始前，主持人逐一介绍了各位嘉宾。",
+     "ex_ja": "討論の前に、司会者が各パネリストを紹介しました。",
+     "parts": [
+      [
+       "mod",
+       "尺度；限度",
+       "尺度"
+      ],
+      [
+       "-er",
+       "（连接）",
+       "つなぎ"
+      ],
+      [
+       "-ator",
+       "表示人",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 moderator“控制者”，来自 moderari“使适度”。",
+      "ja": "ラテン語 moderator「調整する人」（moderari「加減する」）から。"
+     },
+     "forms": [
+      [
+       "moderate (v./adj.)",
+       "主持；适度的",
+       "司会する；適度な"
+      ],
+      [
+       "panel moderator",
+       "座谈会主持人",
+       "パネル司会"
+      ]
+     ],
+     "tip": {
+      "zh": "讨论会主持人用 moderator，大会主持多用 host / MC。",
+      "ja": "パネル討論の司会は moderator。"
+     }
+    },
+    {
+     "w": "consensus",
+     "pos": "n.",
+     "ipa": "/kənˈsɛnsəs/",
+     "zh": "共识；一致意见",
+     "ja": "合意；総意",
+     "ex": "The committee finally reached a consensus on the new policy.",
+     "ex_zh": "委员会终于就新政策达成共识。",
+     "ex_ja": "委員会はついに新方針について合意に達しました。",
+     "parts": [
+      [
+       "con-",
+       "一起",
+       "共に"
+      ],
+      [
+       "sens",
+       "感觉",
+       "感じる"
+      ],
+      [
+       "-us",
+       "名词词尾",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 consensus“共同的感觉、一致”。",
+      "ja": "ラテン語 consensus「共に感じること・一致」。"
+     },
+     "forms": [
+      [
+       "reach a consensus",
+       "达成共识",
+       "合意に達する"
+      ],
+      [
+       "consensus decision",
+       "一致决定",
+       "全会一致の決定"
+      ]
+     ],
+     "tip": {
+      "zh": "reach a consensus 是固定搭配。",
+      "ja": "reach a consensus が定番。"
+     }
+    },
+    {
+     "w": "brainstorm",
+     "pos": "v./n.",
+     "ipa": "/ˈbreɪnˌstɔrm/",
+     "zh": "集思广益；头脑风暴",
+     "ja": "ブレーンストーミングする",
+     "ex": "Let's brainstorm ideas for the product launch event.",
+     "ex_zh": "我们来为产品发布会集思广益吧。",
+     "ex_ja": "製品発表イベントのアイデアを出し合いましょう。",
+     "parts": [
+      [
+       "brain",
+       "脑",
+       "脳"
+      ],
+      [
+       "storm",
+       "风暴",
+       "嵐"
+      ]
+     ],
+     "note": {
+      "zh": "本族词复合：brain + storm；没有拉丁词根。",
+      "ja": "英語の複合語 brain＋storm。"
+     },
+     "forms": [
+      [
+       "brainstorming session",
+       "头脑风暴会议",
+       "ブレスト会議"
+      ],
+      [
+       "brainstorm ideas",
+       "集思广益",
+       "アイデアを出し合う"
+      ]
+     ],
+     "tip": {
+      "zh": "会议对话高频。",
+      "ja": "会議の会話で頻出。"
+     }
+    },
+    {
+     "w": "projector",
+     "pos": "n.",
+     "ipa": "/prəˈdʒɛktɚ/",
+     "zh": "投影仪",
+     "ja": "プロジェクター",
+     "ex": "The projector in Conference Room B is not working.",
+     "ex_zh": "B 会议室的投影仪坏了。",
+     "ex_ja": "会議室 B のプロジェクターが動きません。",
+     "parts": [
+      [
+       "pro-",
+       "向前",
+       "前へ"
+      ],
+      [
+       "ject",
+       "投掷",
+       "投げる"
+      ],
+      [
+       "-or",
+       "表示工具",
+       "〜するもの"
+      ]
+     ],
+     "note": {
+      "zh": "来自拉丁语 projicere“向前投”（Day 2 词根 -ject-）。",
+      "ja": "ラテン語 projicere「前へ投げる」から（Day 2 の -ject-）。"
+     },
+     "forms": [
+      [
+       "project (v.)",
+       "投射；预计",
+       "投影する；見積もる"
+      ],
+      [
+       "overhead projector",
+       "投影仪",
+       "OHP"
+      ]
+     ],
+     "tip": {
+      "zh": "会议设备故障是 Part 3 常见话题。",
+      "ja": "機器トラブルは Part 3 の定番。"
+     }
+    },
+    {
+     "w": "attendee",
+     "pos": "n.",
+     "ipa": "/əˌtɛnˈdi/",
+     "zh": "出席者；与会者",
+     "ja": "出席者；参加者",
+     "ex": "Each attendee will receive a name badge at the entrance.",
+     "ex_zh": "每位与会者将在入口处领取名牌。",
+     "ex_ja": "参加者は入口で名札を受け取ります。",
+     "parts": [
+      [
+       "at-",
+       "朝向",
+       "〜へ"
+      ],
+      [
+       "tend",
+       "伸展",
+       "伸ばす"
+      ],
+      [
+       "-ee",
+       "表示人（被动者）",
+       "〜される人"
+      ]
+     ],
+     "note": {
+      "zh": "attend（拉丁语 attendere“把心伸向”，Day 6 词根）+ -ee。",
+      "ja": "attend（ラテン語 attendere、Day 6 の語根）＋-ee。"
+     },
+     "forms": [
+      [
+       "attendance (n.)",
+       "出席（人数）",
+       "出席"
+      ],
+      [
+       "attend (v.)",
+       "出席",
+       "出席する"
+      ]
+     ],
+     "tip": {
+      "zh": "-ee 表示人：employee、trainee。",
+      "ja": "-ee は「人」：employee、trainee。"
+     }
+    },
+    {
+     "w": "keynote",
+     "pos": "n./adj.",
+     "ipa": "/ˈkiˌnoʊt/",
+     "zh": "主旨；主题演讲",
+     "ja": "基調；基調講演",
+     "ex": "Dr. Patel will deliver the keynote address at the conference.",
+     "ex_zh": "帕特尔博士将在大会上发表主题演讲。",
+     "ex_ja": "パテル博士が会議で基調講演を行います。",
+     "parts": [
+      [
+       "key",
+       "关键",
+       "鍵"
+      ],
+      [
+       "note",
+       "音符",
+       "音符"
+      ]
+     ],
+     "note": {
+      "zh": "本族词 key + 拉丁语 nota“记号”；原指音乐的主音。",
+      "ja": "key＋note（ラテン語 nota「記号」）。元は音楽の主音。"
+     },
+     "forms": [
+      [
+       "keynote speaker",
+       "主讲人",
+       "基調講演者"
+      ],
+      [
+       "keynote speech",
+       "主题演讲",
+       "基調講演"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 4 会议介绍高频。",
+      "ja": "Part 4 の紹介で頻出。"
+     }
+    },
+    {
+     "w": "podium",
+     "pos": "n.",
+     "ipa": "/ˈpoʊdiəm/",
+     "zh": "讲台",
+     "ja": "演台",
+     "ex": "The speaker walked to the podium and greeted the audience.",
+     "ex_zh": "演讲者走上讲台向听众致意。",
+     "ex_ja": "講演者は演台に歩み寄り、聴衆にあいさつしました。",
+     "parts": [
+      [
+       "pod",
+       "脚",
+       "足"
+      ],
+      [
+       "-ium",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 podium“高台”，来自希腊语 pous“脚”。",
+      "ja": "ラテン語 podium「壇」（ギリシャ語 pous「足」）から。"
+     },
+     "forms": [
+      [
+       "at the podium",
+       "在讲台上",
+       "演台で"
+      ],
+      [
+       "lectern (n.)",
+       "讲桌",
+       "書見台"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1 照片描述可能出现。",
+      "ja": "Part 1 の写真描写にも。"
+     }
+    },
+    {
+     "w": "summarize",
+     "pos": "v.",
+     "ipa": "/ˈsʌməˌraɪz/",
+     "zh": "总结；概括",
+     "ja": "要約する",
+     "ex": "Let me summarize the main points before we finish.",
+     "ex_zh": "结束前我来总结一下要点。",
+     "ex_ja": "終わる前に要点をまとめさせてください。",
+     "parts": [
+      [
+       "sum",
+       "总数",
+       "合計"
+      ],
+      [
+       "-ar",
+       "形容词后缀",
+       "形容詞を作る"
+      ],
+      [
+       "-ize",
+       "动词后缀",
+       "動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "summary（拉丁语 summa“总数”）+ -ize。",
+      "ja": "summary（ラテン語 summa「合計」）＋-ize。"
+     },
+     "forms": [
+      [
+       "summary (n.)",
+       "摘要",
+       "要約"
+      ],
+      [
+       "in summary",
+       "总之",
+       "要するに"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7 题型：What is the purpose of…? 常对应 summarize。",
+      "ja": "要旨問題と関連。"
+     }
+    },
+    {
+     "w": "postpone",
+     "pos": "v.",
+     "ipa": "/poʊstˈpoʊn/",
+     "zh": "推迟；延期",
+     "ja": "延期する",
+     "ex": "We have to postpone the meeting until the client arrives.",
+     "ex_zh": "我们得把会议推迟到客户到达后。",
+     "ex_ja": "顧客が到着するまで会議を延期しなければなりません。",
+     "parts": [
+      [
+       "post-",
+       "在后",
+       "後に"
+      ],
+      [
+       "pon",
+       "放置",
+       "置く"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 postponere“放到后面”（Day 4 词根 -pon-）。",
+      "ja": "ラテン語 postponere「後ろに置く」（Day 4 の -pon-）。"
+     },
+     "forms": [
+      [
+       "postponement (n.)",
+       "延期",
+       "延期"
+      ],
+      [
+       "postpone A until B",
+       "把 A 推迟到 B",
+       "A を B まで延期する"
+      ]
+     ],
+     "tip": {
+      "zh": "同义 put off / delay。",
+      "ja": "put off と同義。"
+     }
+    },
+    {
+     "w": "teleconference",
+     "pos": "n.",
+     "ipa": "/ˈtɛləˌkɑnfərəns/",
+     "zh": "电话会议；远程会议",
+     "ja": "電話会議；テレビ会議",
+     "ex": "The weekly teleconference with the London office starts at 5 p.m.",
+     "ex_zh": "与伦敦办事处的每周电话会议下午 5 点开始。",
+     "ex_ja": "ロンドン事務所との週次電話会議は午後 5 時に始まります。",
+     "parts": [
+      [
+       "tele-",
+       "远",
+       "遠く"
+      ],
+      [
+       "con-",
+       "一起",
+       "共に"
+      ],
+      [
+       "fer",
+       "携带",
+       "運ぶ"
+      ],
+      [
+       "-ence",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "希腊语 tele“远”+ conference（拉丁语 conferre“汇集”，Day 3 词根 -fer-）。",
+      "ja": "ギリシャ語 tele「遠い」＋conference（Day 3 の -fer-）。"
+     },
+     "forms": [
+      [
+       "videoconference (n.)",
+       "视频会议",
+       "ビデオ会議"
+      ],
+      [
+       "conference call",
+       "电话会议",
+       "電話会議"
+      ]
+     ],
+     "tip": {
+      "zh": "也说 conference call。",
+      "ja": "conference call とも言う。"
+     }
+    },
+    {
+     "w": "outline",
+     "pos": "n./v.",
+     "ipa": "/ˈaʊtˌlaɪn/",
+     "zh": "概要；略述",
+     "ja": "概要；概略を述べる",
+     "ex": "The manager outlined the plan for the next quarter.",
+     "ex_zh": "经理概述了下季度的计划。",
+     "ex_ja": "マネージャーは次の四半期の計画の概要を説明しました。",
+     "parts": [
+      [
+       "out",
+       "外",
+       "外"
+      ],
+      [
+       "line",
+       "线",
+       "線"
+      ]
+     ],
+     "note": {
+      "zh": "本族词 out + line“轮廓线”；没有拉丁词根拆分的必要。",
+      "ja": "out＋line「輪郭線」。"
+     },
+     "forms": [
+      [
+       "in outline",
+       "概括地",
+       "概略で"
+      ],
+      [
+       "outline a proposal",
+       "概述提案",
+       "提案の概要を述べる"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 4 设问：What does the speaker outline?",
+      "ja": "Part 4 で頻出。"
+     },
+     "hl": "outlined"
+    }
+   ]
+  },
+  {
+   "id": "service",
+   "title_zh": "主题：客户服务与投诉处理",
+   "title_ja": "テーマ：顧客サービス・苦情対応",
+   "words": [
+    {
+     "w": "complaint",
+     "pos": "n.",
+     "ipa": "/kəmˈpleɪnt/",
+     "zh": "投诉；抱怨",
+     "ja": "苦情；クレーム",
+     "ex": "We received several complaints about the slow delivery.",
+     "ex_zh": "我们收到了几起关于送货慢的投诉。",
+     "ex_ja": "配送の遅れについて何件か苦情を受けました。",
+     "parts": [
+      [
+       "com-",
+       "完全（加强）",
+       "強意"
+      ],
+      [
+       "plaint",
+       "哀叹（拉丁语 plangere）",
+       "嘆く"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 complainte，来自拉丁语 plangere“捶胸哀叹”。",
+      "ja": "古フランス語 complainte（ラテン語 plangere「嘆く」）から。"
+     },
+     "forms": [
+      [
+       "complain (v.)",
+       "抱怨",
+       "不満を言う"
+      ],
+      [
+       "file a complaint",
+       "提出投诉",
+       "苦情を申し立てる"
+      ]
+     ],
+     "tip": {
+      "zh": "complain about / of 都可以。",
+      "ja": "complain about が一般的。"
+     },
+     "hl": "complaints"
+    },
+    {
+     "w": "refund",
+     "pos": "n./v.",
+     "ipa": "/ˈriˌfʌnd/",
+     "zh": "退款；退还",
+     "ja": "返金（する）",
+     "ex": "You can request a full refund within 30 days of purchase.",
+     "ex_zh": "购买后 30 天内可申请全额退款。",
+     "ex_ja": "購入後 30 日以内なら全額返金を請求できます。",
+     "parts": [
+      [
+       "re-",
+       "返回",
+       "戻って"
+      ],
+      [
+       "fund",
+       "倒出（拉丁语 fundere）",
+       "注ぐ"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 refundere“倒回去”。",
+      "ja": "ラテン語 refundere「注ぎ返す」。"
+     },
+     "forms": [
+      [
+       "refundable (adj.)",
+       "可退款的",
+       "返金可能な"
+      ],
+      [
+       "non-refundable",
+       "不可退款",
+       "返金不可"
+      ]
+     ],
+     "tip": {
+      "zh": "动词重音在后 /rɪˈfʌnd/。",
+      "ja": "動詞は /rɪˈfʌnd/。"
+     }
+    },
+    {
+     "w": "hotline",
+     "pos": "n.",
+     "ipa": "/ˈhɑtˌlaɪn/",
+     "zh": "热线电话",
+     "ja": "ホットライン；相談窓口",
+     "ex": "Call our 24-hour hotline if you have any problems with your order.",
+     "ex_zh": "订单若有任何问题，请拨打我们的 24 小时热线。",
+     "ex_ja": "ご注文に問題がある場合は、24 時間ホットラインにお電話ください。",
+     "parts": [
+      [
+       "hot",
+       "热；紧急",
+       "熱い"
+      ],
+      [
+       "line",
+       "线路",
+       "線"
+      ]
+     ],
+     "note": {
+      "zh": "本族词复合 hot + line；没有可靠的拉丁词根拆分。",
+      "ja": "英語の複合語 hot＋line。"
+     },
+     "forms": [
+      [
+       "customer hotline",
+       "客服热线",
+       "お客様窓口"
+      ],
+      [
+       "toll-free number",
+       "免费电话",
+       "フリーダイヤル"
+      ]
+     ],
+     "tip": {
+      "zh": "toll-free = 免费拨打。",
+      "ja": "toll-free＝通話料無料。"
+     }
+    },
+    {
+     "w": "apologize",
+     "pos": "v.",
+     "ipa": "/əˈpɑləˌdʒaɪz/",
+     "zh": "道歉",
+     "ja": "謝る",
+     "ex": "We apologize for any inconvenience this may cause.",
+     "ex_zh": "由此带来的不便，我们深表歉意。",
+     "ex_ja": "ご不便をおかけしますことをお詫び申し上げます。",
+     "parts": [
+      [
+       "apo-",
+       "离开（希腊语）",
+       "離れて"
+      ],
+      [
+       "log",
+       "说话",
+       "話す"
+      ],
+      [
+       "-ize",
+       "动词后缀",
+       "動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "希腊语 apologia“辩护的话”。",
+      "ja": "ギリシャ語 apologia「弁明」から。"
+     },
+     "forms": [
+      [
+       "apology (n.)",
+       "道歉",
+       "謝罪"
+      ],
+      [
+       "apologize for",
+       "为…道歉",
+       "〜を詫びる"
+      ]
+     ],
+     "tip": {
+      "zh": "通知套话：We apologize for any inconvenience。",
+      "ja": "定型句として必須。"
+     }
+    },
+    {
+     "w": "inconvenience",
+     "pos": "n.",
+     "ipa": "/ˌɪnkənˈvinjəns/",
+     "zh": "不便；麻烦",
+     "ja": "不便；迷惑",
+     "ex": "The elevator repair may cause some inconvenience to residents.",
+     "ex_zh": "电梯维修可能给住户带来一些不便。",
+     "ex_ja": "エレベーターの修理で住民の皆様にご不便をおかけするかもしれません。",
+     "parts": [
+      [
+       "in-",
+       "不",
+       "〜でない"
+      ],
+      [
+       "con-",
+       "一起",
+       "共に"
+      ],
+      [
+       "ven",
+       "来",
+       "来る"
+      ],
+      [
+       "-ience",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "convenient（拉丁语 convenire“走到一起 → 合适”，Day 4 词根 -ven-）的反义。",
+      "ja": "convenient（ラテン語 convenire、Day 4 の -ven-）の反意。"
+     },
+     "forms": [
+      [
+       "inconvenient (adj.)",
+       "不方便的",
+       "不便な"
+      ],
+      [
+       "convenience (n.)",
+       "方便",
+       "便利"
+      ]
+     ],
+     "tip": {
+      "zh": "道歉通知必备词。",
+      "ja": "おわびの通知の必須語。"
+     }
+    },
+    {
+     "w": "compensate",
+     "pos": "v.",
+     "ipa": "/ˈkɑmpənˌseɪt/",
+     "zh": "补偿；赔偿",
+     "ja": "補償する；埋め合わせる",
+     "ex": "We will compensate customers for the delayed shipment.",
+     "ex_zh": "我们将为发货延误补偿顾客。",
+     "ex_ja": "出荷遅延についてお客様に補償いたします。",
+     "parts": [
+      [
+       "com-",
+       "一起",
+       "共に"
+      ],
+      [
+       "pens",
+       "称重；支付",
+       "量る・払う"
+      ],
+      [
+       "-ate",
+       "动词后缀",
+       "動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 compensare“放在一起称、抵消”（Day 5 词根 -pens-）。",
+      "ja": "ラテン語 compensare「釣り合わせる」（Day 5 の -pens-）。"
+     },
+     "forms": [
+      [
+       "compensation (n.)",
+       "补偿；薪酬",
+       "補償；報酬"
+      ],
+      [
+       "compensate for",
+       "弥补",
+       "〜を埋め合わせる"
+      ]
+     ],
+     "tip": {
+      "zh": "compensation 也指“薪酬”。",
+      "ja": "compensation は「報酬」の意味も。"
+     }
+    },
+    {
+     "w": "courteous",
+     "pos": "adj.",
+     "ipa": "/ˈkɝtiəs/",
+     "zh": "有礼貌的；殷勤的",
+     "ja": "礼儀正しい；丁寧な",
+     "ex": "The hotel staff were courteous and helpful.",
+     "ex_zh": "酒店员工有礼貌且乐于助人。",
+     "ex_ja": "ホテルのスタッフは礼儀正しく親切でした。",
+     "parts": [
+      [
+       "court",
+       "宫廷",
+       "宮廷"
+      ],
+      [
+       "-eous",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 corteis“宫廷式的、有礼的”。",
+      "ja": "古フランス語 corteis「宮廷風の・礼儀正しい」。"
+     },
+     "forms": [
+      [
+       "courtesy (n.)",
+       "礼貌",
+       "礼儀"
+      ],
+      [
+       "courtesy shuttle",
+       "免费接驳车",
+       "無料送迎バス"
+      ]
+     ],
+     "tip": {
+      "zh": "courtesy = 免费提供（courtesy coffee）。",
+      "ja": "courtesy＝無料サービスの意味も。"
+     }
+    },
+    {
+     "w": "satisfaction",
+     "pos": "n.",
+     "ipa": "/ˌsætɪsˈfækʃən/",
+     "zh": "满意",
+     "ja": "満足",
+     "ex": "Customer satisfaction is our top priority.",
+     "ex_zh": "客户满意是我们的首要任务。",
+     "ex_ja": "お客様の満足が当社の最優先事項です。",
+     "parts": [
+      [
+       "satis",
+       "足够",
+       "十分"
+      ],
+      [
+       "fac",
+       "做",
+       "する"
+      ],
+      [
+       "-tion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 satisfacere“做到足够”。",
+      "ja": "ラテン語 satisfacere「十分にする」。"
+     },
+     "forms": [
+      [
+       "satisfy (v.)",
+       "使满意",
+       "満足させる"
+      ],
+      [
+       "satisfied (adj.)",
+       "满意的",
+       "満足した"
+      ]
+     ],
+     "tip": {
+      "zh": "也属于 -fac- 词根家族。",
+      "ja": "これも -fac- の仲間。"
+     }
+    },
+    {
+     "w": "feedback",
+     "pos": "n.",
+     "ipa": "/ˈfidˌbæk/",
+     "zh": "反馈；意见",
+     "ja": "意見；フィードバック",
+     "ex": "We welcome your feedback on our new menu.",
+     "ex_zh": "欢迎您对我们的新菜单提出意见。",
+     "ex_ja": "新メニューへのご意見をお待ちしております。",
+     "parts": [
+      [
+       "feed",
+       "喂",
+       "与える"
+      ],
+      [
+       "back",
+       "回",
+       "戻って"
+      ]
+     ],
+     "note": {
+      "zh": "本族词复合 feed + back；原为电子工程术语。",
+      "ja": "英語の複合語 feed＋back。元は電子工学用語。"
+     },
+     "forms": [
+      [
+       "customer feedback",
+       "客户反馈",
+       "顧客の声"
+      ],
+      [
+       "give feedback",
+       "提出意见",
+       "意見を述べる"
+      ]
+     ],
+     "tip": {
+      "zh": "不可数名词：some feedback。",
+      "ja": "不可算名詞。"
+     }
+    },
+    {
+     "w": "warranty",
+     "pos": "n.",
+     "ipa": "/ˈwɔrənti/",
+     "zh": "保修；保证书",
+     "ja": "保証；保証書",
+     "ex": "The laptop comes with a two-year warranty.",
+     "ex_zh": "这台笔记本电脑附带两年保修。",
+     "ex_ja": "このノートパソコンには 2 年保証が付いています。",
+     "parts": [
+      [
+       "warrant",
+       "保证",
+       "保証する"
+      ],
+      [
+       "-y",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "古北法语 warantie，源自日耳曼语；没有可靠的拉丁词根拆分。",
+      "ja": "古フランス語北部方言 warantie（ゲルマン語起源）。"
+     },
+     "forms": [
+      [
+       "under warranty",
+       "在保修期内",
+       "保証期間中で"
+      ],
+      [
+       "extended warranty",
+       "延长保修",
+       "延長保証"
+      ]
+     ],
+     "tip": {
+      "zh": "under warranty 是常见短语。",
+      "ja": "under warranty が頻出。"
+     }
+    },
+    {
+     "w": "replacement",
+     "pos": "n.",
+     "ipa": "/rɪˈpleɪsmənt/",
+     "zh": "替换；更换品；接替者",
+     "ja": "交換（品）；後任",
+     "ex": "We will send you a replacement free of charge.",
+     "ex_zh": "我们将免费给您寄送替换品。",
+     "ex_ja": "交換品を無料でお送りします。",
+     "parts": [
+      [
+       "re-",
+       "再",
+       "再び"
+      ],
+      [
+       "place",
+       "放置",
+       "置く"
+      ],
+      [
+       "-ment",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "replace（re- + place）+ -ment。",
+      "ja": "replace（re-＋place）＋-ment。"
+     },
+     "forms": [
+      [
+       "replace (v.)",
+       "替换",
+       "取り替える"
+      ],
+      [
+       "replacement part",
+       "替换零件",
+       "交換部品"
+      ]
+     ],
+     "tip": {
+      "zh": "也指“接替者”：find a replacement for Ms. Lee。",
+      "ja": "「後任者」の意味も。"
+     }
+    },
+    {
+     "w": "representative",
+     "pos": "n.",
+     "ipa": "/ˌrɛprɪˈzɛntətɪv/",
+     "zh": "代表；（客服）专员",
+     "ja": "担当者；代表者",
+     "ex": "A customer service representative will contact you shortly.",
+     "ex_zh": "客服专员将很快与您联系。",
+     "ex_ja": "カスタマーサービス担当者がまもなくご連絡します。",
+     "parts": [
+      [
+       "re-",
+       "再",
+       "再び"
+      ],
+      [
+       "pre-",
+       "在前",
+       "前に"
+      ],
+      [
+       "sent",
+       "存在（esse）",
+       "ある"
+      ],
+      [
+       "-ative",
+       "形容词/名词后缀",
+       "〜の人"
+      ]
+     ],
+     "note": {
+      "zh": "represent（拉丁语 repraesentare“再次呈现”）+ -ative。",
+      "ja": "represent（ラテン語 repraesentare「再び示す」）＋-ative。"
+     },
+     "forms": [
+      [
+       "represent (v.)",
+       "代表",
+       "代表する"
+      ],
+      [
+       "sales representative",
+       "销售代表",
+       "営業担当者"
+      ]
+     ],
+     "tip": {
+      "zh": "缩写 rep：sales rep。",
+      "ja": "略して rep。"
+     }
+    },
+    {
+     "w": "resolve",
+     "pos": "v.",
+     "ipa": "/rɪˈzɑlv/",
+     "zh": "解决；决心",
+     "ja": "解決する；決意する",
+     "ex": "Our technicians resolved the issue within an hour.",
+     "ex_zh": "我们的技术人员在一小时内解决了问题。",
+     "ex_ja": "当社の技術者が 1 時間以内に問題を解決しました。",
+     "parts": [
+      [
+       "re-",
+       "回；加强",
+       "再び"
+      ],
+      [
+       "solv",
+       "松开",
+       "ゆるめる"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 resolvere“解开”。",
+      "ja": "ラテン語 resolvere「ほどく」。"
+     },
+     "forms": [
+      [
+       "resolution (n.)",
+       "解决；决议",
+       "解決；決議"
+      ],
+      [
+       "resolve a complaint",
+       "处理投诉",
+       "苦情を解決する"
+      ]
+     ],
+     "tip": {
+      "zh": "同义 settle / solve。",
+      "ja": "settle / solve と同義。"
+     },
+     "hl": "resolved"
+    },
+    {
+     "w": "loyalty",
+     "pos": "n.",
+     "ipa": "/ˈlɔɪəlti/",
+     "zh": "忠诚；（顾客）忠诚度",
+     "ja": "忠誠；愛顧",
+     "ex": "Members of our loyalty program earn points with every purchase.",
+     "ex_zh": "我们会员计划的成员每次购物都能积分。",
+     "ex_ja": "ロイヤルティプログラムの会員は購入ごとにポイントがたまります。",
+     "parts": [
+      [
+       "loyal",
+       "忠诚的（拉丁语 legalis）",
+       "忠実な"
+      ],
+      [
+       "-ty",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 loial，来自拉丁语 legalis“合法的”。",
+      "ja": "古フランス語 loial（ラテン語 legalis「法の」）から。"
+     },
+     "forms": [
+      [
+       "loyal customer",
+       "忠实顾客",
+       "常連客"
+      ],
+      [
+       "loyalty card",
+       "积分卡",
+       "ポイントカード"
+      ]
+     ],
+     "tip": {
+      "zh": "loyalty program = 会员积分计划。",
+      "ja": "会員ポイント制度。"
+     }
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,2744 @@
+{
+ "day": 9,
+ "date": "2026-10-17",
+ "title_zh": "四大词根 + 银行投资与活动展会",
+ "title_ja": "4つの語根＋銀行・投資とイベント・展示会",
+ "intro_zh": "今天掌握 4 个高频词根（pel·puls 推 / fin 结束、界限 / sequ·secu 跟随 / volv·volu 卷、转），再学银行投资和活动展会的核心词——强化 Part 4 活动通知和 Part 7 银行信函的阅读。",
+ "intro_ja": "今日は語根 4 つ（pel·puls 押す／fin 終わり・境界／sequ·secu 従う／volv·volu 巻く・回る）と、銀行・投資、イベント・展示会の重要語を学びます。Part 4 のイベント案内と Part 7 の銀行からの通知の読解を強化します。",
+ "voice": "en-US-AriaNeural",
+ "roots": [
+  {
+   "root": "-pel- / -puls-",
+   "origin": "Latin pellere / pulsus",
+   "zh": "推；驱动",
+   "ja": "押す；駆り立てる",
+   "exp_zh": "来自拉丁语 pellere（推、驱赶；过去分词 pulsus）。com-（一起推 → 强迫）、ex-（推出去 → 开除）、pro-（向前推 → 推进）、dis-（推散 → 消除）、re-（推回 → 击退、防…）、im-（向内推 → 冲动）。⚠️ appeal（呼吁）来自 appellare“称呼”，和 pellere 不同。",
+   "exp_ja": "ラテン語 pellere（押す・追い払う、過去分詞 pulsus）から。com-（共に押す → 強いる）、ex-（押し出す → 追放）、pro-（前へ押す → 推進）、dis-（散らす → 払拭する）、re-（押し返す → 撃退する）、im-（中へ押す → 衝動）。⚠️ appeal は appellare「呼びかける」由来で別。",
+   "examples": [
+    "compel",
+    "expel",
+    "propel",
+    "dispel",
+    "impulse",
+    "repellent",
+    "compulsory",
+    "appeal"
+   ]
+  },
+  {
+   "root": "-fin-",
+   "origin": "Latin finis / finire",
+   "zh": "结束；界限",
+   "ja": "終わり；境界",
+   "exp_zh": "来自拉丁语 finis（边界、终点）和 finire（结束）。final“最终的”、confine“划定边界 → 限制”、define“划清界限 → 定义”、refine“再使精细 → 提炼、改进”、infinite“无边界的”。finance 原指“了结债务”。⚠️ fine（罚款）也来自 finis（了结的款项）。",
+   "exp_ja": "ラテン語 finis（境界・終わり）と finire（終える）から。final「最終の」、confine「境界を定める → 限る」、define「境界をはっきりさせる → 定義する」、refine「さらに細かくする → 洗練する」、infinite「境界のない」。finance は元「借金を片付ける」。⚠️ fine（罰金）も finis 由来。",
+   "examples": [
+    "finalize",
+    "confine",
+    "infinite",
+    "definite",
+    "refine",
+    "financial",
+    "fine",
+    "affinity"
+   ]
+  },
+  {
+   "root": "-sequ- / -secu- / -su-",
+   "origin": "Latin sequi / secutus",
+   "zh": "跟随",
+   "ja": "従う；続く",
+   "exp_zh": "来自拉丁语 sequi（跟随；过去分词 secutus）。con-（一起跟着来 → 结果）、sub-（随后 → 随后的）、ex- + secu（跟到底 → 执行）、per-（一直追 → 追求）。⚠️ 经法语变为 su-：pursue、suit、suite 也属此家族；second（第二）也来自 sequi“跟在后面的”。",
+   "exp_ja": "ラテン語 sequi（従う、過去分詞 secutus）から。con-（共についてくる → 結果）、sub-（後に続く → その後の）、ex-＋secu（最後まで追う → 実行する）、per-（追い続ける → 追求する）。⚠️ フランス語経由で su- に：pursue・suite も仲間。second（2 番目）も sequi「後に続く」から。",
+   "examples": [
+    "consequence",
+    "sequence",
+    "subsequent",
+    "consecutive",
+    "execute",
+    "pursue",
+    "suitable",
+    "sequel"
+   ]
+  },
+  {
+   "root": "-volv- / -volu- / -volt-",
+   "origin": "Latin volvere / volutus",
+   "zh": "卷；转",
+   "ja": "巻く；回る",
+   "exp_zh": "来自拉丁语 volvere（卷、转；过去分词 volutus）。re-（转回来 → 旋转、周转）、in-（卷进去 → 涉及）、e-（展开 → 演变）、de-（卷下去 → 移交）。volume 原指“卷轴 → 书的一卷 → 量、音量”。⚠️ volunteer 来自 voluntas“意愿”，不同源。",
+   "exp_ja": "ラテン語 volvere（巻く・回す、過去分詞 volutus）から。re-（回転する）、in-（巻き込む → 関わらせる）、e-（巻物を広げる → 発展する）、de-（転がり落ちる → 委ねる）。volume は「巻物 → 1 巻 → 量・音量」。⚠️ volunteer は voluntas「意志」由来で別。",
+   "examples": [
+    "involve",
+    "evolve",
+    "revolve",
+    "volume",
+    "revolution",
+    "devolve",
+    "voluminous",
+    "involvement"
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "pel",
+   "title_zh": "词根 -pel- / -puls-：推",
+   "title_ja": "語根 -pel- / -puls-：押す",
+   "words": [
+    {
+     "w": "compel",
+     "pos": "v.",
+     "ipa": "/kəmˈpɛl/",
+     "zh": "强迫；迫使",
+     "ja": "強いる；〜せざるを得なくする",
+     "ex": "Rising costs compelled the bank to close several branches.",
+     "ex_zh": "成本上升迫使银行关闭了几家分行。",
+     "ex_ja": "コスト上昇により、銀行はいくつかの支店を閉鎖せざるを得ませんでした。",
+     "parts": [
+      [
+       "com-",
+       "一起；加强",
+       "共に"
+      ],
+      [
+       "pel",
+       "推",
+       "押す"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 compellere“赶到一起、强迫”。",
+      "ja": "ラテン語 compellere「追い立てる・強いる」。"
+     },
+     "forms": [
+      [
+       "compelling (adj.)",
+       "令人信服的",
+       "説得力のある"
+      ],
+      [
+       "compulsory (adj.)",
+       "强制的",
+       "義務的な"
+      ]
+     ],
+     "tip": {
+      "zh": "compelling reason = 令人信服的理由。",
+      "ja": "compelling＝説得力のある。"
+     },
+     "hl": "compelled"
+    },
+    {
+     "w": "expel",
+     "pos": "v.",
+     "ipa": "/ɪkˈspɛl/",
+     "zh": "驱逐；排出",
+     "ja": "追放する；排出する",
+     "ex": "The machine expels hot air through a vent at the back.",
+     "ex_zh": "机器从背面的通风口排出热气。",
+     "ex_ja": "その機械は背面の通気口から熱気を排出します。",
+     "parts": [
+      [
+       "ex-",
+       "向外",
+       "外へ"
+      ],
+      [
+       "pel",
+       "推",
+       "押す"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 expellere“推出去”。",
+      "ja": "ラテン語 expellere「押し出す」。"
+     },
+     "forms": [
+      [
+       "expulsion (n.)",
+       "驱逐",
+       "追放"
+      ],
+      [
+       "expel A from B",
+       "把 A 赶出 B",
+       "A を B から追放する"
+      ]
+     ],
+     "tip": {
+      "zh": "名词 expulsion 拼写变为 -puls-。",
+      "ja": "名詞は expulsion。"
+     },
+     "hl": "expels"
+    },
+    {
+     "w": "propel",
+     "pos": "v.",
+     "ipa": "/prəˈpɛl/",
+     "zh": "推进；推动",
+     "ja": "推進する；押し上げる",
+     "ex": "Strong online sales propelled the company to record profits.",
+     "ex_zh": "强劲的线上销售推动公司利润创新高。",
+     "ex_ja": "好調なネット販売が同社を過去最高益へと押し上げました。",
+     "parts": [
+      [
+       "pro-",
+       "向前",
+       "前へ"
+      ],
+      [
+       "pel",
+       "推",
+       "押す"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 propellere“向前推”。",
+      "ja": "ラテン語 propellere「前へ押す」。"
+     },
+     "forms": [
+      [
+       "propeller (n.)",
+       "螺旋桨",
+       "プロペラ"
+      ],
+      [
+       "propulsion (n.)",
+       "推进力",
+       "推進力"
+      ]
+     ],
+     "tip": {
+      "zh": "商业报道：propel growth。",
+      "ja": "経済記事で propel growth。"
+     },
+     "hl": "propelled"
+    },
+    {
+     "w": "dispel",
+     "pos": "v.",
+     "ipa": "/dɪˈspɛl/",
+     "zh": "消除；驱散",
+     "ja": "（疑念などを）払拭する",
+     "ex": "The CEO's announcement dispelled rumors of a merger.",
+     "ex_zh": "首席执行官的声明消除了合并的传闻。",
+     "ex_ja": "CEO の発表で合併のうわさは払拭されました。",
+     "parts": [
+      [
+       "dis-",
+       "分散",
+       "ばらばらに"
+      ],
+      [
+       "pel",
+       "推",
+       "押す"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 dispellere“驱散”。",
+      "ja": "ラテン語 dispellere「追い散らす」。"
+     },
+     "forms": [
+      [
+       "dispel rumors",
+       "消除谣言",
+       "うわさを打ち消す"
+      ],
+      [
+       "dispel concerns",
+       "消除顾虑",
+       "懸念を払拭する"
+      ]
+     ],
+     "tip": {
+      "zh": "宾语常是 rumor / myth / concern。",
+      "ja": "目的語は rumor / concern など。"
+     },
+     "hl": "dispelled"
+    },
+    {
+     "w": "impulse",
+     "pos": "n.",
+     "ipa": "/ˈɪmpʌls/",
+     "zh": "冲动；推动力",
+     "ja": "衝動；はずみ",
+     "ex": "Placing snacks near the checkout encourages impulse buying.",
+     "ex_zh": "把零食放在收银台附近能刺激冲动购物。",
+     "ex_ja": "レジ付近にお菓子を置くと衝動買いが促されます。",
+     "parts": [
+      [
+       "im-",
+       "向内",
+       "中へ"
+      ],
+      [
+       "puls",
+       "推",
+       "押す"
+      ],
+      [
+       "-e",
+       "词尾",
+       "語尾"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 impulsus“推动”（impellere 的过去分词）。",
+      "ja": "ラテン語 impulsus「押すこと」（impellere の過去分詞）。"
+     },
+     "forms": [
+      [
+       "impulsive (adj.)",
+       "冲动的",
+       "衝動的な"
+      ],
+      [
+       "impulse purchase",
+       "冲动购买",
+       "衝動買い"
+      ]
+     ],
+     "tip": {
+      "zh": "impulse buying = 冲动消费。",
+      "ja": "impulse buying＝衝動買い。"
+     }
+    },
+    {
+     "w": "repellent",
+     "pos": "n./adj.",
+     "ipa": "/rɪˈpɛlənt/",
+     "zh": "驱虫剂；排斥的",
+     "ja": "防虫剤；はじく",
+     "ex": "Bring insect repellent to the outdoor team-building event.",
+     "ex_zh": "参加户外团建活动请带上驱虫剂。",
+     "ex_ja": "屋外のチームビルディングには虫よけを持参してください。",
+     "parts": [
+      [
+       "re-",
+       "回",
+       "戻って"
+      ],
+      [
+       "pel",
+       "推",
+       "押す"
+      ],
+      [
+       "-ent",
+       "形容词/名词后缀",
+       "〜するもの"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 repellere“推回、击退”。",
+      "ja": "ラテン語 repellere「押し返す」。"
+     },
+     "forms": [
+      [
+       "repel (v.)",
+       "击退；防",
+       "撃退する"
+      ],
+      [
+       "water-repellent",
+       "防水的",
+       "撥水の"
+      ]
+     ],
+     "tip": {
+      "zh": "产品说明：water-repellent coating。",
+      "ja": "製品説明で頻出。"
+     }
+    },
+    {
+     "w": "compulsory",
+     "pos": "adj.",
+     "ipa": "/kəmˈpʌlsəri/",
+     "zh": "强制的；必修的",
+     "ja": "強制的な；義務の",
+     "ex": "Attendance at the safety briefing is compulsory for all staff.",
+     "ex_zh": "所有员工都必须参加安全说明会。",
+     "ex_ja": "安全説明会への出席は全スタッフに義務付けられています。",
+     "parts": [
+      [
+       "com-",
+       "一起；加强",
+       "強意"
+      ],
+      [
+       "puls",
+       "推",
+       "押す"
+      ],
+      [
+       "-ory",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "中世纪拉丁语 compulsorius，来自 compellere。",
+      "ja": "中世ラテン語 compulsorius（compellere から）。"
+     },
+     "forms": [
+      [
+       "compulsion (n.)",
+       "强迫",
+       "強制"
+      ],
+      [
+       "mandatory (adj.)",
+       "强制的",
+       "義務的な"
+      ]
+     ],
+     "tip": {
+      "zh": "同义 mandatory / obligatory。",
+      "ja": "mandatory と同義。"
+     }
+    },
+    {
+     "w": "appeal",
+     "pos": "v./n.",
+     "ipa": "/əˈpil/",
+     "zh": "呼吁；吸引；上诉",
+     "ja": "訴える；魅力；控訴",
+     "ex": "The new savings account appeals to young professionals.",
+     "ex_zh": "新的储蓄账户吸引了年轻职场人士。",
+     "ex_ja": "新しい普通預金口座は若手社会人に人気です。",
+     "parts": [
+      [
+       "ap-",
+       "朝向",
+       "〜へ"
+      ],
+      [
+       "peal",
+       "称呼（appellare）",
+       "呼びかける"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 appellare“称呼、求助”；⚠️ 与 pellere“推”不同源，这里作易混词放在一起记。",
+      "ja": "ラテン語 appellare「呼びかける」。⚠️ pellere「押す」とは別語源。紛らわしい語として一緒に覚える。"
+     },
+     "forms": [
+      [
+       "appealing (adj.)",
+       "吸引人的",
+       "魅力的な"
+      ],
+      [
+       "appeal to",
+       "吸引…；呼吁",
+       "〜に訴える"
+      ]
+     ],
+     "tip": {
+      "zh": "appeal to = 对…有吸引力。",
+      "ja": "appeal to＝〜の心に訴える。"
+     },
+     "hl": "appeals"
+    }
+   ]
+  },
+  {
+   "id": "fin",
+   "title_zh": "词根 -fin-：结束、界限",
+   "title_ja": "語根 -fin-：終わり・境界",
+   "words": [
+    {
+     "w": "finalize",
+     "pos": "v.",
+     "ipa": "/ˈfaɪnəˌlaɪz/",
+     "zh": "最终确定；敲定",
+     "ja": "最終決定する；仕上げる",
+     "ex": "We need to finalize the event schedule by Friday.",
+     "ex_zh": "我们需要在周五前敲定活动日程。",
+     "ex_ja": "金曜日までにイベントの日程を確定する必要があります。",
+     "parts": [
+      [
+       "fin",
+       "结束",
+       "終わり"
+      ],
+      [
+       "-al",
+       "形容词后缀",
+       "形容詞を作る"
+      ],
+      [
+       "-ize",
+       "动词后缀",
+       "動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "final（拉丁语 finalis“最后的”）+ -ize。",
+      "ja": "final（ラテン語 finalis）＋-ize。"
+     },
+     "forms": [
+      [
+       "final (adj.)",
+       "最终的",
+       "最終の"
+      ],
+      [
+       "finalized (adj.)",
+       "已定稿的",
+       "確定した"
+      ]
+     ],
+     "tip": {
+      "zh": "finalize a contract / plan 常见。",
+      "ja": "契約・計画の確定に。"
+     }
+    },
+    {
+     "w": "confine",
+     "pos": "v.",
+     "ipa": "/kənˈfaɪn/",
+     "zh": "限制；局限",
+     "ja": "限定する；閉じ込める",
+     "ex": "Please confine your comments to the topic of the meeting.",
+     "ex_zh": "请把发言限定在会议主题内。",
+     "ex_ja": "発言は会議の議題に限定してください。",
+     "parts": [
+      [
+       "con-",
+       "一起",
+       "共に"
+      ],
+      [
+       "fin",
+       "界限",
+       "境界"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 confinis“共有边界的” → 法语 confiner“限制”。",
+      "ja": "ラテン語 confinis「境界を共にする」→ フランス語 confiner。"
+     },
+     "forms": [
+      [
+       "be confined to",
+       "局限于",
+       "〜に限られる"
+      ],
+      [
+       "confines (n.)",
+       "范围",
+       "範囲"
+      ]
+     ],
+     "tip": {
+      "zh": "confined space = 密闭空间。",
+      "ja": "confined space＝閉鎖空間。"
+     }
+    },
+    {
+     "w": "infinite",
+     "pos": "adj.",
+     "ipa": "/ˈɪnfənət/",
+     "zh": "无限的；无穷的",
+     "ja": "無限の",
+     "ex": "The online store offers an almost infinite range of products.",
+     "ex_zh": "网店提供的商品几乎无穷无尽。",
+     "ex_ja": "そのネットショップはほぼ無限の品ぞろえを誇ります。",
+     "parts": [
+      [
+       "in-",
+       "不",
+       "〜でない"
+      ],
+      [
+       "fin",
+       "界限",
+       "境界"
+      ],
+      [
+       "-ite",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 infinitus“没有边界的”。",
+      "ja": "ラテン語 infinitus「境界のない」。"
+     },
+     "forms": [
+      [
+       "infinitely (adv.)",
+       "无限地",
+       "限りなく"
+      ],
+      [
+       "finite (adj.)",
+       "有限的",
+       "有限の"
+      ]
+     ],
+     "tip": {
+      "zh": "读音 /ˈɪnfənət/，与 finite /ˈfaɪnaɪt/ 不同。",
+      "ja": "発音が finite と違う点に注意。"
+     }
+    },
+    {
+     "w": "definite",
+     "pos": "adj.",
+     "ipa": "/ˈdɛfənət/",
+     "zh": "明确的；确定的",
+     "ja": "明確な；確定した",
+     "ex": "We have not received a definite answer from the bank yet.",
+     "ex_zh": "我们还没有收到银行的明确答复。",
+     "ex_ja": "銀行からはまだ明確な回答をもらっていません。",
+     "parts": [
+      [
+       "de-",
+       "完全",
+       "完全に"
+      ],
+      [
+       "fin",
+       "界限",
+       "境界"
+      ],
+      [
+       "-ite",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 definitus“划定界限的”。",
+      "ja": "ラテン語 definitus「境界が定められた」。"
+     },
+     "forms": [
+      [
+       "definitely (adv.)",
+       "一定",
+       "確かに"
+      ],
+      [
+       "define (v.)",
+       "定义",
+       "定義する"
+      ]
+     ],
+     "tip": {
+      "zh": "definite（明确的）≠ definitive（最终的、权威的）。",
+      "ja": "definitive（決定版の）と区別。"
+     }
+    },
+    {
+     "w": "refine",
+     "pos": "v.",
+     "ipa": "/rɪˈfaɪn/",
+     "zh": "改进；提炼",
+     "ja": "改良する；精製する",
+     "ex": "The team spent weeks refining the investment proposal.",
+     "ex_zh": "团队花了几周时间完善投资提案。",
+     "ex_ja": "チームは何週間もかけて投資提案を練り上げました。",
+     "parts": [
+      [
+       "re-",
+       "再",
+       "再び"
+      ],
+      [
+       "fin",
+       "精细（结束）",
+       "仕上げ"
+      ]
+     ],
+     "note": {
+      "zh": "re- + fine“精细的”（来自 finis“完成”）。",
+      "ja": "re-＋fine「精巧な」（finis「完成」から）。"
+     },
+     "forms": [
+      [
+       "refinement (n.)",
+       "改进",
+       "改良"
+      ],
+      [
+       "refined (adj.)",
+       "精致的",
+       "洗練された"
+      ]
+     ],
+     "tip": {
+      "zh": "refined taste = 高雅的品味。",
+      "ja": "refined＝洗練された。"
+     },
+     "hl": "refining"
+    },
+    {
+     "w": "financial",
+     "pos": "adj.",
+     "ipa": "/fəˈnænʃəl/",
+     "zh": "财务的；金融的",
+     "ja": "財務の；金融の",
+     "ex": "Our financial advisors can help you plan for retirement.",
+     "ex_zh": "我们的理财顾问可以帮您规划退休。",
+     "ex_ja": "当社のファイナンシャルアドバイザーが退職後の計画をお手伝いします。",
+     "parts": [
+      [
+       "fin",
+       "结束（了结债务）",
+       "終わり"
+      ],
+      [
+       "-ance",
+       "名词后缀",
+       "名詞を作る"
+      ],
+      [
+       "-ial",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "finance（古法语 finer“了结、付清”，源自 finis）+ -ial。",
+      "ja": "finance（古フランス語 finer「決着をつける・支払う」＜finis）＋-ial。"
+     },
+     "forms": [
+      [
+       "finance (n./v.)",
+       "财务；融资",
+       "財務；融資する"
+      ],
+      [
+       "financially (adv.)",
+       "财务上",
+       "財政的に"
+      ]
+     ],
+     "tip": {
+      "zh": "financial statement = 财务报表。",
+      "ja": "financial statement＝財務諸表。"
+     }
+    },
+    {
+     "w": "fine",
+     "pos": "n./v.",
+     "ipa": "/faɪn/",
+     "zh": "罚款；处以罚金",
+     "ja": "罰金；罰金を科す",
+     "ex": "Library users will be charged a fine for late returns.",
+     "ex_zh": "图书馆用户逾期还书将被罚款。",
+     "ex_ja": "図書館の利用者は返却が遅れると罰金を科されます。",
+     "parts": [
+      [
+       "fin",
+       "结束（了结的款项）",
+       "終わり"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 fin“结束、了结”，来自拉丁语 finis；“罚款”= 了结纠纷的款项。",
+      "ja": "古フランス語 fin「終わり・決着」（ラテン語 finis）から。「罰金」＝決着の支払い。"
+     },
+     "forms": [
+      [
+       "parking fine",
+       "停车罚款",
+       "駐車違反の罰金"
+      ],
+      [
+       "be fined",
+       "被罚款",
+       "罰金を科される"
+      ]
+     ],
+     "tip": {
+      "zh": "形容词 fine（好的）与名词“罚款”同形。",
+      "ja": "形容詞 fine（よい）と同形。"
+     }
+    },
+    {
+     "w": "affinity",
+     "pos": "n.",
+     "ipa": "/əˈfɪnəti/",
+     "zh": "亲近感；喜好",
+     "ja": "親近感；好み",
+     "ex": "Our customers share an affinity for eco-friendly products.",
+     "ex_zh": "我们的顾客都偏爱环保产品。",
+     "ex_ja": "当社の顧客は環境に優しい製品を好む傾向があります。",
+     "parts": [
+      [
+       "af-",
+       "朝向（=ad-）",
+       "〜へ"
+      ],
+      [
+       "fin",
+       "边界",
+       "境界"
+      ],
+      [
+       "-ity",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 affinitas“相邻、姻亲关系”（边界相接）。",
+      "ja": "ラテン語 affinitas「隣接・姻戚関係」（境界が接する）。"
+     },
+     "forms": [
+      [
+       "affinity for",
+       "对…的喜好",
+       "〜への好み"
+      ],
+      [
+       "affinity card",
+       "联名卡",
+       "提携カード"
+      ]
+     ],
+     "tip": {
+      "zh": "银行 affinity card = 联名信用卡。",
+      "ja": "銀行の提携カード。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "sequ",
+   "title_zh": "词根 -sequ- / -secu- / -su-：跟随",
+   "title_ja": "語根 -sequ- / -secu- / -su-：従う",
+   "words": [
+    {
+     "w": "consequence",
+     "pos": "n.",
+     "ipa": "/ˈkɑnsəˌkwɛns/",
+     "zh": "结果；后果",
+     "ja": "結果；影響",
+     "ex": "Late payments may have serious consequences for your credit rating.",
+     "ex_zh": "逾期付款可能对您的信用评级造成严重后果。",
+     "ex_ja": "支払いの遅れは信用格付けに深刻な影響を及ぼす可能性があります。",
+     "parts": [
+      [
+       "con-",
+       "一起",
+       "共に"
+      ],
+      [
+       "sequ",
+       "跟随",
+       "従う"
+      ],
+      [
+       "-ence",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 consequentia“随之而来的事”。",
+      "ja": "ラテン語 consequentia「後に続くもの」。"
+     },
+     "forms": [
+      [
+       "consequently (adv.)",
+       "因此",
+       "その結果"
+      ],
+      [
+       "as a consequence",
+       "结果",
+       "その結果"
+      ]
+     ],
+     "tip": {
+      "zh": "consequently = therefore。",
+      "ja": "consequently＝therefore。"
+     },
+     "hl": "consequences"
+    },
+    {
+     "w": "sequence",
+     "pos": "n.",
+     "ipa": "/ˈsikwəns/",
+     "zh": "顺序；序列",
+     "ja": "順序；連続",
+     "ex": "Please complete the steps in the correct sequence.",
+     "ex_zh": "请按正确的顺序完成各个步骤。",
+     "ex_ja": "手順は正しい順序で行ってください。",
+     "parts": [
+      [
+       "sequ",
+       "跟随",
+       "従う"
+      ],
+      [
+       "-ence",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "晚期拉丁语 sequentia“跟随、次序”。",
+      "ja": "後期ラテン語 sequentia「後に続くこと」。"
+     },
+     "forms": [
+      [
+       "in sequence",
+       "按顺序",
+       "順番に"
+      ],
+      [
+       "sequential (adj.)",
+       "连续的",
+       "連続した"
+      ]
+     ],
+     "tip": {
+      "zh": "同义 order。",
+      "ja": "order と同義。"
+     }
+    },
+    {
+     "w": "subsequent",
+     "pos": "adj.",
+     "ipa": "/ˈsʌbsəkwənt/",
+     "zh": "随后的；后来的",
+     "ja": "その後の；次の",
+     "ex": "The first session is free, but subsequent sessions cost $20 each.",
+     "ex_zh": "第一节课免费，之后每节课 20 美元。",
+     "ex_ja": "初回は無料ですが、2 回目以降は 1 回 20 ドルです。",
+     "parts": [
+      [
+       "sub-",
+       "在下；随后",
+       "後に"
+      ],
+      [
+       "sequ",
+       "跟随",
+       "従う"
+      ],
+      [
+       "-ent",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 subsequi“紧随其后”。",
+      "ja": "ラテン語 subsequi「すぐ後に続く」。"
+     },
+     "forms": [
+      [
+       "subsequently (adv.)",
+       "随后",
+       "その後"
+      ],
+      [
+       "subsequent to",
+       "在…之后",
+       "〜の後で"
+      ]
+     ],
+     "tip": {
+      "zh": "反义 previous / prior。",
+      "ja": "反意語 previous / prior。"
+     }
+    },
+    {
+     "w": "consecutive",
+     "pos": "adj.",
+     "ipa": "/kənˈsɛkjətɪv/",
+     "zh": "连续的",
+     "ja": "連続した",
+     "ex": "The bank has reported record profits for three consecutive years.",
+     "ex_zh": "该银行连续三年创下利润纪录。",
+     "ex_ja": "その銀行は 3 年連続で過去最高益を計上しました。",
+     "parts": [
+      [
+       "con-",
+       "一起",
+       "共に"
+      ],
+      [
+       "secu",
+       "跟随",
+       "従う"
+      ],
+      [
+       "-tive",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 consecutus（consequi 的过去分词）+ -ive。",
+      "ja": "ラテン語 consecutus（consequi の過去分詞）＋-ive。"
+     },
+     "forms": [
+      [
+       "consecutively (adv.)",
+       "连续地",
+       "連続して"
+      ],
+      [
+       "for X consecutive days",
+       "连续 X 天",
+       "X 日連続で"
+      ]
+     ],
+     "tip": {
+      "zh": "同义 in a row。",
+      "ja": "in a row と同義。"
+     }
+    },
+    {
+     "w": "execute",
+     "pos": "v.",
+     "ipa": "/ˈɛksəˌkjut/",
+     "zh": "执行；实施",
+     "ja": "実行する；執行する",
+     "ex": "The team executed the marketing plan perfectly.",
+     "ex_zh": "团队完美地执行了营销计划。",
+     "ex_ja": "チームはマーケティング計画を完璧に実行しました。",
+     "parts": [
+      [
+       "ex-",
+       "向外；彻底",
+       "完全に"
+      ],
+      [
+       "secu",
+       "跟随",
+       "従う"
+      ],
+      [
+       "-te",
+       "动词词尾",
+       "動詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 exsequi“跟到底 → 完成”（过去分词 exsecutus）。",
+      "ja": "ラテン語 exsequi「最後まで追う → 成し遂げる」。"
+     },
+     "forms": [
+      [
+       "execution (n.)",
+       "执行",
+       "実行"
+      ],
+      [
+       "executive (n.)",
+       "高管",
+       "重役"
+      ]
+     ],
+     "tip": {
+      "zh": "executive（高管）也同源。",
+      "ja": "executive も同源。"
+     },
+     "hl": "executed"
+    },
+    {
+     "w": "pursue",
+     "pos": "v.",
+     "ipa": "/pɚˈsu/",
+     "zh": "追求；从事",
+     "ja": "追求する；続ける",
+     "ex": "She left the bank to pursue a career in investment consulting.",
+     "ex_zh": "她离开银行，去从事投资咨询工作。",
+     "ex_ja": "彼女は投資コンサルタントの道に進むため銀行を辞めました。",
+     "parts": [
+      [
+       "pur-",
+       "向前（=pro-）",
+       "前へ"
+      ],
+      [
+       "sue",
+       "跟随",
+       "従う"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 poursuir，来自拉丁语 prosequi“向前追”。",
+      "ja": "古フランス語 poursuir（ラテン語 prosequi「追いかける」）から。"
+     },
+     "forms": [
+      [
+       "pursuit (n.)",
+       "追求",
+       "追求"
+      ],
+      [
+       "pursue a degree",
+       "攻读学位",
+       "学位を目指す"
+      ]
+     ],
+     "tip": {
+      "zh": "pursue a career / goal / opportunity。",
+      "ja": "定番の組み合わせ。"
+     }
+    },
+    {
+     "w": "suitable",
+     "pos": "adj.",
+     "ipa": "/ˈsutəbəl/",
+     "zh": "合适的；适宜的",
+     "ja": "適した；ふさわしい",
+     "ex": "The hotel is suitable for both business travelers and families.",
+     "ex_zh": "这家酒店既适合商务旅客，也适合家庭。",
+     "ex_ja": "そのホテルはビジネス客にも家族連れにも適しています。",
+     "parts": [
+      [
+       "suit",
+       "跟随；适合",
+       "従う・合う"
+      ],
+      [
+       "-able",
+       "能…的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "来自法语 suit（拉丁语 sequi“跟随”）+ -able；“适合”义由“跟随、配得上”引申。",
+      "ja": "フランス語 suit（ラテン語 sequi）＋-able。「合う」は「ついていく」から。"
+     },
+     "forms": [
+      [
+       "suitability (n.)",
+       "适合性",
+       "適性"
+      ],
+      [
+       "be suitable for",
+       "适合…",
+       "〜に適している"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5 高频：a suitable replacement。",
+      "ja": "Part 5 で頻出。"
+     }
+    },
+    {
+     "w": "sequel",
+     "pos": "n.",
+     "ipa": "/ˈsikwəl/",
+     "zh": "续集；后续",
+     "ja": "続編；後日談",
+     "ex": "The author will sign copies of her sequel at the book fair.",
+     "ex_zh": "作者将在书展上为她的续集签名。",
+     "ex_ja": "著者はブックフェアで続編のサイン会を行います。",
+     "parts": [
+      [
+       "sequ",
+       "跟随",
+       "従う"
+      ],
+      [
+       "-el",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 sequela“随后的事”。",
+      "ja": "ラテン語 sequela「後に続くもの」。"
+     },
+     "forms": [
+      [
+       "prequel (n.)",
+       "前传",
+       "前日譚"
+      ],
+      [
+       "sequel to",
+       "…的续集",
+       "〜の続編"
+      ]
+     ],
+     "tip": {
+      "zh": "媒体、出版语境。",
+      "ja": "出版・映画の文脈で。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "volv",
+   "title_zh": "词根 -volv- / -volu-：卷、转",
+   "title_ja": "語根 -volv- / -volu-：巻く・回る",
+   "words": [
+    {
+     "w": "involve",
+     "pos": "v.",
+     "ipa": "/ɪnˈvɑlv/",
+     "zh": "涉及；包含；使参与",
+     "ja": "含む；関わらせる",
+     "ex": "The position involves frequent travel to client sites.",
+     "ex_zh": "这个职位需要经常前往客户所在地出差。",
+     "ex_ja": "この職は顧客先への頻繁な出張を伴います。",
+     "parts": [
+      [
+       "in-",
+       "向内",
+       "中へ"
+      ],
+      [
+       "volv",
+       "卷",
+       "巻く"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 involvere“卷进去”。",
+      "ja": "ラテン語 involvere「巻き込む」。"
+     },
+     "forms": [
+      [
+       "involvement (n.)",
+       "参与",
+       "関与"
+      ],
+      [
+       "be involved in",
+       "参与…",
+       "〜に関わる"
+      ]
+     ],
+     "tip": {
+      "zh": "involve doing（动名词）。",
+      "ja": "involve doing の形。"
+     },
+     "hl": "involves"
+    },
+    {
+     "w": "evolve",
+     "pos": "v.",
+     "ipa": "/ɪˈvɑlv/",
+     "zh": "演变；发展",
+     "ja": "発展する；進化する",
+     "ex": "The small family bank has evolved into a regional leader.",
+     "ex_zh": "这家小型家族银行已发展成地区龙头。",
+     "ex_ja": "その小さな家族経営の銀行は地域のトップ企業へと発展しました。",
+     "parts": [
+      [
+       "e-",
+       "向外",
+       "外へ"
+      ],
+      [
+       "volv",
+       "卷",
+       "巻く"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 evolvere“展开（卷轴）”。",
+      "ja": "ラテン語 evolvere「巻物を広げる」。"
+     },
+     "forms": [
+      [
+       "evolution (n.)",
+       "演变；进化",
+       "進化"
+      ],
+      [
+       "evolve into",
+       "发展成",
+       "〜に発展する"
+      ]
+     ],
+     "tip": {
+      "zh": "evolve into 是常见结构。",
+      "ja": "evolve into の形。"
+     },
+     "hl": "evolved"
+    },
+    {
+     "w": "revolve",
+     "pos": "v.",
+     "ipa": "/rɪˈvɑlv/",
+     "zh": "旋转；围绕",
+     "ja": "回転する；〜を中心に展開する",
+     "ex": "Most of the discussion revolved around interest rates.",
+     "ex_zh": "大部分讨论都围绕利率展开。",
+     "ex_ja": "議論の大半は金利を中心に展開しました。",
+     "parts": [
+      [
+       "re-",
+       "回",
+       "戻って"
+      ],
+      [
+       "volv",
+       "转",
+       "回る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 revolvere“转回来”。",
+      "ja": "ラテン語 revolvere「回転させる」。"
+     },
+     "forms": [
+      [
+       "revolving door",
+       "旋转门",
+       "回転ドア"
+      ],
+      [
+       "revolve around",
+       "围绕",
+       "〜を中心に回る"
+      ]
+     ],
+     "tip": {
+      "zh": "revolving credit = 循环信贷。",
+      "ja": "revolving credit＝リボ払い。"
+     },
+     "hl": "revolved"
+    },
+    {
+     "w": "volume",
+     "pos": "n.",
+     "ipa": "/ˈvɑljum/",
+     "zh": "量；音量；（书）卷",
+     "ja": "量；音量；巻",
+     "ex": "The bank handles a high volume of transactions every day.",
+     "ex_zh": "该银行每天处理大量交易。",
+     "ex_ja": "その銀行は毎日大量の取引を処理しています。",
+     "parts": [
+      [
+       "volu",
+       "卷",
+       "巻く"
+      ],
+      [
+       "-me",
+       "名词词尾",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 volumen“卷轴”→“书的一卷”→“容量”。",
+      "ja": "ラテン語 volumen「巻物」→「1 巻」→「量」。"
+     },
+     "forms": [
+      [
+       "sales volume",
+       "销量",
+       "販売量"
+      ],
+      [
+       "turn down the volume",
+       "调低音量",
+       "音量を下げる"
+      ]
+     ],
+     "tip": {
+      "zh": "a high volume of = 大量的。",
+      "ja": "a high volume of＝大量の。"
+     }
+    },
+    {
+     "w": "revolution",
+     "pos": "n.",
+     "ipa": "/ˌrɛvəˈluʃən/",
+     "zh": "革命；旋转",
+     "ja": "革命；回転",
+     "ex": "Mobile banking has sparked a revolution in the financial industry.",
+     "ex_zh": "手机银行引发了金融业的一场革命。",
+     "ex_ja": "モバイルバンキングは金融業界に革命を起こしました。",
+     "parts": [
+      [
+       "re-",
+       "回",
+       "戻って"
+      ],
+      [
+       "volu",
+       "转",
+       "回る"
+      ],
+      [
+       "-tion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "晚期拉丁语 revolutio“旋转”。",
+      "ja": "後期ラテン語 revolutio「回転」。"
+     },
+     "forms": [
+      [
+       "revolutionary (adj.)",
+       "革命性的",
+       "画期的な"
+      ],
+      [
+       "revolutionize (v.)",
+       "彻底改变",
+       "革命的に変える"
+      ]
+     ],
+     "tip": {
+      "zh": "revolutionary product = 划时代产品。",
+      "ja": "revolutionary＝画期的な。"
+     }
+    },
+    {
+     "w": "devolve",
+     "pos": "v.",
+     "ipa": "/dɪˈvɑlv/",
+     "zh": "移交；下放（权力）",
+     "ja": "委譲する；移る",
+     "ex": "Responsibility for hiring has devolved to branch managers.",
+     "ex_zh": "招聘的职责已下放给各分行经理。",
+     "ex_ja": "採用の責任は各支店長に委譲されました。",
+     "parts": [
+      [
+       "de-",
+       "向下",
+       "下へ"
+      ],
+      [
+       "volv",
+       "卷；滚",
+       "転がる"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 devolvere“滚下去”。",
+      "ja": "ラテン語 devolvere「転がり落ちる」。"
+     },
+     "forms": [
+      [
+       "devolution (n.)",
+       "权力下放",
+       "権限委譲"
+      ],
+      [
+       "devolve to",
+       "移交给",
+       "〜に委ねられる"
+      ]
+     ],
+     "tip": {
+      "zh": "进阶词，政府/组织语境。",
+      "ja": "組織・行政の文脈で。"
+     },
+     "hl": "devolved"
+    },
+    {
+     "w": "voluminous",
+     "pos": "adj.",
+     "ipa": "/vəˈlumənəs/",
+     "zh": "大量的；（衣服）宽大的",
+     "ja": "大量の；かさばる",
+     "ex": "The auditors reviewed voluminous financial records.",
+     "ex_zh": "审计员审查了大量财务记录。",
+     "ex_ja": "監査人は膨大な財務記録を精査しました。",
+     "parts": [
+      [
+       "volu",
+       "卷",
+       "巻く"
+      ],
+      [
+       "-min",
+       "名词词干",
+       "名詞語幹"
+      ],
+      [
+       "-ous",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "晚期拉丁语 voluminosus“多卷的”。",
+      "ja": "後期ラテン語 voluminosus「何巻もある」。"
+     },
+     "forms": [
+      [
+       "voluminous report",
+       "冗长的报告",
+       "膨大な報告書"
+      ],
+      [
+       "volume (n.)",
+       "量",
+       "量"
+      ]
+     ],
+     "tip": {
+      "zh": "进阶形容词。",
+      "ja": "上級語。"
+     }
+    },
+    {
+     "w": "involvement",
+     "pos": "n.",
+     "ipa": "/ɪnˈvɑlvmənt/",
+     "zh": "参与；投入",
+     "ja": "関与；参加",
+     "ex": "We appreciate your involvement in organizing the charity event.",
+     "ex_zh": "感谢您参与组织慈善活动。",
+     "ex_ja": "チャリティーイベントの企画にご協力いただき感謝いたします。",
+     "parts": [
+      [
+       "in-",
+       "向内",
+       "中へ"
+      ],
+      [
+       "volv",
+       "卷",
+       "巻く"
+      ],
+      [
+       "-ment",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "involve + -ment。",
+      "ja": "involve＋-ment。"
+     },
+     "forms": [
+      [
+       "community involvement",
+       "社区参与",
+       "地域貢献"
+      ],
+      [
+       "involved (adj.)",
+       "参与的；复杂的",
+       "関わった；複雑な"
+      ]
+     ],
+     "tip": {
+      "zh": "involved 也有“复杂的”含义。",
+      "ja": "involved は「複雑な」の意も。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "banking",
+   "title_zh": "主题：银行与投资",
+   "title_ja": "テーマ：銀行・投資",
+   "words": [
+    {
+     "w": "deposit",
+     "pos": "n./v.",
+     "ipa": "/dɪˈpɑzɪt/",
+     "zh": "存款；押金；存入",
+     "ja": "預金；手付金；預ける",
+     "ex": "A 10 percent deposit is required to reserve the venue.",
+     "ex_zh": "预订场地需要支付 10% 的押金。",
+     "ex_ja": "会場の予約には 10％の手付金が必要です。",
+     "parts": [
+      [
+       "de-",
+       "向下",
+       "下に"
+      ],
+      [
+       "pos",
+       "放置",
+       "置く"
+      ],
+      [
+       "-it",
+       "过去分词词尾",
+       "過去分詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 depositum“放下的东西”（Day 4 词根 -pos-）。",
+      "ja": "ラテン語 depositum「置かれたもの」（Day 4 の -pos-）。"
+     },
+     "forms": [
+      [
+       "security deposit",
+       "保证金；押金",
+       "敷金"
+      ],
+      [
+       "direct deposit",
+       "工资直接存入",
+       "給与振込"
+      ]
+     ],
+     "tip": {
+      "zh": "也指“押金、订金”。",
+      "ja": "「手付金・保証金」の意も。"
+     }
+    },
+    {
+     "w": "withdraw",
+     "pos": "v.",
+     "ipa": "/wɪðˈdrɔ/",
+     "zh": "取款；撤回；退出",
+     "ja": "引き出す；撤回する",
+     "ex": "You can withdraw cash from any of our ATMs free of charge.",
+     "ex_zh": "您可以在我们的任何 ATM 免费取现。",
+     "ex_ja": "当行のどの ATM でも無料で現金を引き出せます。",
+     "parts": [
+      [
+       "with-",
+       "向后；离开",
+       "離れて"
+      ],
+      [
+       "draw",
+       "拉",
+       "引く"
+      ]
+     ],
+     "note": {
+      "zh": "本族词 with（离开）+ draw（拉）；没有拉丁词根。",
+      "ja": "英語本来の語 with「離れて」＋draw「引く」。"
+     },
+     "forms": [
+      [
+       "withdrawal (n.)",
+       "取款；撤回",
+       "引き出し"
+      ],
+      [
+       "withdraw from",
+       "退出",
+       "〜から撤退する"
+      ]
+     ],
+     "tip": {
+      "zh": "也指“撤回”报价、退出比赛。",
+      "ja": "申し出の撤回にも。"
+     }
+    },
+    {
+     "w": "interest",
+     "pos": "n.",
+     "ipa": "/ˈɪntrəst/",
+     "zh": "利息；兴趣；利益",
+     "ja": "利息；興味；利害",
+     "ex": "This account pays 2 percent interest per year.",
+     "ex_zh": "这个账户每年支付 2% 的利息。",
+     "ex_ja": "この口座は年 2％の利息がつきます。",
+     "parts": [
+      [
+       "inter-",
+       "在…之间",
+       "間に"
+      ],
+      [
+       "est",
+       "存在（esse）",
+       "ある"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 interesse“处在中间 → 有关、有利害”。",
+      "ja": "ラテン語 interesse「間にある → 関わる」。"
+     },
+     "forms": [
+      [
+       "interest rate",
+       "利率",
+       "金利"
+      ],
+      [
+       "interest-free",
+       "无息",
+       "無利子の"
+      ]
+     ],
+     "tip": {
+      "zh": "银行语境 = 利息。",
+      "ja": "銀行の文脈では「利息」。"
+     }
+    },
+    {
+     "w": "loan",
+     "pos": "n.",
+     "ipa": "/loʊn/",
+     "zh": "贷款；借出",
+     "ja": "ローン；貸付",
+     "ex": "The bakery took out a loan to buy new ovens.",
+     "ex_zh": "这家面包店贷款购买了新烤箱。",
+     "ex_ja": "そのパン屋は新しいオーブンを買うためにローンを組みました。",
+     "parts": [
+      [
+       "loan",
+       "借出",
+       "貸す"
+      ]
+     ],
+     "note": {
+      "zh": "古诺尔斯语 lán；本族词，没有可靠的词根拆分。",
+      "ja": "古ノルド語 lán から。"
+     },
+     "forms": [
+      [
+       "take out a loan",
+       "贷款",
+       "ローンを組む"
+      ],
+      [
+       "loan application",
+       "贷款申请",
+       "ローン申込"
+      ]
+     ],
+     "tip": {
+      "zh": "take out a loan 是常见搭配。",
+      "ja": "take out a loan が定番。"
+     }
+    },
+    {
+     "w": "installment",
+     "pos": "n.",
+     "ipa": "/ɪnˈstɔlmənt/",
+     "zh": "分期付款",
+     "ja": "分割払い；割賦",
+     "ex": "The furniture can be paid for in 12 monthly installments.",
+     "ex_zh": "家具可以分 12 期按月付款。",
+     "ex_ja": "その家具は 12 回の月払いが可能です。",
+     "parts": [
+      [
+       "in-",
+       "向内",
+       "中に"
+      ],
+      [
+       "stall",
+       "放置",
+       "置く"
+      ],
+      [
+       "-ment",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "install（中世纪拉丁语 installare“安置”）+ -ment；分期付款义由“逐期安置款项”引申。",
+      "ja": "install（中世ラテン語 installare「据え付ける」）＋-ment。"
+     },
+     "forms": [
+      [
+       "installment plan",
+       "分期付款计划",
+       "分割払い計画"
+      ],
+      [
+       "first installment",
+       "首期付款",
+       "初回払い"
+      ]
+     ],
+     "tip": {
+      "zh": "贷款、购物语境。",
+      "ja": "ローン・買い物で。"
+     },
+     "hl": "installments"
+    },
+    {
+     "w": "broker",
+     "pos": "n.",
+     "ipa": "/ˈbroʊkɚ/",
+     "zh": "经纪人；中介",
+     "ja": "ブローカー；仲介業者",
+     "ex": "Contact a licensed broker if you want to buy stocks.",
+     "ex_zh": "如需购买股票，请联系有执照的经纪人。",
+     "ex_ja": "株式を購入したい場合は、免許を持つブローカーに連絡してください。",
+     "parts": [
+      [
+       "broker",
+       "破约者→中间人",
+       "仲介する人"
+      ]
+     ],
+     "note": {
+      "zh": "中古英语 brocour，来自盎格鲁-诺曼语；原指“破酒桶的零售酒商”，没有可靠的拉丁词根拆分。",
+      "ja": "中英語 brocour（アングロ・ノルマン語由来）。"
+     },
+     "forms": [
+      [
+       "stockbroker (n.)",
+       "股票经纪人",
+       "株式仲買人"
+      ],
+      [
+       "brokerage (n.)",
+       "经纪业务",
+       "仲介業"
+      ]
+     ],
+     "tip": {
+      "zh": "insurance broker = 保险经纪人。",
+      "ja": "insurance broker＝保険仲介。"
+     }
+    },
+    {
+     "w": "maturity",
+     "pos": "n.",
+     "ipa": "/məˈtʃʊrəti/",
+     "zh": "（债券）到期；成熟",
+     "ja": "満期；成熟",
+     "ex": "Bond interest is paid until maturity.",
+     "ex_zh": "债券利息支付至到期日。",
+     "ex_ja": "債券の利息は満期まで支払われます。",
+     "parts": [
+      [
+       "matur",
+       "成熟",
+       "成熟する"
+      ],
+      [
+       "-ity",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 maturitas，来自 maturus“成熟的”。",
+      "ja": "ラテン語 maturitas（maturus「熟した」）から。"
+     },
+     "forms": [
+      [
+       "mature (v./adj.)",
+       "到期；成熟的",
+       "満期になる；成熟した"
+      ],
+      [
+       "at maturity",
+       "到期时",
+       "満期時に"
+      ]
+     ],
+     "tip": {
+      "zh": "金融：at maturity / maturity date。",
+      "ja": "金融で満期日。"
+     }
+    },
+    {
+     "w": "liability",
+     "pos": "n.",
+     "ipa": "/ˌlaɪəˈbɪləti/",
+     "zh": "负债；责任",
+     "ja": "負債；責任",
+     "ex": "The company's liabilities exceeded its cash reserves.",
+     "ex_zh": "公司的负债超过了现金储备。",
+     "ex_ja": "同社の負債は現金準備を上回りました。",
+     "parts": [
+      [
+       "liabil",
+       "有义务的（ligare“绑”）",
+       "義務のある"
+      ],
+      [
+       "-ity",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "liable（法语，来自拉丁语 ligare“绑住”）+ -ity。",
+      "ja": "liable（フランス語＜ラテン語 ligare「縛る」）＋-ity。"
+     },
+     "forms": [
+      [
+       "assets and liabilities",
+       "资产与负债",
+       "資産と負債"
+      ],
+      [
+       "liability insurance",
+       "责任保险",
+       "賠償責任保険"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7 财务报表。",
+      "ja": "財務諸表で。"
+     },
+     "hl": "liabilities"
+    },
+    {
+     "w": "transaction",
+     "pos": "n.",
+     "ipa": "/trænˈzækʃən/",
+     "zh": "交易；业务处理",
+     "ja": "取引；処理",
+     "ex": "You can review all recent transactions online.",
+     "ex_zh": "您可以在线查看所有近期交易。",
+     "ex_ja": "最近の取引はすべてオンラインで確認できます。",
+     "parts": [
+      [
+       "trans-",
+       "穿过",
+       "通して"
+      ],
+      [
+       "act",
+       "做",
+       "する"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 transactio“完成、了结”。",
+      "ja": "ラテン語 transactio「やり遂げること」。"
+     },
+     "forms": [
+      [
+       "transact (v.)",
+       "办理",
+       "取引する"
+      ],
+      [
+       "transaction fee",
+       "手续费",
+       "取引手数料"
+      ]
+     ],
+     "tip": {
+      "zh": "银行通知高频。",
+      "ja": "銀行の通知で頻出。"
+     },
+     "hl": "transactions"
+    },
+    {
+     "w": "balance",
+     "pos": "n.",
+     "ipa": "/ˈbæləns/",
+     "zh": "余额；平衡；差额",
+     "ja": "残高；釣り合い",
+     "ex": "Please check your account balance before making a large purchase.",
+     "ex_zh": "大额消费前请查看账户余额。",
+     "ex_ja": "高額な買い物の前に口座残高を確認してください。",
+     "parts": [
+      [
+       "bi-",
+       "二",
+       "二つ"
+      ],
+      [
+       "lanx",
+       "秤盘",
+       "皿"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 balance，来自拉丁语 bilanx“有两个秤盘的”。",
+      "ja": "古フランス語 balance（ラテン語 bilanx「二つの皿をもつ」）から。"
+     },
+     "forms": [
+      [
+       "outstanding balance",
+       "未付余额",
+       "未払い残高"
+      ],
+      [
+       "work-life balance",
+       "工作生活平衡",
+       "仕事と生活の調和"
+      ]
+     ],
+     "tip": {
+      "zh": "outstanding balance = 未结余额。",
+      "ja": "outstanding balance＝未払残高。"
+     }
+    },
+    {
+     "w": "statement",
+     "pos": "n.",
+     "ipa": "/ˈsteɪtmənt/",
+     "zh": "对账单；声明",
+     "ja": "明細書；声明",
+     "ex": "Your monthly statement is available online.",
+     "ex_zh": "您的月结单可在线查看。",
+     "ex_ja": "毎月の明細書はオンラインでご覧いただけます。",
+     "parts": [
+      [
+       "state",
+       "陈述",
+       "述べる"
+      ],
+      [
+       "-ment",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "state（拉丁语 status“状态”）+ -ment。",
+      "ja": "state（ラテン語 status）＋-ment。"
+     },
+     "forms": [
+      [
+       "bank statement",
+       "银行对账单",
+       "銀行取引明細"
+      ],
+      [
+       "press statement",
+       "新闻声明",
+       "報道声明"
+      ]
+     ],
+     "tip": {
+      "zh": "bank statement = 银行对账单。",
+      "ja": "「明細書」の意味に注意。"
+     }
+    },
+    {
+     "w": "teller",
+     "pos": "n.",
+     "ipa": "/ˈtɛlɚ/",
+     "zh": "（银行）出纳员",
+     "ja": "窓口係",
+     "ex": "Please see a teller if you need to deposit a check.",
+     "ex_zh": "如需存支票，请找柜员办理。",
+     "ex_ja": "小切手を預け入れる場合は窓口係にお申し付けください。",
+     "parts": [
+      [
+       "tell",
+       "计数",
+       "数える"
+      ],
+      [
+       "-er",
+       "表示人",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "tell 古义“数（钱）”+ -er；本族词。",
+      "ja": "tell の古義「数える」＋-er。英語本来の語。"
+     },
+     "forms": [
+      [
+       "bank teller",
+       "银行柜员",
+       "銀行窓口係"
+      ],
+      [
+       "ATM (automated teller machine)",
+       "自动取款机",
+       "現金自動預払機"
+      ]
+     ],
+     "tip": {
+      "zh": "ATM = automated teller machine。",
+      "ja": "ATM の T は teller。"
+     }
+    },
+    {
+     "w": "overdue",
+     "pos": "adj.",
+     "ipa": "/ˌoʊvɚˈdu/",
+     "zh": "逾期的；过期的",
+     "ja": "期限切れの；延滞した",
+     "ex": "Your payment is now two weeks overdue.",
+     "ex_zh": "您的付款已逾期两周。",
+     "ex_ja": "お支払いが 2 週間遅れています。",
+     "parts": [
+      [
+       "over-",
+       "超过",
+       "超えて"
+      ],
+      [
+       "due",
+       "到期的",
+       "期限の"
+      ]
+     ],
+     "note": {
+      "zh": "本族词 over + due（古法语 deu“应付的”）。",
+      "ja": "over＋due（古フランス語 deu「支払うべき」）。"
+     },
+     "forms": [
+      [
+       "overdue payment",
+       "逾期付款",
+       "延滞金"
+      ],
+      [
+       "long overdue",
+       "早该…",
+       "とっくに〜すべき"
+      ]
+     ],
+     "tip": {
+      "zh": "催款信高频。",
+      "ja": "督促状で頻出。"
+     }
+    },
+    {
+     "w": "invest",
+     "pos": "v.",
+     "ipa": "/ɪnˈvɛst/",
+     "zh": "投资；投入",
+     "ja": "投資する；注ぐ",
+     "ex": "The company plans to invest heavily in renewable energy.",
+     "ex_zh": "公司计划在可再生能源方面大举投资。",
+     "ex_ja": "同社は再生可能エネルギーに多額の投資を行う計画です。",
+     "parts": [
+      [
+       "in-",
+       "在内",
+       "中に"
+      ],
+      [
+       "vest",
+       "穿衣",
+       "着せる"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 investire“给…穿衣”→意大利语“投入资本”。",
+      "ja": "ラテン語 investire「衣を着せる」→イタリア語「資本を投じる」。"
+     },
+     "forms": [
+      [
+       "investment (n.)",
+       "投资",
+       "投資"
+      ],
+      [
+       "investor (n.)",
+       "投资者",
+       "投資家"
+      ]
+     ],
+     "tip": {
+      "zh": "invest in = 投资于。",
+      "ja": "invest in の形。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "events",
+   "title_zh": "主题：活动与展会",
+   "title_ja": "テーマ：イベント・展示会",
+   "words": [
+    {
+     "w": "venue",
+     "pos": "n.",
+     "ipa": "/ˈvɛnju/",
+     "zh": "场地；会场",
+     "ja": "会場",
+     "ex": "The venue for this year's trade show has not been decided.",
+     "ex_zh": "今年展会的场地尚未确定。",
+     "ex_ja": "今年の見本市の会場はまだ決まっていません。",
+     "parts": [
+      [
+       "ven",
+       "来",
+       "来る"
+      ],
+      [
+       "-ue",
+       "名词词尾",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 venue“到来”（Day 4 词根 -ven-）。",
+      "ja": "古フランス語 venue「来ること」（Day 4 の -ven-）。"
+     },
+     "forms": [
+      [
+       "change of venue",
+       "更换场地",
+       "会場変更"
+      ],
+      [
+       "concert venue",
+       "演出场地",
+       "コンサート会場"
+      ]
+     ],
+     "tip": {
+      "zh": "活动通知必考词。",
+      "ja": "イベント案内の必須語。"
+     }
+    },
+    {
+     "w": "exhibition",
+     "pos": "n.",
+     "ipa": "/ˌɛksəˈbɪʃən/",
+     "zh": "展览；展会",
+     "ja": "展示会；展覧会",
+     "ex": "The photography exhibition runs until the end of the month.",
+     "ex_zh": "摄影展将持续到月底。",
+     "ex_ja": "写真展は月末まで開催されます。",
+     "parts": [
+      [
+       "ex-",
+       "向外",
+       "外へ"
+      ],
+      [
+       "hib",
+       "持有（habere）",
+       "持つ"
+      ],
+      [
+       "-ition",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 exhibere“拿出来展示”。",
+      "ja": "ラテン語 exhibere「差し出す・見せる」。"
+     },
+     "forms": [
+      [
+       "exhibit (v./n.)",
+       "展示；展品",
+       "展示する；展示品"
+      ],
+      [
+       "exhibitor (n.)",
+       "参展商",
+       "出展者"
+      ]
+     ],
+     "tip": {
+      "zh": "exhibitor = 参展商。",
+      "ja": "exhibitor＝出展者。"
+     }
+    },
+    {
+     "w": "booth",
+     "pos": "n.",
+     "ipa": "/buθ/",
+     "zh": "展位；摊位；电话亭",
+     "ja": "ブース；売店",
+     "ex": "Please visit our booth in Hall C to see a demonstration.",
+     "ex_zh": "欢迎来 C 馆我们的展位观看演示。",
+     "ex_ja": "C ホールの当社ブースで実演をご覧ください。",
+     "parts": [
+      [
+       "booth",
+       "小屋",
+       "小屋"
+      ]
+     ],
+     "note": {
+      "zh": "中古英语 bothe，源自斯堪的纳维亚语；没有可靠的拉丁词根拆分。",
+      "ja": "中英語 bothe（スカンジナビア語起源）。"
+     },
+     "forms": [
+      [
+       "exhibition booth",
+       "展位",
+       "展示ブース"
+      ],
+      [
+       "ticket booth",
+       "售票亭",
+       "チケット売り場"
+      ]
+     ],
+     "tip": {
+      "zh": "展会对话高频。",
+      "ja": "展示会の会話で頻出。"
+     }
+    },
+    {
+     "w": "registration",
+     "pos": "n.",
+     "ipa": "/ˌrɛdʒɪˈstreɪʃən/",
+     "zh": "注册；报名；登记",
+     "ja": "登録；受付",
+     "ex": "Online registration closes on September 30.",
+     "ex_zh": "在线报名于 9 月 30 日截止。",
+     "ex_ja": "オンライン登録は 9 月 30 日に締め切られます。",
+     "parts": [
+      [
+       "re-",
+       "回",
+       "戻って"
+      ],
+      [
+       "gist",
+       "携带（gerere）",
+       "運ぶ"
+      ],
+      [
+       "-ration",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "中世纪拉丁语 registrum“记录簿”，来自 regerere“记录”。",
+      "ja": "中世ラテン語 registrum「記録簿」（regerere「書き留める」）から。"
+     },
+     "forms": [
+      [
+       "register (v.)",
+       "注册",
+       "登録する"
+      ],
+      [
+       "registration fee",
+       "报名费",
+       "登録料"
+      ]
+     ],
+     "tip": {
+      "zh": "early registration = 早鸟报名。",
+      "ja": "early registration＝早期登録。"
+     }
+    },
+    {
+     "w": "itinerary",
+     "pos": "n.",
+     "ipa": "/aɪˈtɪnəˌrɛri/",
+     "zh": "行程表",
+     "ja": "旅程表",
+     "ex": "The itinerary for the conference tour is attached.",
+     "ex_zh": "附上会议参观的行程表。",
+     "ex_ja": "会議ツアーの旅程表を添付します。",
+     "parts": [
+      [
+       "itiner",
+       "路程（iter）",
+       "道のり"
+      ],
+      [
+       "-ary",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "晚期拉丁语 itinerarium，来自 iter“旅程”。",
+      "ja": "後期ラテン語 itinerarium（iter「旅」）から。"
+     },
+     "forms": [
+      [
+       "travel itinerary",
+       "旅行行程",
+       "旅行日程"
+      ],
+      [
+       "revised itinerary",
+       "修订行程",
+       "改訂旅程"
+      ]
+     ],
+     "tip": {
+      "zh": "出差、活动邮件附件常见。",
+      "ja": "出張メールの添付で。"
+     }
+    },
+    {
+     "w": "underwrite",
+     "pos": "v.",
+     "ipa": "/ˌʌndɚˈraɪt/",
+     "zh": "承保；承销；资助",
+     "ja": "引き受ける；保証する",
+     "ex": "Three banks agreed to underwrite the corporate bond issue.",
+     "ex_zh": "三家银行同意承销这批公司债券。",
+     "ex_ja": "3 行が社債発行の引き受けに合意しました。",
+     "parts": [
+      [
+       "under-",
+       "在下",
+       "下に"
+      ],
+      [
+       "write",
+       "写",
+       "書く"
+      ]
+     ],
+     "note": {
+      "zh": "本族词 under + write；原指“签在保单底下”。没有可靠的拉丁词根拆分。",
+      "ja": "英語本来の語 under＋write。元は保険証券の下に署名すること。"
+     },
+     "forms": [
+      [
+       "underwriter (n.)",
+       "承销商；承保人",
+       "引受人"
+      ],
+      [
+       "underwriting (n.)",
+       "承销",
+       "引き受け"
+      ]
+     ],
+     "tip": {
+      "zh": "金融语境。",
+      "ja": "金融の文脈で。"
+     },
+     "hl": "underwrite"
+    },
+    {
+     "w": "banner",
+     "pos": "n.",
+     "ipa": "/ˈbænɚ/",
+     "zh": "横幅；旗帜",
+     "ja": "横断幕；旗",
+     "ex": "Volunteers hung a large banner over the entrance.",
+     "ex_zh": "志愿者在入口上方挂起一条大横幅。",
+     "ex_ja": "ボランティアが入口の上に大きな横断幕を掲げました。",
+     "parts": [
+      [
+       "banner",
+       "旗帜",
+       "旗"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 baniere，源自日耳曼语；没有可靠的拉丁词根拆分。",
+      "ja": "古フランス語 baniere（ゲルマン語起源）。"
+     },
+     "forms": [
+      [
+       "banner ad",
+       "横幅广告",
+       "バナー広告"
+      ],
+      [
+       "hang a banner",
+       "挂横幅",
+       "横断幕を掲げる"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1 照片描述可能出现。",
+      "ja": "Part 1 の写真描写で。"
+     }
+    },
+    {
+     "w": "fare",
+     "pos": "n.",
+     "ipa": "/fɛr/",
+     "zh": "车费；票价",
+     "ja": "運賃；料金",
+     "ex": "Round-trip bus fare to the convention center is $8.",
+     "ex_zh": "往返会展中心的公交票价是 8 美元。",
+     "ex_ja": "コンベンションセンターまでの往復バス運賃は 8 ドルです。",
+     "parts": [
+      [
+       "fare",
+       "旅行；费用",
+       "旅・料金"
+      ]
+     ],
+     "note": {
+      "zh": "古英语 fær“旅程”；本族词，没有可靠的拉丁词根拆分。",
+      "ja": "古英語 fær「旅」。英語本来の語。"
+     },
+     "forms": [
+      [
+       "airfare (n.)",
+       "机票价",
+       "航空運賃"
+      ],
+      [
+       "half fare",
+       "半价票",
+       "半額運賃"
+      ]
+     ],
+     "tip": {
+      "zh": "taxi fare / bus fare 常见。",
+      "ja": "タクシー運賃などで。"
+     }
+    },
+    {
+     "w": "souvenir",
+     "pos": "n.",
+     "ipa": "/ˌsuvəˈnɪr/",
+     "zh": "纪念品",
+     "ja": "記念品；土産",
+     "ex": "Every participant will receive a souvenir T-shirt.",
+     "ex_zh": "每位参与者都将获得一件纪念 T 恤。",
+     "ex_ja": "参加者全員に記念 T シャツが贈られます。",
+     "parts": [
+      [
+       "sou-",
+       "在下（=sub-）",
+       "下に"
+      ],
+      [
+       "venir",
+       "来（venire）",
+       "来る"
+      ]
+     ],
+     "note": {
+      "zh": "法语 souvenir“回忆”，来自拉丁语 subvenire“来到心头”。",
+      "ja": "フランス語 souvenir「思い出」（ラテン語 subvenire「心に浮かぶ」）から。"
+     },
+     "forms": [
+      [
+       "souvenir shop",
+       "纪念品店",
+       "土産物店"
+      ],
+      [
+       "keepsake (n.)",
+       "纪念品",
+       "記念品"
+      ]
+     ],
+     "tip": {
+      "zh": "旅行、活动语境。",
+      "ja": "旅行・イベントで。"
+     }
+    },
+    {
+     "w": "lineup",
+     "pos": "n.",
+     "ipa": "/ˈlaɪnˌʌp/",
+     "zh": "阵容；节目单",
+     "ja": "顔ぶれ；ラインアップ",
+     "ex": "This year's festival features an impressive lineup of speakers.",
+     "ex_zh": "今年的节庆活动演讲阵容强大。",
+     "ex_ja": "今年のフェスティバルは講演者の顔ぶれが豪華です。",
+     "parts": [
+      [
+       "line",
+       "排列",
+       "並べる"
+      ],
+      [
+       "up",
+       "向上",
+       "上へ"
+      ]
+     ],
+     "note": {
+      "zh": "本族词复合 line + up；没有可靠的拉丁词根拆分。",
+      "ja": "英語の複合語 line＋up。"
+     },
+     "forms": [
+      [
+       "product lineup",
+       "产品阵容",
+       "製品ラインアップ"
+      ],
+      [
+       "line up (v.)",
+       "排队；安排",
+       "並ぶ；手配する"
+      ]
+     ],
+     "tip": {
+      "zh": "也指“产品系列”。",
+      "ja": "製品の品ぞろえにも。"
+     }
+    },
+    {
+     "w": "showcase",
+     "pos": "v./n.",
+     "ipa": "/ˈʃoʊˌkeɪs/",
+     "zh": "展示；陈列柜",
+     "ja": "披露する；展示ケース",
+     "ex": "The fair showcases the latest products from local designers.",
+     "ex_zh": "展会展示本地设计师的最新产品。",
+     "ex_ja": "見本市では地元デザイナーの最新製品が紹介されます。",
+     "parts": [
+      [
+       "show",
+       "展示",
+       "見せる"
+      ],
+      [
+       "case",
+       "箱",
+       "箱"
+      ]
+     ],
+     "note": {
+      "zh": "本族词复合 show + case；没有可靠的拉丁词根拆分。",
+      "ja": "英語の複合語 show＋case。"
+     },
+     "forms": [
+      [
+       "showcase event",
+       "展示活动",
+       "発表イベント"
+      ],
+      [
+       "display case",
+       "陈列柜",
+       "陳列ケース"
+      ]
+     ],
+     "tip": {
+      "zh": "动词“展示、展现”更常见。",
+      "ja": "動詞「披露する」が頻出。"
+     },
+     "hl": "showcases"
+    },
+    {
+     "w": "commence",
+     "pos": "v.",
+     "ipa": "/kəˈmɛns/",
+     "zh": "开始",
+     "ja": "始まる；開始する",
+     "ex": "The ceremony will commence at 10 a.m. sharp.",
+     "ex_zh": "仪式将于上午 10 点整开始。",
+     "ex_ja": "式典は午前 10 時ちょうどに始まります。",
+     "parts": [
+      [
+       "com-",
+       "加强",
+       "強意"
+      ],
+      [
+       "mence",
+       "开始（initiare）",
+       "始める"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 comencier，来自通俗拉丁语 cominitiare“开始”。",
+      "ja": "古フランス語 comencier（俗ラテン語 cominitiare「始める」）から。"
+     },
+     "forms": [
+      [
+       "commencement (n.)",
+       "开始；毕业典礼",
+       "開始；卒業式"
+      ],
+      [
+       "commence work",
+       "开工",
+       "作業を始める"
+      ]
+     ],
+     "tip": {
+      "zh": "begin 的正式说法。",
+      "ja": "begin の改まった語。"
+     }
+    },
+    {
+     "w": "attendance",
+     "pos": "n.",
+     "ipa": "/əˈtɛndəns/",
+     "zh": "出席人数；出席",
+     "ja": "出席者数；出席",
+     "ex": "Attendance at this year's conference exceeded 2,000.",
+     "ex_zh": "今年大会的出席人数超过 2000 人。",
+     "ex_ja": "今年の会議の出席者は 2,000 人を超えました。",
+     "parts": [
+      [
+       "at-",
+       "朝向",
+       "〜へ"
+      ],
+      [
+       "tend",
+       "伸展",
+       "伸ばす"
+      ],
+      [
+       "-ance",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "attend（Day 6 词根 -tend-）+ -ance。",
+      "ja": "attend（Day 6 の -tend-）＋-ance。"
+     },
+     "forms": [
+      [
+       "attendance record",
+       "出勤记录",
+       "出席記録"
+      ],
+      [
+       "high attendance",
+       "出席率高",
+       "出席者が多い"
+      ]
+     ],
+     "tip": {
+      "zh": "指“出席人数”时常与 exceed / record 搭配。",
+      "ja": "「出席者数」の意味に注意。"
+     }
+    },
+    {
+     "w": "reception",
+     "pos": "n.",
+     "ipa": "/rɪˈsɛpʃən/",
+     "zh": "招待会；前台；接收",
+     "ja": "歓迎会；受付",
+     "ex": "A welcome reception will be held on the first evening.",
+     "ex_zh": "第一天晚上将举行欢迎招待会。",
+     "ex_ja": "初日の夜に歓迎レセプションが開かれます。",
+     "parts": [
+      [
+       "re-",
+       "回",
+       "戻って"
+      ],
+      [
+       "cept",
+       "拿（capere）",
+       "取る"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 receptio“接收”（Day 4 词根 -cept-）。",
+      "ja": "ラテン語 receptio「受け取ること」（Day 4 の -cept-）。"
+     },
+     "forms": [
+      [
+       "reception desk",
+       "接待处；前台",
+       "受付"
+      ],
+      [
+       "receptionist (n.)",
+       "前台接待",
+       "受付係"
+      ]
+     ],
+     "tip": {
+      "zh": "一词多义：招待会 / 前台 / 信号接收。",
+      "ja": "歓迎会・受付・電波受信。"
+     }
+    }
+   ]
+  }
+ ]
+}

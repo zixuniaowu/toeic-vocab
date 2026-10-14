@@ -1,0 +1,2804 @@
+{
+ "day": 11,
+ "date": "2026-10-19",
+ "title_zh": "四大词根 + 媒体出版与环境能源",
+ "title_ja": "4つの語根＋メディア・出版と環境・エネルギー",
+ "intro_zh": "今天掌握 4 个高频词根（leg·lect 选、读 / pet 寻求 / nounce·nunc 宣告 / quir·quis 寻求），再学媒体出版和环境能源的核心词——强化 Part 4 新闻广播和 Part 7 报道、环保通知的阅读。",
+ "intro_ja": "今日は語根 4 つ（leg·lect 選ぶ・読む／pet 求める／nounce·nunc 告げる／quir·quis 求める）と、メディア・出版、環境・エネルギーの重要語を学びます。Part 4 のニュース放送と Part 7 の記事・環境のお知らせの読解を強化します。",
+ "voice": "en-US-AriaNeural",
+ "roots": [
+  {
+   "root": "-leg- / -lect- / -lig-",
+   "origin": "Latin legere / lectus",
+   "zh": "选择；读；收集",
+   "ja": "選ぶ；読む；集める",
+   "exp_zh": "来自拉丁语 legere（收集、选择、阅读；过去分词 lectus）。col-（收集到一起 → 收集）、se-（分开挑 → 选择）、e-（挑出 → 选举）、neg-（不去选 → 忽视）、e- + lig（可被选出的 → 有资格的）、intel-（在其间选择 → 智力）。⚠️ legal（合法的）来自 lex“法律”，与 legere 不同；lecture 已在 Day 10 出现。",
+   "exp_ja": "ラテン語 legere（集める・選ぶ・読む、過去分詞 lectus）から。col-（集める）、se-（選び分ける）、e-（選び出す → 選挙）、neg-（選ばない → 怠る）、e-＋lig（選ばれ得る → 資格のある）、intel-（間から選ぶ → 知性）。⚠️ legal は lex「法」由来で別。lecture は Day 10 に既出。",
+   "examples": [
+    "collect",
+    "select",
+    "elect",
+    "neglect",
+    "eligible",
+    "intellectual",
+    "legible",
+    "recollect"
+   ]
+  },
+  {
+   "root": "-pet-",
+   "origin": "Latin petere",
+   "zh": "寻求；奔向",
+   "ja": "求める；目指す",
+   "exp_zh": "来自拉丁语 petere（寻求、奔向）。com-（一起追求 → 竞争）、com-（一起追得上 → 胜任的）、re-（反复寻求 → 重复）、im-（向内冲 → 推动力）。⚠️ petition 在 Day 10 已学；appetite（食欲，“追求食物”）也同源；pet（宠物）无关。",
+   "exp_ja": "ラテン語 petere（求める・向かう）から。com-（共に求める → 競う）、com-（追いつける → 有能な）、re-（繰り返し求める → 繰り返す）、im-（中へ突進 → 推進力）。⚠️ petition は Day 10 に既出。appetite も同源。pet（ペット）は無関係。",
+   "examples": [
+    "compete",
+    "competent",
+    "competitive",
+    "repetitive",
+    "impetus",
+    "perpetual",
+    "centripetal",
+    "competency"
+   ]
+  },
+  {
+   "root": "-nounce- / -nunc-",
+   "origin": "Latin nuntiare",
+   "zh": "宣告；通报",
+   "ja": "告げる；知らせる",
+   "exp_zh": "来自拉丁语 nuntiare（宣告），nuntius“使者”。an-（向…宣布 → 宣布）、pro-（向前说 → 发音、宣判）、de-（向下说 → 谴责）、re-（往回说 → 放弃）。⚠️ 动词 -nounce，名词变为 -nunciation：pronounce → pronunciation（不是 pronounciation）。",
+   "exp_ja": "ラテン語 nuntiare（告げる）、nuntius「使者」から。an-（〜へ告げる → 発表する）、pro-（前へ言う → 発音する）、de-（非難する）、re-（放棄する）。⚠️ 名詞は -nunciation：pronunciation（pronounciation ではない）。",
+   "examples": [
+    "announce",
+    "pronounce",
+    "pronunciation",
+    "denounce",
+    "renounce",
+    "announcement",
+    "annunciator",
+    "enunciate"
+   ]
+  },
+  {
+   "root": "-quir- / -quis- / -quest-",
+   "origin": "Latin quaerere / quaesitus",
+   "zh": "寻求；询问",
+   "ja": "求める；尋ねる",
+   "exp_zh": "来自拉丁语 quaerere（寻求、询问；过去分词 quaesitus）。ac-（求得 → 获得）、re-（再求 → 要求）、con-（彻底求得 → 征服）、ex-（求出来的 → 精美的）、-quest-：request、question、conquest。⚠️ inquiry、inquire 已学过（Day 1/7）；quiet（安静）不同源。",
+   "exp_ja": "ラテン語 quaerere（求める・尋ねる、過去分詞 quaesitus）から。ac-（求めて得る → 獲得する）、re-（再び求める → 必要とする）、con-（求め尽くす → 征服する）、ex-（探し出された → 精巧な）、-quest-：request・question・conquest。⚠️ inquiry は既出。quiet は別語源。",
+   "examples": [
+    "acquire",
+    "require",
+    "acquisition",
+    "exquisite",
+    "conquer",
+    "request",
+    "questionnaire",
+    "requisite"
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "leg",
+   "title_zh": "词根 -leg- / -lect- / -lig-：选、读、收集",
+   "title_ja": "語根 -leg- / -lect- / -lig-：選ぶ・読む・集める",
+   "words": [
+    {
+     "w": "collect",
+     "pos": "v.",
+     "ipa": "/kəˈlɛkt/",
+     "zh": "收集；领取",
+     "ja": "集める；受け取る",
+     "ex": "You can collect your order at the front counter.",
+     "ex_zh": "您可以在前台领取订单。",
+     "ex_ja": "ご注文の品はフロントカウンターでお受け取りいただけます。",
+     "parts": [
+      [
+       "col-",
+       "一起（=con-）",
+       "共に"
+      ],
+      [
+       "lect",
+       "收集",
+       "集める"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 colligere“收集到一起”（过去分词 collectus）。",
+      "ja": "ラテン語 colligere「集める」（過去分詞 collectus）。"
+     },
+     "forms": [
+      [
+       "collection (n.)",
+       "收藏；收集",
+       "収集"
+      ],
+      [
+       "collect a package",
+       "取包裹",
+       "荷物を受け取る"
+      ]
+     ],
+     "tip": {
+      "zh": "英式 collect = 领取（pick up）。",
+      "ja": "「受け取る」の意味に注意。"
+     }
+    },
+    {
+     "w": "select",
+     "pos": "v./adj.",
+     "ipa": "/səˈlɛkt/",
+     "zh": "挑选；精选的",
+     "ja": "選ぶ；えり抜きの",
+     "ex": "Select items are on sale this weekend only.",
+     "ex_zh": "部分精选商品仅本周末打折。",
+     "ex_ja": "一部の商品は今週末限定でセール中です。",
+     "parts": [
+      [
+       "se-",
+       "分开",
+       "離して"
+      ],
+      [
+       "lect",
+       "选择",
+       "選ぶ"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 seligere“挑出”（过去分词 selectus）。",
+      "ja": "ラテン語 seligere「選び出す」（過去分詞 selectus）。"
+     },
+     "forms": [
+      [
+       "selection (n.)",
+       "选择；品种",
+       "品ぞろえ"
+      ],
+      [
+       "selective (adj.)",
+       "有选择的",
+       "選択的な"
+      ]
+     ],
+     "tip": {
+      "zh": "广告：select items = 部分商品。",
+      "ja": "select items＝一部商品。"
+     }
+    },
+    {
+     "w": "elect",
+     "pos": "v.",
+     "ipa": "/ɪˈlɛkt/",
+     "zh": "选举；推选",
+     "ja": "選出する",
+     "ex": "Ms. Ortiz was elected chair of the editorial board.",
+     "ex_zh": "奥尔蒂斯女士当选为编辑委员会主席。",
+     "ex_ja": "オルティス氏が編集委員会の委員長に選出されました。",
+     "parts": [
+      [
+       "e-",
+       "向外",
+       "外へ"
+      ],
+      [
+       "lect",
+       "选择",
+       "選ぶ"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 eligere“选出”（过去分词 electus）。",
+      "ja": "ラテン語 eligere「選び出す」（過去分詞 electus）。"
+     },
+     "forms": [
+      [
+       "election (n.)",
+       "选举",
+       "選挙"
+      ],
+      [
+       "elected official",
+       "民选官员",
+       "選挙で選ばれた公職者"
+      ]
+     ],
+     "tip": {
+      "zh": "be elected (as) + 职位，职位前不加冠词。",
+      "ja": "役職名に冠詞は不要。"
+     },
+     "hl": "elected"
+    },
+    {
+     "w": "neglect",
+     "pos": "v./n.",
+     "ipa": "/nɪˈɡlɛkt/",
+     "zh": "忽视；疏忽",
+     "ja": "怠る；放置",
+     "ex": "Do not neglect regular maintenance of your equipment.",
+     "ex_zh": "不要忽视设备的定期维护。",
+     "ex_ja": "機器の定期保守を怠らないでください。",
+     "parts": [
+      [
+       "neg-",
+       "不",
+       "〜しない"
+      ],
+      [
+       "lect",
+       "选；注意",
+       "選ぶ"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 neglegere“不去选、不在意”。",
+      "ja": "ラテン語 neglegere「選ばない・気にかけない」。"
+     },
+     "forms": [
+      [
+       "negligence (n.)",
+       "疏忽",
+       "怠慢"
+      ],
+      [
+       "neglect to do",
+       "忘了做",
+       "〜し忘れる"
+      ]
+     ],
+     "tip": {
+      "zh": "negligible（可忽略的）也同源。",
+      "ja": "negligible も同源。"
+     }
+    },
+    {
+     "w": "eligible",
+     "pos": "adj.",
+     "ipa": "/ˈɛlɪdʒəbəl/",
+     "zh": "有资格的；合格的",
+     "ja": "資格のある；対象となる",
+     "ex": "Full-time employees are eligible for the bonus program.",
+     "ex_zh": "全职员工有资格参加奖金计划。",
+     "ex_ja": "正社員はボーナス制度の対象となります。",
+     "parts": [
+      [
+       "e-",
+       "向外",
+       "外へ"
+      ],
+      [
+       "lig",
+       "选择",
+       "選ぶ"
+      ],
+      [
+       "-ible",
+       "能…的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "晚期拉丁语 eligibilis“可被选出的”。",
+      "ja": "後期ラテン語 eligibilis「選ばれ得る」。"
+     },
+     "forms": [
+      [
+       "eligibility (n.)",
+       "资格",
+       "資格"
+      ],
+      [
+       "be eligible for",
+       "有资格获得",
+       "〜の対象となる"
+      ]
+     ],
+     "tip": {
+      "zh": "be eligible for / to do 是 Part 5 高频。",
+      "ja": "Part 5 で頻出。"
+     }
+    },
+    {
+     "w": "intellectual",
+     "pos": "adj./n.",
+     "ipa": "/ˌɪntəˈlɛktʃuəl/",
+     "zh": "智力的；知识分子",
+     "ja": "知的な；知識人",
+     "ex": "The company takes intellectual property rights very seriously.",
+     "ex_zh": "公司非常重视知识产权。",
+     "ex_ja": "同社は知的財産権を非常に重視しています。",
+     "parts": [
+      [
+       "intel-",
+       "在…之间（=inter-）",
+       "間に"
+      ],
+      [
+       "lect",
+       "选择",
+       "選ぶ"
+      ],
+      [
+       "-ual",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 intellectus“理解”（intellegere“在其间选择 → 理解”）。",
+      "ja": "ラテン語 intellectus（intellegere「間から選ぶ → 理解する」）。"
+     },
+     "forms": [
+      [
+       "intellectual property",
+       "知识产权",
+       "知的財産"
+      ],
+      [
+       "intellect (n.)",
+       "智力",
+       "知性"
+      ]
+     ],
+     "tip": {
+      "zh": "intellectual property (IP) 是出版、科技高频词。",
+      "ja": "出版・IT で頻出。"
+     }
+    },
+    {
+     "w": "legible",
+     "pos": "adj.",
+     "ipa": "/ˈlɛdʒəbəl/",
+     "zh": "字迹清楚的；易读的",
+     "ja": "読みやすい",
+     "ex": "Please make sure your handwriting is legible.",
+     "ex_zh": "请确保字迹清晰可读。",
+     "ex_ja": "筆跡が読みやすいことを確認してください。",
+     "parts": [
+      [
+       "leg",
+       "读",
+       "読む"
+      ],
+      [
+       "-ible",
+       "能…的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "晚期拉丁语 legibilis“可读的”。",
+      "ja": "後期ラテン語 legibilis「読める」。"
+     },
+     "forms": [
+      [
+       "illegible (adj.)",
+       "难以辨认的",
+       "判読しにくい"
+      ],
+      [
+       "legibility (n.)",
+       "易读性",
+       "読みやすさ"
+      ]
+     ],
+     "tip": {
+      "zh": "表格填写说明常见：print legibly。",
+      "ja": "書類記入の注意で。"
+     }
+    },
+    {
+     "w": "recollect",
+     "pos": "v.",
+     "ipa": "/ˌrɛkəˈlɛkt/",
+     "zh": "回忆；想起",
+     "ja": "思い出す",
+     "ex": "I can't recollect the exact date of the interview.",
+     "ex_zh": "我想不起面试的具体日期了。",
+     "ex_ja": "面接の正確な日付が思い出せません。",
+     "parts": [
+      [
+       "re-",
+       "再",
+       "再び"
+      ],
+      [
+       "col-",
+       "一起",
+       "共に"
+      ],
+      [
+       "lect",
+       "收集",
+       "集める"
+      ]
+     ],
+     "note": {
+      "zh": "中世纪拉丁语 recolligere“重新收集（记忆）”。",
+      "ja": "中世ラテン語 recolligere「再び集める」。"
+     },
+     "forms": [
+      [
+       "recollection (n.)",
+       "回忆",
+       "記憶"
+      ],
+      [
+       "to the best of my recollection",
+       "就我记忆所及",
+       "記憶する限りでは"
+      ]
+     ],
+     "tip": {
+      "zh": "同义 recall / remember。",
+      "ja": "recall と同義。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "pet",
+   "title_zh": "词根 -pet-：寻求、奔向",
+   "title_ja": "語根 -pet-：求める・目指す",
+   "words": [
+    {
+     "w": "compete",
+     "pos": "v.",
+     "ipa": "/kəmˈpit/",
+     "zh": "竞争；比赛",
+     "ja": "競争する",
+     "ex": "Small bookstores struggle to compete with online retailers.",
+     "ex_zh": "小书店难以与网络零售商竞争。",
+     "ex_ja": "小さな書店はネット小売業者との競争に苦戦しています。",
+     "parts": [
+      [
+       "com-",
+       "一起",
+       "共に"
+      ],
+      [
+       "pet",
+       "寻求",
+       "求める"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 competere“一起追求”。",
+      "ja": "ラテン語 competere「共に求める」。"
+     },
+     "forms": [
+      [
+       "competition (n.)",
+       "竞争；比赛",
+       "競争"
+      ],
+      [
+       "competitor (n.)",
+       "竞争对手",
+       "競合他社"
+      ]
+     ],
+     "tip": {
+      "zh": "compete with / against。",
+      "ja": "compete with の形。"
+     }
+    },
+    {
+     "w": "competent",
+     "pos": "adj.",
+     "ipa": "/ˈkɑmpətənt/",
+     "zh": "胜任的；能干的",
+     "ja": "有能な；適任の",
+     "ex": "We are looking for a competent editor with five years of experience.",
+     "ex_zh": "我们在寻找一位有五年经验、能胜任工作的编辑。",
+     "ex_ja": "5 年の経験を持つ有能な編集者を募集しています。",
+     "parts": [
+      [
+       "com-",
+       "一起",
+       "共に"
+      ],
+      [
+       "pet",
+       "寻求",
+       "求める"
+      ],
+      [
+       "-ent",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 competens“适合的、能胜任的”。",
+      "ja": "ラテン語 competens「適した」。"
+     },
+     "forms": [
+      [
+       "competence (n.)",
+       "能力",
+       "能力"
+      ],
+      [
+       "incompetent (adj.)",
+       "不胜任的",
+       "無能な"
+      ]
+     ],
+     "tip": {
+      "zh": "competent（胜任）≠ competitive（有竞争力）。",
+      "ja": "competitive と区別。"
+     }
+    },
+    {
+     "w": "competitive",
+     "pos": "adj.",
+     "ipa": "/kəmˈpɛtətɪv/",
+     "zh": "有竞争力的；竞争激烈的",
+     "ja": "競争力のある；競争の激しい",
+     "ex": "We offer a competitive salary and flexible hours.",
+     "ex_zh": "我们提供有竞争力的薪资和弹性工作时间。",
+     "ex_ja": "競争力のある給与と柔軟な勤務時間を提供します。",
+     "parts": [
+      [
+       "com-",
+       "一起",
+       "共に"
+      ],
+      [
+       "pet",
+       "寻求",
+       "求める"
+      ],
+      [
+       "-itive",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "compete + -itive。",
+      "ja": "compete＋-itive。"
+     },
+     "forms": [
+      [
+       "competitive price",
+       "有竞争力的价格",
+       "他社に負けない価格"
+      ],
+      [
+       "competitively (adv.)",
+       "有竞争力地",
+       "競争力をもって"
+      ]
+     ],
+     "tip": {
+      "zh": "招聘、价格广告高频。",
+      "ja": "求人・価格広告で頻出。"
+     }
+    },
+    {
+     "w": "repetitive",
+     "pos": "adj.",
+     "ipa": "/rɪˈpɛtətɪv/",
+     "zh": "重复的；单调的",
+     "ja": "反復的な；単調な",
+     "ex": "Robots now handle many repetitive tasks in the warehouse.",
+     "ex_zh": "机器人如今承担了仓库里许多重复性工作。",
+     "ex_ja": "今では倉庫の多くの反復作業をロボットが担っています。",
+     "parts": [
+      [
+       "re-",
+       "再",
+       "再び"
+      ],
+      [
+       "pet",
+       "寻求",
+       "求める"
+      ],
+      [
+       "-itive",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "repeat（拉丁语 repetere“再次寻求”）派生。",
+      "ja": "repeat（ラテン語 repetere「再び求める」）から。"
+     },
+     "forms": [
+      [
+       "repeat (v.)",
+       "重复",
+       "繰り返す"
+      ],
+      [
+       "repetition (n.)",
+       "重复",
+       "反復"
+      ]
+     ],
+     "tip": {
+      "zh": "repetitive strain injury = 重复性劳损。",
+      "ja": "単調作業の文脈で。"
+     }
+    },
+    {
+     "w": "impetus",
+     "pos": "n.",
+     "ipa": "/ˈɪmpətəs/",
+     "zh": "推动力；动力",
+     "ja": "推進力；はずみ",
+     "ex": "The new subsidy gave fresh impetus to solar energy projects.",
+     "ex_zh": "新补贴为太阳能项目注入了新的动力。",
+     "ex_ja": "新しい補助金が太陽光発電事業に新たな弾みを与えました。",
+     "parts": [
+      [
+       "im-",
+       "向内",
+       "中へ"
+      ],
+      [
+       "pet",
+       "奔向",
+       "向かう"
+      ],
+      [
+       "-us",
+       "名词词尾",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 impetus“冲击、冲力”，来自 impetere“冲向”。",
+      "ja": "ラテン語 impetus「突進」（impetere「襲いかかる」）から。"
+     },
+     "forms": [
+      [
+       "give impetus to",
+       "推动",
+       "〜に弾みをつける"
+      ],
+      [
+       "impetuous (adj.)",
+       "冲动的",
+       "性急な"
+      ]
+     ],
+     "tip": {
+      "zh": "读 /ˈɪmpətəs/。",
+      "ja": "発音 /ˈɪmpətəs/。"
+     }
+    },
+    {
+     "w": "perpetual",
+     "pos": "adj.",
+     "ipa": "/pɚˈpɛtʃuəl/",
+     "zh": "永久的；不断的",
+     "ja": "永続的な；絶え間ない",
+     "ex": "The software license is perpetual, so there are no annual fees.",
+     "ex_zh": "该软件许可是永久的，所以没有年费。",
+     "ex_ja": "このソフトのライセンスは永続的なので年会費はかかりません。",
+     "parts": [
+      [
+       "per-",
+       "始终",
+       "通して"
+      ],
+      [
+       "pet",
+       "奔向",
+       "向かう"
+      ],
+      [
+       "-ual",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 perpetuus“持续向前的”。",
+      "ja": "ラテン語 perpetuus「絶えず続く」。"
+     },
+     "forms": [
+      [
+       "perpetuate (v.)",
+       "使永久化",
+       "永続させる"
+      ],
+      [
+       "perpetual license",
+       "永久许可",
+       "永久ライセンス"
+      ]
+     ],
+     "tip": {
+      "zh": "软件授权：perpetual vs subscription。",
+      "ja": "ソフトのライセンス形態で。"
+     }
+    },
+    {
+     "w": "centripetal",
+     "pos": "adj.",
+     "ipa": "/sɛnˈtrɪpətəl/",
+     "zh": "向心的",
+     "ja": "求心的な",
+     "ex": "Engineers measured the centripetal force on the spinning drum.",
+     "ex_zh": "工程师测量了旋转滚筒的向心力。",
+     "ex_ja": "技術者は回転するドラムにかかる求心力を測定しました。",
+     "parts": [
+      [
+       "centr",
+       "中心",
+       "中心"
+      ],
+      [
+       "pet",
+       "奔向",
+       "向かう"
+      ],
+      [
+       "-al",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "新拉丁语 centripetus“奔向中心的”。",
+      "ja": "新ラテン語 centripetus「中心へ向かう」。"
+     },
+     "forms": [
+      [
+       "centripetal force",
+       "向心力",
+       "求心力"
+      ],
+      [
+       "centrifugal (adj.)",
+       "离心的",
+       "遠心の"
+      ]
+     ],
+     "tip": {
+      "zh": "进阶科技词，帮助理解词根。",
+      "ja": "上級語。語根理解用。"
+     }
+    },
+    {
+     "w": "competency",
+     "pos": "n.",
+     "ipa": "/ˈkɑmpətənsi/",
+     "zh": "能力；胜任力",
+     "ja": "能力；適性",
+     "ex": "The training program focuses on core leadership competencies.",
+     "ex_zh": "培训项目着重培养核心领导能力。",
+     "ex_ja": "研修プログラムは中核となるリーダーシップ能力に重点を置いています。",
+     "parts": [
+      [
+       "com-",
+       "一起",
+       "共に"
+      ],
+      [
+       "pet",
+       "寻求",
+       "求める"
+      ],
+      [
+       "-ency",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 competentia“适合”。",
+      "ja": "ラテン語 competentia「適合」。"
+     },
+     "forms": [
+      [
+       "core competency",
+       "核心能力",
+       "中核的能力"
+      ],
+      [
+       "competency test",
+       "能力测试",
+       "能力試験"
+      ]
+     ],
+     "tip": {
+      "zh": "HR 语境，常用复数。",
+      "ja": "人事の文脈で。"
+     },
+     "hl": "competencies"
+    }
+   ]
+  },
+  {
+   "id": "nounce",
+   "title_zh": "词根 -nounce- / -nunc-：宣告",
+   "title_ja": "語根 -nounce- / -nunc-：告げる",
+   "words": [
+    {
+     "w": "announce",
+     "pos": "v.",
+     "ipa": "/əˈnaʊns/",
+     "zh": "宣布；通告",
+     "ja": "発表する；知らせる",
+     "ex": "The publisher announced the release date of the new novel.",
+     "ex_zh": "出版社公布了新小说的发行日期。",
+     "ex_ja": "出版社は新作小説の発売日を発表しました。",
+     "parts": [
+      [
+       "an-",
+       "朝向（=ad-）",
+       "〜へ"
+      ],
+      [
+       "nounce",
+       "宣告",
+       "告げる"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 annuntiare“向…宣告”。",
+      "ja": "ラテン語 annuntiare「〜に告げる」。"
+     },
+     "forms": [
+      [
+       "announcement (n.)",
+       "公告",
+       "発表"
+      ],
+      [
+       "announcer (n.)",
+       "播音员",
+       "アナウンサー"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 4 设问：What is being announced?",
+      "ja": "Part 4 の設問で頻出。"
+     },
+     "hl": "announced"
+    },
+    {
+     "w": "pronounce",
+     "pos": "v.",
+     "ipa": "/prəˈnaʊns/",
+     "zh": "发音；宣布",
+     "ja": "発音する；宣言する",
+     "ex": "How do you pronounce the name of the new CEO?",
+     "ex_zh": "新任首席执行官的名字怎么念？",
+     "ex_ja": "新しい CEO の名前はどう発音しますか。",
+     "parts": [
+      [
+       "pro-",
+       "向前",
+       "前へ"
+      ],
+      [
+       "nounce",
+       "宣告",
+       "告げる"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 pronuntiare“向前宣告、宣读”。",
+      "ja": "ラテン語 pronuntiare「公に告げる」。"
+     },
+     "forms": [
+      [
+       "pronunciation (n.)",
+       "发音",
+       "発音"
+      ],
+      [
+       "pronounced (adj.)",
+       "明显的",
+       "顕著な"
+      ]
+     ],
+     "tip": {
+      "zh": "名词拼写 pronunciation（无 o）。",
+      "ja": "名詞のつづりに注意。"
+     }
+    },
+    {
+     "w": "pronunciation",
+     "pos": "n.",
+     "ipa": "/prəˌnʌnsiˈeɪʃən/",
+     "zh": "发音",
+     "ja": "発音",
+     "ex": "The audio guide helps learners check their pronunciation.",
+     "ex_zh": "音频指南帮助学习者检查发音。",
+     "ex_ja": "音声ガイドは学習者が発音を確認するのに役立ちます。",
+     "parts": [
+      [
+       "pro-",
+       "向前",
+       "前へ"
+      ],
+      [
+       "nunci",
+       "宣告",
+       "告げる"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 pronuntiatio。",
+      "ja": "ラテン語 pronuntiatio。"
+     },
+     "forms": [
+      [
+       "correct pronunciation",
+       "正确发音",
+       "正しい発音"
+      ],
+      [
+       "pronounce (v.)",
+       "发音",
+       "発音する"
+      ]
+     ],
+     "tip": {
+      "zh": "⚠️ 拼写 -nunciation，不是 -nounciation。",
+      "ja": "つづり -nunciation に注意。"
+     }
+    },
+    {
+     "w": "denounce",
+     "pos": "v.",
+     "ipa": "/dɪˈnaʊns/",
+     "zh": "谴责；公开指责",
+     "ja": "非難する",
+     "ex": "Environmental groups denounced the plan to build a new coal plant.",
+     "ex_zh": "环保团体谴责新建燃煤电厂的计划。",
+     "ex_ja": "環境団体は新しい石炭火力発電所の建設計画を非難しました。",
+     "parts": [
+      [
+       "de-",
+       "向下",
+       "下へ"
+      ],
+      [
+       "nounce",
+       "宣告",
+       "告げる"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 denuntiare“正式宣告、警告”。",
+      "ja": "ラテン語 denuntiare「公に告げる・警告する」。"
+     },
+     "forms": [
+      [
+       "denunciation (n.)",
+       "谴责",
+       "非難"
+      ],
+      [
+       "publicly denounce",
+       "公开谴责",
+       "公然と非難する"
+      ]
+     ],
+     "tip": {
+      "zh": "新闻报道常见。",
+      "ja": "ニュースで使う。"
+     },
+     "hl": "denounced"
+    },
+    {
+     "w": "renounce",
+     "pos": "v.",
+     "ipa": "/rɪˈnaʊns/",
+     "zh": "放弃；声明断绝",
+     "ja": "放棄する",
+     "ex": "He renounced his claim to the family business.",
+     "ex_zh": "他放弃了对家族企业的继承权。",
+     "ex_ja": "彼は家業に対する権利を放棄しました。",
+     "parts": [
+      [
+       "re-",
+       "向后",
+       "後ろへ"
+      ],
+      [
+       "nounce",
+       "宣告",
+       "告げる"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 renuntiare“宣告放弃”。",
+      "ja": "ラテン語 renuntiare「放棄を告げる」。"
+     },
+     "forms": [
+      [
+       "renunciation (n.)",
+       "放弃",
+       "放棄"
+      ],
+      [
+       "renounce a right",
+       "放弃权利",
+       "権利を放棄する"
+      ]
+     ],
+     "tip": {
+      "zh": "同义 give up（正式）。",
+      "ja": "give up の改まった語。"
+     },
+     "hl": "renounced"
+    },
+    {
+     "w": "announcement",
+     "pos": "n.",
+     "ipa": "/əˈnaʊnsmənt/",
+     "zh": "公告；通知",
+     "ja": "お知らせ；発表",
+     "ex": "Please listen carefully to the following announcement.",
+     "ex_zh": "请仔细收听以下通知。",
+     "ex_ja": "以下のお知らせをよくお聞きください。",
+     "parts": [
+      [
+       "an-",
+       "朝向",
+       "〜へ"
+      ],
+      [
+       "nounce",
+       "宣告",
+       "告げる"
+      ],
+      [
+       "-ment",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "announce + -ment。",
+      "ja": "announce＋-ment。"
+     },
+     "forms": [
+      [
+       "make an announcement",
+       "发布通知",
+       "発表する"
+      ],
+      [
+       "press announcement",
+       "新闻公告",
+       "報道発表"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 4 开头套话。",
+      "ja": "Part 4 の冒頭で頻出。"
+     }
+    },
+    {
+     "w": "annunciator",
+     "pos": "n.",
+     "ipa": "/əˈnʌnsiˌeɪtɚ/",
+     "zh": "信号显示器；通报器",
+     "ja": "表示器；警報表示盤",
+     "ex": "The annunciator panel shows which floor the elevator is on.",
+     "ex_zh": "信号显示面板显示电梯所在楼层。",
+     "ex_ja": "表示盤にはエレベーターのいる階が表示されます。",
+     "parts": [
+      [
+       "an-",
+       "朝向",
+       "〜へ"
+      ],
+      [
+       "nunci",
+       "宣告",
+       "告げる"
+      ],
+      [
+       "-ator",
+       "表示物",
+       "〜するもの"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 annuntiator“宣告者”。",
+      "ja": "ラテン語 annuntiator「告げる者」。"
+     },
+     "forms": [
+      [
+       "annunciator panel",
+       "信号面板",
+       "表示盤"
+      ],
+      [
+       "alarm panel",
+       "警报面板",
+       "警報盤"
+      ]
+     ],
+     "tip": {
+      "zh": "设施/技术进阶词，理解词根即可。",
+      "ja": "上級語。語根理解用。"
+     }
+    },
+    {
+     "w": "enunciate",
+     "pos": "v.",
+     "ipa": "/ɪˈnʌnsiˌeɪt/",
+     "zh": "清楚地发音；阐明",
+     "ja": "はっきり発音する；明確に述べる",
+     "ex": "Speakers should enunciate clearly when using a microphone.",
+     "ex_zh": "使用麦克风时，演讲者应吐字清晰。",
+     "ex_ja": "マイクを使うときは、話し手ははっきり発音すべきです。",
+     "parts": [
+      [
+       "e-",
+       "向外",
+       "外へ"
+      ],
+      [
+       "nunci",
+       "宣告",
+       "告げる"
+      ],
+      [
+       "-ate",
+       "动词后缀",
+       "動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 enuntiare“说出来”。",
+      "ja": "ラテン語 enuntiare「言い表す」。"
+     },
+     "forms": [
+      [
+       "enunciation (n.)",
+       "发音；阐明",
+       "明瞭な発音"
+      ],
+      [
+       "articulate (v.)",
+       "清楚表达",
+       "はっきり述べる"
+      ]
+     ],
+     "tip": {
+      "zh": "同义 articulate。",
+      "ja": "articulate と同義。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "quir",
+   "title_zh": "词根 -quir- / -quis- / -quest-：寻求",
+   "title_ja": "語根 -quir- / -quis- / -quest-：求める",
+   "words": [
+    {
+     "w": "acquire",
+     "pos": "v.",
+     "ipa": "/əˈkwaɪɚ/",
+     "zh": "获得；收购",
+     "ja": "獲得する；買収する",
+     "ex": "The media group plans to acquire two regional newspapers.",
+     "ex_zh": "这家传媒集团计划收购两家地方报纸。",
+     "ex_ja": "そのメディアグループは地方紙 2 紙の買収を計画しています。",
+     "parts": [
+      [
+       "ac-",
+       "朝向（=ad-）",
+       "〜へ"
+      ],
+      [
+       "quir",
+       "寻求",
+       "求める"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 acquirere“求得”。",
+      "ja": "ラテン語 acquirere「求めて得る」。"
+     },
+     "forms": [
+      [
+       "acquisition (n.)",
+       "收购；获得",
+       "買収"
+      ],
+      [
+       "acquired (adj.)",
+       "后天获得的",
+       "習得した"
+      ]
+     ],
+     "tip": {
+      "zh": "企业新闻：acquire / acquisition（收购）。",
+      "ja": "企業ニュースで頻出。"
+     }
+    },
+    {
+     "w": "require",
+     "pos": "v.",
+     "ipa": "/rɪˈkwaɪɚ/",
+     "zh": "需要；要求",
+     "ja": "必要とする；要求する",
+     "ex": "All visitors are required to sign in at reception.",
+     "ex_zh": "所有访客须在前台登记。",
+     "ex_ja": "来訪者は全員、受付で記帳する必要があります。",
+     "parts": [
+      [
+       "re-",
+       "再",
+       "再び"
+      ],
+      [
+       "quir",
+       "寻求",
+       "求める"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 requirere“再次寻求”。",
+      "ja": "ラテン語 requirere「再び求める」。"
+     },
+     "forms": [
+      [
+       "requirement (n.)",
+       "要求；必要条件",
+       "必要条件"
+      ],
+      [
+       "be required to do",
+       "必须做",
+       "〜する必要がある"
+      ]
+     ],
+     "tip": {
+      "zh": "be required to do 是通知高频句型。",
+      "ja": "通知で頻出。"
+     },
+     "hl": "required"
+    },
+    {
+     "w": "acquisition",
+     "pos": "n.",
+     "ipa": "/ˌækwəˈzɪʃən/",
+     "zh": "收购；获得",
+     "ja": "買収；獲得",
+     "ex": "The acquisition of the magazine was completed last month.",
+     "ex_zh": "该杂志的收购上个月完成。",
+     "ex_ja": "その雑誌の買収は先月完了しました。",
+     "parts": [
+      [
+       "ac-",
+       "朝向",
+       "〜へ"
+      ],
+      [
+       "quis",
+       "寻求",
+       "求める"
+      ],
+      [
+       "-ition",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 acquisitio“获得”。",
+      "ja": "ラテン語 acquisitio「獲得」。"
+     },
+     "forms": [
+      [
+       "mergers and acquisitions (M&A)",
+       "并购",
+       "合併・買収"
+      ],
+      [
+       "language acquisition",
+       "语言习得",
+       "言語習得"
+      ]
+     ],
+     "tip": {
+      "zh": "M&A = mergers and acquisitions。",
+      "ja": "M&A の A。"
+     }
+    },
+    {
+     "w": "exquisite",
+     "pos": "adj.",
+     "ipa": "/ɪkˈskwɪzɪt/",
+     "zh": "精美的；精致的",
+     "ja": "精巧な；極上の",
+     "ex": "The hotel restaurant serves exquisite French cuisine.",
+     "ex_zh": "酒店餐厅提供精致的法式料理。",
+     "ex_ja": "ホテルのレストランでは極上のフランス料理を提供しています。",
+     "parts": [
+      [
+       "ex-",
+       "向外",
+       "外へ"
+      ],
+      [
+       "quis",
+       "寻求",
+       "求める"
+      ],
+      [
+       "-ite",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 exquisitus“精心寻得的”。",
+      "ja": "ラテン語 exquisitus「探し出された」。"
+     },
+     "forms": [
+      [
+       "exquisitely (adv.)",
+       "精美地",
+       "見事に"
+      ],
+      [
+       "exquisite taste",
+       "高雅品味",
+       "洗練された趣味"
+      ]
+     ],
+     "tip": {
+      "zh": "重音也可在首音节 /ˈɛkskwɪzɪt/。",
+      "ja": "第 1 音節強勢も可。"
+     }
+    },
+    {
+     "w": "conquer",
+     "pos": "v.",
+     "ipa": "/ˈkɑŋkɚ/",
+     "zh": "征服；攻克",
+     "ja": "征服する；克服する",
+     "ex": "The company hopes to conquer the Asian market within five years.",
+     "ex_zh": "该公司希望在五年内攻克亚洲市场。",
+     "ex_ja": "同社は 5 年以内にアジア市場を制覇したいと考えています。",
+     "parts": [
+      [
+       "con-",
+       "彻底",
+       "完全に"
+      ],
+      [
+       "quer",
+       "寻求",
+       "求める"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 conquerre，来自拉丁语 conquirere“彻底寻求 → 获取”。",
+      "ja": "古フランス語 conquerre（ラテン語 conquirere）から。"
+     },
+     "forms": [
+      [
+       "conquest (n.)",
+       "征服",
+       "征服"
+      ],
+      [
+       "conquer fears",
+       "克服恐惧",
+       "恐怖を克服する"
+      ]
+     ],
+     "tip": {
+      "zh": "比喻：攻占市场。",
+      "ja": "比喩で市場を制覇する。"
+     }
+    },
+    {
+     "w": "request",
+     "pos": "n./v.",
+     "ipa": "/rɪˈkwɛst/",
+     "zh": "请求；要求",
+     "ja": "依頼；要請する",
+     "ex": "Brochures are available upon request.",
+     "ex_zh": "宣传册可应要求提供。",
+     "ex_ja": "パンフレットはご要望に応じて提供いたします。",
+     "parts": [
+      [
+       "re-",
+       "再",
+       "再び"
+      ],
+      [
+       "quest",
+       "寻求",
+       "求める"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 requeste，来自拉丁语 requirere 的过去分词 requaesitus。",
+      "ja": "古フランス語 requeste（ラテン語 requirere の過去分詞から）。"
+     },
+     "forms": [
+      [
+       "upon request",
+       "应要求",
+       "ご要望に応じて"
+      ],
+      [
+       "request that S (should) do",
+       "要求…",
+       "〜するよう求める"
+      ]
+     ],
+     "tip": {
+      "zh": "request that 后接动词原形（虚拟语气）。",
+      "ja": "request that＋原形。"
+     }
+    },
+    {
+     "w": "questionnaire",
+     "pos": "n.",
+     "ipa": "/ˌkwɛstʃəˈnɛr/",
+     "zh": "调查问卷",
+     "ja": "アンケート；質問票",
+     "ex": "Please fill out the questionnaire and return it by Monday.",
+     "ex_zh": "请填写调查问卷并于周一前交回。",
+     "ex_ja": "アンケートにご記入のうえ、月曜日までにご返送ください。",
+     "parts": [
+      [
+       "quest",
+       "询问",
+       "尋ねる"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ],
+      [
+       "-naire",
+       "（法语后缀）",
+       "フランス語の接尾辞"
+      ]
+     ],
+     "note": {
+      "zh": "法语 questionnaire，来自 question（拉丁语 quaestio）。",
+      "ja": "フランス語 questionnaire（question＜ラテン語 quaestio）から。"
+     },
+     "forms": [
+      [
+       "fill out a questionnaire",
+       "填写问卷",
+       "アンケートに記入する"
+      ],
+      [
+       "survey (n.)",
+       "调查",
+       "調査"
+      ]
+     ],
+     "tip": {
+      "zh": "拼写注意双 n。",
+      "ja": "n が 2 つ。"
+     }
+    },
+    {
+     "w": "requisite",
+     "pos": "adj./n.",
+     "ipa": "/ˈrɛkwəzɪt/",
+     "zh": "必需的；必要条件",
+     "ja": "必要な；必需品",
+     "ex": "Candidates must have the requisite skills for the position.",
+     "ex_zh": "应聘者必须具备该职位所需的技能。",
+     "ex_ja": "候補者はその職に必要な技能を備えていなければなりません。",
+     "parts": [
+      [
+       "re-",
+       "再",
+       "再び"
+      ],
+      [
+       "quis",
+       "寻求",
+       "求める"
+      ],
+      [
+       "-ite",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 requisitus（requirere 的过去分词）。",
+      "ja": "ラテン語 requisitus（requirere の過去分詞）。"
+     },
+     "forms": [
+      [
+       "prerequisite (n.)",
+       "先决条件",
+       "前提条件"
+      ],
+      [
+       "requisite experience",
+       "必要经验",
+       "必要な経験"
+      ]
+     ],
+     "tip": {
+      "zh": "prerequisite = 先修条件。",
+      "ja": "prerequisite＝前提条件。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "media",
+   "title_zh": "主题：媒体与出版",
+   "title_ja": "テーマ：メディア・出版",
+   "words": [
+    {
+     "w": "publication",
+     "pos": "n.",
+     "ipa": "/ˌpʌblɪˈkeɪʃən/",
+     "zh": "出版（物）；发表",
+     "ja": "出版物；発行",
+     "ex": "The magazine is our company's most popular publication.",
+     "ex_zh": "这本杂志是我们公司最受欢迎的出版物。",
+     "ex_ja": "その雑誌は当社で最も人気のある出版物です。",
+     "parts": [
+      [
+       "publ",
+       "公众（publicus）",
+       "公の"
+      ],
+      [
+       "-ic",
+       "形容词后缀",
+       "形容詞を作る"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 publicatio“公开”。",
+      "ja": "ラテン語 publicatio「公にすること」。"
+     },
+     "forms": [
+      [
+       "publish (v.)",
+       "出版",
+       "出版する"
+      ],
+      [
+       "publisher (n.)",
+       "出版社",
+       "出版社"
+      ]
+     ],
+     "tip": {
+      "zh": "也指“公布”：publication of results。",
+      "ja": "結果の「公表」も。"
+     }
+    },
+    {
+     "w": "editorial",
+     "pos": "adj./n.",
+     "ipa": "/ˌɛdəˈtɔriəl/",
+     "zh": "编辑的；社论",
+     "ja": "編集の；社説",
+     "ex": "She joined the editorial team of a business magazine.",
+     "ex_zh": "她加入了一家商业杂志的编辑团队。",
+     "ex_ja": "彼女はビジネス誌の編集チームに加わりました。",
+     "parts": [
+      [
+       "edit",
+       "编辑",
+       "編集する"
+      ],
+      [
+       "-or",
+       "表示人",
+       "〜する人"
+      ],
+      [
+       "-ial",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "editor（拉丁语 edere“发出”）+ -ial。",
+      "ja": "editor（ラテン語 edere「出す」）＋-ial。"
+     },
+     "forms": [
+      [
+       "editor (n.)",
+       "编辑",
+       "編集者"
+      ],
+      [
+       "editorial board",
+       "编委会",
+       "編集委員会"
+      ]
+     ],
+     "tip": {
+      "zh": "名词 = 社论。",
+      "ja": "名詞は「社説」。"
+     }
+    },
+    {
+     "w": "headline",
+     "pos": "n.",
+     "ipa": "/ˈhɛdˌlaɪn/",
+     "zh": "标题；头条",
+     "ja": "見出し",
+     "ex": "The merger made headlines in all the major newspapers.",
+     "ex_zh": "这起合并登上了各大报纸头条。",
+     "ex_ja": "その合併は主要各紙の見出しを飾りました。",
+     "parts": [
+      [
+       "head",
+       "头",
+       "頭"
+      ],
+      [
+       "line",
+       "行",
+       "行"
+      ]
+     ],
+     "note": {
+      "zh": "本族词复合 head + line；没有可靠的拉丁词根拆分。",
+      "ja": "英語の複合語 head＋line。"
+     },
+     "forms": [
+      [
+       "make headlines",
+       "成为头条",
+       "大きく報じられる"
+      ],
+      [
+       "news headline",
+       "新闻标题",
+       "ニュースの見出し"
+      ]
+     ],
+     "tip": {
+      "zh": "make headlines 常见。",
+      "ja": "make headlines の形。"
+     },
+     "hl": "headlines"
+    },
+    {
+     "w": "circulation",
+     "pos": "n.",
+     "ipa": "/ˌsɝkjəˈleɪʃən/",
+     "zh": "发行量；流通；循环",
+     "ja": "発行部数；流通",
+     "ex": "The newspaper has a daily circulation of 300,000.",
+     "ex_zh": "这份报纸日发行量为 30 万份。",
+     "ex_ja": "その新聞の日刊発行部数は 30 万部です。",
+     "parts": [
+      [
+       "circul",
+       "圆圈",
+       "円"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 circulatio“绕圈”。",
+      "ja": "ラテン語 circulatio「巡ること」。"
+     },
+     "forms": [
+      [
+       "circulate (v.)",
+       "传阅；流通",
+       "回覧する"
+      ],
+      [
+       "in circulation",
+       "在流通中",
+       "流通している"
+      ]
+     ],
+     "tip": {
+      "zh": "circulate a memo = 传阅备忘录。",
+      "ja": "回覧の意味も。"
+     }
+    },
+    {
+     "w": "subscription",
+     "pos": "n.",
+     "ipa": "/səbˈskrɪpʃən/",
+     "zh": "订阅；订购",
+     "ja": "定期購読；サブスクリプション",
+     "ex": "Your subscription will be renewed automatically each year.",
+     "ex_zh": "您的订阅每年将自动续订。",
+     "ex_ja": "ご購読は毎年自動的に更新されます。",
+     "parts": [
+      [
+       "sub-",
+       "在下",
+       "下に"
+      ],
+      [
+       "script",
+       "写",
+       "書く"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 subscriptio“在下面签名”（Day 3 词根 -script-）。",
+      "ja": "ラテン語 subscriptio「下に署名すること」（Day 3 の -script-）。"
+     },
+     "forms": [
+      [
+       "subscribe (v.)",
+       "订阅",
+       "購読する"
+      ],
+      [
+       "subscriber (n.)",
+       "订户",
+       "購読者"
+      ]
+     ],
+     "tip": {
+      "zh": "renew / cancel a subscription。",
+      "ja": "更新・解約の文脈で。"
+     }
+    },
+    {
+     "w": "journalist",
+     "pos": "n.",
+     "ipa": "/ˈdʒɝnəlɪst/",
+     "zh": "记者",
+     "ja": "記者；ジャーナリスト",
+     "ex": "A journalist from the local paper interviewed our CEO.",
+     "ex_zh": "当地报纸的一位记者采访了我们的首席执行官。",
+     "ex_ja": "地元紙の記者が当社 CEO にインタビューしました。",
+     "parts": [
+      [
+       "journ",
+       "日（diurnus）",
+       "日"
+      ],
+      [
+       "-al",
+       "形容词后缀",
+       "形容詞を作る"
+      ],
+      [
+       "-ist",
+       "表示人",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "journal（古法语“每日的”）+ -ist。",
+      "ja": "journal（古フランス語「日々の」）＋-ist。"
+     },
+     "forms": [
+      [
+       "journalism (n.)",
+       "新闻业",
+       "報道"
+      ],
+      [
+       "journal (n.)",
+       "期刊；日志",
+       "専門誌；日誌"
+      ]
+     ],
+     "tip": {
+      "zh": "同源 journey、adjourn（jour = 日）。",
+      "ja": "journey と同源。"
+     }
+    },
+    {
+     "w": "broadcast",
+     "pos": "v./n.",
+     "ipa": "/ˈbrɔdˌkæst/",
+     "zh": "广播；播出",
+     "ja": "放送（する）",
+     "ex": "The press conference will be broadcast live online.",
+     "ex_zh": "新闻发布会将在网上直播。",
+     "ex_ja": "記者会見はオンラインで生中継されます。",
+     "parts": [
+      [
+       "broad",
+       "广",
+       "広く"
+      ],
+      [
+       "cast",
+       "撒",
+       "投げる"
+      ]
+     ],
+     "note": {
+      "zh": "本族词复合 broad + cast（原指“撒种”）；没有拉丁词根。",
+      "ja": "英語の複合語 broad＋cast（元は種まき）。"
+     },
+     "forms": [
+      [
+       "live broadcast",
+       "直播",
+       "生放送"
+      ],
+      [
+       "broadcaster (n.)",
+       "广播公司；播音员",
+       "放送局"
+      ]
+     ],
+     "tip": {
+      "zh": "过去式仍为 broadcast。",
+      "ja": "過去形も broadcast。"
+     }
+    },
+    {
+     "w": "columnist",
+     "pos": "n.",
+     "ipa": "/ˈkɑləmnɪst/",
+     "zh": "专栏作家",
+     "ja": "コラムニスト",
+     "ex": "The columnist writes a weekly article on personal finance.",
+     "ex_zh": "这位专栏作家每周写一篇个人理财文章。",
+     "ex_ja": "そのコラムニストは個人の資産運用について毎週記事を書いています。",
+     "parts": [
+      [
+       "column",
+       "柱；专栏",
+       "柱・欄"
+      ],
+      [
+       "-ist",
+       "表示人",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "column（拉丁语 columna“柱子”）+ -ist；n 在 columnist 中发音。",
+      "ja": "column（ラテン語 columna「柱」）＋-ist。"
+     },
+     "forms": [
+      [
+       "column (n.)",
+       "专栏；柱子",
+       "コラム；柱"
+      ],
+      [
+       "guest columnist",
+       "特约专栏作家",
+       "ゲストコラムニスト"
+      ]
+     ],
+     "tip": {
+      "zh": "column 的 n 不发音，columnist 的 n 发音。",
+      "ja": "column の n は黙字、columnist では発音。"
+     }
+    },
+    {
+     "w": "proofread",
+     "pos": "v.",
+     "ipa": "/ˈprufˌrid/",
+     "zh": "校对",
+     "ja": "校正する",
+     "ex": "Please proofread the brochure before it goes to print.",
+     "ex_zh": "宣传册付印前请先校对。",
+     "ex_ja": "印刷に回す前にパンフレットを校正してください。",
+     "parts": [
+      [
+       "proof",
+       "校样",
+       "校正刷り"
+      ],
+      [
+       "read",
+       "读",
+       "読む"
+      ]
+     ],
+     "note": {
+      "zh": "本族词复合 proof + read；没有可靠的拉丁词根拆分。",
+      "ja": "英語の複合語 proof＋read。"
+     },
+     "forms": [
+      [
+       "proofreader (n.)",
+       "校对员",
+       "校正者"
+      ],
+      [
+       "proofreading (n.)",
+       "校对",
+       "校正"
+      ]
+     ],
+     "tip": {
+      "zh": "出版、文书工作高频。",
+      "ja": "出版・文書業務で頻出。"
+     }
+    },
+    {
+     "w": "edition",
+     "pos": "n.",
+     "ipa": "/ɪˈdɪʃən/",
+     "zh": "版本；版次",
+     "ja": "版；号",
+     "ex": "The revised edition includes three new chapters.",
+     "ex_zh": "修订版新增了三个章节。",
+     "ex_ja": "改訂版には新しい章が 3 つ加わりました。",
+     "parts": [
+      [
+       "e-",
+       "向外",
+       "外へ"
+      ],
+      [
+       "dit",
+       "给（dare）",
+       "与える"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 editio“发出、出版”。",
+      "ja": "ラテン語 editio「出すこと・出版」。"
+     },
+     "forms": [
+      [
+       "limited edition",
+       "限量版",
+       "限定版"
+      ],
+      [
+       "online edition",
+       "网络版",
+       "オンライン版"
+      ]
+     ],
+     "tip": {
+      "zh": "edition（版本）≠ addition（增加）。",
+      "ja": "addition と区別。"
+     }
+    },
+    {
+     "w": "correspondent",
+     "pos": "n.",
+     "ipa": "/ˌkɔrəˈspɑndənt/",
+     "zh": "记者；通讯员",
+     "ja": "特派員；通信員",
+     "ex": "Our Tokyo correspondent will report live from the trade fair.",
+     "ex_zh": "我们的东京记者将在展会现场直播报道。",
+     "ex_ja": "東京特派員が見本市から生中継でお伝えします。",
+     "parts": [
+      [
+       "cor-",
+       "一起（=con-）",
+       "共に"
+      ],
+      [
+       "re-",
+       "回",
+       "戻って"
+      ],
+      [
+       "spond",
+       "承诺；回应",
+       "応じる"
+      ],
+      [
+       "-ent",
+       "表示人",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "correspond（中世纪拉丁语 correspondere“相互回应”）+ -ent。",
+      "ja": "correspond（中世ラテン語 correspondere）＋-ent。"
+     },
+     "forms": [
+      [
+       "correspond (v.)",
+       "通信；相符",
+       "文通する；一致する"
+      ],
+      [
+       "correspondence (n.)",
+       "信件往来",
+       "通信"
+      ]
+     ],
+     "tip": {
+      "zh": "correspondence = 往来信件。",
+      "ja": "correspondence＝通信文。"
+     }
+    },
+    {
+     "w": "readership",
+     "pos": "n.",
+     "ipa": "/ˈridɚˌʃɪp/",
+     "zh": "读者群；读者人数",
+     "ja": "読者数；読者層",
+     "ex": "The magazine's online readership has grown rapidly.",
+     "ex_zh": "这本杂志的网络读者数量增长迅速。",
+     "ex_ja": "その雑誌のオンライン読者数は急速に伸びています。",
+     "parts": [
+      [
+       "read",
+       "读",
+       "読む"
+      ],
+      [
+       "-er",
+       "表示人",
+       "〜する人"
+      ],
+      [
+       "-ship",
+       "集体；状态",
+       "集団"
+      ]
+     ],
+     "note": {
+      "zh": "本族词 reader + -ship；没有可靠的拉丁词根拆分。",
+      "ja": "reader＋-ship。英語本来の語。"
+     },
+     "forms": [
+      [
+       "reader (n.)",
+       "读者",
+       "読者"
+      ],
+      [
+       "wide readership",
+       "广泛读者群",
+       "幅広い読者層"
+      ]
+     ],
+     "tip": {
+      "zh": "出版报道常见。",
+      "ja": "出版記事で。"
+     }
+    },
+    {
+     "w": "anchor",
+     "pos": "n./v.",
+     "ipa": "/ˈæŋkɚ/",
+     "zh": "新闻主播；锚；支撑",
+     "ja": "ニュースキャスター；錨；支える",
+     "ex": "She has worked as a news anchor for over a decade.",
+     "ex_zh": "她担任新闻主播已经十多年了。",
+     "ex_ja": "彼女は 10 年以上ニュースキャスターとして働いています。",
+     "parts": [
+      [
+       "anchor",
+       "锚（希腊语 ankyra）",
+       "錨"
+      ]
+     ],
+     "note": {
+      "zh": "古英语 ancor，经拉丁语 ancora 来自希腊语 ankyra“锚”。",
+      "ja": "ギリシャ語 ankyra「錨」がラテン語経由で英語へ。"
+     },
+     "forms": [
+      [
+       "news anchor",
+       "新闻主播",
+       "ニュースキャスター"
+      ],
+      [
+       "anchor store",
+       "主力店",
+       "核店舗"
+      ]
+     ],
+     "tip": {
+      "zh": "anchor store = 商场主力店。",
+      "ja": "anchor store＝核店舗。"
+     }
+    },
+    {
+     "w": "tabloid",
+     "pos": "n.",
+     "ipa": "/ˈtæbˌlɔɪd/",
+     "zh": "小报；通俗报纸",
+     "ja": "タブロイド紙",
+     "ex": "The story first appeared in a weekly tabloid.",
+     "ex_zh": "这则消息最早出现在一份周刊小报上。",
+     "ex_ja": "その話は最初、週刊のタブロイド紙に載りました。",
+     "parts": [
+      [
+       "tabl",
+       "片；板",
+       "板"
+      ],
+      [
+       "-oid",
+       "像…的",
+       "〜のような"
+      ]
+     ],
+     "note": {
+      "zh": "原为药片商标名 Tabloid（tablet + -oid），后指“浓缩版小开报纸”。",
+      "ja": "元は錠剤の商標 Tabloid（tablet＋-oid）。"
+     },
+     "forms": [
+      [
+       "tabloid newspaper",
+       "小报",
+       "大衆紙"
+      ],
+      [
+       "broadsheet (n.)",
+       "大报",
+       "高級紙"
+      ]
+     ],
+     "tip": {
+      "zh": "反义 broadsheet（严肃大报）。",
+      "ja": "対義 broadsheet。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "env",
+   "title_zh": "主题：环境与能源",
+   "title_ja": "テーマ：環境・エネルギー",
+   "words": [
+    {
+     "w": "renewable",
+     "pos": "adj.",
+     "ipa": "/rɪˈnuəbəl/",
+     "zh": "可再生的；可续订的",
+     "ja": "再生可能な；更新可能な",
+     "ex": "The factory now runs entirely on renewable energy.",
+     "ex_zh": "这家工厂现在完全使用可再生能源。",
+     "ex_ja": "その工場は現在、全面的に再生可能エネルギーで稼働しています。",
+     "parts": [
+      [
+       "re-",
+       "再",
+       "再び"
+      ],
+      [
+       "new",
+       "新",
+       "新しい"
+      ],
+      [
+       "-able",
+       "能…的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "renew（re- + new）+ -able。",
+      "ja": "renew＋-able。"
+     },
+     "forms": [
+      [
+       "renewable energy",
+       "可再生能源",
+       "再生可能エネルギー"
+      ],
+      [
+       "renewable contract",
+       "可续签合同",
+       "更新可能な契約"
+      ]
+     ],
+     "tip": {
+      "zh": "合同语境：可续签。",
+      "ja": "契約の「更新可能な」も。"
+     }
+    },
+    {
+     "w": "sustainable",
+     "pos": "adj.",
+     "ipa": "/səˈsteɪnəbəl/",
+     "zh": "可持续的",
+     "ja": "持続可能な",
+     "ex": "We use sustainable packaging made from recycled paper.",
+     "ex_zh": "我们使用再生纸制成的可持续包装。",
+     "ex_ja": "当社は再生紙でできた持続可能な包装を使用しています。",
+     "parts": [
+      [
+       "sus-",
+       "在下（=sub-）",
+       "下から"
+      ],
+      [
+       "tain",
+       "拿住",
+       "保つ"
+      ],
+      [
+       "-able",
+       "能…的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "sustain（拉丁语 sustinere“从下面撑住”，Day 1 词根 -tain-）+ -able。",
+      "ja": "sustain（Day 1 の -tain-）＋-able。"
+     },
+     "forms": [
+      [
+       "sustainability (n.)",
+       "可持续性",
+       "持続可能性"
+      ],
+      [
+       "sustainable growth",
+       "可持续增长",
+       "持続的成長"
+      ]
+     ],
+     "tip": {
+      "zh": "企业 CSR 报告高频。",
+      "ja": "CSR 関連で頻出。"
+     }
+    },
+    {
+     "w": "recycle",
+     "pos": "v.",
+     "ipa": "/riˈsaɪkəl/",
+     "zh": "回收利用",
+     "ja": "リサイクルする",
+     "ex": "Please recycle all plastic bottles in the blue bins.",
+     "ex_zh": "请把所有塑料瓶投入蓝色回收箱。",
+     "ex_ja": "ペットボトルはすべて青い回収箱でリサイクルしてください。",
+     "parts": [
+      [
+       "re-",
+       "再",
+       "再び"
+      ],
+      [
+       "cycl",
+       "圈；循环",
+       "輪"
+      ],
+      [
+       "-e",
+       "词尾",
+       "語尾"
+      ]
+     ],
+     "note": {
+      "zh": "re- + cycle（希腊语 kyklos“圆圈”）。",
+      "ja": "re-＋cycle（ギリシャ語 kyklos「輪」）。"
+     },
+     "forms": [
+      [
+       "recycling (n.)",
+       "回收",
+       "リサイクル"
+      ],
+      [
+       "recyclable (adj.)",
+       "可回收的",
+       "リサイクル可能な"
+      ]
+     ],
+     "tip": {
+      "zh": "告示：recycling bin。",
+      "ja": "掲示で頻出。"
+     }
+    },
+    {
+     "w": "pollution",
+     "pos": "n.",
+     "ipa": "/pəˈluʃən/",
+     "zh": "污染",
+     "ja": "汚染",
+     "ex": "The new regulations aim to reduce air pollution in the city.",
+     "ex_zh": "新规旨在减少城市空气污染。",
+     "ex_ja": "新規制は市内の大気汚染を減らすことを目的としています。",
+     "parts": [
+      [
+       "pol-",
+       "（加强）",
+       "強意"
+      ],
+      [
+       "lu",
+       "弄脏（luere）",
+       "汚す"
+      ],
+      [
+       "-tion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 pollutio“弄脏”。",
+      "ja": "ラテン語 pollutio「汚すこと」。"
+     },
+     "forms": [
+      [
+       "pollute (v.)",
+       "污染",
+       "汚染する"
+      ],
+      [
+       "pollutant (n.)",
+       "污染物",
+       "汚染物質"
+      ]
+     ],
+     "tip": {
+      "zh": "air / water / noise pollution。",
+      "ja": "大気・水質・騒音。"
+     }
+    },
+    {
+     "w": "conserve",
+     "pos": "v.",
+     "ipa": "/kənˈsɝv/",
+     "zh": "节约；保护",
+     "ja": "節約する；保護する",
+     "ex": "Please turn off the lights to conserve energy.",
+     "ex_zh": "请关灯以节约能源。",
+     "ex_ja": "エネルギー節約のため照明を消してください。",
+     "parts": [
+      [
+       "con-",
+       "完全",
+       "完全に"
+      ],
+      [
+       "serv",
+       "保存",
+       "保つ"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 conservare“保存”。",
+      "ja": "ラテン語 conservare「保つ」。"
+     },
+     "forms": [
+      [
+       "conservation (n.)",
+       "保护；节约",
+       "保護；節約"
+      ],
+      [
+       "energy conservation",
+       "节能",
+       "省エネ"
+      ]
+     ],
+     "tip": {
+      "zh": "告示：conserve water / energy。",
+      "ja": "節電・節水の掲示で。"
+     }
+    },
+    {
+     "w": "carbon",
+     "pos": "n.",
+     "ipa": "/ˈkɑrbən/",
+     "zh": "碳",
+     "ja": "炭素",
+     "ex": "The company aims to cut its carbon footprint by half.",
+     "ex_zh": "公司的目标是把碳足迹减半。",
+     "ex_ja": "同社は二酸化炭素排出量を半減させることを目指しています。",
+     "parts": [
+      [
+       "carb",
+       "炭（carbo）",
+       "炭"
+      ],
+      [
+       "-on",
+       "名词词尾",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "法语 carbone，来自拉丁语 carbo“炭”。",
+      "ja": "フランス語 carbone（ラテン語 carbo「炭」）から。"
+     },
+     "forms": [
+      [
+       "carbon footprint",
+       "碳足迹",
+       "二酸化炭素排出量"
+      ],
+      [
+       "carbon-neutral (adj.)",
+       "碳中和的",
+       "カーボンニュートラルの"
+      ]
+     ],
+     "tip": {
+      "zh": "carbon footprint 是环保报道高频。",
+      "ja": "環境記事で頻出。"
+     }
+    },
+    {
+     "w": "solar",
+     "pos": "adj.",
+     "ipa": "/ˈsoʊlɚ/",
+     "zh": "太阳的；太阳能的",
+     "ja": "太陽の；太陽光の",
+     "ex": "Solar panels were installed on the roof of the warehouse.",
+     "ex_zh": "仓库屋顶安装了太阳能电池板。",
+     "ex_ja": "倉庫の屋根に太陽光パネルが設置されました。",
+     "parts": [
+      [
+       "sol",
+       "太阳",
+       "太陽"
+      ],
+      [
+       "-ar",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 solaris，来自 sol“太阳”。",
+      "ja": "ラテン語 solaris（sol「太陽」）から。"
+     },
+     "forms": [
+      [
+       "solar panel",
+       "太阳能板",
+       "太陽光パネル"
+      ],
+      [
+       "solar power",
+       "太阳能发电",
+       "太陽光発電"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1 照片可能出现屋顶太阳能板。",
+      "ja": "Part 1 の写真で。"
+     }
+    },
+    {
+     "w": "waste",
+     "pos": "n./v.",
+     "ipa": "/weɪst/",
+     "zh": "废物；浪费",
+     "ja": "廃棄物；無駄にする",
+     "ex": "The plant has reduced its waste by 40 percent.",
+     "ex_zh": "工厂已将废物减少了 40%。",
+     "ex_ja": "工場は廃棄物を 40％削減しました。",
+     "parts": [
+      [
+       "waste",
+       "荒废（vastus）",
+       "荒れた"
+      ]
+     ],
+     "note": {
+      "zh": "古北法语 waster，来自拉丁语 vastare“使荒废”。",
+      "ja": "古フランス語 waster（ラテン語 vastare「荒らす」）から。"
+     },
+     "forms": [
+      [
+       "waste disposal",
+       "废物处理",
+       "廃棄物処理"
+      ],
+      [
+       "a waste of time",
+       "浪费时间",
+       "時間の無駄"
+      ]
+     ],
+     "tip": {
+      "zh": "名词“废物”、动词“浪费”。",
+      "ja": "名詞と動詞の両方。"
+     }
+    },
+    {
+     "w": "disposal",
+     "pos": "n.",
+     "ipa": "/dɪˈspoʊzəl/",
+     "zh": "处理；处置；支配",
+     "ja": "処分；廃棄",
+     "ex": "The city provides free disposal of old electronics.",
+     "ex_zh": "市政府免费处理旧电子产品。",
+     "ex_ja": "市は古い電子機器を無料で処分しています。",
+     "parts": [
+      [
+       "dis-",
+       "分开",
+       "分けて"
+      ],
+      [
+       "pos",
+       "放置",
+       "置く"
+      ],
+      [
+       "-al",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "dispose（Day 4 词根 -pos-）+ -al。",
+      "ja": "dispose（Day 4 の -pos-）＋-al。"
+     },
+     "forms": [
+      [
+       "at your disposal",
+       "供您随意使用",
+       "ご自由にお使いください"
+      ],
+      [
+       "dispose of",
+       "处理掉",
+       "〜を処分する"
+      ]
+     ],
+     "tip": {
+      "zh": "at one's disposal = 随时可用。",
+      "ja": "at your disposal＝ご自由に。"
+     }
+    },
+    {
+     "w": "habitat",
+     "pos": "n.",
+     "ipa": "/ˈhæbəˌtæt/",
+     "zh": "栖息地",
+     "ja": "生息地",
+     "ex": "The new park will protect the habitat of local birds.",
+     "ex_zh": "新公园将保护本地鸟类的栖息地。",
+     "ex_ja": "新しい公園は地元の鳥の生息地を守ります。",
+     "parts": [
+      [
+       "habit",
+       "居住（habitare）",
+       "住む"
+      ],
+      [
+       "-at",
+       "（拉丁语第三人称）",
+       "動詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 habitat“它居住”。",
+      "ja": "ラテン語 habitat「それが住む」。"
+     },
+     "forms": [
+      [
+       "natural habitat",
+       "自然栖息地",
+       "自然の生息地"
+      ],
+      [
+       "inhabit (v.)",
+       "居住",
+       "住む"
+      ]
+     ],
+     "tip": {
+      "zh": "环保报道常见。",
+      "ja": "環境記事で。"
+     }
+    },
+    {
+     "w": "drought",
+     "pos": "n.",
+     "ipa": "/draʊt/",
+     "zh": "干旱",
+     "ja": "干ばつ",
+     "ex": "The drought has caused vegetable prices to rise sharply.",
+     "ex_zh": "干旱导致蔬菜价格大幅上涨。",
+     "ex_ja": "干ばつで野菜の価格が急騰しました。",
+     "parts": [
+      [
+       "drought",
+       "干燥",
+       "乾き"
+      ]
+     ],
+     "note": {
+      "zh": "古英语 drugath“干燥”；本族词，没有可靠的词根拆分。",
+      "ja": "古英語 drugath「乾燥」。英語本来の語。"
+     },
+     "forms": [
+      [
+       "severe drought",
+       "严重干旱",
+       "深刻な干ばつ"
+      ],
+      [
+       "drought-resistant (adj.)",
+       "抗旱的",
+       "干ばつに強い"
+      ]
+     ],
+     "tip": {
+      "zh": "读 /draʊt/，不是 /drɔt/。",
+      "ja": "発音 /draʊt/。"
+     }
+    },
+    {
+     "w": "landfill",
+     "pos": "n.",
+     "ipa": "/ˈlændˌfɪl/",
+     "zh": "垃圾填埋场",
+     "ja": "埋立地；ごみ処分場",
+     "ex": "Recycling keeps tons of waste out of the landfill.",
+     "ex_zh": "回收利用让大量垃圾免于进入填埋场。",
+     "ex_ja": "リサイクルで大量のごみが埋立地に行かずに済みます。",
+     "parts": [
+      [
+       "land",
+       "土地",
+       "土地"
+      ],
+      [
+       "fill",
+       "填",
+       "埋める"
+      ]
+     ],
+     "note": {
+      "zh": "本族词复合 land + fill；没有可靠的拉丁词根拆分。",
+      "ja": "英語の複合語 land＋fill。"
+     },
+     "forms": [
+      [
+       "landfill site",
+       "垃圾填埋场",
+       "埋立処分場"
+      ],
+      [
+       "reduce landfill waste",
+       "减少填埋垃圾",
+       "埋立ごみを減らす"
+      ]
+     ],
+     "tip": {
+      "zh": "环保通知常见。",
+      "ja": "環境のお知らせで。"
+     }
+    },
+    {
+     "w": "biodegradable",
+     "pos": "adj.",
+     "ipa": "/ˌbaɪoʊdɪˈɡreɪdəbəl/",
+     "zh": "可生物降解的",
+     "ja": "生分解性の",
+     "ex": "All our takeout containers are biodegradable.",
+     "ex_zh": "我们所有的外卖餐盒都可生物降解。",
+     "ex_ja": "当店の持ち帰り容器はすべて生分解性です。",
+     "parts": [
+      [
+       "bio-",
+       "生命",
+       "生命"
+      ],
+      [
+       "de-",
+       "向下",
+       "下へ"
+      ],
+      [
+       "grad",
+       "步；级",
+       "段階"
+      ],
+      [
+       "-able",
+       "能…的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "bio- + degrade（拉丁语 degradare“降级”，Day 4 词根 -grad-）+ -able。",
+      "ja": "bio-＋degrade（Day 4 の -grad-）＋-able。"
+     },
+     "forms": [
+      [
+       "degrade (v.)",
+       "降解；降低",
+       "分解する"
+      ],
+      [
+       "biodegradable packaging",
+       "可降解包装",
+       "生分解性包装"
+      ]
+     ],
+     "tip": {
+      "zh": "产品包装说明常见。",
+      "ja": "包装の説明で。"
+     }
+    },
+    {
+     "w": "ecosystem",
+     "pos": "n.",
+     "ipa": "/ˈikoʊˌsɪstəm/",
+     "zh": "生态系统",
+     "ja": "生態系",
+     "ex": "Pollution from the factory threatens the local ecosystem.",
+     "ex_zh": "工厂造成的污染威胁着当地生态系统。",
+     "ex_ja": "工場からの汚染が地域の生態系を脅かしています。",
+     "parts": [
+      [
+       "eco-",
+       "家；环境（希腊语 oikos）",
+       "家・環境"
+      ],
+      [
+       "system",
+       "系统",
+       "系"
+      ]
+     ],
+     "note": {
+      "zh": "eco-（希腊语 oikos“家”）+ system。",
+      "ja": "eco-（ギリシャ語 oikos「家」）＋system。"
+     },
+     "forms": [
+      [
+       "ecology (n.)",
+       "生态学",
+       "生態学"
+      ],
+      [
+       "business ecosystem",
+       "商业生态系统",
+       "ビジネスエコシステム"
+      ]
+     ],
+     "tip": {
+      "zh": "比喻：商业生态圈。",
+      "ja": "比喩でビジネスの生態系。"
+     }
+    }
+   ]
+  }
+ ]
+}
