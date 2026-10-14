@@ -65,10 +65,11 @@ def tts(text: str, voice: str = HOST) -> Path:
         import edge_tts
         for _ in range(4):
             try:
-                await edge_tts.Communicate(text, voice, rate="+10%").save(str(p))
+                await asyncio.wait_for(edge_tts.Communicate(text, voice, rate="+10%").save(str(p)), timeout=40)
                 if p.stat().st_size > 500:
                     return
-            except Exception:
+            except BaseException as e:
+                if isinstance(e, KeyboardInterrupt): raise
                 await asyncio.sleep(2)
         raise RuntimeError(f"tts failed: {text[:40]}")
     asyncio.run(_go())
