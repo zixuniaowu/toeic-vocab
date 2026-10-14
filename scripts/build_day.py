@@ -29,6 +29,7 @@ SITE_SUB_ZH = "每天 60 词 · 按词根和主题记忆 · 音标 + 拼写 + �
 COUNTER_ID = "toeic-vocab"
 PODCAST_USED = Path("/workspace/toeic_podcast/used_words.txt")
 DEFAULT_VOICE = "en-US-AriaNeural"
+VIDEO_BASE = "https://github.com/zixuniaowu/toeic-vocab/releases/download/media-v1"
 HANGUL = re.compile(r"[\u1100-\u11FF\u3130-\u318F\uA960-\uA97F\uAC00-\uD7AF\uD7B0-\uD7FF\uFFA0-\uFFDC]")
 WEEK_ZH = "一二三四五六日"
 WEEK_JA = "月火水木金土日"
@@ -318,6 +319,15 @@ def render_day(n, day, prev_day, next_day, v):
     out.append(f'<div class="meta">' + bi(f"{len(ws)} 词 · {fmt_date(day['date'], 'zh')}", f"{len(ws)} 語 · {fmt_date(day['date'], 'ja')}") + "</div>")
     if day.get("intro_zh"):
         out.append('<p class="intro">' + bi(E(day["intro_zh"]), E(day.get("intro_ja") or day["intro_zh"])) + "</p>")
+    # explanation video (GitHub Release media-v1; not stored on Pages)
+    vurl = f"{VIDEO_BASE}/day{n}.mp4"
+    out.append('<section class="card" id="video"><h2>' + bi("🎬 讲解视频", "🎬 解説動画") + "</h2>")
+    out.append(f'<video controls preload="metadata" playsinline style="width:100%;max-width:960px;border-radius:8px;background:#000" src="{vurl}">')
+    out.append(bi("您的浏览器不支持 video 标签。", "お使いのブラウザは video タグに対応していません。") + "</video>")
+    out.append('<p class="meta" style="margin-top:.6rem">' + bi(
+        f'<a href="{vurl}" download>下载本课视频（MP4）</a>',
+        f'<a href="{vurl}" download>このレッスンの動画をダウンロード（MP4）</a>') + "</p>")
+    out.append("</section>")
     # root spotlight
     out.append('<section class="card spot"><h2>' + bi("🔍 今日词根", "🔍 今日の語根") + "</h2>")
     for r in day["roots"]:

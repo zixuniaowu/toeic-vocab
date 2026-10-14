@@ -18,12 +18,40 @@ audio/dayN/<slug>.mp3        # 单词发音；<slug>_ex.mp3 = 例句发音
 used_words.txt               # 本站已用过的所有单词（生成）
 scripts/build_day.py         # 校验 + 生成音频 + 生成页面
 scripts/verify_live.py       # 发布后检查线上页面 / 音频
+scripts/make_day_video.py    # 生成中文讲解 MP4（输出 videos/，上传 Release）
+NEXT_DAY.txt                 # 每日例行下一课编号（避免与批量发布撞车）
+videos/dayN.mp4              # 本地讲解视频（gitignore，上传到 Release media-v1）
 scripts/day_template.json    # 新一天 JSON 的模板
 ```
 
 ## 发音是怎么做的
 
 和 toeic800 一样：**预先生成的 MP3**，用 edge-tts（Microsoft Edge 在线 TTS）`en-US-AriaNeural` 女声（24 kHz、48 kbps 单声道）。页面用一个共享的 `Audio` 元素在点击事件里播放（iOS Safari 可用）；“全部播放”在 `ended` 后依次播放下一个文件。不依赖 Web Speech API。只生成缺少的文件；`--force-audio` 全部重新生成。
+
+
+## 讲解视频（每日）
+
+每天有一条**中文讲解 MP4**（词根讲解 → 逐词卡片 + 字母拼写朗读 → 快速复习）。视频**不放进 GitHub Pages**（避免仓库过大），而是上传到 Release `media-v1`：
+
+- 播放地址：`https://github.com/zixuniaowu/toeic-vocab/releases/download/media-v1/dayN.mp4`
+- 每天页面里的 `<video>` 和“下载本课视频”链接都指向上述 URL。
+
+生成（在仓库根目录）：
+
+```bash
+/tmp/wp/bin/python scripts/make_day_video.py N          # 单天
+/tmp/wp/bin/python scripts/make_day_video.py --all      # 全部已有 dayN.json
+```
+
+输出到 `videos/dayN.mp4`（已在 `.gitignore`）。上传 / 更新 Release：
+
+```bash
+gh release upload media-v1 videos/dayN.mp4 --clobber -R zixuniaowu/toeic-vocab
+# 若 Release 尚不存在：
+# gh release create media-v1 videos/day*.mp4 -t "Explanation videos" -n "Chinese explanation MP4s for each vocab day" -R zixuniaowu/toeic-vocab
+```
+
+每日 6:15 例行应：写 `data/dayN.json` → `build_day.py N` → `make_day_video.py N` → commit/push Pages → `gh release upload media-v1 videos/dayN.mp4 --clobber` → `verify_live.py N`。下一课编号写在仓库根目录 `NEXT_DAY.txt`（当前应为已发布最大 Day + 1）。
 
 ## 新增一天（例如 Day 2）
 
