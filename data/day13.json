@@ -1,0 +1,2753 @@
+{
+ "day": 13,
+ "date": "2026-10-21",
+ "title_zh": "四大词根 + 建筑工程与国际贸易",
+ "title_ja": "4つの語根＋建築・施設管理と国際貿易・輸出入",
+ "intro_zh": "今天掌握 4 个高频词根（cred 相信 / cogn·gni 知道 / sens·sent 感觉 / corp 身体），再学建筑工程与设施管理、国际贸易与进出口的核心词——强化 Part 7 建筑招标、海关报关和 Part 3 贸易谈判对话。",
+ "intro_ja": "今日は語根 4 つ（cred 信じる／cogn·gni 知る／sens·sent 感じる／corp 身体）と、建築・施設管理、国際貿易・輸出入の重要語を学びます。Part 7 の建築入札・通関書類と Part 3 の貿易交渉の会話を強化します。",
+ "voice": "en-US-AriaNeural",
+ "roots": [
+  {
+   "root": "-cred-",
+   "origin": "Latin credere",
+   "zh": "相信；信任",
+   "ja": "信じる；信頼する",
+   "exp_zh": "来自拉丁语 credere（相信、信任）。credit“信任 → 信用、学分”、credible“可信的”、credentials“可信任的证明 → 资格证书”、creditor“给予信用的人 → 债权人”、dis-（使失去信任）、ac-（给予官方信任 → 认证的）、in-（不相信的 → 难以置信的）、creed“所信奉的 → 信条”。⚠️ creed 与 create（创造）不同源。",
+   "exp_ja": "ラテン語 credere（信じる・信頼する）から。credit「信用・単位」、credible「信用できる」、credentials「資格証明書」、creditor「債権者」、dis-（信用を落とす）、ac-（公式に認める → 認定の）、in-（信じがたい）、creed「信条」。⚠️ create とは別語源。",
+   "examples": [
+    "credit",
+    "credible",
+    "credentials",
+    "creditor",
+    "discredit",
+    "accredited",
+    "incredulous",
+    "creed"
+   ]
+  },
+  {
+   "root": "-cogn- / -gni-",
+   "origin": "Latin cognoscere",
+   "zh": "知道；认识",
+   "ja": "知る；認識する",
+   "exp_zh": "来自拉丁语 cognoscere（知道、认识），相关形式 -gni-、-gnos-。recognize“再次知道 → 认出”、cognizant“有认识的 → 意识到的”、cognitive“与认识有关的 → 认知的”、i- + gnor（不知 → 无知的）、dia- + gnose（彻底弄清 → 诊断）、re- + connoître 同源 reconnaissance“再次侦察 → 侦察”、pro- + gnosis（预先知道 → 预后）。⚠️ ignore 同源；naive 另有来源。",
+   "exp_ja": "ラテン語 cognoscere（知る）から。関連形 -gni-・-gnos-。recognize「再び知る → 認める」、cognizant「認識している」、cognitive「認知の」、ignorant「知らない」、diagnose「徹底的に見極める → 診断する」、reconnaissance「偵察」、prognosis「予後」。⚠️ ignore も同源。",
+   "examples": [
+    "recognize",
+    "cognizant",
+    "cognitive",
+    "ignorant",
+    "ignorance",
+    "diagnose",
+    "reconnaissance",
+    "prognosis"
+   ]
+  },
+  {
+   "root": "-sens- / -sent-",
+   "origin": "Latin sentire",
+   "zh": "感觉；感知",
+   "ja": "感じる；感知する",
+   "exp_zh": "来自拉丁语 sentire（感觉、感知），过去分词 sensus。sensitive 已常用；sensitivity“敏感度”、con-（共同感觉 → 同意）、re-（反向感觉 → 怨恨）、dis-（感觉不同 → 异议）、as-（朝向感觉 → 赞成）、sensory“感官的”、sentiment“感觉到的想法 → 情绪、观点”。⚠️ sentence（句子）同源（“表达的意思”）；sense 本身也同源。",
+   "exp_ja": "ラテン語 sentire（感じる、過去分詞 sensus）から。sensitivity「敏感さ」、consent「同意する」、resent「憤る」、dissent「異議を唱える」、assent「賛成する」、sensory「感覚の」、sentiment「感情・意見」。⚠️ sentence・sense も同源。",
+   "examples": [
+    "sensitivity",
+    "consent",
+    "resent",
+    "resentment",
+    "dissent",
+    "assent",
+    "sensory",
+    "sentiment"
+   ]
+  },
+  {
+   "root": "-corp-",
+   "origin": "Latin corpus",
+   "zh": "身体；团体",
+   "ja": "身体；団体",
+   "exp_zh": "来自拉丁语 corpus（身体、团体）。corporation“法律上的身体 → 公司”、incorporate“纳入身体 → 合并、注册成立”、corps“团体 → 军团、队”、corporal“身体的”、corpus“文献/语料整体”、corpulent“身体胖的”、corporeal“有形体的”。⚠️ corpse（尸体）同源；core（核心）通常另有来源。",
+   "exp_ja": "ラテン語 corpus（身体・団体）から。corporation「会社」、incorporate「法人化する・取り入れる」、corps「部隊」、corporal「身体の」、corpus「コーパス」、corpulent「太った」、corporeal「身体を持つ」。⚠️ corpse も同源。",
+   "examples": [
+    "corporation",
+    "incorporate",
+    "incorporation",
+    "corps",
+    "corporal",
+    "corpus",
+    "corpulent",
+    "corporeal"
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "cred",
+   "title_zh": "词根 -cred-：相信、信任",
+   "title_ja": "語根 -cred-：信じる・信頼する",
+   "words": [
+    {
+     "w": "credit",
+     "pos": "n./v.",
+     "ipa": "/ˈkrɛdɪt/",
+     "zh": "信用；学分；把…记入贷方",
+     "ja": "信用；単位；〜を貸方に記入する",
+     "ex": "The bank approved our credit application within two days.",
+     "ex_zh": "银行在两天内批准了我们的信贷申请。",
+     "ex_ja": "銀行は 2 日以内に当社の与信申請を承認しました。",
+     "parts": [
+      [
+       "cred",
+       "相信",
+       "信じる"
+      ],
+      [
+       "-it",
+       "名词/动词后缀",
+       "接尾辞"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 creditum“被相信的东西 → 信贷、信任”。",
+      "ja": "ラテン語 creditum「信じられたもの → 信用・与信」。"
+     },
+     "forms": [
+      [
+       "credit card",
+       "信用卡",
+       "クレジットカード"
+      ],
+      [
+       "letter of credit",
+       "信用证",
+       "信用状"
+      ],
+      [
+       "on credit",
+       "赊账",
+       "掛けで"
+      ]
+     ],
+     "tip": {
+      "zh": "letter of credit (L/C) 贸易高频。",
+      "ja": "貿易で letter of credit が頻出。"
+     }
+    },
+    {
+     "w": "credible",
+     "pos": "adj.",
+     "ipa": "/ˈkrɛdəbəl/",
+     "zh": "可信的；可靠的",
+     "ja": "信用できる；信頼できる",
+     "ex": "We need a more credible source before publishing the report.",
+     "ex_zh": "发布报告前我们需要更可信的来源。",
+     "ex_ja": "報告書を発表する前に、より信用できる情報源が必要です。",
+     "parts": [
+      [
+       "cred",
+       "相信",
+       "信じる"
+      ],
+      [
+       "-ible",
+       "可…的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 credibilis“值得相信的”。",
+      "ja": "ラテン語 credibilis「信じるに値する」。"
+     },
+     "forms": [
+      [
+       "credibility (n.)",
+       "可信度",
+       "信頼性"
+      ],
+      [
+       "incredibly (adv.)",
+       "难以置信地",
+       "信じられないほど"
+      ]
+     ],
+     "tip": {
+      "zh": "credible evidence = 可信证据。",
+      "ja": "credible evidence＝信用できる証拠。"
+     }
+    },
+    {
+     "w": "credentials",
+     "pos": "n.",
+     "ipa": "/krəˈdɛnʃəlz/",
+     "zh": "资格证书；证明材料",
+     "ja": "資格証明書；信任状",
+     "ex": "Please submit your credentials to the HR department.",
+     "ex_zh": "请向人力资源部提交您的资格证明。",
+     "ex_ja": "人事部に資格証明書を提出してください。",
+     "parts": [
+      [
+       "cred",
+       "相信",
+       "信じる"
+      ],
+      [
+       "-ent",
+       "…的",
+       "〜する"
+      ],
+      [
+       "-ial",
+       "名词后缀",
+       "名詞を作る"
+      ],
+      [
+       "-s",
+       "复数",
+       "複数"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 credentialis“给予信任的”；通常用复数。",
+      "ja": "ラテン語 credentialis。通常は複数形。"
+     },
+     "forms": [
+      [
+       "login credentials",
+       "登录凭证",
+       "ログイン情報"
+      ],
+      [
+       "check credentials",
+       "核实资格",
+       "資格を確認する"
+      ]
+     ],
+     "tip": {
+      "zh": "login credentials = 用户名和密码。",
+      "ja": "login credentials＝ログイン情報。"
+     }
+    },
+    {
+     "w": "creditor",
+     "pos": "n.",
+     "ipa": "/ˈkrɛdɪtər/",
+     "zh": "债权人",
+     "ja": "債権者",
+     "ex": "The company negotiated a payment plan with its main creditors.",
+     "ex_zh": "公司与主要债权人协商了还款计划。",
+     "ex_ja": "その会社は主要債権者と返済計画を交渉しました。",
+     "parts": [
+      [
+       "cred",
+       "相信",
+       "信じる"
+      ],
+      [
+       "-itor",
+       "施动者",
+       "行為者"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 creditor“给予信用的人”。反义词 debtor（债务人）。",
+      "ja": "ラテン語 creditor。対義語は debtor（債務者）。"
+     },
+     "forms": [
+      [
+       "creditor meeting",
+       "债权人会议",
+       "債権者集会"
+      ],
+      [
+       "secured creditor",
+       "有担保债权人",
+       "担保付債権者"
+      ]
+     ],
+     "tip": {
+      "zh": "破产语境高频。",
+      "ja": "倒産の文脈で頻出。"
+     }
+    },
+    {
+     "w": "discredit",
+     "pos": "v./n.",
+     "ipa": "/dɪsˈkrɛdɪt/",
+     "zh": "使丧失信誉；耻辱",
+     "ja": "信用を落とす；不名誉",
+     "ex": "The leaked emails discredited the entire campaign team.",
+     "ex_zh": "泄露的邮件使整个竞选团队信誉扫地。",
+     "ex_ja": "流出したメールで選挙チーム全体の信用が落ちました。",
+     "parts": [
+      [
+       "dis-",
+       "否定/除去",
+       "否定・除去"
+      ],
+      [
+       "cred",
+       "相信",
+       "信じる"
+      ],
+      [
+       "-it",
+       "后缀",
+       "接尾辞"
+      ]
+     ],
+     "note": {
+      "zh": "dis-（除去）+ credit（信誉）。",
+      "ja": "dis-（取り除く）＋credit（信用）。"
+     },
+     "forms": [
+      [
+       "bring into discredit",
+       "使蒙羞",
+       "不名誉にする"
+      ],
+      [
+       "discredited (adj.)",
+       "信誉扫地的",
+       "信用を失った"
+      ]
+     ],
+     "tip": {
+      "zh": "bring into discredit = 使蒙受耻辱。",
+      "ja": "bring into discredit＝不名誉にする。"
+     },
+     "hl": "discredited"
+    },
+    {
+     "w": "accredited",
+     "pos": "adj.",
+     "ipa": "/əˈkrɛdɪtɪd/",
+     "zh": "经官方认可的；被授权的",
+     "ja": "認定された；公認の",
+     "ex": "Only graduates of accredited programs may sit for the exam.",
+     "ex_zh": "只有经认证项目的毕业生才能参加考试。",
+     "ex_ja": "認定プログラムの卒業生だけが試験を受けられます。",
+     "parts": [
+      [
+       "ac-",
+       "朝向/给予",
+       "〜へ"
+      ],
+      [
+       "cred",
+       "相信",
+       "信じる"
+      ],
+      [
+       "-it",
+       "后缀",
+       "接尾辞"
+      ],
+      [
+       "-ed",
+       "过去分词",
+       "過去分詞"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 accreditare“给予信任 → 正式认可”。",
+      "ja": "ラテン語 accreditare「正式に認める」。"
+     },
+     "forms": [
+      [
+       "accredit (v.)",
+       "认证；委派",
+       "認定する；信任する"
+      ],
+      [
+       "accreditation (n.)",
+       "认证",
+       "認定"
+      ]
+     ],
+     "tip": {
+      "zh": "accredited university = 受到认证的大学。",
+      "ja": "accredited＝公認・認定の。"
+     }
+    },
+    {
+     "w": "incredulous",
+     "pos": "adj.",
+     "ipa": "/ɪnˈkrɛdʒələs/",
+     "zh": "不轻信的；表示怀疑的",
+     "ja": "信じようとしない；懐疑的な",
+     "ex": "She gave an incredulous look when she heard the sales figures.",
+     "ex_zh": "听到销售数字时她露出怀疑的表情。",
+     "ex_ja": "売上数字を聞いて彼女は信じられないような顔をしました。",
+     "parts": [
+      [
+       "in-",
+       "不",
+       "否定"
+      ],
+      [
+       "cred",
+       "相信",
+       "信じる"
+      ],
+      [
+       "-ulous",
+       "倾向于…的",
+       "〜しがちな"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 incredulus“不肯相信的”。勿与 incredible（难以置信的）混淆。",
+      "ja": "ラテン語 incredulus。incredible（信じられない）と混同注意。"
+     },
+     "forms": [
+      [
+       "incredulity (n.)",
+       "怀疑",
+       "懐疑"
+      ],
+      [
+       "incredulously (adv.)",
+       "怀疑地",
+       "疑わしそうに"
+      ]
+     ],
+     "tip": {
+      "zh": "incredulous = 人不信；incredible = 事不可信。",
+      "ja": "人は incredulous、事は incredible。"
+     }
+    },
+    {
+     "w": "creed",
+     "pos": "n.",
+     "ipa": "/krid/",
+     "zh": "信条；教义",
+     "ja": "信条；教義",
+     "ex": "Diversity and inclusion are part of our company creed.",
+     "ex_zh": "多元与包容是我们公司信条的一部分。",
+     "ex_ja": "多様性と包摂は当社の信条の一部です。",
+     "parts": [
+      [
+       "creed",
+       "所信",
+       "信じること"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 credo“我相信”；与 create 不同源。",
+      "ja": "ラテン語 credo「私は信じる」。create とは別。"
+     },
+     "forms": [
+      [
+       "company creed",
+       "公司信条",
+       "会社の信条"
+      ],
+      [
+       "political creed",
+       "政治信条",
+       "政治的信条"
+      ]
+     ],
+     "tip": {
+      "zh": "也可说 credo（个人信条）。",
+      "ja": "credo（信条）とも。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "cogn",
+   "title_zh": "词根 -cogn- / -gni-：知道、认识",
+   "title_ja": "語根 -cogn- / -gni-：知る・認識する",
+   "words": [
+    {
+     "w": "recognize",
+     "pos": "v.",
+     "ipa": "/ˈrɛkəɡˌnaɪz/",
+     "zh": "认出；承认；表彰",
+     "ja": "認める；認識する；表彰する",
+     "ex": "The board recognized her contribution with a special award.",
+     "ex_zh": "董事会以特别奖表彰了她的贡献。",
+     "ex_ja": "取締役会は特別賞で彼女の貢献を表彰しました。",
+     "parts": [
+      [
+       "re-",
+       "再",
+       "再び"
+      ],
+      [
+       "cogn",
+       "知道",
+       "知る"
+      ],
+      [
+       "-ize",
+       "动词后缀",
+       "動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 recognoscere“再次知道 → 认出、承认”。",
+      "ja": "ラテン語 recognoscere「再び知る → 認める」。"
+     },
+     "forms": [
+      [
+       "recognition (n.)",
+       "承认；表彰",
+       "認識；表彰"
+      ],
+      [
+       "recognizable (adj.)",
+       "可识别的",
+       "認識できる"
+      ]
+     ],
+     "tip": {
+      "zh": "in recognition of = 为表彰…。",
+      "ja": "in recognition of＝〜を表彰して。"
+     },
+     "hl": "recognized"
+    },
+    {
+     "w": "cognizant",
+     "pos": "adj.",
+     "ipa": "/ˈkɑɡnɪzənt/",
+     "zh": "认识的；知晓的",
+     "ja": "認識している；承知している",
+     "ex": "Managers must be cognizant of local labor laws.",
+     "ex_zh": "管理人员必须了解当地劳动法。",
+     "ex_ja": "管理者は現地の労働法を認識していなければなりません。",
+     "parts": [
+      [
+       "cogn",
+       "知道",
+       "知る"
+      ],
+      [
+       "-izant",
+       "…的",
+       "〜している"
+      ]
+     ],
+     "note": {
+      "zh": "来自 cognizance（认识）；正式书面语，常接 of。",
+      "ja": "cognizance（認識）から。of を伴うフォーマル語。"
+     },
+     "forms": [
+      [
+       "be cognizant of",
+       "意识到",
+       "〜を認識している"
+      ],
+      [
+       "cognizance (n.)",
+       "认识",
+       "認識"
+      ]
+     ],
+     "tip": {
+      "zh": "be cognizant of = be aware of（更正式）。",
+      "ja": "be aware of のフォーマル形。"
+     }
+    },
+    {
+     "w": "cognitive",
+     "pos": "adj.",
+     "ipa": "/ˈkɑɡnətɪv/",
+     "zh": "认知的",
+     "ja": "認知の",
+     "ex": "The training improves employees' cognitive skills under pressure.",
+     "ex_zh": "该培训提升员工在压力下的认知技能。",
+     "ex_ja": "その研修はプレッシャー下での認知スキルを高めます。",
+     "parts": [
+      [
+       "cogn",
+       "知道",
+       "知る"
+      ],
+      [
+       "-itive",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 cognitivus“与认识有关的”。",
+      "ja": "ラテン語 cognitivus「認識に関する」。"
+     },
+     "forms": [
+      [
+       "cognition (n.)",
+       "认知",
+       "認知"
+      ],
+      [
+       "cognitive ability",
+       "认知能力",
+       "認知能力"
+      ]
+     ],
+     "tip": {
+      "zh": "cognitive load = 认知负荷。",
+      "ja": "cognitive load＝認知負荷。"
+     }
+    },
+    {
+     "w": "ignorant",
+     "pos": "adj.",
+     "ipa": "/ˈɪɡnərənt/",
+     "zh": "无知的；不知道的",
+     "ja": "無知な；知らない",
+     "ex": "Many applicants were ignorant of the visa requirements.",
+     "ex_zh": "许多申请人对签证要求一无所知。",
+     "ex_ja": "多くの応募者がビザ要件を知りませんでした。",
+     "parts": [
+      [
+       "i-",
+       "不",
+       "否定"
+      ],
+      [
+       "gnor",
+       "知道（gnoscere）",
+       "知る"
+      ],
+      [
+       "-ant",
+       "…的",
+       "〜な"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 ignorans“不知道的”；与 know 同源链。",
+      "ja": "ラテン語 ignorans「知らない」。"
+     },
+     "forms": [
+      [
+       "be ignorant of",
+       "对…无知",
+       "〜を知らない"
+      ],
+      [
+       "ignorance (n.)",
+       "无知",
+       "無知"
+      ]
+     ],
+     "tip": {
+      "zh": "be ignorant of ≠ ignore（故意忽视）。",
+      "ja": "ignore（無視する）と区別。"
+     }
+    },
+    {
+     "w": "ignorance",
+     "pos": "n.",
+     "ipa": "/ˈɪɡnərəns/",
+     "zh": "无知；不知",
+     "ja": "無知；不知情",
+     "ex": "Ignorance of the safety rules is not an acceptable excuse.",
+     "ex_zh": "不了解安全规定不能作为可接受的借口。",
+     "ex_ja": "安全規則を知らなかったことは言い訳になりません。",
+     "parts": [
+      [
+       "i-",
+       "不",
+       "否定"
+      ],
+      [
+       "gnor",
+       "知道",
+       "知る"
+      ],
+      [
+       "-ance",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 ignorantia“无知”。",
+      "ja": "ラテン語 ignorantia。"
+     },
+     "forms": [
+      [
+       "in ignorance of",
+       "在不知…的情况下",
+       "〜を知らずに"
+      ],
+      [
+       "plead ignorance",
+       "以不知情辩解",
+       "不知情を主張する"
+      ]
+     ],
+     "tip": {
+      "zh": "ignorance is no excuse = 不知法不免责。",
+      "ja": "知らなかったでは済まされない。"
+     }
+    },
+    {
+     "w": "diagnose",
+     "pos": "v.",
+     "ipa": "/ˌdaɪəɡˈnoʊs/",
+     "zh": "诊断；判断（问题）",
+     "ja": "診断する；原因を特定する",
+     "ex": "The technician diagnosed a faulty hard drive.",
+     "ex_zh": "技术员诊断出硬盘故障。",
+     "ex_ja": "技術者はハードディスクの故障を診断しました。",
+     "parts": [
+      [
+       "dia-",
+       "穿过；彻底",
+       "貫いて"
+      ],
+      [
+       "gnose",
+       "知道",
+       "知る"
+      ]
+     ],
+     "note": {
+      "zh": "希腊语 diagignoskein“彻底分辨知道 → 诊断”。",
+      "ja": "ギリシャ語 diagignoskein「見極める → 診断する」。"
+     },
+     "forms": [
+      [
+       "diagnosis (n.)",
+       "诊断",
+       "診断"
+      ],
+      [
+       "diagnostic (adj.)",
+       "诊断的",
+       "診断の"
+      ]
+     ],
+     "tip": {
+      "zh": "也可用于非医学：diagnose a problem。",
+      "ja": "問題の原因特定にも使う。"
+     },
+     "hl": "diagnosed"
+    },
+    {
+     "w": "reconnaissance",
+     "pos": "n.",
+     "ipa": "/rɪˈkɑnəsəns/",
+     "zh": "侦察；初步调查",
+     "ja": "偵察；予備調査",
+     "ex": "The team conducted a site reconnaissance before bidding.",
+     "ex_zh": "团队在投标前进行了现场勘察。",
+     "ex_ja": "チームは入札前に現場の偵察調査を行いました。",
+     "parts": [
+      [
+       "re-",
+       "再",
+       "再び"
+      ],
+      [
+       "connaiss",
+       "知道（connaître）",
+       "知る"
+      ],
+      [
+       "-ance",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "法语 reconnaissance“再次认识 → 侦察”；与 recognize 同源。",
+      "ja": "フランス語 reconnaissance。recognize と同系。"
+     },
+     "forms": [
+      [
+       "site reconnaissance",
+       "现场勘察",
+       "現地偵察"
+      ],
+      [
+       "reconnaissance mission",
+       "侦察任务",
+       "偵察任務"
+      ]
+     ],
+     "tip": {
+      "zh": "商业上可指投标前的实地调查。",
+      "ja": "入札前の現地調査にも。"
+     }
+    },
+    {
+     "w": "prognosis",
+     "pos": "n.",
+     "ipa": "/prɑɡˈnoʊsɪs/",
+     "zh": "预后；前景预测",
+     "ja": "予後；見通し",
+     "ex": "Analysts gave a cautious prognosis for next quarter's sales.",
+     "ex_zh": "分析师对下季度销售给出了谨慎的前景预测。",
+     "ex_ja": "アナリストは来四半期の売上に慎重な見通しを示しました。",
+     "parts": [
+      [
+       "pro-",
+       "预先",
+       "前もって"
+      ],
+      [
+       "gnosis",
+       "知道",
+       "知る"
+      ]
+     ],
+     "note": {
+      "zh": "希腊语 prognosis“预先知道 → 预后、前景”。",
+      "ja": "ギリシャ語 prognosis「あらかじめ知る → 予後・見通し」。"
+     },
+     "forms": [
+      [
+       "economic prognosis",
+       "经济前景",
+       "経済見通し"
+      ],
+      [
+       "poor prognosis",
+       "不良预后",
+       "予後不良"
+      ]
+     ],
+     "tip": {
+      "zh": "医学与商业均可：前景展望。",
+      "ja": "医学・ビジネス双方で見通し。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "sens",
+   "title_zh": "词根 -sens- / -sent-：感觉、感知",
+   "title_ja": "語根 -sens- / -sent-：感じる・感知する",
+   "words": [
+    {
+     "w": "sensitivity",
+     "pos": "n.",
+     "ipa": "/ˌsɛnsəˈtɪvəti/",
+     "zh": "敏感；灵敏度；体恤",
+     "ja": "敏感さ；感度；思いやり",
+     "ex": "Handle customer complaints with cultural sensitivity.",
+     "ex_zh": "处理客户投诉时要注意文化敏感性。",
+     "ex_ja": "顧客からの苦情は文化的な配慮をもって扱ってください。",
+     "parts": [
+      [
+       "sens",
+       "感觉",
+       "感じる"
+      ],
+      [
+       "-itive",
+       "…的",
+       "〜な"
+      ],
+      [
+       "-ity",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 sensitivus + -ity；sensitive 的名词。",
+      "ja": "sensitive の名詞形。"
+     },
+     "forms": [
+      [
+       "price sensitivity",
+       "价格敏感度",
+       "価格感度"
+      ],
+      [
+       "cultural sensitivity",
+       "文化敏感性",
+       "文化的配慮"
+      ]
+     ],
+     "tip": {
+      "zh": "price sensitivity = 价格敏感度。",
+      "ja": "price sensitivity＝価格感度。"
+     }
+    },
+    {
+     "w": "consent",
+     "pos": "v./n.",
+     "ipa": "/kənˈsɛnt/",
+     "zh": "同意；许可",
+     "ja": "同意する；同意；承諾",
+     "ex": "Employees must give written consent before we share their data.",
+     "ex_zh": "在共享员工数据前必须获得书面同意。",
+     "ex_ja": "データを共有する前に従業員の書面同意が必要です。",
+     "parts": [
+      [
+       "con-",
+       "共同",
+       "共に"
+      ],
+      [
+       "sent",
+       "感觉",
+       "感じる"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 consentire“共同感觉 → 同意”。",
+      "ja": "ラテン語 consentire「共に感じる → 同意する」。"
+     },
+     "forms": [
+      [
+       "written consent",
+       "书面同意",
+       "書面同意"
+      ],
+      [
+       "consent form",
+       "同意书",
+       "同意書"
+      ],
+      [
+       "with the consent of",
+       "经…同意",
+       "〜の同意を得て"
+      ]
+     ],
+     "tip": {
+      "zh": "privacy / GDPR 语境高频。",
+      "ja": "個人情報保護で頻出。"
+     }
+    },
+    {
+     "w": "resent",
+     "pos": "v.",
+     "ipa": "/rɪˈzɛnt/",
+     "zh": "怨恨；对…不满",
+     "ja": "憤る；不快に思う",
+     "ex": "Staff may resent sudden changes to their schedules.",
+     "ex_zh": "员工可能对突然更改排班感到不满。",
+     "ex_ja": "突然のシフト変更に職員は不満を抱くかもしれません。",
+     "parts": [
+      [
+       "re-",
+       "反向",
+       "反対に"
+      ],
+      [
+       "sent",
+       "感觉",
+       "感じる"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 resentire“再次感到 → 感到不快”。",
+      "ja": "ラテン語 resentire「不快に感じる」。"
+     },
+     "forms": [
+      [
+       "resentment (n.)",
+       "怨恨",
+       "憤り"
+      ],
+      [
+       "resentful (adj.)",
+       "愤恨的",
+       "憤慨した"
+      ]
+     ],
+     "tip": {
+      "zh": "resent doing / resent + that。",
+      "ja": "resent doing の形も。"
+     }
+    },
+    {
+     "w": "resentment",
+     "pos": "n.",
+     "ipa": "/rɪˈzɛntmənt/",
+     "zh": "怨恨；愤慨",
+     "ja": "憤り；恨み",
+     "ex": "Pay cuts caused widespread resentment among the workforce.",
+     "ex_zh": "降薪在员工中引起广泛愤慨。",
+     "ex_ja": "給与削減は従業員の間に広範な憤りを引き起こしました。",
+     "parts": [
+      [
+       "re-",
+       "反向",
+       "反対に"
+      ],
+      [
+       "sent",
+       "感觉",
+       "感じる"
+      ],
+      [
+       "-ment",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "resent + -ment。",
+      "ja": "resent＋-ment。"
+     },
+     "forms": [
+      [
+       "build up resentment",
+       "积怨",
+       "不満が積もる"
+      ],
+      [
+       "harbor resentment",
+       "心怀怨恨",
+       "恨みを抱く"
+      ]
+     ],
+     "tip": {
+      "zh": "workplace resentment = 职场积怨。",
+      "ja": "職場の不満。"
+     }
+    },
+    {
+     "w": "dissent",
+     "pos": "n./v.",
+     "ipa": "/dɪˈsɛnt/",
+     "zh": "异议；不同意",
+     "ja": "異議；異議を唱える",
+     "ex": "Two board members filed a written dissent.",
+     "ex_zh": "两名董事提交了书面异议。",
+     "ex_ja": "取締役 2 名が書面で異議を提出しました。",
+     "parts": [
+      [
+       "dis-",
+       "分开/不同",
+       "離れて"
+      ],
+      [
+       "sent",
+       "感觉",
+       "感じる"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 dissentire“感觉不同 → 异议”。反义 assent / consent。",
+      "ja": "ラテン語 dissentire。対義は assent / consent。"
+     },
+     "forms": [
+      [
+       "dissenting opinion",
+       "反对意见",
+       "反対意見"
+      ],
+      [
+       "voice dissent",
+       "表达异议",
+       "異議を表明する"
+      ]
+     ],
+     "tip": {
+      "zh": "法律/董事会语境。",
+      "ja": "取締役会・判決で。"
+     }
+    },
+    {
+     "w": "assent",
+     "pos": "n./v.",
+     "ipa": "/əˈsɛnt/",
+     "zh": "赞成；同意",
+     "ja": "賛成；同意する",
+     "ex": "The proposal passed with the unanimous assent of the committee.",
+     "ex_zh": "该提案经委员会一致赞成获得通过。",
+     "ex_ja": "その提案は委員会の満場一致の賛成で可決されました。",
+     "parts": [
+      [
+       "as-",
+       "朝向",
+       "〜へ"
+      ],
+      [
+       "sent",
+       "感觉",
+       "感じる"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 assentire“表示赞成”；比 consent 更偏“点头同意”。",
+      "ja": "ラテン語 assentire。consent より「賛意を示す」。"
+     },
+     "forms": [
+      [
+       "give assent",
+       "表示赞成",
+       "賛成する"
+      ],
+      [
+       "royal assent",
+       "御准（法律）",
+       "裁可"
+      ]
+     ],
+     "tip": {
+      "zh": "unanimous assent = 一致赞成。",
+      "ja": "unanimous assent＝満場一致。"
+     }
+    },
+    {
+     "w": "sensory",
+     "pos": "adj.",
+     "ipa": "/ˈsɛnsəri/",
+     "zh": "感官的；感觉的",
+     "ja": "感覚の；知覚の",
+     "ex": "The exhibit offers a full sensory experience for visitors.",
+     "ex_zh": "该展览为参观者提供全方位感官体验。",
+     "ex_ja": "その展示は来場者に総合的な感覚体験を提供します。",
+     "parts": [
+      [
+       "sens",
+       "感觉",
+       "感じる"
+      ],
+      [
+       "-ory",
+       "…的",
+       "〜の"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 sensorius“与感官有关的”。",
+      "ja": "ラテン語 sensorius。"
+     },
+     "forms": [
+      [
+       "sensory input",
+       "感官输入",
+       "感覚入力"
+      ],
+      [
+       "sensory overload",
+       "感官过载",
+       "感覚過多"
+      ]
+     ],
+     "tip": {
+      "zh": "marketing / UX 语境也常见。",
+      "ja": "マーケ・UX でも。"
+     }
+    },
+    {
+     "w": "sentiment",
+     "pos": "n.",
+     "ipa": "/ˈsɛntəmənt/",
+     "zh": "情绪；观点；舆情",
+     "ja": "感情；意見；世論",
+     "ex": "Public sentiment toward the merger has turned negative.",
+     "ex_zh": "公众对该并购的情绪已转为负面。",
+     "ex_ja": "合併に対する世論は否定的に転じました。",
+     "parts": [
+      [
+       "sent",
+       "感觉",
+       "感じる"
+      ],
+      [
+       "-i-",
+       "连接",
+       "連結"
+      ],
+      [
+       "-ment",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 sentimentum“感觉到的东西 → 情绪、意见”。",
+      "ja": "ラテン語 sentimentum「感じたもの → 感情・意見」。"
+     },
+     "forms": [
+      [
+       "public sentiment",
+       "公众情绪",
+       "世論"
+      ],
+      [
+       "market sentiment",
+       "市场情绪",
+       "市場心理"
+      ]
+     ],
+     "tip": {
+      "zh": "market sentiment = 市场情绪。",
+      "ja": "market sentiment＝市場心理。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "corp",
+   "title_zh": "词根 -corp-：身体、团体",
+   "title_ja": "語根 -corp-：身体・団体",
+   "words": [
+    {
+     "w": "corporation",
+     "pos": "n.",
+     "ipa": "/ˌkɔrpəˈreɪʃən/",
+     "zh": "公司；法人",
+     "ja": "会社；法人",
+     "ex": "The corporation announced a restructuring plan yesterday.",
+     "ex_zh": "该公司昨天宣布了重组计划。",
+     "ex_ja": "その会社は昨日、組織再編計画を発表しました。",
+     "parts": [
+      [
+       "corp",
+       "身体/团体",
+       "身体・団体"
+      ],
+      [
+       "-or",
+       "…的",
+       "〜の"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 corporatio“形成团体 → 法人公司”。",
+      "ja": "ラテン語 corporatio「団体を作る → 法人」。"
+     },
+     "forms": [
+      [
+       "multinational corporation",
+       "跨国公司",
+       "多国籍企業"
+      ],
+      [
+       "corporate (adj.)",
+       "公司的",
+       "企業の"
+      ]
+     ],
+     "tip": {
+      "zh": "Corp. = Corporation 缩写。",
+      "ja": "Corp.＝Corporation の略。"
+     }
+    },
+    {
+     "w": "incorporate",
+     "pos": "v.",
+     "ipa": "/ɪnˈkɔrpəˌreɪt/",
+     "zh": "合并；注册成立；纳入",
+     "ja": "取り入れる；法人化する",
+     "ex": "Please incorporate these revisions into the final draft.",
+     "ex_zh": "请将这些修改纳入最终草稿。",
+     "ex_ja": "これらの修正を最終原稿に取り入れてください。",
+     "parts": [
+      [
+       "in-",
+       "进入",
+       "中へ"
+      ],
+      [
+       "corp",
+       "身体",
+       "身体"
+      ],
+      [
+       "-orate",
+       "动词后缀",
+       "動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 incorporare“纳入身体 → 合并、成立公司”。",
+      "ja": "ラテン語 incorporare「身体に取り入れる」。"
+     },
+     "forms": [
+      [
+       "incorporated (adj.)",
+       "注册的；Inc.",
+       "法人化された"
+      ],
+      [
+       "incorporation (n.)",
+       "合并；注册",
+       "法人化"
+      ]
+     ],
+     "tip": {
+      "zh": "Inc. = Incorporated。",
+      "ja": "Inc.＝Incorporated。"
+     },
+     "hl": "incorporate"
+    },
+    {
+     "w": "incorporation",
+     "pos": "n.",
+     "ipa": "/ɪnˌkɔrpəˈreɪʃən/",
+     "zh": "注册成立；合并纳入",
+     "ja": "法人化；取り込み",
+     "ex": "Articles of incorporation must be filed with the state.",
+     "ex_zh": "公司章程必须向州政府备案。",
+     "ex_ja": "定款は州に提出しなければなりません。",
+     "parts": [
+      [
+       "in-",
+       "进入",
+       "中へ"
+      ],
+      [
+       "corp",
+       "身体",
+       "身体"
+      ],
+      [
+       "-oration",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "incorporate 的名词；法律文件 articles of incorporation。",
+      "ja": "incorporate の名詞。articles of incorporation＝定款。"
+     },
+     "forms": [
+      [
+       "articles of incorporation",
+       "公司章程",
+       "定款"
+      ],
+      [
+       "certificate of incorporation",
+       "公司注册证书",
+       "設立証明書"
+      ]
+     ],
+     "tip": {
+      "zh": "articles of incorporation = 公司章程。",
+      "ja": "定款の定番表現。"
+     }
+    },
+    {
+     "w": "corps",
+     "pos": "n.",
+     "ipa": "/kɔr/",
+     "zh": "军团；队；团体",
+     "ja": "部隊；隊；団体",
+     "ex": "A press corps of fifty reporters covered the summit.",
+     "ex_zh": "五十名记者组成的记者团报道了峰会。",
+     "ex_ja": "50 人の記者団が首脳会議を取材しました。",
+     "parts": [
+      [
+       "corps",
+       "身体/团体",
+       "身体・団体"
+      ]
+     ],
+     "note": {
+      "zh": "法语 corps（来自拉丁语 corpus）；单复数同形，读 /kɔr/。",
+      "ja": "フランス語 corps＜ラテン語 corpus。単複同形、発音 /kɔr/。"
+     },
+     "forms": [
+      [
+       "press corps",
+       "记者团",
+       "記者団"
+      ],
+      [
+       "Peace Corps",
+       "和平队",
+       "平和部隊"
+      ]
+     ],
+     "tip": {
+      "zh": "勿与 corpse（尸体 /kɔrps/）混淆。",
+      "ja": "corpse（死体）と発音・意味を区別。"
+     }
+    },
+    {
+     "w": "corporal",
+     "pos": "adj.",
+     "ipa": "/ˈkɔrpərəl/",
+     "zh": "身体的",
+     "ja": "身体の",
+     "ex": "The policy strictly prohibits corporal punishment.",
+     "ex_zh": "该政策严格禁止体罚。",
+     "ex_ja": "その方針は体罰を厳禁しています。",
+     "parts": [
+      [
+       "corp",
+       "身体",
+       "身体"
+      ],
+      [
+       "-oral",
+       "…的",
+       "〜の"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 corporalis“身体的”；也作军衔“下士”（名词）。",
+      "ja": "ラテン語 corporalis。名詞では「伍長」。"
+     },
+     "forms": [
+      [
+       "corporal punishment",
+       "体罚",
+       "体罰"
+      ],
+      [
+       "corporal (n.)",
+       "下士",
+       "伍長"
+      ]
+     ],
+     "tip": {
+      "zh": "HR / 学校政策语境。",
+      "ja": "人事・学校方針で。"
+     }
+    },
+    {
+     "w": "corpus",
+     "pos": "n.",
+     "ipa": "/ˈkɔrpəs/",
+     "zh": "文集；语料库；（法律）主体",
+     "ja": "コーパス；文献集成；本体",
+     "ex": "Researchers built a large corpus of customer emails.",
+     "ex_zh": "研究人员建立了一个庞大的客户邮件语料库。",
+     "ex_ja": "研究者は顧客メールの大規模コーパスを構築しました。",
+     "parts": [
+      [
+       "corpus",
+       "身体/整体",
+       "身体・全体"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 corpus 原义“身体”；引申为“整体、语料”。复数 corpora。",
+      "ja": "ラテン語 corpus。複数は corpora。"
+     },
+     "forms": [
+      [
+       "corpus of law",
+       "法律汇编",
+       "法令集"
+      ],
+      [
+       "habeas corpus",
+       "人身保护令",
+       "人身保護令状"
+      ]
+     ],
+     "tip": {
+      "zh": "habeas corpus = 人身保护令。",
+      "ja": "habeas corpus＝人身保護令状。"
+     }
+    },
+    {
+     "w": "corpulent",
+     "pos": "adj.",
+     "ipa": "/ˈkɔrpjələnt/",
+     "zh": "肥胖的",
+     "ja": "肥満した",
+     "ex": "The corpulent executive struggled with the long flight of stairs.",
+     "ex_zh": "那位体态肥胖的高管爬那长段楼梯很吃力。",
+     "ex_ja": "その大柄な役員は長い階段を苦労して上りました。",
+     "parts": [
+      [
+       "corp",
+       "身体",
+       "身体"
+      ],
+      [
+       "-ulent",
+       "充满…的",
+       "〜に満ちた"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 corpulentus“身体多肉的”；正式/文学用词。",
+      "ja": "ラテン語 corpulentus。フォーマル・文語。"
+     },
+     "forms": [
+      [
+       "corpulence (n.)",
+       "肥胖",
+       "肥満"
+      ],
+      [
+       "obese (adj.)",
+       "肥胖的（医学）",
+       "肥満の（医学）"
+      ]
+     ],
+     "tip": {
+      "zh": "比 fat 更正式委婉。",
+      "ja": "fat よりフォーマル。"
+     }
+    },
+    {
+     "w": "corporeal",
+     "pos": "adj.",
+     "ipa": "/kɔrˈpɔriəl/",
+     "zh": "有形的；身体的",
+     "ja": "身体を持つ；有形の",
+     "ex": "The museum focuses on corporeal works rather than digital art.",
+     "ex_zh": "该博物馆侧重有形作品而非数字艺术。",
+     "ex_ja": "その美術館はデジタルアートより有形の作品に焦点を当てています。",
+     "parts": [
+      [
+       "corp",
+       "身体",
+       "身体"
+      ],
+      [
+       "-oreal",
+       "…的",
+       "〜の"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 corporeus“有身体的”；反义 incorporeal（无形的）。",
+      "ja": "ラテン語 corporeus。対義は incorporeal（無形の）。"
+     },
+     "forms": [
+      [
+       "corporeal property",
+       "有形财产",
+       "有形財産"
+      ],
+      [
+       "incorporeal (adj.)",
+       "无形的",
+       "無形の"
+      ]
+     ],
+     "tip": {
+      "zh": "法律：corporeal vs incorporeal property。",
+      "ja": "有形・無形財産の対比。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "construction",
+   "title_zh": "主题：建筑工程与设施管理",
+   "title_ja": "テーマ：建築・施設管理",
+   "words": [
+    {
+     "w": "scaffolding",
+     "pos": "n.",
+     "ipa": "/ˈskæfəldɪŋ/",
+     "zh": "脚手架",
+     "ja": "足場",
+     "ex": "Workers erected scaffolding around the east wing.",
+     "ex_zh": "工人在东翼周围搭起了脚手架。",
+     "ex_ja": "作業員が東棟の周囲に足場を組みました。",
+     "parts": [
+      [
+       "scaffold",
+       "脚手架平台",
+       "足場"
+      ],
+      [
+       "-ing",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "中古英语 scaffold；没有可靠的简单拉丁词根拆分。",
+      "ja": "中英語 scaffold。単純なラテン語根分解はなし。"
+     },
+     "forms": [
+      [
+       "erect scaffolding",
+       "搭建脚手架",
+       "足場を組む"
+      ],
+      [
+       "scaffolding permit",
+       "脚手架许可",
+       "足場許可"
+      ]
+     ],
+     "tip": {
+      "zh": "建筑工地 Part 7 常见。",
+      "ja": "工事現場の読解で。"
+     },
+     "hl": "scaffolding"
+    },
+    {
+     "w": "foundation",
+     "pos": "n.",
+     "ipa": "/faʊnˈdeɪʃən/",
+     "zh": "地基；基础；基金会",
+     "ja": "基礎；土台；財団",
+     "ex": "Cracks in the foundation require immediate inspection.",
+     "ex_zh": "地基裂缝需要立即检查。",
+     "ex_ja": "基礎のひび割れは直ちに点検が必要です。",
+     "parts": [
+      [
+       "found",
+       "奠定基础",
+       "基礎を置く"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 fundatio，来自 fundus“底部”；与 fund（资金）同源。",
+      "ja": "ラテン語 fundatio（fundus「底」）。fund と同系。"
+     },
+     "forms": [
+      [
+       "lay the foundation",
+       "打地基；奠定基础",
+       "基礎を築く"
+      ],
+      [
+       "foundation stone",
+       "基石",
+       "礎石"
+      ]
+     ],
+     "tip": {
+      "zh": "也可指基金会。",
+      "ja": "財団の意味も。"
+     }
+    },
+    {
+     "w": "plumber",
+     "pos": "n.",
+     "ipa": "/ˈplʌmər/",
+     "zh": "水管工",
+     "ja": "配管工",
+     "ex": "Call a licensed plumber to fix the leaking pipe.",
+     "ex_zh": "请叫持证水管工来修理漏水管。",
+     "ex_ja": "漏水した配管の修理は資格のある配管工に頼んでください。",
+     "parts": [
+      [
+       "plumb",
+       "铅（水管曾用铅）",
+       "鉛"
+      ],
+      [
+       "-er",
+       "从事…的人",
+       "人"
+      ]
+     ],
+     "note": {
+      "zh": "来自拉丁语 plumbum“铅”（旧时水管材料）；无 reliable 其他词根。",
+      "ja": "ラテン語 plumbum「鉛」から。"
+     },
+     "forms": [
+      [
+       "plumbing (n.)",
+       "管道工程",
+       "配管工事"
+      ],
+      [
+       "licensed plumber",
+       "持证水管工",
+       "資格のある配管工"
+      ]
+     ],
+     "tip": {
+      "zh": "facility maintenance 高频。",
+      "ja": "施設管理で頻出。"
+     }
+    },
+    {
+     "w": "electrician",
+     "pos": "n.",
+     "ipa": "/ɪˌlɛkˈtrɪʃən/",
+     "zh": "电工",
+     "ja": "電気技師；電気工事士",
+     "ex": "The electrician will replace the faulty circuit breaker tomorrow.",
+     "ex_zh": "电工明天将更换故障断路器。",
+     "ex_ja": "電気工事士が明日、故障したブレーカーを交換します。",
+     "parts": [
+      [
+       "electric",
+       "电的",
+       "電気の"
+      ],
+      [
+       "-ian",
+       "从事…的人",
+       "人"
+      ]
+     ],
+     "note": {
+      "zh": "electric + -ian；electric 来自希腊语 elektron（琥珀）。",
+      "ja": "electric＋-ian。electric はギリシャ語 elektron（琥珀）から。"
+     },
+     "forms": [
+      [
+       "licensed electrician",
+       "持证电工",
+       "電気工事士"
+      ],
+      [
+       "electrical work",
+       "电气工程",
+       "電気工事"
+      ]
+     ],
+     "tip": {
+      "zh": "与 plumber 常成对出现。",
+      "ja": "plumber と対で出やすい。"
+     }
+    },
+    {
+     "w": "fixture",
+     "pos": "n.",
+     "ipa": "/ˈfɪkstʃər/",
+     "zh": "固定装置；固定装置物",
+     "ja": "備品；固定器具",
+     "ex": "All lighting fixtures will be replaced during the renovation.",
+     "ex_zh": "翻新期间将更换所有灯具。",
+     "ex_ja": "改修中にすべての照明器具を交換します。",
+     "parts": [
+      [
+       "fix",
+       "固定",
+       "固定する"
+      ],
+      [
+       "-ture",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 fixura“固定之物”；法律上指附着于建筑的装置。",
+      "ja": "ラテン語 fixura。建物に取り付けられた備品。"
+     },
+     "forms": [
+      [
+       "lighting fixture",
+       "灯具",
+       "照明器具"
+      ],
+      [
+       "plumbing fixture",
+       "卫浴装置",
+       "衛生器具"
+      ]
+     ],
+     "tip": {
+      "zh": "lease 中 fixtures vs fittings。",
+      "ja": "賃貸契約で備品の扱い。"
+     }
+    },
+    {
+     "w": "wiring",
+     "pos": "n.",
+     "ipa": "/ˈwaɪərɪŋ/",
+     "zh": "线路；布线",
+     "ja": "配線",
+     "ex": "The old wiring does not meet current fire-safety codes.",
+     "ex_zh": "旧线路不符合现行消防安全规范。",
+     "ex_ja": "古い配線は現行の防火基準を満たしていません。",
+     "parts": [
+      [
+       "wire",
+       "电线",
+       "電線"
+      ],
+      [
+       "-ing",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "本族词 wire + -ing；没有可靠拉丁词根拆分。",
+      "ja": "英語 wire＋-ing。"
+     },
+     "forms": [
+      [
+       "electrical wiring",
+       "电气线路",
+       "電気配線"
+      ],
+      [
+       "rewiring (n.)",
+       "重新布线",
+       "再配線"
+      ]
+     ],
+     "tip": {
+      "zh": "building inspection 常见。",
+      "ja": "建物検査で。"
+     }
+    },
+    {
+     "w": "demolition",
+     "pos": "n.",
+     "ipa": "/ˌdɛməˈlɪʃən/",
+     "zh": "拆除；拆毁",
+     "ja": "解体；取り壊し",
+     "ex": "Demolition of the warehouse begins next Monday.",
+     "ex_zh": "仓库拆除工作下周一开始。",
+     "ex_ja": "倉庫の解体は来週月曜に始まります。",
+     "parts": [
+      [
+       "de-",
+       "向下/除去",
+       "下へ・除去"
+      ],
+      [
+       "mol",
+       "堆/建筑（moles）",
+       "塊"
+      ],
+      [
+       "-ition",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 demolitio，来自 demoliri“拆毁”。",
+      "ja": "ラテン語 demolitio（demoliri「取り壊す」）。"
+     },
+     "forms": [
+      [
+       "demolition permit",
+       "拆除许可",
+       "解体許可"
+      ],
+      [
+       "demolish (v.)",
+       "拆除",
+       "取り壊す"
+      ]
+     ],
+     "tip": {
+      "zh": "需 demolition permit。",
+      "ja": "解体許可が必要。"
+     }
+    },
+    {
+     "w": "zoning",
+     "pos": "n.",
+     "ipa": "/ˈzoʊnɪŋ/",
+     "zh": "分区规划；用途分区",
+     "ja": "用途地域；ゾーニング",
+     "ex": "Zoning rules prohibit factories in this residential area.",
+     "ex_zh": "分区规划禁止在该住宅区设厂。",
+     "ex_ja": "用途地域の規則で、この住宅地に工場は認められません。",
+     "parts": [
+      [
+       "zone",
+       "区域",
+       "区域"
+      ],
+      [
+       "-ing",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "zone 来自希腊语 zone（腰带 → 地带）；zoning 为城市规划用语。",
+      "ja": "zone＜ギリシャ語 zone。都市計画用語。"
+     },
+     "forms": [
+      [
+       "zoning ordinance",
+       "分区条例",
+       "用途地域条例"
+      ],
+      [
+       "rezoning (n.)",
+       "重新分区",
+       "用途変更"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7 市政通知常见。",
+      "ja": "市の通知で頻出。"
+     }
+    },
+    {
+     "w": "permit",
+     "pos": "n./v.",
+     "ipa": "/ˈpɝmɪt/",
+     "zh": "许可证；允许",
+     "ja": "許可証；許可する",
+     "ex": "You need a building permit before starting construction.",
+     "ex_zh": "开工前需要建筑许可证。",
+     "ex_ja": "工事を始める前に建築許可が必要です。",
+     "parts": [
+      [
+       "per-",
+       "通过",
+       "貫いて"
+      ],
+      [
+       "mit",
+       "送/让（mittere）",
+       "送る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 permittere“让通过 → 允许”（Day 1 词根 -mit-）。",
+      "ja": "ラテン語 permittere（Day 1 の -mit-）。"
+     },
+     "forms": [
+      [
+       "building permit",
+       "建筑许可证",
+       "建築許可"
+      ],
+      [
+       "parking permit",
+       "停车证",
+       "駐車許可証"
+      ]
+     ],
+     "tip": {
+      "zh": "名词重音在前，动词在后。",
+      "ja": "名詞と動詞でアクセントが異なる。"
+     }
+    },
+    {
+     "w": "concrete",
+     "pos": "n./adj.",
+     "ipa": "/ˈkɑnkrit/",
+     "zh": "混凝土；具体的",
+     "ja": "コンクリート；具体的な",
+     "ex": "The crew poured concrete for the new parking deck.",
+     "ex_zh": "施工队为新停车场浇筑了混凝土。",
+     "ex_ja": "作業班は新しい駐車場デッキにコンクリートを流し込みました。",
+     "parts": [
+      [
+       "con-",
+       "共同",
+       "共に"
+      ],
+      [
+       "crete",
+       "生长/凝结（crescere）",
+       "成長する"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 concretus“凝结在一起的”；作 adj. 也指“具体的”。",
+      "ja": "ラテン語 concretus「固まった」。形容詞では「具体的な」。"
+     },
+     "forms": [
+      [
+       "reinforced concrete",
+       "钢筋混凝土",
+       "鉄筋コンクリート"
+      ],
+      [
+       "in concrete terms",
+       "具体来说",
+       "具体的に言うと"
+      ]
+     ],
+     "tip": {
+      "zh": "pour concrete = 浇筑混凝土。",
+      "ja": "pour concrete＝コンクリートを打設する。"
+     },
+     "hl": "concrete"
+    },
+    {
+     "w": "excavation",
+     "pos": "n.",
+     "ipa": "/ˌɛkskəˈveɪʃən/",
+     "zh": "挖掘；发掘",
+     "ja": "掘削；発掘",
+     "ex": "Excavation revealed an old underground pipe.",
+     "ex_zh": "挖掘发现了旧的地下管道。",
+     "ex_ja": "掘削で古い地下配管が見つかりました。",
+     "parts": [
+      [
+       "ex-",
+       "出",
+       "外へ"
+      ],
+      [
+       "cav",
+       "洞（cavus）",
+       "空洞"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 excavatio，来自 excavare“挖空”。",
+      "ja": "ラテン語 excavatio（excavare「掘る」）。"
+     },
+     "forms": [
+      [
+       "excavation site",
+       "挖掘现场",
+       "掘削現場"
+      ],
+      [
+       "excavate (v.)",
+       "挖掘",
+       "掘る"
+      ]
+     ],
+     "tip": {
+      "zh": "开工前常有 excavation work。",
+      "ja": "着工前の掘削工事。"
+     }
+    },
+    {
+     "w": "surveyor",
+     "pos": "n.",
+     "ipa": "/sərˈveɪər/",
+     "zh": "测量员；勘测员",
+     "ja": "測量士；調査員",
+     "ex": "A licensed surveyor marked the property boundaries.",
+     "ex_zh": "持证测量员标定了地产边界。",
+     "ex_ja": "資格のある測量士が土地の境界を示しました。",
+     "parts": [
+      [
+       "survey",
+       "勘测",
+       "測量する"
+      ],
+      [
+       "-or",
+       "施动者",
+       "行為者"
+      ]
+     ],
+     "note": {
+      "zh": "survey 来自古法语 surveeir“俯视”；+ -or。",
+      "ja": "survey＜古フランス語 surveeir「見渡す」＋-or。"
+     },
+     "forms": [
+      [
+       "land surveyor",
+       "土地测量员",
+       "土地測量士"
+      ],
+      [
+       "survey (n./v.)",
+       "测量；调查",
+       "測量；調査"
+      ]
+     ],
+     "tip": {
+      "zh": "房地产交易必经步骤。",
+      "ja": "不動産取引で必須。"
+     }
+    },
+    {
+     "w": "ventilation",
+     "pos": "n.",
+     "ipa": "/ˌvɛntəˈleɪʃən/",
+     "zh": "通风；换气",
+     "ja": "換気；通風",
+     "ex": "Poor ventilation in the basement caused mold growth.",
+     "ex_zh": "地下室通风不良导致霉菌滋生。",
+     "ex_ja": "地下室の換気不足がカビの原因になりました。",
+     "parts": [
+      [
+       "ventil",
+       "风（ventus）",
+       "風"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 ventilatio，来自 ventus“风”（与 Day 4 -ven- 不同，但相关语义场）。",
+      "ja": "ラテン語 ventilatio（ventus「風」）。"
+     },
+     "forms": [
+      [
+       "ventilation system",
+       "通风系统",
+       "換気システム"
+      ],
+      [
+       "ventilate (v.)",
+       "使通风",
+       "換気する"
+      ]
+     ],
+     "tip": {
+      "zh": "building code / HVAC 相关。",
+      "ja": "建築基準・空調関連。"
+     }
+    },
+    {
+     "w": "refurbishment",
+     "pos": "n.",
+     "ipa": "/riˈfɝbɪʃmənt/",
+     "zh": "翻新；整修",
+     "ja": "改装；改修",
+     "ex": "The lobby refurbishment will take three months.",
+     "ex_zh": "大堂翻新将耗时三个月。",
+     "ex_ja": "ロビーの改装には 3 か月かかります。",
+     "parts": [
+      [
+       "re-",
+       "再",
+       "再び"
+      ],
+      [
+       "furbish",
+       "擦亮/整修",
+       "磨き上げる"
+      ],
+      [
+       "-ment",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "furbish 来自古法语 forbir“擦亮”；无 reliable 简单拉丁词根。",
+      "ja": "furbish＜古フランス語 forbir「磨く」。"
+     },
+     "forms": [
+      [
+       "refurbish (v.)",
+       "翻新",
+       "改装する"
+      ],
+      [
+       "office refurbishment",
+       "办公室翻新",
+       "オフィス改装"
+      ]
+     ],
+     "tip": {
+      "zh": "比 renovation 更偏“整修一新”。",
+      "ja": "renovation より「改装・一新」。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "trade",
+   "title_zh": "主题：国际贸易与进出口",
+   "title_ja": "テーマ：国際貿易・輸出入",
+   "words": [
+    {
+     "w": "tariff",
+     "pos": "n.",
+     "ipa": "/ˈtærɪf/",
+     "zh": "关税；价目表",
+     "ja": "関税；料金表",
+     "ex": "The new tariff on steel imports takes effect in January.",
+     "ex_zh": "对进口钢材的新关税一月份生效。",
+     "ex_ja": "鉄鋼輸入に対する新関税は 1 月から実施されます。",
+     "parts": [
+      [
+       "tariff",
+       "关税表",
+       "関税表"
+      ]
+     ],
+     "note": {
+      "zh": "意大利语 tariffa，来自阿拉伯语 taʿrīf“通知、定价”；无拉丁词根拆分。",
+      "ja": "イタリア語 tariffa＜アラビア語。ラテン語根分解はなし。"
+     },
+     "forms": [
+      [
+       "import tariff",
+       "进口关税",
+       "輸入関税"
+      ],
+      [
+       "tariff rate",
+       "关税率",
+       "関税率"
+      ]
+     ],
+     "tip": {
+      "zh": "贸易战新闻高频。",
+      "ja": "貿易ニュースで頻出。"
+     }
+    },
+    {
+     "w": "quota",
+     "pos": "n.",
+     "ipa": "/ˈkwoʊtə/",
+     "zh": "配额；限额",
+     "ja": "割当；クォータ",
+     "ex": "The export quota for this product was raised by 10%.",
+     "ex_zh": "该产品的出口配额提高了 10%。",
+     "ex_ja": "この製品の輸出割当は 10％引き上げられました。",
+     "parts": [
+      [
+       "quota",
+       "份额",
+       "割当"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 quota（pars）“多少份额”；与 quote 同源。",
+      "ja": "ラテン語 quota「どれだけの分」。quote と同系。"
+     },
+     "forms": [
+      [
+       "import quota",
+       "进口配额",
+       "輸入割当"
+      ],
+      [
+       "meet a quota",
+       "完成配额",
+       "ノルマを達成する"
+      ]
+     ],
+     "tip": {
+      "zh": "sales quota = 销售指标。",
+      "ja": "sales quota＝販売ノルマ。"
+     }
+    },
+    {
+     "w": "duty",
+     "pos": "n.",
+     "ipa": "/ˈduti/",
+     "zh": "关税；职责",
+     "ja": "関税；義務",
+     "ex": "Customs duty must be paid before the goods are released.",
+     "ex_zh": "货物放行前必须缴纳关税。",
+     "ex_ja": "貨物が引き渡される前に関税を支払う必要があります。",
+     "parts": [
+      [
+       "duty",
+       "应尽之事",
+       "なすべきこと"
+      ]
+     ],
+     "note": {
+      "zh": "古法语deu“应付的”；贸易义“关税”，日常义“职责”。",
+      "ja": "古フランス語 deu。貿易では「関税」、日常では「義務」。"
+     },
+     "forms": [
+      [
+       "customs duty",
+       "关税",
+       "関税"
+      ],
+      [
+       "duty-free",
+       "免税的",
+       "免税の"
+      ],
+      [
+       "on duty",
+       "值班",
+       "勤務中"
+      ]
+     ],
+     "tip": {
+      "zh": "duty-free shop = 免税店。",
+      "ja": "duty-free＝免税。"
+     }
+    },
+    {
+     "w": "embargo",
+     "pos": "n./v.",
+     "ipa": "/ɛmˈbɑrɡoʊ/",
+     "zh": "禁运；贸易禁止",
+     "ja": "禁輸；通商禁止",
+     "ex": "The embargo on oil exports lasted for six months.",
+     "ex_zh": "石油出口禁运持续了六个月。",
+     "ex_ja": "石油輸出の禁輸は 6 か月続きました。",
+     "parts": [
+      [
+       "em-",
+       "进入",
+       "中へ"
+      ],
+      [
+       "barco",
+       "船（barco）",
+       "船"
+      ]
+     ],
+     "note": {
+      "zh": "西班牙语 embargo“扣押、禁止”（barco“船”相关）；贸易制裁用语。",
+      "ja": "スペイン語 embargo「差押え・禁止」。"
+     },
+     "forms": [
+      [
+       "trade embargo",
+       "贸易禁运",
+       "貿易禁輸"
+      ],
+      [
+       "lift an embargo",
+       "解除禁运",
+       "禁輸を解除する"
+      ]
+     ],
+     "tip": {
+      "zh": "lift an embargo = 解除禁运。",
+      "ja": "lift an embargo＝禁輸解除。"
+     }
+    },
+    {
+     "w": "export",
+     "pos": "n./v.",
+     "ipa": "/ˈɛkspɔrt/",
+     "zh": "出口；输出",
+     "ja": "輸出；輸出する",
+     "ex": "Japan's car exports rose for the third consecutive month.",
+     "ex_zh": "日本汽车出口连续第三个月增长。",
+     "ex_ja": "日本の自動車輸出は 3 か月連続で増加しました。",
+     "parts": [
+      [
+       "ex-",
+       "出",
+       "外へ"
+      ],
+      [
+       "port",
+       "运送",
+       "運ぶ"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 exportare“运出去”（Day 1 词根 -port-）。",
+      "ja": "ラテン語 exportare（Day 1 の -port-）。"
+     },
+     "forms": [
+      [
+       "exporter (n.)",
+       "出口商",
+       "輸出業者"
+      ],
+      [
+       "export license",
+       "出口许可证",
+       "輸出許可証"
+      ]
+     ],
+     "tip": {
+      "zh": "名词重音在前。",
+      "ja": "名詞と動詞でアクセントが異なる。"
+     }
+    },
+    {
+     "w": "import",
+     "pos": "n./v.",
+     "ipa": "/ˈɪmpɔrt/",
+     "zh": "进口；输入",
+     "ja": "輸入；輸入する",
+     "ex": "We import raw materials from three Southeast Asian countries.",
+     "ex_zh": "我们从三个东南亚国家进口原材料。",
+     "ex_ja": "東南アジア 3 か国から原材料を輸入しています。",
+     "parts": [
+      [
+       "im-",
+       "进入",
+       "中へ"
+      ],
+      [
+       "port",
+       "运送",
+       "運ぶ"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 importare“运进来”（Day 1 词根 -port-）。",
+      "ja": "ラテン語 importare（Day 1 の -port-）。"
+     },
+     "forms": [
+      [
+       "importer (n.)",
+       "进口商",
+       "輸入業者"
+      ],
+      [
+       "import duty",
+       "进口税",
+       "輸入関税"
+      ]
+     ],
+     "tip": {
+      "zh": "imports and exports = 进出口。",
+      "ja": "imports and exports＝輸出入。"
+     }
+    },
+    {
+     "w": "manifest",
+     "pos": "n./v./adj.",
+     "ipa": "/ˈmænəˌfɛst/",
+     "zh": "舱单；显示；明显的",
+     "ja": "積荷目録；示す；明白な",
+     "ex": "The cargo manifest lists every item in the container.",
+     "ex_zh": "货物舱单列出了集装箱内每一件物品。",
+     "ex_ja": "積荷目録にはコンテナ内の全品目が記載されています。",
+     "parts": [
+      [
+       "mani-",
+       "手（manus）",
+       "手"
+      ],
+      [
+       "fest",
+       "可击/可触",
+       "打てる"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 manifestus“手可触及 → 明显的”；贸易中指 cargo manifest（舱单）。",
+      "ja": "ラテン語 manifestus。貿易では積荷目録。"
+     },
+     "forms": [
+      [
+       "cargo manifest",
+       "货物舱单",
+       "積荷目録"
+      ],
+      [
+       "passenger manifest",
+       "旅客名单",
+       "旅客名簿"
+      ]
+     ],
+     "tip": {
+      "zh": "通关文件关键词。",
+      "ja": "通関書類のキーワード。"
+     }
+    },
+    {
+     "w": "dumping",
+     "pos": "n.",
+     "ipa": "/ˈdʌmpɪŋ/",
+     "zh": "倾销",
+     "ja": "ダンピング；不当廉売",
+     "ex": "The ministry opened an anti-dumping investigation.",
+     "ex_zh": "该部启动了反倾销调查。",
+     "ex_ja": "省庁は反ダンピング調査を開始しました。",
+     "parts": [
+      [
+       "dump",
+       "倾倒",
+       "投げ捨てる"
+      ],
+      [
+       "-ing",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "dump（倾倒）的商业引申“低价抛售”；无拉丁词根。",
+      "ja": "dump の商業的転義。ラテン語根なし。"
+     },
+     "forms": [
+      [
+       "anti-dumping",
+       "反倾销",
+       "反ダンピング"
+      ],
+      [
+       "dumping duty",
+       "反倾销税",
+       "不当廉売関税"
+      ]
+     ],
+     "tip": {
+      "zh": "WTO / 贸易救济高频。",
+      "ja": "WTO・貿易救済で。"
+     }
+    },
+    {
+     "w": "subsidy",
+     "pos": "n.",
+     "ipa": "/ˈsʌbsədi/",
+     "zh": "补贴；补助金",
+     "ja": "補助金；助成金",
+     "ex": "Farmers receive a government subsidy for organic crops.",
+     "ex_zh": "农民种植有机作物可获政府补贴。",
+     "ex_ja": "有機作物を栽培する農家は政府の補助金を受けます。",
+     "parts": [
+      [
+       "sub-",
+       "在下/辅助",
+       "下に"
+      ],
+      [
+       "sid",
+       "坐（sedere）",
+       "座る"
+      ],
+      [
+       "-y",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 subsidium“支援部队 → 补助”；与 reside 等同源。",
+      "ja": "ラテン語 subsidium「支援 → 補助金」。"
+     },
+     "forms": [
+      [
+       "government subsidy",
+       "政府补贴",
+       "政府補助金"
+      ],
+      [
+       "subsidize (v.)",
+       "补贴",
+       "助成する"
+      ]
+     ],
+     "tip": {
+      "zh": "trade dispute 常见争议点。",
+      "ja": "貿易紛争の争点に。"
+     }
+    },
+    {
+     "w": "forwarder",
+     "pos": "n.",
+     "ipa": "/ˈfɔrwərdər/",
+     "zh": "货运代理；货代",
+     "ja": "フォワーダー；運送手配業者",
+     "ex": "Our freight forwarder handles all cross-border paperwork.",
+     "ex_zh": "我们的货代处理所有跨境文件。",
+     "ex_ja": "フォワーダーがすべての越境書類を処理します。",
+     "parts": [
+      [
+       "forward",
+       "向前运送",
+       "前方へ"
+      ],
+      [
+       "-er",
+       "施动者",
+       "行為者"
+      ]
+     ],
+     "note": {
+      "zh": "forward（转发、运送）+ -er；行业称 freight forwarder。",
+      "ja": "forward＋-er。freight forwarder＝貨物フォワーダー。"
+     },
+     "forms": [
+      [
+       "freight forwarder",
+       "货运代理",
+       "貨物フォワーダー"
+      ],
+      [
+       "forwarding company",
+       "货代公司",
+       "転送会社"
+      ]
+     ],
+     "tip": {
+      "zh": "freight forwarder 固定搭配。",
+      "ja": "freight forwarder が定番。"
+     }
+    },
+    {
+     "w": "commodity",
+     "pos": "n.",
+     "ipa": "/kəˈmɑdəti/",
+     "zh": "商品；大宗商品",
+     "ja": "商品；コモディティ",
+     "ex": "Oil is the most heavily traded commodity in the world.",
+     "ex_zh": "石油是全球交易量最大的大宗商品。",
+     "ex_ja": "石油は世界で最も取引量の多いコモディティです。",
+     "parts": [
+      [
+       "com-",
+       "共同",
+       "共に"
+      ],
+      [
+       "mod",
+       "尺度/方式（modus）",
+       "尺度"
+      ],
+      [
+       "-ity",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 commoditas“便利、合用之物 → 商品”。",
+      "ja": "ラテン語 commoditas「便利なもの → 商品」。"
+     },
+     "forms": [
+      [
+       "commodity market",
+       "大宗商品市场",
+       "商品市場"
+      ],
+      [
+       "commodity price",
+       "大宗商品价格",
+       "商品価格"
+      ]
+     ],
+     "tip": {
+      "zh": "commodity trading = 大宗商品交易。",
+      "ja": "commodity trading＝商品取引。"
+     }
+    },
+    {
+     "w": "consignee",
+     "pos": "n.",
+     "ipa": "/ˌkɑnsaɪˈni/",
+     "zh": "收货人",
+     "ja": "荷受人",
+     "ex": "The consignee must sign for the delivery upon arrival.",
+     "ex_zh": "收货人必须在货物抵达时签收。",
+     "ex_ja": "荷受人は到着時に受取り署名をしなければなりません。",
+     "parts": [
+      [
+       "con-",
+       "共同",
+       "共に"
+      ],
+      [
+       "sign",
+       "标记/签署",
+       "印"
+      ],
+      [
+       "-ee",
+       "受动者",
+       "受ける人"
+      ]
+     ],
+     "note": {
+      "zh": "法语 consign + -ee（受动者）；与 consignor（发货人）相对。",
+      "ja": "consign＋-ee（受ける側）。対語は consignor（荷送人）。"
+     },
+     "forms": [
+      [
+       "notify the consignee",
+       "通知收货人",
+       "荷受人に通知する"
+      ],
+      [
+       "consignor (n.)",
+       "发货人",
+       "荷送人"
+      ]
+     ],
+     "tip": {
+      "zh": "提单（B/L）必备栏位。",
+      "ja": "船荷証券の必須欄。"
+     }
+    },
+    {
+     "w": "consignor",
+     "pos": "n.",
+     "ipa": "/kənˈsaɪnər/",
+     "zh": "发货人；托运人",
+     "ja": "荷送人；委託者",
+     "ex": "The consignor is responsible for accurate labeling.",
+     "ex_zh": "发货人负责准确贴标。",
+     "ex_ja": "荷送人は正確なラベル貼付に責任を負います。",
+     "parts": [
+      [
+       "con-",
+       "共同",
+       "共に"
+      ],
+      [
+       "sign",
+       "标记",
+       "印"
+      ],
+      [
+       "-or",
+       "施动者",
+       "行為者"
+      ]
+     ],
+     "note": {
+      "zh": "consign + -or；与 consignee 成对出现在运输单据上。",
+      "ja": "consign＋-or。輸送書類で consignee と対。"
+     },
+     "forms": [
+      [
+       "consign (v.)",
+       "托运；交付",
+       "委託する"
+      ],
+      [
+       "consignment (n.)",
+       "寄售货物",
+       "委託貨物"
+      ]
+     ],
+     "tip": {
+      "zh": "consignment 已在前几日学过。",
+      "ja": "consignment は既出の関連語。"
+     }
+    },
+    {
+     "w": "demurrage",
+     "pos": "n.",
+     "ipa": "/dɪˈmɝɪdʒ/",
+     "zh": "滞期费；延期停泊费",
+     "ja": "滞船料；延滞料",
+     "ex": "Late unloading resulted in heavy demurrage charges.",
+     "ex_zh": "卸货延误导致高额滞期费。",
+     "ex_ja": "荷下ろしの遅れで高額の滞船料が発生しました。",
+     "parts": [
+      [
+       "demur",
+       "迟疑/耽搁",
+       "ためらう"
+      ],
+      [
+       "-age",
+       "费用/状态",
+       "料金・状態"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 demorage“耽搁”；海运/集装箱超期费用。",
+      "ja": "古フランス語 demorage「遅延」。海上輸送の延滞料。"
+     },
+     "forms": [
+      [
+       "demurrage charge",
+       "滞期费",
+       "滞船料"
+      ],
+      [
+       "demurrage fee",
+       "延期费",
+       "延滞料金"
+      ]
+     ],
+     "tip": {
+      "zh": "container free time 过后产生。",
+      "ja": "フリータイム超過後に発生。"
+     }
+    }
+   ]
+  }
+ ]
+}
