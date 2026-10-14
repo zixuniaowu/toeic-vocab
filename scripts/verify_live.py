@@ -4,7 +4,7 @@
 Usage: python3 scripts/verify_live.py [N ...]   (default: every day in data/)
        BASE=https://zixuniaowu.github.io/toeic-vocab/ python3 scripts/verify_live.py 3
 """
-import os, re, sys, urllib.request
+import os, re, sys, urllib.request, urllib.error
 from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 
@@ -14,6 +14,16 @@ ROOT = Path(__file__).resolve().parent.parent
 
 
 def get(url, head=False):
+    import time
+    for i in range(5):
+        try:
+            return _get(url, head)
+        except urllib.error.HTTPError as e:
+            if e.code not in (429, 502, 503) or i == 4: raise
+            time.sleep(3 * (i + 1))
+
+
+def _get(url, head=False):
     req = urllib.request.Request(url, method="HEAD" if head else "GET", headers={"Cache-Control": "no-cache"})
     with urllib.request.urlopen(req, timeout=30) as r:
         return r.status, (b"" if head else r.read())
@@ -30,7 +40,7 @@ def main():
         bad += (st != 200) + bool(hg)
         if page.startswith("day"):
             srcs = sorted(set(re.findall(r'data-src="([^"]+)"', text)))
-            with ThreadPoolExecutor(12) as ex:
+            with ThreadPoolExecutor(4) as ex:
                 res = list(ex.map(lambda s: (s, get(BASE + s, head=True)[0]), srcs))
             miss = [s for s, c in res if c != 200]
             print(f"    audio: {len(srcs) - len(miss)}/{len(srcs)} files return 200" + (f"  MISSING: {miss[:5]}" if miss else ""))
