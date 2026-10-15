@@ -1,0 +1,2795 @@
+{
+ "day": 14,
+ "date": "2026-10-22",
+ "title_zh": "四大词根 + 企业战略并购与交通通勤",
+ "title_ja": "4つの語根＋企業戦略・M&Aと交通・通勤",
+ "intro_zh": "今天掌握 4 个高频词根（voc·vok 叫 / tribut 给予 / put 思考 / mand·mend 托付），再学企业战略与并购、交通通勤的核心词——强化 Part 7 并购新闻、Part 4 交通广播和道路施工通知。",
+ "intro_ja": "今日は語根 4 つ（voc·vok 呼ぶ／tribut 与える／put 考える／mand·mend 委ねる）と、企業戦略・M&A、交通・通勤の重要語を学びます。Part 7 の企業買収ニュースと、Part 4 の交通情報・道路工事のお知らせを強化します。",
+ "voice": "en-US-AriaNeural",
+ "roots": [
+  {
+   "root": "-voc- / -vok-",
+   "origin": "Latin vocare, vox",
+   "zh": "叫；声音",
+   "ja": "呼ぶ；声",
+   "exp_zh": "来自拉丁语 vocare（叫、呼唤）和 vox（声音）。ad-（叫来帮忙 → 拥护者、提倡）、advocacy“倡导”、re-（叫回 → 撤销）、irrevocable“叫不回的 → 不可撤销的”、pro-（叫出来 → 激起）、in-（呼唤来相助 → 援引条款）、vocational“被召唤的工作 → 职业的”、vocal“有声的 → 直言的”。voice、vocabulary 也同源。⚠️ vocation（职业）≠ vacation（假期，来自 vacare“空”）；avocado 与 advocate 毫无关系。",
+   "exp_ja": "ラテン語 vocare（呼ぶ）と vox（声）から。ad-（助けに呼ぶ → 擁護者・提唱する）、advocacy「擁護」、re-（呼び戻す → 取り消す）、irrevocable「取り消せない」、pro-（呼び出す → 引き起こす）、in-（呼び求める → 条項を発動する）、vocational「職業の」、vocal「声高な」。voice・vocabulary も同源。⚠️ vocation（職業）≠ vacation（休暇、vacare「空」）。avocado は advocate と無関係。",
+   "examples": [
+    "advocate",
+    "advocacy",
+    "revoke",
+    "irrevocable",
+    "provoke",
+    "invoke",
+    "vocational",
+    "vocal"
+   ]
+  },
+  {
+   "root": "-tribut-",
+   "origin": "Latin tribuere",
+   "zh": "给予；分配",
+   "ja": "与える；割り当てる",
+   "exp_zh": "来自拉丁语 tribuere（分配、给予），过去分词 tributus；本义可能是“分给各部落（tribus）”。dis-（分开给 → 分发、分销）、distributor“经销商”、distribution“分销、配送”、at-（归给 → 归因于）、attributable“可归因的”、con-（一起拿出 → 贡献）、contributor“贡献者、撰稿人”、tribute“交付之物 → 致敬”。⚠️ attribute 作动词重音在第二音节，作名词重音在第一音节。",
+   "exp_ja": "ラテン語 tribuere（割り当てる・与える、過去分詞 tributus）から。原義は「部族（tribus）に割り当てる」とされる。dis-（分けて与える → 配布する・流通させる）、distributor「販売代理店」、distribution「流通」、at-（帰する → 〜のおかげとする）、attributable「〜に起因する」、con-（一緒に出す → 貢献する）、contributor「貢献者・寄稿者」、tribute「納めるもの → 賛辞」。⚠️ attribute は動詞なら第2音節、名詞なら第1音節にアクセント。",
+   "examples": [
+    "distribute",
+    "distributor",
+    "distribution",
+    "attribute",
+    "attributable",
+    "contribute",
+    "contributor",
+    "tribute"
+   ]
+  },
+  {
+   "root": "-put-",
+   "origin": "Latin putare",
+   "zh": "思考；计算",
+   "ja": "考える；数える",
+   "exp_zh": "来自拉丁语 putare（原义“修剪、清理”，引申为“盘算、思考、计算”）。com-（一起算 → 计算）、computation“计算”、dis-（分开思考 → 争论）、indisputable“无可争辩的”、re-（反复思量 → 名声）、reputable“声誉好的”、disreputable“名声差的”、de-（认定、指派 → 副职、代理人）。⚠️ 英语的 put（放）、input、output 是本族词，与 putare 不同源。",
+   "exp_ja": "ラテン語 putare（原義「刈り込む・整える」→「見積もる・考える・数える」）から。com-（合わせて数える → 計算する）、computation「計算」、dis-（分けて考える → 論争）、indisputable「議論の余地のない」、re-（繰り返し考える → 評判）、reputable「評判の良い」、disreputable「評判の悪い」、de-（割り当てる → 代理人・副〜）。⚠️ 英語の put（置く）・input・output は英語本来の語で別語源。",
+   "examples": [
+    "compute",
+    "computation",
+    "dispute",
+    "indisputable",
+    "reputation",
+    "reputable",
+    "disreputable",
+    "deputy"
+   ]
+  },
+  {
+   "root": "-mand- / -mend-",
+   "origin": "Latin mandare",
+   "zh": "托付；命令",
+   "ja": "委ねる；命じる",
+   "exp_zh": "来自拉丁语 mandare（托付、命令），常解释为 manus（手，见 Day 10 -manu-）+ dare（给）“交到手里”；在 commendare 中变为 -mend-。mandate“授权、强制规定”、mandatory“强制的”、de-（托付 → 要求、需求）、demanding“要求高的”、com-（托付 → 称赞、推荐）、commendable“值得称赞的”、commendation“表彰”、recommendation“推荐、建议”。⚠️ reprimand（训斥，来自 reprimere“压回”）和 amend / mend（修改、修补，来自 menda“缺陷”）都不同源。",
+   "exp_ja": "ラテン語 mandare（委ねる・命じる）から。manus（手、Day 10 の -manu- 参照）+ dare（与える）「手に渡す」と説明される。commendare では -mend- になる。mandate「権限・義務付ける」、mandatory「義務的な」、de-（委ねる → 要求・需要）、demanding「要求の厳しい」、com-（委ねる → 称賛する・推薦する）、commendable「称賛に値する」、commendation「表彰」、recommendation「推薦・勧告」。⚠️ reprimand（叱責、reprimere「押し戻す」）と amend / mend（修正する・直す、menda「欠陥」）は別語源。",
+   "examples": [
+    "mandate",
+    "mandatory",
+    "demand",
+    "demanding",
+    "commend",
+    "commendable",
+    "commendation",
+    "recommendation"
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "voc",
+   "title_zh": "词根 -voc- / -vok-：叫、声音",
+   "title_ja": "語根 -voc- / -vok-：呼ぶ・声",
+   "words": [
+    {
+     "w": "advocate",
+     "pos": "v./n.",
+     "ipa": "/ˈædvəkeɪt/",
+     "zh": "提倡；主张；拥护者；辩护人",
+     "ja": "提唱する；主張する；支持者；擁護者",
+     "ex": "Several board members advocate a four-day workweek for the design team.",
+     "ex_zh": "几位董事会成员提倡设计团队实行每周四天工作制。",
+     "ex_ja": "数人の取締役が、デザインチームの週4日勤務制を提唱しています。",
+     "parts": [
+      [
+       "ad-",
+       "向",
+       "〜へ"
+      ],
+      [
+       "voc",
+       "叫；声音",
+       "呼ぶ；声"
+      ],
+      [
+       "-ate",
+       "动词/形容词后缀",
+       "動詞・形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 advocare“叫来（帮忙）”→ 被请来替人说话的人 → 拥护者、辩护人。",
+      "ja": "ラテン語 advocare「（助けに）呼び寄せる」→ 代わりに話す人 → 擁護者。"
+     },
+     "forms": [
+      [
+       "advocacy (n.)",
+       "倡导；拥护",
+       "擁護；支持活動"
+      ],
+      [
+       "customer advocate",
+       "客户权益代表",
+       "顧客擁護担当"
+      ]
+     ],
+     "tip": {
+      "zh": "动词直接接宾语：advocate a policy；名词：an advocate for/of …。动词读 /-keɪt/，名词读 /-kət/。",
+      "ja": "動詞は直接目的語をとる（advocate a policy）。名詞は an advocate for …。動詞 /-keɪt/、名詞 /-kət/。"
+     }
+    },
+    {
+     "w": "advocacy",
+     "pos": "n.",
+     "ipa": "/ˈædvəkəsi/",
+     "zh": "倡导；拥护；维权活动",
+     "ja": "擁護；支援活動；アドボカシー",
+     "ex": "The nonprofit's advocacy led to new safety rules for warehouse workers.",
+     "ex_zh": "这家非营利组织的倡导促成了针对仓库工人的新安全规定。",
+     "ex_ja": "そのNPOの働きかけが、倉庫作業員向けの新しい安全規則につながりました。",
+     "parts": [
+      [
+       "ad-",
+       "向",
+       "〜へ"
+      ],
+      [
+       "voc",
+       "叫；声音",
+       "呼ぶ；声"
+      ],
+      [
+       "-acy",
+       "名词后缀（行为、性质）",
+       "名詞を作る（行為・性質）"
+      ]
+     ],
+     "note": {
+      "zh": "advocate + -acy。",
+      "ja": "advocate + -acy。"
+     },
+     "forms": [
+      [
+       "advocacy group",
+       "倡导团体；维权组织",
+       "支援団体；圧力団体"
+      ],
+      [
+       "patient advocacy",
+       "患者权益维护",
+       "患者支援"
+      ]
+     ],
+     "tip": {
+      "zh": "advocacy group 常出现在 Part 7 新闻报道。",
+      "ja": "advocacy group は Part 7 のニュース記事に出やすい。"
+     }
+    },
+    {
+     "w": "revoke",
+     "pos": "v.",
+     "ipa": "/rɪˈvoʊk/",
+     "zh": "撤销；吊销",
+     "ja": "取り消す；無効にする",
+     "ex": "The city may revoke the vendor's permit if the safety violations continue.",
+     "ex_zh": "如果安全违规持续，市政府可能会吊销该摊贩的许可证。",
+     "ex_ja": "安全違反が続けば、市はその業者の許可を取り消す可能性があります。",
+     "parts": [
+      [
+       "re-",
+       "回",
+       "元へ"
+      ],
+      [
+       "voke",
+       "叫",
+       "呼ぶ"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 revocare“叫回 → 收回”。",
+      "ja": "ラテン語 revocare「呼び戻す → 取り消す」。"
+     },
+     "forms": [
+      [
+       "revocation (n.)",
+       "撤销；吊销",
+       "取り消し；失効"
+      ],
+      [
+       "revoke a license",
+       "吊销执照",
+       "免許を取り消す"
+      ]
+     ],
+     "tip": {
+      "zh": "revoke ≈ cancel / withdraw，常与 permit、license、access 搭配。",
+      "ja": "revoke ≈ cancel / withdraw。permit・license・access とよく結びつく。"
+     }
+    },
+    {
+     "w": "irrevocable",
+     "pos": "adj.",
+     "ipa": "/ɪˈrɛvəkəbəl/",
+     "zh": "不可撤销的；不可更改的",
+     "ja": "取り消せない；撤回不能の",
+     "ex": "The buyer opened an irrevocable letter of credit to guarantee payment.",
+     "ex_zh": "买方开立了不可撤销信用证以保证付款。",
+     "ex_ja": "買い手は支払いを保証するため、取消不能信用状を開設しました。",
+     "parts": [
+      [
+       "ir-",
+       "不（in- 在 r 前的变体）",
+       "否定（in- の異形）"
+      ],
+      [
+       "re-",
+       "回",
+       "元へ"
+      ],
+      [
+       "voc",
+       "叫；声音",
+       "呼ぶ；声"
+      ],
+      [
+       "-able",
+       "可…的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 irrevocabilis“叫不回来的”。",
+      "ja": "ラテン語 irrevocabilis「呼び戻せない」。"
+     },
+     "forms": [
+      [
+       "irrevocably (adv.)",
+       "不可挽回地",
+       "取り返しのつかないほど"
+      ],
+      [
+       "irrevocable decision",
+       "不可更改的决定",
+       "覆せない決定"
+      ]
+     ],
+     "tip": {
+      "zh": "重音在第二音节 ir-REV-o-ca-ble，不读 re-VOKE-able。",
+      "ja": "アクセントは第2音節 ir-REV-o-ca-ble。re-VOKE とは読まない。"
+     }
+    },
+    {
+     "w": "provoke",
+     "pos": "v.",
+     "ipa": "/prəˈvoʊk/",
+     "zh": "激起；引起；挑衅",
+     "ja": "引き起こす；挑発する",
+     "ex": "The proposed fee increase provoked strong complaints from tenants.",
+     "ex_zh": "拟议的费用上涨引起了租户的强烈不满。",
+     "ex_ja": "提案された料金値上げは、テナントから強い苦情を引き起こしました。",
+     "parts": [
+      [
+       "pro-",
+       "向前",
+       "前へ"
+      ],
+      [
+       "voke",
+       "叫",
+       "呼ぶ"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 provocare“叫出来 → 挑起”。",
+      "ja": "ラテン語 provocare「呼び出す → 挑む」。"
+     },
+     "forms": [
+      [
+       "provocative (adj.)",
+       "挑衅的；引人深思的",
+       "挑発的な；刺激的な"
+      ],
+      [
+       "provoke a reaction",
+       "引起反应",
+       "反応を引き起こす"
+      ]
+     ],
+     "tip": {
+      "zh": "provoke ≈ cause / trigger，多指引起负面反应。",
+      "ja": "provoke ≈ cause / trigger。多くは否定的な反応に使う。"
+     }
+    },
+    {
+     "w": "invoke",
+     "pos": "v.",
+     "ipa": "/ɪnˈvoʊk/",
+     "zh": "援引（法律、条款）；调用；唤起",
+     "ja": "（法・条項を）発動する；呼び出す",
+     "ex": "The supplier invoked the force majeure clause after the port closed.",
+     "ex_zh": "港口关闭后，供应商援引了不可抗力条款。",
+     "ex_ja": "港が閉鎖された後、サプライヤーは不可抗力条項を発動しました。",
+     "parts": [
+      [
+       "in-",
+       "向内",
+       "中へ"
+      ],
+      [
+       "voke",
+       "叫",
+       "呼ぶ"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 invocare“呼唤（神明、证据）来相助”。",
+      "ja": "ラテン語 invocare「（神・証拠を）呼び求める」。"
+     },
+     "forms": [
+      [
+       "invoke a clause",
+       "援引条款",
+       "条項を発動する"
+      ],
+      [
+       "invocation (n.)",
+       "援引；祈求",
+       "発動；祈り"
+      ]
+     ],
+     "tip": {
+      "zh": "合同类阅读：invoke the clause = 依据条款行使权利。",
+      "ja": "契約文書：invoke the clause＝条項に基づき権利を行使する。"
+     }
+    },
+    {
+     "w": "vocational",
+     "pos": "adj.",
+     "ipa": "/voʊˈkeɪʃənəl/",
+     "zh": "职业的；职业技能的",
+     "ja": "職業の；職業訓練の",
+     "ex": "The company partners with a local vocational school to train new technicians.",
+     "ex_zh": "公司与当地一所职业学校合作培训新技术员。",
+     "ex_ja": "その会社は新しい技術者を育成するため、地元の職業学校と提携しています。",
+     "parts": [
+      [
+       "voc",
+       "叫；声音",
+       "呼ぶ；声"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ],
+      [
+       "-al",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "vocation“天职、职业”来自拉丁语 vocatio“召唤”——被召唤去做的工作。",
+      "ja": "vocation「天職・職業」はラテン語 vocatio「呼びかけ」から＝呼ばれて就く仕事。"
+     },
+     "forms": [
+      [
+       "vocation (n.)",
+       "职业；使命",
+       "天職；職業"
+      ],
+      [
+       "vocational training",
+       "职业培训",
+       "職業訓練"
+      ]
+     ],
+     "tip": {
+      "zh": "vocational ≠ vacation（假期，来自 vacare“空”），拼写只差一个字母。",
+      "ja": "vocational ≠ vacation（休暇、vacare「空の」から）。つづりが1字違い。"
+     }
+    },
+    {
+     "w": "vocal",
+     "pos": "adj.",
+     "ipa": "/ˈvoʊkəl/",
+     "zh": "直言的；声音的",
+     "ja": "声高に主張する；声の",
+     "ex": "Residents have been vocal about the need for more parking downtown.",
+     "ex_zh": "居民一直公开表示市中心需要更多停车位。",
+     "ex_ja": "住民は中心街の駐車場拡充の必要性を声高に訴えてきました。",
+     "parts": [
+      [
+       "voc",
+       "叫；声音",
+       "呼ぶ；声"
+      ],
+      [
+       "-al",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 vocalis“有声的”，来自 vox（声音）。",
+      "ja": "ラテン語 vocalis「声の」＜vox（声）。"
+     },
+     "forms": [
+      [
+       "vocal critic",
+       "直言不讳的批评者",
+       "声高な批判者"
+      ],
+      [
+       "vocalize (v.)",
+       "说出；表达",
+       "声に出す"
+      ]
+     ],
+     "tip": {
+      "zh": "be vocal about = 公开表达意见。",
+      "ja": "be vocal about＝〜について公然と意見を言う。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "tribut",
+   "title_zh": "词根 -tribut-：给予、分配",
+   "title_ja": "語根 -tribut-：与える・割り当てる",
+   "words": [
+    {
+     "w": "distribute",
+     "pos": "v.",
+     "ipa": "/dɪˈstrɪbjut/",
+     "zh": "分发；分销；分配",
+     "ja": "配布する；流通させる；分配する",
+     "ex": "Please distribute the revised agenda to all participants before the meeting.",
+     "ex_zh": "请在会前把修订后的议程分发给所有与会者。",
+     "ex_ja": "会議の前に、修正版の議題を全参加者に配布してください。",
+     "parts": [
+      [
+       "dis-",
+       "分开",
+       "分けて"
+      ],
+      [
+       "tribute",
+       "给予；分配",
+       "与える；割り当てる"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 distribuere“分开给予”。",
+      "ja": "ラテン語 distribuere「分けて与える」。"
+     },
+     "forms": [
+      [
+       "distribute flyers",
+       "发传单",
+       "チラシを配る"
+      ],
+      [
+       "distributed team",
+       "分布式团队",
+       "分散型チーム"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1 照片题：A man is distributing handouts.",
+      "ja": "Part 1 写真問題：A man is distributing handouts."
+     }
+    },
+    {
+     "w": "distributor",
+     "pos": "n.",
+     "ipa": "/dɪˈstrɪbjətɚ/",
+     "zh": "经销商；分销商",
+     "ja": "販売代理店；卸売業者",
+     "ex": "We are looking for an authorized distributor in Southeast Asia.",
+     "ex_zh": "我们正在寻找东南亚的授权经销商。",
+     "ex_ja": "当社は東南アジアの正規販売代理店を探しています。",
+     "parts": [
+      [
+       "dis-",
+       "分开",
+       "分けて"
+      ],
+      [
+       "tribut",
+       "给予；分配",
+       "与える；割り当てる"
+      ],
+      [
+       "-or",
+       "表示人",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "distribute + -or。",
+      "ja": "distribute + -or。"
+     },
+     "forms": [
+      [
+       "exclusive distributor",
+       "独家经销商",
+       "独占販売代理店"
+      ],
+      [
+       "wholesale distributor",
+       "批发商",
+       "卸売業者"
+      ]
+     ],
+     "tip": {
+      "zh": "distributor ≈ dealer / supplier。",
+      "ja": "distributor ≈ dealer / supplier。"
+     }
+    },
+    {
+     "w": "distribution",
+     "pos": "n.",
+     "ipa": "/ˌdɪstrəˈbjuʃən/",
+     "zh": "分发；分销；分布",
+     "ja": "配布；流通；分布",
+     "ex": "The new warehouse will speed up distribution to stores across the region.",
+     "ex_zh": "新仓库将加快向全区域门店的配送。",
+     "ex_ja": "新しい倉庫により、地域全体の店舗への流通が速くなります。",
+     "parts": [
+      [
+       "dis-",
+       "分开",
+       "分けて"
+      ],
+      [
+       "tribut",
+       "给予；分配",
+       "与える；割り当てる"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 distributio。",
+      "ja": "ラテン語 distributio。"
+     },
+     "forms": [
+      [
+       "distribution center",
+       "配送中心",
+       "物流センター"
+      ],
+      [
+       "distribution channel",
+       "分销渠道",
+       "流通チャネル"
+      ]
+     ],
+     "tip": {
+      "zh": "distribution list = 邮件群发名单。",
+      "ja": "distribution list＝メール配信リスト。"
+     }
+    },
+    {
+     "w": "attribute",
+     "pos": "v./n.",
+     "ipa": "/əˈtrɪbjut/",
+     "zh": "把…归因于；属性；特质",
+     "ja": "〜のおかげ・せいとする；特性",
+     "ex": "Management attributes the sales growth to the new online store.",
+     "ex_zh": "管理层把销售增长归功于新的网店。",
+     "ex_ja": "経営陣は売上の伸びを新しいオンラインストアのおかげだと考えています。",
+     "parts": [
+      [
+       "at-",
+       "向（ad- 在 t 前的变体）",
+       "〜へ（ad- の異形）"
+      ],
+      [
+       "tribute",
+       "给予；分配",
+       "与える；割り当てる"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 attribuere“分给、归于”。",
+      "ja": "ラテン語 attribuere「割り当てる・帰する」。"
+     },
+     "forms": [
+      [
+       "attribute A to B",
+       "把 A 归因于 B",
+       "AをBのせいにする"
+      ],
+      [
+       "key attribute",
+       "关键特质",
+       "重要な特性"
+      ]
+     ],
+     "tip": {
+      "zh": "动词重音在后 at-TRIB-ute，名词重音在前 AT-tri-bute。",
+      "ja": "動詞は at-TRIB-ute、名詞は AT-tri-bute とアクセントが変わる。"
+     }
+    },
+    {
+     "w": "attributable",
+     "pos": "adj.",
+     "ipa": "/əˈtrɪbjətəbəl/",
+     "zh": "可归因于…的",
+     "ja": "〜に起因する；〜による",
+     "ex": "The delay was largely attributable to bad weather at the port.",
+     "ex_zh": "延误主要是由于港口的恶劣天气。",
+     "ex_ja": "遅延の主な原因は港の悪天候でした。",
+     "parts": [
+      [
+       "at-",
+       "向",
+       "〜へ"
+      ],
+      [
+       "tribut",
+       "给予；分配",
+       "与える；割り当てる"
+      ],
+      [
+       "-able",
+       "可…的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "attribute + -able。",
+      "ja": "attribute + -able。"
+     },
+     "forms": [
+      [
+       "be attributable to",
+       "可归因于",
+       "〜に起因する"
+      ],
+      [
+       "directly attributable",
+       "直接归因于",
+       "直接起因する"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5 常考搭配 attributable to（to 是介词）。",
+      "ja": "Part 5 頻出：attributable to（to は前置詞）。"
+     }
+    },
+    {
+     "w": "contribute",
+     "pos": "v.",
+     "ipa": "/kənˈtrɪbjut/",
+     "zh": "贡献；捐助；促成；投稿",
+     "ja": "貢献する；寄付する；寄与する；寄稿する",
+     "ex": "Every team member contributed ideas to the new product launch.",
+     "ex_zh": "每位团队成员都为新产品发布贡献了想法。",
+     "ex_ja": "チーム全員が新製品の発売に向けてアイデアを出しました。",
+     "parts": [
+      [
+       "con-",
+       "共同",
+       "共に"
+      ],
+      [
+       "tribute",
+       "给予；分配",
+       "与える；割り当てる"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 contribuere“一起拿出 → 贡献”。",
+      "ja": "ラテン語 contribuere「一緒に出す → 貢献する」。"
+     },
+     "forms": [
+      [
+       "contribution (n.)",
+       "贡献；捐款",
+       "貢献；寄付"
+      ],
+      [
+       "contribute to",
+       "促成；有助于",
+       "〜に寄与する"
+      ]
+     ],
+     "tip": {
+      "zh": "contribute to + 名词/动名词（to 是介词）。",
+      "ja": "contribute to＋名詞・動名詞（to は前置詞）。"
+     }
+    },
+    {
+     "w": "contributor",
+     "pos": "n.",
+     "ipa": "/kənˈtrɪbjətɚ/",
+     "zh": "贡献者；捐助者；撰稿人；原因之一",
+     "ja": "貢献者；寄付者；寄稿者；要因",
+     "ex": "She is a regular contributor to the company newsletter.",
+     "ex_zh": "她是公司简报的常驻撰稿人。",
+     "ex_ja": "彼女は社内報の常連寄稿者です。",
+     "parts": [
+      [
+       "con-",
+       "共同",
+       "共に"
+      ],
+      [
+       "tribut",
+       "给予；分配",
+       "与える；割り当てる"
+      ],
+      [
+       "-or",
+       "表示人",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "contribute + -or。",
+      "ja": "contribute + -or。"
+     },
+     "forms": [
+      [
+       "major contributor",
+       "主要原因；主要捐助者",
+       "主な要因；大口寄付者"
+      ],
+      [
+       "guest contributor",
+       "特约撰稿人",
+       "ゲスト寄稿者"
+      ]
+     ],
+     "tip": {
+      "zh": "也可指“原因之一”：a major contributor to the delay。",
+      "ja": "「要因」の意味も：a major contributor to the delay。"
+     }
+    },
+    {
+     "w": "tribute",
+     "pos": "n.",
+     "ipa": "/ˈtrɪbjut/",
+     "zh": "致敬；颂扬；贡品",
+     "ja": "賛辞；敬意；貢ぎ物",
+     "ex": "The ceremony included a tribute to the company's founder.",
+     "ex_zh": "典礼中有一段向公司创始人致敬的环节。",
+     "ex_ja": "式典では会社の創業者への賛辞が述べられました。",
+     "parts": [
+      [
+       "tribut",
+       "交付；献上",
+       "納める；献上する"
+      ],
+      [
+       "-e",
+       "词尾",
+       "語尾"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 tributum“（分摊后）交付的东西 → 贡品”，引申为“敬意”。tribuere 本义可能是“分配给各部落”，与 tribe 有关。",
+      "ja": "ラテン語 tributum「（割り当てられて）納めるもの → 貢ぎ物」から「敬意」へ。tribuere は「部族に割り当てる」が原義とされ、tribe と関係する。"
+     },
+     "forms": [
+      [
+       "pay tribute to",
+       "向…致敬",
+       "〜に敬意を表する"
+      ],
+      [
+       "tribute concert",
+       "致敬音乐会",
+       "トリビュートコンサート"
+      ]
+     ],
+     "tip": {
+      "zh": "pay tribute to 在退休、颁奖报道中常见。",
+      "ja": "pay tribute to は退職・表彰の記事でよく出る。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "put",
+   "title_zh": "词根 -put-：思考、计算",
+   "title_ja": "語根 -put-：考える・数える",
+   "words": [
+    {
+     "w": "compute",
+     "pos": "v.",
+     "ipa": "/kəmˈpjut/",
+     "zh": "计算",
+     "ja": "計算する；算出する",
+     "ex": "The software computes shipping costs automatically based on weight.",
+     "ex_zh": "软件会根据重量自动计算运费。",
+     "ex_ja": "ソフトウェアが重量に基づいて送料を自動計算します。",
+     "parts": [
+      [
+       "com-",
+       "一起",
+       "共に"
+      ],
+      [
+       "pute",
+       "思考；计算",
+       "考える；数える"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 computare“一起计算”；computer 同源。",
+      "ja": "ラテン語 computare「合わせて数える」。computer も同源。"
+     },
+     "forms": [
+      [
+       "computer (n.)",
+       "电脑",
+       "コンピューター"
+      ],
+      [
+       "compute the total",
+       "算出总额",
+       "合計を算出する"
+      ]
+     ],
+     "tip": {
+      "zh": "compute ≈ calculate。",
+      "ja": "compute ≈ calculate。"
+     }
+    },
+    {
+     "w": "computation",
+     "pos": "n.",
+     "ipa": "/ˌkɑmpjəˈteɪʃən/",
+     "zh": "计算；运算",
+     "ja": "計算；演算",
+     "ex": "Please double-check the computation before sending the invoice.",
+     "ex_zh": "发送发票前请再核对一下计算。",
+     "ex_ja": "請求書を送る前に計算を再確認してください。",
+     "parts": [
+      [
+       "com-",
+       "一起",
+       "共に"
+      ],
+      [
+       "put",
+       "思考；计算",
+       "考える；数える"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 computatio。",
+      "ja": "ラテン語 computatio。"
+     },
+     "forms": [
+      [
+       "computational (adj.)",
+       "计算的",
+       "計算上の"
+      ],
+      [
+       "tax computation",
+       "税额计算",
+       "税額計算"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7 发票、报价单场景会出现。",
+      "ja": "Part 7 の請求書・見積書の場面で出る。"
+     }
+    },
+    {
+     "w": "dispute",
+     "pos": "n./v.",
+     "ipa": "/dɪˈspjut/",
+     "zh": "争议；纠纷；对…提出异议",
+     "ja": "紛争；論争；異議を唱える",
+     "ex": "The two companies settled their contract dispute out of court.",
+     "ex_zh": "两家公司庭外和解了合同纠纷。",
+     "ex_ja": "両社は契約上の紛争を示談で解決しました。",
+     "parts": [
+      [
+       "dis-",
+       "分开",
+       "分けて"
+      ],
+      [
+       "pute",
+       "思考；计算",
+       "考える；数える"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 disputare“分开思考 → 讨论、争论”。",
+      "ja": "ラテン語 disputare「分けて考える → 議論する」。"
+     },
+     "forms": [
+      [
+       "settle a dispute",
+       "解决争议",
+       "紛争を解決する"
+      ],
+      [
+       "billing dispute",
+       "账单争议",
+       "請求をめぐる紛争"
+      ]
+     ],
+     "tip": {
+      "zh": "dispute a charge = 对一笔费用提出异议（信用卡场景）。",
+      "ja": "dispute a charge＝請求に異議を申し立てる（クレジットカードの場面）。"
+     }
+    },
+    {
+     "w": "indisputable",
+     "pos": "adj.",
+     "ipa": "/ˌɪndɪˈspjutəbəl/",
+     "zh": "无可争辩的；毋庸置疑的",
+     "ja": "議論の余地のない；明白な",
+     "ex": "The data provides indisputable evidence that the campaign worked.",
+     "ex_zh": "数据提供了活动奏效的无可争辩的证据。",
+     "ex_ja": "データは、キャンペーンが成功したという議論の余地のない証拠を示しています。",
+     "parts": [
+      [
+       "in-",
+       "不",
+       "否定"
+      ],
+      [
+       "dis-",
+       "分开",
+       "分けて"
+      ],
+      [
+       "put",
+       "思考；计算",
+       "考える；数える"
+      ],
+      [
+       "-able",
+       "可…的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "in- + disputable“可争辩的”。",
+      "ja": "in- + disputable「議論できる」。"
+     },
+     "forms": [
+      [
+       "indisputably (adv.)",
+       "无可争议地",
+       "疑いなく"
+      ],
+      [
+       "indisputable fact",
+       "无可争辩的事实",
+       "紛れもない事実"
+      ]
+     ],
+     "tip": {
+      "zh": "≈ undeniable / unquestionable。",
+      "ja": "≈ undeniable / unquestionable。"
+     }
+    },
+    {
+     "w": "reputation",
+     "pos": "n.",
+     "ipa": "/ˌrɛpjəˈteɪʃən/",
+     "zh": "名声；声誉",
+     "ja": "評判；名声",
+     "ex": "The hotel has built a strong reputation for excellent service.",
+     "ex_zh": "这家酒店因服务出色而建立了良好的声誉。",
+     "ex_ja": "そのホテルは優れたサービスで高い評判を築いてきました。",
+     "parts": [
+      [
+       "re-",
+       "反复",
+       "繰り返し"
+      ],
+      [
+       "put",
+       "思考；计算",
+       "考える；数える"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 reputare“反复思量 → 评价”。",
+      "ja": "ラテン語 reputare「繰り返し考える → 評価する」。"
+     },
+     "forms": [
+      [
+       "earn a reputation",
+       "赢得声誉",
+       "評判を得る"
+      ],
+      [
+       "reputation for",
+       "…方面的名声",
+       "〜の評判"
+      ]
+     ],
+     "tip": {
+      "zh": "have a reputation for + 名词。",
+      "ja": "have a reputation for＋名詞。"
+     }
+    },
+    {
+     "w": "reputable",
+     "pos": "adj.",
+     "ipa": "/ˈrɛpjətəbəl/",
+     "zh": "声誉好的；可靠的",
+     "ja": "評判の良い；信頼できる",
+     "ex": "Always buy replacement parts from a reputable supplier.",
+     "ex_zh": "务必从信誉良好的供应商处购买替换零件。",
+     "ex_ja": "交換部品は必ず評判の良いサプライヤーから購入してください。",
+     "parts": [
+      [
+       "re-",
+       "反复",
+       "繰り返し"
+      ],
+      [
+       "put",
+       "思考；计算",
+       "考える；数える"
+      ],
+      [
+       "-able",
+       "可…的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "repute（名声）+ -able。",
+      "ja": "repute（評判）+ -able。"
+     },
+     "forms": [
+      [
+       "repute (n.)",
+       "名声",
+       "評判"
+      ],
+      [
+       "reputable firm",
+       "信誉好的公司",
+       "定評ある会社"
+      ]
+     ],
+     "tip": {
+      "zh": "重音在第一音节 REP-u-ta-ble。",
+      "ja": "アクセントは第1音節 REP-u-ta-ble。"
+     }
+    },
+    {
+     "w": "disreputable",
+     "pos": "adj.",
+     "ipa": "/dɪsˈrɛpjətəbəl/",
+     "zh": "名声不好的；不正规的",
+     "ja": "評判の悪い；いかがわしい",
+     "ex": "The agency warned travelers against booking through disreputable websites.",
+     "ex_zh": "该机构提醒旅客不要通过不正规的网站预订。",
+     "ex_ja": "その機関は、評判の悪いサイトで予約しないよう旅行者に警告しました。",
+     "parts": [
+      [
+       "dis-",
+       "否定",
+       "否定"
+      ],
+      [
+       "re-",
+       "反复",
+       "繰り返し"
+      ],
+      [
+       "put",
+       "思考；计算",
+       "考える；数える"
+      ],
+      [
+       "-able",
+       "可…的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "dis- + reputable。",
+      "ja": "dis- + reputable。"
+     },
+     "forms": [
+      [
+       "disrepute (n.)",
+       "坏名声",
+       "不評"
+      ],
+      [
+       "bring … into disrepute",
+       "使…名誉扫地",
+       "〜の評判を落とす"
+      ]
+     ],
+     "tip": {
+      "zh": "反义词 reputable。",
+      "ja": "対義語は reputable。"
+     }
+    },
+    {
+     "w": "deputy",
+     "pos": "n./adj.",
+     "ipa": "/ˈdɛpjəti/",
+     "zh": "副职；代理人；副…",
+     "ja": "代理（人）；副〜",
+     "ex": "The deputy manager will lead the meeting while Ms. Tanaka is away.",
+     "ex_zh": "田中女士不在期间，副经理将主持会议。",
+     "ex_ja": "田中さんの不在中は、副マネージャーが会議を進行します。",
+     "parts": [
+      [
+       "de-",
+       "离开",
+       "離れて"
+      ],
+      [
+       "put",
+       "思考；计算",
+       "考える；数える"
+      ],
+      [
+       "-y",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 deputare“认定、指派” → 古法语 députer“委派” → 被委派代行职务的人。",
+      "ja": "ラテン語 deputare「割り当てる」→ 古フランス語 députer「派遣する」→ 代わりを任された人。"
+     },
+     "forms": [
+      [
+       "deputy director",
+       "副主任；副局长",
+       "副所長；次長"
+      ],
+      [
+       "deputize (v.)",
+       "代理",
+       "代理を務める"
+      ]
+     ],
+     "tip": {
+      "zh": "deputy ≈ vice-（副）；Part 4 人事公告常见。",
+      "ja": "deputy ≈ vice-（副）。Part 4 の人事アナウンスで頻出。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "mand",
+   "title_zh": "词根 -mand- / -mend-：托付、命令",
+   "title_ja": "語根 -mand- / -mend-：委ねる・命じる",
+   "words": [
+    {
+     "w": "mandate",
+     "pos": "n./v.",
+     "ipa": "/ˈmændeɪt/",
+     "zh": "授权；指令；强制规定；要求",
+     "ja": "権限；命令；義務付ける",
+     "ex": "The new regulation mandates annual safety training for all drivers.",
+     "ex_zh": "新规定要求所有司机每年参加安全培训。",
+     "ex_ja": "新規則は全ドライバーに年1回の安全研修を義務付けています。",
+     "parts": [
+      [
+       "mand",
+       "托付；命令",
+       "委ねる；命じる"
+      ],
+      [
+       "-ate",
+       "动词/形容词后缀",
+       "動詞・形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 mandatum“被托付之事 → 命令”；mandare 一般解释为 manus（手）+ dare（给）“交到手里”。",
+      "ja": "ラテン語 mandatum「託されたこと → 命令」。mandare は manus（手）+ dare（与える）「手に渡す」と説明される。"
+     },
+     "forms": [
+      [
+       "mandated (adj.)",
+       "规定的；强制的",
+       "義務付けられた"
+      ],
+      [
+       "government mandate",
+       "政府指令",
+       "政府の命令"
+      ]
+     ],
+     "tip": {
+      "zh": "动词 mandate ≈ require。",
+      "ja": "動詞 mandate ≈ require。"
+     }
+    },
+    {
+     "w": "mandatory",
+     "pos": "adj.",
+     "ipa": "/ˈmændəˌtɔri/",
+     "zh": "强制的；必须的",
+     "ja": "義務的な；必須の",
+     "ex": "Attendance at Friday's orientation is mandatory for new hires.",
+     "ex_zh": "新员工必须参加周五的入职培训。",
+     "ex_ja": "新入社員は金曜日のオリエンテーションへの出席が必須です。",
+     "parts": [
+      [
+       "mand",
+       "托付；命令",
+       "委ねる；命じる"
+      ],
+      [
+       "-at-",
+       "（来自 -ate）",
+       "（-ate から）"
+      ],
+      [
+       "-ory",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 mandatorius。",
+      "ja": "ラテン語 mandatorius。"
+     },
+     "forms": [
+      [
+       "mandatory retirement",
+       "强制退休",
+       "定年制"
+      ],
+      [
+       "non-mandatory",
+       "非强制的",
+       "任意の"
+      ]
+     ],
+     "tip": {
+      "zh": "≈ compulsory / required；反义 optional。",
+      "ja": "≈ compulsory / required。対義語は optional。"
+     }
+    },
+    {
+     "w": "demand",
+     "pos": "n./v.",
+     "ipa": "/dɪˈmænd/",
+     "zh": "需求；要求",
+     "ja": "需要；要求（する）",
+     "ex": "Demand for electric scooters has doubled in the past year.",
+     "ex_zh": "过去一年电动滑板车的需求翻了一番。",
+     "ex_ja": "電動スクーターの需要はこの1年で倍増しました。",
+     "parts": [
+      [
+       "de-",
+       "完全",
+       "完全に"
+      ],
+      [
+       "mand",
+       "托付；命令",
+       "委ねる；命じる"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 demandare“托付” → 古法语 demander“要求”。",
+      "ja": "ラテン語 demandare「委ねる」→ 古フランス語 demander「求める」。"
+     },
+     "forms": [
+      [
+       "in demand",
+       "有需求的；受欢迎的",
+       "需要がある"
+      ],
+      [
+       "meet demand",
+       "满足需求",
+       "需要を満たす"
+      ]
+     ],
+     "tip": {
+      "zh": "demand for + 名词；demand that + 主语 +（should）动词原形。",
+      "ja": "demand for＋名詞／demand that＋主語＋（should）動詞の原形。"
+     }
+    },
+    {
+     "w": "demanding",
+     "pos": "adj.",
+     "ipa": "/dɪˈmændɪŋ/",
+     "zh": "要求高的；费力的",
+     "ja": "要求の厳しい；きつい",
+     "ex": "The project schedule is demanding, so we hired two extra engineers.",
+     "ex_zh": "项目进度要求很高，所以我们额外聘请了两名工程师。",
+     "ex_ja": "プロジェクトのスケジュールが厳しいため、エンジニアを2名追加で採用しました。",
+     "parts": [
+      [
+       "de-",
+       "完全",
+       "完全に"
+      ],
+      [
+       "mand",
+       "托付；命令",
+       "委ねる；命じる"
+      ],
+      [
+       "-ing",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "demand + -ing。",
+      "ja": "demand + -ing。"
+     },
+     "forms": [
+      [
+       "demanding client",
+       "挑剔的客户",
+       "要求の厳しい顧客"
+      ],
+      [
+       "physically demanding",
+       "体力消耗大的",
+       "体力的にきつい"
+      ]
+     ],
+     "tip": {
+      "zh": "招聘广告：The job is physically demanding.",
+      "ja": "求人広告：The job is physically demanding."
+     }
+    },
+    {
+     "w": "commend",
+     "pos": "v.",
+     "ipa": "/kəˈmɛnd/",
+     "zh": "表扬；称赞；推荐",
+     "ja": "称賛する；推薦する",
+     "ex": "The CEO commended the staff for their quick response to the system outage.",
+     "ex_zh": "首席执行官表扬了员工对系统故障的快速响应。",
+     "ex_ja": "CEOはシステム障害への迅速な対応についてスタッフを称賛しました。",
+     "parts": [
+      [
+       "com-",
+       "加强语气",
+       "強意"
+      ],
+      [
+       "mend",
+       "托付（mand 的变体）",
+       "委ねる（mand の異形）"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 commendare（com- + mandare）“托付 → 推荐、称赞”。",
+      "ja": "ラテン語 commendare（com- + mandare）「委ねる → 推薦する・褒める」。"
+     },
+     "forms": [
+      [
+       "commend A for B",
+       "因 B 表扬 A",
+       "BのことでAを褒める"
+      ],
+      [
+       "highly commended",
+       "获高度评价",
+       "高く評価された"
+      ]
+     ],
+     "tip": {
+      "zh": "commend sb for sth ≈ praise sb for sth。",
+      "ja": "commend sb for sth ≈ praise sb for sth。"
+     }
+    },
+    {
+     "w": "commendable",
+     "pos": "adj.",
+     "ipa": "/kəˈmɛndəbəl/",
+     "zh": "值得称赞的",
+     "ja": "称賛に値する；立派な",
+     "ex": "Your commitment to customer safety is commendable.",
+     "ex_zh": "你们对客户安全的投入值得称赞。",
+     "ex_ja": "お客様の安全に対する皆さんの取り組みは称賛に値します。",
+     "parts": [
+      [
+       "com-",
+       "加强语气",
+       "強意"
+      ],
+      [
+       "mend",
+       "托付（mand 的变体）",
+       "委ねる（mand の異形）"
+      ],
+      [
+       "-able",
+       "可…的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "commend + -able。",
+      "ja": "commend + -able。"
+     },
+     "forms": [
+      [
+       "commendably (adv.)",
+       "值得称赞地",
+       "立派に"
+      ],
+      [
+       "commendable effort",
+       "值得称赞的努力",
+       "称賛に値する努力"
+      ]
+     ],
+     "tip": {
+      "zh": "≈ admirable / praiseworthy。",
+      "ja": "≈ admirable / praiseworthy。"
+     }
+    },
+    {
+     "w": "commendation",
+     "pos": "n.",
+     "ipa": "/ˌkɑmənˈdeɪʃən/",
+     "zh": "表彰；嘉奖；称赞",
+     "ja": "表彰；称賛",
+     "ex": "The firefighter received a commendation from the mayor.",
+     "ex_zh": "那位消防员受到了市长的嘉奖。",
+     "ex_ja": "その消防士は市長から表彰を受けました。",
+     "parts": [
+      [
+       "com-",
+       "加强语气",
+       "強意"
+      ],
+      [
+       "mend",
+       "托付（mand 的变体）",
+       "委ねる（mand の異形）"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "commend + -ation。",
+      "ja": "commend + -ation。"
+     },
+     "forms": [
+      [
+       "letter of commendation",
+       "表扬信",
+       "感謝状；推薦状"
+      ],
+      [
+       "receive a commendation",
+       "获得表彰",
+       "表彰を受ける"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7 表彰、颁奖通知中出现。",
+      "ja": "Part 7 の表彰・授賞の通知に出る。"
+     }
+    },
+    {
+     "w": "recommendation",
+     "pos": "n.",
+     "ipa": "/ˌrɛkəmɛnˈdeɪʃən/",
+     "zh": "推荐；建议；推荐信",
+     "ja": "推薦；勧告；推薦状",
+     "ex": "Based on the consultant's recommendation, we will upgrade the servers next month.",
+     "ex_zh": "根据顾问的建议，我们下个月将升级服务器。",
+     "ex_ja": "コンサルタントの勧めに基づき、来月サーバーを更新します。",
+     "parts": [
+      [
+       "re-",
+       "再",
+       "再び"
+      ],
+      [
+       "com-",
+       "加强语气",
+       "強意"
+      ],
+      [
+       "mend",
+       "托付（mand 的变体）",
+       "委ねる（mand の異形）"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "recommend（re- + commend）+ -ation。",
+      "ja": "recommend（re- + commend）+ -ation。"
+     },
+     "forms": [
+      [
+       "letter of recommendation",
+       "推荐信",
+       "推薦状"
+      ],
+      [
+       "recommend (v.)",
+       "推荐；建议",
+       "勧める"
+      ]
+     ],
+     "tip": {
+      "zh": "recommend that + 主语 +（should）动词原形；recommend doing（不说 recommend to do）。",
+      "ja": "recommend that＋主語＋（should）原形／recommend doing（recommend to do とは言わない）。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "strategy",
+   "title_zh": "主题：企业战略与并购",
+   "title_ja": "テーマ：企業戦略・M&A",
+   "words": [
+    {
+     "w": "merger",
+     "pos": "n.",
+     "ipa": "/ˈmɝdʒɚ/",
+     "zh": "合并",
+     "ja": "合併",
+     "ex": "The merger of the two airlines is expected to close by March.",
+     "ex_zh": "两家航空公司的合并预计在三月前完成。",
+     "ex_ja": "両航空会社の合併は3月までに完了する見込みです。",
+     "parts": [
+      [
+       "merg",
+       "浸入；融合",
+       "浸す；溶け込む"
+      ],
+      [
+       "-er",
+       "名词后缀（法律用语）",
+       "名詞を作る（法律用語）"
+      ]
+     ],
+     "note": {
+      "zh": "来自 merge，拉丁语 mergere“浸入、沉入”。",
+      "ja": "merge から。ラテン語 mergere「浸す・沈める」。"
+     },
+     "forms": [
+      [
+       "merge (v.)",
+       "合并",
+       "合併する"
+      ],
+      [
+       "mergers and acquisitions (M&A)",
+       "并购",
+       "合併・買収"
+      ]
+     ],
+     "tip": {
+      "zh": "close / complete a merger = 完成合并。",
+      "ja": "close / complete a merger＝合併を完了する。"
+     }
+    },
+    {
+     "w": "takeover",
+     "pos": "n.",
+     "ipa": "/ˈteɪkˌoʊvɚ/",
+     "zh": "收购；接管",
+     "ja": "買収；乗っ取り；引き継ぎ",
+     "ex": "The board rejected the takeover bid as too low.",
+     "ex_zh": "董事会以出价过低为由拒绝了收购要约。",
+     "ex_ja": "取締役会は買収提案を安すぎるとして拒否しました。",
+     "parts": [
+      [
+       "take",
+       "拿",
+       "取る"
+      ],
+      [
+       "over",
+       "过来",
+       "越えて"
+      ]
+     ],
+     "note": {
+      "zh": "英语本族复合词 take over“接管”，没有拉丁词根拆分。",
+      "ja": "英語本来の複合語 take over「引き継ぐ」。ラテン語根の分解はなし。"
+     },
+     "forms": [
+      [
+       "take over (v.)",
+       "接管；接任",
+       "引き継ぐ；買収する"
+      ],
+      [
+       "hostile takeover",
+       "恶意收购",
+       "敵対的買収"
+      ]
+     ],
+     "tip": {
+      "zh": "名词连写 takeover，动词分写 take over。",
+      "ja": "名詞は takeover と一語、動詞は take over と分ける。"
+     }
+    },
+    {
+     "w": "subsidiary",
+     "pos": "n./adj.",
+     "ipa": "/səbˈsɪdiˌɛri/",
+     "zh": "子公司；附属的；辅助的",
+     "ja": "子会社；補助的な",
+     "ex": "Our Japanese subsidiary handles all sales in the Asia-Pacific region.",
+     "ex_zh": "我们的日本子公司负责亚太地区的所有销售。",
+     "ex_ja": "当社の日本子会社がアジア太平洋地域の販売をすべて担当しています。",
+     "parts": [
+      [
+       "sub-",
+       "下；后",
+       "下に；後ろに"
+      ],
+      [
+       "sid",
+       "坐",
+       "座る"
+      ],
+      [
+       "-iary",
+       "名词/形容词后缀",
+       "名詞・形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 subsidium“坐在后面的后备部队 → 援助”，来自 sub + sedere（坐）。",
+      "ja": "ラテン語 subsidium「後ろに控える予備軍 → 援助」＜sub + sedere（座る）。"
+     },
+     "forms": [
+      [
+       "wholly owned subsidiary",
+       "全资子公司",
+       "完全子会社"
+      ],
+      [
+       "parent company",
+       "母公司",
+       "親会社"
+      ]
+     ],
+     "tip": {
+      "zh": "与 parent company（母公司）成对出现。",
+      "ja": "parent company（親会社）と対で出る。"
+     }
+    },
+    {
+     "w": "affiliate",
+     "pos": "n./v.",
+     "ipa": "/əˈfɪliət/",
+     "zh": "关联公司；附属机构；使隶属",
+     "ja": "系列会社；提携先；提携させる",
+     "ex": "The bank and its affiliates share a single customer database.",
+     "ex_zh": "该银行及其关联公司共享一个客户数据库。",
+     "ex_ja": "その銀行と系列会社は単一の顧客データベースを共有しています。",
+     "parts": [
+      [
+       "af-",
+       "向（ad- 在 f 前的变体）",
+       "〜へ（ad- の異形）"
+      ],
+      [
+       "fili",
+       "儿子",
+       "息子"
+      ],
+      [
+       "-ate",
+       "动词/形容词后缀",
+       "動詞・形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 affiliare“收为儿子 → 使隶属”。",
+      "ja": "ラテン語 affiliare「養子にする → 所属させる」。"
+     },
+     "forms": [
+      [
+       "be affiliated with",
+       "与…有关联；隶属于",
+       "〜と提携している"
+      ],
+      [
+       "affiliate program",
+       "联盟营销计划",
+       "アフィリエイトプログラム"
+      ]
+     ],
+     "tip": {
+      "zh": "名词读 /-iət/，动词读 /-ieɪt/。",
+      "ja": "名詞は /-iət/、動詞は /-ieɪt/。"
+     }
+    },
+    {
+     "w": "conglomerate",
+     "pos": "n.",
+     "ipa": "/kənˈɡlɑmərət/",
+     "zh": "企业集团；综合大企业",
+     "ja": "複合企業；コングロマリット",
+     "ex": "The media conglomerate owns newspapers, TV stations, and a film studio.",
+     "ex_zh": "这家传媒集团拥有报纸、电视台和一家电影公司。",
+     "ex_ja": "そのメディア複合企業は新聞、テレビ局、映画スタジオを所有しています。",
+     "parts": [
+      [
+       "con-",
+       "一起",
+       "共に"
+      ],
+      [
+       "glomer",
+       "团；球",
+       "塊；玉"
+      ],
+      [
+       "-ate",
+       "动词/形容词后缀",
+       "動詞・形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 conglomerare“滚成一团”，glomus 意为“线团”。",
+      "ja": "ラテン語 conglomerare「丸めて一塊にする」。glomus は「糸玉」。"
+     },
+     "forms": [
+      [
+       "industrial conglomerate",
+       "工业集团",
+       "産業コングロマリット"
+      ],
+      [
+       "conglomeration (n.)",
+       "聚集体",
+       "寄せ集め"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7 并购新闻中描述大型集团。",
+      "ja": "Part 7 の買収ニュースで巨大企業グループを指す。"
+     }
+    },
+    {
+     "w": "stakeholder",
+     "pos": "n.",
+     "ipa": "/ˈsteɪkˌhoʊldɚ/",
+     "zh": "利益相关者",
+     "ja": "利害関係者；ステークホルダー",
+     "ex": "We will present the plan to all stakeholders before the final decision.",
+     "ex_zh": "最终决定前，我们会向所有利益相关者介绍该计划。",
+     "ex_ja": "最終決定の前に、すべての利害関係者に計画を説明します。",
+     "parts": [
+      [
+       "stake",
+       "股份；赌注",
+       "出資；賭け金"
+      ],
+      [
+       "hold",
+       "持有",
+       "持つ"
+      ],
+      [
+       "-er",
+       "表示人",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "英语本族复合词 stake（赌注、份额）+ holder（持有者）；没有拉丁词根拆分。",
+      "ja": "英語本来の複合語 stake（賭け金・持ち分）+ holder（持つ人）。ラテン語根はなし。"
+     },
+     "forms": [
+      [
+       "key stakeholder",
+       "主要利益相关者",
+       "主要な利害関係者"
+      ],
+      [
+       "stake (n.)",
+       "股份；利害关系",
+       "出資；利害"
+      ]
+     ],
+     "tip": {
+      "zh": "≠ shareholder（股东）：stakeholder 范围更广，包括员工、客户和社区。",
+      "ja": "≠ shareholder（株主）。stakeholder は社員・顧客・地域まで含む広い概念。"
+     }
+    },
+    {
+     "w": "consolidate",
+     "pos": "v.",
+     "ipa": "/kənˈsɑləˌdeɪt/",
+     "zh": "合并；整合；巩固",
+     "ja": "統合する；強化する",
+     "ex": "The company will consolidate its three offices into one building downtown.",
+     "ex_zh": "公司将把三个办公室合并到市中心的一栋大楼里。",
+     "ex_ja": "会社は3つのオフィスを中心街の1つのビルに統合します。",
+     "parts": [
+      [
+       "con-",
+       "一起",
+       "共に"
+      ],
+      [
+       "solid",
+       "坚固的",
+       "固い"
+      ],
+      [
+       "-ate",
+       "动词/形容词后缀",
+       "動詞・形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 consolidare“使坚固”。",
+      "ja": "ラテン語 consolidare「固める」。"
+     },
+     "forms": [
+      [
+       "consolidation (n.)",
+       "合并；整合",
+       "統合"
+      ],
+      [
+       "consolidated financial statements",
+       "合并财务报表",
+       "連結財務諸表"
+      ]
+     ],
+     "tip": {
+      "zh": "财报中 consolidated = 合并（报表）的。",
+      "ja": "決算書では consolidated＝連結の。"
+     }
+    },
+    {
+     "w": "synergy",
+     "pos": "n.",
+     "ipa": "/ˈsɪnɚdʒi/",
+     "zh": "协同效应",
+     "ja": "相乗効果；シナジー",
+     "ex": "Management expects significant synergy between the two product lines.",
+     "ex_zh": "管理层预计两条产品线之间会产生显著的协同效应。",
+     "ex_ja": "経営陣は両製品ラインの間に大きな相乗効果を期待しています。",
+     "parts": [
+      [
+       "syn-",
+       "一起（希腊语）",
+       "共に（ギリシャ語）"
+      ],
+      [
+       "erg",
+       "工作",
+       "働く"
+      ],
+      [
+       "-y",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "希腊语 synergia“共同工作”，ergon 意为“工作”（energy 同源）。",
+      "ja": "ギリシャ語 synergia「共に働くこと」。ergon は「仕事」（energy と同源）。"
+     },
+     "forms": [
+      [
+       "synergies (pl.)",
+       "协同效应",
+       "相乗効果"
+      ],
+      [
+       "achieve synergy",
+       "实现协同",
+       "相乗効果を生む"
+      ]
+     ],
+     "tip": {
+      "zh": "并购公告常说 cost synergies（成本协同）。",
+      "ja": "合併発表では cost synergies（コスト面の相乗効果）がよく出る。"
+     }
+    },
+    {
+     "w": "divest",
+     "pos": "v.",
+     "ipa": "/daɪˈvɛst/",
+     "zh": "剥离（资产）；出售（业务）",
+     "ja": "（事業・資産を）売却する；手放す",
+     "ex": "The group plans to divest its struggling retail division.",
+     "ex_zh": "该集团计划剥离其陷入困境的零售部门。",
+     "ex_ja": "そのグループは不振の小売部門を売却する計画です。",
+     "parts": [
+      [
+       "di-",
+       "去除（dis- 的变体）",
+       "取り除く（dis- の異形）"
+      ],
+      [
+       "vest",
+       "衣服；穿",
+       "衣服；着せる"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 vestis“衣服”：divest 本义“脱去衣服 → 剥夺 → 出售资产”。invest 同源（in + vestire“穿上”）。",
+      "ja": "ラテン語 vestis「衣服」。divest は「服を脱がせる → 奪う → 資産を手放す」。invest も同源（in + vestire「着せる」）。"
+     },
+     "forms": [
+      [
+       "divestment (n.)",
+       "资产剥离",
+       "事業売却"
+      ],
+      [
+       "divest A of B",
+       "剥夺 A 的 B",
+       "AからBを奪う"
+      ]
+     ],
+     "tip": {
+      "zh": "反义 invest；divestiture 也表示“资产剥离”。",
+      "ja": "対義語は invest。divestiture も「事業売却」。"
+     }
+    },
+    {
+     "w": "restructure",
+     "pos": "v.",
+     "ipa": "/riˈstrʌktʃɚ/",
+     "zh": "重组；改组",
+     "ja": "再編する；再構築する",
+     "ex": "The firm restructured its sales team to focus on online customers.",
+     "ex_zh": "公司重组了销售团队，以专注于线上客户。",
+     "ex_ja": "その会社はオンライン顧客に注力するため、営業チームを再編しました。",
+     "parts": [
+      [
+       "re-",
+       "再",
+       "再び"
+      ],
+      [
+       "struct",
+       "建造",
+       "築く"
+      ],
+      [
+       "-ure",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "re- + structure；拉丁语 struere“建造”（见 Day 3 -struct-）。",
+      "ja": "re- + structure。ラテン語 struere「築く」（Day 3 の -struct- 参照）。"
+     },
+     "forms": [
+      [
+       "restructuring (n.)",
+       "重组",
+       "再編"
+      ],
+      [
+       "debt restructuring",
+       "债务重组",
+       "債務再編"
+      ]
+     ],
+     "tip": {
+      "zh": "日语“リストラ”多指裁员，但英语 restructure 本义是重组。",
+      "ja": "日本語の「リストラ」は人員削減の意味が強いが、英語の restructure は「再編」。"
+     }
+    },
+    {
+     "w": "outsource",
+     "pos": "v.",
+     "ipa": "/ˈaʊtˌsɔrs/",
+     "zh": "外包",
+     "ja": "外部委託する；アウトソーシングする",
+     "ex": "We outsource our payroll processing to an accounting firm.",
+     "ex_zh": "我们把工资处理外包给一家会计事务所。",
+     "ex_ja": "当社は給与計算を会計事務所に外部委託しています。",
+     "parts": [
+      [
+       "out-",
+       "外",
+       "外へ"
+      ],
+      [
+       "source",
+       "来源",
+       "源"
+      ]
+     ],
+     "note": {
+      "zh": "英语复合词 out + source（来源；经古法语来自拉丁语 surgere“升起”）。",
+      "ja": "英語の複合語 out + source（源。古フランス語経由でラテン語 surgere「湧き上がる」から）。"
+     },
+     "forms": [
+      [
+       "outsourcing (n.)",
+       "外包",
+       "外部委託"
+      ],
+      [
+       "in-house",
+       "内部的；公司内",
+       "社内で"
+      ]
+     ],
+     "tip": {
+      "zh": "反义 in-house（内部完成）。",
+      "ja": "対義語は in-house（社内で行う）。"
+     }
+    },
+    {
+     "w": "valuation",
+     "pos": "n.",
+     "ipa": "/ˌvæljuˈeɪʃən/",
+     "zh": "估值；评估",
+     "ja": "評価額；査定",
+     "ex": "The startup's valuation rose sharply after the latest funding round.",
+     "ex_zh": "最新一轮融资后，这家初创公司的估值大幅上升。",
+     "ex_ja": "最新の資金調達後、そのスタートアップの評価額は急上昇しました。",
+     "parts": [
+      [
+       "value",
+       "价值",
+       "価値"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "value + -ation；拉丁语 valere“有价值”（见 Day 10 -val-）。",
+      "ja": "value + -ation。ラテン語 valere「価値がある」（Day 10 の -val- 参照）。"
+     },
+     "forms": [
+      [
+       "market valuation",
+       "市场估值",
+       "時価評価"
+      ],
+      [
+       "property valuation",
+       "房产估价",
+       "不動産鑑定"
+      ]
+     ],
+     "tip": {
+      "zh": "≠ evaluation（对表现的评价）。",
+      "ja": "≠ evaluation（業績・能力の評価）。"
+     }
+    },
+    {
+     "w": "venture",
+     "pos": "n./v.",
+     "ipa": "/ˈvɛntʃɚ/",
+     "zh": "风险事业；合资；冒险尝试",
+     "ja": "ベンチャー事業；冒険的事業；思い切って〜する",
+     "ex": "The two firms formed a joint venture to build solar farms.",
+     "ex_zh": "两家公司成立了一家合资企业来建设太阳能发电场。",
+     "ex_ja": "両社は太陽光発電所を建設するため合弁事業を設立しました。",
+     "parts": [
+      [
+       "vent",
+       "来",
+       "来る"
+      ],
+      [
+       "-ure",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "adventure 的缩略；来自拉丁语 advenire“到来”（见 Day 4 -ven-）。",
+      "ja": "adventure の短縮形。ラテン語 advenire「到来する」から（Day 4 の -ven- 参照）。"
+     },
+     "forms": [
+      [
+       "joint venture",
+       "合资企业",
+       "合弁事業"
+      ],
+      [
+       "venture capital",
+       "风险投资",
+       "ベンチャーキャピタル"
+      ]
+     ],
+     "tip": {
+      "zh": "joint venture (JV) 是 Part 7 并购新闻高频词。",
+      "ja": "joint venture (JV) は Part 7 の企業ニュースで頻出。"
+     }
+    },
+    {
+     "w": "expansion",
+     "pos": "n.",
+     "ipa": "/ɪkˈspænʃən/",
+     "zh": "扩张；扩大",
+     "ja": "拡大；拡張；進出",
+     "ex": "The restaurant chain announced an expansion into three new countries.",
+     "ex_zh": "这家连锁餐厅宣布将扩张到三个新国家。",
+     "ex_ja": "そのレストランチェーンは新たに3か国への進出を発表しました。",
+     "parts": [
+      [
+       "ex-",
+       "向外",
+       "外へ"
+      ],
+      [
+       "pans",
+       "展开",
+       "広げる"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 expandere“向外展开”，过去分词 expansus。",
+      "ja": "ラテン語 expandere「外へ広げる」、過去分詞 expansus。"
+     },
+     "forms": [
+      [
+       "expand (v.)",
+       "扩大",
+       "拡大する"
+      ],
+      [
+       "business expansion",
+       "业务扩张",
+       "事業拡大"
+      ]
+     ],
+     "tip": {
+      "zh": "expansion into + 新市场。",
+      "ja": "expansion into＋新市場。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "transport",
+   "title_zh": "主题：交通与通勤",
+   "title_ja": "テーマ：交通・通勤",
+   "words": [
+    {
+     "w": "commuter",
+     "pos": "n.",
+     "ipa": "/kəˈmjutɚ/",
+     "zh": "通勤者",
+     "ja": "通勤者",
+     "ex": "Commuters should expect delays on the Blue Line this morning.",
+     "ex_zh": "今天早上，乘坐蓝线的通勤者可能会遇到延误。",
+     "ex_ja": "今朝はブルーラインで遅れが予想されます。通勤の方はご注意ください。",
+     "parts": [
+      [
+       "com-",
+       "完全",
+       "完全に"
+      ],
+      [
+       "mut",
+       "改变；交换",
+       "変える；交換する"
+      ],
+      [
+       "-er",
+       "表示人",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "commute 来自拉丁语 commutare“改变、交换”；19 世纪美国的折扣定期票叫 commutation ticket，持票通勤的人就叫 commuter。",
+      "ja": "commute はラテン語 commutare「変える・交換する」から。19世紀米国の割引定期券 commutation ticket で通う人を commuter と呼んだ。"
+     },
+     "forms": [
+      [
+       "commute (v./n.)",
+       "通勤",
+       "通勤（する）"
+      ],
+      [
+       "commuter train",
+       "通勤列车",
+       "通勤電車"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 4 交通广播高频。",
+      "ja": "Part 4 の交通情報で頻出。"
+     }
+    },
+    {
+     "w": "detour",
+     "pos": "n./v.",
+     "ipa": "/ˈditʊr/",
+     "zh": "绕行；绕路",
+     "ja": "迂回路；回り道；迂回する",
+     "ex": "Drivers must take a detour while the bridge is being repaired.",
+     "ex_zh": "桥梁维修期间，司机必须绕行。",
+     "ex_ja": "橋の修理中は、ドライバーは迂回しなければなりません。",
+     "parts": [
+      [
+       "de-",
+       "离开",
+       "離れて"
+      ],
+      [
+       "tour",
+       "转",
+       "回る"
+      ]
+     ],
+     "note": {
+      "zh": "法语 détour“转开、绕开”。",
+      "ja": "フランス語 détour「わきへ回ること」。"
+     },
+     "forms": [
+      [
+       "take a detour",
+       "绕道",
+       "迂回する"
+      ],
+      [
+       "detour sign",
+       "绕行标志",
+       "迂回標識"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 4 道路施工通知常用。",
+      "ja": "Part 4 の道路工事のお知らせでよく使う。"
+     }
+    },
+    {
+     "w": "toll",
+     "pos": "n.",
+     "ipa": "/toʊl/",
+     "zh": "通行费；（伤亡）人数；损失",
+     "ja": "通行料；犠牲者数；損害",
+     "ex": "The toll for the new expressway is three dollars for cars.",
+     "ex_zh": "新高速公路的小汽车通行费是三美元。",
+     "ex_ja": "新しい高速道路の通行料は、乗用車で3ドルです。",
+     "parts": [],
+     "note": {
+      "zh": "古英语 toll“税、费”，一般认为经拉丁语来自希腊语 telos“税”；没有可靠的词根拆分。",
+      "ja": "古英語 toll「税・料金」。ラテン語経由でギリシャ語 telos「税」からとされる。信頼できる語根分解はなし。"
+     },
+     "forms": [
+      [
+       "toll road",
+       "收费公路",
+       "有料道路"
+      ],
+      [
+       "toll-free number",
+       "免费电话",
+       "フリーダイヤル"
+      ]
+     ],
+     "tip": {
+      "zh": "toll-free = 免费拨打的号码。",
+      "ja": "toll-free＝通話料無料の番号。"
+     }
+    },
+    {
+     "w": "carpool",
+     "pos": "n./v.",
+     "ipa": "/ˈkɑrˌpul/",
+     "zh": "拼车",
+     "ja": "相乗り（する）；カープール",
+     "ex": "Employees who carpool can park in the reserved spaces near the entrance.",
+     "ex_zh": "拼车上班的员工可以在入口附近的专用车位停车。",
+     "ex_ja": "相乗り通勤する社員は、入口近くの専用スペースに駐車できます。",
+     "parts": [
+      [
+       "car",
+       "车",
+       "車"
+      ],
+      [
+       "pool",
+       "共用",
+       "共同利用"
+      ]
+     ],
+     "note": {
+      "zh": "英语复合词 car + pool（大家合用的资源）；没有拉丁词根拆分。",
+      "ja": "英語の複合語 car + pool（共同で使う資源）。ラテン語根はなし。"
+     },
+     "forms": [
+      [
+       "carpool lane",
+       "拼车专用道",
+       "相乗り専用車線"
+      ],
+      [
+       "car sharing",
+       "汽车共享",
+       "カーシェア"
+      ]
+     ],
+     "tip": {
+      "zh": "公司环保倡议中常见 encourage employees to carpool。",
+      "ja": "社内の環境施策で encourage employees to carpool がよく出る。"
+     }
+    },
+    {
+     "w": "timetable",
+     "pos": "n.",
+     "ipa": "/ˈtaɪmˌteɪbəl/",
+     "zh": "时刻表；时间安排",
+     "ja": "時刻表；予定表",
+     "ex": "The bus timetable will change when the winter schedule begins.",
+     "ex_zh": "冬季班表开始实施时，公交时刻表将会调整。",
+     "ex_ja": "冬ダイヤが始まると、バスの時刻表が変わります。",
+     "parts": [
+      [
+       "time",
+       "时间",
+       "時間"
+      ],
+      [
+       "table",
+       "表",
+       "表"
+      ]
+     ],
+     "note": {
+      "zh": "英语复合词 time + table（表格）。",
+      "ja": "英語の複合語 time + table（表）。"
+     },
+     "forms": [
+      [
+       "revised timetable",
+       "修订后的时刻表",
+       "改訂時刻表"
+      ],
+      [
+       "project timetable",
+       "项目时间表",
+       "プロジェクトの日程"
+      ]
+     ],
+     "tip": {
+      "zh": "≈ schedule。",
+      "ja": "≈ schedule。"
+     }
+    },
+    {
+     "w": "lane",
+     "pos": "n.",
+     "ipa": "/leɪn/",
+     "zh": "车道；小巷",
+     "ja": "車線；小道",
+     "ex": "Two lanes of the highway will be closed for repairs overnight.",
+     "ex_zh": "高速公路的两条车道将在夜间封闭维修。",
+     "ex_ja": "高速道路の2車線が夜間、補修のため閉鎖されます。",
+     "parts": [],
+     "note": {
+      "zh": "古英语 lane“小路”；本族词，没有可靠的词根拆分。",
+      "ja": "古英語 lane「小道」。英語本来の語で、信頼できる語根分解はなし。"
+     },
+     "forms": [
+      [
+       "fast lane",
+       "快车道",
+       "追い越し車線"
+      ],
+      [
+       "bike lane",
+       "自行车道",
+       "自転車レーン"
+      ]
+     ],
+     "tip": {
+      "zh": "交通广播：the left lane is closed。",
+      "ja": "交通情報：the left lane is closed。"
+     }
+    },
+    {
+     "w": "overpass",
+     "pos": "n.",
+     "ipa": "/ˈoʊvɚˌpæs/",
+     "zh": "天桥；跨线桥",
+     "ja": "陸橋；歩道橋；高架道路",
+     "ex": "Construction of the pedestrian overpass will begin next spring.",
+     "ex_zh": "人行天桥的建设将于明年春天开工。",
+     "ex_ja": "歩道橋の建設は来春始まります。",
+     "parts": [
+      [
+       "over",
+       "在上方",
+       "上を"
+      ],
+      [
+       "pass",
+       "通过",
+       "通る"
+      ]
+     ],
+     "note": {
+      "zh": "英语复合词 over + pass；反义 underpass（地下通道）。",
+      "ja": "英語の複合語 over + pass。対義語は underpass（地下道）。"
+     },
+     "forms": [
+      [
+       "pedestrian overpass",
+       "人行天桥",
+       "歩道橋"
+      ],
+      [
+       "underpass (n.)",
+       "地下通道",
+       "地下道"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1 照片题可能出现。",
+      "ja": "Part 1 の写真問題に出ることがある。"
+     }
+    },
+    {
+     "w": "reroute",
+     "pos": "v.",
+     "ipa": "/riˈrut/",
+     "zh": "改变路线；改道",
+     "ja": "経路を変更する；迂回させる",
+     "ex": "Several bus lines have been rerouted because of the parade.",
+     "ex_zh": "由于游行，几条公交线路已改道。",
+     "ex_ja": "パレードのため、いくつかのバス路線が経路変更されています。",
+     "parts": [
+      [
+       "re-",
+       "再",
+       "再び"
+      ],
+      [
+       "route",
+       "路线",
+       "道筋"
+      ]
+     ],
+     "note": {
+      "zh": "re- + route；route 经古法语来自拉丁语 rupta (via)“开辟出来的路”，与 -rupt- 同源（见 Day 6）。",
+      "ja": "re- + route。route は古フランス語経由でラテン語 rupta (via)「切り開かれた道」から。-rupt- と同源（Day 6 参照）。"
+     },
+     "forms": [
+      [
+       "reroute traffic",
+       "使车辆改道",
+       "交通を迂回させる"
+      ],
+      [
+       "rerouting (n.)",
+       "改道",
+       "経路変更"
+      ]
+     ],
+     "tip": {
+      "zh": "交通广播：Traffic is being rerouted.",
+      "ja": "交通情報：Traffic is being rerouted."
+     }
+    },
+    {
+     "w": "ridership",
+     "pos": "n.",
+     "ipa": "/ˈraɪdɚˌʃɪp/",
+     "zh": "乘客量；客流量",
+     "ja": "利用者数；乗客数",
+     "ex": "Subway ridership has returned to pre-pandemic levels.",
+     "ex_zh": "地铁客流量已恢复到疫情前的水平。",
+     "ex_ja": "地下鉄の利用者数はパンデミック前の水準に戻りました。",
+     "parts": [
+      [
+       "ride",
+       "乘坐",
+       "乗る"
+      ],
+      [
+       "-er",
+       "表示人",
+       "〜する人"
+      ],
+      [
+       "-ship",
+       "名词后缀（集合）",
+       "名詞を作る（集合）"
+      ]
+     ],
+     "note": {
+      "zh": "英语本族词 ride + -er + -ship；没有拉丁词根。",
+      "ja": "英語本来の語 ride + -er + -ship。ラテン語根はなし。"
+     },
+     "forms": [
+      [
+       "rider (n.)",
+       "乘客",
+       "乗客"
+      ],
+      [
+       "ridership figures",
+       "客流数据",
+       "利用者数のデータ"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7 公共交通报道常见。",
+      "ja": "Part 7 の公共交通の記事でよく出る。"
+     }
+    },
+    {
+     "w": "expressway",
+     "pos": "n.",
+     "ipa": "/ɪkˈsprɛsˌweɪ/",
+     "zh": "高速公路",
+     "ja": "高速道路",
+     "ex": "Traffic on the expressway is moving slowly due to an accident.",
+     "ex_zh": "由于事故，高速公路上车流缓慢。",
+     "ex_ja": "事故のため、高速道路の流れが遅くなっています。",
+     "parts": [
+      [
+       "ex-",
+       "向外",
+       "外へ"
+      ],
+      [
+       "press",
+       "压",
+       "押す"
+      ],
+      [
+       "way",
+       "道路",
+       "道"
+      ]
+     ],
+     "note": {
+      "zh": "express（快速的；拉丁语 exprimere“挤出”，见 Day 5 -press-）+ way。",
+      "ja": "express（速い。ラテン語 exprimere「押し出す」、Day 5 の -press- 参照）+ way。"
+     },
+     "forms": [
+      [
+       "express train",
+       "快车",
+       "急行列車"
+      ],
+      [
+       "highway (n.)",
+       "公路",
+       "幹線道路"
+      ]
+     ],
+     "tip": {
+      "zh": "交通广播常用 expressway / highway / freeway。",
+      "ja": "交通情報では expressway / highway / freeway が使われる。"
+     }
+    },
+    {
+     "w": "gridlock",
+     "pos": "n.",
+     "ipa": "/ˈɡrɪdˌlɑk/",
+     "zh": "交通大堵塞；僵局",
+     "ja": "交通まひ；行き詰まり",
+     "ex": "The stadium event caused gridlock across the downtown area.",
+     "ex_zh": "体育场的活动导致整个市中心交通瘫痪。",
+     "ex_ja": "スタジアムのイベントで、中心街一帯が交通まひになりました。",
+     "parts": [
+      [
+       "grid",
+       "网格",
+       "格子"
+      ],
+      [
+       "lock",
+       "锁住",
+       "固定する"
+      ]
+     ],
+     "note": {
+      "zh": "英语复合词 grid + lock（路口网格全部卡死）；没有拉丁词根。",
+      "ja": "英語の複合語 grid + lock（格子状の交差点がすべて詰まる）。ラテン語根はなし。"
+     },
+     "forms": [
+      [
+       "gridlocked (adj.)",
+       "堵死的",
+       "渋滞で動かない"
+      ],
+      [
+       "political gridlock",
+       "政治僵局",
+       "政治の膠着"
+      ]
+     ],
+     "tip": {
+      "zh": "比 traffic jam 更严重。",
+      "ja": "traffic jam よりひどい状態。"
+     }
+    },
+    {
+     "w": "roadwork",
+     "pos": "n.",
+     "ipa": "/ˈroʊdˌwɝk/",
+     "zh": "道路施工",
+     "ja": "道路工事",
+     "ex": "Roadwork on Main Street will continue through the end of the month.",
+     "ex_zh": "主街的道路施工将持续到月底。",
+     "ex_ja": "メインストリートの道路工事は月末まで続きます。",
+     "parts": [
+      [
+       "road",
+       "道路",
+       "道路"
+      ],
+      [
+       "work",
+       "工作",
+       "作業"
+      ]
+     ],
+     "note": {
+      "zh": "英语复合词 road + work；英式常用复数 roadworks。",
+      "ja": "英語の複合語 road + work。英国では複数形 roadworks が普通。"
+     },
+     "forms": [
+      [
+       "roadwork ahead",
+       "前方施工",
+       "この先工事中"
+      ],
+      [
+       "road closure",
+       "道路封闭",
+       "通行止め"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 4 交通广播：due to roadwork = 由于道路施工。",
+      "ja": "Part 4 交通情報：due to roadwork＝道路工事のため。"
+     }
+    },
+    {
+     "w": "turnstile",
+     "pos": "n.",
+     "ipa": "/ˈtɝnˌstaɪl/",
+     "zh": "旋转闸门；检票闸机",
+     "ja": "回転式改札；ゲート",
+     "ex": "Passengers can tap their phones at the turnstile to enter the station.",
+     "ex_zh": "乘客可以在闸机上刷手机进站。",
+     "ex_ja": "乗客は改札でスマートフォンをタッチして駅に入れます。",
+     "parts": [
+      [
+       "turn",
+       "转",
+       "回る"
+      ],
+      [
+       "stile",
+       "（翻越篱笆的）台阶",
+       "踏み越し段"
+      ]
+     ],
+     "note": {
+      "zh": "英语复合词 turn + stile（翻越篱笆用的台阶）；没有拉丁词根。",
+      "ja": "英語の複合語 turn + stile（柵を越えるための段）。ラテン語根はなし。"
+     },
+     "forms": [
+      [
+       "ticket gate",
+       "检票口",
+       "改札口"
+      ],
+      [
+       "pass through the turnstile",
+       "通过闸机",
+       "改札を通る"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1 车站照片题可能出现。",
+      "ja": "Part 1 の駅の写真問題で出ることがある。"
+     }
+    },
+    {
+     "w": "junction",
+     "pos": "n.",
+     "ipa": "/ˈdʒʌŋkʃən/",
+     "zh": "交叉口；枢纽站；连接处",
+     "ja": "交差点；分岐点；乗換駅",
+     "ex": "The accident occurred near the junction of Route 9 and Oak Avenue.",
+     "ex_zh": "事故发生在 9 号公路与橡树大道的交叉口附近。",
+     "ex_ja": "事故は9号線とオーク通りの交差点付近で発生しました。",
+     "parts": [
+      [
+       "junct",
+       "连接",
+       "結ぶ"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 junctio，来自 jungere“连接”（join、joint 同源）。",
+      "ja": "ラテン語 junctio＜jungere「結ぶ」（join・joint と同源）。"
+     },
+     "forms": [
+      [
+       "railway junction",
+       "铁路枢纽",
+       "鉄道の分岐点"
+      ],
+      [
+       "in conjunction with",
+       "与…一起",
+       "〜と併せて"
+      ]
+     ],
+     "tip": {
+      "zh": "in conjunction with 是 Part 5 常考短语。",
+      "ja": "in conjunction with は Part 5 頻出の表現。"
+     }
+    }
+   ]
+  }
+ ]
+}
