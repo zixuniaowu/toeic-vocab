@@ -18,9 +18,10 @@ audio/dayN/<slug>.mp3        # 单词发音；<slug>_ex.mp3 = 例句发音
 used_words.txt               # 本站已用过的所有单词（生成）
 scripts/build_day.py         # 校验 + 生成音频 + 生成页面
 scripts/verify_live.py       # 发布后检查线上页面 / 音频
-scripts/make_day_video.py    # 生成中文讲解 MP4（输出 videos/，上传 Release）
+scripts/make_day_video.py    # 生成中文讲解 MP4（高清 videos/ + 网页用压缩版 media/）
 NEXT_DAY.txt                 # 每日例行下一课编号（避免与批量发布撞车）
-videos/dayN.mp4              # 本地讲解视频（gitignore，上传到 Release media-v1）
+videos/dayN.mp4              # 本地高清讲解视频（gitignore，用于聊天发送）
+media/dayN.mp4               # 网页用压缩版（2 fps / CRF 32 / AAC 48k 单声道 / faststart，提交到 Pages）
 scripts/day_template.json    # 新一天 JSON 的模板
 ```
 
@@ -31,27 +32,29 @@ scripts/day_template.json    # 新一天 JSON 的模板
 
 ## 讲解视频（每日）
 
-每天有一条**中文讲解 MP4**（词根讲解 → 逐词卡片 + 字母拼写朗读 → 快速复习）。视频**不放进 GitHub Pages**（避免仓库过大），而是上传到 Release `media-v1`：
+每天有一条**中文讲解 MP4**（词根讲解 → 逐词卡片 + 字母拼写朗读 → 快速复习）。
 
-- 播放地址：`https://github.com/zixuniaowu/toeic-vocab/releases/download/media-v1/dayN.mp4`
-- 每天页面里的 `<video>` 和“下载本课视频”链接都指向上述 URL。
+**视频由 GitHub Pages 直接提供（`media/dayN.mp4`），不要再用 GitHub Release 链接**：Release 资产会 302 到
+`release-assets.githubusercontent.com`，返回 `application/octet-stream` + `Content-Disposition: attachment`，
+iPhone Safari 无法播放（播放图标被划掉）。Pages 返回 `video/mp4` 并支持 Range（206）。
+
+- 播放地址：`https://zixuniaowu.github.io/toeic-vocab/media/dayN.mp4`（页面里用相对路径 `media/dayN.mp4`）
+- 网页版是压缩版（静态卡片：2 fps、CRF 32、`-tune stillimage`、AAC 48 kbps 24 kHz 单声道、`+faststart`），每天约 8–12 MB；
+  高清原版留在 `videos/dayN.mp4`（gitignore）用于聊天发送。Pages 站点上限 1 GB，按此大小可容纳约 80+ 天；
+  `du -sh media` 超过 ~850 MB 时需要另建媒体仓库（参见 toeic800 的 `toeic800-mediaN` 做法）。
 
 生成（在仓库根目录）：
 
 ```bash
-/tmp/wp/bin/python scripts/make_day_video.py N          # 单天
-/tmp/wp/bin/python scripts/make_day_video.py --all      # 全部已有 dayN.json
+/tmp/wp/bin/python scripts/make_day_video.py N             # 单天：videos/dayN.mp4 + media/dayN.mp4
+/tmp/wp/bin/python scripts/make_day_video.py --all         # 全部已有 dayN.json
+/tmp/wp/bin/python scripts/make_day_video.py --web-only N  # 只从 videos/dayN.mp4 重新压缩 media/dayN.mp4
 ```
 
-输出到 `videos/dayN.mp4`（已在 `.gitignore`）。上传 / 更新 Release：
-
-```bash
-gh release upload media-v1 videos/dayN.mp4 --clobber -R zixuniaowu/toeic-vocab
-# 若 Release 尚不存在：
-# gh release create media-v1 videos/day*.mp4 -t "Explanation videos" -n "Chinese explanation MP4s for each vocab day" -R zixuniaowu/toeic-vocab
-```
-
-每日 6:15 例行应：写 `data/dayN.json` → `build_day.py N` → `make_day_video.py N` → commit/push Pages → `gh release upload media-v1 videos/dayN.mp4 --clobber` → `verify_live.py N`。下一课编号写在仓库根目录 `NEXT_DAY.txt`（当前应为已发布最大 Day + 1）。
+每日 6:15 例行应：写 `data/dayN.json` → `build_day.py N` → `make_day_video.py N`（会同时写 `media/dayN.mp4`）→
+`git add media/dayN.mp4 dayN.html ...` commit/push Pages → 等 Pages 构建完 → `verify_live.py N`
+（并确认 `curl -sI https://zixuniaowu.github.io/toeic-vocab/media/dayN.mp4` 为 200 + `video/mp4`）。
+不再执行 `gh release upload`。下一课编号写在仓库根目录 `NEXT_DAY.txt`（当前应为已发布最大 Day + 1）。
 
 ## 新增一天（例如 Day 2）
 

@@ -5,7 +5,11 @@ Usage:
   /tmp/wp/bin/python scripts/make_day_video.py 7
   /tmp/wp/bin/python scripts/make_day_video.py --all
 
-Outputs videos/dayN.mp4 (not committed to Pages; upload to GitHub Release).
+Outputs videos/dayN.mp4 (high quality, git-ignored, for chat delivery) and
+media/dayN.mp4 (compact web copy: 2 fps, CRF 32, AAC 48k mono, +faststart),
+which IS committed and served by GitHub Pages. Do NOT link GitHub Release assets:
+iOS Safari refuses to play them (octet-stream + attachment).
+  scripts/make_day_video.py --web-only N   # only (re)make media/dayN.mp4 from videos/
 """
 from __future__ import annotations
 import asyncio, hashlib, json, os, re, subprocess, sys
@@ -15,6 +19,7 @@ ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
 AUDIO = ROOT / "audio"
 OUT = ROOT / "videos"
+WEB = ROOT / "media"
 TMP_ROOT = Path("/tmp/tv_video")
 SEG = Path("/tmp/tv_tts_cache"); SEG.mkdir(parents=True, exist_ok=True)
 
@@ -252,20 +257,38 @@ def build_day(n: int, crf: int = 30):
         "-t", D, "-movflags", "+faststart", str(out_mp4)
     ], check=True)
     print(f"OK day{n}: {out_mp4} {out_mp4.stat().st_size/1e6:.1f}MB {dur(out_mp4):.1f}s", flush=True)
+    make_web(n)
     return out_mp4
+
+def make_web(n):
+    """Compact copy for GitHub Pages (static cards -> 2 fps is enough)."""
+    src, WEB_OUT = OUT / f"day{n}.mp4", WEB / f"day{n}.mp4"
+    WEB.mkdir(exist_ok=True)
+    tmp = WEB_OUT.with_suffix(".tmp.mp4")
+    subprocess.run([
+        "ffmpeg", "-nostdin", "-y", "-loglevel", "error", "-i", str(src), "-map", "0:v:0", "-map", "0:a:0",
+        "-vf", "fps=2,format=yuv420p", "-c:v", "libx264", "-profile:v", "high", "-preset", "slow",
+        "-tune", "stillimage", "-crf", "32", "-g", "60",
+        "-c:a", "aac", "-b:a", "48k", "-ar", "24000", "-ac", "1", "-movflags", "+faststart", str(tmp)
+    ], check=True)
+    tmp.replace(WEB_OUT)
+    print(f"OK web day{n}: {WEB_OUT} {WEB_OUT.stat().st_size/1e6:.1f}MB", flush=True)
 
 def main():
     args = sys.argv[1:]
     crf = 30
     if "--crf" in args:
         i = args.index("--crf"); crf = int(args[i+1]); del args[i:i+2]
+    web_only = "--web-only" in args
+    if web_only:
+        args.remove("--web-only")
     if args == ["--all"] or not args:
         nums = sorted(int(p.stem[3:]) for p in DATA.glob("day*.json") if p.stem[3:].isdigit())
     else:
         nums = [int(a) for a in args]
     for n in nums:
         print(f"===== Day {n} =====", flush=True)
-        build_day(n, crf=crf)
+        make_web(n) if web_only else build_day(n, crf=crf)
 
 if __name__ == "__main__":
     main()
