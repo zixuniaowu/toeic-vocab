@@ -314,7 +314,7 @@ def render_day(n, day, prev_day, next_day, v):
     title = f"Day {n} · {day['title_zh']} | {SITE_TITLE}"
     out = [HEAD.format(title=E(title), desc=E(f"TOEIC 600–850 高频词 {len(ws)} 个：{day['title_zh']}。音标、逐字母拼写、发音、词根拆解、中日双语。"), v=v, body="dayp")]
     out.append(f'<header class="bar"><div class="wrap barin"><a href="index.html">← {E(SITE_TITLE)}</a>{LANGSW}</div></header>')
-    out.append('<main class="wrap">')
+    out.append('<main class="wrap daygrid">')
     out.append(f'<h1 class="title">Day {n} · ' + bi(E(day["title_zh"]), E(day["title_ja"])) + "</h1>")
     out.append(f'<div class="meta">' + bi(f"{len(ws)} 词 · {fmt_date(day['date'], 'zh')}", f"{len(ws)} 語 · {fmt_date(day['date'], 'ja')}") + "</div>")
     if day.get("intro_zh"):
@@ -322,12 +322,17 @@ def render_day(n, day, prev_day, next_day, v):
     # explanation video: media/dayN.mp4 on Pages (made by make_day_video.py)
     vurl = f"{VIDEO_BASE}/day{n}.mp4"
     out.append('<section class="card" id="video"><h2>' + bi("🎬 讲解视频", "🎬 解説動画") + "</h2>")
-    out.append(f'<video controls preload="metadata" playsinline style="width:100%;max-width:960px;border-radius:8px;background:#000" src="{vurl}">')
+    out.append(f'<video class="dayvid" controls preload="metadata" playsinline src="{vurl}">')
     out.append(bi("您的浏览器不支持 video 标签。", "お使いのブラウザは video タグに対応していません。") + "</video>")
     out.append('<p class="meta" style="margin-top:.6rem">' + bi(
         f'<a href="{vurl}" download>下载本课视频（MP4）</a>',
         f'<a href="{vurl}" download>このレッスンの動画をダウンロード（MP4）</a>') + "</p>")
     out.append("</section>")
+    # sidebar (desktop: sticky right column; mobile: display:contents, so the order is unchanged)
+    sp = f'<a href="day{prev_day}.html">← Day {prev_day}</a>' if prev_day else "<span></span>"
+    sn = f'<a href="day{next_day}.html">Day {next_day} →</a>' if next_day else '<a href="index.html">' + bi("全部日期", "一覧へ") + "</a>"
+    out.append('<aside class="side"><div class="sidein">')
+    out.append(f'<div class="sidenav card"><a class="sidehome" href="index.html">' + bi("📅 全部日期", "📅 日付一覧") + f'</a><div class="nav">{sp}{sn}</div></div>')
     # root spotlight
     out.append('<section class="card spot"><h2>' + bi("🔍 今日词根", "🔍 今日の語根") + "</h2>")
     for r in day["roots"]:
@@ -341,6 +346,9 @@ def render_day(n, day, prev_day, next_day, v):
         out.append(f"""<div class="root"><div class="rh"><span class="rname">{E(r['root'])}</span><span class="rmean pair"><span class="cz">{E(r['zh'])}</span><span class="cj" lang="ja">{E(r['ja'])}</span></span><span class="rorig">{E(r.get('origin',''))}</span></div>
  {bi(E(r['exp_zh']), E(r['exp_ja']), 'p', 'rexp')}<div class="rxs">{''.join(ex)}</div></div>""")
     out.append("</section>")
+    toc = "".join(f'<a href="#g-{E(g["id"])}">{bi(E(g["title_zh"]), E(g["title_ja"]))} <small>{len(g["words"])}</small></a>' for g in day["groups"])
+    out.append(f'<nav class="toc stoc card"><div class="lbl">' + bi("📑 本课目录", "📑 目次") + f'</div>{toc}<a href="#quiz">' + bi("📝 小测验", "📝 ミニテスト") + '</a></nav>')
+    out.append("</div></aside>")
     # toolbar
     out.append(f"""<div class="tools" id="tools">
  <button type="button" id="tHide" class="tb">{bi('🙈 遮住释义', '🙈 意味を隠す')}</button>
@@ -349,8 +357,7 @@ def render_day(n, day, prev_day, next_day, v):
  <span class="prog" id="prog"></span>
 </div>""")
     # contents
-    toc = "".join(f'<a href="#g-{E(g["id"])}">{bi(E(g["title_zh"]), E(g["title_ja"]))} <small>{len(g["words"])}</small></a>' for g in day["groups"])
-    out.append(f'<nav class="toc">{toc}</nav>')
+    out.append(f'<nav class="toc mtoc">{toc}</nav>')
     i = 0
     for g in day["groups"]:
         out.append(f'<section class="card grp" id="g-{E(g["id"])}"><h2>' + bi(E(g["title_zh"]), E(g["title_ja"])) + f' <small>{len(g["words"])}</small></h2><ol class="wlist">')

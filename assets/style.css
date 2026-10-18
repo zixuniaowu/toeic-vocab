@@ -123,3 +123,48 @@ footer .counter{display:inline-flex;align-items:center;gap:8px;margin-bottom:6px
 footer img{height:20px;vertical-align:middle}
 footer .links{margin-top:6px}
 @media (max-width:420px){.mean,.ex,.sec,.tipbox,.mk,.peek{margin-left:0}.hw{font-size:18px}.tb{padding:7px 10px;font-size:13px}}
+/* ---- layout: video + sidebar (mobile = unchanged single column) ---- */
+.dayvid{display:block;width:100%;max-width:960px;border-radius:8px;background:#000}
+.side,.sidein{display:contents}
+.sidenav,.stoc{display:none}
+/* ---- desktop (>=1024px): wide container, sticky sidebar, multi-column cards ---- */
+@media (min-width:1024px){
+ .wrap{max-width:1280px;padding:0 28px}
+ header.hero{padding:22px 0 30px}
+ header.hero h1{font-size:30px}
+ main{padding:28px 0 12px}
+ /* index: multi-column day grid */
+ .home .list{grid-template-columns:repeat(auto-fill,minmax(360px,1fr));gap:16px}
+ .home .ep{height:100%;align-items:flex-start;padding:16px;transition:box-shadow .15s,transform .15s}
+ .home .ep:hover{box-shadow:0 6px 18px rgba(15,23,42,.10);transform:translateY(-1px)}
+ /* day page: main column + sticky sidebar */
+ main.daygrid{display:grid;grid-template-columns:minmax(0,1fr) 360px;column-gap:28px;align-items:start}
+ main.daygrid>*{grid-column:1}
+ main.daygrid>.side{display:block;grid-column:2;grid-row:1/span 60;align-self:start;position:sticky;top:14px}
+ .sidein{display:flex;flex-direction:column;gap:12px;max-height:calc(100vh - 28px);overflow-y:auto;overscroll-behavior:contain;padding-bottom:4px;scrollbar-width:thin}
+ .sidein>.card{margin-bottom:0}
+ .sidenav{display:block;padding:10px 14px}
+ .sidenav .nav{margin:6px 0 0}
+ .sidehome{font-weight:600;font-size:14px}
+ .stoc{display:flex;flex-direction:column;flex-wrap:nowrap;gap:6px;margin:0}
+ .stoc .lbl{margin-bottom:0}
+ .stoc a{display:block}
+ .mtoc{display:none}
+ .side .spot h2{font-size:16px}
+ .side .rname{font-size:16px}
+ .side .rexp{font-size:13px;line-height:1.55}
+ .side .rx b{font-size:13px}
+ .dayvid{max-width:100%;max-height:min(62vh,560px)}
+ .intro{max-width:880px}
+ /* word cards: 2-column grid of individual cards */
+ .wlist{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;align-items:start}
+ .wd,.wd:first-child{border:1px solid var(--line);border-radius:12px;padding:12px 12px 10px;background:var(--card)}
+ .wd.now{box-shadow:0 0 0 3px rgba(14,165,233,.35)}
+ .grp{padding:16px}
+ .opts{grid-template-columns:repeat(2,minmax(0,1fr))}
+ #quiz{max-width:880px}
+}
+@media (min-width:1600px){
+ .wrap{max-width:1560px}
+ .wlist{grid-template-columns:repeat(3,minmax(0,1fr))}
+}
