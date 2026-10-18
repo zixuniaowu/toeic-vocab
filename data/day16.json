@@ -1,0 +1,2557 @@
+{
+ "day": 16,
+ "date": "2026-10-24",
+ "title_zh": "四大词根 + 办公设备维护与天气安全通知",
+ "title_ja": "4つの語根＋オフィス機器・設備保守と天気・安全のお知らせ",
+ "intro_zh": "今天掌握 4 个高频词根（nov 新 / prehend·pris 抓住 / fort 强 / cern·cert 分辨·确定），再学办公设备与设施维护、天气预报与安全演习的核心词——强化 Part 1 办公室照片、Part 2/3 设备故障对话、Part 4 天气预报与疏散通知。",
+ "intro_ja": "今日は語根 4 つ（nov 新しい／prehend·pris つかむ／fort 強い／cern·cert 見分ける・確かな）と、オフィス機器・設備保守、天気予報・避難訓練の重要語を学びます。Part 1 のオフィス写真、Part 2・3 の機器トラブルの会話、Part 4 の天気予報や避難のお知らせを強化します。",
+ "voice": "en-US-AriaNeural",
+ "roots": [
+  {
+   "root": "-nov-",
+   "origin": "Latin novus, novare",
+   "zh": "新",
+   "ja": "新しい",
+   "exp_zh": "来自拉丁语 novus（新的）和 novare（使变新）。in-（使……新 → 革新、创新）、novel 原义“新的”，作形容词是“新颖的”，作名词“小说”来自意大利语 novella“新故事”；novelty“新奇、新鲜感”，novice“新手”。Day 6 学过的 renovate（翻新）也是同一词根。⚠️ November 来自 novem“九”（古罗马历的第九个月），与“新”无关；notice、notify 的 not- 来自 noscere“知道”，也不同源。",
+   "exp_ja": "ラテン語 novus（新しい）と novare（新しくする）から。in-（新しくする → 革新する）、novel は本来「新しい」で、形容詞は「斬新な」、名詞「小説」はイタリア語 novella「新しい話」から。novelty「目新しさ」、novice「初心者」。Day 6 の renovate（改装する）も同じ語根。⚠️ November は novem「9」（古代ローマ暦の 9 番目の月）由来で「新しい」とは無関係。notice・notify の not- は noscere「知る」で別語源。",
+   "examples": [
+    "innovate",
+    "innovation",
+    "innovative",
+    "innovator",
+    "novel",
+    "novelty",
+    "novice"
+   ]
+  },
+  {
+   "root": "-prehend- / -pris-",
+   "origin": "Latin prehendere; Old French prendre, pris",
+   "zh": "抓住；拿",
+   "ja": "つかむ；取る",
+   "exp_zh": "来自拉丁语 prehendere（抓住），到法语变成 prendre，过去分词 pris。com-（完全抓住 → 理解；全部抓在一起 → 全面的）、ap-（向……抓 → 理解 → 担心会发生 → 忧虑的）；法语 entreprendre“着手做”（entre 之间 + prendre 拿）→ enterprise 企业、事业，entrepreneur 创业者；comprise“包含、由……组成”来自 compris“被抓在一起”；apprentice“学徒”来自 apprendre“学习（把知识抓到手）”。surprise 也同源（从上面抓住 → 突然袭击 → 惊讶）。⚠️ price、prize、precious 来自 pretium“价格”，不同源。",
+   "exp_ja": "ラテン語 prehendere（つかむ）から。フランス語では prendre、過去分詞 pris。com-（完全につかむ → 理解する；全部をまとめてつかむ → 包括的な）、ap-（〜へ向かってつかむ → 理解する → 起こりそうで不安な）。フランス語 entreprendre「取りかかる」（entre 間 + prendre 取る）→ enterprise 企業・事業、entrepreneur 起業家。comprise「含む・〜から成る」は compris「まとめてつかまれた」から。apprentice「見習い」は apprendre「学ぶ（知識をつかむ）」から。surprise も同源（上からつかむ → 不意打ち → 驚き）。⚠️ price・prize・precious は pretium「価格」由来で別語源。",
+   "examples": [
+    "comprehend",
+    "comprehensive",
+    "comprehension",
+    "apprehensive",
+    "enterprise",
+    "entrepreneur",
+    "comprise",
+    "apprentice"
+   ]
+  },
+  {
+   "root": "-fort-",
+   "origin": "Latin fortis",
+   "zh": "强；有力",
+   "ja": "強い；力のある",
+   "exp_zh": "来自拉丁语 fortis（强壮的）。ef-（ex- 的变体，向外使力 → 努力）、com-（一起加强 → 安慰、舒适）、-ify（使强 → 加固、强化）、re- + in- + force（再给力量 → 加强、增援）；forte“长处、强项”来自法语 fort“强”。force、enforce（Day 2）、fort（要塞）、fortress 也同源。⚠️ fortune（运气）来自 fors“偶然、运气”，不同源；forth、forward 是本族词，也无关。",
+   "exp_ja": "ラテン語 fortis（強い）から。ef-（ex- の異形、外へ力を出す → 努力）、com-（共に強める → 慰め・快適さ）、-ify（強くする → 強化する）、re- + in- + force（再び力を与える → 補強する）。forte「長所・得意分野」はフランス語 fort「強い」から。force、enforce（Day 2）、fort（要塞）、fortress も同源。⚠️ fortune（運）は fors「偶然」由来で別語源。forth・forward は本来の英語で無関係。",
+   "examples": [
+    "effort",
+    "effortless",
+    "comfort",
+    "discomfort",
+    "fortify",
+    "forte",
+    "reinforce",
+    "reinforcement"
+   ]
+  },
+  {
+   "root": "-cern- / -cert-",
+   "origin": "Latin cernere, certus",
+   "zh": "分辨；确定",
+   "ja": "見分ける；確かな",
+   "exp_zh": "来自拉丁语 cernere（筛分、分辨、决定），过去分词 certus“已确定的 → 确实的”。dis-（分开来看 → 辨别）、con-（混在一起筛 → 与……有关 → concerning“关于”）；-ify（使确定 → 证明、认证）、certificate“证书”、ascertain（a- = ad-“向”+ certain → 查明、确认）、certainty / uncertainty“确定性 / 不确定性”。secret、discreet、decree 也同源。⚠️ concert（音乐会）来自意大利语 concertare，词源有争议，不要硬套；cereal、cerebral 也无关。",
+   "exp_ja": "ラテン語 cernere（ふるい分ける・見分ける・決める）、過去分詞 certus「決まった → 確かな」から。dis-（分けて見る → 識別する）、con-（混ぜてふるう → 関係する → concerning「〜に関して」）。-ify（確かにする → 証明する・認定する）、certificate「証明書」、ascertain（a- = ad-「〜へ」+ certain → 確かめる）、certainty / uncertainty「確実性・不確実性」。secret、discreet、decree も同源。⚠️ concert（コンサート）はイタリア語 concertare 由来で語源に諸説あり、当てはめないこと。cereal・cerebral も無関係。",
+   "examples": [
+    "discern",
+    "concerning",
+    "certify",
+    "certified",
+    "certificate",
+    "ascertain",
+    "certainty",
+    "uncertainty"
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "nov",
+   "title_zh": "词根 -nov-：新",
+   "title_ja": "語根 -nov-：新しい",
+   "words": [
+    {
+     "w": "innovate",
+     "pos": "v.",
+     "ipa": "/ˈɪnəveɪt/",
+     "zh": "创新；革新",
+     "ja": "革新する；新しいものを取り入れる",
+     "ex": "Companies that fail to innovate may quickly lose market share.",
+     "ex_zh": "不创新的公司可能会很快失去市场份额。",
+     "ex_ja": "革新できない企業は、すぐに市場シェアを失うかもしれません。",
+     "parts": [
+      [
+       "in-",
+       "向内；使",
+       "中へ；〜にする"
+      ],
+      [
+       "nov",
+       "新",
+       "新しい"
+      ],
+      [
+       "-ate",
+       "动词后缀",
+       "動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 innovare“使更新”。",
+      "ja": "ラテン語 innovare「新しくする」。"
+     },
+     "forms": [
+      [
+       "innovate constantly",
+       "不断创新",
+       "絶えず革新する"
+      ],
+      [
+       "innovator (n.)",
+       "创新者",
+       "革新者"
+      ]
+     ]
+    },
+    {
+     "w": "innovation",
+     "pos": "n.",
+     "ipa": "/ˌɪnəˈveɪʃən/",
+     "zh": "创新；革新；新事物",
+     "ja": "革新；イノベーション；新しいもの",
+     "ex": "The award recognizes innovation in renewable energy technology.",
+     "ex_zh": "该奖项表彰可再生能源技术方面的创新。",
+     "ex_ja": "この賞は再生可能エネルギー技術における革新をたたえるものです。",
+     "parts": [
+      [
+       "in-",
+       "向内；使",
+       "中へ；〜にする"
+      ],
+      [
+       "nov",
+       "新",
+       "新しい"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "innovate + -ion。",
+      "ja": "innovate + -ion。"
+     },
+     "forms": [
+      [
+       "technological innovation",
+       "技术创新",
+       "技術革新"
+      ],
+      [
+       "drive innovation",
+       "推动创新",
+       "イノベーションを推進する"
+      ]
+     ]
+    },
+    {
+     "w": "innovative",
+     "pos": "adj.",
+     "ipa": "/ˈɪnəveɪtɪv/",
+     "zh": "创新的；新颖的",
+     "ja": "革新的な；斬新な",
+     "ex": "Ms. Patel was praised for her innovative approach to reducing costs.",
+     "ex_zh": "帕特尔女士因其降低成本的创新方法而受到称赞。",
+     "ex_ja": "パテルさんはコスト削減への革新的な取り組みで称賛されました。",
+     "parts": [
+      [
+       "in-",
+       "向内；使",
+       "中へ；〜にする"
+      ],
+      [
+       "nov",
+       "新",
+       "新しい"
+      ],
+      [
+       "-ative",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "innovate + -ive。",
+      "ja": "innovate + -ive。"
+     },
+     "forms": [
+      [
+       "innovative design",
+       "创新设计",
+       "革新的なデザイン"
+      ],
+      [
+       "innovatively (adv.)",
+       "创新地",
+       "革新的に"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5 词性题：an ______ approach 选形容词 innovative，不选 innovation。",
+      "ja": "Part 5 の品詞問題：an ______ approach には形容詞 innovative。innovation ではない。"
+     }
+    },
+    {
+     "w": "innovator",
+     "pos": "n.",
+     "ipa": "/ˈɪnəveɪtɚ/",
+     "zh": "创新者；革新者",
+     "ja": "革新者；イノベーター",
+     "ex": "The keynote speaker is a well-known innovator in mobile payment systems.",
+     "ex_zh": "主讲人是移动支付系统领域知名的创新者。",
+     "ex_ja": "基調講演者はモバイル決済システムで有名な革新者です。",
+     "parts": [
+      [
+       "in-",
+       "向内；使",
+       "中へ；〜にする"
+      ],
+      [
+       "nov",
+       "新",
+       "新しい"
+      ],
+      [
+       "-ator",
+       "表示人",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "innovate + -or。",
+      "ja": "innovate + -or。"
+     },
+     "forms": [
+      [
+       "industry innovator",
+       "行业创新者",
+       "業界の革新者"
+      ],
+      [
+       "leading innovator",
+       "领先的创新者",
+       "先駆的な革新者"
+      ]
+     ]
+    },
+    {
+     "w": "novel",
+     "pos": "adj./n.",
+     "ipa": "/ˈnɑvəl/",
+     "zh": "新颖的；新奇的；（n.）长篇小说",
+     "ja": "斬新な；目新しい；（名）小説",
+     "ex": "The team came up with a novel solution to the parking problem.",
+     "ex_zh": "团队想出了一个解决停车问题的新颖办法。",
+     "ex_ja": "チームは駐車場問題に対する斬新な解決策を思いつきました。",
+     "parts": [
+      [
+       "nov",
+       "新",
+       "新しい"
+      ],
+      [
+       "-el",
+       "小称后缀",
+       "指小辞"
+      ]
+     ],
+     "note": {
+      "zh": "形容词来自拉丁语 novellus“新的”；名词“小说”来自意大利语 novella“新故事”。",
+      "ja": "形容詞はラテン語 novellus「新しい」、名詞「小説」はイタリア語 novella「新しい話」から。"
+     },
+     "forms": [
+      [
+       "a novel idea",
+       "新颖的想法",
+       "斬新なアイデア"
+      ],
+      [
+       "novelist (n.)",
+       "小说家",
+       "小説家"
+      ]
+     ],
+     "tip": {
+      "zh": "TOEIC 里 novel 作形容词“新颖的”比“小说”更常考。",
+      "ja": "TOEIC では「小説」より形容詞「斬新な」の意味が狙われやすい。"
+     }
+    },
+    {
+     "w": "novelty",
+     "pos": "n.",
+     "ipa": "/ˈnɑvəlti/",
+     "zh": "新奇；新鲜感；小玩意儿",
+     "ja": "目新しさ；珍しさ；ちょっとした商品",
+     "ex": "The novelty of the new office layout wore off after a few weeks.",
+     "ex_zh": "新办公室布局的新鲜感几周后就消失了。",
+     "ex_ja": "新しいオフィスレイアウトの目新しさは数週間で薄れました。",
+     "parts": [
+      [
+       "nov",
+       "新",
+       "新しい"
+      ],
+      [
+       "-el",
+       "小称后缀",
+       "指小辞"
+      ],
+      [
+       "-ty",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "novel + -ty。",
+      "ja": "novel + -ty。"
+     },
+     "forms": [
+      [
+       "novelty items",
+       "新奇小商品",
+       "ノベルティ商品"
+      ],
+      [
+       "the novelty wears off",
+       "新鲜感消失",
+       "目新しさが薄れる"
+      ]
+     ]
+    },
+    {
+     "w": "novice",
+     "pos": "n./adj.",
+     "ipa": "/ˈnɑvɪs/",
+     "zh": "新手；初学者；新手的",
+     "ja": "初心者；新米；初心者の",
+     "ex": "This software is easy enough for even a complete novice to use.",
+     "ex_zh": "这款软件简单到连完全的新手都能用。",
+     "ex_ja": "このソフトは、まったくの初心者でも使えるほど簡単です。",
+     "parts": [
+      [
+       "nov",
+       "新",
+       "新しい"
+      ],
+      [
+       "-ice",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 novicius“新来的”← novus。",
+      "ja": "ラテン語 novicius「新入りの」← novus。"
+     },
+     "forms": [
+      [
+       "novice user",
+       "新手用户",
+       "初心者ユーザー"
+      ],
+      [
+       "beginner (n.)",
+       "初学者（近义）",
+       "初心者（類義）"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "prehend",
+   "title_zh": "词根 -prehend- / -pris-：抓住、拿",
+   "title_ja": "語根 -prehend- / -pris-：つかむ・取る",
+   "words": [
+    {
+     "w": "comprehend",
+     "pos": "v.",
+     "ipa": "/ˌkɑmprɪˈhɛnd/",
+     "zh": "理解；领会",
+     "ja": "理解する；把握する",
+     "ex": "It took me a while to comprehend the new expense reporting rules.",
+     "ex_zh": "我花了一段时间才理解新的报销规定。",
+     "ex_ja": "新しい経費精算ルールを理解するのにしばらくかかりました。",
+     "parts": [
+      [
+       "com-",
+       "一起；完全",
+       "共に；完全に"
+      ],
+      [
+       "prehend",
+       "抓住",
+       "つかむ"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 comprehendere“完全抓住 → 理解”。",
+      "ja": "ラテン語 comprehendere「完全につかむ → 理解する」。"
+     },
+     "forms": [
+      [
+       "comprehension (n.)",
+       "理解",
+       "理解"
+      ],
+      [
+       "comprehensible (adj.)",
+       "可理解的",
+       "理解できる"
+      ]
+     ]
+    },
+    {
+     "w": "comprehensive",
+     "pos": "adj.",
+     "ipa": "/ˌkɑmprɪˈhɛnsɪv/",
+     "zh": "全面的；综合的；详尽的",
+     "ja": "包括的な；総合的な；詳細な",
+     "ex": "New employees receive a comprehensive guide to company policies.",
+     "ex_zh": "新员工会收到一份全面的公司政策指南。",
+     "ex_ja": "新入社員には会社方針の包括的なガイドが配られます。",
+     "parts": [
+      [
+       "com-",
+       "一起；完全",
+       "共に；完全に"
+      ],
+      [
+       "prehens",
+       "抓住（prehend 的分词形式）",
+       "つかむ（prehend の分詞形）"
+      ],
+      [
+       "-ive",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 comprehensivus“包含一切的”。",
+      "ja": "ラテン語 comprehensivus「すべてを含む」。"
+     },
+     "forms": [
+      [
+       "comprehensive review",
+       "全面审查",
+       "包括的な見直し"
+      ],
+      [
+       "comprehensive insurance",
+       "综合保险",
+       "総合保険"
+      ]
+     ],
+     "tip": {
+      "zh": "comprehensive = 全面的；comprehensible = 可理解的，两者常被混淆。",
+      "ja": "comprehensive は「包括的な」、comprehensible は「理解できる」。混同注意。"
+     }
+    },
+    {
+     "w": "comprehension",
+     "pos": "n.",
+     "ipa": "/ˌkɑmprɪˈhɛnʃən/",
+     "zh": "理解；理解力",
+     "ja": "理解；理解力",
+     "ex": "The reading section tests your comprehension of business documents.",
+     "ex_zh": "阅读部分考查你对商务文件的理解。",
+     "ex_ja": "リーディングセクションではビジネス文書の理解力が問われます。",
+     "parts": [
+      [
+       "com-",
+       "一起；完全",
+       "共に；完全に"
+      ],
+      [
+       "prehens",
+       "抓住（prehend 的分词形式）",
+       "つかむ（prehend の分詞形）"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "comprehend 的名词。",
+      "ja": "comprehend の名詞形。"
+     },
+     "forms": [
+      [
+       "reading comprehension",
+       "阅读理解",
+       "読解"
+      ],
+      [
+       "beyond comprehension",
+       "难以理解",
+       "理解を超えた"
+      ]
+     ]
+    },
+    {
+     "w": "apprehensive",
+     "pos": "adj.",
+     "ipa": "/ˌæprɪˈhɛnsɪv/",
+     "zh": "忧虑的；担心的",
+     "ja": "不安な；心配している",
+     "ex": "Some staff were apprehensive about the move to the new headquarters.",
+     "ex_zh": "一些员工对搬到新总部感到担忧。",
+     "ex_ja": "一部の社員は新本社への移転に不安を感じていました。",
+     "parts": [
+      [
+       "ap-",
+       "向（ad- 的变体）",
+       "〜へ（ad- の異形）"
+      ],
+      [
+       "prehens",
+       "抓住（prehend 的分词形式）",
+       "つかむ（prehend の分詞形）"
+      ],
+      [
+       "-ive",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 apprehendere“抓住”→ 在心里抓住 → 预感会出事 → 担心。",
+      "ja": "ラテン語 apprehendere「つかむ」→ 心でつかむ → 悪いことを予感する → 不安な。"
+     },
+     "forms": [
+      [
+       "apprehensive about",
+       "对……担心",
+       "〜について不安な"
+      ],
+      [
+       "apprehension (n.)",
+       "忧虑",
+       "不安"
+      ]
+     ]
+    },
+    {
+     "w": "enterprise",
+     "pos": "n.",
+     "ipa": "/ˈɛntɚpraɪz/",
+     "zh": "企业；事业；进取心",
+     "ja": "企業；事業；進取の気性",
+     "ex": "The bank offers special loans for small and medium-sized enterprises.",
+     "ex_zh": "这家银行为中小企业提供专项贷款。",
+     "ex_ja": "その銀行は中小企業向けの特別融資を提供しています。",
+     "parts": [
+      [
+       "enter-",
+       "之间（法语 entre）",
+       "間に（フランス語 entre）"
+      ],
+      [
+       "pris",
+       "抓住（prehend 的法语形式）",
+       "つかむ（prehend のフランス語形）"
+      ],
+      [
+       "-e",
+       "词尾",
+       "語尾"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 entreprise“着手做的事”← entreprendre。",
+      "ja": "古フランス語 entreprise「取りかかったこと」← entreprendre。"
+     },
+     "forms": [
+      [
+       "small and medium-sized enterprises (SMEs)",
+       "中小企业",
+       "中小企業"
+      ],
+      [
+       "enterprising (adj.)",
+       "有进取心的",
+       "進取的な"
+      ]
+     ]
+    },
+    {
+     "w": "entrepreneur",
+     "pos": "n.",
+     "ipa": "/ˌɑntrəprəˈnɝ/",
+     "zh": "创业者；企业家",
+     "ja": "起業家；事業家",
+     "ex": "The workshop helps young entrepreneurs write effective business plans.",
+     "ex_zh": "这个研讨会帮助年轻创业者撰写有效的商业计划书。",
+     "ex_ja": "このワークショップは若い起業家が効果的な事業計画を書く手助けをします。",
+     "parts": [
+      [
+       "entre-",
+       "之间",
+       "間に"
+      ],
+      [
+       "pren",
+       "拿（prendre）",
+       "取る（prendre）"
+      ],
+      [
+       "-eur",
+       "表示人（法语后缀）",
+       "〜する人（フランス語接尾辞）"
+      ]
+     ],
+     "note": {
+      "zh": "法语 entrepreneur“承办人”← entreprendre“着手做”。",
+      "ja": "フランス語 entrepreneur「請け負う人」← entreprendre「取りかかる」。"
+     },
+     "forms": [
+      [
+       "entrepreneurial (adj.)",
+       "创业的；有企业家精神的",
+       "起業家的な"
+      ],
+      [
+       "entrepreneurship (n.)",
+       "创业；企业家精神",
+       "起業家精神"
+      ]
+     ]
+    },
+    {
+     "w": "comprise",
+     "pos": "v.",
+     "ipa": "/kəmˈpraɪz/",
+     "zh": "由……组成；包含",
+     "ja": "〜から成る；〜を含む",
+     "ex": "The committee comprises five managers and two outside experts.",
+     "ex_zh": "委员会由五名经理和两名外部专家组成。",
+     "ex_ja": "委員会は 5 人のマネージャーと 2 人の外部専門家で構成されています。",
+     "parts": [
+      [
+       "com-",
+       "一起；完全",
+       "共に；完全に"
+      ],
+      [
+       "pris",
+       "抓住（prehend 的法语形式）",
+       "つかむ（prehend のフランス語形）"
+      ],
+      [
+       "-e",
+       "词尾",
+       "語尾"
+      ]
+     ],
+     "note": {
+      "zh": "法语 compris（comprendre 的过去分词）“被包含的”。",
+      "ja": "フランス語 compris（comprendre の過去分詞）「含まれた」。"
+     },
+     "forms": [
+      [
+       "be comprised of",
+       "由……组成",
+       "〜で構成される"
+      ],
+      [
+       "consist of",
+       "由……组成（近义）",
+       "〜から成る（類義）"
+      ]
+     ],
+     "tip": {
+      "zh": "A comprises B（A 由 B 组成）不用 of；be composed of / consist of 才带 of。",
+      "ja": "A comprises B（A は B から成る）には of をつけない。be composed of・consist of は of が必要。"
+     },
+     "hl": "comprises"
+    },
+    {
+     "w": "apprentice",
+     "pos": "n./v.",
+     "ipa": "/əˈprɛntɪs/",
+     "zh": "学徒；见习生；当学徒",
+     "ja": "見習い；徒弟；見習いをする",
+     "ex": "She worked as an apprentice electrician before getting her license.",
+     "ex_zh": "她在取得执照前当过电工学徒。",
+     "ex_ja": "彼女は免許を取る前に見習い電気技師として働いていました。",
+     "parts": [
+      [
+       "ap-",
+       "向（ad- 的变体）",
+       "〜へ（ad- の異形）"
+      ],
+      [
+       "prent",
+       "学到手（apprendre）",
+       "学び取る（apprendre）"
+      ],
+      [
+       "-ice",
+       "表示人",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 aprentis“学习者”← aprendre“学习”← 拉丁语 apprehendere。",
+      "ja": "古フランス語 aprentis「学ぶ人」← aprendre「学ぶ」← ラテン語 apprehendere。"
+     },
+     "forms": [
+      [
+       "apprenticeship (n.)",
+       "学徒期；学徒制",
+       "見習い期間；徒弟制度"
+      ],
+      [
+       "trainee (n.)",
+       "受训者（近义）",
+       "研修生（類義）"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fort",
+   "title_zh": "词根 -fort-：强、有力",
+   "title_ja": "語根 -fort-：強い・力のある",
+   "words": [
+    {
+     "w": "effort",
+     "pos": "n.",
+     "ipa": "/ˈɛfɚt/",
+     "zh": "努力；尝试",
+     "ja": "努力；取り組み",
+     "ex": "Thanks to everyone's effort, the project was finished ahead of schedule.",
+     "ex_zh": "多亏大家的努力，项目提前完成了。",
+     "ex_ja": "皆さんの努力のおかげで、プロジェクトは予定より早く完了しました。",
+     "parts": [
+      [
+       "ef-",
+       "向外（ex- 的变体）",
+       "外へ（ex- の異形）"
+      ],
+      [
+       "fort",
+       "强",
+       "強い"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 esforz ← esforcier“使出力气”← 拉丁语 ex + fortis。",
+      "ja": "古フランス語 esforz ← esforcier「力を出す」← ラテン語 ex + fortis。"
+     },
+     "forms": [
+      [
+       "make an effort to do",
+       "努力做……",
+       "〜しようと努力する"
+      ],
+      [
+       "in an effort to do",
+       "为了……",
+       "〜しようとして"
+      ]
+     ],
+     "tip": {
+      "zh": "in an effort to reduce costs“为了降低成本”是 Part 5/7 高频表达。",
+      "ja": "in an effort to reduce costs「コスト削減のために」は Part 5・7 の頻出表現。"
+     }
+    },
+    {
+     "w": "effortless",
+     "pos": "adj.",
+     "ipa": "/ˈɛfɚtləs/",
+     "zh": "毫不费力的；轻松的",
+     "ja": "楽々とした；努力のいらない",
+     "ex": "The new booking system makes reserving a meeting room effortless.",
+     "ex_zh": "新的预订系统让预订会议室变得毫不费力。",
+     "ex_ja": "新しい予約システムで会議室の予約が楽々とできます。",
+     "parts": [
+      [
+       "ef-",
+       "向外（ex- 的变体）",
+       "外へ（ex- の異形）"
+      ],
+      [
+       "fort",
+       "强",
+       "強い"
+      ],
+      [
+       "-less",
+       "无……的",
+       "〜のない"
+      ]
+     ],
+     "note": {
+      "zh": "effort + -less。",
+      "ja": "effort + -less。"
+     },
+     "forms": [
+      [
+       "effortlessly (adv.)",
+       "轻松地",
+       "楽々と"
+      ],
+      [
+       "seamless (adj.)",
+       "流畅无缝的（近义）",
+       "シームレスな（類義）"
+      ]
+     ]
+    },
+    {
+     "w": "comfort",
+     "pos": "n./v.",
+     "ipa": "/ˈkʌmfɚt/",
+     "zh": "舒适；安慰；安慰（某人）",
+     "ja": "快適さ；慰め；慰める",
+     "ex": "Our seats are designed for comfort on long-distance flights.",
+     "ex_zh": "我们的座椅专为长途航班的舒适而设计。",
+     "ex_ja": "当社の座席は長距離便での快適さを考えて設計されています。",
+     "parts": [
+      [
+       "com-",
+       "一起；完全",
+       "共に；完全に"
+      ],
+      [
+       "fort",
+       "强",
+       "強い"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 conforter ← 后期拉丁语 confortare“使强壮”。",
+      "ja": "古フランス語 conforter ← 後期ラテン語 confortare「強くする」。"
+     },
+     "forms": [
+      [
+       "comfortable (adj.)",
+       "舒适的",
+       "快適な"
+      ],
+      [
+       "in comfort",
+       "舒适地",
+       "快適に"
+      ]
+     ]
+    },
+    {
+     "w": "discomfort",
+     "pos": "n.",
+     "ipa": "/dɪsˈkʌmfɚt/",
+     "zh": "不适；不舒服；不安",
+     "ja": "不快感；不便；不安",
+     "ex": "Please tell the nurse if you feel any discomfort after the injection.",
+     "ex_zh": "注射后如有任何不适，请告诉护士。",
+     "ex_ja": "注射の後に何か不快感があれば看護師に伝えてください。",
+     "parts": [
+      [
+       "dis-",
+       "否定",
+       "否定"
+      ],
+      [
+       "com-",
+       "一起；完全",
+       "共に；完全に"
+      ],
+      [
+       "fort",
+       "强",
+       "強い"
+      ]
+     ],
+     "note": {
+      "zh": "dis- + comfort。",
+      "ja": "dis- + comfort。"
+     },
+     "forms": [
+      [
+       "cause discomfort",
+       "引起不适",
+       "不快感を引き起こす"
+      ],
+      [
+       "minor discomfort",
+       "轻微不适",
+       "軽い不快感"
+      ]
+     ]
+    },
+    {
+     "w": "fortify",
+     "pos": "v.",
+     "ipa": "/ˈfɔrtəfaɪ/",
+     "zh": "加强；加固；（营养）强化",
+     "ja": "強化する；補強する；（栄養を）強化する",
+     "ex": "The city plans to fortify the seawall before the typhoon season.",
+     "ex_zh": "市政府计划在台风季前加固海堤。",
+     "ex_ja": "市は台風シーズン前に防潮堤を補強する予定です。",
+     "parts": [
+      [
+       "fort",
+       "强",
+       "強い"
+      ],
+      [
+       "-ify",
+       "使……化",
+       "〜にする"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 fortificare“使强”。",
+      "ja": "ラテン語 fortificare「強くする」。"
+     },
+     "forms": [
+      [
+       "fortified with vitamins",
+       "添加维生素强化的",
+       "ビタミン強化の"
+      ],
+      [
+       "fortification (n.)",
+       "防御工事；强化",
+       "要塞；強化"
+      ]
+     ]
+    },
+    {
+     "w": "forte",
+     "pos": "n.",
+     "ipa": "/ˈfɔrteɪ/",
+     "zh": "长处；强项；擅长",
+     "ja": "得意分野；長所",
+     "ex": "Public speaking has never been my forte, but I'm working on it.",
+     "ex_zh": "公开演讲一直不是我的强项，但我正在努力。",
+     "ex_ja": "人前で話すのは得意ではありませんが、練習しています。",
+     "parts": [
+      [
+       "fort",
+       "强",
+       "強い"
+      ],
+      [
+       "-e",
+       "词尾",
+       "語尾"
+      ]
+     ],
+     "note": {
+      "zh": "法语 fort“强”（剑身最坚固的部分）。",
+      "ja": "フランス語 fort「強い」（剣の最も丈夫な部分）から。"
+     },
+     "forms": [
+      [
+       "one's forte",
+       "某人的强项",
+       "〜の得意分野"
+      ],
+      [
+       "strength (n.)",
+       "长处（近义）",
+       "強み（類義）"
+      ]
+     ],
+     "tip": {
+      "zh": "求职信 / 推荐信里常见：Negotiation is her forte.",
+      "ja": "求人の応募書類や推薦状で Negotiation is her forte. のように使われる。"
+     }
+    },
+    {
+     "w": "reinforce",
+     "pos": "v.",
+     "ipa": "/ˌriɪnˈfɔrs/",
+     "zh": "加强；巩固；增援",
+     "ja": "強化する；補強する；裏付ける",
+     "ex": "The training session will reinforce the safety procedures we discussed.",
+     "ex_zh": "这次培训将巩固我们讨论过的安全流程。",
+     "ex_ja": "この研修で、話し合った安全手順を再確認・強化します。",
+     "parts": [
+      [
+       "re-",
+       "再",
+       "再び"
+      ],
+      [
+       "in-",
+       "使",
+       "〜にする"
+      ],
+      [
+       "force",
+       "力量（← fortis）",
+       "力（← fortis）"
+      ]
+     ],
+     "note": {
+      "zh": "re- + enforce（古形 inforce）“再使有力”。",
+      "ja": "re- + enforce（古形 inforce）「再び力を与える」。"
+     },
+     "forms": [
+      [
+       "reinforced concrete",
+       "钢筋混凝土",
+       "鉄筋コンクリート"
+      ],
+      [
+       "reinforce a message",
+       "强化信息",
+       "メッセージを強調する"
+      ]
+     ]
+    },
+    {
+     "w": "reinforcement",
+     "pos": "n.",
+     "ipa": "/ˌriɪnˈfɔrsmənt/",
+     "zh": "加强；巩固；增援（人员）",
+     "ja": "強化；補強；増援",
+     "ex": "The store hired temporary staff as reinforcement during the holiday rush.",
+     "ex_zh": "商店在假日高峰期雇用临时员工作为增援。",
+     "ex_ja": "その店は年末商戦の繁忙期に応援として臨時スタッフを雇いました。",
+     "parts": [
+      [
+       "re-",
+       "再",
+       "再び"
+      ],
+      [
+       "in-",
+       "使",
+       "〜にする"
+      ],
+      [
+       "force",
+       "力量（← fortis）",
+       "力（← fortis）"
+      ],
+      [
+       "-ment",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "reinforce + -ment。",
+      "ja": "reinforce + -ment。"
+     },
+     "forms": [
+      [
+       "positive reinforcement",
+       "正面激励",
+       "正の強化（褒めて伸ばす）"
+      ],
+      [
+       "call in reinforcements",
+       "调来增援",
+       "応援を呼ぶ"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cern",
+   "title_zh": "词根 -cern- / -cert-：分辨、确定",
+   "title_ja": "語根 -cern- / -cert-：見分ける・確かな",
+   "words": [
+    {
+     "w": "discern",
+     "pos": "v.",
+     "ipa": "/dɪˈsɝn/",
+     "zh": "辨别；看出；察觉",
+     "ja": "見分ける；識別する；気づく",
+     "ex": "It was difficult to discern any difference between the two proposals.",
+     "ex_zh": "很难看出这两份提案有什么区别。",
+     "ex_ja": "2 つの提案の違いを見分けるのは難しかった。",
+     "parts": [
+      [
+       "dis-",
+       "分开",
+       "分けて"
+      ],
+      [
+       "cern",
+       "筛分；分辨",
+       "ふるい分ける；見分ける"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 discernere“分开 → 辨别”。",
+      "ja": "ラテン語 discernere「分ける → 見分ける」。"
+     },
+     "forms": [
+      [
+       "discernible (adj.)",
+       "可辨别的",
+       "識別できる"
+      ],
+      [
+       "discerning (adj.)",
+       "有眼光的",
+       "目の肥えた"
+      ]
+     ],
+     "tip": {
+      "zh": "discerning customers“有眼光的顾客”常见于高端商品广告。",
+      "ja": "discerning customers「目の肥えた客」は高級品の広告によく出る。"
+     }
+    },
+    {
+     "w": "concerning",
+     "pos": "prep.",
+     "ipa": "/kənˈsɝnɪŋ/",
+     "zh": "关于；有关",
+     "ja": "〜に関して；〜について",
+     "ex": "Please direct all questions concerning the merger to the legal department.",
+     "ex_zh": "有关合并的所有问题请转给法务部。",
+     "ex_ja": "合併に関するご質問はすべて法務部へお寄せください。",
+     "parts": [
+      [
+       "con-",
+       "一起",
+       "共に"
+      ],
+      [
+       "cern",
+       "筛分；分辨",
+       "ふるい分ける；見分ける"
+      ],
+      [
+       "-ing",
+       "分词词尾",
+       "分詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "concern“与……有关”← 拉丁语 concernere“混在一起筛”。",
+      "ja": "concern「関係する」← ラテン語 concernere「混ぜてふるう」。"
+     },
+     "forms": [
+      [
+       "regarding (prep.)",
+       "关于（近义）",
+       "〜に関して（類義）"
+      ],
+      [
+       "with regard to",
+       "关于（近义）",
+       "〜に関して（類義）"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5 介词题：questions ______ the schedule，选 concerning / regarding。",
+      "ja": "Part 5 の前置詞問題：questions ______ the schedule には concerning / regarding。"
+     }
+    },
+    {
+     "w": "certify",
+     "pos": "v.",
+     "ipa": "/ˈsɝtəfaɪ/",
+     "zh": "证明；认证；颁发证书",
+     "ja": "証明する；認定する",
+     "ex": "An engineer must certify that the elevator is safe before it reopens.",
+     "ex_zh": "电梯重新开放前，必须由工程师证明其安全。",
+     "ex_ja": "エレベーターの運転再開前に、技術者が安全を証明しなければなりません。",
+     "parts": [
+      [
+       "cert",
+       "确定（cernere 的过去分词）",
+       "確かな（cernere の過去分詞）"
+      ],
+      [
+       "-ify",
+       "使……化",
+       "〜にする"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 certificare“使确定”。",
+      "ja": "ラテン語 certificare「確かにする」。"
+     },
+     "forms": [
+      [
+       "certification (n.)",
+       "认证；资格",
+       "認定；資格"
+      ],
+      [
+       "certify that ...",
+       "证明……",
+       "〜であることを証明する"
+      ]
+     ]
+    },
+    {
+     "w": "certified",
+     "pos": "adj.",
+     "ipa": "/ˈsɝtəfaɪd/",
+     "zh": "经认证的；有资格的；（邮件）挂号的",
+     "ja": "認定された；有資格の；（郵便）配達証明付きの",
+     "ex": "The documents must be translated by a certified translator.",
+     "ex_zh": "这些文件必须由有资格的译者翻译。",
+     "ex_ja": "書類は認定翻訳者が翻訳しなければなりません。",
+     "parts": [
+      [
+       "cert",
+       "确定（cernere 的过去分词）",
+       "確かな（cernere の過去分詞）"
+      ],
+      [
+       "-ifi",
+       "使……化",
+       "〜にする"
+      ],
+      [
+       "-ed",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "certify 的过去分词作形容词。",
+      "ja": "certify の過去分詞が形容詞化。"
+     },
+     "forms": [
+      [
+       "certified public accountant (CPA)",
+       "注册会计师",
+       "公認会計士"
+      ],
+      [
+       "certified mail",
+       "挂号邮件",
+       "配達証明郵便"
+      ]
+     ]
+    },
+    {
+     "w": "certificate",
+     "pos": "n.",
+     "ipa": "/sɚˈtɪfɪkət/",
+     "zh": "证书；证明书；凭证",
+     "ja": "証明書；修了証；券",
+     "ex": "Participants will receive a certificate upon completing the course.",
+     "ex_zh": "学员完成课程后将获得证书。",
+     "ex_ja": "受講者はコース修了時に修了証を受け取ります。",
+     "parts": [
+      [
+       "cert",
+       "确定（cernere 的过去分词）",
+       "確かな（cernere の過去分詞）"
+      ],
+      [
+       "-ific",
+       "使……（facere“做”）",
+       "〜にする（facere「作る」）"
+      ],
+      [
+       "-ate",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "中世纪拉丁语 certificatum“被证明的东西”。",
+      "ja": "中世ラテン語 certificatum「証明されたもの」。"
+     },
+     "forms": [
+      [
+       "gift certificate",
+       "礼品券",
+       "ギフト券"
+      ],
+      [
+       "certificate of completion",
+       "结业证书",
+       "修了証"
+      ]
+     ],
+     "tip": {
+      "zh": "gift certificate = gift voucher（礼券），Part 7 优惠券题常见。",
+      "ja": "gift certificate = gift voucher（ギフト券）。Part 7 のクーポン問題で頻出。"
+     }
+    },
+    {
+     "w": "ascertain",
+     "pos": "v.",
+     "ipa": "/ˌæsɚˈteɪn/",
+     "zh": "查明；弄清；确定",
+     "ja": "確かめる；突き止める",
+     "ex": "Investigators are still trying to ascertain the cause of the power outage.",
+     "ex_zh": "调查人员仍在努力查明停电原因。",
+     "ex_ja": "調査員はまだ停電の原因を突き止めようとしています。",
+     "parts": [
+      [
+       "a-",
+       "向（ad- 的变体）",
+       "〜へ（ad- の異形）"
+      ],
+      [
+       "cert",
+       "确定（cernere 的过去分词）",
+       "確かな（cernere の過去分詞）"
+      ],
+      [
+       "-ain",
+       "词尾（certain）",
+       "語尾（certain）"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 acertener“使确定”← a- + certain。",
+      "ja": "古フランス語 acertener「確かにする」← a- + certain。"
+     },
+     "forms": [
+      [
+       "ascertain whether ...",
+       "查明是否……",
+       "〜かどうか確かめる"
+      ],
+      [
+       "find out",
+       "查明（近义，口语）",
+       "突き止める（類義・口語）"
+      ]
+     ],
+     "tip": {
+      "zh": "⚠️ ascertain 和 Day 1 的 obtain / retain 无关：-tain 在这里只是 certain 的词尾，不是 ten“握住”。",
+      "ja": "⚠️ ascertain は Day 1 の obtain・retain とは無関係。この -tain は certain の語尾で、ten「保つ」ではない。"
+     }
+    },
+    {
+     "w": "certainty",
+     "pos": "n.",
+     "ipa": "/ˈsɝtənti/",
+     "zh": "确定；把握；必然的事",
+     "ja": "確実性；確信；確実なこと",
+     "ex": "We cannot say with certainty when the shipment will arrive.",
+     "ex_zh": "我们无法确定货物何时到达。",
+     "ex_ja": "荷物がいつ届くかは確実には言えません。",
+     "parts": [
+      [
+       "cert",
+       "确定（cernere 的过去分词）",
+       "確かな（cernere の過去分詞）"
+      ],
+      [
+       "-ain",
+       "形容词词尾",
+       "形容詞語尾"
+      ],
+      [
+       "-ty",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "certain + -ty。",
+      "ja": "certain + -ty。"
+     },
+     "forms": [
+      [
+       "with certainty",
+       "确定地",
+       "確実に"
+      ],
+      [
+       "certainly (adv.)",
+       "当然；无疑",
+       "確かに"
+      ]
+     ]
+    },
+    {
+     "w": "uncertainty",
+     "pos": "n.",
+     "ipa": "/ʌnˈsɝtənti/",
+     "zh": "不确定性；不确定的事",
+     "ja": "不確実性；不透明さ",
+     "ex": "Economic uncertainty has caused many firms to delay hiring.",
+     "ex_zh": "经济的不确定性使许多公司推迟招聘。",
+     "ex_ja": "経済の先行き不透明感から、多くの企業が採用を延期しています。",
+     "parts": [
+      [
+       "un-",
+       "不",
+       "不〜"
+      ],
+      [
+       "cert",
+       "确定（cernere 的过去分词）",
+       "確かな（cernere の過去分詞）"
+      ],
+      [
+       "-ain",
+       "形容词词尾",
+       "形容詞語尾"
+      ],
+      [
+       "-ty",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "un- + certainty。",
+      "ja": "un- + certainty。"
+     },
+     "forms": [
+      [
+       "market uncertainty",
+       "市场不确定性",
+       "市場の不透明感"
+      ],
+      [
+       "uncertain (adj.)",
+       "不确定的",
+       "不確かな"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "office",
+   "title_zh": "主题：办公设备与设施维护",
+   "title_ja": "テーマ：オフィス機器・設備保守",
+   "words": [
+    {
+     "w": "toner",
+     "pos": "n.",
+     "ipa": "/ˈtoʊnɚ/",
+     "zh": "（打印机、复印机的）碳粉；墨粉",
+     "ja": "トナー",
+     "ex": "The printer on the second floor is out of toner again.",
+     "ex_zh": "二楼的打印机又没碳粉了。",
+     "ex_ja": "2 階のプリンターがまたトナー切れです。",
+     "parts": [
+      [
+       "tone",
+       "色调",
+       "色調"
+      ],
+      [
+       "-er",
+       "表示物",
+       "〜するもの"
+      ]
+     ],
+     "note": {
+      "zh": "tone“色调”+ -er：给纸面上色的粉。",
+      "ja": "tone「色調」+ -er：紙に色をのせる粉。"
+     },
+     "forms": [
+      [
+       "toner cartridge",
+       "碳粉盒",
+       "トナーカートリッジ"
+      ],
+      [
+       "replace the toner",
+       "更换碳粉",
+       "トナーを交換する"
+      ]
+     ]
+    },
+    {
+     "w": "photocopier",
+     "pos": "n.",
+     "ipa": "/ˈfoʊtoʊˌkɑpiɚ/",
+     "zh": "复印机",
+     "ja": "コピー機",
+     "ex": "A technician is coming this afternoon to fix the photocopier.",
+     "ex_zh": "技术员今天下午来修复印机。",
+     "ex_ja": "今日の午後、技術者がコピー機の修理に来ます。",
+     "parts": [
+      [
+       "photo",
+       "光",
+       "光"
+      ],
+      [
+       "copi",
+       "复制",
+       "写す"
+      ],
+      [
+       "-er",
+       "表示物",
+       "〜するもの"
+      ]
+     ],
+     "note": {
+      "zh": "photocopy“影印”+ -er；photo- 来自希腊语 phōs“光”。",
+      "ja": "photocopy「コピーする」+ -er。photo- はギリシャ語 phōs「光」から。"
+     },
+     "forms": [
+      [
+       "photocopy (v./n.)",
+       "复印；复印件",
+       "コピーする；コピー"
+      ],
+      [
+       "copy machine",
+       "复印机（近义）",
+       "コピー機（類義）"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1 常见：A man is using a photocopier.",
+      "ja": "Part 1 の定番：A man is using a photocopier."
+     }
+    },
+    {
+     "w": "laminate",
+     "pos": "v./n.",
+     "ipa": "/ˈlæməneɪt/",
+     "zh": "给……覆膜；层压；层压板",
+     "ja": "ラミネートする；積層する；積層板",
+     "ex": "Please laminate the floor plans so they can be posted near the exits.",
+     "ex_zh": "请把楼层平面图覆膜，以便张贴在出口附近。",
+     "ex_ja": "出口付近に貼れるよう、フロア図をラミネートしてください。",
+     "parts": [
+      [
+       "lamin",
+       "薄片",
+       "薄い板"
+      ],
+      [
+       "-ate",
+       "动词后缀",
+       "動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 lamina“薄片、薄板”。",
+      "ja": "ラテン語 lamina「薄片・薄板」。"
+     },
+     "forms": [
+      [
+       "laminated (adj.)",
+       "覆膜的；层压的",
+       "ラミネート加工の"
+      ],
+      [
+       "laminate flooring",
+       "复合地板",
+       "合板フローリング"
+      ]
+     ]
+    },
+    {
+     "w": "stapler",
+     "pos": "n.",
+     "ipa": "/ˈsteɪplɚ/",
+     "zh": "订书机",
+     "ja": "ホッチキス；ステープラー",
+     "ex": "Could you pass me the stapler? I need to bind these handouts.",
+     "ex_zh": "能把订书机递给我吗？我要把这些讲义订起来。",
+     "ex_ja": "ホッチキスを取ってくれますか？この資料をとめたいので。",
+     "parts": [
+      [
+       "staple",
+       "订书钉",
+       "ホッチキスの針"
+      ],
+      [
+       "-er",
+       "表示物",
+       "〜するもの"
+      ]
+     ],
+     "note": {
+      "zh": "staple + -er。",
+      "ja": "staple + -er。"
+     },
+     "forms": [
+      [
+       "staple (n./v.)",
+       "订书钉；用订书钉钉",
+       "ホッチキスの針；ホッチキスでとめる"
+      ],
+      [
+       "staple remover",
+       "起钉器",
+       "針外し"
+      ]
+     ],
+     "tip": {
+      "zh": "staple 也可作形容词“主要的”：staple food 主食。",
+      "ja": "staple には形容詞「主要な」の意味もある：staple food 主食。"
+     }
+    },
+    {
+     "w": "shredder",
+     "pos": "n.",
+     "ipa": "/ˈʃrɛdɚ/",
+     "zh": "碎纸机",
+     "ja": "シュレッダー",
+     "ex": "Confidential documents must be put through the shredder, not the recycling bin.",
+     "ex_zh": "机密文件必须用碎纸机销毁，不能扔进回收箱。",
+     "ex_ja": "機密書類はリサイクル箱ではなくシュレッダーにかけてください。",
+     "parts": [
+      [
+       "shred",
+       "撕碎",
+       "細かく裂く"
+      ],
+      [
+       "-er",
+       "表示物",
+       "〜するもの"
+      ]
+     ],
+     "note": {
+      "zh": "shred + -er；shred 是本族词。",
+      "ja": "shred + -er。shred は本来の英語。"
+     },
+     "forms": [
+      [
+       "shred (v.)",
+       "切碎；撕碎",
+       "細断する"
+      ],
+      [
+       "paper shredder",
+       "碎纸机",
+       "シュレッダー"
+      ]
+     ]
+    },
+    {
+     "w": "letterhead",
+     "pos": "n.",
+     "ipa": "/ˈlɛtɚhɛd/",
+     "zh": "信笺抬头；印有抬头的信纸",
+     "ja": "レターヘッド；社名入り便箋",
+     "ex": "The offer letter should be printed on official company letterhead.",
+     "ex_zh": "录用通知书应打印在公司正式抬头信纸上。",
+     "ex_ja": "内定通知書は会社の正式なレターヘッド付き用紙に印刷してください。",
+     "parts": [
+      [
+       "letter",
+       "信",
+       "手紙"
+      ],
+      [
+       "head",
+       "顶部",
+       "上部"
+      ]
+     ],
+     "note": {
+      "zh": "letter + head：信纸顶部印的公司名称与地址。",
+      "ja": "letter + head：便箋上部に印刷された社名・住所。"
+     },
+     "forms": [
+      [
+       "company letterhead",
+       "公司抬头信纸",
+       "社名入り便箋"
+      ],
+      [
+       "stationery (n.)",
+       "信纸；文具",
+       "便箋；文房具"
+      ]
+     ]
+    },
+    {
+     "w": "binder",
+     "pos": "n.",
+     "ipa": "/ˈbaɪndɚ/",
+     "zh": "活页夹；文件夹",
+     "ja": "バインダー；ファイル",
+     "ex": "All the training materials are in the blue binder on my desk.",
+     "ex_zh": "所有培训资料都在我桌上的蓝色活页夹里。",
+     "ex_ja": "研修資料はすべて私の机の上の青いバインダーに入っています。",
+     "parts": [
+      [
+       "bind",
+       "捆；装订",
+       "綴じる"
+      ],
+      [
+       "-er",
+       "表示物",
+       "〜するもの"
+      ]
+     ],
+     "note": {
+      "zh": "bind + -er；bind 是本族词。",
+      "ja": "bind + -er。bind は本来の英語。"
+     },
+     "forms": [
+      [
+       "three-ring binder",
+       "三孔活页夹",
+       "3 穴バインダー"
+      ],
+      [
+       "bind (v.)",
+       "装订",
+       "綴じる"
+      ]
+     ]
+    },
+    {
+     "w": "jammed",
+     "pos": "adj.",
+     "ipa": "/dʒæmd/",
+     "zh": "（机器）卡住的；（场所）挤满的",
+     "ja": "（機械が）詰まった；混雑した",
+     "ex": "The paper tray is jammed, so I'll use the printer down the hall.",
+     "ex_zh": "纸盒卡纸了，所以我去用走廊那头的打印机。",
+     "ex_ja": "給紙トレーが詰まっているので、廊下の先のプリンターを使います。",
+     "parts": [],
+     "note": {
+      "zh": "jam“挤压、卡住”+ -ed；jam 可能是拟声词。没有可靠的词根拆分。",
+      "ja": "jam「押し込む・詰まる」+ -ed。jam は擬音語とも言われる。信頼できる語根分解はありません。"
+     },
+     "forms": [
+      [
+       "paper jam",
+       "卡纸",
+       "紙詰まり"
+      ],
+      [
+       "traffic jam",
+       "交通堵塞",
+       "交通渋滞"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 2/3 抱怨设备：The copier is jammed again. 回答常是 I'll call maintenance.",
+      "ja": "Part 2・3 の機器トラブル：The copier is jammed again. への応答は I'll call maintenance. など。"
+     }
+    },
+    {
+     "w": "refill",
+     "pos": "v./n.",
+     "ipa": "/riˈfɪl/",
+     "zh": "重新装满；补充；（n.）替换装",
+     "ja": "補充する；詰め替える；（名）詰め替え品",
+     "ex": "Could someone refill the paper tray before the meeting starts?",
+     "ex_zh": "会议开始前能有人把纸盒补满吗？",
+     "ex_ja": "会議が始まる前に誰か給紙トレーを補充してくれますか？",
+     "parts": [
+      [
+       "re-",
+       "再",
+       "再び"
+      ],
+      [
+       "fill",
+       "装满",
+       "満たす"
+      ]
+     ],
+     "note": {
+      "zh": "re- + fill；名词读 /ˈrifɪl/。",
+      "ja": "re- + fill。名詞は /ˈrifɪl/ と前にアクセント。"
+     },
+     "forms": [
+      [
+       "free refills",
+       "免费续杯",
+       "おかわり自由"
+      ],
+      [
+       "refillable (adj.)",
+       "可再装的",
+       "詰め替え可能な"
+      ]
+     ]
+    },
+    {
+     "w": "requisition",
+     "pos": "n./v.",
+     "ipa": "/ˌrɛkwəˈzɪʃən/",
+     "zh": "申领单；请购单；申请调用",
+     "ja": "請求書（社内の購入申請）；要求する",
+     "ex": "Submit a requisition form to order new office chairs.",
+     "ex_zh": "订购新办公椅请提交申领单。",
+     "ex_ja": "新しいオフィスチェアを注文するには購入申請書を提出してください。",
+     "parts": [
+      [
+       "re-",
+       "再；反复",
+       "再び"
+      ],
+      [
+       "quisit",
+       "寻求（quir 的分词形式）",
+       "求める（quir の分詞形）"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 requisitio“寻求”← requirere；与 Day 11 的 -quir- 同根。",
+      "ja": "ラテン語 requisitio「求めること」← requirere。Day 11 の -quir- と同根。"
+     },
+     "forms": [
+      [
+       "purchase requisition",
+       "请购单",
+       "購入申請書"
+      ],
+      [
+       "supply requisition",
+       "用品申领单",
+       "備品請求書"
+      ]
+     ]
+    },
+    {
+     "w": "upkeep",
+     "pos": "n.",
+     "ipa": "/ˈʌpkip/",
+     "zh": "保养；维修费；维护",
+     "ja": "維持管理；維持費",
+     "ex": "The tenants share the cost of upkeep for the lobby and elevators.",
+     "ex_zh": "租户共同分担大厅和电梯的维护费用。",
+     "ex_ja": "テナントはロビーとエレベーターの維持費を分担しています。",
+     "parts": [
+      [
+       "up",
+       "向上；保持",
+       "上へ；維持"
+      ],
+      [
+       "keep",
+       "保持",
+       "保つ"
+      ]
+     ],
+     "note": {
+      "zh": "由短语 keep up“维持”名词化而来。",
+      "ja": "句動詞 keep up「維持する」の名詞化。"
+     },
+     "forms": [
+      [
+       "maintenance (n.)",
+       "维护（近义）",
+       "メンテナンス（類義）"
+      ],
+      [
+       "cost of upkeep",
+       "维护费用",
+       "維持費"
+      ]
+     ]
+    },
+    {
+     "w": "overhaul",
+     "pos": "n./v.",
+     "ipa": "/ˈoʊvɚhɔl/",
+     "zh": "全面检修；彻底改革",
+     "ja": "オーバーホール；全面的な見直し；分解点検する",
+     "ex": "The factory will be closed for two weeks for a complete overhaul of its equipment.",
+     "ex_zh": "工厂将停工两周，全面检修设备。",
+     "ex_ja": "工場は設備の全面的なオーバーホールのため 2 週間休業します。",
+     "parts": [
+      [
+       "over",
+       "全面；从头到尾",
+       "全体に"
+      ],
+      [
+       "haul",
+       "拉；拖",
+       "引っぱる"
+      ]
+     ],
+     "note": {
+      "zh": "over + haul：原为航海用语，把船具全部拉出检查。",
+      "ja": "over + haul：もと航海用語で、索具をすべて引き出して点検すること。"
+     },
+     "forms": [
+      [
+       "a major overhaul",
+       "大修；大改革",
+       "大規模な見直し"
+      ],
+      [
+       "overhaul the system",
+       "彻底改革制度",
+       "制度を抜本的に見直す"
+      ]
+     ],
+     "tip": {
+      "zh": "动词重音常在后：/ˌoʊvɚˈhɔl/；也用于制度：overhaul the pricing structure。",
+      "ja": "動詞は後ろにアクセントが来やすい（/ˌoʊvɚˈhɔl/）。制度にも使う：overhaul the pricing structure。"
+     }
+    },
+    {
+     "w": "faulty",
+     "pos": "adj.",
+     "ipa": "/ˈfɔlti/",
+     "zh": "有缺陷的；有故障的",
+     "ja": "欠陥のある；故障した",
+     "ex": "Customers who received a faulty charger can exchange it free of charge.",
+     "ex_zh": "收到有缺陷充电器的顾客可以免费更换。",
+     "ex_ja": "不良品の充電器を受け取ったお客様は無料で交換できます。",
+     "parts": [
+      [
+       "fault",
+       "缺点；过错",
+       "欠点；過失"
+      ],
+      [
+       "-y",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "fault + -y；fault 来自拉丁语 fallere“欺骗、使失败”。",
+      "ja": "fault + -y。fault はラテン語 fallere「欺く・しくじらせる」から。"
+     },
+     "forms": [
+      [
+       "faulty wiring",
+       "线路故障",
+       "配線の不具合"
+      ],
+      [
+       "defective (adj.)",
+       "有缺陷的（近义）",
+       "欠陥のある（類義）"
+      ]
+     ]
+    },
+    {
+     "w": "leak",
+     "pos": "n./v.",
+     "ipa": "/lik/",
+     "zh": "泄漏；漏水；泄露（信息）",
+     "ja": "漏れ；漏れる；（情報を）漏らす",
+     "ex": "Maintenance found a leak in the pipe above the conference room.",
+     "ex_zh": "维修人员在会议室上方的管道里发现了漏水。",
+     "ex_ja": "保守係は会議室の上の配管に水漏れを見つけました。",
+     "parts": [],
+     "note": {
+      "zh": "可能来自古诺尔斯语 leka“滴漏”。没有可靠的词根拆分。",
+      "ja": "古ノルド語 leka「しずくが漏れる」からとされる。信頼できる語根分解はありません。"
+     },
+     "forms": [
+      [
+       "water leak",
+       "漏水",
+       "水漏れ"
+      ],
+      [
+       "leakage (n.)",
+       "泄漏",
+       "漏出"
+      ]
+     ],
+     "tip": {
+      "zh": "leek（韭葱）同音，Part 2 听力里注意上下文。",
+      "ja": "leek（ポロネギ）と同音。Part 2 では文脈で判断。"
+     }
+    },
+    {
+     "w": "sprinkler",
+     "pos": "n.",
+     "ipa": "/ˈsprɪŋklɚ/",
+     "zh": "（消防）喷淋装置；洒水器",
+     "ja": "スプリンクラー；散水装置",
+     "ex": "The sprinkler system will be tested on Saturday morning.",
+     "ex_zh": "喷淋系统将于周六上午进行测试。",
+     "ex_ja": "スプリンクラー設備は土曜の朝に点検されます。",
+     "parts": [
+      [
+       "sprinkle",
+       "洒；撒",
+       "まく；振りかける"
+      ],
+      [
+       "-er",
+       "表示物",
+       "〜するもの"
+      ]
+     ],
+     "note": {
+      "zh": "sprinkle + -er；sprinkle 可能来自中古荷兰语。",
+      "ja": "sprinkle + -er。sprinkle は中世オランダ語由来とされる。"
+     },
+     "forms": [
+      [
+       "sprinkler system",
+       "喷淋系统",
+       "スプリンクラー設備"
+      ],
+      [
+       "sprinkle (v.)",
+       "洒；撒",
+       "まく"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "weather",
+   "title_zh": "主题：天气预报与安全通知",
+   "title_ja": "テーマ：天気予報・安全のお知らせ",
+   "words": [
+    {
+     "w": "humid",
+     "pos": "adj.",
+     "ipa": "/ˈhjumɪd/",
+     "zh": "潮湿的；湿热的",
+     "ja": "湿気の多い；蒸し暑い",
+     "ex": "It will be hot and humid this weekend, so stay hydrated at the outdoor event.",
+     "ex_zh": "本周末将湿热，户外活动时请注意补水。",
+     "ex_ja": "今週末は蒸し暑くなるので、屋外イベントではこまめに水分を取ってください。",
+     "parts": [
+      [
+       "hum",
+       "湿",
+       "湿った"
+      ],
+      [
+       "-id",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 humidus“湿的”。",
+      "ja": "ラテン語 humidus「湿った」。"
+     },
+     "forms": [
+      [
+       "humidity (n.)",
+       "湿度",
+       "湿度"
+      ],
+      [
+       "muggy (adj.)",
+       "闷热的（近义）",
+       "蒸し暑い（類義）"
+      ]
+     ]
+    },
+    {
+     "w": "overcast",
+     "pos": "adj.",
+     "ipa": "/ˈoʊvɚkæst/",
+     "zh": "阴天的；多云的",
+     "ja": "曇った；どんよりした",
+     "ex": "Skies will remain overcast through the morning, clearing by late afternoon.",
+     "ex_zh": "上午将持续阴天，傍晚前转晴。",
+     "ex_ja": "午前中は曇り空が続き、夕方までには晴れるでしょう。",
+     "parts": [
+      [
+       "over",
+       "覆盖在上",
+       "上を覆う"
+      ],
+      [
+       "cast",
+       "投；抛",
+       "投げる"
+      ]
+     ],
+     "note": {
+      "zh": "over + cast“覆盖”→ 被云遮住的。",
+      "ja": "over + cast「覆いかぶせる」→ 雲に覆われた。"
+     },
+     "forms": [
+      [
+       "overcast skies",
+       "阴沉的天空",
+       "曇り空"
+      ],
+      [
+       "cloudy (adj.)",
+       "多云的（近义）",
+       "曇りの（類義）"
+      ]
+     ]
+    },
+    {
+     "w": "drizzle",
+     "pos": "n./v.",
+     "ipa": "/ˈdrɪzəl/",
+     "zh": "毛毛雨；下毛毛雨",
+     "ja": "霧雨；小雨が降る",
+     "ex": "Light drizzle is expected during the morning commute.",
+     "ex_zh": "早高峰期间预计会有小雨。",
+     "ex_ja": "朝の通勤時間帯は霧雨が予想されます。",
+     "parts": [],
+     "note": {
+      "zh": "可能来自中古英语 dresen“落下”。没有可靠的词根拆分。",
+      "ja": "中英語 dresen「落ちる」からとされる。信頼できる語根分解はありません。"
+     },
+     "forms": [
+      [
+       "light drizzle",
+       "毛毛细雨",
+       "小雨"
+      ],
+      [
+       "drizzle olive oil",
+       "淋上橄榄油",
+       "オリーブオイルをかける"
+      ]
+     ]
+    },
+    {
+     "w": "downpour",
+     "pos": "n.",
+     "ipa": "/ˈdaʊnpɔr/",
+     "zh": "倾盆大雨；暴雨",
+     "ja": "土砂降り；豪雨",
+     "ex": "The sudden downpour forced organizers to move the concert indoors.",
+     "ex_zh": "突如其来的大雨迫使主办方把音乐会移到室内。",
+     "ex_ja": "突然の土砂降りで、主催者はコンサートを屋内に移しました。",
+     "parts": [
+      [
+       "down",
+       "向下",
+       "下へ"
+      ],
+      [
+       "pour",
+       "倾倒",
+       "注ぐ"
+      ]
+     ],
+     "note": {
+      "zh": "down + pour。",
+      "ja": "down + pour。"
+     },
+     "forms": [
+      [
+       "heavy downpour",
+       "大暴雨",
+       "激しい豪雨"
+      ],
+      [
+       "pour (v.)",
+       "（雨）倾泻",
+       "（雨が）激しく降る"
+      ]
+     ]
+    },
+    {
+     "w": "precipitation",
+     "pos": "n.",
+     "ipa": "/prɪˌsɪpɪˈteɪʃən/",
+     "zh": "降水；降水量",
+     "ja": "降水；降水量",
+     "ex": "There is a 70 percent chance of precipitation tomorrow afternoon.",
+     "ex_zh": "明天下午降水概率为百分之七十。",
+     "ex_ja": "明日の午後の降水確率は 70％ です。",
+     "parts": [
+      [
+       "pre-",
+       "向前",
+       "前へ"
+      ],
+      [
+       "cipit",
+       "头（caput 的变体）",
+       "頭（caput の異形）"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 praecipitare“头朝前落下”← prae + caput“头”。",
+      "ja": "ラテン語 praecipitare「頭から落ちる」← prae + caput「頭」。"
+     },
+     "forms": [
+      [
+       "chance of precipitation",
+       "降水概率",
+       "降水確率"
+      ],
+      [
+       "annual precipitation",
+       "年降水量",
+       "年間降水量"
+      ]
+     ],
+     "tip": {
+      "zh": "天气预报里 precipitation 泛指雨雪等所有降水。",
+      "ja": "天気予報の precipitation は雨・雪などすべての降水を指す。"
+     }
+    },
+    {
+     "w": "gust",
+     "pos": "n.",
+     "ipa": "/gʌst/",
+     "zh": "阵风；一阵（强风）",
+     "ja": "突風；一陣の風",
+     "ex": "Gusts of up to 60 kilometers per hour may delay some flights.",
+     "ex_zh": "最高每小时 60 公里的阵风可能导致部分航班延误。",
+     "ex_ja": "最大瞬間風速毎時 60 キロの突風で、一部の便が遅れる可能性があります。",
+     "parts": [],
+     "note": {
+      "zh": "来自古诺尔斯语 gustr“一阵风”。没有可靠的词根拆分。",
+      "ja": "古ノルド語 gustr「一陣の風」から。信頼できる語根分解はありません。"
+     },
+     "forms": [
+      [
+       "strong gusts",
+       "强阵风",
+       "強い突風"
+      ],
+      [
+       "gusty (adj.)",
+       "阵风大的",
+       "風の強い"
+      ]
+     ],
+     "hl": "Gusts"
+    },
+    {
+     "w": "mild",
+     "pos": "adj.",
+     "ipa": "/maɪld/",
+     "zh": "（天气）温和的；轻微的；（味道）淡的",
+     "ja": "穏やかな；軽い；（味が）マイルドな",
+     "ex": "Temperatures will be mild for most of the week.",
+     "ex_zh": "本周大部分时间气温温和。",
+     "ex_ja": "今週はほぼ穏やかな気温が続くでしょう。",
+     "parts": [],
+     "note": {
+      "zh": "本族词（古英语 milde）。没有可靠的词根拆分。",
+      "ja": "本来の英語（古英語 milde）。信頼できる語根分解はありません。"
+     },
+     "forms": [
+      [
+       "mild symptoms",
+       "轻微症状",
+       "軽い症状"
+      ],
+      [
+       "mildly (adv.)",
+       "稍微地",
+       "やや"
+      ]
+     ]
+    },
+    {
+     "w": "frost",
+     "pos": "n./v.",
+     "ipa": "/frɔst/",
+     "zh": "霜；严寒；结霜",
+     "ja": "霜；霜が降りる",
+     "ex": "Farmers have been warned that frost could damage early crops.",
+     "ex_zh": "农民们接到警告，霜冻可能会损害早熟作物。",
+     "ex_ja": "農家には霜が早生作物に被害を与える恐れがあると警告が出ています。",
+     "parts": [],
+     "note": {
+      "zh": "本族词（与 freeze 同源）。没有可靠的词根拆分。",
+      "ja": "本来の英語（freeze と同源）。信頼できる語根分解はありません。"
+     },
+     "forms": [
+      [
+       "frosty (adj.)",
+       "结霜的；冷淡的",
+       "霜の降りた；冷ややかな"
+      ],
+      [
+       "frost warning",
+       "霜冻警报",
+       "霜注意報"
+      ]
+     ]
+    },
+    {
+     "w": "thunderstorm",
+     "pos": "n.",
+     "ipa": "/ˈθʌndɚstɔrm/",
+     "zh": "雷雨；雷暴",
+     "ja": "雷雨",
+     "ex": "Severe thunderstorms are expected to move through the area tonight.",
+     "ex_zh": "预计今晚强雷雨将经过本地区。",
+     "ex_ja": "今夜は激しい雷雨がこの地域を通過する見込みです。",
+     "parts": [
+      [
+       "thunder",
+       "雷",
+       "雷"
+      ],
+      [
+       "storm",
+       "暴风雨",
+       "嵐"
+      ]
+     ],
+     "note": {
+      "zh": "thunder + storm。",
+      "ja": "thunder + storm。"
+     },
+     "forms": [
+      [
+       "thunder (n.)",
+       "雷声",
+       "雷鳴"
+      ],
+      [
+       "severe weather",
+       "恶劣天气",
+       "荒天"
+      ]
+     ]
+    },
+    {
+     "w": "inclement",
+     "pos": "adj.",
+     "ipa": "/ɪnˈklɛmənt/",
+     "zh": "（天气）恶劣的；严酷的",
+     "ja": "（天候が）荒れた；厳しい",
+     "ex": "In case of inclement weather, the company picnic will be held in the cafeteria.",
+     "ex_zh": "如遇恶劣天气，公司野餐将改在食堂举行。",
+     "ex_ja": "悪天候の場合、社内ピクニックは社員食堂で行います。",
+     "parts": [
+      [
+       "in-",
+       "不",
+       "不〜"
+      ],
+      [
+       "clem",
+       "温和",
+       "穏やかな"
+      ],
+      [
+       "-ent",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 inclemens“不温和的”← clemens“温和的、仁慈的”。",
+      "ja": "ラテン語 inclemens「穏やかでない」← clemens「穏やかな・慈悲深い」。"
+     },
+     "forms": [
+      [
+       "in case of inclement weather",
+       "如遇恶劣天气",
+       "悪天候の場合は"
+      ],
+      [
+       "bad weather",
+       "坏天气（近义）",
+       "悪天候（類義）"
+      ]
+     ],
+     "tip": {
+      "zh": "活动通知的固定句：In the event of inclement weather, ... will be postponed/moved indoors.",
+      "ja": "イベント告知の定番：In the event of inclement weather, ... will be postponed / moved indoors."
+     }
+    },
+    {
+     "w": "meteorologist",
+     "pos": "n.",
+     "ipa": "/ˌmitiəˈrɑlədʒɪst/",
+     "zh": "气象学家；天气预报员",
+     "ja": "気象学者；気象予報士",
+     "ex": "According to the station's meteorologist, the storm will weaken by Friday.",
+     "ex_zh": "据电视台的气象播报员说，风暴将在周五前减弱。",
+     "ex_ja": "放送局の気象予報士によると、嵐は金曜日までに弱まるとのことです。",
+     "parts": [
+      [
+       "meteoro",
+       "天上的现象",
+       "空中の現象"
+      ],
+      [
+       "log",
+       "学说",
+       "学問"
+      ],
+      [
+       "-ist",
+       "表示人",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "希腊语 meteōron“空中的东西”+ -logy“学”+ -ist。",
+      "ja": "ギリシャ語 meteōron「空中のもの」+ -logy「学」+ -ist。"
+     },
+     "forms": [
+      [
+       "meteorology (n.)",
+       "气象学",
+       "気象学"
+      ],
+      [
+       "weather forecaster",
+       "天气预报员（近义）",
+       "天気予報士（類義）"
+      ]
+     ]
+    },
+    {
+     "w": "breezy",
+     "pos": "adj.",
+     "ipa": "/ˈbrizi/",
+     "zh": "有微风的；风大的；轻松活泼的",
+     "ja": "風の吹く；さわやかな；気楽な",
+     "ex": "Tomorrow will be sunny and breezy, perfect for the harbor cruise.",
+     "ex_zh": "明天晴朗有风，非常适合港口游船。",
+     "ex_ja": "明日は晴れて風が心地よく、港のクルーズにぴったりです。",
+     "parts": [
+      [
+       "breeze",
+       "微风",
+       "そよ風"
+      ],
+      [
+       "-y",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "breeze + -y；breeze 可能来自西班牙语。",
+      "ja": "breeze + -y。breeze はスペイン語由来とされる。"
+     },
+     "forms": [
+      [
+       "breeze (n.)",
+       "微风",
+       "そよ風"
+      ],
+      [
+       "a breezy style",
+       "轻松的风格",
+       "気楽な文体"
+      ]
+     ]
+    },
+    {
+     "w": "evacuate",
+     "pos": "v.",
+     "ipa": "/ɪˈvækjueɪt/",
+     "zh": "疏散；撤离；腾空",
+     "ja": "避難させる；避難する；（建物を）空にする",
+     "ex": "All employees must evacuate the building when the alarm sounds.",
+     "ex_zh": "警报响起时，所有员工必须撤离大楼。",
+     "ex_ja": "警報が鳴ったら、全従業員は建物から避難しなければなりません。",
+     "parts": [
+      [
+       "e-",
+       "向外",
+       "外へ"
+      ],
+      [
+       "vacu",
+       "空",
+       "空の"
+      ],
+      [
+       "-ate",
+       "动词后缀",
+       "動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 evacuare“使变空”← vacuus“空的”。",
+      "ja": "ラテン語 evacuare「空にする」← vacuus「空の」。"
+     },
+     "forms": [
+      [
+       "evacuation (n.)",
+       "疏散",
+       "避難"
+      ],
+      [
+       "evacuation route",
+       "疏散路线",
+       "避難経路"
+      ]
+     ],
+     "tip": {
+      "zh": "与 Day 6 的 vacant（空的）同源。",
+      "ja": "Day 6 の vacant（空いている）と同源。"
+     }
+    },
+    {
+     "w": "drill",
+     "pos": "n./v.",
+     "ipa": "/drɪl/",
+     "zh": "演习；训练；钻头；钻孔",
+     "ja": "訓練；ドリル；穴をあける",
+     "ex": "A fire drill will take place at 10 A.M., so please follow the floor wardens.",
+     "ex_zh": "上午 10 点将进行消防演习，请听从楼层负责人指挥。",
+     "ex_ja": "午前 10 時に避難訓練を行いますので、各階の担当者の指示に従ってください。",
+     "parts": [],
+     "note": {
+      "zh": "来自中古荷兰语 drillen“钻孔、转动”。没有可靠的词根拆分。",
+      "ja": "中世オランダ語 drillen「穴をあける・回す」から。信頼できる語根分解はありません。"
+     },
+     "forms": [
+      [
+       "fire drill",
+       "消防演习",
+       "避難訓練"
+      ],
+      [
+       "safety drill",
+       "安全演习",
+       "安全訓練"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 4 公告常考：fire drill 的时间、集合地点（assembly point）。",
+      "ja": "Part 4 のアナウンスで頻出：fire drill の時刻や集合場所（assembly point）。"
+     }
+    }
+   ]
+  }
+ ]
+}
