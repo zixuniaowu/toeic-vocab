@@ -1,0 +1,2683 @@
+{
+ "day": 18,
+ "date": "2026-10-21",
+ "title_zh": "四大词根 + 市场调研产品开发与求职晋升",
+ "title_ja": "4つの語根＋市場調査・製品開発と採用・キャリアアップ",
+ "intro_zh": "今天掌握 4 个高频词根（grat·gree 感谢、愉快 / prim·prin 第一 / tact·tang 接触 / her·hes 粘着），再学市场调研与产品开发、求职招聘与职业晋升的核心词——强化 Part 5 易混词和搭配题（principal / principle、adhere to、be contingent on、congratulate A on B、do not hesitate to）、Part 3 新品上市讨论，以及 Part 7 调查报告、招聘广告和人事通知。",
+ "intro_ja": "今日は語根 4 つ（grat·gree 感謝・喜ばしい／prim·prin 第一／tact·tang 触れる／her·hes くっつく）と、市場調査・製品開発、採用・キャリアアップの重要語を学びます。Part 5 の紛らわしい語・語法問題（principal / principle、adhere to、be contingent on、congratulate A on B、do not hesitate to）、Part 3 の新製品発売の会話、Part 7 の調査報告・求人広告・人事のお知らせを強化します。",
+ "voice": "en-US-AriaNeural",
+ "roots": [
+  {
+   "root": "-grat- / -gree-",
+   "origin": "Latin gratus",
+   "zh": "令人愉快；感谢",
+   "ja": "喜ばしい；感謝",
+   "exp_zh": "来自拉丁语 gratus（令人愉快的、感激的）。grateful（感激的）、gratitude（感激之情）；con- + gratulari → congratulate“一同表示喜悦 → 祝贺”；gratus + facere → gratify“使满意”，gratifying“令人欣慰的”；un- + grateful → ungrateful。经古法语 gré“喜好”变成 -gree-：agree（使满意 → 同意）、agreement、agreeable。Day 8 学过的 gratuity（小费）也属于这个家族。⚠️ great（伟大的）、grate（磨碎；炉栅）与 gratus 无关；grade（等级）是 Day 4 的 grad“步”，也不同源。",
+   "exp_ja": "ラテン語 gratus（喜ばしい・感謝している）から。grateful（感謝している）、gratitude（感謝の気持ち）。con- + gratulari → congratulate「共に喜ぶ → 祝う」。gratus + facere → gratify「満足させる」、gratifying「喜ばしい」。un- + grateful → ungrateful。古フランス語 gré「好み」を経て -gree- に：agree（気に入る → 同意する）、agreement、agreeable。Day 8 の gratuity（チップ）も同じ仲間。⚠️ great（偉大な）、grate（すりおろす；火格子）は gratus と無関係。grade（等級）は Day 4 の grad「歩む」で別語源。",
+   "examples": [
+    "grateful",
+    "gratitude",
+    "congratulate",
+    "gratify",
+    "gratifying",
+    "ungrateful",
+    "agreement",
+    "agreeable"
+   ]
+  },
+  {
+   "root": "-prim- / -prin-",
+   "origin": "Latin primus, princeps",
+   "zh": "第一",
+   "ja": "第一の",
+   "exp_zh": "来自拉丁语 primus（第一的）。primary（主要的、首要的）、primarily（主要地）、prime（首要的、最好的）、primitive（原始的）、primer（入门书；底漆——最先刷的一层）；经法语变成 premier（首屈一指的；总理）。primus + capere“拿”（Day 4 的 cap）→ princeps“拿第一份的人 → 首领”：principal（主要的；校长；本金）、principle（原则、根本）。⚠️ principal 与 principle 同音：principAL 可作形容词“主要的”，principLE 只是名词“原则”。⚠️ prior / priority 来自另一个拉丁词 prior“在先的”，不要硬算进 prim 家族。",
+   "exp_ja": "ラテン語 primus（第一の）から。primary（主要な）、primarily（主に）、prime（最も重要な・最良の）、primitive（原始的な）、primer（入門書；下塗り＝最初に塗る層）。フランス語を経て premier（随一の；首相）。primus + capere「取る」（Day 4 の cap）→ princeps「最初の取り分を取る者 → 首長」：principal（主要な；校長；元金）、principle（原則・根本）。⚠️ principal と principle は同音。principAL は形容詞「主要な」にもなり、principLE は名詞「原則」のみ。⚠️ prior / priority は別のラテン語 prior「先の」由来なので prim の仲間に数えないこと。",
+   "examples": [
+    "primary",
+    "primarily",
+    "prime",
+    "principal",
+    "principle",
+    "primitive",
+    "premier",
+    "primer"
+   ]
+  },
+  {
+   "root": "-tact- / -tang- / -ting- / -teg-",
+   "origin": "Latin tangere, tactus",
+   "zh": "接触",
+   "ja": "触れる",
+   "exp_zh": "来自拉丁语 tangere（触碰），过去分词 tactus。con- + tangere → contact（接触、联系）；in-“不” + tactus → intact“未被碰过 → 完好无损”；tact“触觉 → 分寸”→ tactful（得体的）；tangible“可触摸的 → 切实的”，intangible（无形的）。在复合词里 -tang- 变成 -ting-：contingere“接触、碰巧发生”→ contingent（取决于……的）、contingency（意外情况）。in- + tangere → integer“未被触碰的 → 完整的”：integrate（整合）、Day 2 的 integrity（正直）。⚠️ tactic（战术）来自希腊语 taktikos“排列”，与 tangere 无关；tangent（切线）倒是同源。",
+   "exp_ja": "ラテン語 tangere（触れる）、過去分詞 tactus から。con- + tangere → contact（接触・連絡）。in-「〜ない」+ tactus → intact「触れられていない → 無傷の」。tact「触覚 → 機転」→ tactful（気配りのある）。tangible「触れられる → 具体的な」、intangible（無形の）。複合語では -tang- が -ting- に：contingere「触れ合う・偶然起こる」→ contingent（〜次第の）、contingency（不測の事態）。in- + tangere → integer「手つかずの → 完全な」：integrate（統合する）、Day 2 の integrity（誠実さ）。⚠️ tactic（戦術）はギリシャ語 taktikos「配列」由来で tangere とは無関係。tangent（接線）は同語源。",
+   "examples": [
+    "contact",
+    "intact",
+    "tactful",
+    "tangible",
+    "intangible",
+    "contingent",
+    "contingency",
+    "integrate"
+   ]
+  },
+  {
+   "root": "-her- / -hes-",
+   "origin": "Latin haerere, haesus",
+   "zh": "粘着",
+   "ja": "くっつく",
+   "exp_zh": "来自拉丁语 haerere（粘着），过去分词 haesus。ad- + haerere → adhere“粘上去 → 遵守、坚持”，adherence（遵守），adhesive（粘性的；胶）；co- + haerere → coherent“粘在一起 → 条理清晰的”，cohesive“团结的”；in-“在内” + haerere → inherent“粘在里面 → 固有的”。反复形式 haesitare“一再卡住”→ hesitate（犹豫）、hesitant（犹豫的）。⚠️ inherit（继承）、heritage（遗产，Day 12）来自 heres“继承人”，和 haerere 无关；here（这里）是本族词，也不同源。",
+   "exp_ja": "ラテン語 haerere（くっつく）、過去分詞 haesus から。ad- + haerere → adhere「くっつく → 守る・固守する」、adherence（順守）、adhesive（粘着性の；接着剤）。co- + haerere → coherent「くっつき合う → 筋の通った」、cohesive「結束した」。in-「中に」+ haerere → inherent「中にくっついている → 固有の」。反復形 haesitare「何度も引っかかる」→ hesitate（ためらう）、hesitant（ためらっている）。⚠️ inherit（相続する）・heritage（遺産、Day 12）は heres「相続人」由来で haerere とは無関係。here（ここ）も本来の英語で別語源。",
+   "examples": [
+    "adhere",
+    "adherence",
+    "adhesive",
+    "coherent",
+    "cohesive",
+    "inherent",
+    "hesitate",
+    "hesitant"
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "grat",
+   "title_zh": "词根 -grat- / -gree-：感谢、令人愉快",
+   "title_ja": "語根 -grat- / -gree-：感謝・喜ばしい",
+   "words": [
+    {
+     "w": "grateful",
+     "pos": "adj.",
+     "ipa": "/ˈɡreɪtfəl/",
+     "zh": "感激的；感谢的",
+     "ja": "感謝している；ありがたく思う",
+     "ex": "We are grateful to all the volunteers who helped at the charity run.",
+     "ex_zh": "我们感谢所有在慈善跑活动中帮忙的志愿者。",
+     "ex_ja": "チャリティーランを手伝ってくださったボランティアの皆さんに感謝しています。",
+     "parts": [
+      [
+       "grat",
+       "令人愉快；感谢",
+       "喜ばしい；感謝"
+      ],
+      [
+       "-ful",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "古词 grate“令人愉快的、感激的”（拉丁语 gratus）+ -ful。",
+      "ja": "古語 grate「喜ばしい・感謝する」（ラテン語 gratus）+ -ful。"
+     },
+     "forms": [
+      [
+       "be grateful for + 事",
+       "为……而感激",
+       "〜に感謝する"
+      ],
+      [
+       "be grateful to + 人",
+       "感谢某人",
+       "（人）に感謝する"
+      ]
+     ],
+     "tip": {
+      "zh": "拼写是 grAteful，不是 greatful（great“伟大”与它无关）。",
+      "ja": "綴りは grAteful。greatful ではない（great とは無関係）。"
+     }
+    },
+    {
+     "w": "gratitude",
+     "pos": "n.",
+     "ipa": "/ˈɡrætəˌtud/",
+     "zh": "感激；感谢之情",
+     "ja": "感謝の気持ち",
+     "ex": "Please accept this gift card as a token of our gratitude for your service.",
+     "ex_zh": "请收下这张礼品卡，聊表我们对您服务的感激之情。",
+     "ex_ja": "日頃のご尽力への感謝のしるしとして、このギフトカードをお受け取りください。",
+     "parts": [
+      [
+       "grat",
+       "令人愉快；感谢",
+       "喜ばしい；感謝"
+      ],
+      [
+       "-itude",
+       "名词后缀（状态）",
+       "名詞を作る（状態）"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 gratitudo，来自 gratus“感激的”。",
+      "ja": "ラテン語 gratitudo。gratus「感謝している」から。"
+     },
+     "forms": [
+      [
+       "express gratitude",
+       "表达感谢",
+       "感謝を表す"
+      ],
+      [
+       "a token of gratitude",
+       "感谢的心意",
+       "感謝のしるし"
+      ]
+     ],
+     "tip": {
+      "zh": "固定搭配 as a token of (our) gratitude（作为感谢的表示），常见于 Part 7 感谢信。",
+      "ja": "as a token of (our) gratitude は Part 7 のお礼状の定番表現。"
+     }
+    },
+    {
+     "w": "congratulate",
+     "pos": "v.",
+     "ipa": "/kənˈɡrætʃəˌleɪt/",
+     "zh": "祝贺；恭喜",
+     "ja": "祝う；お祝いを言う",
+     "ex": "The CEO congratulated the sales team on reaching its annual target early.",
+     "ex_zh": "首席执行官祝贺销售团队提前完成年度目标。",
+     "ex_ja": "CEO は年間目標を前倒しで達成した営業チームを祝福しました。",
+     "parts": [
+      [
+       "con-",
+       "共同；完全",
+       "共に；完全に"
+      ],
+      [
+       "grat",
+       "令人愉快；感谢",
+       "喜ばしい；感謝"
+      ],
+      [
+       "-ate",
+       "动词后缀",
+       "動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 congratulari“一同为某人高兴”：con- + gratulari“表示喜悦”（gratus）。",
+      "ja": "ラテン語 congratulari「共に喜ぶ」：con- + gratulari「喜びを表す」（gratus）。"
+     },
+     "forms": [
+      [
+       "congratulate A on B",
+       "就 B 祝贺 A",
+       "B のことで A を祝う"
+      ],
+      [
+       "congratulations (n.)",
+       "祝贺（常用复数）",
+       "おめでとう"
+      ]
+     ],
+     "tip": {
+      "zh": "介词用 on，不用 for：congratulate her on her promotion。",
+      "ja": "前置詞は on：congratulate her on her promotion（for は使わない）。"
+     }
+    },
+    {
+     "w": "gratify",
+     "pos": "v.",
+     "ipa": "/ˈɡrætəˌfaɪ/",
+     "zh": "使满意；使高兴",
+     "ja": "満足させる；喜ばせる",
+     "ex": "The director was gratified by the strong turnout at the product demonstration.",
+     "ex_zh": "产品演示的高出席率让总监很满意。",
+     "ex_ja": "製品デモの参加者の多さに部長は満足しました。",
+     "parts": [
+      [
+       "grat",
+       "令人愉快；感谢",
+       "喜ばしい；感謝"
+      ],
+      [
+       "-fy",
+       "使……",
+       "〜にする"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 gratificari“讨好”：gratus + facere“做”。",
+      "ja": "ラテン語 gratificari「喜ばせる」：gratus + facere「する」。"
+     },
+     "forms": [
+      [
+       "be gratified by / that ...",
+       "对……感到满意",
+       "〜に満足する"
+      ],
+      [
+       "gratification (n.)",
+       "满足",
+       "満足"
+      ]
+     ],
+     "hl": "gratified"
+    },
+    {
+     "w": "gratifying",
+     "pos": "adj.",
+     "ipa": "/ˈɡrætəˌfaɪɪŋ/",
+     "zh": "令人满意的；令人欣慰的",
+     "ja": "満足のいく；喜ばしい",
+     "ex": "It is gratifying to see so many customers return for our second annual sale.",
+     "ex_zh": "看到这么多顾客再次来参加我们第二届年度促销，令人欣慰。",
+     "ex_ja": "第 2 回の年次セールに多くのお客様が再び来てくださり、うれしい限りです。",
+     "parts": [
+      [
+       "grat",
+       "令人愉快；感谢",
+       "喜ばしい；感謝"
+      ],
+      [
+       "-fy",
+       "使……",
+       "〜にする"
+      ],
+      [
+       "-ing",
+       "形容词（令人……）",
+       "形容詞（〜させる）"
+      ]
+     ],
+     "note": {
+      "zh": "gratify + -ing：令人满意的。",
+      "ja": "gratify + -ing：満足させるような。"
+     },
+     "forms": [
+      [
+       "gratifying results",
+       "令人满意的结果",
+       "満足のいく結果"
+      ],
+      [
+       "it is gratifying to do",
+       "做……令人欣慰",
+       "〜するのはうれしい"
+      ]
+     ],
+     "tip": {
+      "zh": "-ing 形容词修饰“事物”（gratifying news），-ed 修饰“人”（a gratified manager）。",
+      "ja": "-ing 形は「物事」（gratifying news）、-ed 形は「人」（a gratified manager）を修飾。"
+     }
+    },
+    {
+     "w": "ungrateful",
+     "pos": "adj.",
+     "ipa": "/ʌnˈɡreɪtfəl/",
+     "zh": "不领情的；忘恩负义的",
+     "ja": "恩知らずな；ありがたく思わない",
+     "ex": "Declining the client's dinner invitation might seem ungrateful, so let's attend.",
+     "ex_zh": "谢绝客户的晚宴邀请可能显得不领情，所以我们还是去吧。",
+     "ex_ja": "顧客の夕食の招待を断ると恩知らずに見えるかもしれないので、出席しましょう。",
+     "parts": [
+      [
+       "un-",
+       "不",
+       "否定"
+      ],
+      [
+       "grat",
+       "令人愉快；感谢",
+       "喜ばしい；感謝"
+      ],
+      [
+       "-ful",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "un-“不” + grateful。",
+      "ja": "un-「〜でない」+ grateful。"
+     },
+     "forms": [
+      [
+       "seem ungrateful",
+       "显得不领情",
+       "恩知らずに見える"
+      ],
+      [
+       "ungratefully (adv.)",
+       "不领情地",
+       "恩知らずにも"
+      ]
+     ]
+    },
+    {
+     "w": "agreement",
+     "pos": "n.",
+     "ipa": "/əˈɡrimənt/",
+     "zh": "协议；合同；同意",
+     "ja": "合意；契約；同意",
+     "ex": "Both companies signed a licensing agreement at the trade fair in Frankfurt.",
+     "ex_zh": "两家公司在法兰克福的贸易展上签署了一份授权协议。",
+     "ex_ja": "両社はフランクフルトの見本市でライセンス契約に署名しました。",
+     "parts": [
+      [
+       "a-",
+       "向",
+       "〜へ"
+      ],
+      [
+       "gree",
+       "令人愉快",
+       "喜ばしい"
+      ],
+      [
+       "-ment",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "agree 来自古法语 agreer“使满意”：a“向” + gré“喜好”，gré 源自拉丁语 gratum“令人愉快的事”。",
+      "ja": "agree は古フランス語 agreer「気に入る」：a「〜へ」+ gré「好み」。gré はラテン語 gratum「喜ばしいこと」から。"
+     },
+     "forms": [
+      [
+       "reach an agreement",
+       "达成协议",
+       "合意に達する"
+      ],
+      [
+       "in agreement with",
+       "与……一致",
+       "〜と一致して"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5：agree with + 人 / agree to + 提议 / agree on + 事项。",
+      "ja": "Part 5：agree with + 人 / agree to + 提案 / agree on + 事項。"
+     }
+    },
+    {
+     "w": "agreeable",
+     "pos": "adj.",
+     "ipa": "/əˈɡriəbəl/",
+     "zh": "可接受的；令人愉快的；欣然同意的",
+     "ja": "受け入れられる；感じのよい；乗り気の",
+     "ex": "If the terms are agreeable to you, please sign and return the contract.",
+     "ex_zh": "如果这些条款您可以接受，请签字后寄回合同。",
+     "ex_ja": "条件にご同意いただける場合は、契約書に署名してご返送ください。",
+     "parts": [
+      [
+       "a-",
+       "向",
+       "〜へ"
+      ],
+      [
+       "gree",
+       "令人愉快",
+       "喜ばしい"
+      ],
+      [
+       "-able",
+       "可……的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "agree + -able。",
+      "ja": "agree + -able。"
+     },
+     "forms": [
+      [
+       "be agreeable to",
+       "对……可接受；愿意",
+       "〜に同意できる"
+      ],
+      [
+       "an agreeable atmosphere",
+       "愉快的氛围",
+       "心地よい雰囲気"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "prim",
+   "title_zh": "词根 -prim- / -prin-：第一",
+   "title_ja": "語根 -prim- / -prin-：第一の",
+   "words": [
+    {
+     "w": "primary",
+     "pos": "adj.",
+     "ipa": "/ˈpraɪˌmɛri/",
+     "zh": "主要的；首要的；初级的",
+     "ja": "主要な；第一の；初等の",
+     "ex": "Our primary goal this quarter is to reduce delivery times.",
+     "ex_zh": "我们本季度的首要目标是缩短交货时间。",
+     "ex_ja": "今四半期の主な目標は配送時間の短縮です。",
+     "parts": [
+      [
+       "prim",
+       "第一",
+       "第一の"
+      ],
+      [
+       "-ary",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 primarius“第一等的”，来自 primus“第一”。",
+      "ja": "ラテン語 primarius「第一級の」。primus「第一の」から。"
+     },
+     "forms": [
+      [
+       "primary reason",
+       "主要原因",
+       "主な理由"
+      ],
+      [
+       "primary school",
+       "小学",
+       "小学校"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7 同义替换：primary ≈ main / chief / principal。",
+      "ja": "Part 7 の言い換え：primary ≈ main / chief / principal。"
+     }
+    },
+    {
+     "w": "primarily",
+     "pos": "adv.",
+     "ipa": "/praɪˈmɛrəli/",
+     "zh": "主要地；首先",
+     "ja": "主に；もともと",
+     "ex": "The workshop is designed primarily for new sales staff.",
+     "ex_zh": "这个研讨会主要是为新销售人员设计的。",
+     "ex_ja": "この研修は主に新しい営業スタッフ向けに作られています。",
+     "parts": [
+      [
+       "prim",
+       "第一",
+       "第一の"
+      ],
+      [
+       "-ary",
+       "形容词后缀",
+       "形容詞を作る"
+      ],
+      [
+       "-ly",
+       "副词后缀",
+       "副詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "primary + -ly。",
+      "ja": "primary + -ly。"
+     },
+     "forms": [
+      [
+       "primarily because ...",
+       "主要因为……",
+       "主に〜だから"
+      ],
+      [
+       "be primarily responsible for",
+       "主要负责",
+       "主に〜を担当する"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5 词性题：动词或形容词前要副词 primarily，不能用 primary。",
+      "ja": "Part 5 品詞問題：動詞・形容詞の前は副詞 primarily。"
+     }
+    },
+    {
+     "w": "prime",
+     "pos": "adj./n.",
+     "ipa": "/praɪm/",
+     "zh": "首要的；最好的；黄金时期",
+     "ja": "最も重要な；最良の；全盛期",
+     "ex": "The new café is in a prime location across from the central station.",
+     "ex_zh": "这家新咖啡馆位于中央车站对面的黄金地段。",
+     "ex_ja": "新しいカフェは中央駅の向かいという一等地にあります。",
+     "parts": [
+      [
+       "prim",
+       "第一",
+       "第一の"
+      ]
+     ],
+     "note": {
+      "zh": "来自拉丁语 primus“第一”。",
+      "ja": "ラテン語 primus「第一の」から。"
+     },
+     "forms": [
+      [
+       "prime location",
+       "黄金地段",
+       "一等地"
+      ],
+      [
+       "prime minister",
+       "首相",
+       "首相"
+      ],
+      [
+       "prime time",
+       "黄金时段",
+       "ゴールデンタイム"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7 房产/店铺广告高频：prime location = excellent location。",
+      "ja": "Part 7 の不動産・店舗広告で頻出：prime location = 好立地。"
+     }
+    },
+    {
+     "w": "principal",
+     "pos": "adj./n.",
+     "ipa": "/ˈprɪnsəpəl/",
+     "zh": "主要的；（n.）校长；本金；负责人",
+     "ja": "主要な；（名）校長；元金；責任者",
+     "ex": "The principal reason for the delay was a shortage of parts.",
+     "ex_zh": "延误的主要原因是零件短缺。",
+     "ex_ja": "遅延の主な原因は部品不足でした。",
+     "parts": [
+      [
+       "prin",
+       "第一",
+       "第一の"
+      ],
+      [
+       "cip",
+       "拿",
+       "取る"
+      ],
+      [
+       "-al",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 principalis，来自 princeps“首领”：primus“第一” + capere“拿”（Day 4 的 cap）——“拿第一份的人”。",
+      "ja": "ラテン語 principalis。princeps「首長」= primus「第一」+ capere「取る」（Day 4 の cap）、「最初の取り分を取る者」。"
+     },
+     "forms": [
+      [
+       "principal investigator",
+       "首席研究员",
+       "主任研究者"
+      ],
+      [
+       "principal and interest",
+       "本金和利息",
+       "元金と利息"
+      ]
+     ],
+     "tip": {
+      "zh": "和 principle（原则）发音相同：principAL 可作“主要的”和“校长 / 本金”，principLE 只是“原则”。",
+      "ja": "principle（原則）と同音。principAL は「主要な・校長・元金」、principLE は「原則」のみ。"
+     }
+    },
+    {
+     "w": "principle",
+     "pos": "n.",
+     "ipa": "/ˈprɪnsəpəl/",
+     "zh": "原则；原理",
+     "ja": "原則；原理",
+     "ex": "Our company operates on the principle that customers come first.",
+     "ex_zh": "我们公司秉持“顾客至上”的原则经营。",
+     "ex_ja": "当社は顧客第一という原則に基づいて運営しています。",
+     "parts": [
+      [
+       "prin",
+       "第一",
+       "第一の"
+      ],
+      [
+       "cip",
+       "拿",
+       "取る"
+      ],
+      [
+       "-le",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 principium“开端、根本”，来自 princeps“首领、第一的”。",
+      "ja": "ラテン語 principium「始まり・根本」。princeps「第一の・首長」から。"
+     },
+     "forms": [
+      [
+       "in principle",
+       "原则上",
+       "原則として"
+      ],
+      [
+       "guiding principle",
+       "指导原则",
+       "指針"
+      ]
+     ]
+    },
+    {
+     "w": "primitive",
+     "pos": "adj.",
+     "ipa": "/ˈprɪmətɪv/",
+     "zh": "原始的；简陋的；早期的",
+     "ja": "原始的な；素朴な；初期の",
+     "ex": "Compared with today's software, the first version looks rather primitive.",
+     "ex_zh": "与今天的软件相比，第一版看起来相当简陋。",
+     "ex_ja": "今のソフトと比べると、最初のバージョンはかなり原始的に見えます。",
+     "parts": [
+      [
+       "prim",
+       "第一",
+       "第一の"
+      ],
+      [
+       "-ive",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 primitivus“最早的”，来自 primus“第一”。",
+      "ja": "ラテン語 primitivus「最初の」。primus「第一の」から。"
+     },
+     "forms": [
+      [
+       "primitive tools",
+       "原始工具",
+       "原始的な道具"
+      ],
+      [
+       "primitive conditions",
+       "简陋的条件",
+       "粗末な環境"
+      ]
+     ]
+    },
+    {
+     "w": "premier",
+     "pos": "adj./n.",
+     "ipa": "/prɪˈmɪr/",
+     "zh": "首要的；一流的；（n.）总理",
+     "ja": "最高の；一流の；（名）首相",
+     "ex": "Lakeside Hotel is the region's premier venue for business conferences.",
+     "ex_zh": "湖畔酒店是该地区首屈一指的商务会议场地。",
+     "ex_ja": "レイクサイドホテルは地域随一のビジネス会議会場です。",
+     "parts": [
+      [
+       "prem",
+       "第一",
+       "第一の"
+      ],
+      [
+       "-ier",
+       "形容词 / 名词后缀",
+       "形容詞・名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 premier“第一的”，来自拉丁语 primarius（primus）。Day 15 学过的 premiere（首映）是它的阴性形式。",
+      "ja": "古フランス語 premier「第一の」。ラテン語 primarius（primus）から。Day 15 の premiere（初演）はその女性形。"
+     },
+     "forms": [
+      [
+       "premier provider",
+       "一流供应商",
+       "一流のプロバイダー"
+      ],
+      [
+       "premier league",
+       "顶级联赛",
+       "プレミアリーグ"
+      ]
+     ],
+     "tip": {
+      "zh": "广告里 premier = leading / top；别和 premiere（首映、首演）混淆。",
+      "ja": "広告の premier = leading / top。premiere（初演・初公開）と混同しないこと。"
+     }
+    },
+    {
+     "w": "primer",
+     "pos": "n.",
+     "ipa": "/ˈpraɪmɚ/",
+     "zh": "入门读物；底漆",
+     "ja": "入門書；下塗り塗料",
+     "ex": "Apply a coat of primer before painting the office walls.",
+     "ex_zh": "粉刷办公室墙壁前先刷一层底漆。",
+     "ex_ja": "オフィスの壁を塗る前に下塗り剤を 1 回塗ってください。",
+     "parts": [
+      [
+       "prim",
+       "第一",
+       "第一の"
+      ],
+      [
+       "-er",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "中世拉丁语 primarium“入门书”，来自 primus“第一”；“底漆”是“最先刷的那层”。",
+      "ja": "中世ラテン語 primarium「入門書」。primus「第一の」から。「下塗り」は「最初に塗る層」。"
+     },
+     "forms": [
+      [
+       "a primer on ...",
+       "……入门",
+       "〜の入門書"
+      ],
+      [
+       "a coat of primer",
+       "一层底漆",
+       "下塗り 1 回"
+      ]
+     ],
+     "tip": {
+      "zh": "“底漆”读 /ˈpraɪmɚ/；“入门书”在美式英语里常读 /ˈprɪmɚ/。",
+      "ja": "発音注意：「下塗り」は /ˈpraɪmɚ/、「入門書」は米語で /ˈprɪmɚ/ とも。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "tact",
+   "title_zh": "词根 -tact- / -tang-：接触",
+   "title_ja": "語根 -tact- / -tang-：触れる",
+   "words": [
+    {
+     "w": "contact",
+     "pos": "n./v.",
+     "ipa": "/ˈkɑnˌtækt/",
+     "zh": "联系；接触；联系人；（v.）联系",
+     "ja": "連絡；接触；連絡先；（動）連絡する",
+     "ex": "For billing questions, please contact our accounts department directly.",
+     "ex_zh": "有关账单的问题，请直接联系我们的财务部。",
+     "ex_ja": "請求に関するご質問は、経理部に直接ご連絡ください。",
+     "parts": [
+      [
+       "con-",
+       "共同；完全",
+       "共に；完全に"
+      ],
+      [
+       "tact",
+       "接触",
+       "触れる"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 contactus，来自 contingere“接触”：con-“一起” + tangere“触碰”。",
+      "ja": "ラテン語 contactus。contingere「触れ合う」：con-「共に」+ tangere「触れる」から。"
+     },
+     "forms": [
+      [
+       "contact person",
+       "联系人",
+       "担当者"
+      ],
+      [
+       "get in contact with",
+       "与……取得联系",
+       "〜と連絡を取る"
+      ],
+      [
+       "contact information",
+       "联系方式",
+       "連絡先"
+      ]
+     ],
+     "tip": {
+      "zh": "动词 contact 直接接宾语：contact the office（不说 contact to / with the office）。",
+      "ja": "動詞 contact は他動詞：contact the office（contact to / with としない）。"
+     }
+    },
+    {
+     "w": "intact",
+     "pos": "adj.",
+     "ipa": "/ɪnˈtækt/",
+     "zh": "完好无损的；未受损的",
+     "ja": "無傷の；損なわれていない",
+     "ex": "Despite the rough shipping, all the glassware arrived intact.",
+     "ex_zh": "尽管运输颠簸，所有玻璃器皿都完好无损地到达了。",
+     "ex_ja": "輸送は手荒でしたが、ガラス製品はすべて無傷で届きました。",
+     "parts": [
+      [
+       "in-",
+       "不",
+       "否定"
+      ],
+      [
+       "tact",
+       "接触",
+       "触れる"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 intactus“未被触碰的”：in-“不” + tactus“触碰”。",
+      "ja": "ラテン語 intactus「触れられていない」：in-「〜ない」+ tactus「触れた」。"
+     },
+     "forms": [
+      [
+       "remain intact",
+       "保持完好",
+       "そのまま残る"
+      ],
+      [
+       "arrive intact",
+       "完好送达",
+       "無傷で届く"
+      ]
+     ],
+     "tip": {
+      "zh": "常放在动词后作补语：arrive / remain / stay intact。",
+      "ja": "arrive / remain / stay intact のように補語として使うことが多い。"
+     }
+    },
+    {
+     "w": "tactful",
+     "pos": "adj.",
+     "ipa": "/ˈtæktfəl/",
+     "zh": "圆通的；得体的；老练的",
+     "ja": "気配りのある；如才ない",
+     "ex": "Maria gave a tactful reply to the customer's angry email.",
+     "ex_zh": "玛丽亚对顾客的愤怒邮件作了得体的回复。",
+     "ex_ja": "マリアは顧客の怒りのメールに気配りのある返信をしました。",
+     "parts": [
+      [
+       "tact",
+       "接触",
+       "触れる"
+      ],
+      [
+       "-ful",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "tact“分寸感”来自拉丁语 tactus“触觉”——“懂得轻重的触感”；+ -ful。",
+      "ja": "tact「機転」はラテン語 tactus「触覚」から、「加減のわかる手触り」。+ -ful。"
+     },
+     "forms": [
+      [
+       "tact (n.)",
+       "圆通；分寸",
+       "機転；気配り"
+      ],
+      [
+       "tactless (adj.)",
+       "不得体的",
+       "無神経な"
+      ]
+     ]
+    },
+    {
+     "w": "tangible",
+     "pos": "adj.",
+     "ipa": "/ˈtændʒəbəl/",
+     "zh": "有形的；切实的；明确的",
+     "ja": "有形の；具体的な；明白な",
+     "ex": "The new training program has produced tangible improvements in sales.",
+     "ex_zh": "新的培训项目已经带来了销售上的切实改善。",
+     "ex_ja": "新しい研修プログラムは売上に目に見える改善をもたらしました。",
+     "parts": [
+      [
+       "tang",
+       "接触",
+       "触れる"
+      ],
+      [
+       "-ible",
+       "可……的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 tangibilis“可触摸的”，来自 tangere“触碰”。",
+      "ja": "ラテン語 tangibilis「触れることのできる」。tangere「触れる」から。"
+     },
+     "forms": [
+      [
+       "tangible results",
+       "切实的成果",
+       "目に見える成果"
+      ],
+      [
+       "tangible assets",
+       "有形资产",
+       "有形資産"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7 同义替换：tangible ≈ concrete / measurable。",
+      "ja": "Part 7 の言い換え：tangible ≈ concrete / measurable。"
+     }
+    },
+    {
+     "w": "intangible",
+     "pos": "adj./n.",
+     "ipa": "/ɪnˈtændʒəbəl/",
+     "zh": "无形的；难以捉摸的；（n.）无形资产",
+     "ja": "無形の；捉えにくい；（名）無形資産",
+     "ex": "Brand reputation is an intangible asset that is hard to measure.",
+     "ex_zh": "品牌声誉是一种难以衡量的无形资产。",
+     "ex_ja": "ブランドの評判は測るのが難しい無形資産です。",
+     "parts": [
+      [
+       "in-",
+       "不",
+       "否定"
+      ],
+      [
+       "tang",
+       "接触",
+       "触れる"
+      ],
+      [
+       "-ible",
+       "可……的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "in-“不” + tangible“可触摸的”。",
+      "ja": "in-「〜ない」+ tangible「触れられる」。"
+     },
+     "forms": [
+      [
+       "intangible assets",
+       "无形资产",
+       "無形資産"
+      ],
+      [
+       "intangible benefits",
+       "无形的好处",
+       "目に見えない利点"
+      ]
+     ]
+    },
+    {
+     "w": "contingent",
+     "pos": "adj./n.",
+     "ipa": "/kənˈtɪndʒənt/",
+     "zh": "取决于……的；（n.）代表团；一队人",
+     "ja": "〜次第の；（名）派遣団；一団",
+     "ex": "The job offer is contingent on a successful background check.",
+     "ex_zh": "这份录用通知以背景调查通过为前提。",
+     "ex_ja": "採用の申し出は身元調査に通ることが条件です。",
+     "parts": [
+      [
+       "con-",
+       "共同；完全",
+       "共に；完全に"
+      ],
+      [
+       "ting",
+       "接触",
+       "触れる"
+      ],
+      [
+       "-ent",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 contingere“接触；碰巧发生”：con- + tangere“触碰”（-tang- 在复合词里变成 -ting-）。",
+      "ja": "ラテン語 contingere「触れ合う・偶然起こる」：con- + tangere「触れる」（複合語で -tang- が -ting- に変化）。"
+     },
+     "forms": [
+      [
+       "be contingent on / upon",
+       "取决于；以……为条件",
+       "〜次第である"
+      ],
+      [
+       "a contingent of",
+       "一队……；……代表团",
+       "〜の一団"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5 搭配：contingent 后接 on / upon。",
+      "ja": "Part 5 の語法：contingent の後は on / upon。"
+     }
+    },
+    {
+     "w": "contingency",
+     "pos": "n.",
+     "ipa": "/kənˈtɪndʒənsi/",
+     "zh": "意外事件；应急；不测",
+     "ja": "不測の事態；緊急時",
+     "ex": "We have set aside funds for contingencies such as equipment failure.",
+     "ex_zh": "我们预留了资金，以应对设备故障等意外情况。",
+     "ex_ja": "設備故障などの不測の事態に備えて資金を確保しています。",
+     "parts": [
+      [
+       "con-",
+       "共同；完全",
+       "共に；完全に"
+      ],
+      [
+       "ting",
+       "接触",
+       "触れる"
+      ],
+      [
+       "-ency",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "contingent + -cy：“可能碰巧发生的事”。",
+      "ja": "contingent + -cy：「偶然起こりうること」。"
+     },
+     "forms": [
+      [
+       "contingency plan",
+       "应急计划",
+       "緊急時対応計画"
+      ],
+      [
+       "for contingencies",
+       "以备不时之需",
+       "万一に備えて"
+      ]
+     ],
+     "tip": {
+      "zh": "contingency plan ≈ backup plan，Part 7 常见。",
+      "ja": "contingency plan ≈ backup plan。Part 7 で頻出。"
+     },
+     "hl": "contingencies"
+    },
+    {
+     "w": "integrate",
+     "pos": "v.",
+     "ipa": "/ˈɪntəˌɡreɪt/",
+     "zh": "整合；使融入；结合",
+     "ja": "統合する；組み込む；溶け込ませる",
+     "ex": "The new software integrates easily with our existing accounting system.",
+     "ex_zh": "新软件可以轻松地与我们现有的会计系统整合。",
+     "ex_ja": "新しいソフトは既存の会計システムと簡単に統合できます。",
+     "parts": [
+      [
+       "in-",
+       "不",
+       "否定"
+      ],
+      [
+       "teg",
+       "接触",
+       "触れる"
+      ],
+      [
+       "-ate",
+       "动词后缀",
+       "動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 integrare“使完整”，来自 integer“完整的、未被触碰的”：in-“不” + tangere“触碰”。Day 2 学过的 integrity 同源。",
+      "ja": "ラテン語 integrare「完全にする」。integer「完全な・手つかずの」= in-「〜ない」+ tangere「触れる」から。Day 2 の integrity と同語源。"
+     },
+     "forms": [
+      [
+       "integrate A with / into B",
+       "把 A 与 B 整合 / 融入 B",
+       "A を B と統合する / B に組み込む"
+      ],
+      [
+       "integration (n.)",
+       "整合；融合",
+       "統合"
+      ]
+     ],
+     "hl": "integrates"
+    }
+   ]
+  },
+  {
+   "id": "her",
+   "title_zh": "词根 -her- / -hes-：粘着",
+   "title_ja": "語根 -her- / -hes-：くっつく",
+   "words": [
+    {
+     "w": "adhere",
+     "pos": "v.",
+     "ipa": "/ædˈhɪr/",
+     "zh": "遵守；坚持；粘附",
+     "ja": "守る；固執する；くっつく",
+     "ex": "All visitors must adhere to the safety guidelines in the laboratory.",
+     "ex_zh": "所有访客都必须遵守实验室的安全准则。",
+     "ex_ja": "来訪者は全員、研究室の安全ガイドラインを守らなければなりません。",
+     "parts": [
+      [
+       "ad-",
+       "向",
+       "〜へ"
+      ],
+      [
+       "her",
+       "粘着",
+       "くっつく"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 adhaerere“粘在……上”：ad-“向” + haerere“粘着”。",
+      "ja": "ラテン語 adhaerere「〜にくっつく」：ad-「〜へ」+ haerere「くっつく」。"
+     },
+     "forms": [
+      [
+       "adhere to",
+       "遵守；坚持",
+       "〜を守る；〜に従う"
+      ],
+      [
+       "adherence (n.)",
+       "遵守",
+       "順守"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5：adhere to = comply with = follow = abide by（都表示“遵守”）。",
+      "ja": "Part 5：adhere to = comply with = follow = abide by（いずれも「守る」）。"
+     }
+    },
+    {
+     "w": "adherence",
+     "pos": "n.",
+     "ipa": "/ædˈhɪrəns/",
+     "zh": "遵守；坚持",
+     "ja": "順守；固守",
+     "ex": "Strict adherence to the budget helped us finish the project on time.",
+     "ex_zh": "严格遵守预算帮助我们按时完成了项目。",
+     "ex_ja": "予算を厳守したことで、プロジェクトを期限内に終えることができました。",
+     "parts": [
+      [
+       "ad-",
+       "向",
+       "〜へ"
+      ],
+      [
+       "her",
+       "粘着",
+       "くっつく"
+      ],
+      [
+       "-ence",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "adhere + -ence。",
+      "ja": "adhere + -ence。"
+     },
+     "forms": [
+      [
+       "adherence to",
+       "对……的遵守",
+       "〜の順守"
+      ],
+      [
+       "strict adherence",
+       "严格遵守",
+       "厳守"
+      ]
+     ]
+    },
+    {
+     "w": "adhesive",
+     "pos": "adj./n.",
+     "ipa": "/ædˈhisɪv/",
+     "zh": "粘性的；（n.）粘合剂；胶",
+     "ja": "粘着性の；（名）接着剤",
+     "ex": "Attach the label to the box using the adhesive strip on the back.",
+     "ex_zh": "用背面的粘贴条把标签贴在箱子上。",
+     "ex_ja": "裏面の粘着テープを使ってラベルを箱に貼ってください。",
+     "parts": [
+      [
+       "ad-",
+       "向",
+       "〜へ"
+      ],
+      [
+       "hes",
+       "粘着",
+       "くっつく"
+      ],
+      [
+       "-ive",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 adhaesus（adhaerere 的过去分词）+ -ive：-her- 变成 -hes-。",
+      "ja": "ラテン語 adhaesus（adhaerere の過去分詞）+ -ive：-her- が -hes- に。"
+     },
+     "forms": [
+      [
+       "adhesive tape",
+       "胶带",
+       "粘着テープ"
+      ],
+      [
+       "industrial adhesive",
+       "工业粘合剂",
+       "工業用接着剤"
+      ]
+     ]
+    },
+    {
+     "w": "coherent",
+     "pos": "adj.",
+     "ipa": "/koʊˈhɪrənt/",
+     "zh": "连贯的；有条理的；一致的",
+     "ja": "筋の通った；首尾一貫した",
+     "ex": "The consultant presented a clear and coherent marketing strategy.",
+     "ex_zh": "顾问提出了一份清晰而有条理的营销策略。",
+     "ex_ja": "コンサルタントは明確で筋の通ったマーケティング戦略を示しました。",
+     "parts": [
+      [
+       "co-",
+       "共同",
+       "共に"
+      ],
+      [
+       "her",
+       "粘着",
+       "くっつく"
+      ],
+      [
+       "-ent",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 cohaerere“粘在一起”：co-“共同” + haerere“粘着”——观点紧紧连在一起。",
+      "ja": "ラテン語 cohaerere「くっつき合う」：co-「共に」+ haerere「くっつく」、考えがしっかりつながっている。"
+     },
+     "forms": [
+      [
+       "coherent plan",
+       "条理清晰的计划",
+       "筋の通った計画"
+      ],
+      [
+       "coherence (n.)",
+       "连贯性",
+       "一貫性"
+      ]
+     ]
+    },
+    {
+     "w": "cohesive",
+     "pos": "adj.",
+     "ipa": "/koʊˈhisɪv/",
+     "zh": "有凝聚力的；团结的",
+     "ja": "まとまりのある；結束した",
+     "ex": "After the retreat, the department became a more cohesive team.",
+     "ex_zh": "团建之后，这个部门成了更有凝聚力的团队。",
+     "ex_ja": "研修合宿の後、その部署はよりまとまりのあるチームになりました。",
+     "parts": [
+      [
+       "co-",
+       "共同",
+       "共に"
+      ],
+      [
+       "hes",
+       "粘着",
+       "くっつく"
+      ],
+      [
+       "-ive",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "co- + haesus（haerere 的过去分词）+ -ive。",
+      "ja": "co- + haesus（haerere の過去分詞）+ -ive。"
+     },
+     "forms": [
+      [
+       "cohesive team",
+       "团结的团队",
+       "結束したチーム"
+      ],
+      [
+       "cohesion (n.)",
+       "凝聚力",
+       "結束"
+      ]
+     ],
+     "tip": {
+      "zh": "coherent 多指“逻辑连贯”（文章、计划），cohesive 多指“团结”（团队、群体）。",
+      "ja": "coherent は主に「論理的にまとまった」（文章・計画）、cohesive は「結束した」（チーム・集団）。"
+     }
+    },
+    {
+     "w": "inherent",
+     "pos": "adj.",
+     "ipa": "/ɪnˈhɪrənt/",
+     "zh": "固有的；内在的",
+     "ja": "固有の；本来備わっている",
+     "ex": "There are risks inherent in any overseas expansion.",
+     "ex_zh": "任何海外扩张都有其固有的风险。",
+     "ex_ja": "どんな海外進出にも固有のリスクがあります。",
+     "parts": [
+      [
+       "in-",
+       "在……之中",
+       "中に"
+      ],
+      [
+       "her",
+       "粘着",
+       "くっつく"
+      ],
+      [
+       "-ent",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 inhaerere“粘在里面”：in-“在内” + haerere“粘着”。⚠️ 和 inherit（继承）不同源（inherit 来自 heres“继承人”）。",
+      "ja": "ラテン語 inhaerere「中にくっついている」：in-「中に」+ haerere「くっつく」。⚠️ inherit（相続する）は heres「相続人」由来で別語源。"
+     },
+     "forms": [
+      [
+       "be inherent in",
+       "为……所固有",
+       "〜に本来備わる"
+      ],
+      [
+       "inherently (adv.)",
+       "本质上",
+       "本質的に"
+      ]
+     ],
+     "tip": {
+      "zh": "这里的 in- 是“在里面”，不是否定：inherent 不是“不粘的”。",
+      "ja": "この in- は「中に」で否定ではない。"
+     }
+    },
+    {
+     "w": "hesitate",
+     "pos": "v.",
+     "ipa": "/ˈhɛzəˌteɪt/",
+     "zh": "犹豫；迟疑",
+     "ja": "ためらう；躊躇する",
+     "ex": "If you have any questions, please do not hesitate to contact me.",
+     "ex_zh": "如有任何问题，请随时与我联系。",
+     "ex_ja": "ご質問があれば、遠慮なくご連絡ください。",
+     "parts": [
+      [
+       "hes",
+       "粘着",
+       "くっつく"
+      ],
+      [
+       "-it-",
+       "反复",
+       "繰り返し"
+      ],
+      [
+       "-ate",
+       "动词后缀",
+       "動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 haesitare“卡住、犹豫”，是 haerere“粘着”的反复形式——脚像被粘住一样迈不开。",
+      "ja": "ラテン語 haesitare「引っかかる・ためらう」。haerere「くっつく」の反復形で、足がくっついて進めない様子。"
+     },
+     "forms": [
+      [
+       "do not hesitate to do",
+       "请随时……；不要犹豫",
+       "遠慮なく〜する"
+      ],
+      [
+       "hesitation (n.)",
+       "犹豫",
+       "ためらい"
+      ]
+     ],
+     "tip": {
+      "zh": "邮件结尾必考句：Please do not hesitate to contact us.（hesitate 后接 to do）",
+      "ja": "メール結びの定番：Please do not hesitate to contact us.（hesitate の後は to do）"
+     }
+    },
+    {
+     "w": "hesitant",
+     "pos": "adj.",
+     "ipa": "/ˈhɛzətənt/",
+     "zh": "犹豫的；不愿的",
+     "ja": "ためらっている；気が進まない",
+     "ex": "Some managers were hesitant to adopt the new scheduling system.",
+     "ex_zh": "一些经理对采用新的排班系统犹豫不决。",
+     "ex_ja": "一部のマネージャーは新しいシフト管理システムの導入をためらっていました。",
+     "parts": [
+      [
+       "hes",
+       "粘着",
+       "くっつく"
+      ],
+      [
+       "-it-",
+       "反复",
+       "繰り返し"
+      ],
+      [
+       "-ant",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 haesitans（haesitare 的现在分词）。",
+      "ja": "ラテン語 haesitans（haesitare の現在分詞）。"
+     },
+     "forms": [
+      [
+       "be hesitant to do",
+       "不愿做……",
+       "〜するのをためらう"
+      ],
+      [
+       "hesitantly (adv.)",
+       "犹豫地",
+       "ためらいがちに"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "research",
+   "title_zh": "主题：市场调研与产品开发",
+   "title_ja": "テーマ：市場調査・製品開発",
+   "words": [
+    {
+     "w": "survey",
+     "pos": "n./v.",
+     "ipa": "/ˈsɝˌveɪ/",
+     "zh": "调查；问卷调查；（v.）调查；测量",
+     "ja": "調査；アンケート；（動）調査する；測量する",
+     "ex": "According to a recent survey, most customers prefer to shop online in the evening.",
+     "ex_zh": "根据最近的一项调查，大多数顾客喜欢在晚上网购。",
+     "ex_ja": "最近の調査によると、ほとんどの顧客は夜にネットで買い物をするのを好みます。",
+     "parts": [
+      [
+       "sur-",
+       "在上面",
+       "上から"
+      ],
+      [
+       "vey",
+       "看",
+       "見る"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 surveeir“俯瞰”：sur-“在上” + veoir“看”（拉丁语 videre，Day 5 的 vid）。Day 13 的 surveyor（测量员）同源。",
+      "ja": "古フランス語 surveeir「見渡す」：sur-「上から」+ veoir「見る」（ラテン語 videre、Day 5 の vid）。Day 13 の surveyor と同語源。"
+     },
+     "forms": [
+      [
+       "conduct a survey",
+       "进行调查",
+       "調査を行う"
+      ],
+      [
+       "customer satisfaction survey",
+       "顾客满意度调查",
+       "顧客満足度調査"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7 的 survey 题常问“调查的目的”或“受访者得到什么奖励”。",
+      "ja": "Part 7 のアンケート文書では「調査の目的」「回答者への特典」がよく問われる。"
+     }
+    },
+    {
+     "w": "respondent",
+     "pos": "n.",
+     "ipa": "/rɪˈspɑndənt/",
+     "zh": "受访者；答卷人",
+     "ja": "回答者",
+     "ex": "Nearly 60 percent of respondents said they would buy the product again.",
+     "ex_zh": "近 60% 的受访者表示会再次购买该产品。",
+     "ex_ja": "回答者の約 60％がその製品をまた買うと答えました。",
+     "parts": [
+      [
+       "re-",
+       "回",
+       "返して"
+      ],
+      [
+       "spond",
+       "承诺；回应",
+       "約束する；応じる"
+      ],
+      [
+       "-ent",
+       "表示人",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 respondere“回应”：re-“回” + spondere“承诺”。",
+      "ja": "ラテン語 respondere「応える」：re-「返して」+ spondere「約束する」。"
+     },
+     "forms": [
+      [
+       "survey respondents",
+       "调查受访者",
+       "アンケート回答者"
+      ],
+      [
+       "respond to (v.)",
+       "回应",
+       "〜に応じる"
+      ]
+     ],
+     "hl": "respondents"
+    },
+    {
+     "w": "prototype",
+     "pos": "n.",
+     "ipa": "/ˈproʊtəˌtaɪp/",
+     "zh": "原型；样机",
+     "ja": "試作品；原型",
+     "ex": "Engineers will test the prototype before mass production begins.",
+     "ex_zh": "工程师们将在量产开始前测试样机。",
+     "ex_ja": "量産開始前に技術者が試作品をテストします。",
+     "parts": [
+      [
+       "proto-",
+       "最初的",
+       "最初の"
+      ],
+      [
+       "type",
+       "模型；印记",
+       "型"
+      ]
+     ],
+     "note": {
+      "zh": "希腊语 prototypon：protos“最初的” + typos“印记、模型”。",
+      "ja": "ギリシャ語 prototypon：protos「最初の」+ typos「型・刻印」。"
+     },
+     "forms": [
+      [
+       "build a prototype",
+       "制作样机",
+       "試作品を作る"
+      ],
+      [
+       "prototype testing",
+       "样机测试",
+       "試作品テスト"
+      ]
+     ]
+    },
+    {
+     "w": "patent",
+     "pos": "n./v.",
+     "ipa": "/ˈpætənt/",
+     "zh": "专利；专利权；（v.）申请专利",
+     "ja": "特許；（動）特許を取る",
+     "ex": "The company applied for a patent on its new battery design.",
+     "ex_zh": "该公司为其新电池设计申请了专利。",
+     "ex_ja": "その会社は新しいバッテリー設計の特許を出願しました。",
+     "parts": [
+      [
+       "pat",
+       "敞开",
+       "開く"
+      ],
+      [
+       "-ent",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 patere“敞开”：letters patent 原指“公开的特许状”。⚠️ 和 patient（病人、耐心）不同源（patient 来自 pati“忍受”）。",
+      "ja": "ラテン語 patere「開いている」：letters patent はもと「公開の特許状」。⚠️ patient（患者・忍耐強い）は pati「耐える」由来で別語源。"
+     },
+     "forms": [
+      [
+       "apply for a patent",
+       "申请专利",
+       "特許を出願する"
+      ],
+      [
+       "patent pending",
+       "专利申请中",
+       "特許出願中"
+      ]
+     ]
+    },
+    {
+     "w": "feasibility",
+     "pos": "n.",
+     "ipa": "/ˌfizəˈbɪləti/",
+     "zh": "可行性",
+     "ja": "実現可能性",
+     "ex": "The board has asked for a feasibility study before approving the new plant.",
+     "ex_zh": "董事会要求在批准新工厂之前先做可行性研究。",
+     "ex_ja": "取締役会は新工場を承認する前に実現可能性調査を求めました。",
+     "parts": [
+      [
+       "feas",
+       "做",
+       "する"
+      ],
+      [
+       "-ibility",
+       "可……性",
+       "〜できること"
+      ]
+     ],
+     "note": {
+      "zh": "feasible 来自古法语 faisable“可做的”，faire“做”源自拉丁语 facere（Day 7 的 fac）。",
+      "ja": "feasible は古フランス語 faisable「できる」。faire「する」はラテン語 facere（Day 7 の fac）から。"
+     },
+     "forms": [
+      [
+       "feasibility study",
+       "可行性研究",
+       "実現可能性調査（F/S）"
+      ],
+      [
+       "feasible (adj.)",
+       "可行的",
+       "実行可能な"
+      ]
+     ]
+    },
+    {
+     "w": "trial",
+     "pos": "n.",
+     "ipa": "/ˈtraɪəl/",
+     "zh": "试用；试验；审判",
+     "ja": "試用；試験；裁判",
+     "ex": "Customers can use the software free of charge during the 30-day trial.",
+     "ex_zh": "在 30 天试用期内，顾客可以免费使用该软件。",
+     "ex_ja": "30 日間の試用期間中、顧客はソフトを無料で使えます。",
+     "parts": [],
+     "note": {
+      "zh": "英法语 trial“审查”，来自 trier“试、审”，再往前出处不明，没有可靠的词根拆分。",
+      "ja": "アングロ・フランス語 trial「審理」、trier「試す・裁く」から。それ以前は不明で、信頼できる語根分解はありません。"
+     },
+     "forms": [
+      [
+       "free trial",
+       "免费试用",
+       "無料体験"
+      ],
+      [
+       "on a trial basis",
+       "以试用的方式",
+       "試験的に"
+      ],
+      [
+       "clinical trial",
+       "临床试验",
+       "臨床試験"
+      ]
+     ],
+     "tip": {
+      "zh": "on a trial basis ≈ temporarily（暂时、试行），Part 7 同义替换常考。",
+      "ja": "on a trial basis ≈ temporarily。Part 7 の言い換えで頻出。"
+     }
+    },
+    {
+     "w": "debut",
+     "pos": "n./v.",
+     "ipa": "/deɪˈbju/",
+     "zh": "首次亮相；（产品）首发；（v.）首次推出",
+     "ja": "デビュー；初登場；（動）初公開する",
+     "ex": "The new tablet will make its debut at the electronics fair in March.",
+     "ex_zh": "这款新平板电脑将在三月的电子展上首次亮相。",
+     "ex_ja": "新しいタブレットは 3 月の家電見本市で初登場します。",
+     "parts": [],
+     "note": {
+      "zh": "法语 début“开局、第一击”，来自 débuter；没有可靠的词根拆分。",
+      "ja": "フランス語 début「始まり・最初の一打」、débuter から。信頼できる語根分解はありません。"
+     },
+     "forms": [
+      [
+       "make its debut",
+       "首次亮相",
+       "デビューする"
+      ],
+      [
+       "debut album",
+       "首张专辑",
+       "デビューアルバム"
+      ]
+     ],
+     "tip": {
+      "zh": "末尾 t 不发音：/deɪˈbju/。",
+      "ja": "語末の t は発音しない：/deɪˈbju/。"
+     }
+    },
+    {
+     "w": "rollout",
+     "pos": "n.",
+     "ipa": "/ˈroʊlˌaʊt/",
+     "zh": "（新产品、系统的）推出；逐步推行",
+     "ja": "（新製品・システムの）展開；本格導入",
+     "ex": "The nationwide rollout of the payment system will take six months.",
+     "ex_zh": "这套支付系统在全国的推行将需要六个月。",
+     "ex_ja": "決済システムの全国展開には 6 か月かかります。",
+     "parts": [
+      [
+       "roll",
+       "滚动",
+       "転がる"
+      ],
+      [
+       "out",
+       "向外",
+       "外へ"
+      ]
+     ],
+     "note": {
+      "zh": "复合词：roll out“（把东西）推出来”→ 名词 rollout。",
+      "ja": "複合語：roll out「転がし出す」→ 名詞 rollout。"
+     },
+     "forms": [
+      [
+       "roll out (v.)",
+       "推出；推行",
+       "展開する"
+      ],
+      [
+       "phased rollout",
+       "分阶段推行",
+       "段階的導入"
+      ]
+     ]
+    },
+    {
+     "w": "forecast",
+     "pos": "n./v.",
+     "ipa": "/ˈfɔrˌkæst/",
+     "zh": "预测；预报；（v.）预测",
+     "ja": "予測；予報；（動）予測する",
+     "ex": "Sales are forecast to rise by 8 percent next year.",
+     "ex_zh": "预计明年销售额将增长 8%。",
+     "ex_ja": "来年の売上は 8％増加すると予測されています。",
+     "parts": [
+      [
+       "fore-",
+       "预先",
+       "前もって"
+      ],
+      [
+       "cast",
+       "投掷；计算",
+       "投げる；計算する"
+      ]
+     ],
+     "note": {
+      "zh": "fore-“预先” + cast“（盘算地）投掷”组成的复合词。",
+      "ja": "fore-「前もって」+ cast「投げる・見積もる」の複合語。"
+     },
+     "forms": [
+      [
+       "sales forecast",
+       "销售预测",
+       "売上予測"
+      ],
+      [
+       "weather forecast",
+       "天气预报",
+       "天気予報"
+      ]
+     ],
+     "tip": {
+      "zh": "过去式、过去分词常与原形相同：forecast（也可用 forecasted）。",
+      "ja": "過去形・過去分詞は原形と同じ forecast（forecasted も可）。"
+     }
+    },
+    {
+     "w": "breakthrough",
+     "pos": "n.",
+     "ipa": "/ˈbreɪkˌθru/",
+     "zh": "突破；重大进展",
+     "ja": "飛躍的進歩；突破口",
+     "ex": "The lab announced a breakthrough in low-cost battery technology.",
+     "ex_zh": "实验室宣布在低成本电池技术上取得了突破。",
+     "ex_ja": "研究所は低コスト電池技術での飛躍的進歩を発表しました。",
+     "parts": [
+      [
+       "break",
+       "打破",
+       "破る"
+      ],
+      [
+       "through",
+       "穿过",
+       "通り抜けて"
+      ]
+     ],
+     "note": {
+      "zh": "复合词：break through“冲破” → 名词“突破”。",
+      "ja": "複合語：break through「突き破る」→ 名詞「突破」。"
+     },
+     "forms": [
+      [
+       "make a breakthrough",
+       "取得突破",
+       "突破口を開く"
+      ],
+      [
+       "technological breakthrough",
+       "技术突破",
+       "技術的大躍進"
+      ]
+     ]
+    },
+    {
+     "w": "statistics",
+     "pos": "n.",
+     "ipa": "/stəˈtɪstɪks/",
+     "zh": "统计数据；统计学",
+     "ja": "統計；統計学",
+     "ex": "The report includes statistics on customer age and income.",
+     "ex_zh": "这份报告包括有关客户年龄和收入的统计数据。",
+     "ex_ja": "報告書には顧客の年齢と収入に関する統計が含まれています。",
+     "parts": [
+      [
+       "stat",
+       "站立；状态",
+       "立つ；状態"
+      ],
+      [
+       "-ist",
+       "表示……的人",
+       "〜する人"
+      ],
+      [
+       "-ics",
+       "学科",
+       "学問"
+      ]
+     ],
+     "note": {
+      "zh": "德语 Statistik“国家事务学”，来自拉丁语 status“状态、国家”（stare“站”）。",
+      "ja": "ドイツ語 Statistik「国家に関する学問」。ラテン語 status「状態・国家」（stare「立つ」）から。"
+     },
+     "forms": [
+      [
+       "statistic (n.)",
+       "一项统计数字",
+       "統計値"
+      ],
+      [
+       "statistical (adj.)",
+       "统计的",
+       "統計的な"
+      ]
+     ]
+    },
+    {
+     "w": "segment",
+     "pos": "n./v.",
+     "ipa": "/ˈsɛɡmənt/",
+     "zh": "部分；（市场）细分领域；（v.）细分",
+     "ja": "部分；（市場の）セグメント；（動）区分する",
+     "ex": "Young professionals are the fastest-growing segment of our customer base.",
+     "ex_zh": "年轻职场人士是我们客户群中增长最快的部分。",
+     "ex_ja": "若い社会人は当社の顧客層で最も成長している区分です。",
+     "parts": [
+      [
+       "seg",
+       "切",
+       "切る"
+      ],
+      [
+       "-ment",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 segmentum“切下的一块”，来自 secare“切”。",
+      "ja": "ラテン語 segmentum「切り取った一片」。secare「切る」から。"
+     },
+     "forms": [
+      [
+       "market segment",
+       "细分市场",
+       "市場セグメント"
+      ],
+      [
+       "segmentation (n.)",
+       "细分",
+       "区分"
+      ]
+     ]
+    },
+    {
+     "w": "insight",
+     "pos": "n.",
+     "ipa": "/ˈɪnˌsaɪt/",
+     "zh": "洞察；深刻理解；见解",
+     "ja": "洞察；見識；深い理解",
+     "ex": "The focus group gave us valuable insight into how young parents shop.",
+     "ex_zh": "焦点小组让我们深入了解了年轻父母的购物方式。",
+     "ex_ja": "フォーカスグループから若い親の買い物の仕方について貴重な洞察が得られました。",
+     "parts": [
+      [
+       "in-",
+       "向内",
+       "中を"
+      ],
+      [
+       "sight",
+       "看",
+       "見ること"
+      ]
+     ],
+     "note": {
+      "zh": "in“向内” + sight“看”：看到内部 → 洞察。",
+      "ja": "in「中を」+ sight「見ること」：内側まで見通す → 洞察。"
+     },
+     "forms": [
+      [
+       "insight into",
+       "对……的洞察",
+       "〜への洞察"
+      ],
+      [
+       "insightful (adj.)",
+       "有洞察力的",
+       "洞察に富む"
+      ]
+     ],
+     "tip": {
+      "zh": "搭配介词 into：gain insight into the market。",
+      "ja": "前置詞は into：gain insight into the market。"
+     }
+    },
+    {
+     "w": "upgrade",
+     "pos": "v./n.",
+     "ipa": "/ˌʌpˈɡreɪd/",
+     "zh": "升级；改进；（n.）升级",
+     "ja": "アップグレードする；（名）格上げ",
+     "ex": "We are upgrading all office computers to the latest operating system.",
+     "ex_zh": "我们正在把所有办公电脑升级到最新的操作系统。",
+     "ex_ja": "全社のパソコンを最新の OS にアップグレードしています。",
+     "parts": [
+      [
+       "up-",
+       "向上",
+       "上へ"
+      ],
+      [
+       "grade",
+       "等级；步",
+       "等級；段階"
+      ]
+     ],
+     "note": {
+      "zh": "up + grade；grade 来自拉丁语 gradus“步、等级”（Day 4 的 grad）。",
+      "ja": "up + grade。grade はラテン語 gradus「歩み・段階」（Day 4 の grad）から。"
+     },
+     "forms": [
+      [
+       "free upgrade",
+       "免费升级",
+       "無料アップグレード"
+      ],
+      [
+       "upgrade to business class",
+       "升到商务舱",
+       "ビジネスクラスへのアップグレード"
+      ]
+     ],
+     "hl": "upgrading"
+    }
+   ]
+  },
+  {
+   "id": "career",
+   "title_zh": "主题：求职招聘与职业晋升",
+   "title_ja": "テーマ：採用・キャリアアップ",
+   "words": [
+    {
+     "w": "shortlist",
+     "pos": "n./v.",
+     "ipa": "/ˈʃɔrtˌlɪst/",
+     "zh": "候选名单；（v.）列入候选名单",
+     "ja": "最終候補者リスト；（動）候補に絞る",
+     "ex": "Three applicants have been shortlisted for a second interview.",
+     "ex_zh": "三位申请人已被列入二面的候选名单。",
+     "ex_ja": "3 人の応募者が 2 次面接の最終候補に選ばれました。",
+     "parts": [
+      [
+       "short",
+       "短",
+       "短い"
+      ],
+      [
+       "list",
+       "名单",
+       "リスト"
+      ]
+     ],
+     "note": {
+      "zh": "复合词：short“短的” + list“名单”——从长名单筛出的短名单。",
+      "ja": "複合語：short「短い」+ list「リスト」、長いリストから絞った短いリスト。"
+     },
+     "forms": [
+      [
+       "be shortlisted for",
+       "入围……",
+       "〜の最終候補に残る"
+      ],
+      [
+       "draw up a shortlist",
+       "拟定候选名单",
+       "候補者リストを作る"
+      ]
+     ],
+     "hl": "shortlisted"
+    },
+    {
+     "w": "applicant",
+     "pos": "n.",
+     "ipa": "/ˈæplɪkənt/",
+     "zh": "申请人；求职者",
+     "ja": "応募者；申請者",
+     "ex": "All applicants must submit a résumé and two letters of reference.",
+     "ex_zh": "所有申请人都必须提交一份简历和两封推荐信。",
+     "ex_ja": "応募者は全員、履歴書と推薦状 2 通を提出しなければなりません。",
+     "parts": [
+      [
+       "ap-",
+       "向",
+       "〜へ"
+      ],
+      [
+       "plic",
+       "折叠",
+       "折る"
+      ],
+      [
+       "-ant",
+       "表示人",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "apply + -ant；apply 来自拉丁语 applicare“贴上去”（Day 7 的 plic“折叠”）。",
+      "ja": "apply + -ant。apply はラテン語 applicare「押し当てる」（Day 7 の plic「折る」）から。"
+     },
+     "forms": [
+      [
+       "job applicant",
+       "求职者",
+       "求職者"
+      ],
+      [
+       "application (n.)",
+       "申请；申请表",
+       "応募；申込書"
+      ]
+     ],
+     "hl": "applicants"
+    },
+    {
+     "w": "recruit",
+     "pos": "v./n.",
+     "ipa": "/rɪˈkrut/",
+     "zh": "招聘；招募；（n.）新成员",
+     "ja": "採用する；募集する；（名）新人",
+     "ex": "The hotel is recruiting seasonal staff for the summer.",
+     "ex_zh": "这家酒店正在为夏季招聘季节性员工。",
+     "ex_ja": "そのホテルは夏の季節スタッフを募集しています。",
+     "parts": [
+      [
+       "re-",
+       "再",
+       "再び"
+      ],
+      [
+       "cruit",
+       "生长",
+       "育つ"
+      ]
+     ],
+     "note": {
+      "zh": "法语 recrute“新兵、增援”，来自 recroître“再生长”（拉丁语 crescere“生长”）——给队伍补充新人。",
+      "ja": "フランス語 recrute「補充兵」。recroître「再び育つ」（ラテン語 crescere「育つ」）から、隊を新たに補うこと。"
+     },
+     "forms": [
+      [
+       "recruitment (n.)",
+       "招聘",
+       "採用活動"
+      ],
+      [
+       "new recruit",
+       "新员工",
+       "新入社員"
+      ]
+     ],
+     "hl": "recruiting"
+    },
+    {
+     "w": "onboarding",
+     "pos": "n.",
+     "ipa": "/ˈɑnˌbɔrdɪŋ/",
+     "zh": "（新员工）入职培训；入职流程",
+     "ja": "（新入社員の）受け入れ研修；オンボーディング",
+     "ex": "The two-week onboarding program introduces new hires to our systems and policies.",
+     "ex_zh": "为期两周的入职培训向新员工介绍我们的系统和政策。",
+     "ex_ja": "2 週間のオンボーディング研修で、新入社員に当社のシステムと方針を紹介します。",
+     "parts": [
+      [
+       "on",
+       "在……上",
+       "上に"
+      ],
+      [
+       "board",
+       "船；甲板",
+       "船；甲板"
+      ],
+      [
+       "-ing",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "来自 on board“在船上”：让新人“上船”加入团队。",
+      "ja": "on board「乗船して」から：新人をチームという船に乗せること。"
+     },
+     "forms": [
+      [
+       "onboarding process",
+       "入职流程",
+       "受け入れ手続き"
+      ],
+      [
+       "onboard (v.)",
+       "帮助新员工入职",
+       "新人を受け入れる"
+      ],
+      [
+       "new hire",
+       "新员工",
+       "新入社員"
+      ]
+     ]
+    },
+    {
+     "w": "aptitude",
+     "pos": "n.",
+     "ipa": "/ˈæptəˌtud/",
+     "zh": "天资；才能；资质",
+     "ja": "適性；才能",
+     "ex": "Applicants will take an aptitude test before the interview.",
+     "ex_zh": "申请者在面试前要参加能力倾向测试。",
+     "ex_ja": "応募者は面接の前に適性検査を受けます。",
+     "parts": [
+      [
+       "apt",
+       "适合的",
+       "適した"
+      ],
+      [
+       "-itude",
+       "名词后缀（状态）",
+       "名詞を作る（状態）"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 aptitudo，来自 aptus“适合的”。",
+      "ja": "ラテン語 aptitudo。aptus「適した」から。"
+     },
+     "forms": [
+      [
+       "aptitude test",
+       "能力倾向测试",
+       "適性検査"
+      ],
+      [
+       "have an aptitude for",
+       "有……的天赋",
+       "〜の才能がある"
+      ]
+     ],
+     "tip": {
+      "zh": "⚠️ 别和 attitude（态度）、altitude（海拔）混淆。",
+      "ja": "⚠️ attitude（態度）・altitude（高度）と混同しないこと。"
+     }
+    },
+    {
+     "w": "probation",
+     "pos": "n.",
+     "ipa": "/proʊˈbeɪʃən/",
+     "zh": "试用期；见习期",
+     "ja": "試用期間；見習い期間",
+     "ex": "New employees are on probation for the first three months.",
+     "ex_zh": "新员工头三个月处于试用期。",
+     "ex_ja": "新入社員は最初の 3 か月間は試用期間です。",
+     "parts": [
+      [
+       "prob",
+       "检验；证明",
+       "試す；証明する"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 probatio“检验”，来自 probare“试验、证明”（prove 同源）。",
+      "ja": "ラテン語 probatio「試験」。probare「試す・証明する」（prove と同語源）から。"
+     },
+     "forms": [
+      [
+       "probation period",
+       "试用期",
+       "試用期間"
+      ],
+      [
+       "probationary (adj.)",
+       "试用的",
+       "試用の"
+      ]
+     ]
+    },
+    {
+     "w": "tenure",
+     "pos": "n.",
+     "ipa": "/ˈtɛnjɚ/",
+     "zh": "任期；在职期间；终身职位",
+     "ja": "在任期間；在職期間；終身在職権",
+     "ex": "During her tenure as director, sales doubled.",
+     "ex_zh": "在她担任总监期间，销售额翻了一番。",
+     "ex_ja": "彼女が部長を務めた期間に、売上は倍増しました。",
+     "parts": [
+      [
+       "ten",
+       "握住",
+       "保つ"
+      ],
+      [
+       "-ure",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 tenure“持有”，来自拉丁语 tenere“握住”（Day 1 的 ten）。",
+      "ja": "古フランス語 tenure「保有」。ラテン語 tenere「保つ」（Day 1 の ten）から。"
+     },
+     "forms": [
+      [
+       "during one's tenure",
+       "在某人任职期间",
+       "〜の在任中"
+      ],
+      [
+       "tenure as CEO",
+       "担任 CEO 期间",
+       "CEO としての在任期間"
+      ]
+     ]
+    },
+    {
+     "w": "expertise",
+     "pos": "n.",
+     "ipa": "/ˌɛkspɚˈtiz/",
+     "zh": "专业知识；专长",
+     "ja": "専門知識；専門技術",
+     "ex": "We need someone with expertise in data analysis.",
+     "ex_zh": "我们需要一位有数据分析专长的人。",
+     "ex_ja": "データ分析の専門知識を持つ人が必要です。",
+     "parts": [
+      [
+       "ex-",
+       "出",
+       "外へ"
+      ],
+      [
+       "pert",
+       "尝试",
+       "試す"
+      ],
+      [
+       "-ise",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "法语 expertise，来自 expert（拉丁语 expertus“经过尝试的、有经验的”，experiri“尝试”）。",
+      "ja": "フランス語 expertise。expert（ラテン語 expertus「試した・経験のある」、experiri「試す」）から。"
+     },
+     "forms": [
+      [
+       "expertise in",
+       "在……方面的专长",
+       "〜の専門知識"
+      ],
+      [
+       "expert (n./adj.)",
+       "专家；熟练的",
+       "専門家；熟練した"
+      ]
+     ],
+     "tip": {
+      "zh": "expertise 是不可数名词：a lot of expertise，不说 expertises。",
+      "ja": "expertise は不可算名詞：expertises としない。"
+     }
+    },
+    {
+     "w": "advancement",
+     "pos": "n.",
+     "ipa": "/ədˈvænsmənt/",
+     "zh": "晋升；发展；进步",
+     "ja": "昇進；出世；進歩",
+     "ex": "The company offers excellent opportunities for career advancement.",
+     "ex_zh": "公司提供极好的职业晋升机会。",
+     "ex_ja": "その会社には優れたキャリアアップの機会があります。",
+     "parts": [
+      [
+       "ab-",
+       "离开",
+       "離れて"
+      ],
+      [
+       "ante",
+       "在前面",
+       "前に"
+      ],
+      [
+       "-ment",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "advance 来自古法语 avancer，源自拉丁语 abante“在前面”（ab- + ante）；d 是后来按 ad- 误加的拼写。",
+      "ja": "advance は古フランス語 avancer、ラテン語 abante「前に」（ab- + ante）から。d は後に ad- と誤解されて加わった綴り。"
+     },
+     "forms": [
+      [
+       "career advancement",
+       "职业发展；晋升",
+       "キャリアアップ"
+      ],
+      [
+       "opportunities for advancement",
+       "晋升机会",
+       "昇進の機会"
+      ]
+     ],
+     "tip": {
+      "zh": "advanced（先进的；高级的）≠ advancement（晋升）；in advance = 提前。",
+      "ja": "advanced（高度な）と advancement（昇進）は別。in advance = 前もって。"
+     }
+    },
+    {
+     "w": "milestone",
+     "pos": "n.",
+     "ipa": "/ˈmaɪlˌstoʊn/",
+     "zh": "里程碑；重要阶段",
+     "ja": "節目；画期的な出来事",
+     "ex": "Opening our 100th branch was a major milestone for the company.",
+     "ex_zh": "开设第 100 家分店是公司的一个重要里程碑。",
+     "ex_ja": "100 店舗目の開店は会社にとって大きな節目でした。",
+     "parts": [
+      [
+       "mile",
+       "英里",
+       "マイル"
+      ],
+      [
+       "stone",
+       "石头",
+       "石"
+      ]
+     ],
+     "note": {
+      "zh": "复合词：路边标示英里数的石碑 → 重要的阶段性节点。",
+      "ja": "複合語：道端のマイル標石 → 重要な節目。"
+     },
+     "forms": [
+      [
+       "reach a milestone",
+       "达到重要节点",
+       "節目を迎える"
+      ],
+      [
+       "project milestones",
+       "项目里程碑",
+       "プロジェクトのマイルストーン"
+      ]
+     ]
+    },
+    {
+     "w": "accomplishment",
+     "pos": "n.",
+     "ipa": "/əˈkɑmplɪʃmənt/",
+     "zh": "成就；成绩；完成",
+     "ja": "業績；達成",
+     "ex": "Winning the industry award was a remarkable accomplishment for our small team.",
+     "ex_zh": "赢得行业大奖是我们这个小团队了不起的成就。",
+     "ex_ja": "業界賞の受賞は小さなチームにとって素晴らしい業績でした。",
+     "parts": [
+      [
+       "ac-",
+       "向",
+       "〜へ"
+      ],
+      [
+       "com-",
+       "完全",
+       "完全に"
+      ],
+      [
+       "pli",
+       "填满",
+       "満たす"
+      ],
+      [
+       "-sh",
+       "动词后缀",
+       "動詞を作る"
+      ],
+      [
+       "-ment",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "accomplish 来自古法语 acomplir，源自拉丁语 ad- + complere“填满、完成”（Day 17 的 ple）。",
+      "ja": "accomplish は古フランス語 acomplir、ラテン語 ad- + complere「満たす・完成する」（Day 17 の ple）から。"
+     },
+     "forms": [
+      [
+       "accomplish (v.)",
+       "完成；实现",
+       "成し遂げる"
+      ],
+      [
+       "a sense of accomplishment",
+       "成就感",
+       "達成感"
+      ]
+     ]
+    },
+    {
+     "w": "resignation",
+     "pos": "n.",
+     "ipa": "/ˌrɛzɪɡˈneɪʃən/",
+     "zh": "辞职；辞职信；顺从",
+     "ja": "辞職；辞表；あきらめ",
+     "ex": "Mr. Patel submitted his resignation after twelve years with the firm.",
+     "ex_zh": "帕特尔先生在公司工作 12 年后递交了辞呈。",
+     "ex_ja": "パテル氏は 12 年勤めた後、辞表を提出しました。",
+     "parts": [
+      [
+       "re-",
+       "回；撤销",
+       "戻して"
+      ],
+      [
+       "sign",
+       "标记；签名",
+       "しるし；署名"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "resign 来自拉丁语 resignare“撤销（印记）、交还”：re- + signare“做标记”（Day 5 的 sign）。",
+      "ja": "resign はラテン語 resignare「封印を解く・返す」：re- + signare「しるしを付ける」（Day 5 の sign）から。"
+     },
+     "forms": [
+      [
+       "resign (v.)",
+       "辞职",
+       "辞職する"
+      ],
+      [
+       "letter of resignation",
+       "辞职信",
+       "辞表"
+      ],
+      [
+       "submit one's resignation",
+       "递交辞呈",
+       "辞表を出す"
+      ]
+     ],
+     "tip": {
+      "zh": "⚠️ resign /rɪˈzaɪn/（辞职）≠ re-sign /ˌriˈsaɪn/（重新签约）。",
+      "ja": "⚠️ resign /rɪˈzaɪn/（辞職する）と re-sign（再署名する）は別。"
+     }
+    },
+    {
+     "w": "appoint",
+     "pos": "v.",
+     "ipa": "/əˈpɔɪnt/",
+     "zh": "任命；委派；约定（时间）",
+     "ja": "任命する；指名する；（日時を）指定する",
+     "ex": "The board appointed Ms. Lopez as the new head of research.",
+     "ex_zh": "董事会任命洛佩兹女士为新的研发主管。",
+     "ex_ja": "取締役会はロペス氏を新しい研究責任者に任命しました。",
+     "parts": [
+      [
+       "ap-",
+       "向",
+       "〜へ"
+      ],
+      [
+       "point",
+       "点；指定",
+       "点；指し示す"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 apointer“安排、确定”：a“向” + point“点”（拉丁语 punctum）——指定到某一点。",
+      "ja": "古フランス語 apointer「取り決める」：a「〜へ」+ point「点」（ラテン語 punctum）、ある点に定めること。"
+     },
+     "forms": [
+      [
+       "appointment (n.)",
+       "任命；约会；预约",
+       "任命；予約"
+      ],
+      [
+       "be appointed (as) ...",
+       "被任命为……",
+       "〜に任命される"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7 人事通知：appoint / name / promote A to B 都表示“任命”。appointment 还有“预约”的意思。",
+      "ja": "Part 7 の人事通知：appoint / name / promote A to B はいずれも「任命」。appointment は「予約」の意味も。"
+     },
+     "hl": "appointed"
+    },
+    {
+     "w": "trainee",
+     "pos": "n.",
+     "ipa": "/treɪˈni/",
+     "zh": "实习生；受训人员",
+     "ja": "研修生；訓練生",
+     "ex": "Each trainee will be paired with an experienced sales representative.",
+     "ex_zh": "每位受训人员都将与一位经验丰富的销售代表结对。",
+     "ex_ja": "研修生は一人ひとり経験豊富な営業担当者とペアを組みます。",
+     "parts": [
+      [
+       "train",
+       "培训",
+       "訓練する"
+      ],
+      [
+       "-ee",
+       "被……的人",
+       "〜される人"
+      ]
+     ],
+     "note": {
+      "zh": "train + -ee（被动者后缀）；train 来自古法语 trahiner“拖、拉”。",
+      "ja": "train + -ee（〜される人）。train は古フランス語 trahiner「引く」から。"
+     },
+     "forms": [
+      [
+       "trainer (n.)",
+       "培训师",
+       "トレーナー"
+      ],
+      [
+       "management trainee",
+       "管理培训生",
+       "幹部候補研修生"
+      ]
+     ],
+     "tip": {
+      "zh": "-ee 是“被……的人”（trainee、employee），-er 是“做……的人”（trainer、employer）。",
+      "ja": "-ee は「〜される人」（trainee・employee）、-er は「〜する人」（trainer・employer）。"
+     }
+    }
+   ]
+  }
+ ]
+}
