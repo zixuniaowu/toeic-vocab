@@ -66,7 +66,7 @@ python3 -m venv /tmp/wp && /tmp/wp/bin/pip install edge-tts cmudict   # cmudict 
 1. **选词**：60 个 TOEIC 600–850 高频词，按 3–4 个词根 + 1–2 个主题分组。
    - 不能和 `used_words.txt`（本站已用）重复——脚本会报错。
    - 尽量避开播客已讲过的词 `/workspace/toeic_podcast/used_words.txt`——脚本会给出警告（允许，但优先新词）。
-2. **写数据**：复制 `scripts/day_template.json` 为 `data/day2.json`，`"day": 2`、`"date": "YYYY-MM-DD"`。每个词：
+2. **写数据**：复制 `scripts/day_template.json` 为 `data/day2.json`，`"day": 2`、`"date"` 可留空占位——构建时自动改为真实发布日（Asia/Tokyo，取首次提交 dayN.html 的日期，未提交则为当天）。每个词：
    | 字段 | 说明 |
    |---|---|
    | `w`, `pos`, `ipa` | 单词、词性（`v.` `n.` `adj.` `adv.` `n./v.`）、美式 IPA（`/.../`，与 toeic800 同一套符号：ɝ ɚ ɑ ɔ oʊ eɪ） |

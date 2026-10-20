@@ -49,6 +49,22 @@ def words_of(day):
     return [w for g in day["groups"] for w in g["words"]]
 
 
+def publish_date(n):
+    """Actual publish date (Asia/Tokyo) of day n: the JST date of the git commit that first
+    added dayN.html; if not yet committed, today's date in Asia/Tokyo (the daily build)."""
+    import datetime as dt, subprocess, os
+    try:
+        out = subprocess.run(["git", "log", "--diff-filter=A", "--format=%ad", "--date=format-local:%Y-%m-%d",
+                              "--", f"day{n}.html"], cwd=ROOT, capture_output=True, text=True,
+                             env={**os.environ, "TZ": "Asia/Tokyo"}).stdout.split()
+        if out:
+            return out[-1]
+    except Exception:
+        pass
+    from zoneinfo import ZoneInfo
+    return dt.datetime.now(ZoneInfo("Asia/Tokyo")).date().isoformat()
+
+
 def load_day(n):
     p = DATA / f"day{n}.json"
     if not p.exists():
@@ -420,6 +436,15 @@ def main():
         sys.exit("no data/dayN.json files")
     targets = nums if a.all or a.day is None else [a.day]
     days = {n: load_day(n) for n in nums}
+    for n in nums:  # dates = real publish dates, never a fixed sequence
+        pd = publish_date(n)
+        if days[n].get("date") != pd:
+            print(f"day{n}: date {days[n].get('date')} -> {pd}")
+            days[n]["date"] = pd
+            fp = DATA / f"day{n}.json"
+            raw = json.loads(fp.read_text(encoding="utf-8"))
+            raw["date"] = pd
+            fp.write_text(json.dumps(raw, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
     bad = False
     for n in targets:
         if n not in days:
