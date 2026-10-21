@@ -1,0 +1,2491 @@
+{
+ "day": 19,
+ "date": "2026-10-22",
+ "title_zh": "四大词根 + 社区公益志愿与汽车保养维修",
+ "title_ja": "4つの語根＋地域貢献・ボランティアと自動車の整備・修理",
+ "intro_zh": "今天掌握 4 个高频词根（serv 保持、看守 / mod 尺度、方式 / jus·jur·jud 法、正当 / fus·fund 倒、熔化），再学社区公益与志愿活动、汽车保养与维修的核心词——强化 Part 5 搭配和易混词（refuse to do、confuse A with B、apologize profusely、do justice to、raise awareness of、conservative estimate、confusing / confused）、Part 4 募捐活动广播，以及 Part 7 停车通知、报销规定和节日休息公告（in observance of）。",
+ "intro_ja": "今日は語根 4 つ（serv 保つ・見守る／mod 尺度・やり方／jus·jur·jud 法・正しい／fus·fund 注ぐ・溶かす）と、地域貢献・ボランティア活動、自動車の整備・修理の重要語を学びます。Part 5 の語法・紛らわしい語（refuse to do、confuse A with B、apologize profusely、do justice to、raise awareness of、conservative estimate、confusing / confused）、Part 4 の募金イベントの案内、Part 7 の駐車場のお知らせ・経費規定・祝日休業のお知らせ（in observance of）を強化します。",
+ "voice": "en-US-AriaNeural",
+ "roots": [
+  {
+   "root": "-serv-",
+   "origin": "Latin servare",
+   "zh": "保持；看守",
+   "ja": "保つ；見守る",
+   "exp_zh": "来自拉丁语 servare（保持、看守）。re-“往回、留下” + servare → reserve“留着 → 预订、保留”；pre-“预先” → preserve“预先护住 → 保护、保存”，preservation；ob-“朝向” → observe“盯着看 → 观察、遵守”，observation、observant、observance；con-“完全” → conserve（本站已学）、conservation“节约、保护”、conservative“想保持原状 → 保守的”。⚠️ serve、service、servant 来自另一个拉丁词 servire（服侍）；deserve（de- + servire“好好服侍 → 应得”）也属于 servire，不是 servare，虽然拼写一样，但词源不同。",
+   "exp_ja": "ラテン語 servare（保つ・見張る）から。re-「後ろに・残して」+ servare → reserve「取っておく → 予約する」。pre-「前もって」→ preserve「前もって守る → 保存する」、preservation。ob-「〜に向かって」→ observe「見守る → 観察する・守る」、observation、observant、observance。con-「完全に」→ conserve（既習）、conservation「節約・保全」、conservative「現状を保とうとする → 保守的な」。⚠️ serve・service・servant は別のラテン語 servire（仕える）から。deserve（de- + servire「よく仕える → 値する」）も servire の仲間で servare ではない。つづりは同じでも語源が違う。",
+   "examples": [
+    "reserve",
+    "preserve",
+    "preservation",
+    "observe",
+    "observation",
+    "observant",
+    "conservation",
+    "conservative"
+   ]
+  },
+  {
+   "root": "-mod-",
+   "origin": "Latin modus",
+   "zh": "尺度；方式",
+   "ja": "尺度；やり方",
+   "exp_zh": "来自拉丁语 modus（尺度、方式）。modus + facere“做” → modify“调整尺度 → 修改”；moderari“控制在尺度内” → moderate“适度的”；modestus“守分寸” → modest“不大的、谦虚的”。指小词 modulus“小尺度” → module、modular、model。法语 mode“样式” → mode、outmoded“过时的”。modo“恰好此刻” → modern、modernize。本站学过的 accommodate（使适合 → 容纳）、commodity（合用的东西 → 商品）也属于这个家族。⚠️ mood（心情）是本族词，和 mode 不同源。",
+   "exp_ja": "ラテン語 modus（尺度・やり方）から。modus + facere「する」→ modify「加減する → 修正する」。moderari「限度内に抑える」→ moderate「適度な」。modestus「節度のある」→ modest「ささやかな・謙虚な」。指小語 modulus「小さな尺度」→ module、modular、model。フランス語 mode「様式」→ mode、outmoded「時代遅れの」。modo「ちょうど今」→ modern、modernize。既習の accommodate（合わせる → 収容する）、commodity（役立つもの → 商品）も同じ仲間。⚠️ mood（気分）は本来の英語で mode とは別語源。",
+   "examples": [
+    "modify",
+    "moderate",
+    "modest",
+    "modular",
+    "outmoded",
+    "modernize",
+    "mode",
+    "model"
+   ]
+  },
+  {
+   "root": "-jus- / -jur- / -jud-",
+   "origin": "Latin jus, juris; justus; judex",
+   "zh": "法；正当",
+   "ja": "法；正しい",
+   "exp_zh": "来自拉丁语 jus（属格 juris：法、权利），形容词 justus“正当的”。justus + facere → justify“使正当 → 证明合理”，justification、justifiable；justitia → justice。in-“不” + juria → injury“不正当的事 → 伤害”。jurare“（依法）发誓” → jury“陪审团、评审团”、juror。jus + dicere“说”（Day 2 的 dict）→ judex“法官”、judicium“判断” → judge、judgment、prejudice“预先判断 → 偏见”。本站学过的 jurisdiction（管辖权）也属于这个家族。⚠️ adjust 来自古法语 ajouster，源于拉丁语 juxta“靠近”，只是后来被联想成 just，不同源。",
+   "exp_ja": "ラテン語 jus（属格 juris：法・権利）、形容詞 justus「正しい」から。justus + facere → justify「正しいとする → 正当化する」、justification、justifiable。justitia → justice。in-「〜でない」+ juria → injury「不正なこと → 害・けが」。jurare「（法にかけて）誓う」→ jury「陪審・審査員団」、juror。jus + dicere「言う」（Day 2 の dict）→ judex「裁判官」、judicium「判断」→ judge、judgment、prejudice「前もっての判断 → 偏見」。既習の jurisdiction（管轄）も同じ仲間。⚠️ adjust は古フランス語 ajouster（ラテン語 juxta「近くに」）から来ており、後から just と結びつけられただけで別語源。",
+   "examples": [
+    "justify",
+    "justification",
+    "justifiable",
+    "justice",
+    "injury",
+    "jury",
+    "prejudice",
+    "judgment"
+   ]
+  },
+  {
+   "root": "-fus- / -fund-",
+   "origin": "Latin fundere, fusus",
+   "zh": "倒；浇；熔化",
+   "ja": "注ぐ；溶かす",
+   "exp_zh": "来自拉丁语 fundere（倒、浇、熔化），过去分词 fusus。re-“往回” → refund“倒回去 → 退款”（本站已学），一般认为 refuse“推回去 → 拒绝”、refusal 也来自 refundere；con-“一起” → confuse、confusion“倒在一起 → 混乱”；in-“向内” → infuse“注入”；dis-（dif-）“四散” → diffuse“扩散”；pro-“向外” → profuse(ly)“大量涌出”；fusion“熔化 → 融合”。⚠️ fund（资金）、fundamental（基本的）来自 fundus“底部”，与 fundere 不同源——refund 看起来像 re + fund，其实属于 fundere。⚠️ defuse 里的 fuse“引信”来自 fusus“纺锤”，也不是这个词根。",
+   "exp_ja": "ラテン語 fundere（注ぐ・溶かす）、過去分詞 fusus から。re-「戻して」→ refund「注ぎ返す → 払い戻す」（既習）。refuse「突き返す → 断る」・refusal も一般に refundere 由来とされる。con-「共に」→ confuse・confusion「一緒に注ぐ → 混乱」。in-「中へ」→ infuse「注ぎ込む」。dis-（dif-）「四方へ」→ diffuse「拡散する」。pro-「外へ」→ profuse(ly)「あふれ出るほど」。fusion「溶けること → 融合」。⚠️ fund（資金）・fundamental（基本的な）は fundus「底」から来ており、fundere とは別語源。refund は re + fund に見えるが実は fundere の仲間。⚠️ defuse の fuse「信管」は fusus「紡錘」から来ており、この語根ではない。",
+   "examples": [
+    "refuse",
+    "refusal",
+    "confuse",
+    "confusion",
+    "infuse",
+    "diffuse",
+    "profusely",
+    "fusion"
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "serv",
+   "title_zh": "词根 -serv-：保持、看守",
+   "title_ja": "語根 -serv-：保つ・見守る",
+   "words": [
+    {
+     "w": "reserve",
+     "pos": "v./n.",
+     "ipa": "/rɪˈzɝv/",
+     "zh": "预订；保留；（n.）储备",
+     "ja": "予約する；取っておく；（名）蓄え",
+     "ex": "We have reserved the main conference room for Thursday's client meeting.",
+     "ex_zh": "我们已经预订了周四客户会议要用的大会议室。",
+     "ex_ja": "木曜日の顧客との会議のために大会議室を予約しました。",
+     "parts": [
+      [
+       "re-",
+       "往回；留下",
+       "後ろに；残して"
+      ],
+      [
+       "serv",
+       "保持；看守",
+       "保つ；見守る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 reservare“留着、保留”：re-“往回” + servare“保持”。",
+      "ja": "ラテン語 reservare「取っておく」：re-「後ろに」+ servare「保つ」。"
+     },
+     "forms": [
+      [
+       "reservation (n.)",
+       "预订",
+       "予約"
+      ],
+      [
+       "reserve the right to do",
+       "保留……的权利",
+       "〜する権利を有する"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7 条款常见 We reserve the right to change prices without notice.（保留不经通知调价的权利）。",
+      "ja": "Part 7 の規約に We reserve the right to ...（〜する権利を有する）がよく出る。"
+     },
+     "hl": "reserved"
+    },
+    {
+     "w": "preserve",
+     "pos": "v.",
+     "ipa": "/prɪˈzɝv/",
+     "zh": "保护；保存；维持",
+     "ja": "保護する；保存する；維持する",
+     "ex": "The city council voted to preserve the historic train station.",
+     "ex_zh": "市议会投票决定保护这座历史悠久的火车站。",
+     "ex_ja": "市議会は歴史ある駅舎を保存することを決議しました。",
+     "parts": [
+      [
+       "pre-",
+       "预先",
+       "前もって"
+      ],
+      [
+       "serv",
+       "保持；看守",
+       "保つ；見守る"
+      ]
+     ],
+     "note": {
+      "zh": "中世纪拉丁语 praeservare“预先保护”：prae-“预先” + servare“保持”。",
+      "ja": "中世ラテン語 praeservare「前もって守る」：prae-「前もって」+ servare「保つ」。"
+     },
+     "forms": [
+      [
+       "preservative (n.)",
+       "防腐剂",
+       "保存料"
+      ],
+      [
+       "well-preserved (adj.)",
+       "保存完好的",
+       "保存状態のよい"
+      ]
+     ]
+    },
+    {
+     "w": "preservation",
+     "pos": "n.",
+     "ipa": "/ˌprɛzɚˈveɪʃən/",
+     "zh": "保护；保存",
+     "ja": "保護；保存",
+     "ex": "The foundation provides grants for the preservation of local landmarks.",
+     "ex_zh": "该基金会为保护当地地标提供资助。",
+     "ex_ja": "その財団は地元の名所の保存のために助成金を出しています。",
+     "parts": [
+      [
+       "pre-",
+       "预先",
+       "前もって"
+      ],
+      [
+       "serv",
+       "保持；看守",
+       "保つ；見守る"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "preserve + -ation。",
+      "ja": "preserve + -ation。"
+     },
+     "forms": [
+      [
+       "historic preservation",
+       "历史建筑保护",
+       "歴史的建造物の保存"
+      ],
+      [
+       "food preservation",
+       "食品保存",
+       "食品の保存"
+      ]
+     ]
+    },
+    {
+     "w": "observe",
+     "pos": "v.",
+     "ipa": "/əbˈzɝv/",
+     "zh": "观察；注意到；遵守（规则）；庆祝（节日）",
+     "ja": "観察する；気づく；（規則を）守る；（祝日を）祝う",
+     "ex": "All visitors must observe the safety regulations while on the factory floor.",
+     "ex_zh": "所有参观者在工厂车间内必须遵守安全规定。",
+     "ex_ja": "工場の作業場内では、すべての見学者が安全規則を守らなければなりません。",
+     "parts": [
+      [
+       "ob-",
+       "朝向",
+       "〜に向かって"
+      ],
+      [
+       "serv",
+       "保持；看守",
+       "保つ；見守る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 observare“注视、遵守”：ob-“朝向” + servare“看守”。",
+      "ja": "ラテン語 observare「見守る・守る」：ob-「〜に向かって」+ servare「見張る」。"
+     },
+     "forms": [
+      [
+       "observer (n.)",
+       "观察员",
+       "オブザーバー"
+      ],
+      [
+       "observe a holiday",
+       "过节；按节日休息",
+       "祝日を守る"
+      ]
+     ],
+     "tip": {
+      "zh": "observe 在 Part 5 常等于 follow / comply with（遵守），不只是“观察”。",
+      "ja": "Part 5 では observe ＝ follow / comply with（守る）の意味がよく出る。"
+     }
+    },
+    {
+     "w": "observation",
+     "pos": "n.",
+     "ipa": "/ˌɑbzɚˈveɪʃən/",
+     "zh": "观察；意见；评论",
+     "ja": "観察；所見；意見",
+     "ex": "The consultant shared her observations after visiting all three branches.",
+     "ex_zh": "顾问在走访三家分店后分享了她的观察和意见。",
+     "ex_ja": "コンサルタントは 3 支店すべてを訪問した後、所見を共有しました。",
+     "parts": [
+      [
+       "ob-",
+       "朝向",
+       "〜に向かって"
+      ],
+      [
+       "serv",
+       "保持；看守",
+       "保つ；見守る"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "observe + -ation。",
+      "ja": "observe + -ation。"
+     },
+     "forms": [
+      [
+       "make an observation",
+       "发表看法",
+       "意見を述べる"
+      ],
+      [
+       "under observation",
+       "处于观察中",
+       "経過観察中で"
+      ]
+     ],
+     "hl": "observations"
+    },
+    {
+     "w": "observant",
+     "pos": "adj.",
+     "ipa": "/əbˈzɝvənt/",
+     "zh": "观察敏锐的；遵守（规则）的",
+     "ja": "観察力の鋭い；（規則を）よく守る",
+     "ex": "An observant employee noticed the error before the invoices were mailed.",
+     "ex_zh": "一位细心的员工在发票寄出之前发现了错误。",
+     "ex_ja": "観察力の鋭い社員が、請求書が郵送される前に誤りに気づきました。",
+     "parts": [
+      [
+       "ob-",
+       "朝向",
+       "〜に向かって"
+      ],
+      [
+       "serv",
+       "保持；看守",
+       "保つ；見守る"
+      ],
+      [
+       "-ant",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "observe + -ant。",
+      "ja": "observe + -ant。"
+     },
+     "forms": [
+      [
+       "observance (n.)",
+       "遵守；纪念仪式",
+       "順守；祝祭の行事"
+      ],
+      [
+       "in observance of",
+       "为纪念……",
+       "〜を記念して"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7 通知常见 The office will be closed in observance of the national holiday.（因国定假日休息）。",
+      "ja": "Part 7 のお知らせに closed in observance of the national holiday（祝日のため休業）がよく出る。"
+     }
+    },
+    {
+     "w": "conservation",
+     "pos": "n.",
+     "ipa": "/ˌkɑnsɚˈveɪʃən/",
+     "zh": "节约；（自然、能源的）保护",
+     "ja": "節約；保全；保護",
+     "ex": "The company launched an energy conservation program in all of its offices.",
+     "ex_zh": "公司在所有办公室启动了节能计划。",
+     "ex_ja": "会社は全オフィスで省エネプログラムを開始しました。",
+     "parts": [
+      [
+       "con-",
+       "完全",
+       "完全に"
+      ],
+      [
+       "serv",
+       "保持；看守",
+       "保つ；見守る"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 conservatio，来自 conservare“完全保持”。本站已学过的 conserve 同源。",
+      "ja": "ラテン語 conservatio。conservare「しっかり保つ」から。既習の conserve と同語源。"
+     },
+     "forms": [
+      [
+       "energy conservation",
+       "节能",
+       "省エネ"
+      ],
+      [
+       "conservationist (n.)",
+       "自然保护主义者",
+       "自然保護活動家"
+      ]
+     ]
+    },
+    {
+     "w": "conservative",
+     "pos": "adj./n.",
+     "ipa": "/kənˈsɝvətɪv/",
+     "zh": "保守的；（估计）偏低的、稳妥的",
+     "ja": "保守的な；控えめな",
+     "ex": "Even by conservative estimates, the new store will double our sales in the region.",
+     "ex_zh": "即使按保守估计，新店也会让我们在该地区的销售额翻一番。",
+     "ex_ja": "控えめに見積もっても、新店舗でこの地域の売上は倍増するでしょう。",
+     "parts": [
+      [
+       "con-",
+       "完全",
+       "完全に"
+      ],
+      [
+       "serv",
+       "保持；看守",
+       "保つ；見守る"
+      ],
+      [
+       "-ative",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "conserve + -ative“倾向于保持原状的”。",
+      "ja": "conserve + -ative「現状を保とうとする」。"
+     },
+     "forms": [
+      [
+       "conservative estimate",
+       "保守估计",
+       "控えめな見積もり"
+      ],
+      [
+       "conservatively (adv.)",
+       "保守地",
+       "控えめに"
+      ]
+     ],
+     "tip": {
+      "zh": "a conservative estimate = 数字往低处估；Part 7 同义替换题常对应 cautious。",
+      "ja": "a conservative estimate は「低めの見積もり」。Part 7 では cautious と言い換えられることがある。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "mod",
+   "title_zh": "词根 -mod-：尺度、方式",
+   "title_ja": "語根 -mod-：尺度・やり方",
+   "words": [
+    {
+     "w": "modify",
+     "pos": "v.",
+     "ipa": "/ˈmɑdəˌfaɪ/",
+     "zh": "修改；调整",
+     "ja": "修正する；変更する",
+     "ex": "We modified the floor plan to add two more meeting rooms.",
+     "ex_zh": "我们修改了平面图，多加了两间会议室。",
+     "ex_ja": "会議室を 2 つ増やすために間取り図を修正しました。",
+     "parts": [
+      [
+       "mod",
+       "尺度；方式",
+       "尺度；やり方"
+      ],
+      [
+       "-ify",
+       "使……",
+       "〜にする"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 modificare“限定、调节”：modus“尺度” + facere“做”。",
+      "ja": "ラテン語 modificare「加減する」：modus「尺度」+ facere「する」。"
+     },
+     "forms": [
+      [
+       "modification (n.)",
+       "修改",
+       "修正"
+      ],
+      [
+       "slightly modified",
+       "稍作修改的",
+       "少し手を加えた"
+      ]
+     ],
+     "hl": "modified"
+    },
+    {
+     "w": "moderate",
+     "pos": "adj./v.",
+     "ipa": "/ˈmɑdɚət/",
+     "zh": "适度的；中等的；（v.）主持（讨论）",
+     "ja": "適度な；中程度の；（動）司会する",
+     "ex": "The hotel offers comfortable rooms at moderate prices.",
+     "ex_zh": "这家酒店以适中的价格提供舒适的客房。",
+     "ex_ja": "そのホテルは手頃な価格で快適な部屋を提供しています。",
+     "parts": [
+      [
+       "mod",
+       "尺度；方式",
+       "尺度；やり方"
+      ],
+      [
+       "-ate",
+       "形容词 / 动词后缀",
+       "形容詞・動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 moderari“控制在限度内”，与 modus“尺度”同源。",
+      "ja": "ラテン語 moderari「限度内に抑える」。modus「尺度」と同語源。"
+     },
+     "forms": [
+      [
+       "moderate prices",
+       "适中的价格",
+       "手頃な価格"
+      ],
+      [
+       "moderator (n.)",
+       "主持人",
+       "司会者"
+      ]
+     ],
+     "tip": {
+      "zh": "形容词读 /ˈmɑdɚət/，动词“主持”读 /ˈmɑdəˌreɪt/。",
+      "ja": "形容詞は /ˈmɑdɚət/、動詞「司会する」は /ˈmɑdəˌreɪt/。"
+     }
+    },
+    {
+     "w": "modest",
+     "pos": "adj.",
+     "ipa": "/ˈmɑdəst/",
+     "zh": "不大的；适度的；谦虚的",
+     "ja": "ささやかな；控えめな；謙虚な",
+     "ex": "Sales showed a modest increase of three percent in the second quarter.",
+     "ex_zh": "第二季度销售额小幅增长了 3%。",
+     "ex_ja": "第 2 四半期の売上は 3％の小幅な増加を示しました。",
+     "parts": [
+      [
+       "mod",
+       "尺度；方式",
+       "尺度；やり方"
+      ],
+      [
+       "-est",
+       "形容词词尾（拉丁语 -estus）",
+       "形容詞語尾（ラテン語 -estus）"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 modestus“守分寸的”，来自 modus“尺度”。这里的 -est 不是最高级。",
+      "ja": "ラテン語 modestus「節度のある」。modus「尺度」から。-est は最上級ではない。"
+     },
+     "forms": [
+      [
+       "modestly (adv.)",
+       "适度地；谦虚地",
+       "控えめに"
+      ],
+      [
+       "a modest fee",
+       "少量费用",
+       "わずかな料金"
+      ]
+     ],
+     "tip": {
+      "zh": "a modest increase = a slight increase（小幅增长），Part 7 图表题常见。",
+      "ja": "a modest increase ＝ a slight increase（小幅な増加）。Part 7 のグラフ問題で頻出。"
+     }
+    },
+    {
+     "w": "modular",
+     "pos": "adj.",
+     "ipa": "/ˈmɑdʒəlɚ/",
+     "zh": "模块化的；组合式的",
+     "ja": "モジュール式の；組み立て式の",
+     "ex": "The modular furniture can be rearranged easily as the team grows.",
+     "ex_zh": "随着团队扩大，这套组合式家具可以轻松重新摆放。",
+     "ex_ja": "チームが大きくなっても、このモジュール式家具は簡単に配置換えできます。",
+     "parts": [
+      [
+       "mod",
+       "尺度；方式",
+       "尺度；やり方"
+      ],
+      [
+       "-ule",
+       "小",
+       "小さい"
+      ],
+      [
+       "-ar",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "module 来自拉丁语 modulus“小尺度”（modus 的指小词）。",
+      "ja": "module はラテン語 modulus「小さな尺度」（modus の指小語）から。"
+     },
+     "forms": [
+      [
+       "module (n.)",
+       "模块；单元",
+       "モジュール；単元"
+      ],
+      [
+       "modular design",
+       "模块化设计",
+       "モジュール設計"
+      ]
+     ]
+    },
+    {
+     "w": "outmoded",
+     "pos": "adj.",
+     "ipa": "/aʊtˈmoʊdɪd/",
+     "zh": "过时的；老式的",
+     "ja": "時代遅れの",
+     "ex": "The bank plans to replace its outmoded computer systems next year.",
+     "ex_zh": "这家银行计划明年更换过时的电脑系统。",
+     "ex_ja": "その銀行は来年、時代遅れのコンピューターシステムを入れ替える予定です。",
+     "parts": [
+      [
+       "out-",
+       "超出",
+       "外れて"
+      ],
+      [
+       "mod",
+       "方式；样式",
+       "やり方；様式"
+      ],
+      [
+       "-ed",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "out“出局” + mode“流行样式”（法语 mode，来自拉丁语 modus）+ -ed。",
+      "ja": "out「外れた」+ mode「流行の様式」（フランス語 mode、ラテン語 modus から）+ -ed。"
+     },
+     "forms": [
+      [
+       "outdated (adj.)",
+       "过时的（同义）",
+       "時代遅れの（同義）"
+      ],
+      [
+       "out of date",
+       "过时",
+       "古くなって"
+      ]
+     ]
+    },
+    {
+     "w": "modernize",
+     "pos": "v.",
+     "ipa": "/ˈmɑdɚˌnaɪz/",
+     "zh": "使现代化；更新改造",
+     "ja": "近代化する；刷新する",
+     "ex": "The factory received a government grant to modernize its production line.",
+     "ex_zh": "工厂获得政府补助来更新改造生产线。",
+     "ex_ja": "工場は生産ラインを近代化するための政府補助金を受けました。",
+     "parts": [
+      [
+       "mod",
+       "尺度；方式",
+       "尺度；やり方"
+      ],
+      [
+       "-ern",
+       "形容词词尾",
+       "形容詞語尾"
+      ],
+      [
+       "-ize",
+       "使……化",
+       "〜化する"
+      ]
+     ],
+     "note": {
+      "zh": "modern 来自晚期拉丁语 modernus，源于 modo“恰好、就在此刻”（modus 的夺格）。",
+      "ja": "modern は後期ラテン語 modernus から。modo「ちょうど今」（modus の奪格）に由来。"
+     },
+     "forms": [
+      [
+       "modernization (n.)",
+       "现代化",
+       "近代化"
+      ],
+      [
+       "modern (adj.)",
+       "现代的",
+       "現代の"
+      ]
+     ]
+    },
+    {
+     "w": "mode",
+     "pos": "n.",
+     "ipa": "/moʊd/",
+     "zh": "方式；模式",
+     "ja": "方式；モード",
+     "ex": "Rail is still the most popular mode of transportation for commuters in the city.",
+     "ex_zh": "对这座城市的通勤者来说，铁路仍是最受欢迎的交通方式。",
+     "ex_ja": "この街の通勤者にとって、鉄道は今も最も人気のある交通手段です。",
+     "parts": [
+      [
+       "mod",
+       "尺度；方式",
+       "尺度；やり方"
+      ]
+     ],
+     "note": {
+      "zh": "法语 mode，来自拉丁语 modus“方式、尺度”。",
+      "ja": "フランス語 mode。ラテン語 modus「方式・尺度」から。"
+     },
+     "forms": [
+      [
+       "mode of transportation",
+       "交通方式",
+       "交通手段"
+      ],
+      [
+       "mode of payment",
+       "付款方式",
+       "支払い方法"
+      ]
+     ],
+     "tip": {
+      "zh": "⚠️ mood（心情）是本族词，和 mode 不同源。",
+      "ja": "⚠️ mood（気分）は本来の英語で、mode とは別語源。"
+     }
+    },
+    {
+     "w": "model",
+     "pos": "n./v.",
+     "ipa": "/ˈmɑdəl/",
+     "zh": "型号；模型；榜样；（v.）以……为模型",
+     "ja": "機種・型；模型；手本；（動）〜を手本にする",
+     "ex": "The latest model of our printer uses 30 percent less energy.",
+     "ex_zh": "我们最新型号的打印机节能 30%。",
+     "ex_ja": "当社のプリンターの最新機種は消費電力が 30％少なくなっています。",
+     "parts": [
+      [
+       "mod",
+       "尺度；方式",
+       "尺度；やり方"
+      ],
+      [
+       "-el",
+       "指小后缀",
+       "指小辞"
+      ]
+     ],
+     "note": {
+      "zh": "经意大利语 modello，来自拉丁语 modulus“小尺度”。",
+      "ja": "イタリア語 modello を経て、ラテン語 modulus「小さな尺度」から。"
+     },
+     "forms": [
+      [
+       "role model",
+       "榜样",
+       "手本となる人"
+      ],
+      [
+       "be modeled on",
+       "以……为模板",
+       "〜を手本にしている"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "jus",
+   "title_zh": "词根 -jus- / -jur- / -jud-：法、正当",
+   "title_ja": "語根 -jus- / -jur- / -jud-：法・正しい",
+   "words": [
+    {
+     "w": "justify",
+     "pos": "v.",
+     "ipa": "/ˈdʒʌstəˌfaɪ/",
+     "zh": "证明……合理；为……辩护",
+     "ja": "正当化する；正当性を示す",
+     "ex": "The manager had to justify the extra expense to the finance department.",
+     "ex_zh": "经理必须向财务部说明这笔额外开支的合理性。",
+     "ex_ja": "部長は追加の出費が正当であることを経理部に説明しなければなりませんでした。",
+     "parts": [
+      [
+       "just",
+       "正当；法",
+       "正しい；法"
+      ],
+      [
+       "-ify",
+       "使……",
+       "〜にする"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 justificare“使正当”：justus“正当的” + facere“做”。",
+      "ja": "ラテン語 justificare「正しいとする」：justus「正しい」+ facere「する」。"
+     },
+     "forms": [
+      [
+       "justified (adj.)",
+       "有正当理由的",
+       "正当な"
+      ],
+      [
+       "justify doing",
+       "证明做……是合理的",
+       "〜することを正当化する"
+      ]
+     ]
+    },
+    {
+     "w": "justification",
+     "pos": "n.",
+     "ipa": "/ˌdʒʌstəfəˈkeɪʃən/",
+     "zh": "正当理由；辩护",
+     "ja": "正当な理由；正当化",
+     "ex": "Please include a brief justification with every budget request.",
+     "ex_zh": "每份预算申请请附上简要的理由说明。",
+     "ex_ja": "予算申請にはすべて、簡潔な理由を添えてください。",
+     "parts": [
+      [
+       "just",
+       "正当；法",
+       "正しい；法"
+      ],
+      [
+       "-ific",
+       "做（facere）",
+       "する（facere）"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "justify + -ation。",
+      "ja": "justify + -ation。"
+     },
+     "forms": [
+      [
+       "without justification",
+       "无正当理由",
+       "正当な理由なく"
+      ],
+      [
+       "provide justification for",
+       "为……提供理由",
+       "〜の根拠を示す"
+      ]
+     ]
+    },
+    {
+     "w": "justifiable",
+     "pos": "adj.",
+     "ipa": "/ˈdʒʌstəˌfaɪəbəl/",
+     "zh": "有道理的；情有可原的",
+     "ja": "正当と認められる；もっともな",
+     "ex": "The delay was justifiable given the severe weather conditions.",
+     "ex_zh": "考虑到恶劣的天气状况，这次延误情有可原。",
+     "ex_ja": "厳しい天候を考えれば、その遅れはやむを得ないものでした。",
+     "parts": [
+      [
+       "just",
+       "正当；法",
+       "正しい；法"
+      ],
+      [
+       "-ifi",
+       "做（facere）",
+       "する（facere）"
+      ],
+      [
+       "-able",
+       "可……的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "justify + -able。",
+      "ja": "justify + -able。"
+     },
+     "forms": [
+      [
+       "justifiably (adv.)",
+       "有理由地",
+       "正当に"
+      ],
+      [
+       "unjustifiable (adj.)",
+       "无法辩护的",
+       "正当化できない"
+      ]
+     ]
+    },
+    {
+     "w": "justice",
+     "pos": "n.",
+     "ipa": "/ˈdʒʌstəs/",
+     "zh": "公正；司法",
+     "ja": "公正；司法",
+     "ex": "The photograph does not do justice to the hotel's beautiful ocean view.",
+     "ex_zh": "这张照片没能充分展现酒店美丽的海景。",
+     "ex_ja": "この写真ではホテルの美しい海の眺めが十分に伝わりません。",
+     "parts": [
+      [
+       "just",
+       "正当；法",
+       "正しい；法"
+      ],
+      [
+       "-ice",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 justitia“公正”，来自 justus“正当的”。",
+      "ja": "ラテン語 justitia「正義」。justus「正しい」から。"
+     },
+     "forms": [
+      [
+       "do justice to",
+       "充分展现；公正对待",
+       "〜を正当に表す"
+      ],
+      [
+       "Department of Justice",
+       "司法部",
+       "司法省"
+      ]
+     ],
+     "tip": {
+      "zh": "do (not) do justice to ～ = （没能）如实展现……的好，常见于评论和广告。",
+      "ja": "do (not) do justice to ～ は「〜の良さを（十分に）表して（いない）」。レビューや広告で見かける。"
+     }
+    },
+    {
+     "w": "injury",
+     "pos": "n.",
+     "ipa": "/ˈɪndʒɚi/",
+     "zh": "伤害；受伤；损害",
+     "ja": "けが；損害",
+     "ex": "Employees must report any workplace injury to their supervisor immediately.",
+     "ex_zh": "员工必须立即向主管报告任何工伤。",
+     "ex_ja": "従業員は職場でのけがを直ちに上司に報告しなければなりません。",
+     "parts": [
+      [
+       "in-",
+       "不",
+       "〜でない"
+      ],
+      [
+       "jur",
+       "法；权利",
+       "法；権利"
+      ],
+      [
+       "-y",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 injuria“不正当的行为 → 伤害”：in-“不” + jus（属格 juris）“权利、法”。",
+      "ja": "ラテン語 injuria「不正な行為 → 害」：in-「〜でない」+ jus（属格 juris）「権利・法」。"
+     },
+     "forms": [
+      [
+       "injure (v.)",
+       "使受伤",
+       "けがをさせる"
+      ],
+      [
+       "injured (adj.)",
+       "受伤的",
+       "けがをした"
+      ]
+     ]
+    },
+    {
+     "w": "jury",
+     "pos": "n.",
+     "ipa": "/ˈdʒʊri/",
+     "zh": "陪审团；（比赛）评审团",
+     "ja": "陪審；審査員団",
+     "ex": "A jury of five designers will select the winning logo for the campaign.",
+     "ex_zh": "由五位设计师组成的评审团将选出这次活动的获奖标志。",
+     "ex_ja": "5 人のデザイナーによる審査員団がキャンペーンの受賞ロゴを選びます。",
+     "parts": [
+      [
+       "jur",
+       "发誓；法",
+       "誓う；法"
+      ],
+      [
+       "-y",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "盎格鲁法语 juree“誓言、宣誓调查”，来自拉丁语 jurare“发誓”（jus“法”）。",
+      "ja": "アングロ・フランス語 juree「誓い・宣誓による審理」。ラテン語 jurare「誓う」（jus「法」）から。"
+     },
+     "forms": [
+      [
+       "juror (n.)",
+       "陪审员；评委",
+       "陪審員；審査員"
+      ],
+      [
+       "jury duty",
+       "陪审义务",
+       "陪審義務"
+      ]
+     ],
+     "tip": {
+      "zh": "TOEIC 里多是“比赛评审团”；jury duty 也常作请假理由出现在 Part 3。",
+      "ja": "TOEIC では「コンテストの審査員団」の意味が多い。jury duty は Part 3 の休暇理由としても出る。"
+     }
+    },
+    {
+     "w": "prejudice",
+     "pos": "n.",
+     "ipa": "/ˈprɛdʒədəs/",
+     "zh": "偏见；成见",
+     "ja": "偏見；先入観",
+     "ex": "The hiring panel must evaluate every candidate without prejudice.",
+     "ex_zh": "招聘小组必须毫无偏见地评估每一位候选人。",
+     "ex_ja": "採用委員会はすべての候補者を偏見なく評価しなければなりません。",
+     "parts": [
+      [
+       "pre-",
+       "预先",
+       "前もって"
+      ],
+      [
+       "jud",
+       "判断；法",
+       "判断；法"
+      ],
+      [
+       "-ice",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 praejudicium“预先判断”：prae-“预先” + judicium“判断”（jus“法” + dicere“说”，Day 2 的 dict）。",
+      "ja": "ラテン語 praejudicium「前もっての判断」：prae-「前もって」+ judicium「判断」（jus「法」+ dicere「言う」、Day 2 の dict）。"
+     },
+     "forms": [
+      [
+       "prejudiced (adj.)",
+       "有偏见的",
+       "偏見を持った"
+      ],
+      [
+       "without prejudice",
+       "无偏见地",
+       "偏見なく"
+      ]
+     ]
+    },
+    {
+     "w": "judgment",
+     "pos": "n.",
+     "ipa": "/ˈdʒʌdʒmənt/",
+     "zh": "判断；判断力；判决",
+     "ja": "判断；判断力；判決",
+     "ex": "Use your best judgment when responding to unusual customer requests.",
+     "ex_zh": "处理不寻常的客户要求时，请做出你认为最好的判断。",
+     "ex_ja": "珍しい顧客の要望に応じるときは、あなたの最善の判断で対応してください。",
+     "parts": [
+      [
+       "jud",
+       "判断；法",
+       "判断；法"
+      ],
+      [
+       "-ment",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "judge 来自古法语 jugier，源于拉丁语 judicare：jus“法” + dicere“说”。",
+      "ja": "judge は古フランス語 jugier から。ラテン語 judicare：jus「法」+ dicere「言う」。"
+     },
+     "forms": [
+      [
+       "judge (v./n.)",
+       "判断；法官；评委",
+       "判断する；裁判官；審査員"
+      ],
+      [
+       "use your best judgment",
+       "自行酌情判断",
+       "最善と思う判断をする"
+      ]
+     ],
+     "tip": {
+      "zh": "美式拼写 judgment，英式 judgement，两种都对。",
+      "ja": "米式つづりは judgment、英式は judgement。どちらも正しい。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "fus",
+   "title_zh": "词根 -fus- / -fund-：倒、浇、熔化",
+   "title_ja": "語根 -fus- / -fund-：注ぐ・溶かす",
+   "words": [
+    {
+     "w": "refuse",
+     "pos": "v.",
+     "ipa": "/rɪˈfjuz/",
+     "zh": "拒绝",
+     "ja": "断る；拒否する",
+     "ex": "The supplier refused to lower its prices despite our large order.",
+     "ex_zh": "尽管我们下了大订单，供应商还是拒绝降价。",
+     "ex_ja": "大口注文にもかかわらず、仕入れ先は値下げを拒否しました。",
+     "parts": [
+      [
+       "re-",
+       "往回",
+       "戻して"
+      ],
+      [
+       "fus",
+       "倒；浇；熔化",
+       "注ぐ；溶かす"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 refuser，一般认为源于拉丁语 refundere“倒回去”的过去分词 refusus（拒绝 = 把东西倒回去）。",
+      "ja": "古フランス語 refuser。一般にラテン語 refundere「注ぎ返す」の過去分詞 refusus に由来するとされる（断る＝突き返す）。"
+     },
+     "forms": [
+      [
+       "refuse to do",
+       "拒绝做……",
+       "〜するのを拒む"
+      ],
+      [
+       "refuse (n.) /ˈrɛfjus/",
+       "垃圾",
+       "ごみ"
+      ]
+     ],
+     "tip": {
+      "zh": "名词 refuse 读 /ˈrɛfjus/，意思是“垃圾”（refuse collection 垃圾收集），和动词发音不同。",
+      "ja": "名詞 refuse は /ˈrɛfjus/ で「ごみ」（refuse collection＝ごみ収集）。動詞と発音が違う。"
+     },
+     "hl": "refused"
+    },
+    {
+     "w": "refusal",
+     "pos": "n.",
+     "ipa": "/rɪˈfjuzəl/",
+     "zh": "拒绝",
+     "ja": "拒否；拒絶",
+     "ex": "The client's refusal to sign the contract surprised the entire sales team.",
+     "ex_zh": "客户拒绝签合同让整个销售团队都很意外。",
+     "ex_ja": "顧客が契約書への署名を拒んだことに、営業チーム全員が驚きました。",
+     "parts": [
+      [
+       "re-",
+       "往回",
+       "戻して"
+      ],
+      [
+       "fus",
+       "倒；浇；熔化",
+       "注ぐ；溶かす"
+      ],
+      [
+       "-al",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "refuse + -al。",
+      "ja": "refuse + -al。"
+     },
+     "forms": [
+      [
+       "a flat refusal",
+       "断然拒绝",
+       "きっぱりとした拒否"
+      ],
+      [
+       "right of first refusal",
+       "优先购买权",
+       "優先交渉権"
+      ]
+     ]
+    },
+    {
+     "w": "confuse",
+     "pos": "v.",
+     "ipa": "/kənˈfjuz/",
+     "zh": "使困惑；混淆",
+     "ja": "混乱させる；混同する",
+     "ex": "Many passengers confuse Terminal A with the new Terminal A2.",
+     "ex_zh": "很多乘客会把 A 航站楼和新的 A2 航站楼搞混。",
+     "ex_ja": "多くの乗客がターミナル A と新しいターミナル A2 を混同します。",
+     "parts": [
+      [
+       "con-",
+       "一起",
+       "共に"
+      ],
+      [
+       "fus",
+       "倒；浇；熔化",
+       "注ぐ；溶かす"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 confundere“倒在一起 → 混合”，过去分词 confusus。",
+      "ja": "ラテン語 confundere「一緒に注ぐ → 混ぜる」、過去分詞 confusus。"
+     },
+     "forms": [
+      [
+       "confuse A with B",
+       "把 A 和 B 搞混",
+       "A と B を混同する"
+      ],
+      [
+       "confusing / confused (adj.)",
+       "令人困惑的 / 感到困惑的",
+       "紛らわしい／困惑した"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5 分词形容词：The instructions are confusing.（物令人困惑）/ Customers are confused.（人感到困惑）。",
+      "ja": "Part 5 の分詞形容詞：The instructions are confusing.（物が紛らわしい）／ Customers are confused.（人が困惑している）。"
+     }
+    },
+    {
+     "w": "confusion",
+     "pos": "n.",
+     "ipa": "/kənˈfjuʒən/",
+     "zh": "混乱；困惑",
+     "ja": "混乱；困惑",
+     "ex": "To avoid confusion, each package is labeled with the recipient's department.",
+     "ex_zh": "为避免混乱，每个包裹都标明了收件人的部门。",
+     "ex_ja": "混乱を避けるため、各荷物には受取人の部署が表示されています。",
+     "parts": [
+      [
+       "con-",
+       "一起",
+       "共に"
+      ],
+      [
+       "fus",
+       "倒；浇；熔化",
+       "注ぐ；溶かす"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "confuse + -ion（拉丁语 confusio）。",
+      "ja": "confuse + -ion（ラテン語 confusio）。"
+     },
+     "forms": [
+      [
+       "to avoid confusion",
+       "为避免混乱",
+       "混乱を避けるため"
+      ],
+      [
+       "cause confusion",
+       "引起混乱",
+       "混乱を招く"
+      ]
+     ]
+    },
+    {
+     "w": "infuse",
+     "pos": "v.",
+     "ipa": "/ɪnˈfjuz/",
+     "zh": "注入；使充满",
+     "ja": "注入する；吹き込む",
+     "ex": "The new director has infused the marketing team with fresh energy.",
+     "ex_zh": "新总监给营销团队注入了新的活力。",
+     "ex_ja": "新しい部長はマーケティングチームに新たな活力を吹き込みました。",
+     "parts": [
+      [
+       "in-",
+       "向内",
+       "中へ"
+      ],
+      [
+       "fus",
+       "倒；浇；熔化",
+       "注ぐ；溶かす"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 infundere“倒进去”，过去分词 infusus。",
+      "ja": "ラテン語 infundere「注ぎ込む」、過去分詞 infusus。"
+     },
+     "forms": [
+      [
+       "infuse A with B",
+       "给 A 注入 B",
+       "A に B を吹き込む"
+      ],
+      [
+       "infusion (n.)",
+       "注入；（资金）投入",
+       "注入；資金投入"
+      ]
+     ],
+     "tip": {
+      "zh": "an infusion of cash / capital = 资金注入，财经类 Part 7 常见。",
+      "ja": "an infusion of cash / capital は「資金注入」。経済記事の Part 7 で見かける。"
+     },
+     "hl": "infused"
+    },
+    {
+     "w": "diffuse",
+     "pos": "v.",
+     "ipa": "/dɪˈfjuz/",
+     "zh": "扩散；散布；传播",
+     "ja": "拡散する；広める",
+     "ex": "The new lighting system diffuses light evenly across the warehouse.",
+     "ex_zh": "新的照明系统让光线均匀地散布在整个仓库里。",
+     "ex_ja": "新しい照明システムは倉庫全体に光を均一に拡散させます。",
+     "parts": [
+      [
+       "dif-",
+       "向四处（dis- 的变体）",
+       "四方へ（dis- の変化形）"
+      ],
+      [
+       "fus",
+       "倒；浇；熔化",
+       "注ぐ；溶かす"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 diffundere“向四处倾倒”：dis-“分散”（在 f 前变成 dif-）+ fundere。",
+      "ja": "ラテン語 diffundere「四方に注ぐ」：dis-「分かれて」（f の前で dif-）+ fundere。"
+     },
+     "forms": [
+      [
+       "diffusion (n.)",
+       "扩散；传播",
+       "拡散；普及"
+      ],
+      [
+       "diffuse (adj.) /dɪˈfjus/",
+       "分散的；冗长的",
+       "散漫な"
+      ]
+     ],
+     "tip": {
+      "zh": "⚠️ defuse（拆除引信；缓和局势）是 de- + fuse“引信”，不要和 diffuse 混淆。",
+      "ja": "⚠️ defuse（信管を外す；緊張を和らげる）は de- + fuse「信管」。diffuse と混同しないこと。"
+     }
+    },
+    {
+     "w": "profusely",
+     "pos": "adv.",
+     "ipa": "/prəˈfjusli/",
+     "zh": "大量地；连连地（道歉、感谢）",
+     "ja": "大量に；しきりに",
+     "ex": "The hotel manager apologized profusely for the mistake with our booking.",
+     "ex_zh": "酒店经理为我们预订出错的事连连道歉。",
+     "ex_ja": "ホテルの支配人は予約の手違いについて平謝りしました。",
+     "parts": [
+      [
+       "pro-",
+       "向前；向外",
+       "前へ；外へ"
+      ],
+      [
+       "fus",
+       "倒；浇；熔化",
+       "注ぐ；溶かす"
+      ],
+      [
+       "-ly",
+       "副词后缀",
+       "副詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "profuse 来自拉丁语 profundere“向外倾倒”，过去分词 profusus；+ -ly。",
+      "ja": "profuse はラテン語 profundere「外へ注ぎ出す」の過去分詞 profusus から。+ -ly。"
+     },
+     "forms": [
+      [
+       "profuse (adj.)",
+       "大量的；毫不吝惜的",
+       "おびただしい"
+      ],
+      [
+       "thank someone profusely",
+       "对某人千恩万谢",
+       "しきりに礼を言う"
+      ]
+     ],
+     "tip": {
+      "zh": "固定搭配 apologize profusely（连连道歉），常见于 Part 7 致歉信。",
+      "ja": "apologize profusely（平謝りする）は Part 7 のお詫びの手紙の定番。"
+     }
+    },
+    {
+     "w": "fusion",
+     "pos": "n.",
+     "ipa": "/ˈfjuʒən/",
+     "zh": "融合；熔合",
+     "ja": "融合；溶解",
+     "ex": "The restaurant is known for its fusion of Japanese and Italian cuisine.",
+     "ex_zh": "这家餐厅以日式和意式料理的融合而闻名。",
+     "ex_ja": "そのレストランは和食とイタリア料理の融合で知られています。",
+     "parts": [
+      [
+       "fus",
+       "倒；浇；熔化",
+       "注ぐ；溶かす"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 fusio“熔化、倾倒”，来自 fundere。",
+      "ja": "ラテン語 fusio「溶かすこと・注ぐこと」。fundere から。"
+     },
+     "forms": [
+      [
+       "fusion cuisine",
+       "融合菜",
+       "創作料理（フュージョン料理）"
+      ],
+      [
+       "fuse (v.)",
+       "熔合；融合",
+       "融合させる"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "community",
+   "title_zh": "主题：社区公益与志愿活动",
+   "title_ja": "テーマ：地域貢献・ボランティア活動",
+   "words": [
+    {
+     "w": "fundraiser",
+     "pos": "n.",
+     "ipa": "/ˈfʌndˌreɪzɚ/",
+     "zh": "募捐活动；筹款人",
+     "ja": "募金イベント；資金集めをする人",
+     "ex": "The library will hold a fundraiser next Saturday to buy new children's books.",
+     "ex_zh": "图书馆下周六将举办募捐活动，用来购买新的童书。",
+     "ex_ja": "図書館は新しい児童書を買うため、来週土曜日に募金イベントを開きます。",
+     "parts": [
+      [
+       "fund",
+       "资金",
+       "資金"
+      ],
+      [
+       "raise",
+       "筹集",
+       "集める"
+      ],
+      [
+       "-er",
+       "表示人或事物",
+       "人・もの"
+      ]
+     ],
+     "note": {
+      "zh": "fund“资金” + raise“筹集” + -er。⚠️ fund 来自拉丁语 fundus“底部”，与今天的 fus（fundere“倒”）不同源。",
+      "ja": "fund「資金」+ raise「集める」+ -er。⚠️ fund はラテン語 fundus「底」から来ており、今日の fus（fundere「注ぐ」）とは別語源。"
+     },
+     "forms": [
+      [
+       "fundraising (n.)",
+       "筹款",
+       "資金集め"
+      ],
+      [
+       "hold a fundraiser",
+       "举办募捐活动",
+       "募金イベントを開く"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 4 / Part 7 常问“募捐的目的是什么”。",
+      "ja": "Part 4・7 では「募金の目的は何か」がよく問われる。"
+     }
+    },
+    {
+     "w": "donation",
+     "pos": "n.",
+     "ipa": "/doʊˈneɪʃən/",
+     "zh": "捐款；捐赠",
+     "ja": "寄付；寄贈",
+     "ex": "All donations will go directly to the local food bank.",
+     "ex_zh": "所有捐款将直接交给当地的食物银行。",
+     "ex_ja": "寄付金はすべて地元のフードバンクに直接届けられます。",
+     "parts": [
+      [
+       "don",
+       "给予",
+       "与える"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 donatio，来自 donare“给予”（donum“礼物”）。",
+      "ja": "ラテン語 donatio。donare「与える」（donum「贈り物」）から。"
+     },
+     "forms": [
+      [
+       "donate (v.)",
+       "捐赠",
+       "寄付する"
+      ],
+      [
+       "make a donation",
+       "捐款",
+       "寄付をする"
+      ]
+     ],
+     "hl": "donations"
+    },
+    {
+     "w": "nonprofit",
+     "pos": "adj./n.",
+     "ipa": "/ˌnɑnˈprɑfɪt/",
+     "zh": "非营利的；非营利组织",
+     "ja": "非営利の；非営利団体",
+     "ex": "She works for a nonprofit that teaches computer skills to senior citizens.",
+     "ex_zh": "她在一家教老年人电脑技能的非营利组织工作。",
+     "ex_ja": "彼女は高齢者にパソコンの技能を教える非営利団体で働いています。",
+     "parts": [
+      [
+       "non-",
+       "非；不",
+       "非〜"
+      ],
+      [
+       "pro-",
+       "向前",
+       "前へ"
+      ],
+      [
+       "fit",
+       "做（facere 的变体）",
+       "作る（facere の変化形）"
+      ]
+     ],
+     "note": {
+      "zh": "non- + profit。profit 来自拉丁语 profectus“进展、收益”（proficere = pro- + facere，Day 7 的 fac）。",
+      "ja": "non- + profit。profit はラテン語 profectus「進歩・利益」（proficere = pro- + facere、Day 7 の fac）から。"
+     },
+     "forms": [
+      [
+       "nonprofit organization",
+       "非营利组织",
+       "非営利団体（NPO）"
+      ],
+      [
+       "for-profit (adj.)",
+       "营利性的",
+       "営利の"
+      ]
+     ],
+     "tip": {
+      "zh": "也写作 not-for-profit。",
+      "ja": "not-for-profit とも書く。"
+     }
+    },
+    {
+     "w": "philanthropic",
+     "pos": "adj.",
+     "ipa": "/ˌfɪlənˈθrɑpɪk/",
+     "zh": "慈善的；乐善好施的",
+     "ja": "慈善の；博愛の",
+     "ex": "The bank is known for its philanthropic support of local schools.",
+     "ex_zh": "这家银行以对当地学校的慈善支持而闻名。",
+     "ex_ja": "その銀行は地元の学校への慈善的な支援で知られています。",
+     "parts": [
+      [
+       "phil",
+       "爱",
+       "愛する"
+      ],
+      [
+       "anthrop",
+       "人",
+       "人間"
+      ],
+      [
+       "-ic",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "希腊语 philanthropia“爱人类”：philein“爱” + anthropos“人”。",
+      "ja": "ギリシャ語 philanthropia「人類愛」：philein「愛する」+ anthropos「人間」。"
+     },
+     "forms": [
+      [
+       "philanthropist (n.)",
+       "慈善家",
+       "慈善家"
+      ],
+      [
+       "philanthropy (n.)",
+       "慈善事业",
+       "慈善活動"
+      ]
+     ]
+    },
+    {
+     "w": "pledge",
+     "pos": "v./n.",
+     "ipa": "/plɛdʒ/",
+     "zh": "承诺（捐出）；保证；（n.）认捐、誓言",
+     "ja": "誓約する；（寄付を）約束する；（名）誓約",
+     "ex": "Local businesses have pledged more than $20,000 to the hospital campaign.",
+     "ex_zh": "当地企业已承诺为医院募捐活动捐出两万多美元。",
+     "ex_ja": "地元企業は病院のキャンペーンに 2 万ドル以上の寄付を約束しました。",
+     "parts": [],
+     "note": {
+      "zh": "古法语 plege“担保”，更早的来源不确定。没有可靠的词根拆分。",
+      "ja": "古フランス語 plege「担保」。それ以前の語源は不確か。信頼できる語根分解はありません。"
+     },
+     "forms": [
+      [
+       "make a pledge",
+       "作出承诺；认捐",
+       "誓約する"
+      ],
+      [
+       "pledge to do",
+       "承诺做……",
+       "〜すると誓う"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7 同义替换：pledge ≈ promise / commit。",
+      "ja": "Part 7 の言い換え：pledge ≈ promise / commit。"
+     },
+     "hl": "pledged"
+    },
+    {
+     "w": "raffle",
+     "pos": "n./v.",
+     "ipa": "/ˈræfəl/",
+     "zh": "（售券）抽奖",
+     "ja": "（チケット制の）くじ引き；福引き",
+     "ex": "Tickets for the charity raffle cost five dollars each.",
+     "ex_zh": "慈善抽奖的奖券每张五美元。",
+     "ex_ja": "チャリティーくじのチケットは 1 枚 5 ドルです。",
+     "parts": [],
+     "note": {
+      "zh": "古法语 rafle（一种掷骰子游戏），更早的来源不详。没有可靠的词根拆分。",
+      "ja": "古フランス語 rafle（さいころ遊びの一種）。それ以前の語源は不明。信頼できる語根分解はありません。"
+     },
+     "forms": [
+      [
+       "raffle ticket",
+       "抽奖券",
+       "くじ券"
+      ],
+      [
+       "win a raffle",
+       "抽中奖品",
+       "くじに当たる"
+      ]
+     ],
+     "tip": {
+      "zh": "raffle 一般是活动现场买券抽奖、收益做公益；lottery 才是彩票。",
+      "ja": "raffle はイベントで券を買って行う抽選で、収益は寄付に回ることが多い。宝くじは lottery。"
+     }
+    },
+    {
+     "w": "outreach",
+     "pos": "n.",
+     "ipa": "/ˈaʊtˌritʃ/",
+     "zh": "外展服务；社区推广",
+     "ja": "地域への働きかけ；支援活動",
+     "ex": "Our community outreach program offers free financial workshops to residents.",
+     "ex_zh": "我们的社区外展项目为居民提供免费的理财讲座。",
+     "ex_ja": "当社の地域支援プログラムでは、住民向けに無料のお金の講座を開いています。",
+     "parts": [
+      [
+       "out-",
+       "向外",
+       "外へ"
+      ],
+      [
+       "reach",
+       "伸手；到达",
+       "届く"
+      ]
+     ],
+     "note": {
+      "zh": "本族复合词 out + reach。没有拉丁词根。",
+      "ja": "本来の英語の複合語 out + reach。ラテン語の語根はない。"
+     },
+     "forms": [
+      [
+       "outreach program",
+       "外展项目",
+       "支援プログラム"
+      ],
+      [
+       "reach out to",
+       "主动联系",
+       "〜に連絡する・働きかける"
+      ]
+     ],
+     "tip": {
+      "zh": "邮件里常见 Feel free to reach out to me.（随时联系我）。",
+      "ja": "メールでは Feel free to reach out to me.（お気軽にご連絡ください）がよく出る。"
+     }
+    },
+    {
+     "w": "civic",
+     "pos": "adj.",
+     "ipa": "/ˈsɪvɪk/",
+     "zh": "城市的；市民的；公民的",
+     "ja": "市の；市民の",
+     "ex": "The new civic center will host concerts, meetings and art classes.",
+     "ex_zh": "新的市民中心将举办音乐会、会议和美术课。",
+     "ex_ja": "新しい市民センターではコンサートや会議、美術教室が開かれます。",
+     "parts": [
+      [
+       "civ",
+       "市民",
+       "市民"
+      ],
+      [
+       "-ic",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 civicus，来自 civis“公民”。civil、city 同源。",
+      "ja": "ラテン語 civicus。civis「市民」から。civil、city と同語源。"
+     },
+     "forms": [
+      [
+       "civic center",
+       "市民中心",
+       "市民センター"
+      ],
+      [
+       "civic duty",
+       "公民义务",
+       "市民の義務"
+      ]
+     ]
+    },
+    {
+     "w": "cleanup",
+     "pos": "n.",
+     "ipa": "/ˈklinˌʌp/",
+     "zh": "清扫；清理",
+     "ja": "清掃；片付け",
+     "ex": "More than 80 employees joined the weekend beach cleanup.",
+     "ex_zh": "八十多名员工参加了周末的海滩清扫活动。",
+     "ex_ja": "80 人以上の社員が週末の海岸清掃に参加しました。",
+     "parts": [],
+     "note": {
+      "zh": "本族复合词，没有可靠的词根拆分。clean + up。",
+      "ja": "本来の英語の複合語で、信頼できる語根分解はありません。clean + up。"
+     },
+     "forms": [
+      [
+       "clean up (v.)",
+       "打扫；清理",
+       "片付ける"
+      ],
+      [
+       "cleanup crew",
+       "清扫人员",
+       "清掃作業員"
+      ]
+     ],
+     "tip": {
+      "zh": "名词连写 cleanup，动词分开写 clean up。",
+      "ja": "名詞は cleanup と続け書き、動詞は clean up と分けて書く。"
+     }
+    },
+    {
+     "w": "goodwill",
+     "pos": "n.",
+     "ipa": "/ˌɡʊdˈwɪl/",
+     "zh": "善意；友好；（会计）商誉",
+     "ja": "善意；好意；（会計）のれん",
+     "ex": "The free workshops helped build goodwill between the company and the community.",
+     "ex_zh": "免费讲座帮助公司和社区之间建立了友好关系。",
+     "ex_ja": "無料講座は会社と地域の間に良好な関係を築くのに役立ちました。",
+     "parts": [],
+     "note": {
+      "zh": "本族复合词，没有可靠的词根拆分。good + will“意愿”。",
+      "ja": "本来の英語の複合語で、信頼できる語根分解はありません。good + will「意志」。"
+     },
+     "forms": [
+      [
+       "as a gesture of goodwill",
+       "作为善意的表示",
+       "好意のしるしとして"
+      ],
+      [
+       "goodwill (accounting)",
+       "商誉",
+       "のれん"
+      ]
+     ]
+    },
+    {
+     "w": "underprivileged",
+     "pos": "adj.",
+     "ipa": "/ˌʌndɚˈprɪvəlɪdʒd/",
+     "zh": "贫困的；处境不利的",
+     "ja": "恵まれない",
+     "ex": "The scholarship fund helps underprivileged students attend university.",
+     "ex_zh": "这项奖学金基金帮助贫困学生上大学。",
+     "ex_ja": "その奨学基金は恵まれない学生の大学進学を支援しています。",
+     "parts": [
+      [
+       "under-",
+       "不足",
+       "不足して"
+      ],
+      [
+       "privi",
+       "个人的（privus）",
+       "個人の（privus）"
+      ],
+      [
+       "leg",
+       "法律（lex）",
+       "法（lex）"
+      ],
+      [
+       "-ed",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "under- + privileged。privilege 来自拉丁语 privilegium“针对个人的法律”：privus“个人的” + lex（属格 legis）“法律”。⚠️ 这里的 leg 是 lex“法律”，不是 Day 11 的 legere“选、读”。",
+      "ja": "under- + privileged。privilege はラテン語 privilegium「個人に関する法」：privus「個人の」+ lex（属格 legis）「法」。⚠️ この leg は lex「法」で、Day 11 の legere「選ぶ・読む」ではない。"
+     },
+     "forms": [
+      [
+       "privilege (n.)",
+       "特权；荣幸",
+       "特権；光栄"
+      ],
+      [
+       "disadvantaged (adj.)",
+       "处境不利的（同义）",
+       "恵まれない（同義）"
+      ]
+     ]
+    },
+    {
+     "w": "awareness",
+     "pos": "n.",
+     "ipa": "/əˈwɛrnəs/",
+     "zh": "意识；认识",
+     "ja": "意識；認識",
+     "ex": "The campaign aims to raise awareness of recycling in local neighborhoods.",
+     "ex_zh": "这项活动旨在提高当地社区居民的回收意识。",
+     "ex_ja": "このキャンペーンは地域のリサイクル意識を高めることを目指しています。",
+     "parts": [],
+     "note": {
+      "zh": "本族词 aware（古英语 gewær“警觉的”）+ -ness。没有可靠的词根拆分。",
+      "ja": "本来の英語 aware（古英語 gewær「用心深い」）+ -ness。信頼できる語根分解はありません。"
+     },
+     "forms": [
+      [
+       "raise awareness of",
+       "提高对……的认识",
+       "〜への意識を高める"
+      ],
+      [
+       "be aware of",
+       "意识到",
+       "〜に気づいている"
+      ]
+     ]
+    },
+    {
+     "w": "benefactor",
+     "pos": "n.",
+     "ipa": "/ˈbɛnəˌfæktɚ/",
+     "zh": "捐助人；恩人",
+     "ja": "後援者；寄贈者",
+     "ex": "Thanks to an anonymous benefactor, the museum was able to open a new wing.",
+     "ex_zh": "多亏一位匿名捐助人，博物馆得以开设新的展馆。",
+     "ex_ja": "匿名の寄贈者のおかげで、美術館は新館を開くことができました。",
+     "parts": [
+      [
+       "bene",
+       "好",
+       "良く"
+      ],
+      [
+       "fact",
+       "做（Day 7 的 fac）",
+       "する（Day 7 の fac）"
+      ],
+      [
+       "-or",
+       "表示人",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 benefactor“行善的人”：bene“好” + facere“做”。",
+      "ja": "ラテン語 benefactor「善を行う人」：bene「良く」+ facere「する」。"
+     },
+     "forms": [
+      [
+       "anonymous benefactor",
+       "匿名捐助人",
+       "匿名の寄贈者"
+      ],
+      [
+       "benefit (n./v.)",
+       "好处；受益",
+       "利益；恩恵を受ける"
+      ]
+     ]
+    },
+    {
+     "w": "turnout",
+     "pos": "n.",
+     "ipa": "/ˈtɝnˌaʊt/",
+     "zh": "出席人数；投票率",
+     "ja": "参加者数；投票率",
+     "ex": "Despite the rain, there was an excellent turnout for the charity walk.",
+     "ex_zh": "尽管下雨，慈善步行活动的参加人数还是非常多。",
+     "ex_ja": "雨にもかかわらず、チャリティーウォークには大勢の参加者が集まりました。",
+     "parts": [],
+     "note": {
+      "zh": "本族复合词，没有可靠的词根拆分。turn + out“出来”。",
+      "ja": "本来の英語の複合語で、信頼できる語根分解はありません。turn + out「出てくる」。"
+     },
+     "forms": [
+      [
+       "turn out (v.)",
+       "出席；结果是",
+       "集まる；結局〜だとわかる"
+      ],
+      [
+       "a high / low turnout",
+       "参加人数多 / 少",
+       "参加者が多い／少ない"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7 常见 The turnout was higher than expected.（参加人数超出预期）。",
+      "ja": "Part 7 では The turnout was higher than expected.（予想以上の参加者）がよく出る。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "auto",
+   "title_zh": "主题：汽车保养与维修",
+   "title_ja": "テーマ：自動車の整備・修理",
+   "words": [
+    {
+     "w": "mechanic",
+     "pos": "n.",
+     "ipa": "/məˈkænɪk/",
+     "zh": "机修工；技工",
+     "ja": "整備士；修理工",
+     "ex": "The mechanic said the car would be ready by Thursday afternoon.",
+     "ex_zh": "机修工说车子周四下午就能修好。",
+     "ex_ja": "整備士は車が木曜日の午後までに仕上がると言いました。",
+     "parts": [
+      [
+       "mechan",
+       "机器；装置",
+       "機械；装置"
+      ],
+      [
+       "-ic",
+       "表示人 / 形容词后缀",
+       "人・形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "经拉丁语 mechanicus，来自希腊语 mechane“机器、装置”。",
+      "ja": "ラテン語 mechanicus を経て、ギリシャ語 mechane「機械・装置」から。"
+     },
+     "forms": [
+      [
+       "mechanical (adj.)",
+       "机械的",
+       "機械の"
+      ],
+      [
+       "auto mechanic",
+       "汽车修理工",
+       "自動車整備士"
+      ]
+     ]
+    },
+    {
+     "w": "tire",
+     "pos": "n./v.",
+     "ipa": "/ˈtaɪɚ/",
+     "zh": "轮胎；（v.）使疲劳",
+     "ja": "タイヤ；（動）疲れさせる",
+     "ex": "Please check the air pressure in the front tires before the long drive.",
+     "ex_zh": "长途驾驶前请检查前轮的胎压。",
+     "ex_ja": "長距離運転の前に前輪の空気圧を確認してください。",
+     "parts": [],
+     "note": {
+      "zh": "“轮胎”义的来源不确定（可能是 attire“装备”的缩略）。没有可靠的词根拆分。",
+      "ja": "「タイヤ」の意味の語源は不確か（attire「装備」の短縮形とも）。信頼できる語根分解はありません。"
+     },
+     "forms": [
+      [
+       "flat tire",
+       "瘪胎；爆胎",
+       "パンクしたタイヤ"
+      ],
+      [
+       "tired (adj.)",
+       "疲劳的",
+       "疲れた"
+      ]
+     ],
+     "tip": {
+      "zh": "英式拼写 tyre；Part 1 常见 A man is changing a tire.",
+      "ja": "英式つづりは tyre。Part 1 で A man is changing a tire. がよく出る。"
+     },
+     "hl": "tires"
+    },
+    {
+     "w": "brake",
+     "pos": "n./v.",
+     "ipa": "/breɪk/",
+     "zh": "刹车；制动器；（v.）刹车",
+     "ja": "ブレーキ；（動）ブレーキをかける",
+     "ex": "The rental company replaced the brakes before renting the van out again.",
+     "ex_zh": "租车公司在再次出租这辆面包车之前更换了刹车。",
+     "ex_ja": "レンタカー会社はそのバンを再び貸し出す前にブレーキを交換しました。",
+     "parts": [],
+     "note": {
+      "zh": "中古英语，来源不确定（可能与 break 有关）。没有可靠的词根拆分。",
+      "ja": "中英語。語源は不確か（break と関係があるとも）。信頼できる語根分解はありません。"
+     },
+     "forms": [
+      [
+       "brake pad",
+       "刹车片",
+       "ブレーキパッド"
+      ],
+      [
+       "hit the brakes",
+       "踩刹车",
+       "ブレーキを踏む"
+      ]
+     ],
+     "tip": {
+      "zh": "brake（刹车）和 break（打破；休息）同音，Part 1 / Part 2 注意分辨。",
+      "ja": "brake（ブレーキ）と break（壊す；休憩）は同音。Part 1・2 で聞き分けに注意。"
+     },
+     "hl": "brakes"
+    },
+    {
+     "w": "windshield",
+     "pos": "n.",
+     "ipa": "/ˈwɪndˌʃild/",
+     "zh": "挡风玻璃",
+     "ja": "フロントガラス",
+     "ex": "A small stone cracked the windshield on the highway.",
+     "ex_zh": "在高速公路上，一块小石子把挡风玻璃砸裂了。",
+     "ex_ja": "高速道路で小石が当たってフロントガラスにひびが入りました。",
+     "parts": [],
+     "note": {
+      "zh": "本族复合词，没有可靠的词根拆分。wind“风” + shield“盾”。",
+      "ja": "本来の英語の複合語で、信頼できる語根分解はありません。wind「風」+ shield「盾」。"
+     },
+     "forms": [
+      [
+       "windshield wiper",
+       "雨刷",
+       "ワイパー"
+      ],
+      [
+       "windscreen (BrE)",
+       "挡风玻璃（英式）",
+       "フロントガラス（英式）"
+      ]
+     ]
+    },
+    {
+     "w": "mileage",
+     "pos": "n.",
+     "ipa": "/ˈmaɪlɪdʒ/",
+     "zh": "里程；里程补贴；油耗表现",
+     "ja": "走行距離；マイル手当；燃費",
+     "ex": "Employees can claim mileage for business trips made in their own cars.",
+     "ex_zh": "员工开私家车出差可以申请里程补贴。",
+     "ex_ja": "社員は自家用車での出張について走行距離手当を請求できます。",
+     "parts": [
+      [
+       "mile",
+       "英里",
+       "マイル"
+      ],
+      [
+       "-age",
+       "名词后缀（数量）",
+       "名詞を作る（量）"
+      ]
+     ],
+     "note": {
+      "zh": "mile 来自拉丁语 milia (passuum)“一千（步）”；+ -age。",
+      "ja": "mile はラテン語 milia (passuum)「千（歩）」から。+ -age。"
+     },
+     "forms": [
+      [
+       "mileage reimbursement",
+       "里程报销",
+       "走行距離の精算"
+      ],
+      [
+       "get good mileage",
+       "省油",
+       "燃費がよい"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7 报销规定常见 mileage reimbursement。",
+      "ja": "Part 7 の経費規定で mileage reimbursement がよく出る。"
+     }
+    },
+    {
+     "w": "odometer",
+     "pos": "n.",
+     "ipa": "/oʊˈdɑmətɚ/",
+     "zh": "里程表",
+     "ja": "走行距離計",
+     "ex": "The odometer shows that the used truck has traveled only 20,000 miles.",
+     "ex_zh": "里程表显示这辆二手卡车只跑了两万英里。",
+     "ex_ja": "走行距離計によると、その中古トラックは 2 万マイルしか走っていません。",
+     "parts": [
+      [
+       "hodo",
+       "路",
+       "道"
+      ],
+      [
+       "meter",
+       "测量",
+       "測る"
+      ]
+     ],
+     "note": {
+      "zh": "希腊语 hodos“道路” + metron“测量”。",
+      "ja": "ギリシャ語 hodos「道」+ metron「測ること」。"
+     },
+     "forms": [
+      [
+       "odometer reading",
+       "里程读数",
+       "走行距離計の表示"
+      ],
+      [
+       "speedometer (n.)",
+       "速度表",
+       "速度計"
+      ]
+     ]
+    },
+    {
+     "w": "tow",
+     "pos": "v./n.",
+     "ipa": "/toʊ/",
+     "zh": "拖；拖走",
+     "ja": "レッカー移動する；牽引する",
+     "ex": "Vehicles parked in the loading zone will be towed at the owner's expense.",
+     "ex_zh": "停在装卸区的车辆将被拖走，费用由车主承担。",
+     "ex_ja": "荷さばき場に駐車した車両は、所有者の費用負担でレッカー移動されます。",
+     "parts": [],
+     "note": {
+      "zh": "古英语 togian“拉”，本族词。没有可靠的词根拆分。",
+      "ja": "古英語 togian「引く」。本来の英語。信頼できる語根分解はありません。"
+     },
+     "forms": [
+      [
+       "tow truck",
+       "拖车",
+       "レッカー車"
+      ],
+      [
+       "tow away",
+       "拖走",
+       "レッカー移動する"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7 停车通知常见 ... will be towed at the owner's expense.",
+      "ja": "Part 7 の駐車場のお知らせに ... will be towed at the owner's expense. がよく出る。"
+     },
+     "hl": "towed"
+    },
+    {
+     "w": "transmission",
+     "pos": "n.",
+     "ipa": "/trænsˈmɪʃən/",
+     "zh": "变速器；传输；播送",
+     "ja": "変速機；送信；放送",
+     "ex": "Repairs to the transmission are covered by the extended warranty.",
+     "ex_zh": "变速器的维修在延长保修范围内。",
+     "ex_ja": "変速機の修理は延長保証の対象です。",
+     "parts": [
+      [
+       "trans-",
+       "穿过",
+       "越えて"
+      ],
+      [
+       "miss",
+       "送（Day 1 的 mit）",
+       "送る（Day 1 の mit）"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 transmissio，来自 transmittere“送过去”。",
+      "ja": "ラテン語 transmissio。transmittere「向こうへ送る」から。"
+     },
+     "forms": [
+      [
+       "automatic transmission",
+       "自动变速器（自动挡）",
+       "オートマチック変速機"
+      ],
+      [
+       "transmit (v.)",
+       "传送；播送",
+       "送信する"
+      ]
+     ]
+    },
+    {
+     "w": "collision",
+     "pos": "n.",
+     "ipa": "/kəˈlɪʒən/",
+     "zh": "碰撞；冲突",
+     "ja": "衝突",
+     "ex": "Nobody was hurt in the minor collision outside the parking garage.",
+     "ex_zh": "停车楼外的这起轻微碰撞没有造成人员受伤。",
+     "ex_ja": "立体駐車場の外での軽い衝突事故では、けが人はいませんでした。",
+     "parts": [
+      [
+       "col-",
+       "一起（con- 的变体）",
+       "共に（con- の変化形）"
+      ],
+      [
+       "lis",
+       "撞击（laedere）",
+       "打つ（laedere）"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 collisio，来自 collidere：com-“一起” + laedere“撞击”。",
+      "ja": "ラテン語 collisio。collidere：com-「共に」+ laedere「打つ」から。"
+     },
+     "forms": [
+      [
+       "collide (v.)",
+       "碰撞",
+       "衝突する"
+      ],
+      [
+       "collision insurance",
+       "碰撞险",
+       "車両保険（衝突）"
+      ]
+     ]
+    },
+    {
+     "w": "sedan",
+     "pos": "n.",
+     "ipa": "/sɪˈdæn/",
+     "zh": "轿车",
+     "ja": "セダン",
+     "ex": "The company car is a four-door sedan with plenty of trunk space.",
+     "ex_zh": "公司的车是一辆后备箱很宽敞的四门轿车。",
+     "ex_ja": "社用車はトランクの広い 4 ドアのセダンです。",
+     "parts": [],
+     "note": {
+      "zh": "来源不确定，17 世纪先指 sedan chair（轿子）。没有可靠的词根拆分。",
+      "ja": "語源は不確か。17 世紀にはまず sedan chair（かご）を指した。信頼できる語根分解はありません。"
+     },
+     "forms": [
+      [
+       "trunk (n.)",
+       "后备箱",
+       "トランク"
+      ],
+      [
+       "compact car",
+       "小型车",
+       "小型車"
+      ]
+     ]
+    },
+    {
+     "w": "valet",
+     "pos": "n.",
+     "ipa": "/væˈleɪ/",
+     "zh": "代客泊车员；（酒店）服务员",
+     "ja": "駐車係；（ホテルの）係員",
+     "ex": "Guests can leave their cars with the valet at the main entrance.",
+     "ex_zh": "客人可以在正门把车交给代客泊车员。",
+     "ex_ja": "宿泊客は正面玄関で駐車係に車を預けることができます。",
+     "parts": [],
+     "note": {
+      "zh": "法语 valet“男仆”，来自古法语 vaslet“年轻侍从”。没有可靠的词根拆分。",
+      "ja": "フランス語 valet「従者」、古フランス語 vaslet「若い従者」から。信頼できる語根分解はありません。"
+     },
+     "forms": [
+      [
+       "valet parking",
+       "代客泊车",
+       "バレーパーキング"
+      ],
+      [
+       "valet service",
+       "代客服务",
+       "係員サービス"
+      ]
+     ],
+     "tip": {
+      "zh": "美式常读 /væˈleɪ/，t 不发音。",
+      "ja": "米国では /væˈleɪ/ と読み、t は発音しないことが多い。"
+     }
+    },
+    {
+     "w": "garage",
+     "pos": "n.",
+     "ipa": "/ɡəˈrɑʒ/",
+     "zh": "车库；汽车修理厂",
+     "ja": "車庫；自動車整備工場",
+     "ex": "The parking garage on Elm Street will be closed for repairs this weekend.",
+     "ex_zh": "榆树街的停车楼本周末将因维修而关闭。",
+     "ex_ja": "エルム通りの立体駐車場は今週末、修理のため閉鎖されます。",
+     "parts": [],
+     "note": {
+      "zh": "法语 garage，来自 garer“停放、保管”。没有可靠的词根拆分。",
+      "ja": "フランス語 garage。garer「しまう・停める」から。信頼できる語根分解はありません。"
+     },
+     "forms": [
+      [
+       "parking garage",
+       "停车楼",
+       "立体駐車場"
+      ],
+      [
+       "garage sale",
+       "（自家）旧货出售",
+       "ガレージセール"
+      ]
+     ]
+    },
+    {
+     "w": "dashboard",
+     "pos": "n.",
+     "ipa": "/ˈdæʃˌbɔrd/",
+     "zh": "仪表盘；（软件）数据看板",
+     "ja": "ダッシュボード；計器盤",
+     "ex": "A warning light on the dashboard indicates that the engine needs service.",
+     "ex_zh": "仪表盘上的警示灯表示发动机需要保养。",
+     "ex_ja": "ダッシュボードの警告灯はエンジンの整備が必要なことを示しています。",
+     "parts": [],
+     "note": {
+      "zh": "本族复合词，没有可靠的词根拆分。dash“溅” + board“板”（原指马车上挡泥水的板）。",
+      "ja": "本来の英語の複合語で、信頼できる語根分解はありません。dash「はね」+ board「板」（もとは馬車の泥よけ板）。"
+     },
+     "forms": [
+      [
+       "warning light",
+       "警示灯",
+       "警告灯"
+      ],
+      [
+       "sales dashboard",
+       "销售数据看板",
+       "売上ダッシュボード"
+      ]
+     ]
+    },
+    {
+     "w": "fuel-efficient",
+     "pos": "adj.",
+     "ipa": "/ˈfjuəl ɪˈfɪʃənt/",
+     "zh": "省油的；燃油效率高的",
+     "ja": "燃費のよい",
+     "ex": "The delivery company is replacing its old trucks with fuel-efficient models.",
+     "ex_zh": "这家快递公司正在用省油车型替换旧卡车。",
+     "ex_ja": "その配送会社は古いトラックを燃費のよい車種に入れ替えています。",
+     "parts": [
+      [
+       "fuel",
+       "燃料",
+       "燃料"
+      ],
+      [
+       "ef-",
+       "向外（ex- 的变体）",
+       "外へ（ex- の変化形）"
+      ],
+      [
+       "fic",
+       "做（Day 7 的 fac）",
+       "する（Day 7 の fac）"
+      ],
+      [
+       "-ent",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "fuel + efficient。efficient 来自拉丁语 efficere“完成”：ex- + facere（Day 7 的 fac）。",
+      "ja": "fuel + efficient。efficient はラテン語 efficere「成し遂げる」：ex- + facere（Day 7 の fac）から。"
+     },
+     "forms": [
+      [
+       "fuel efficiency",
+       "燃油效率",
+       "燃費"
+      ],
+      [
+       "energy-efficient (adj.)",
+       "节能的",
+       "省エネの"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}
