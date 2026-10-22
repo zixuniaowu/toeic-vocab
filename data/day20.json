@@ -1,0 +1,2534 @@
+{
+ "day": 20,
+ "date": "2026-10-23",
+ "title_zh": "四大词根 + 农业食品生产与印刷平面设计",
+ "title_ja": "4つの語根＋農業・食品生産と印刷・グラフィックデザイン",
+ "intro_zh": "今天掌握 4 个高频词根（fid 信任 / sid·sed·sess 坐 / vac·void 空 / cis·cide 切、杀），再学农业与食品生产、印刷与平面设计的核心词——强化 Part 5 语法搭配（avoid doing、decide to do、preside over、devoid of、be confident that）、Part 1 办公场景（vacuuming、collate and staple）、Part 4 疏散演习和天气广播（evacuation drill、once the wind subsides），以及 Part 7 的空缺职位、易腐商品配送和“不可避免的情况”致歉通知。",
+ "intro_ja": "今日は語根 4 つ（fid 信頼／sid·sed·sess 座る／vac·void 空／cis·cide 切る・殺す）と、農業・食品生産、印刷・グラフィックデザインの重要語を学びます。Part 5 の語法（avoid doing、decide to do、preside over、devoid of、be confident that）、Part 1 のオフィスの場面（vacuuming、collate and staple）、Part 4 の避難訓練・天気予報（evacuation drill、once the wind subsides）、Part 7 の欠員募集・生鮮品の配送・「やむを得ない事情」のお詫びを強化します。",
+ "voice": "en-US-AriaNeural",
+ "roots": [
+  {
+   "root": "-fid- / -fi-",
+   "origin": "Latin fides; fidere",
+   "zh": "信任；信义",
+   "ja": "信頼；信義",
+   "exp_zh": "来自拉丁语 fides（信任、信义）和动词 fidere（信任）。con-“完全” → confidere“完全信任” → confident、confidence、confide；本站已学的 confidential（机密的 = 托付给信任的人）也在这个家族。dis-（dif-）“不” → diffident“不自信的”；fidelis“忠实的” → fidelity。ad- + fidare → affidavit“他已宣誓保证 → 宣誓书”。古法语 desfier“放弃信义” → defy“违抗”。法语里 fides 变成 feid → faith、faithfully。⚠️ defy 的 -fy 不是 justify 里的 -fy（facere“做”）。⚠️ finance、final 来自 finis“终点”（Day 9 的 fin），不是这个词根。",
+   "exp_ja": "ラテン語 fides（信頼・信義）と動詞 fidere（信頼する）から。con-「完全に」→ confidere「すっかり信頼する」→ confident、confidence、confide。既習の confidential（信頼できる人に託す → 機密の）も同じ仲間。dis-（dif-）「〜でない」→ diffident「自信のない」。fidelis「忠実な」→ fidelity。ad- + fidare → affidavit「彼は誓約した → 宣誓供述書」。古フランス語 desfier「信義を捨てる」→ defy「逆らう」。フランス語で fides が feid になり → faith、faithfully。⚠️ defy の -fy は justify の -fy（facere「する」）ではない。⚠️ finance・final は finis「終わり」（Day 9 の fin）から来ており、この語根ではない。",
+   "examples": [
+    "confident",
+    "confidence",
+    "confide",
+    "fidelity",
+    "diffident",
+    "affidavit",
+    "defy",
+    "faithfully"
+   ]
+  },
+  {
+   "root": "-sid- / -sed- / -sess-",
+   "origin": "Latin sedere, sessus; sidere",
+   "zh": "坐",
+   "ja": "座る",
+   "exp_zh": "来自拉丁语 sedere（坐），过去分词 sessus；sidere“坐下、沉下”是它的同族动词。re-“留下” → residere“留下来坐着” → reside、residence、residue“剩下的东西”；prae-“在前” → praesidere“坐在前面” → preside、president；sub-“在下” → subside“沉下 → 平息”，本站已学的 subsidy、subsidiary 也来自 subsidium“坐在后面的预备队”；ad- → assidere“坐在旁边协助评定” → assess、assessment；potis“有能力的” + sedere → possidere“坐在上面 → 占有” → possess、possession；sedentarius → sedentary“久坐的”。session（会议、一段时间）也是“坐着开会”。⚠️ site、situation 来自 situs“位置”，不是 sedere。",
+   "exp_ja": "ラテン語 sedere（座る）、過去分詞 sessus から。sidere「座り込む・沈む」は同族の動詞。re-「残って」→ residere「座ったままでいる」→ reside、residence、residue「残ったもの」。prae-「前に」→ praesidere「前に座る」→ preside、president。sub-「下に」→ subside「沈む → 収まる」。既習の subsidy・subsidiary も subsidium「後ろに控える予備隊」から。ad- → assidere「そばに座って査定を補佐する」→ assess、assessment。potis「力がある」+ sedere → possidere「上に座る → 所有する」→ possess、possession。sedentarius → sedentary「座りがちな」。session（会合・時間枠）も「座って開く会」。⚠️ site・situation は situs「位置」から来ており、sedere ではない。",
+   "examples": [
+    "reside",
+    "residence",
+    "preside",
+    "residue",
+    "subside",
+    "assessment",
+    "possession",
+    "sedentary"
+   ]
+  },
+  {
+   "root": "-vac- / -void-",
+   "origin": "Latin vacare, vacuus; Old French vuide",
+   "zh": "空；空出",
+   "ja": "空；空ける",
+   "exp_zh": "来自拉丁语 vacare（空着、有空）和形容词 vacuus（空的）。vacare → vacate“腾出”、vacancy“空缺”、vacation“没有职责 → 假期”；本站已学的 vacant 也在这里。ex- + vacuus → evacuare“清空” → evacuation（本站已学 evacuate）；vacuum“真空 → 吸尘器”。到了古法语，相关的词变成 vuide → void“空的、无效的”；des- + vuidier → devoid“完全没有”；es- + vuidier → avoid“清空、离开 → 避免”，unavoidable。⚠️ vaccine（疫苗）来自 vacca“母牛”（最早的牛痘疫苗），和 vac“空”不同源。",
+   "exp_ja": "ラテン語 vacare（空である・暇である）と形容詞 vacuus（空の）から。vacare → vacate「明け渡す」、vacancy「欠員・空室」、vacation「職務がない → 休暇」。既習の vacant もここ。ex- + vacuus → evacuare「空にする」→ evacuation（既習 evacuate）。vacuum「真空 → 掃除機」。古フランス語では関連語が vuide になり → void「空の・無効の」。des- + vuidier → devoid「全くない」。es- + vuidier → avoid「空にする・立ち去る → 避ける」、unavoidable。⚠️ vaccine（ワクチン）は vacca「雌牛」（最初の牛痘ワクチン）から来ており、vac「空」とは別語源。",
+   "examples": [
+    "vacate",
+    "vacancy",
+    "vacation",
+    "evacuation",
+    "vacuum",
+    "devoid",
+    "avoid",
+    "unavoidable"
+   ]
+  },
+  {
+   "root": "-cis- / -cide-",
+   "origin": "Latin caedere, -cisus; -cida",
+   "zh": "切；杀",
+   "ja": "切る；殺す",
+   "exp_zh": "来自拉丁语 caedere（切、砍、杀），在合成词里变成 -cidere，过去分词 -cisus。de-“离开” → decidere“切断 → 了结” → decide、decision、decisive、indecisive；prae-“在前” → praecisus“切掉前端 → 简短精确” → precise（本站已学 precision）；con-（加强）→ concisus“切短的” → concise；in-“向内” → incisus“切入” → incisive“一针见血的”。“杀”的意思做后缀 -cide：pesticide（杀虫剂）、herbicide（除草剂）。⚠️ Day 15 的 -cid- / -cas- 来自另一个动词 cadere“落下”（incident、coincide、occasional），拼写很像，但意思和词源都不同。",
+   "exp_ja": "ラテン語 caedere（切る・打つ・殺す）から。複合語では -cidere、過去分詞 -cisus になる。de-「離して」→ decidere「切り離す → 決着をつける」→ decide、decision、decisive、indecisive。prae-「前で」→ praecisus「先を切り落とした → 簡潔・正確な」→ precise（既習 precision）。con-（強意）→ concisus「切り詰めた」→ concise。in-「中へ」→ incisus「切り込んだ」→ incisive「鋭い」。「殺す」の意味は接尾辞 -cide に：pesticide（殺虫剤）、herbicide（除草剤）。⚠️ Day 15 の -cid- / -cas- は別の動詞 cadere「落ちる」（incident、coincide、occasional）から。つづりは似ているが意味も語源も違う。",
+   "examples": [
+    "decide",
+    "decision",
+    "decisive",
+    "indecisive",
+    "precise",
+    "concise",
+    "incisive",
+    "pesticide"
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "fid",
+   "title_zh": "词根 -fid- / -fi-：信任",
+   "title_ja": "語根 -fid- / -fi-：信頼",
+   "words": [
+    {
+     "w": "confident",
+     "pos": "adj.",
+     "ipa": "/ˈkɑnfədənt/",
+     "zh": "有信心的；确信的",
+     "ja": "自信のある；確信して",
+     "ex": "We are confident that the new system will reduce processing times.",
+     "ex_zh": "我们确信新系统会缩短处理时间。",
+     "ex_ja": "新しいシステムで処理時間が短くなると確信しています。",
+     "parts": [
+      [
+       "con-",
+       "完全",
+       "完全に"
+      ],
+      [
+       "fid",
+       "信任",
+       "信頼する"
+      ],
+      [
+       "-ent",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 confidere“完全信任”：con-（加强）+ fidere“信任”。",
+      "ja": "ラテン語 confidere「すっかり信頼する」：con-（強意）+ fidere「信頼する」。"
+     },
+     "forms": [
+      [
+       "be confident that ...",
+       "确信……",
+       "〜と確信している"
+      ],
+      [
+       "confidently (adv.)",
+       "自信地",
+       "自信を持って"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5 常考 be confident in / about + 名词，be confident that + 句子。",
+      "ja": "Part 5 では be confident in / about + 名詞、be confident that + 節 の形が問われる。"
+     }
+    },
+    {
+     "w": "confidence",
+     "pos": "n.",
+     "ipa": "/ˈkɑnfədəns/",
+     "zh": "信心；信任；机密",
+     "ja": "自信；信頼；秘密",
+     "ex": "Strong sales have boosted investor confidence in the company.",
+     "ex_zh": "强劲的销售提振了投资者对公司的信心。",
+     "ex_ja": "好調な売上が会社に対する投資家の信頼を高めました。",
+     "parts": [
+      [
+       "con-",
+       "完全",
+       "完全に"
+      ],
+      [
+       "fid",
+       "信任",
+       "信頼する"
+      ],
+      [
+       "-ence",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 confidentia，来自 confidere“完全信任”。本站已学的 confidential（机密的）同源。",
+      "ja": "ラテン語 confidentia。confidere「すっかり信頼する」から。既習の confidential（機密の）と同語源。"
+     },
+     "forms": [
+      [
+       "consumer confidence",
+       "消费者信心",
+       "消費者信頼感"
+      ],
+      [
+       "in confidence",
+       "私下地；保密地",
+       "内密に"
+      ]
+     ],
+     "tip": {
+      "zh": "in (strict) confidence = 保密地（信件常见）。",
+      "ja": "in (strict) confidence は「内密に」。手紙やメールで見かける。"
+     }
+    },
+    {
+     "w": "confide",
+     "pos": "v.",
+     "ipa": "/kənˈfaɪd/",
+     "zh": "（向某人）吐露（秘密）；信赖",
+     "ja": "（秘密を）打ち明ける；信頼する",
+     "ex": "She confided in her mentor about her plans to start her own business.",
+     "ex_zh": "她向导师吐露了自己创业的打算。",
+     "ex_ja": "彼女は起業の計画を指導役の先輩に打ち明けました。",
+     "parts": [
+      [
+       "con-",
+       "完全",
+       "完全に"
+      ],
+      [
+       "fid",
+       "信任",
+       "信頼する"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 confidere“完全信任”。",
+      "ja": "ラテン語 confidere「すっかり信頼する」。"
+     },
+     "forms": [
+      [
+       "confide in someone",
+       "向某人倾诉",
+       "人に打ち明ける"
+      ],
+      [
+       "confidant (n.)",
+       "知己；可倾诉的人",
+       "腹心の友"
+      ]
+     ],
+     "hl": "confided"
+    },
+    {
+     "w": "fidelity",
+     "pos": "n.",
+     "ipa": "/fəˈdɛləti/",
+     "zh": "忠诚；（音像）保真度；精确度",
+     "ja": "忠実さ；（音響の）再現性",
+     "ex": "The new speakers reproduce music with remarkable fidelity.",
+     "ex_zh": "新音箱能以惊人的保真度还原音乐。",
+     "ex_ja": "新しいスピーカーは驚くほど忠実に音楽を再現します。",
+     "parts": [
+      [
+       "fid",
+       "信任",
+       "信頼する"
+      ],
+      [
+       "-el",
+       "形容词词尾（fidelis）",
+       "形容詞語尾（fidelis）"
+      ],
+      [
+       "-ity",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 fidelitas，来自 fidelis“忠实的”（fides“信任”）。",
+      "ja": "ラテン語 fidelitas。fidelis「忠実な」（fides「信頼」）から。"
+     },
+     "forms": [
+      [
+       "high fidelity (hi-fi)",
+       "高保真",
+       "ハイファイ"
+      ],
+      [
+       "customer fidelity",
+       "客户忠诚度",
+       "顧客の忠誠心"
+      ]
+     ],
+     "tip": {
+      "zh": "TOEIC 里“客户忠诚度”更常用 loyalty；fidelity 多见于音质、翻译准确度。",
+      "ja": "TOEIC では「顧客の忠誠」は loyalty が普通。fidelity は音質や翻訳の正確さで見かける。"
+     }
+    },
+    {
+     "w": "diffident",
+     "pos": "adj.",
+     "ipa": "/ˈdɪfədənt/",
+     "zh": "缺乏自信的；羞怯的",
+     "ja": "自信のない；内気な",
+     "ex": "Although he seemed diffident at first, he gave an excellent presentation.",
+     "ex_zh": "虽然他起初显得没什么自信，但他的演讲非常出色。",
+     "ex_ja": "最初は自信がなさそうでしたが、彼は素晴らしいプレゼンをしました。",
+     "parts": [
+      [
+       "dif-",
+       "不；分离（dis- 的变体）",
+       "否定・分離（dis- の変化形）"
+      ],
+      [
+       "fid",
+       "信任",
+       "信頼する"
+      ],
+      [
+       "-ent",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 diffidere“不信任”：dis-（在 f 前变成 dif-）+ fidere“信任”。是 confident 的反义。",
+      "ja": "ラテン語 diffidere「信頼しない」：dis-（f の前で dif-）+ fidere。confident の反対語。"
+     },
+     "forms": [
+      [
+       "diffidence (n.)",
+       "缺乏自信",
+       "自信のなさ"
+      ],
+      [
+       "self-confident (adj.)",
+       "自信的（反义）",
+       "自信のある（反義）"
+      ]
+     ]
+    },
+    {
+     "w": "affidavit",
+     "pos": "n.",
+     "ipa": "/ˌæfəˈdeɪvət/",
+     "zh": "宣誓书；宣誓证词",
+     "ja": "宣誓供述書",
+     "ex": "The witness signed an affidavit confirming the date of the delivery.",
+     "ex_zh": "证人签署了一份宣誓书，确认了交货日期。",
+     "ex_ja": "証人は配送日を確認する宣誓供述書に署名しました。",
+     "parts": [
+      [
+       "af-",
+       "朝向（ad- 的变体）",
+       "〜へ（ad- の変化形）"
+      ],
+      [
+       "fid",
+       "信任",
+       "信頼する"
+      ],
+      [
+       "-avit",
+       "拉丁语完成时词尾“他已……”",
+       "ラテン語完了形の語尾「彼は〜した」"
+      ]
+     ],
+     "note": {
+      "zh": "中世纪拉丁语 affidavit“他已宣誓保证”，affidare“发誓保证”的完成时：ad- + fidare“信任”。",
+      "ja": "中世ラテン語 affidavit「彼は誓約した」。affidare「誓って保証する」の完了形：ad- + fidare「信頼する」。"
+     },
+     "forms": [
+      [
+       "sign an affidavit",
+       "签署宣誓书",
+       "宣誓供述書に署名する"
+      ],
+      [
+       "sworn statement",
+       "宣誓陈述（同义）",
+       "宣誓陳述（同義）"
+      ]
+     ]
+    },
+    {
+     "w": "defy",
+     "pos": "v.",
+     "ipa": "/dɪˈfaɪ/",
+     "zh": "违抗；无视；使无法（描述等）",
+     "ja": "逆らう；無視する；（説明などを）受けつけない",
+     "ex": "The success of the small bakery defied all expectations.",
+     "ex_zh": "这家小面包店的成功完全出乎所有人的意料。",
+     "ex_ja": "その小さなパン屋の成功はあらゆる予想を覆しました。",
+     "parts": [
+      [
+       "de-",
+       "离开；撤销",
+       "離れて；取り消す"
+      ],
+      [
+       "fy",
+       "信任（古法语 fier）",
+       "信頼（古フランス語 fier）"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 desfier“放弃信义 → 挑战”：des-“撤销” + fier“信任”（通俗拉丁语 *fidare，来自 fidus“可信的”）。⚠️ 这里的 -fy 不是 justify、modify 里的动词后缀 -fy（facere“做”）。",
+      "ja": "古フランス語 desfier「信義を捨てる → 挑む」：des-「取り消し」+ fier「信頼する」（俗ラテン語 *fidare、fidus「信頼できる」から）。⚠️ この -fy は justify・modify の動詞語尾 -fy（facere「する」）ではない。"
+     },
+     "forms": [
+      [
+       "defy expectations",
+       "出乎意料",
+       "予想を覆す"
+      ],
+      [
+       "defiance (n.)",
+       "违抗",
+       "反抗"
+      ]
+     ],
+     "tip": {
+      "zh": "defy description = 难以形容。",
+      "ja": "defy description は「筆舌に尽くしがたい」。"
+     },
+     "hl": "defied"
+    },
+    {
+     "w": "faithfully",
+     "pos": "adv.",
+     "ipa": "/ˈfeɪθfəli/",
+     "zh": "忠实地；如实地；（信末）谨上",
+     "ja": "忠実に；正確に；（手紙の結び）敬具",
+     "ex": "The translator faithfully reproduced the tone of the original report.",
+     "ex_zh": "译者忠实地再现了原报告的语气。",
+     "ex_ja": "翻訳者は元の報告書の語調を忠実に再現しました。",
+     "parts": [
+      [
+       "faith",
+       "信任（fides）",
+       "信頼（fides）"
+      ],
+      [
+       "-ful",
+       "充满……的",
+       "〜に満ちた"
+      ],
+      [
+       "-ly",
+       "副词后缀",
+       "副詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "faith 来自盎格鲁法语 feid，源于拉丁语 fides“信任”，和 fid 同源，只是拼写在法语里变了。",
+      "ja": "faith はアングロ・フランス語 feid、ラテン語 fides「信頼」から。fid と同語源で、フランス語を経てつづりが変わった。"
+     },
+     "forms": [
+      [
+       "Yours faithfully",
+       "（英式信末）谨上",
+       "敬具（英式）"
+      ],
+      [
+       "faithful (adj.)",
+       "忠实的",
+       "忠実な"
+      ]
+     ],
+     "tip": {
+      "zh": "英式商务信：不知道收信人姓名（Dear Sir or Madam）用 Yours faithfully，知道姓名用 Yours sincerely。",
+      "ja": "英式ビジネスレター：宛名不明（Dear Sir or Madam）なら Yours faithfully、名前がわかれば Yours sincerely。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "sid",
+   "title_zh": "词根 -sid- / -sed- / -sess-：坐",
+   "title_ja": "語根 -sid- / -sed- / -sess-：座る",
+   "words": [
+    {
+     "w": "reside",
+     "pos": "v.",
+     "ipa": "/rɪˈzaɪd/",
+     "zh": "居住；（权力等）属于",
+     "ja": "住む；（権限などが）ある",
+     "ex": "Applicants must reside in the city for at least one year.",
+     "ex_zh": "申请人必须在本市居住至少一年。",
+     "ex_ja": "申請者は少なくとも 1 年間市内に住んでいなければなりません。",
+     "parts": [
+      [
+       "re-",
+       "往回；留下",
+       "後ろに；残って"
+      ],
+      [
+       "sid",
+       "坐",
+       "座る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 residere“留下来坐着 → 停留”：re- + sedere“坐”。",
+      "ja": "ラテン語 residere「後ろに座ったままでいる → とどまる」：re- + sedere「座る」。"
+     },
+     "forms": [
+      [
+       "reside in",
+       "居住在……",
+       "〜に住む"
+      ],
+      [
+       "resident (n.)",
+       "居民；住户",
+       "住民"
+      ]
+     ],
+     "tip": {
+      "zh": "reside 比 live 正式，常见于申请条件和合同。",
+      "ja": "reside は live より改まった語で、応募条件や契約書に出る。"
+     }
+    },
+    {
+     "w": "residence",
+     "pos": "n.",
+     "ipa": "/ˈrɛzədəns/",
+     "zh": "住所；居住；（正式）宅邸",
+     "ja": "住居；居住；邸宅",
+     "ex": "Please enter your country of residence on the registration form.",
+     "ex_zh": "请在登记表上填写您的居住国。",
+     "ex_ja": "登録用紙に居住国を記入してください。",
+     "parts": [
+      [
+       "re-",
+       "往回；留下",
+       "後ろに；残って"
+      ],
+      [
+       "sid",
+       "坐",
+       "座る"
+      ],
+      [
+       "-ence",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "中世纪拉丁语 residentia，来自 residere“停留”。",
+      "ja": "中世ラテン語 residentia。residere「とどまる」から。"
+     },
+     "forms": [
+      [
+       "place of residence",
+       "住所",
+       "住所"
+      ],
+      [
+       "artist in residence",
+       "驻留艺术家",
+       "滞在型アーティスト"
+      ]
+     ]
+    },
+    {
+     "w": "preside",
+     "pos": "v.",
+     "ipa": "/prɪˈzaɪd/",
+     "zh": "主持（会议）；负责",
+     "ja": "司会する；統括する",
+     "ex": "The board chair will preside over the annual shareholders' meeting.",
+     "ex_zh": "董事长将主持年度股东大会。",
+     "ex_ja": "取締役会長が年次株主総会の議長を務めます。",
+     "parts": [
+      [
+       "pre-",
+       "在前",
+       "前に"
+      ],
+      [
+       "sid",
+       "坐",
+       "座る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 praesidere“坐在前面 → 主管”：prae- + sedere“坐”。president（总裁、会长）同源。",
+      "ja": "ラテン語 praesidere「前に座る → 統括する」：prae- + sedere「座る」。president（社長・会長）と同語源。"
+     },
+     "forms": [
+      [
+       "preside over",
+       "主持……",
+       "〜の議長を務める"
+      ],
+      [
+       "president (n.)",
+       "总裁；会长；主席",
+       "社長；会長；大統領"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5 搭配：preside over the meeting（介词用 over）。",
+      "ja": "Part 5 の語法：preside over the meeting（前置詞は over）。"
+     }
+    },
+    {
+     "w": "residue",
+     "pos": "n.",
+     "ipa": "/ˈrɛzəˌdu/",
+     "zh": "残留物；残渣；剩余部分",
+     "ja": "残留物；残り",
+     "ex": "Wipe the machine with a dry cloth to remove any oil residue.",
+     "ex_zh": "请用干布擦拭机器，去除残留的油渍。",
+     "ex_ja": "乾いた布で機械を拭き、油の残りを取り除いてください。",
+     "parts": [
+      [
+       "re-",
+       "往回；留下",
+       "後ろに；残って"
+      ],
+      [
+       "sid",
+       "坐",
+       "座る"
+      ],
+      [
+       "-ue",
+       "名词词尾",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 residuum“剩下的东西”，来自 residere“留下”。",
+      "ja": "ラテン語 residuum「残ったもの」。residere「とどまる」から。"
+     },
+     "forms": [
+      [
+       "residual (adj.)",
+       "残留的；剩余的",
+       "残りの"
+      ],
+      [
+       "leave a residue",
+       "留下残渣",
+       "残留物を残す"
+      ]
+     ]
+    },
+    {
+     "w": "subside",
+     "pos": "v.",
+     "ipa": "/səbˈsaɪd/",
+     "zh": "（风雨、疼痛等）平息；减退",
+     "ja": "（嵐・痛みなどが）収まる；静まる",
+     "ex": "Flights will resume once the strong winds subside.",
+     "ex_zh": "一旦大风平息，航班就会恢复。",
+     "ex_ja": "強風が収まり次第、運航は再開されます。",
+     "parts": [
+      [
+       "sub-",
+       "在下",
+       "下に"
+      ],
+      [
+       "sid",
+       "坐",
+       "座る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 subsidere“往下坐 → 沉降”：sub- + sidere“坐下”（sedere 的同族词）。本站已学的 subsidy（补贴）、subsidiary（子公司）也属于这个家族（subsidium“坐在后面的预备队”）。",
+      "ja": "ラテン語 subsidere「下に座る → 沈む」：sub- + sidere「座る」（sedere の仲間）。既習の subsidy（補助金）・subsidiary（子会社）も同じ仲間（subsidium「後ろに控える予備隊」）。"
+     },
+     "forms": [
+      [
+       "the storm subsides",
+       "暴风雨平息",
+       "嵐が収まる"
+      ],
+      [
+       "demand subsides",
+       "需求减退",
+       "需要が落ち着く"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 4 天气广播常见 ... once the rain subsides.",
+      "ja": "Part 4 の天気予報で ... once the rain subsides. がよく出る。"
+     }
+    },
+    {
+     "w": "assessment",
+     "pos": "n.",
+     "ipa": "/əˈsɛsmənt/",
+     "zh": "评估；评定；（税额）核定",
+     "ja": "評価；査定",
+     "ex": "An outside firm will conduct a risk assessment of the new factory.",
+     "ex_zh": "一家外部公司将对新工厂进行风险评估。",
+     "ex_ja": "外部の会社が新工場のリスク評価を行います。",
+     "parts": [
+      [
+       "as-",
+       "朝向（ad- 的变体）",
+       "〜へ（ad- の変化形）"
+      ],
+      [
+       "sess",
+       "坐",
+       "座る"
+      ],
+      [
+       "-ment",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "assess 来自中世纪拉丁语 assessare，源于 assidere“坐在旁边（协助法官评定）”：ad- + sedere“坐”。",
+      "ja": "assess は中世ラテン語 assessare から。assidere「そばに座る（裁判官を補佐して査定する）」：ad- + sedere「座る」。"
+     },
+     "forms": [
+      [
+       "assess (v.)",
+       "评估",
+       "評価する"
+      ],
+      [
+       "needs assessment",
+       "需求评估",
+       "ニーズ調査"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7 同义替换：assessment ≈ evaluation。",
+      "ja": "Part 7 の言い換え：assessment ≈ evaluation。"
+     }
+    },
+    {
+     "w": "possession",
+     "pos": "n.",
+     "ipa": "/pəˈzɛʃən/",
+     "zh": "拥有；（复数）财物",
+     "ja": "所有；（複数で）所持品",
+     "ex": "Passengers should keep their personal possessions with them at all times.",
+     "ex_zh": "乘客应随时将个人物品带在身边。",
+     "ex_ja": "乗客は手荷物を常に身の回りに置いてください。",
+     "parts": [
+      [
+       "pos",
+       "有能力的（potis）",
+       "できる（potis）"
+      ],
+      [
+       "sess",
+       "坐",
+       "座る"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 possessio，来自 possidere“占有”：potis“有能力的” + sedere“坐”（坐在上面 → 占有）。",
+      "ja": "ラテン語 possessio。possidere「所有する」：potis「力がある」+ sedere「座る」（上に座る → 自分のものにする）。"
+     },
+     "forms": [
+      [
+       "possess (v.)",
+       "拥有",
+       "所有する"
+      ],
+      [
+       "in possession of",
+       "拥有……",
+       "〜を所有して"
+      ]
+     ],
+     "hl": "possessions"
+    },
+    {
+     "w": "sedentary",
+     "pos": "adj.",
+     "ipa": "/ˈsɛdənˌtɛri/",
+     "zh": "久坐的；坐着工作的",
+     "ja": "座りがちな；座ったままの",
+     "ex": "Short walks during the day can offset the effects of a sedentary job.",
+     "ex_zh": "白天散散步可以抵消久坐工作的影响。",
+     "ex_ja": "日中の短い散歩で、座りっぱなしの仕事の影響を和らげられます。",
+     "parts": [
+      [
+       "sed",
+       "坐",
+       "座る"
+      ],
+      [
+       "-ent",
+       "形容词词尾",
+       "形容詞語尾"
+      ],
+      [
+       "-ary",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 sedentarius“坐着的”，来自 sedere“坐”。",
+      "ja": "ラテン語 sedentarius「座っている」。sedere「座る」から。"
+     },
+     "forms": [
+      [
+       "sedentary lifestyle",
+       "久坐的生活方式",
+       "座りがちな生活"
+      ],
+      [
+       "active (adj.)",
+       "活跃的（反义）",
+       "活動的な（反義）"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "vac",
+   "title_zh": "词根 -vac- / -void-：空",
+   "title_ja": "語根 -vac- / -void-：空",
+   "words": [
+    {
+     "w": "vacate",
+     "pos": "v.",
+     "ipa": "/ˈveɪˌkeɪt/",
+     "zh": "腾出；搬出；退（房）",
+     "ja": "明け渡す；（部屋を）引き払う",
+     "ex": "Guests are asked to vacate their rooms by 11 a.m. on the day of departure.",
+     "ex_zh": "请客人在退房当天上午 11 点前腾出房间。",
+     "ex_ja": "宿泊客は出発日の午前 11 時までに部屋を空けてください。",
+     "parts": [
+      [
+       "vac",
+       "空",
+       "空の"
+      ],
+      [
+       "-ate",
+       "动词后缀",
+       "動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 vacare“空着”，过去分词 vacatus。本站已学的 vacant、evacuate 同源。",
+      "ja": "ラテン語 vacare「空である」、過去分詞 vacatus。既習の vacant・evacuate と同語源。"
+     },
+     "forms": [
+      [
+       "vacate the premises",
+       "搬离场所",
+       "建物を明け渡す"
+      ],
+      [
+       "vacate a position",
+       "辞去职位",
+       "職を退く"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7 租赁和酒店通知常见；注意读音 /ˈveɪˌkeɪt/。",
+      "ja": "Part 7 の賃貸・ホテルのお知らせに出る。発音 /ˈveɪˌkeɪt/ に注意。"
+     }
+    },
+    {
+     "w": "vacancy",
+     "pos": "n.",
+     "ipa": "/ˈveɪkənsi/",
+     "zh": "空缺职位；空房",
+     "ja": "欠員；空室",
+     "ex": "There is a vacancy in the accounting department for a senior analyst.",
+     "ex_zh": "会计部有一个高级分析师的职位空缺。",
+     "ex_ja": "経理部にシニアアナリストの欠員があります。",
+     "parts": [
+      [
+       "vac",
+       "空",
+       "空の"
+      ],
+      [
+       "-ancy",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "中世纪拉丁语 vacantia，来自 vacare“空着”。",
+      "ja": "中世ラテン語 vacantia。vacare「空である」から。"
+     },
+     "forms": [
+      [
+       "fill a vacancy",
+       "填补空缺",
+       "欠員を補充する"
+      ],
+      [
+       "No Vacancy",
+       "客满（汽车旅馆招牌）",
+       "満室（モーテルの看板）"
+      ]
+     ],
+     "tip": {
+      "zh": "vacancy 在 TOEIC 里两个意思都考：招聘广告的“职位空缺”和酒店的“空房”。",
+      "ja": "TOEIC では求人広告の「欠員」とホテルの「空室」の両方の意味が出る。"
+     }
+    },
+    {
+     "w": "vacation",
+     "pos": "n.",
+     "ipa": "/veɪˈkeɪʃən/",
+     "zh": "假期；休假",
+     "ja": "休暇",
+     "ex": "Ms. Tanaka will be on vacation until the end of the month.",
+     "ex_zh": "田中女士月底之前都在休假。",
+     "ex_ja": "田中さんは月末まで休暇中です。",
+     "parts": [
+      [
+       "vac",
+       "空",
+       "空の"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 vacatio“免除（职责）”，来自 vacare“空着、有空”。",
+      "ja": "ラテン語 vacatio「（義務からの）解放」。vacare「空いている・暇である」から。"
+     },
+     "forms": [
+      [
+       "on vacation",
+       "休假中",
+       "休暇中で"
+      ],
+      [
+       "paid vacation",
+       "带薪假期",
+       "有給休暇"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 2 / 3 常见：... is on vacation this week, so ...（某人休假所以由别人代办）。",
+      "ja": "Part 2・3 で「〜は今週休暇中なので…」という流れがよく出る。"
+     }
+    },
+    {
+     "w": "evacuation",
+     "pos": "n.",
+     "ipa": "/ɪˌvækjuˈeɪʃən/",
+     "zh": "疏散；撤离",
+     "ja": "避難；退避",
+     "ex": "The building will hold an evacuation drill on Friday morning.",
+     "ex_zh": "大楼将在周五上午举行疏散演习。",
+     "ex_ja": "ビルでは金曜日の朝に避難訓練を行います。",
+     "parts": [
+      [
+       "e-",
+       "向外（ex- 的变体）",
+       "外へ（ex- の変化形）"
+      ],
+      [
+       "vacu",
+       "空",
+       "空の"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 evacuatio，来自 evacuare“清空”：ex- + vacuus“空的”。本站已学的 evacuate 同源。",
+      "ja": "ラテン語 evacuatio。evacuare「空にする」：ex- + vacuus「空の」から。既習の evacuate と同語源。"
+     },
+     "forms": [
+      [
+       "evacuation drill",
+       "疏散演习",
+       "避難訓練"
+      ],
+      [
+       "evacuation route",
+       "疏散路线",
+       "避難経路"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 4 / Part 7 安全通知常见 fire drill / evacuation drill。",
+      "ja": "Part 4・7 の安全のお知らせに fire drill / evacuation drill がよく出る。"
+     }
+    },
+    {
+     "w": "vacuum",
+     "pos": "n./v.",
+     "ipa": "/ˈvækjum/",
+     "zh": "真空；吸尘器；（v.）用吸尘器清扫",
+     "ja": "真空；掃除機；（動）掃除機をかける",
+     "ex": "The cleaning crew vacuums the carpets in every office each evening.",
+     "ex_zh": "清洁人员每天晚上用吸尘器清扫每间办公室的地毯。",
+     "ex_ja": "清掃スタッフは毎晩すべてのオフィスのカーペットに掃除機をかけます。",
+     "parts": [
+      [
+       "vacu",
+       "空",
+       "空の"
+      ],
+      [
+       "-um",
+       "名词词尾",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 vacuum，vacuus“空的”的中性形。",
+      "ja": "ラテン語 vacuum。vacuus「空の」の中性形。"
+     },
+     "forms": [
+      [
+       "vacuum cleaner",
+       "吸尘器",
+       "掃除機"
+      ],
+      [
+       "vacuum-packed (adj.)",
+       "真空包装的",
+       "真空パックの"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1 常见 A man is vacuuming the floor.",
+      "ja": "Part 1 で A man is vacuuming the floor. がよく出る。"
+     },
+     "hl": "vacuums"
+    },
+    {
+     "w": "devoid",
+     "pos": "adj.",
+     "ipa": "/dɪˈvɔɪd/",
+     "zh": "完全没有……的",
+     "ja": "〜が全くない",
+     "ex": "The report was devoid of any useful recommendations.",
+     "ex_zh": "这份报告没有任何有用的建议。",
+     "ex_ja": "その報告書には役に立つ提言が全くありませんでした。",
+     "parts": [
+      [
+       "de-",
+       "完全；离开",
+       "完全に；離れて"
+      ],
+      [
+       "void",
+       "空的",
+       "空の"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 desvuidier“清空”的过去分词：des- + vuidier“使空”。void 来自古法语 vuide，源于通俗拉丁语 *vocitus，与 vacare“空着”有关。",
+      "ja": "古フランス語 desvuidier「空にする」の過去分詞：des- + vuidier。void は古フランス語 vuide、俗ラテン語 *vocitus から来ており、vacare「空である」と関係がある。"
+     },
+     "forms": [
+      [
+       "devoid of",
+       "完全没有……",
+       "〜を欠いた"
+      ],
+      [
+       "void (adj.)",
+       "无效的；空的",
+       "無効の；空の"
+      ]
+     ],
+     "tip": {
+      "zh": "devoid 后面固定接 of；null and void = （合同）无效。",
+      "ja": "devoid の後は必ず of。null and void は「（契約が）無効の」。"
+     }
+    },
+    {
+     "w": "avoid",
+     "pos": "v.",
+     "ipa": "/əˈvɔɪd/",
+     "zh": "避免；避开",
+     "ja": "避ける；回避する",
+     "ex": "To avoid delays, please submit your forms by Monday.",
+     "ex_zh": "为避免延误，请在周一前提交表格。",
+     "ex_ja": "遅れを避けるため、月曜日までに書類を提出してください。",
+     "parts": [
+      [
+       "a-",
+       "离开（古法语 es-）",
+       "離れて（古フランス語 es-）"
+      ],
+      [
+       "void",
+       "空的",
+       "空の"
+      ]
+     ],
+     "note": {
+      "zh": "盎格鲁法语 avoider“清空、离开”，来自古法语 esvuidier：es-（ex-“向外”）+ vuidier“使空”。void 与拉丁语 vacare“空着”有关。",
+      "ja": "アングロ・フランス語 avoider「空にする・立ち去る」。古フランス語 esvuidier：es-（ex-「外へ」）+ vuidier「空にする」。void はラテン語 vacare「空である」と関係がある。"
+     },
+     "forms": [
+      [
+       "avoid doing",
+       "避免做……",
+       "〜するのを避ける"
+      ],
+      [
+       "avoidance (n.)",
+       "回避",
+       "回避"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5 常考：avoid 后接动名词 avoid making mistakes，不接不定式。",
+      "ja": "Part 5 の語法：avoid の後は動名詞（avoid making mistakes）。to 不定詞は不可。"
+     }
+    },
+    {
+     "w": "unavoidable",
+     "pos": "adj.",
+     "ipa": "/ˌʌnəˈvɔɪdəbəl/",
+     "zh": "不可避免的",
+     "ja": "避けられない；やむを得ない",
+     "ex": "Due to unavoidable circumstances, the concert has been postponed.",
+     "ex_zh": "由于不可避免的情况，音乐会已经延期。",
+     "ex_ja": "やむを得ない事情により、コンサートは延期されました。",
+     "parts": [
+      [
+       "un-",
+       "不",
+       "〜でない"
+      ],
+      [
+       "a-",
+       "离开（古法语 es-）",
+       "離れて（古フランス語 es-）"
+      ],
+      [
+       "void",
+       "空的",
+       "空の"
+      ],
+      [
+       "-able",
+       "可……的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "un- + avoid + -able。",
+      "ja": "un- + avoid + -able。"
+     },
+     "forms": [
+      [
+       "unavoidable delay",
+       "不可避免的延误",
+       "やむを得ない遅延"
+      ],
+      [
+       "unavoidably (adv.)",
+       "不可避免地",
+       "やむを得ず"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7 致歉通知常见 due to unavoidable circumstances。",
+      "ja": "Part 7 のお詫びのお知らせに due to unavoidable circumstances がよく出る。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "cis",
+   "title_zh": "词根 -cis- / -cide-：切、杀",
+   "title_ja": "語根 -cis- / -cide-：切る・殺す",
+   "words": [
+    {
+     "w": "decide",
+     "pos": "v.",
+     "ipa": "/dɪˈsaɪd/",
+     "zh": "决定；判定",
+     "ja": "決める；決定する",
+     "ex": "The committee decided to hold the conference in Osaka this year.",
+     "ex_zh": "委员会决定今年在大阪举办会议。",
+     "ex_ja": "委員会は今年の会議を大阪で開くことに決めました。",
+     "parts": [
+      [
+       "de-",
+       "离开；切断",
+       "離れて；切り離す"
+      ],
+      [
+       "cid",
+       "切；决断",
+       "切る；決める"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 decidere“切断 → 了结”：de- + caedere“切”。",
+      "ja": "ラテン語 decidere「切り離す → 決着をつける」：de- + caedere「切る」。"
+     },
+     "forms": [
+      [
+       "decide to do",
+       "决定做……",
+       "〜することに決める"
+      ],
+      [
+       "decide on",
+       "决定（选）……",
+       "〜に決める"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5 常考：decide + to do（不接动名词）。",
+      "ja": "Part 5 の語法：decide の後は to 不定詞（動名詞は不可）。"
+     },
+     "hl": "decided"
+    },
+    {
+     "w": "decision",
+     "pos": "n.",
+     "ipa": "/dɪˈsɪʒən/",
+     "zh": "决定；决策",
+     "ja": "決定；判断",
+     "ex": "A final decision on the budget will be made at next week's meeting.",
+     "ex_zh": "预算的最终决定将在下周的会议上作出。",
+     "ex_ja": "予算の最終決定は来週の会議で下されます。",
+     "parts": [
+      [
+       "de-",
+       "离开；切断",
+       "離れて；切り離す"
+      ],
+      [
+       "cis",
+       "切",
+       "切る"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 decisio，来自 decidere 的过去分词 decisus。",
+      "ja": "ラテン語 decisio。decidere の過去分詞 decisus から。"
+     },
+     "forms": [
+      [
+       "make a decision",
+       "作出决定",
+       "決定を下す"
+      ],
+      [
+       "decision-making (n.)",
+       "决策",
+       "意思決定"
+      ]
+     ]
+    },
+    {
+     "w": "decisive",
+     "pos": "adj.",
+     "ipa": "/dɪˈsaɪsɪv/",
+     "zh": "果断的；决定性的",
+     "ja": "決断力のある；決定的な",
+     "ex": "The manager took decisive action to solve the staffing problem.",
+     "ex_zh": "经理果断采取行动解决了人手问题。",
+     "ex_ja": "部長は人手不足の問題を解決するため、断固とした行動を取りました。",
+     "parts": [
+      [
+       "de-",
+       "离开；切断",
+       "離れて；切り離す"
+      ],
+      [
+       "cis",
+       "切",
+       "切る"
+      ],
+      [
+       "-ive",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "decide 的过去分词词干 decis- + -ive。",
+      "ja": "decide の過去分詞語幹 decis- + -ive。"
+     },
+     "forms": [
+      [
+       "decisive action",
+       "果断的行动",
+       "断固とした行動"
+      ],
+      [
+       "decisively (adv.)",
+       "果断地",
+       "決然と"
+      ]
+     ]
+    },
+    {
+     "w": "indecisive",
+     "pos": "adj.",
+     "ipa": "/ˌɪndɪˈsaɪsɪv/",
+     "zh": "优柔寡断的；不明确的",
+     "ja": "優柔不断な；決着のつかない",
+     "ex": "The client remained indecisive about which design to choose.",
+     "ex_zh": "客户对选哪个设计一直拿不定主意。",
+     "ex_ja": "顧客はどのデザインを選ぶか決めかねていました。",
+     "parts": [
+      [
+       "in-",
+       "不",
+       "〜でない"
+      ],
+      [
+       "de-",
+       "离开；切断",
+       "離れて；切り離す"
+      ],
+      [
+       "cis",
+       "切",
+       "切る"
+      ],
+      [
+       "-ive",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "in- + decisive。",
+      "ja": "in- + decisive。"
+     },
+     "forms": [
+      [
+       "indecision (n.)",
+       "犹豫不决",
+       "優柔不断"
+      ],
+      [
+       "be indecisive about",
+       "对……拿不定主意",
+       "〜について決めかねる"
+      ]
+     ]
+    },
+    {
+     "w": "precise",
+     "pos": "adj.",
+     "ipa": "/prɪˈsaɪs/",
+     "zh": "精确的；准确的",
+     "ja": "正確な；精密な",
+     "ex": "Please give us the precise dimensions of the room before we order the carpet.",
+     "ex_zh": "在我们订购地毯之前，请告诉我们房间的精确尺寸。",
+     "ex_ja": "カーペットを注文する前に、部屋の正確な寸法を教えてください。",
+     "parts": [
+      [
+       "pre-",
+       "在前",
+       "前で"
+      ],
+      [
+       "cis",
+       "切",
+       "切る"
+      ],
+      [
+       "-e",
+       "词尾",
+       "語尾"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 praecisus“前端切掉的 → 简短、精确”：prae- + caedere“切”。本站已学的 precision 同源。",
+      "ja": "ラテン語 praecisus「先端を切り落とした → 簡潔な・正確な」：prae- + caedere「切る」。既習の precision と同語源。"
+     },
+     "forms": [
+      [
+       "precisely (adv.)",
+       "精确地；恰好",
+       "正確に；まさに"
+      ],
+      [
+       "to be precise",
+       "确切地说",
+       "正確に言えば"
+      ]
+     ]
+    },
+    {
+     "w": "concise",
+     "pos": "adj.",
+     "ipa": "/kənˈsaɪs/",
+     "zh": "简明的；简洁的",
+     "ja": "簡潔な",
+     "ex": "Keep your summary concise—no more than one page.",
+     "ex_zh": "摘要请保持简洁，不超过一页。",
+     "ex_ja": "要約は簡潔に、1 ページ以内にまとめてください。",
+     "parts": [
+      [
+       "con-",
+       "完全",
+       "完全に"
+      ],
+      [
+       "cis",
+       "切",
+       "切る"
+      ],
+      [
+       "-e",
+       "词尾",
+       "語尾"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 concisus“切碎的、切短的”：con-（加强）+ caedere“切”。",
+      "ja": "ラテン語 concisus「切り詰めた」：con-（強意）+ caedere「切る」。"
+     },
+     "forms": [
+      [
+       "concisely (adv.)",
+       "简洁地",
+       "簡潔に"
+      ],
+      [
+       "clear and concise",
+       "清楚简明",
+       "明確で簡潔な"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7 同义替换：concise ≈ brief / short and clear。",
+      "ja": "Part 7 の言い換え：concise ≈ brief / short and clear。"
+     }
+    },
+    {
+     "w": "incisive",
+     "pos": "adj.",
+     "ipa": "/ɪnˈsaɪsɪv/",
+     "zh": "（分析、评论）敏锐的；一针见血的",
+     "ja": "（分析・意見が）鋭い；的確な",
+     "ex": "The analyst's incisive comments helped the team identify the real problem.",
+     "ex_zh": "分析师一针见血的评论帮助团队找到了真正的问题。",
+     "ex_ja": "アナリストの鋭い指摘のおかげで、チームは本当の問題を見つけられました。",
+     "parts": [
+      [
+       "in-",
+       "向内",
+       "中へ"
+      ],
+      [
+       "cis",
+       "切",
+       "切る"
+      ],
+      [
+       "-ive",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "中世纪拉丁语 incisivus，来自 incidere“切入”：in- + caedere“切”。",
+      "ja": "中世ラテン語 incisivus。incidere「切り込む」：in- + caedere「切る」から。"
+     },
+     "forms": [
+      [
+       "incisive analysis",
+       "敏锐的分析",
+       "鋭い分析"
+      ],
+      [
+       "incision (n.)",
+       "切口",
+       "切開"
+      ]
+     ],
+     "tip": {
+      "zh": "⚠️ 别和 incident（Day 15，来自 cadere“落下”）混淆，两者都和拉丁语 incidere 有关，但是两个不同的动词。",
+      "ja": "⚠️ incident（Day 15、cadere「落ちる」から）と混同しないこと。どちらもラテン語 incidere だが、別々の動詞。"
+     }
+    },
+    {
+     "w": "pesticide",
+     "pos": "n.",
+     "ipa": "/ˈpɛstəˌsaɪd/",
+     "zh": "农药；杀虫剂",
+     "ja": "農薬；殺虫剤",
+     "ex": "The farm grows its vegetables without chemical pesticides.",
+     "ex_zh": "这家农场种菜不用化学农药。",
+     "ex_ja": "その農場は化学農薬を使わずに野菜を育てています。",
+     "parts": [
+      [
+       "pest",
+       "害虫",
+       "害虫"
+      ],
+      [
+       "-cide",
+       "杀（caedere）",
+       "殺す（caedere）"
+      ]
+     ],
+     "note": {
+      "zh": "pest“害虫”（拉丁语 pestis“瘟疫”）+ -cide“杀”（拉丁语 -cida，来自 caedere“切、杀”）。",
+      "ja": "pest「害虫」（ラテン語 pestis「疫病」）+ -cide「殺す」（ラテン語 -cida、caedere「切る・殺す」から）。"
+     },
+     "forms": [
+      [
+       "herbicide (n.)",
+       "除草剂",
+       "除草剤"
+      ],
+      [
+       "pesticide-free (adj.)",
+       "无农药的",
+       "無農薬の"
+      ]
+     ],
+     "hl": "pesticides"
+    }
+   ]
+  },
+  {
+   "id": "agri",
+   "title_zh": "主题：农业与食品生产",
+   "title_ja": "テーマ：農業・食品生産",
+   "words": [
+    {
+     "w": "crop",
+     "pos": "n./v.",
+     "ipa": "/krɑp/",
+     "zh": "农作物；收成；（v.）裁剪（图片）",
+     "ja": "作物；収穫高；（動）（画像を）トリミングする",
+     "ex": "Heavy rain damaged much of this year's rice crop.",
+     "ex_zh": "大雨毁坏了今年大部分的稻谷收成。",
+     "ex_ja": "大雨で今年の稲作の多くが被害を受けました。",
+     "parts": [],
+     "note": {
+      "zh": "古英语 cropp“嫩芽、植物顶端”，本族词。没有可靠的词根拆分。",
+      "ja": "古英語 cropp「芽・植物の先端」。本来の英語。信頼できる語根分解はありません。"
+     },
+     "forms": [
+      [
+       "cash crop",
+       "经济作物",
+       "換金作物"
+      ],
+      [
+       "crop a photo",
+       "裁剪照片",
+       "写真をトリミングする"
+      ]
+     ],
+     "tip": {
+      "zh": "办公场景里 crop 常指“裁剪图片”。",
+      "ja": "オフィスの場面では crop は「画像をトリミングする」の意味でも出る。"
+     }
+    },
+    {
+     "w": "organic",
+     "pos": "adj.",
+     "ipa": "/ɔrˈɡænɪk/",
+     "zh": "有机的；（增长）自然的",
+     "ja": "有機の；自然な",
+     "ex": "The supermarket has expanded its selection of organic produce.",
+     "ex_zh": "这家超市扩大了有机农产品的种类。",
+     "ex_ja": "そのスーパーは有機農産物の品ぞろえを増やしました。",
+     "parts": [
+      [
+       "organ",
+       "器官；工具",
+       "器官；道具"
+      ],
+      [
+       "-ic",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "经拉丁语 organicus，来自希腊语 organikos，源于 organon“工具、器官”。",
+      "ja": "ラテン語 organicus を経て、ギリシャ語 organikos（organon「道具・器官」）から。"
+     },
+     "forms": [
+      [
+       "organic farming",
+       "有机农业",
+       "有機農業"
+      ],
+      [
+       "organic growth",
+       "（企业）内生增长",
+       "自律的成長"
+      ]
+     ],
+     "tip": {
+      "zh": "商业文章里 organic growth = 靠自身业务增长（不靠并购）。",
+      "ja": "ビジネス記事の organic growth は「買収によらない自社の成長」。"
+     }
+    },
+    {
+     "w": "fertilizer",
+     "pos": "n.",
+     "ipa": "/ˈfɝtəˌlaɪzɚ/",
+     "zh": "肥料",
+     "ja": "肥料",
+     "ex": "The company makes natural fertilizer from food waste.",
+     "ex_zh": "这家公司用厨余垃圾制造天然肥料。",
+     "ex_ja": "その会社は食品廃棄物から天然肥料を作っています。",
+     "parts": [
+      [
+       "fert",
+       "携带；结出（ferre）",
+       "運ぶ；実らせる（ferre）"
+      ],
+      [
+       "-ile",
+       "形容词后缀",
+       "形容詞を作る"
+      ],
+      [
+       "-ize",
+       "使……化",
+       "〜化する"
+      ],
+      [
+       "-er",
+       "表示物",
+       "もの"
+      ]
+     ],
+     "note": {
+      "zh": "fertile 来自拉丁语 fertilis“多产的”，源于 ferre“带来、结出”（Day 3 的 fer）；+ -ize + -er。",
+      "ja": "fertile はラテン語 fertilis「実り豊かな」、ferre「運ぶ・実らせる」（Day 3 の fer）から。+ -ize + -er。"
+     },
+     "forms": [
+      [
+       "fertile (adj.)",
+       "肥沃的",
+       "肥沃な"
+      ],
+      [
+       "fertilize (v.)",
+       "施肥",
+       "肥料を与える"
+      ]
+     ]
+    },
+    {
+     "w": "livestock",
+     "pos": "n.",
+     "ipa": "/ˈlaɪvˌstɑk/",
+     "zh": "家畜；牲畜",
+     "ja": "家畜",
+     "ex": "The family raises livestock and grows corn on its farm.",
+     "ex_zh": "这家人在农场养牲畜、种玉米。",
+     "ex_ja": "その一家は農場で家畜を飼い、トウモロコシを育てています。",
+     "parts": [],
+     "note": {
+      "zh": "本族复合词，没有可靠的词根拆分。live“活的” + stock“存货”。",
+      "ja": "本来の英語の複合語で、信頼できる語根分解はありません。live「生きている」+ stock「蓄え」。"
+     },
+     "forms": [
+      [
+       "livestock farming",
+       "畜牧业",
+       "畜産"
+      ],
+      [
+       "cattle (n.)",
+       "牛（总称）",
+       "牛（総称）"
+      ]
+     ],
+     "tip": {
+      "zh": "livestock 是不可数名词，不加 -s。",
+      "ja": "livestock は不可算名詞で -s をつけない。"
+     }
+    },
+    {
+     "w": "irrigation",
+     "pos": "n.",
+     "ipa": "/ˌɪrəˈɡeɪʃən/",
+     "zh": "灌溉",
+     "ja": "灌漑",
+     "ex": "A new irrigation system has cut the farm's water use by a third.",
+     "ex_zh": "新的灌溉系统使农场的用水量减少了三分之一。",
+     "ex_ja": "新しい灌漑システムで農場の水使用量は 3 分の 1 減りました。",
+     "parts": [
+      [
+       "ir-",
+       "向内（in- 的变体）",
+       "中へ（in- の変化形）"
+      ],
+      [
+       "rig",
+       "浇水",
+       "水をまく"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 irrigatio，来自 irrigare“引水灌溉”：in-（在 r 前变成 ir-）+ rigare“浇水”。",
+      "ja": "ラテン語 irrigatio。irrigare「水を引く」：in-（r の前で ir-）+ rigare「水をまく」から。"
+     },
+     "forms": [
+      [
+       "irrigate (v.)",
+       "灌溉",
+       "灌漑する"
+      ],
+      [
+       "irrigation canal",
+       "灌溉渠",
+       "用水路"
+      ]
+     ]
+    },
+    {
+     "w": "orchard",
+     "pos": "n.",
+     "ipa": "/ˈɔrtʃɚd/",
+     "zh": "果园",
+     "ja": "果樹園",
+     "ex": "Visitors can pick their own apples at the orchard every weekend in October.",
+     "ex_zh": "十月每个周末，游客都可以在果园自己摘苹果。",
+     "ex_ja": "10 月の毎週末、果樹園で自分でリンゴを摘むことができます。",
+     "parts": [],
+     "note": {
+      "zh": "古英语 ortgeard“菜园、果园”，前半部分的来源有争议。没有可靠的词根拆分。",
+      "ja": "古英語 ortgeard「菜園・果樹園」。前半の語源には諸説ある。信頼できる語根分解はありません。"
+     },
+     "forms": [
+      [
+       "apple orchard",
+       "苹果园",
+       "リンゴ園"
+      ],
+      [
+       "vineyard (n.)",
+       "葡萄园",
+       "ぶどう園"
+      ]
+     ]
+    },
+    {
+     "w": "greenhouse",
+     "pos": "n.",
+     "ipa": "/ˈɡrinˌhaʊs/",
+     "zh": "温室",
+     "ja": "温室",
+     "ex": "Tomatoes are grown in heated greenhouses throughout the winter.",
+     "ex_zh": "整个冬天，番茄都种在有暖气的温室里。",
+     "ex_ja": "トマトは冬の間、暖房の効いた温室で栽培されます。",
+     "parts": [],
+     "note": {
+      "zh": "本族复合词，没有可靠的词根拆分。green + house。",
+      "ja": "本来の英語の複合語で、信頼できる語根分解はありません。green + house。"
+     },
+     "forms": [
+      [
+       "greenhouse gas",
+       "温室气体",
+       "温室効果ガス"
+      ],
+      [
+       "greenhouse effect",
+       "温室效应",
+       "温室効果"
+      ]
+     ],
+     "hl": "greenhouses"
+    },
+    {
+     "w": "perishable",
+     "pos": "adj./n.",
+     "ipa": "/ˈpɛrɪʃəbəl/",
+     "zh": "易腐烂的；（n.）易腐食品",
+     "ja": "傷みやすい；（名）生鮮食品",
+     "ex": "Perishable items must be stored in the refrigerator immediately after delivery.",
+     "ex_zh": "易腐物品送达后必须立即放入冰箱。",
+     "ex_ja": "生鮮品は配達後すぐに冷蔵庫に保管してください。",
+     "parts": [
+      [
+       "perish",
+       "消亡（per- + ire“走”）",
+       "滅びる（per- + ire「行く」）"
+      ],
+      [
+       "-able",
+       "可……的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "perish 来自古法语 periss-，源于拉丁语 perire“消亡”：per-“彻底” + ire“走”；+ -able。",
+      "ja": "perish は古フランス語 periss-、ラテン語 perire「滅びる」：per-「完全に」+ ire「行く」から。+ -able。"
+     },
+     "forms": [
+      [
+       "perishable goods",
+       "易腐商品",
+       "生鮮品"
+      ],
+      [
+       "non-perishable (adj.)",
+       "不易腐的",
+       "日持ちする"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7 配送说明常见 perishable items（需冷藏、尽快签收）。",
+      "ja": "Part 7 の配送案内に perishable items（要冷蔵・早めの受け取り）がよく出る。"
+     }
+    },
+    {
+     "w": "harvest",
+     "pos": "n./v.",
+     "ipa": "/ˈhɑrvəst/",
+     "zh": "收获；收成；（v.）收割",
+     "ja": "収穫；（動）収穫する",
+     "ex": "The grape harvest usually begins in early September.",
+     "ex_zh": "葡萄的收获通常在九月初开始。",
+     "ex_ja": "ブドウの収穫は通常 9 月上旬に始まります。",
+     "parts": [],
+     "note": {
+      "zh": "古英语 hærfest“秋天”，本族词。没有可靠的词根拆分。",
+      "ja": "古英語 hærfest「秋」。本来の英語。信頼できる語根分解はありません。"
+     },
+     "forms": [
+      [
+       "harvest festival",
+       "丰收节",
+       "収穫祭"
+      ],
+      [
+       "a good / poor harvest",
+       "丰收 / 歉收",
+       "豊作／不作"
+      ]
+     ]
+    },
+    {
+     "w": "dairy",
+     "pos": "n./adj.",
+     "ipa": "/ˈdɛri/",
+     "zh": "乳制品；奶制品业；乳品的",
+     "ja": "乳製品；酪農の",
+     "ex": "The café offers several dairy-free options for customers.",
+     "ex_zh": "这家咖啡馆为顾客提供好几种不含乳制品的选择。",
+     "ex_ja": "そのカフェは乳製品を使わないメニューをいくつか用意しています。",
+     "parts": [],
+     "note": {
+      "zh": "中古英语 deierie，来自 deie“挤奶女工”，本族词。没有可靠的词根拆分。",
+      "ja": "中英語 deierie。deie「乳しぼりの女性」から。本来の英語。信頼できる語根分解はありません。"
+     },
+     "forms": [
+      [
+       "dairy products",
+       "乳制品",
+       "乳製品"
+      ],
+      [
+       "dairy farm",
+       "奶牛场",
+       "酪農場"
+      ]
+     ],
+     "tip": {
+      "zh": "⚠️ dairy（乳制品）和 diary（日记）拼写只差两个字母的顺序。",
+      "ja": "⚠️ dairy（乳製品）と diary（日記）は 2 文字の順番が違うだけ。"
+     },
+     "hl": "dairy-free"
+    },
+    {
+     "w": "cultivate",
+     "pos": "v.",
+     "ipa": "/ˈkʌltəˌveɪt/",
+     "zh": "耕种；培育；建立（关系）",
+     "ja": "耕す；栽培する；（関係を）築く",
+     "ex": "Our sales staff work hard to cultivate long-term relationships with clients.",
+     "ex_zh": "我们的销售人员努力与客户建立长期关系。",
+     "ex_ja": "当社の営業スタッフは顧客との長期的な関係を築くよう努めています。",
+     "parts": [
+      [
+       "cult",
+       "耕种（colere）",
+       "耕す（colere）"
+      ],
+      [
+       "-iv-",
+       "形容词词尾",
+       "形容詞語尾"
+      ],
+      [
+       "-ate",
+       "动词后缀",
+       "動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "中世纪拉丁语 cultivare，来自 cultus（colere“耕种、照料”的过去分词）。culture 同源。",
+      "ja": "中世ラテン語 cultivare。cultus（colere「耕す・世話をする」の過去分詞）から。culture と同語源。"
+     },
+     "forms": [
+      [
+       "cultivate relationships",
+       "建立关系",
+       "関係を築く"
+      ],
+      [
+       "cultivation (n.)",
+       "耕种；培养",
+       "栽培；育成"
+      ]
+     ],
+     "tip": {
+      "zh": "TOEIC 里 cultivate 更常用于“培养客户关系、人才”。",
+      "ja": "TOEIC では「顧客との関係・人材を育てる」の意味でよく出る。"
+     }
+    },
+    {
+     "w": "agricultural",
+     "pos": "adj.",
+     "ipa": "/ˌæɡrəˈkʌltʃɚəl/",
+     "zh": "农业的",
+     "ja": "農業の",
+     "ex": "The region's economy depends heavily on agricultural exports.",
+     "ex_zh": "该地区的经济在很大程度上依赖农产品出口。",
+     "ex_ja": "その地域の経済は農産物の輸出に大きく依存しています。",
+     "parts": [
+      [
+       "agri",
+       "田地（ager）",
+       "畑（ager）"
+      ],
+      [
+       "cult",
+       "耕种（colere）",
+       "耕す（colere）"
+      ],
+      [
+       "-ural",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "agriculture 来自拉丁语 agricultura：ager（属格 agri）“田地” + cultura“耕种”。",
+      "ja": "agriculture はラテン語 agricultura：ager（属格 agri）「畑」+ cultura「耕作」。"
+     },
+     "forms": [
+      [
+       "agriculture (n.)",
+       "农业",
+       "農業"
+      ],
+      [
+       "agricultural products",
+       "农产品",
+       "農産物"
+      ]
+     ]
+    },
+    {
+     "w": "poultry",
+     "pos": "n.",
+     "ipa": "/ˈpoʊltri/",
+     "zh": "家禽；禽肉",
+     "ja": "家禽；鶏肉",
+     "ex": "The restaurant buys all of its poultry from local farms.",
+     "ex_zh": "这家餐厅所有的禽肉都从本地农场采购。",
+     "ex_ja": "そのレストランは鶏肉をすべて地元の農場から仕入れています。",
+     "parts": [],
+     "note": {
+      "zh": "古法语 pouletrie“家禽”，来自 poulet“小鸡”。没有可靠的词根拆分。",
+      "ja": "古フランス語 pouletrie「家禽」。poulet「ひな鶏」から。信頼できる語根分解はありません。"
+     },
+     "forms": [
+      [
+       "poultry farm",
+       "养禽场",
+       "養鶏場"
+      ],
+      [
+       "meat and poultry",
+       "肉类和禽肉",
+       "食肉と鶏肉"
+      ]
+     ],
+     "tip": {
+      "zh": "poultry 作集合名词，通常不加 -s。",
+      "ja": "poultry は集合名詞で、ふつう -s をつけない。"
+     }
+    },
+    {
+     "w": "vineyard",
+     "pos": "n.",
+     "ipa": "/ˈvɪnjɚd/",
+     "zh": "葡萄园",
+     "ja": "ぶどう園",
+     "ex": "The tour includes a visit to a vineyard and a wine tasting.",
+     "ex_zh": "此次旅游包括参观葡萄园和品酒。",
+     "ex_ja": "ツアーにはぶどう園の見学とワインの試飲が含まれています。",
+     "parts": [
+      [
+       "vine",
+       "葡萄藤（拉丁语 vinea）",
+       "ぶどうのつる（ラテン語 vinea）"
+      ],
+      [
+       "yard",
+       "园地",
+       "庭"
+      ]
+     ],
+     "note": {
+      "zh": "vine（经古法语，来自拉丁语 vinea，vinum“葡萄酒”）+ 本族词 yard“园地”。",
+      "ja": "vine（古フランス語を経てラテン語 vinea、vinum「ワイン」から）+ 本来の英語 yard「庭」。"
+     },
+     "forms": [
+      [
+       "winery (n.)",
+       "酿酒厂",
+       "ワイナリー"
+      ],
+      [
+       "wine tasting",
+       "品酒",
+       "ワインの試飲"
+      ]
+     ],
+     "tip": {
+      "zh": "注意读音 /ˈvɪnjɚd/，不是 vine-yard。",
+      "ja": "発音は /ˈvɪnjɚd/。「ヴァイン・ヤード」ではない。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "print",
+   "title_zh": "主题：印刷与平面设计",
+   "title_ja": "テーマ：印刷・グラフィックデザイン",
+   "words": [
+    {
+     "w": "layout",
+     "pos": "n.",
+     "ipa": "/ˈleɪˌaʊt/",
+     "zh": "布局；版面设计；（场地）布置",
+     "ja": "レイアウト；配置",
+     "ex": "The designer changed the layout of the brochure to make it easier to read.",
+     "ex_zh": "设计师改了宣传册的版面，让它更好读。",
+     "ex_ja": "デザイナーは読みやすくするためにパンフレットのレイアウトを変えました。",
+     "parts": [],
+     "note": {
+      "zh": "本族复合词，没有可靠的词根拆分。lay“放” + out。",
+      "ja": "本来の英語の複合語で、信頼できる語根分解はありません。lay「置く」+ out。"
+     },
+     "forms": [
+      [
+       "floor layout",
+       "平面布局",
+       "フロア配置"
+      ],
+      [
+       "lay out (v.)",
+       "布置；摆开",
+       "並べる；配置する"
+      ]
+     ]
+    },
+    {
+     "w": "font",
+     "pos": "n.",
+     "ipa": "/fɑnt/",
+     "zh": "字体；字型",
+     "ja": "フォント；書体",
+     "ex": "Please use the same font throughout the presentation slides.",
+     "ex_zh": "演示幻灯片请统一使用同一种字体。",
+     "ex_ja": "プレゼンのスライドは全体で同じフォントを使ってください。",
+     "parts": [
+      [
+       "font",
+       "熔铸（fundere）",
+       "鋳造（fundere）"
+      ]
+     ],
+     "note": {
+      "zh": "印刷义来自法语 fonte“铸造（的一套铅字）”，源于 fondre“熔化、铸造”，即拉丁语 fundere（Day 19 的 fus）。",
+      "ja": "印刷の意味はフランス語 fonte「鋳造（した活字一式）」から。fondre「溶かす・鋳造する」、つまりラテン語 fundere（Day 19 の fus）に由来。"
+     },
+     "forms": [
+      [
+       "font size",
+       "字号",
+       "フォントサイズ"
+      ],
+      [
+       "bold font",
+       "粗体",
+       "太字"
+      ]
+     ],
+     "tip": {
+      "zh": "⚠️ 教堂的 font（洗礼盆）来自拉丁语 fons“泉”，与字体的 font 不同源。",
+      "ja": "⚠️ 教会の font（洗礼盤）はラテン語 fons「泉」から来ており、書体の font とは別語源。"
+     }
+    },
+    {
+     "w": "proof",
+     "pos": "n./adj.",
+     "ipa": "/pruf/",
+     "zh": "证据；校样；（adj.）防……的",
+     "ja": "証拠；校正刷り；（形）〜に耐える",
+     "ex": "Please check the proofs carefully before we send the catalog to the printer.",
+     "ex_zh": "在我们把产品目录送去印刷之前，请仔细检查校样。",
+     "ex_ja": "カタログを印刷所に送る前に、校正刷りをよく確認してください。",
+     "parts": [],
+     "note": {
+      "zh": "古法语 prueve，来自晚期拉丁语 proba“检验”（probare）。拼写已变化，没有可靠的词根拆分。",
+      "ja": "古フランス語 prueve。後期ラテン語 proba「試験」（probare）から。つづりが変化しており、信頼できる語根分解はありません。"
+     },
+     "forms": [
+      [
+       "proof of purchase",
+       "购买凭证",
+       "購入証明"
+      ],
+      [
+       "waterproof (adj.)",
+       "防水的",
+       "防水の"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7 退换货常见 proof of purchase（购买凭证，如收据）。",
+      "ja": "Part 7 の返品規定に proof of purchase（レシートなどの購入証明）がよく出る。"
+     },
+     "hl": "proofs"
+    },
+    {
+     "w": "ink",
+     "pos": "n.",
+     "ipa": "/ɪŋk/",
+     "zh": "墨水；油墨",
+     "ja": "インク",
+     "ex": "The office is running low on printer ink.",
+     "ex_zh": "办公室的打印机墨水快用完了。",
+     "ex_ja": "オフィスのプリンターのインクが残り少なくなっています。",
+     "parts": [],
+     "note": {
+      "zh": "古法语 enque，来自晚期拉丁语 encaustum（希腊语 enkauston“烙上去的”）。拼写变化大，没有可靠的词根拆分。",
+      "ja": "古フランス語 enque。後期ラテン語 encaustum（ギリシャ語 enkauston「焼き付けたもの」）から。つづりが大きく変わり、信頼できる語根分解はありません。"
+     },
+     "forms": [
+      [
+       "ink cartridge",
+       "墨盒",
+       "インクカートリッジ"
+      ],
+      [
+       "run low on ink",
+       "墨水不足",
+       "インクが少なくなる"
+      ]
+     ]
+    },
+    {
+     "w": "glossy",
+     "pos": "adj.",
+     "ipa": "/ˈɡlɔsi/",
+     "zh": "有光泽的；（纸）光面的",
+     "ja": "光沢のある；つやのある",
+     "ex": "The annual report is printed on thick, glossy paper.",
+     "ex_zh": "年度报告印在厚的光面纸上。",
+     "ex_ja": "年次報告書は厚手の光沢紙に印刷されています。",
+     "parts": [],
+     "note": {
+      "zh": "gloss“光泽”（来源不确定，可能来自北欧语）+ -y。没有可靠的词根拆分。",
+      "ja": "gloss「光沢」（語源不詳、北欧語からとも）+ -y。信頼できる語根分解はありません。"
+     },
+     "forms": [
+      [
+       "glossy finish",
+       "光面",
+       "光沢仕上げ"
+      ],
+      [
+       "glossy magazine",
+       "铜版纸杂志",
+       "高級雑誌"
+      ]
+     ]
+    },
+    {
+     "w": "matte",
+     "pos": "adj.",
+     "ipa": "/mæt/",
+     "zh": "亚光的；无光泽的",
+     "ja": "つや消しの；マットな",
+     "ex": "The client prefers a matte finish for the business cards.",
+     "ex_zh": "客户的名片想要亚光效果。",
+     "ex_ja": "顧客は名刺をマット仕上げにしたいと考えています。",
+     "parts": [],
+     "note": {
+      "zh": "法语 mat“暗淡的”，来源不确定。没有可靠的词根拆分。",
+      "ja": "フランス語 mat「くすんだ」。語源不詳。信頼できる語根分解はありません。"
+     },
+     "forms": [
+      [
+       "matte finish",
+       "亚光处理",
+       "マット仕上げ"
+      ],
+      [
+       "glossy (adj.)",
+       "光面的（反义）",
+       "光沢のある（反義）"
+      ]
+     ],
+     "tip": {
+      "zh": "印刷选项常见对比：glossy（光面）vs. matte（亚光）。",
+      "ja": "印刷のオプションでは glossy（光沢）と matte（つや消し）がよく対比される。"
+     }
+    },
+    {
+     "w": "template",
+     "pos": "n.",
+     "ipa": "/ˈtɛmplət/",
+     "zh": "模板；样板",
+     "ja": "テンプレート；ひな形",
+     "ex": "Use the company template when preparing your monthly report.",
+     "ex_zh": "准备月报时请使用公司的模板。",
+     "ex_ja": "月次報告書を作るときは会社のテンプレートを使ってください。",
+     "parts": [],
+     "note": {
+      "zh": "早期写作 templet，来自法语 templet（织布机上的撑幅木），来源不确定，与 temple（寺庙）无关。没有可靠的词根拆分。",
+      "ja": "古くは templet。フランス語 templet（織機の幅出し棒）から。語源は不確かで、temple（寺院）とは無関係。信頼できる語根分解はありません。"
+     },
+     "forms": [
+      [
+       "email template",
+       "邮件模板",
+       "メールのテンプレート"
+      ],
+      [
+       "use a template",
+       "使用模板",
+       "ひな形を使う"
+      ]
+     ]
+    },
+    {
+     "w": "mock-up",
+     "pos": "n.",
+     "ipa": "/ˈmɑkˌʌp/",
+     "zh": "实物模型；样稿",
+     "ja": "実物大模型；試作の見本",
+     "ex": "The designer showed us a mock-up of the new product packaging.",
+     "ex_zh": "设计师给我们看了新产品包装的样稿。",
+     "ex_ja": "デザイナーは新製品のパッケージの見本を見せてくれました。",
+     "parts": [],
+     "note": {
+      "zh": "mock“模仿”（古法语 mocquer，来源不确定）+ up。没有可靠的词根拆分。",
+      "ja": "mock「まねる」（古フランス語 mocquer、語源不詳）+ up。信頼できる語根分解はありません。"
+     },
+     "forms": [
+      [
+       "mock (adj.)",
+       "模拟的",
+       "模擬の"
+      ],
+      [
+       "prototype (n.)",
+       "原型；样机",
+       "試作品"
+      ]
+     ],
+     "tip": {
+      "zh": "也写作 mockup。Part 3 设计讨论里常和 draft、sample 一起出现。",
+      "ja": "mockup とも書く。Part 3 のデザインの打ち合わせで draft・sample と一緒に出る。"
+     }
+    },
+    {
+     "w": "margin",
+     "pos": "n.",
+     "ipa": "/ˈmɑrdʒən/",
+     "zh": "页边空白；利润率；差额",
+     "ja": "余白；利ざや；差",
+     "ex": "Leave a one-inch margin on all sides of the document.",
+     "ex_zh": "文件四周请各留一英寸的页边距。",
+     "ex_ja": "書類の四方に 1 インチの余白を取ってください。",
+     "parts": [
+      [
+       "margin",
+       "边缘（margo）",
+       "縁（margo）"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 margo（属格 marginis）“边缘”。",
+      "ja": "ラテン語 margo（属格 marginis）「縁」。"
+     },
+     "forms": [
+      [
+       "profit margin",
+       "利润率",
+       "利益率"
+      ],
+      [
+       "by a wide / narrow margin",
+       "以大 / 小差距",
+       "大差／僅差で"
+      ]
+     ],
+     "tip": {
+      "zh": "TOEIC 里 margin 两个意思都考：版面“页边”和财务“利润率”。",
+      "ja": "TOEIC では「余白」と「利益率」の両方の意味が出る。"
+     }
+    },
+    {
+     "w": "signage",
+     "pos": "n.",
+     "ipa": "/ˈsaɪnɪdʒ/",
+     "zh": "标识；指示牌（总称）",
+     "ja": "標識；案内表示（総称）",
+     "ex": "New signage will help visitors find the conference rooms more easily.",
+     "ex_zh": "新的指示牌将帮助访客更容易找到会议室。",
+     "ex_ja": "新しい案内表示で、来訪者は会議室を見つけやすくなります。",
+     "parts": [
+      [
+       "sign",
+       "记号（Day 5 的 sign）",
+       "しるし（Day 5 の sign）"
+      ],
+      [
+       "-age",
+       "名词后缀（总称）",
+       "名詞を作る（総称）"
+      ]
+     ],
+     "note": {
+      "zh": "sign 来自拉丁语 signum“记号”（Day 5 的 -sign-）；+ -age 表示总称。",
+      "ja": "sign はラテン語 signum「しるし」（Day 5 の -sign-）から。+ -age で総称を表す。"
+     },
+     "forms": [
+      [
+       "digital signage",
+       "数字标牌",
+       "デジタルサイネージ"
+      ],
+      [
+       "directional signage",
+       "指路标识",
+       "案内標識"
+      ]
+     ],
+     "tip": {
+      "zh": "signage 是不可数名词，泛指所有标识。",
+      "ja": "signage は不可算名詞で、標識全体を指す。"
+     }
+    },
+    {
+     "w": "illustration",
+     "pos": "n.",
+     "ipa": "/ˌɪləˈstreɪʃən/",
+     "zh": "插图；图解；例证",
+     "ja": "挿絵；イラスト；実例",
+     "ex": "The children's book features colorful illustrations on every page.",
+     "ex_zh": "这本童书每一页都有彩色插图。",
+     "ex_ja": "その絵本はどのページにもカラフルな挿絵があります。",
+     "parts": [
+      [
+       "il-",
+       "向内；使（in- 的变体）",
+       "中へ（in- の変化形）"
+      ],
+      [
+       "lustr",
+       "照亮",
+       "照らす"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 illustratio，来自 illustrare“照亮 → 阐明”：in- + lustrare“照亮”。",
+      "ja": "ラテン語 illustratio。illustrare「照らす → 明らかにする」：in- + lustrare「照らす」から。"
+     },
+     "forms": [
+      [
+       "illustrate (v.)",
+       "说明；配插图",
+       "説明する；挿絵を入れる"
+      ],
+      [
+       "illustrator (n.)",
+       "插画师",
+       "イラストレーター"
+      ]
+     ],
+     "hl": "illustrations"
+    },
+    {
+     "w": "emboss",
+     "pos": "v.",
+     "ipa": "/ɪmˈbɔs/",
+     "zh": "压印（凸纹）；使凸起",
+     "ja": "浮き彫りにする；型押しする",
+     "ex": "Our logo will be embossed in gold on the cover of the invitation.",
+     "ex_zh": "我们的标志将以烫金凸印的方式印在请柬封面上。",
+     "ex_ja": "当社のロゴは招待状の表紙に金色で型押しされます。",
+     "parts": [
+      [
+       "em-",
+       "使；向内（en- 的变体）",
+       "〜にする（en- の変化形）"
+      ],
+      [
+       "boss",
+       "凸起（古法语 boce）",
+       "こぶ（古フランス語 boce）"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 embocer：en- + boce“隆起、凸块”。⚠️ 和 boss（老板，来自荷兰语 baas）不同源。",
+      "ja": "古フランス語 embocer：en- + boce「こぶ・突起」。⚠️ boss（上司、オランダ語 baas から）とは別語源。"
+     },
+     "forms": [
+      [
+       "embossed (adj.)",
+       "有凸纹的",
+       "浮き彫りの"
+      ],
+      [
+       "embossed business cards",
+       "凸印名片",
+       "型押しの名刺"
+      ]
+     ],
+     "hl": "embossed"
+    },
+    {
+     "w": "collate",
+     "pos": "v.",
+     "ipa": "/kəˈleɪt/",
+     "zh": "整理（按顺序排好）；核对",
+     "ja": "（ページを）順番にそろえる；照合する",
+     "ex": "The printer can collate and staple fifty copies of the report.",
+     "ex_zh": "这台打印机可以把报告按页序整理并装订五十份。",
+     "ex_ja": "このプリンターは報告書 50 部をページ順にそろえてホチキス留めできます。",
+     "parts": [
+      [
+       "col-",
+       "一起（con- 的变体）",
+       "共に（con- の変化形）"
+      ],
+      [
+       "lat",
+       "搬运（ferre 的过去分词 latus）",
+       "運ぶ（ferre の過去分詞 latus）"
+      ],
+      [
+       "-e",
+       "词尾",
+       "語尾"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 collatus，conferre“带到一起”的过去分词：com- + latus（ferre“携带”的过去分词，Day 3 的 fer）。",
+      "ja": "ラテン語 collatus。conferre「一緒に持ってくる」の過去分詞：com- + latus（ferre「運ぶ」の過去分詞、Day 3 の fer）。"
+     },
+     "forms": [
+      [
+       "collate pages",
+       "按页序整理",
+       "ページをそろえる"
+      ],
+      [
+       "collation (n.)",
+       "整理；核对",
+       "照合"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1 / 办公场景：copy, collate and staple（复印、排页、装订）。",
+      "ja": "Part 1・オフィスの場面：copy, collate and staple（コピー・丁合・ホチキス留め）。"
+     }
+    },
+    {
+     "w": "booklet",
+     "pos": "n.",
+     "ipa": "/ˈbʊklət/",
+     "zh": "小册子",
+     "ja": "小冊子",
+     "ex": "Each participant will receive a booklet with the workshop schedule.",
+     "ex_zh": "每位参加者都会收到一本印有研讨会日程的小册子。",
+     "ex_ja": "参加者には研修のスケジュールが載った小冊子が配られます。",
+     "parts": [
+      [
+       "book",
+       "书",
+       "本"
+      ],
+      [
+       "-let",
+       "小",
+       "小さい"
+      ]
+     ],
+     "note": {
+      "zh": "本族词 book + 指小后缀 -let（来自古法语 -elet）。",
+      "ja": "本来の英語 book + 指小辞 -let（古フランス語 -elet から）。"
+     },
+     "forms": [
+      [
+       "instruction booklet",
+       "说明书",
+       "説明書"
+      ],
+      [
+       "leaflet (n.)",
+       "传单；单页",
+       "チラシ"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}
