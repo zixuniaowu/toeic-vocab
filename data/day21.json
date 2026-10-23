@@ -1,0 +1,2521 @@
+{
+ "day": 21,
+ "date": "2026-10-24",
+ "title_zh": "四大词根 + 远程办公考勤休假与办公室搬迁设施",
+ "title_ja": "4つの語根＋リモートワーク・勤怠休暇とオフィス移転・設備",
+ "intro_zh": "今天掌握 4 个高频词根（spond·spons 承诺 / strict·strain 拉紧 / gest·ger 携带、做 / flect·flex 弯曲），再学远程办公与考勤休假、办公室搬迁与设施管理的核心词——强化 Part 5 语法搭配（suggest doing / suggest that S do、respond to、correspond to、in response to、put a strain on），Part 1 办公场景（wearing a headset、gesturing toward a screen、boxes are being unpacked），Part 4 交通广播（congested roads），以及 Part 7 的混合办公政策、丧假与无薪假规定、办公室搬迁通知。",
+ "intro_ja": "今日は語根 4 つ（spond·spons 約束／strict·strain 締める／gest·ger 運ぶ・行う／flect·flex 曲げる）と、リモートワーク・勤怠と休暇、オフィス移転・設備管理の重要語を学びます。Part 5 の語法（suggest doing／suggest that S do、respond to、correspond to、in response to、put a strain on）、Part 1 のオフィスの場面（wearing a headset、gesturing toward a screen、boxes are being unpacked）、Part 4 の交通情報（congested roads）、Part 7 のハイブリッド勤務規定・忌引と無給休暇の規定・オフィス移転のお知らせを強化します。",
+ "voice": "en-US-AriaNeural",
+ "roots": [
+  {
+   "root": "-spond- / -spons-",
+   "origin": "Latin spondere, sponsus",
+   "zh": "承诺；保证",
+   "ja": "約束する；誓う",
+   "exp_zh": "来自拉丁语 spondere（庄严承诺、担保），过去分词 sponsus。re-“回” + spondere → respondere“回应对方的承诺 → 回答” → respond、response、responsive、unresponsive；responsible“能作出回应的 → 须负责的” → responsibility。com- + respondere → correspond“互相呼应 → 一致、通信”（本站已学 correspondence）。sponsor 原指“担保人”（本站已学）→ sponsorship。sponsus / sponsa“许下婚约的人”经古法语 spous → spouse“配偶”。",
+   "exp_ja": "ラテン語 spondere（厳かに誓う・保証する）、過去分詞 sponsus から。re-「返して」+ spondere → respondere「相手の約束に応える → 答える」→ respond、response、responsive、unresponsive。responsible「応答できる → 責任を負う」→ responsibility。com- + respondere → correspond「互いに応じる → 一致する・文通する」（既習 correspondence）。sponsor はもともと「保証人」（既習）→ sponsorship。sponsus / sponsa「婚約した人」が古フランス語 spous を経て → spouse「配偶者」。",
+   "examples": [
+    "respond",
+    "response",
+    "responsive",
+    "unresponsive",
+    "responsibility",
+    "sponsorship",
+    "correspond",
+    "spouse"
+   ]
+  },
+  {
+   "root": "-strict- / -strain- / -string-",
+   "origin": "Latin stringere, strictus",
+   "zh": "拉紧；束缚",
+   "ja": "締める；縛る",
+   "exp_zh": "来自拉丁语 stringere（拉紧、捆住），过去分词 strictus。直接来自拉丁语的形式保留 strict：strict → strictly；re- + stringere → restrict（本站已学）→ restriction、restrictive、unrestricted；本站已学的 district（dis- + stringere“管辖区域”）也在这里。经过古法语的形式变成 -strain：restraindre → restrain，constreindre → constraint，estreindre → strain。现在分词 stringens → stringent“严格的”。⚠️ 名词 string（绳子）和 strong 是日耳曼语词，与 stringere 无关。",
+   "exp_ja": "ラテン語 stringere（締める・縛る）、過去分詞 strictus から。ラテン語から直接入った形は strict のまま：strict → strictly、re- + stringere → restrict（既習）→ restriction、restrictive、unrestricted。既習の district（dis- + stringere「管轄区域」）も仲間。古フランス語を経た形は -strain になる：restraindre → restrain、constreindre → constraint、estreindre → strain。現在分詞 stringens → stringent「厳しい」。⚠️ 名詞 string（ひも）や strong はゲルマン語で、stringere とは無関係。",
+   "examples": [
+    "restriction",
+    "strictly",
+    "constraint",
+    "restrain",
+    "stringent",
+    "strain",
+    "unrestricted",
+    "restrictive"
+   ]
+  },
+  {
+   "root": "-gest- / -ger-",
+   "origin": "Latin gerere, gestus",
+   "zh": "携带；做；堆",
+   "ja": "運ぶ；行う；積む",
+   "exp_zh": "来自拉丁语 gerere（携带、进行），过去分词 gestus。sub- + gerere → suggerere“从下面递上 → 提出” → suggest、suggestion；con- → congerere“堆到一起” → congested、congestion；dis- → digerere“分开整理” → digest（消化；摘要）；gestus“动作” → gesture。re- + gerere → regesta“记录下来的东西” → register、registry（本站已学 registration）。ad- + gerere → agger“土堆” → exaggerate“堆得更高 → 夸大”。⚠️ manager 来自 manus（Day 10 的 manu），不是 gerere。",
+   "exp_ja": "ラテン語 gerere（運ぶ・行う）、過去分詞 gestus から。sub- + gerere → suggerere「下から差し出す → 持ち出す」→ suggest、suggestion。con- → congerere「積み重ねる」→ congested、congestion。dis- → digerere「分けて整理する」→ digest（消化する；要約）。gestus「動作」→ gesture。re- + gerere → regesta「記録されたもの」→ register、registry（既習 registration）。ad- + gerere → agger「土の山」→ exaggerate「高く積む → 誇張する」。⚠️ manager は manus（Day 10 の manu）から来ており、gerere ではない。",
+   "examples": [
+    "suggest",
+    "suggestion",
+    "congested",
+    "digest",
+    "gesture",
+    "exaggerate",
+    "register",
+    "registry"
+   ]
+  },
+  {
+   "root": "-flect- / -flex-",
+   "origin": "Latin flectere, flexus",
+   "zh": "弯曲",
+   "ja": "曲げる",
+   "exp_zh": "来自拉丁语 flectere（弯曲），过去分词 flexus。re- + flectere“往回弯” → reflect（光被弯回来 → 反射 → 反映）、reflection、reflective；过去分词 reflexus → reflex“反射动作”。de-“偏离” → deflect“使偏转 → 转移（批评）”。flexibilis“可弯曲的” → flexible → flexibility、inflexible；再缩短成 flex → flextime“弹性工作制”。",
+   "exp_ja": "ラテン語 flectere（曲げる）、過去分詞 flexus から。re- + flectere「後ろへ曲げる」→ reflect（光が曲がって返る → 反射 → 反映）、reflection、reflective。過去分詞 reflexus → reflex「反射」。de-「それて」→ deflect「方向をそらす → 批判をかわす」。flexibilis「曲げられる」→ flexible → flexibility、inflexible。さらに短縮した flex → flextime「フレックスタイム制」。",
+   "examples": [
+    "reflect",
+    "reflection",
+    "reflective",
+    "flexibility",
+    "inflexible",
+    "deflect",
+    "reflex",
+    "flextime"
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "spond",
+   "title_zh": "词根 -spond- / -spons-：承诺",
+   "title_ja": "語根 -spond- / -spons-：約束する",
+   "words": [
+    {
+     "w": "respond",
+     "pos": "v.",
+     "ipa": "/rɪˈspɑnd/",
+     "zh": "回应；答复；作出反应",
+     "ja": "返答する；対応する；反応する",
+     "ex": "Please respond to the customer's e-mail within one business day.",
+     "ex_zh": "请在一个工作日内回复这位顾客的邮件。",
+     "ex_ja": "顧客のメールには1営業日以内に返信してください。",
+     "parts": [
+      [
+       "re-",
+       "回；再",
+       "返して；再び"
+      ],
+      [
+       "spond",
+       "承诺；保证",
+       "約束する"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 respondere“回应承诺 → 回答”：re-“回” + spondere“庄严承诺”。",
+      "ja": "ラテン語 respondere「約束を返す → 答える」：re-「返して」+ spondere「誓う」。"
+     },
+     "forms": [
+      [
+       "respond to ...",
+       "回应……",
+       "〜に返答する"
+      ],
+      [
+       "respondent (n.)",
+       "（调查的）答卷人",
+       "（調査の）回答者"
+      ]
+     ],
+     "tip": {
+      "zh": "respond 是不及物动词，后面要加 to：respond to an inquiry。",
+      "ja": "respond は自動詞なので to が必要：respond to an inquiry。"
+     }
+    },
+    {
+     "w": "response",
+     "pos": "n.",
+     "ipa": "/rɪˈspɑns/",
+     "zh": "回应；答复；反应",
+     "ja": "返答；反応；対応",
+     "ex": "The response to our new delivery service has been very positive.",
+     "ex_zh": "大家对我们新配送服务的反应非常积极。",
+     "ex_ja": "新しい配達サービスへの反響はとても好評です。",
+     "parts": [
+      [
+       "re-",
+       "回；再",
+       "返して；再び"
+      ],
+      [
+       "spons",
+       "承诺（spondere 的过去分词）",
+       "約束する（spondere の過去分詞）"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 responsum“答复”，respondere 的过去分词形式。",
+      "ja": "ラテン語 responsum「返答」。respondere の過去分詞形から。"
+     },
+     "forms": [
+      [
+       "in response to ...",
+       "作为对……的回应",
+       "〜に応えて"
+      ],
+      [
+       "response rate",
+       "回复率",
+       "回答率"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7 常见 in response to your inquiry（回复您的询问）。",
+      "ja": "Part 7 では in response to your inquiry（お問い合わせへの回答として）が定番。"
+     }
+    },
+    {
+     "w": "responsive",
+     "pos": "adj.",
+     "ipa": "/rɪˈspɑnsɪv/",
+     "zh": "反应快的；积极回应的；（网页）自适应的",
+     "ja": "反応の良い；すぐ対応する；（Web）レスポンシブな",
+     "ex": "Our support team is highly responsive to client requests.",
+     "ex_zh": "我们的支持团队对客户的要求反应非常迅速。",
+     "ex_ja": "当社のサポートチームは顧客の要望にすばやく対応します。",
+     "parts": [
+      [
+       "re-",
+       "回；再",
+       "返して；再び"
+      ],
+      [
+       "spons",
+       "承诺（spondere 的过去分词）",
+       "約束する（spondere の過去分詞）"
+      ],
+      [
+       "-ive",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "response 的形容词：re- + spons + -ive。",
+      "ja": "response の形容詞形：re- + spons + -ive。"
+     },
+     "forms": [
+      [
+       "be responsive to ...",
+       "对……反应迅速",
+       "〜にすぐ対応する"
+      ],
+      [
+       "responsiveness (n.)",
+       "响应能力",
+       "対応の速さ"
+      ]
+     ]
+    },
+    {
+     "w": "unresponsive",
+     "pos": "adj.",
+     "ipa": "/ˌʌnrɪˈspɑnsɪv/",
+     "zh": "没有反应的；不回应的",
+     "ja": "反応しない；応答のない",
+     "ex": "If the screen becomes unresponsive, restart the computer.",
+     "ex_zh": "如果屏幕没有反应，请重启电脑。",
+     "ex_ja": "画面が反応しなくなったら、パソコンを再起動してください。",
+     "parts": [
+      [
+       "un-",
+       "不",
+       "〜でない"
+      ],
+      [
+       "re-",
+       "回；再",
+       "返して；再び"
+      ],
+      [
+       "spons",
+       "承诺（spondere 的过去分词）",
+       "約束する（spondere の過去分詞）"
+      ],
+      [
+       "-ive",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "否定前缀 un- + responsive。",
+      "ja": "否定の接頭辞 un- + responsive。"
+     },
+     "forms": [
+      [
+       "an unresponsive system",
+       "无响应的系统",
+       "応答しないシステム"
+      ],
+      [
+       "freeze (v.)",
+       "（电脑）死机",
+       "フリーズする"
+      ]
+     ],
+     "tip": {
+      "zh": "IT 求助邮件里常见：The application is unresponsive.",
+      "ja": "IT のサポート依頼メールで頻出：The application is unresponsive."
+     }
+    },
+    {
+     "w": "responsibility",
+     "pos": "n.",
+     "ipa": "/rɪˌspɑnsəˈbɪləti/",
+     "zh": "责任；职责",
+     "ja": "責任；職務",
+     "ex": "Training new staff is one of the manager's main responsibilities.",
+     "ex_zh": "培训新员工是经理的主要职责之一。",
+     "ex_ja": "新人研修はマネージャーの主な職務の一つです。",
+     "parts": [
+      [
+       "re-",
+       "回；再",
+       "返して；再び"
+      ],
+      [
+       "spons",
+       "承诺（spondere 的过去分词）",
+       "約束する（spondere の過去分詞）"
+      ],
+      [
+       "-ible",
+       "能……的",
+       "〜できる"
+      ],
+      [
+       "-ity",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "responsible“能回应的 → 须负责的” + -ity。",
+      "ja": "responsible「応答できる → 責任を負うべき」+ -ity。"
+     },
+     "forms": [
+      [
+       "take responsibility for ...",
+       "对……负责",
+       "〜の責任を取る"
+      ],
+      [
+       "responsible for ... (adj.)",
+       "负责……的",
+       "〜を担当している"
+      ]
+     ],
+     "tip": {
+      "zh": "求职广告里 Responsibilities include ... = 职责包括……。",
+      "ja": "求人広告の Responsibilities include ... は「職務内容は…」。"
+     },
+     "hl": "responsibilities"
+    },
+    {
+     "w": "sponsorship",
+     "pos": "n.",
+     "ipa": "/ˈspɑnsɚˌʃɪp/",
+     "zh": "赞助；赞助费",
+     "ja": "スポンサーシップ；協賛",
+     "ex": "The festival is funded through corporate sponsorship.",
+     "ex_zh": "这个节庆活动靠企业赞助来筹集资金。",
+     "ex_ja": "その祭りは企業の協賛によって資金をまかなっています。",
+     "parts": [
+      [
+       "spons",
+       "承诺（spondere 的过去分词）",
+       "約束する（spondere の過去分詞）"
+      ],
+      [
+       "-or",
+       "表示人",
+       "〜する人"
+      ],
+      [
+       "-ship",
+       "名词后缀（身份、关系）",
+       "名詞を作る（地位・関係）"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 sponsor“担保人”（来自 spondere“保证”）+ 本族后缀 -ship。",
+      "ja": "ラテン語 sponsor「保証人」（spondere「保証する」から）+ 英語本来の接尾辞 -ship。"
+     },
+     "forms": [
+      [
+       "sponsorship package",
+       "赞助方案",
+       "協賛プラン"
+      ],
+      [
+       "seek sponsorship",
+       "寻求赞助",
+       "協賛を募る"
+      ]
+     ]
+    },
+    {
+     "w": "correspond",
+     "pos": "v.",
+     "ipa": "/ˌkɔrəˈspɑnd/",
+     "zh": "通信；相符，一致",
+     "ja": "文通する；一致する，対応する",
+     "ex": "The numbers in the report do not correspond to the figures in the invoice.",
+     "ex_zh": "报告里的数字和发票上的数字不一致。",
+     "ex_ja": "報告書の数字は請求書の数字と一致していません。",
+     "parts": [
+      [
+       "cor-",
+       "共同（com- 的变体）",
+       "共に（com- の変形）"
+      ],
+      [
+       "re-",
+       "回；再",
+       "返して；再び"
+      ],
+      [
+       "spond",
+       "承诺；保证",
+       "約束する"
+      ]
+     ],
+     "note": {
+      "zh": "中世拉丁语 correspondere：com-“一起” + respondere“回应” → 互相呼应。",
+      "ja": "中世ラテン語 correspondere：com-「共に」+ respondere「応じる」→ 互いに対応する。"
+     },
+     "forms": [
+      [
+       "correspond with ...",
+       "与……通信",
+       "〜と連絡を取り合う"
+      ],
+      [
+       "correspond to ...",
+       "与……相符",
+       "〜と一致する"
+      ]
+     ],
+     "tip": {
+      "zh": "correspond to = 一致；correspond with = 通信（也可表示一致）。本站已学 correspondence。",
+      "ja": "correspond to は「一致する」、correspond with は「やり取りする」（一致の意味もある）。既習 correspondence の動詞。"
+     }
+    },
+    {
+     "w": "spouse",
+     "pos": "n.",
+     "ipa": "/spaʊs/",
+     "zh": "配偶",
+     "ja": "配偶者",
+     "ex": "Employees and their spouses are invited to the year-end party.",
+     "ex_zh": "员工及其配偶受邀参加年终聚会。",
+     "ex_ja": "社員とその配偶者が忘年会に招待されています。",
+     "parts": [
+      [
+       "spouse",
+       "许下婚约的人（sponsus）",
+       "婚約した人（sponsus）"
+      ]
+     ],
+     "note": {
+      "zh": "经古法语 spous 来自拉丁语 sponsus / sponsa“已订婚的人”，即 spondere“许诺”的过去分词。",
+      "ja": "古フランス語 spous を経て、ラテン語 sponsus / sponsa「婚約した人」（spondere「約束する」の過去分詞）から。"
+     },
+     "forms": [
+      [
+       "spouse and dependents",
+       "配偶和受抚养人",
+       "配偶者と扶養家族"
+      ],
+      [
+       "partner (n.)",
+       "伴侣",
+       "パートナー"
+      ]
+     ],
+     "tip": {
+      "zh": "福利、保险通知里常见：coverage for spouses。",
+      "ja": "福利厚生や保険の案内で頻出：coverage for spouses。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "strict",
+   "title_zh": "词根 -strict- / -strain- / -string-：拉紧",
+   "title_ja": "語根 -strict- / -strain- / -string-：締める",
+   "words": [
+    {
+     "w": "restriction",
+     "pos": "n.",
+     "ipa": "/rɪˈstrɪkʃən/",
+     "zh": "限制；约束",
+     "ja": "制限；規制",
+     "ex": "There are restrictions on how many items can be returned without a receipt.",
+     "ex_zh": "没有收据时可退货的件数是有限制的。",
+     "ex_ja": "レシートなしで返品できる品数には制限があります。",
+     "parts": [
+      [
+       "re-",
+       "回；再",
+       "返して；再び"
+      ],
+      [
+       "strict",
+       "拉紧；束缚（strictus）",
+       "締める；縛る（strictus）"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 restringere / restrictus“往回拉紧 → 限制”。本站已学动词 restrict。",
+      "ja": "ラテン語 restringere / restrictus「引き締める → 制限する」。既習の動詞 restrict の名詞。"
+     },
+     "forms": [
+      [
+       "impose restrictions on ...",
+       "对……施加限制",
+       "〜に制限を課す"
+      ],
+      [
+       "parking restrictions",
+       "停车限制",
+       "駐車制限"
+      ]
+     ],
+     "hl": "restrictions"
+    },
+    {
+     "w": "strictly",
+     "pos": "adv.",
+     "ipa": "/ˈstrɪktli/",
+     "zh": "严格地；完全地",
+     "ja": "厳しく；厳密に",
+     "ex": "Smoking is strictly prohibited inside the building.",
+     "ex_zh": "大楼内严禁吸烟。",
+     "ex_ja": "建物内での喫煙は固く禁じられています。",
+     "parts": [
+      [
+       "strict",
+       "拉紧；束缚（strictus）",
+       "締める；縛る（strictus）"
+      ],
+      [
+       "-ly",
+       "副词后缀",
+       "副詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "strict（拉丁语 strictus“拉紧的”）+ -ly。",
+      "ja": "strict（ラテン語 strictus「引き締められた」）+ -ly。"
+     },
+     "forms": [
+      [
+       "strict (adj.)",
+       "严格的",
+       "厳しい"
+      ],
+      [
+       "strictly confidential",
+       "绝对机密",
+       "極秘"
+      ]
+     ],
+     "tip": {
+      "zh": "告示里的固定搭配：strictly prohibited / strictly forbidden。",
+      "ja": "掲示の決まり文句：strictly prohibited / strictly forbidden。"
+     }
+    },
+    {
+     "w": "constraint",
+     "pos": "n.",
+     "ipa": "/kənˈstreɪnt/",
+     "zh": "限制；约束因素",
+     "ja": "制約；制限",
+     "ex": "Due to budget constraints, the project has been postponed.",
+     "ex_zh": "由于预算限制，该项目已被推迟。",
+     "ex_ja": "予算の制約により、プロジェクトは延期されました。",
+     "parts": [
+      [
+       "con-",
+       "一起；完全",
+       "共に；完全に"
+      ],
+      [
+       "strain",
+       "拉紧（经古法语）",
+       "締める（古フランス語経由）"
+      ],
+      [
+       "-t",
+       "名词词尾",
+       "名詞の語尾"
+      ]
+     ],
+     "note": {
+      "zh": "经古法语 constreindre 来自拉丁语 constringere“捆紧”。",
+      "ja": "古フランス語 constreindre を経て、ラテン語 constringere「きつく縛る」から。"
+     },
+     "forms": [
+      [
+       "budget constraints",
+       "预算限制",
+       "予算の制約"
+      ],
+      [
+       "time constraints",
+       "时间限制",
+       "時間的制約"
+      ]
+     ],
+     "tip": {
+      "zh": "和 restriction 意思接近，但 constraint 多指客观条件造成的限制。",
+      "ja": "restriction と近いが、constraint は状況による制約を指すことが多い。"
+     },
+     "hl": "constraints"
+    },
+    {
+     "w": "restrain",
+     "pos": "v.",
+     "ipa": "/rɪˈstreɪn/",
+     "zh": "抑制；克制；约束",
+     "ja": "抑える；抑制する",
+     "ex": "The company is trying to restrain costs this quarter.",
+     "ex_zh": "公司本季度正努力控制成本。",
+     "ex_ja": "会社は今四半期、コストを抑えようとしています。",
+     "parts": [
+      [
+       "re-",
+       "回；再",
+       "返して；再び"
+      ],
+      [
+       "strain",
+       "拉紧（经古法语）",
+       "締める（古フランス語経由）"
+      ]
+     ],
+     "note": {
+      "zh": "经古法语 restraindre 来自拉丁语 restringere——和 restrict 是同一个拉丁词的两条路线。",
+      "ja": "古フランス語 restraindre を経てラテン語 restringere から。restrict と同じラテン語の別ルート。"
+     },
+     "forms": [
+      [
+       "restraint (n.)",
+       "克制；限制",
+       "抑制；自制"
+      ],
+      [
+       "restrain spending",
+       "控制开支",
+       "支出を抑える"
+      ]
+     ]
+    },
+    {
+     "w": "stringent",
+     "pos": "adj.",
+     "ipa": "/ˈstrɪndʒənt/",
+     "zh": "（规定）严格的",
+     "ja": "（規則が）厳しい",
+     "ex": "All products must pass stringent safety tests before shipping.",
+     "ex_zh": "所有产品在出货前都必须通过严格的安全检测。",
+     "ex_ja": "すべての製品は出荷前に厳しい安全試験に合格しなければなりません。",
+     "parts": [
+      [
+       "string",
+       "拉紧（stringere）",
+       "締める（stringere）"
+      ],
+      [
+       "-ent",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 stringere“拉紧”的现在分词 stringens。",
+      "ja": "ラテン語 stringere「締める」の現在分詞 stringens から。"
+     },
+     "forms": [
+      [
+       "stringent regulations",
+       "严格的规定",
+       "厳しい規制"
+      ],
+      [
+       "stringently (adv.)",
+       "严格地",
+       "厳格に"
+      ]
+     ],
+     "tip": {
+      "zh": "⚠️ 名词 string（绳子）是日耳曼语词，和这里的 stringere 不同源。",
+      "ja": "⚠️ 名詞 string（ひも）はゲルマン語起源で、この stringere とは別語源。"
+     }
+    },
+    {
+     "w": "strain",
+     "pos": "n./v.",
+     "ipa": "/streɪn/",
+     "zh": "负担，压力；拉伤；使紧张",
+     "ja": "負担；（筋を）痛める；負担をかける",
+     "ex": "The sudden increase in orders put a strain on our staff.",
+     "ex_zh": "订单突增给我们的员工带来了很大压力。",
+     "ex_ja": "注文の急増でスタッフに大きな負担がかかりました。",
+     "parts": [
+      [
+       "strain",
+       "拉紧（经古法语）",
+       "締める（古フランス語経由）"
+      ]
+     ],
+     "note": {
+      "zh": "经古法语 estreindre 来自拉丁语 stringere“拉紧”。",
+      "ja": "古フランス語 estreindre を経て、ラテン語 stringere「締める」から。"
+     },
+     "forms": [
+      [
+       "put a strain on ...",
+       "给……带来负担",
+       "〜に負担をかける"
+      ],
+      [
+       "eye strain",
+       "眼睛疲劳",
+       "眼精疲労"
+      ]
+     ]
+    },
+    {
+     "w": "unrestricted",
+     "pos": "adj.",
+     "ipa": "/ˌʌnrɪˈstrɪktɪd/",
+     "zh": "不受限制的",
+     "ja": "制限のない",
+     "ex": "Members have unrestricted access to the fitness center.",
+     "ex_zh": "会员可以不受限制地使用健身中心。",
+     "ex_ja": "会員はフィットネスセンターを制限なく利用できます。",
+     "parts": [
+      [
+       "un-",
+       "不",
+       "〜でない"
+      ],
+      [
+       "re-",
+       "回；再",
+       "返して；再び"
+      ],
+      [
+       "strict",
+       "拉紧；束缚（strictus）",
+       "締める；縛る（strictus）"
+      ],
+      [
+       "-ed",
+       "形容词后缀（过去分词）",
+       "形容詞化（過去分詞）"
+      ]
+     ],
+     "note": {
+      "zh": "un- + restricted（restrict 的过去分词）。",
+      "ja": "un- + restricted（restrict の過去分詞）。"
+     },
+     "forms": [
+      [
+       "unrestricted access",
+       "无限制使用",
+       "無制限の利用"
+      ],
+      [
+       "unlimited (adj.)",
+       "无限的",
+       "無制限の"
+      ]
+     ]
+    },
+    {
+     "w": "restrictive",
+     "pos": "adj.",
+     "ipa": "/rɪˈstrɪktɪv/",
+     "zh": "限制性的；约束过多的",
+     "ja": "制限的な；厳しすぎる",
+     "ex": "Some employees find the new dress code too restrictive.",
+     "ex_zh": "一些员工觉得新的着装规定限制太多。",
+     "ex_ja": "新しい服装規定は制限が厳しすぎると感じる社員もいます。",
+     "parts": [
+      [
+       "re-",
+       "回；再",
+       "返して；再び"
+      ],
+      [
+       "strict",
+       "拉紧；束缚（strictus）",
+       "締める；縛る（strictus）"
+      ],
+      [
+       "-ive",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "restrict + 形容词后缀 -ive。",
+      "ja": "restrict + 形容詞の接尾辞 -ive。"
+     },
+     "forms": [
+      [
+       "restrictive policy",
+       "限制性政策",
+       "制限的な方針"
+      ],
+      [
+       "less restrictive",
+       "限制更少的",
+       "より緩やかな"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gest",
+   "title_zh": "词根 -gest- / -ger-：携带、做",
+   "title_ja": "語根 -gest- / -ger-：運ぶ・行う",
+   "words": [
+    {
+     "w": "suggest",
+     "pos": "v.",
+     "ipa": "/səɡˈdʒɛst/",
+     "zh": "建议；暗示，表明",
+     "ja": "提案する；示唆する",
+     "ex": "I suggest moving the meeting to Thursday afternoon.",
+     "ex_zh": "我建议把会议改到星期四下午。",
+     "ex_ja": "会議を木曜日の午後に移すことを提案します。",
+     "parts": [
+      [
+       "sug-",
+       "在下（sub- 的变体）",
+       "下に（sub- の変形）"
+      ],
+      [
+       "gest",
+       "携带；做（gestus）",
+       "運ぶ；行う（gestus）"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 suggerere / suggestus“从下面递上去 → 提出”：sub- + gerere“携带”。",
+      "ja": "ラテン語 suggerere / suggestus「下から差し出す → 持ち出す」：sub- + gerere「運ぶ」。"
+     },
+     "forms": [
+      [
+       "suggest doing",
+       "建议做……",
+       "〜することを提案する"
+      ],
+      [
+       "suggest that S (should) do",
+       "建议……（虚拟语气）",
+       "〜するよう提案する（仮定法現在）"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5 必考：suggest 后接动名词或 that + 动词原形，不接 to do。",
+      "ja": "Part 5 頻出：suggest の後は動名詞か that + 動詞の原形。to do は不可。"
+     }
+    },
+    {
+     "w": "suggestion",
+     "pos": "n.",
+     "ipa": "/səɡˈdʒɛstʃən/",
+     "zh": "建议；提议",
+     "ja": "提案；意見",
+     "ex": "Thank you for your suggestions on improving the website.",
+     "ex_zh": "感谢您对改进网站提出的建议。",
+     "ex_ja": "ウェブサイト改善へのご提案をありがとうございます。",
+     "parts": [
+      [
+       "sug-",
+       "在下（sub- 的变体）",
+       "下に（sub- の変形）"
+      ],
+      [
+       "gest",
+       "携带；做（gestus）",
+       "運ぶ；行う（gestus）"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "suggest + 名词后缀 -ion。",
+      "ja": "suggest + 名詞の接尾辞 -ion。"
+     },
+     "forms": [
+      [
+       "make a suggestion",
+       "提出建议",
+       "提案する"
+      ],
+      [
+       "suggestion box",
+       "意见箱",
+       "意見箱"
+      ]
+     ],
+     "hl": "suggestions"
+    },
+    {
+     "w": "congested",
+     "pos": "adj.",
+     "ipa": "/kənˈdʒɛstɪd/",
+     "zh": "拥挤的；堵塞的",
+     "ja": "混雑した；渋滞した",
+     "ex": "The highway is usually congested during rush hour.",
+     "ex_zh": "高峰时段这条高速公路通常很堵。",
+     "ex_ja": "ラッシュ時、その高速道路はたいてい渋滞しています。",
+     "parts": [
+      [
+       "con-",
+       "一起",
+       "共に"
+      ],
+      [
+       "gest",
+       "携带；做（gestus）",
+       "運ぶ；行う（gestus）"
+      ],
+      [
+       "-ed",
+       "形容词后缀",
+       "形容詞化"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 congerere / congestus“堆到一起”：con- + gerere。",
+      "ja": "ラテン語 congerere / congestus「積み重ねる」：con- + gerere。"
+     },
+     "forms": [
+      [
+       "congestion (n.)",
+       "拥堵",
+       "混雑；渋滞"
+      ],
+      [
+       "heavily congested",
+       "严重拥堵的",
+       "ひどく渋滞した"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 4 交通广播常见：roads are congested due to construction。",
+      "ja": "Part 4 の交通情報で頻出：roads are congested due to construction。"
+     }
+    },
+    {
+     "w": "digest",
+     "pos": "v./n.",
+     "ipa": "/daɪˈdʒɛst/",
+     "zh": "消化；理解；（n.）摘要，文摘",
+     "ja": "消化する；理解する；（名）要約，ダイジェスト",
+     "ex": "Subscribers receive a weekly digest of industry news.",
+     "ex_zh": "订阅者每周会收到一份行业新闻摘要。",
+     "ex_ja": "購読者には業界ニュースの週刊ダイジェストが届きます。",
+     "parts": [
+      [
+       "di-",
+       "分开（dis- 的变体）",
+       "分けて（dis- の変形）"
+      ],
+      [
+       "gest",
+       "携带；做（gestus）",
+       "運ぶ；行う（gestus）"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 digerere / digestus“分开、分类整理”：dis- + gerere。",
+      "ja": "ラテン語 digerere / digestus「分ける・整理する」：dis- + gerere。"
+     },
+     "forms": [
+      [
+       "a weekly digest",
+       "每周摘要",
+       "週刊ダイジェスト"
+      ],
+      [
+       "digest information",
+       "消化信息",
+       "情報を理解する"
+      ]
+     ],
+     "tip": {
+      "zh": "动词重音在后（di-GEST），名词重音在前（DI-gest）。",
+      "ja": "動詞はアクセントが後ろ（di-GEST）、名詞は前（DI-gest）。"
+     }
+    },
+    {
+     "w": "gesture",
+     "pos": "n./v.",
+     "ipa": "/ˈdʒɛstʃɚ/",
+     "zh": "手势；姿态，表示",
+     "ja": "身振り；（好意の）しるし",
+     "ex": "The free upgrade was a gesture of goodwill after the delay.",
+     "ex_zh": "免费升级是延误之后表达善意的举动。",
+     "ex_ja": "無料アップグレードは遅延へのお詫びのしるしでした。",
+     "parts": [
+      [
+       "gest",
+       "携带；做（gestus）",
+       "運ぶ；行う（gestus）"
+      ],
+      [
+       "-ure",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "中世拉丁语 gestura“动作”，来自 gestus（gerere“做”的过去分词）。",
+      "ja": "中世ラテン語 gestura「動作」。gestus（gerere「行う」の過去分詞）から。"
+     },
+     "forms": [
+      [
+       "a gesture of goodwill",
+       "善意之举",
+       "好意のしるし"
+      ],
+      [
+       "gesture to ...",
+       "向……做手势",
+       "〜に身振りで合図する"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1 常见：The man is gesturing toward a screen.",
+      "ja": "Part 1 で頻出：The man is gesturing toward a screen."
+     }
+    },
+    {
+     "w": "exaggerate",
+     "pos": "v.",
+     "ipa": "/ɪɡˈzædʒəˌreɪt/",
+     "zh": "夸大；夸张",
+     "ja": "誇張する；大げさに言う",
+     "ex": "The advertisement exaggerated the battery life of the phone.",
+     "ex_zh": "这则广告夸大了手机的电池续航。",
+     "ex_ja": "その広告は携帯電話の電池の持ちを誇張していました。",
+     "parts": [
+      [
+       "ex-",
+       "加强",
+       "強意"
+      ],
+      [
+       "ag",
+       "向（ad- 的变体）",
+       "〜へ（ad- の変形）"
+      ],
+      [
+       "ger",
+       "携带；堆（gerere）",
+       "運ぶ；積む（gerere）"
+      ],
+      [
+       "-ate",
+       "动词后缀",
+       "動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 exaggerare“堆高”：ex- + agger“土堆”（来自 aggerere = ad- + gerere“搬来堆起”）。",
+      "ja": "ラテン語 exaggerare「高く積み上げる」：ex- + agger「土の山」（aggerere = ad- + gerere「運んで積む」から）。"
+     },
+     "forms": [
+      [
+       "exaggeration (n.)",
+       "夸张",
+       "誇張"
+      ],
+      [
+       "exaggerated claims",
+       "夸大的宣传",
+       "誇大な主張"
+      ]
+     ],
+     "hl": "exaggerated"
+    },
+    {
+     "w": "register",
+     "pos": "v./n.",
+     "ipa": "/ˈrɛdʒɪstɚ/",
+     "zh": "登记，注册；（n.）收银机；登记簿",
+     "ja": "登録する；（名）レジ；登録簿",
+     "ex": "Please register for the seminar by Friday.",
+     "ex_zh": "请在星期五之前报名参加研讨会。",
+     "ex_ja": "金曜日までにセミナーに申し込んでください。",
+     "parts": [
+      [
+       "re-",
+       "回",
+       "返して"
+      ],
+      [
+       "ger",
+       "携带；堆（gerere）",
+       "運ぶ；積む（gerere）"
+      ]
+     ],
+     "note": {
+      "zh": "中世拉丁语 registrum，来自 regesta“记录下来的东西”（regerere“带回、记录”：re- + gerere）。",
+      "ja": "中世ラテン語 registrum。regesta「記録されたもの」（regerere「持ち帰る・記録する」：re- + gerere）から。"
+     },
+     "forms": [
+      [
+       "register for ...",
+       "报名参加……",
+       "〜に申し込む"
+      ],
+      [
+       "cash register",
+       "收银机",
+       "レジ"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1：A cashier is standing behind a register。本站已学 registration。",
+      "ja": "Part 1：A cashier is standing behind a register。既習 registration の動詞。"
+     }
+    },
+    {
+     "w": "registry",
+     "pos": "n.",
+     "ipa": "/ˈrɛdʒɪstri/",
+     "zh": "登记处；登记簿；注册系统",
+     "ja": "登記所；登録簿",
+     "ex": "The new firm was entered in the business registry last month.",
+     "ex_zh": "这家新公司上个月已登记在企业名录中。",
+     "ex_ja": "その新会社は先月、商業登記簿に登録されました。",
+     "parts": [
+      [
+       "re-",
+       "回",
+       "返して"
+      ],
+      [
+       "ger",
+       "携带；堆（gerere）",
+       "運ぶ；積む（gerere）"
+      ],
+      [
+       "-ry",
+       "名词后缀（场所、集合）",
+       "名詞を作る（場所・集合）"
+      ]
+     ],
+     "note": {
+      "zh": "register + 后缀 -ry。",
+      "ja": "register + 接尾辞 -ry。"
+     },
+     "forms": [
+      [
+       "business registry",
+       "企业登记簿",
+       "商業登記簿"
+      ],
+      [
+       "gift registry",
+       "（婚礼等的）礼品清单",
+       "ギフトリスト"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "flect",
+   "title_zh": "词根 -flect- / -flex-：弯曲",
+   "title_ja": "語根 -flect- / -flex-：曲げる",
+   "words": [
+    {
+     "w": "reflect",
+     "pos": "v.",
+     "ipa": "/rɪˈflɛkt/",
+     "zh": "反映；反射；反思",
+     "ja": "反映する；反射する；よく考える",
+     "ex": "The new prices reflect the rising cost of materials.",
+     "ex_zh": "新价格反映了材料成本的上涨。",
+     "ex_ja": "新価格は材料費の上昇を反映しています。",
+     "parts": [
+      [
+       "re-",
+       "回；再",
+       "返して；再び"
+      ],
+      [
+       "flect",
+       "弯曲（flectere）",
+       "曲げる（flectere）"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 reflectere“往回弯 → 折回”：re- + flectere“弯曲”。",
+      "ja": "ラテン語 reflectere「後ろに曲げる → はね返す」：re- + flectere「曲げる」。"
+     },
+     "forms": [
+      [
+       "reflect on ...",
+       "反思……",
+       "〜をよく考える"
+      ],
+      [
+       "be reflected in ...",
+       "体现在……",
+       "〜に反映される"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1：The buildings are reflected in the water.",
+      "ja": "Part 1：The buildings are reflected in the water."
+     }
+    },
+    {
+     "w": "reflection",
+     "pos": "n.",
+     "ipa": "/rɪˈflɛkʃən/",
+     "zh": "反映；倒影；深思",
+     "ja": "反映；映った姿；熟考",
+     "ex": "The award is a reflection of the team's hard work.",
+     "ex_zh": "这个奖项体现了团队的努力。",
+     "ex_ja": "この賞はチームの努力の表れです。",
+     "parts": [
+      [
+       "re-",
+       "回；再",
+       "返して；再び"
+      ],
+      [
+       "flect",
+       "弯曲（flectere）",
+       "曲げる（flectere）"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "reflect + 名词后缀 -ion。",
+      "ja": "reflect + 名詞の接尾辞 -ion。"
+     },
+     "forms": [
+      [
+       "a reflection of ...",
+       "……的体现",
+       "〜の表れ"
+      ],
+      [
+       "on reflection",
+       "仔细想想",
+       "よく考えてみると"
+      ]
+     ]
+    },
+    {
+     "w": "reflective",
+     "pos": "adj.",
+     "ipa": "/rɪˈflɛktɪv/",
+     "zh": "反光的；反映……的；沉思的",
+     "ja": "反射する；〜を反映した；思慮深い",
+     "ex": "Workers must wear reflective vests on the construction site.",
+     "ex_zh": "工地上的工人必须穿反光背心。",
+     "ex_ja": "工事現場の作業員は反射ベストを着用しなければなりません。",
+     "parts": [
+      [
+       "re-",
+       "回；再",
+       "返して；再び"
+      ],
+      [
+       "flect",
+       "弯曲（flectere）",
+       "曲げる（flectere）"
+      ],
+      [
+       "-ive",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "reflect + 形容词后缀 -ive。",
+      "ja": "reflect + 形容詞の接尾辞 -ive。"
+     },
+     "forms": [
+      [
+       "reflective vest",
+       "反光背心",
+       "反射ベスト"
+      ],
+      [
+       "be reflective of ...",
+       "反映……",
+       "〜を反映している"
+      ]
+     ]
+    },
+    {
+     "w": "flexibility",
+     "pos": "n.",
+     "ipa": "/ˌflɛksəˈbɪləti/",
+     "zh": "灵活性；弹性",
+     "ja": "柔軟性；融通",
+     "ex": "This position offers flexibility in working hours.",
+     "ex_zh": "这个职位的工作时间很灵活。",
+     "ex_ja": "この職は勤務時間に柔軟性があります。",
+     "parts": [
+      [
+       "flex",
+       "弯曲（flexus）",
+       "曲げる（flexus）"
+      ],
+      [
+       "-ible",
+       "能……的",
+       "〜できる"
+      ],
+      [
+       "-ity",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "flexible（拉丁语 flexibilis“能弯曲的”）+ -ity。",
+      "ja": "flexible（ラテン語 flexibilis「曲げられる」）+ -ity。"
+     },
+     "forms": [
+      [
+       "flexible (adj.)",
+       "灵活的",
+       "柔軟な"
+      ],
+      [
+       "flexibility to work from home",
+       "可在家工作的灵活性",
+       "在宅勤務できる柔軟性"
+      ]
+     ]
+    },
+    {
+     "w": "inflexible",
+     "pos": "adj.",
+     "ipa": "/ɪnˈflɛksəbəl/",
+     "zh": "不灵活的；固执的",
+     "ja": "融通のきかない；頑固な",
+     "ex": "Customers complained that the refund policy was inflexible.",
+     "ex_zh": "顾客抱怨退款政策不够灵活。",
+     "ex_ja": "顧客は返金方針に融通がきかないと不満を述べました。",
+     "parts": [
+      [
+       "in-",
+       "不",
+       "〜でない"
+      ],
+      [
+       "flex",
+       "弯曲（flexus）",
+       "曲げる（flexus）"
+      ],
+      [
+       "-ible",
+       "能……的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "否定前缀 in- + flexible。",
+      "ja": "否定の接頭辞 in- + flexible。"
+     },
+     "forms": [
+      [
+       "an inflexible schedule",
+       "不能变动的日程",
+       "変更のきかない予定"
+      ],
+      [
+       "rigid (adj.)",
+       "死板的",
+       "硬直した"
+      ]
+     ]
+    },
+    {
+     "w": "deflect",
+     "pos": "v.",
+     "ipa": "/dɪˈflɛkt/",
+     "zh": "转移（批评、注意力）；使偏转",
+     "ja": "（批判・注意を）そらす；方向を変える",
+     "ex": "The spokesperson tried to deflect questions about the layoffs.",
+     "ex_zh": "发言人试图回避有关裁员的提问。",
+     "ex_ja": "広報担当者は人員削減に関する質問をかわそうとしました。",
+     "parts": [
+      [
+       "de-",
+       "离开",
+       "離れて"
+      ],
+      [
+       "flect",
+       "弯曲（flectere）",
+       "曲げる（flectere）"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 deflectere“弯向一边”：de- + flectere。",
+      "ja": "ラテン語 deflectere「わきへ曲げる」：de- + flectere。"
+     },
+     "forms": [
+      [
+       "deflect criticism",
+       "转移批评",
+       "批判をかわす"
+      ],
+      [
+       "deflect attention from ...",
+       "把注意力从……引开",
+       "〜から注意をそらす"
+      ]
+     ]
+    },
+    {
+     "w": "reflex",
+     "pos": "n.",
+     "ipa": "/ˈriflɛks/",
+     "zh": "反射（动作）；本能反应",
+     "ja": "反射；とっさの反応",
+     "ex": "Good drivers need quick reflexes.",
+     "ex_zh": "好司机需要快速的反应能力。",
+     "ex_ja": "優れたドライバーには素早い反射神経が必要です。",
+     "parts": [
+      [
+       "re-",
+       "回；再",
+       "返して；再び"
+      ],
+      [
+       "flex",
+       "弯曲（flexus）",
+       "曲げる（flexus）"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 reflexus“折回的”，reflectere 的过去分词。",
+      "ja": "ラテン語 reflexus「はね返った」。reflectere の過去分詞から。"
+     },
+     "forms": [
+      [
+       "quick reflexes",
+       "反应灵敏",
+       "反射神経がよい"
+      ],
+      [
+       "reflexively (adv.)",
+       "下意识地",
+       "反射的に"
+      ]
+     ],
+     "hl": "reflexes"
+    },
+    {
+     "w": "flextime",
+     "pos": "n.",
+     "ipa": "/ˈflɛksˌtaɪm/",
+     "zh": "弹性工作时间制",
+     "ja": "フレックスタイム制",
+     "ex": "Thanks to flextime, staff can start work any time between 7 and 10 a.m.",
+     "ex_zh": "由于实行弹性工作制，员工可在早上 7 点到 10 点之间任意时间上班。",
+     "ex_ja": "フレックスタイム制のおかげで、社員は午前7時から10時の間に始業できます。",
+     "parts": [
+      [
+       "flex",
+       "弯曲（flexus）",
+       "曲げる（flexus）"
+      ],
+      [
+       "time",
+       "时间",
+       "時間"
+      ]
+     ],
+     "note": {
+      "zh": "flex（来自 flexible）+ 本族词 time 构成的现代复合词，也写作 flextime / flexitime。",
+      "ja": "flex（flexible から）+ 英語本来の time による現代の複合語。flexitime とも書く。"
+     },
+     "forms": [
+      [
+       "flexible working hours",
+       "弹性工作时间",
+       "柔軟な勤務時間"
+      ],
+      [
+       "flexitime (n.)",
+       "（英式）弹性工作制",
+       "（英）フレックスタイム"
+      ]
+     ],
+     "tip": {
+      "zh": "福利、招聘广告常见 flextime 和 remote work 并列出现。",
+      "ja": "福利厚生や求人広告では flextime と remote work が並んで出てくる。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "work",
+   "title_zh": "主题：远程办公与考勤休假",
+   "title_ja": "テーマ：リモートワーク・勤怠と休暇",
+   "words": [
+    {
+     "w": "remotely",
+     "pos": "adv.",
+     "ipa": "/rɪˈmoʊtli/",
+     "zh": "远程地；远距离地",
+     "ja": "リモートで；遠隔で",
+     "ex": "About half of our staff now work remotely at least two days a week.",
+     "ex_zh": "现在我们约一半的员工每周至少远程办公两天。",
+     "ex_ja": "現在、社員の約半数が週に2日以上リモートで働いています。",
+     "parts": [
+      [
+       "re-",
+       "向后；离开",
+       "後ろへ；離れて"
+      ],
+      [
+       "mot",
+       "移动（movere）",
+       "動かす（movere）"
+      ],
+      [
+       "-ly",
+       "副词后缀",
+       "副詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "remote 来自拉丁语 remotus“被移开的 → 遥远的”，removere 的过去分词（Day 8 的 mov / mot）。",
+      "ja": "remote はラテン語 remotus「遠ざけられた → 遠い」（removere の過去分詞、Day 8 の mov / mot）から。"
+     },
+     "forms": [
+      [
+       "work remotely",
+       "远程办公",
+       "リモートワークする"
+      ],
+      [
+       "remote access",
+       "远程访问",
+       "リモートアクセス"
+      ]
+     ]
+    },
+    {
+     "w": "hybrid",
+     "pos": "adj./n.",
+     "ipa": "/ˈhaɪbrɪd/",
+     "zh": "混合的；（办公）混合制的；混合动力车",
+     "ja": "ハイブリッドの；混合型の",
+     "ex": "The company has adopted a hybrid model of office and home working.",
+     "ex_zh": "公司采用了办公室与居家相结合的混合办公模式。",
+     "ex_ja": "その会社はオフィスと在宅を組み合わせたハイブリッド型の働き方を導入しました。",
+     "parts": [],
+     "note": {
+      "zh": "来自拉丁语 hybrida“杂交所生的后代”，更早的来源不明。没有可靠的词根拆分。",
+      "ja": "ラテン語 hybrida「雑種の子」から。それ以前の語源は不明。信頼できる語根分解はありません。"
+     },
+     "forms": [
+      [
+       "hybrid work",
+       "混合办公",
+       "ハイブリッドワーク"
+      ],
+      [
+       "hybrid vehicle",
+       "混合动力车",
+       "ハイブリッド車"
+      ]
+     ]
+    },
+    {
+     "w": "absence",
+     "pos": "n.",
+     "ipa": "/ˈæbsəns/",
+     "zh": "缺席；不在；缺乏",
+     "ja": "欠席；不在；欠如",
+     "ex": "Ms. Tanaka will handle client calls during my absence.",
+     "ex_zh": "我不在期间，田中女士会负责处理客户来电。",
+     "ex_ja": "私の不在中は田中さんが顧客の電話に対応します。",
+     "parts": [
+      [
+       "ab-",
+       "离开",
+       "離れて"
+      ],
+      [
+       "s",
+       "存在（esse）",
+       "存在する（esse）"
+      ],
+      [
+       "-ence",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 absentia，来自 abesse“不在”：ab-“离开” + esse“存在”。",
+      "ja": "ラテン語 absentia。abesse「不在である」：ab-「離れて」+ esse「ある」から。"
+     },
+     "forms": [
+      [
+       "leave of absence",
+       "（长期）休假，停薪留职",
+       "休職"
+      ],
+      [
+       "absent (adj.)",
+       "缺席的",
+       "欠席の"
+      ]
+     ],
+     "tip": {
+      "zh": "in the absence of ... = 在没有……的情况下 / 在……不在时。",
+      "ja": "in the absence of ... は「〜がない場合・〜の不在時に」。"
+     }
+    },
+    {
+     "w": "tardy",
+     "pos": "adj.",
+     "ipa": "/ˈtɑrdi/",
+     "zh": "迟到的；迟缓的",
+     "ja": "遅刻した；遅い",
+     "ex": "Employees who are frequently tardy will receive a written warning.",
+     "ex_zh": "经常迟到的员工会收到书面警告。",
+     "ex_ja": "遅刻の多い社員には書面で警告が出されます。",
+     "parts": [
+      [
+       "tard",
+       "慢",
+       "遅い"
+      ],
+      [
+       "-y",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "经法语 tardif 来自拉丁语 tardus“慢的”。",
+      "ja": "フランス語 tardif を経て、ラテン語 tardus「遅い」から。"
+     },
+     "forms": [
+      [
+       "tardiness (n.)",
+       "迟到",
+       "遅刻"
+      ],
+      [
+       "late (adj.)",
+       "迟的",
+       "遅れた"
+      ]
+     ]
+    },
+    {
+     "w": "punctuality",
+     "pos": "n.",
+     "ipa": "/ˌpʌŋktʃuˈæləti/",
+     "zh": "守时",
+     "ja": "時間厳守",
+     "ex": "Punctuality is essential when meeting with clients.",
+     "ex_zh": "与客户会面时守时至关重要。",
+     "ex_ja": "顧客と会うときは時間厳守が欠かせません。",
+     "parts": [
+      [
+       "punct",
+       "点；刺（pungere）",
+       "点；刺す（pungere）"
+      ],
+      [
+       "-ual",
+       "形容词后缀",
+       "形容詞を作る"
+      ],
+      [
+       "-ity",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "punctual 来自中世拉丁语 punctualis，源于 punctum“点”（pungere“刺”）→“准点的”。",
+      "ja": "punctual は中世ラテン語 punctualis（punctum「点」、pungere「刺す」）から →「時間ぴったりの」。"
+     },
+     "forms": [
+      [
+       "punctual (adj.)",
+       "守时的",
+       "時間に正確な"
+      ],
+      [
+       "punctually (adv.)",
+       "准时地",
+       "時間通りに"
+      ]
+     ]
+    },
+    {
+     "w": "rotation",
+     "pos": "n.",
+     "ipa": "/roʊˈteɪʃən/",
+     "zh": "轮换；轮班；旋转",
+     "ja": "交代制；ローテーション；回転",
+     "ex": "Weekend shifts are assigned on a rotation basis.",
+     "ex_zh": "周末班按轮换方式安排。",
+     "ex_ja": "週末勤務は交代制で割り当てられます。",
+     "parts": [
+      [
+       "rot",
+       "轮子（rota）",
+       "車輪（rota）"
+      ],
+      [
+       "-ate",
+       "动词后缀",
+       "動詞を作る"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 rotatio，来自 rotare“转动”，源于 rota“轮子”。",
+      "ja": "ラテン語 rotatio。rotare「回す」（rota「車輪」）から。"
+     },
+     "forms": [
+      [
+       "on a rotation basis",
+       "以轮换方式",
+       "交代制で"
+      ],
+      [
+       "rotate (v.)",
+       "轮流；旋转",
+       "交代する；回転する"
+      ]
+     ]
+    },
+    {
+     "w": "workstation",
+     "pos": "n.",
+     "ipa": "/ˈwɝkˌsteɪʃən/",
+     "zh": "工位；工作站（电脑）",
+     "ja": "作業スペース；ワークステーション",
+     "ex": "Please keep your workstation clean and free of food.",
+     "ex_zh": "请保持工位整洁，不要放食物。",
+     "ex_ja": "作業スペースは清潔に保ち、食べ物を置かないでください。",
+     "parts": [
+      [
+       "work",
+       "工作",
+       "仕事"
+      ],
+      [
+       "sta",
+       "站立（stare）",
+       "立つ（stare）"
+      ],
+      [
+       "-tion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "本族词 work + station（拉丁语 statio“站立的地方”，来自 stare“站”）。",
+      "ja": "英語本来の work + station（ラテン語 statio「立つ場所」、stare「立つ」から）。"
+     },
+     "forms": [
+      [
+       "assigned workstation",
+       "固定工位",
+       "指定席"
+      ],
+      [
+       "hot-desking (n.)",
+       "共享工位制",
+       "フリーアドレス"
+      ]
+     ]
+    },
+    {
+     "w": "burnout",
+     "pos": "n.",
+     "ipa": "/ˈbɝnˌaʊt/",
+     "zh": "（身心）倦怠，过劳",
+     "ja": "燃え尽き症候群；極度の疲労",
+     "ex": "Taking regular breaks can help prevent burnout.",
+     "ex_zh": "定期休息有助于防止过劳倦怠。",
+     "ex_ja": "定期的に休憩を取ると燃え尽きを防げます。",
+     "parts": [],
+     "note": {
+      "zh": "本族词 burn + out 构成的复合词。没有可靠的词根拆分。",
+      "ja": "英語本来の burn + out の複合語。信頼できる語根分解はありません。"
+     },
+     "forms": [
+      [
+       "burn out (v.)",
+       "累垮",
+       "燃え尽きる"
+      ],
+      [
+       "employee burnout",
+       "员工倦怠",
+       "社員の燃え尽き"
+      ]
+     ]
+    },
+    {
+     "w": "bereavement",
+     "pos": "n.",
+     "ipa": "/bɪˈrivmənt/",
+     "zh": "丧亲；（亲人）去世",
+     "ja": "死別",
+     "ex": "Staff may take up to five days of bereavement leave.",
+     "ex_zh": "员工最多可休五天丧假。",
+     "ex_ja": "社員は最大5日間の忌引休暇を取得できます。",
+     "parts": [
+      [
+       "be-",
+       "加强（本族前缀）",
+       "強意（英語本来の接頭辞）"
+      ],
+      [
+       "reave",
+       "夺走",
+       "奪う"
+      ],
+      [
+       "-ment",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "古英语 bereafian“夺去”：be- + reafian“抢夺”，后加 -ment。",
+      "ja": "古英語 bereafian「奪う」：be- + reafian「奪い取る」に -ment が付いたもの。"
+     },
+     "forms": [
+      [
+       "bereavement leave",
+       "丧假",
+       "忌引休暇"
+      ],
+      [
+       "bereaved (adj.)",
+       "失去亲人的",
+       "遺族の"
+      ]
+     ]
+    },
+    {
+     "w": "unpaid",
+     "pos": "adj.",
+     "ipa": "/ʌnˈpeɪd/",
+     "zh": "无薪的；未付的",
+     "ja": "無給の；未払いの",
+     "ex": "Employees can request up to two weeks of unpaid leave.",
+     "ex_zh": "员工最多可申请两周的无薪假。",
+     "ex_ja": "社員は最大2週間の無給休暇を申請できます。",
+     "parts": [
+      [
+       "un-",
+       "不",
+       "〜でない"
+      ],
+      [
+       "pay",
+       "付钱",
+       "支払う"
+      ],
+      [
+       "-ed",
+       "过去分词",
+       "過去分詞"
+      ]
+     ],
+     "note": {
+      "zh": "un- + paid。pay 经古法语 paier 来自拉丁语 pacare“安抚 → 清偿”。",
+      "ja": "un- + paid。pay は古フランス語 paier を経てラテン語 pacare「なだめる → 支払って片をつける」から。"
+     },
+     "forms": [
+      [
+       "unpaid leave",
+       "无薪假",
+       "無給休暇"
+      ],
+      [
+       "unpaid invoice",
+       "未付发票",
+       "未払いの請求書"
+      ]
+     ],
+     "hl": "unpaid"
+    },
+    {
+     "w": "handover",
+     "pos": "n.",
+     "ipa": "/ˈhændˌoʊvɚ/",
+     "zh": "交接；移交",
+     "ja": "引き継ぎ",
+     "ex": "Please prepare handover notes before you go on leave.",
+     "ex_zh": "休假前请准备好交接记录。",
+     "ex_ja": "休暇に入る前に引き継ぎメモを用意してください。",
+     "parts": [],
+     "note": {
+      "zh": "本族词 hand + over 构成的复合词（来自 hand over“交出”）。没有可靠的词根拆分。",
+      "ja": "英語本来の hand + over の複合語（hand over「手渡す」から）。信頼できる語根分解はありません。"
+     },
+     "forms": [
+      [
+       "hand over (v.)",
+       "移交",
+       "引き渡す"
+      ],
+      [
+       "handover period",
+       "交接期",
+       "引き継ぎ期間"
+      ]
+     ]
+    },
+    {
+     "w": "headset",
+     "pos": "n.",
+     "ipa": "/ˈhɛdˌsɛt/",
+     "zh": "头戴式耳机（带麦克风）",
+     "ja": "ヘッドセット",
+     "ex": "Please use a headset during online meetings to reduce background noise.",
+     "ex_zh": "线上会议时请使用耳机以减少背景噪音。",
+     "ex_ja": "オンライン会議では雑音を減らすためヘッドセットを使ってください。",
+     "parts": [],
+     "note": {
+      "zh": "本族词 head + set 构成的复合词。没有可靠的词根拆分。",
+      "ja": "英語本来の head + set の複合語。信頼できる語根分解はありません。"
+     },
+     "forms": [
+      [
+       "wireless headset",
+       "无线耳机",
+       "ワイヤレスヘッドセット"
+      ],
+      [
+       "earphones (n.)",
+       "耳机",
+       "イヤホン"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1：A woman is wearing a headset.",
+      "ja": "Part 1：A woman is wearing a headset."
+     }
+    },
+    {
+     "w": "videoconference",
+     "pos": "n.",
+     "ipa": "/ˈvɪdioʊˌkɑnfərəns/",
+     "zh": "视频会议",
+     "ja": "テレビ会議；ビデオ会議",
+     "ex": "The quarterly review will be held by videoconference.",
+     "ex_zh": "季度评估会将以视频会议形式举行。",
+     "ex_ja": "四半期レビューはビデオ会議で行われます。",
+     "parts": [
+      [
+       "vid",
+       "看（videre）",
+       "見る（videre）"
+      ],
+      [
+       "con-",
+       "一起",
+       "共に"
+      ],
+      [
+       "fer",
+       "携带（ferre）",
+       "運ぶ（ferre）"
+      ],
+      [
+       "-ence",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "video（拉丁语 video“我看”）+ conference（con- + ferre“带到一起”）。",
+      "ja": "video（ラテン語 video「私は見る」）+ conference（con- + ferre「持ち寄る」）。"
+     },
+     "forms": [
+      [
+       "by videoconference",
+       "通过视频会议",
+       "ビデオ会議で"
+      ],
+      [
+       "video call",
+       "视频通话",
+       "ビデオ通話"
+      ]
+     ]
+    },
+    {
+     "w": "webcam",
+     "pos": "n.",
+     "ipa": "/ˈwɛbˌkæm/",
+     "zh": "网络摄像头",
+     "ja": "ウェブカメラ",
+     "ex": "Please turn on your webcam when you give your presentation.",
+     "ex_zh": "做演示时请打开摄像头。",
+     "ex_ja": "発表するときはウェブカメラをオンにしてください。",
+     "parts": [],
+     "note": {
+      "zh": "web（本族词）+ cam（camera 的缩写，来自拉丁语 camera“拱顶房间”）构成的现代复合词。没有可靠的词根拆分。",
+      "ja": "web（英語本来の語）+ cam（camera の短縮、ラテン語 camera「丸天井の部屋」から）の現代の複合語。信頼できる語根分解はありません。"
+     },
+     "forms": [
+      [
+       "turn on your camera",
+       "打开摄像头",
+       "カメラをオンにする"
+      ],
+      [
+       "mute (v.)",
+       "静音",
+       "ミュートにする"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "office",
+   "title_zh": "主题：办公室搬迁与设施管理",
+   "title_ja": "テーマ：オフィス移転・設備管理",
+   "words": [
+    {
+     "w": "cubicle",
+     "pos": "n.",
+     "ipa": "/ˈkjubɪkəl/",
+     "zh": "（办公室的）隔间工位",
+     "ja": "（仕切られた）個人用ブース",
+     "ex": "Each cubicle has a desk, a chair, and a filing cabinet.",
+     "ex_zh": "每个隔间都有一张桌子、一把椅子和一个文件柜。",
+     "ex_ja": "各ブースには机、椅子、書類キャビネットがあります。",
+     "parts": [
+      [
+       "cub",
+       "躺（cubare）",
+       "横たわる（cubare）"
+      ],
+      [
+       "-icle",
+       "指小后缀",
+       "指小辞"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 cubiculum“卧室”，来自 cubare“躺”。",
+      "ja": "ラテン語 cubiculum「寝室」。cubare「横たわる」から。"
+     },
+     "forms": [
+      [
+       "open-plan office",
+       "开放式办公室",
+       "オープンオフィス"
+      ],
+      [
+       "cubicle wall",
+       "隔板",
+       "仕切り壁"
+      ]
+     ]
+    },
+    {
+     "w": "partition",
+     "pos": "n./v.",
+     "ipa": "/pɑrˈtɪʃən/",
+     "zh": "隔板，隔墙；分隔",
+     "ja": "間仕切り；仕切る",
+     "ex": "Glass partitions divide the meeting area from the workspace.",
+     "ex_zh": "玻璃隔断把会议区和办公区分开。",
+     "ex_ja": "ガラスの間仕切りで会議エリアと作業スペースが分けられています。",
+     "parts": [
+      [
+       "part",
+       "部分（pars）",
+       "部分（pars）"
+      ],
+      [
+       "-ition",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 partitio“分配”，来自 partire“分开”（pars“部分”）。",
+      "ja": "ラテン語 partitio「分割」。partire「分ける」（pars「部分」）から。"
+     },
+     "forms": [
+      [
+       "partition off (v.)",
+       "隔出（区域）",
+       "仕切って区切る"
+      ],
+      [
+       "divider (n.)",
+       "隔板",
+       "仕切り"
+      ]
+     ],
+     "hl": "partitions"
+    },
+    {
+     "w": "furnishings",
+     "pos": "n.",
+     "ipa": "/ˈfɝnɪʃɪŋz/",
+     "zh": "家具陈设；室内装饰",
+     "ja": "家具調度品；備品",
+     "ex": "The rent includes all office furnishings.",
+     "ex_zh": "租金包含全部办公家具陈设。",
+     "ex_ja": "賃料には事務所の備品一式が含まれています。",
+     "parts": [],
+     "note": {
+      "zh": "经古法语 furnir“提供”而来（更早可能是日耳曼语）。没有可靠的词根拆分。",
+      "ja": "古フランス語 furnir「供給する」から（さらにさかのぼるとゲルマン語とされる）。信頼できる語根分解はありません。"
+     },
+     "forms": [
+      [
+       "furnished (adj.)",
+       "带家具的",
+       "家具付きの"
+      ],
+      [
+       "furnish (v.)",
+       "布置家具；提供",
+       "家具を備え付ける；提供する"
+      ]
+     ],
+     "tip": {
+      "zh": "furnished apartment = 带家具的公寓，房屋广告常见。",
+      "ja": "furnished apartment（家具付きアパート）は物件広告の定番。"
+     }
+    },
+    {
+     "w": "keycard",
+     "pos": "n.",
+     "ipa": "/ˈkiˌkɑrd/",
+     "zh": "门禁卡",
+     "ja": "カードキー",
+     "ex": "Visitors must obtain a keycard from the front desk.",
+     "ex_zh": "访客必须在前台领取门禁卡。",
+     "ex_ja": "来訪者は受付でカードキーを受け取らなければなりません。",
+     "parts": [],
+     "note": {
+      "zh": "本族词 key + card（经法语来自拉丁语 charta“纸”）构成的复合词。没有可靠的词根拆分。",
+      "ja": "英語本来の key + card（フランス語を経てラテン語 charta「紙」から）の複合語。信頼できる語根分解はありません。"
+     },
+     "forms": [
+      [
+       "swipe a keycard",
+       "刷门禁卡",
+       "カードキーをかざす"
+      ],
+      [
+       "access card",
+       "门禁卡",
+       "入館カード"
+      ]
+     ]
+    },
+    {
+     "w": "corridor",
+     "pos": "n.",
+     "ipa": "/ˈkɔrədɚ/",
+     "zh": "走廊；通道",
+     "ja": "廊下；通路",
+     "ex": "The supply room is at the end of the corridor.",
+     "ex_zh": "用品室在走廊尽头。",
+     "ex_ja": "備品室は廊下の突き当たりにあります。",
+     "parts": [
+      [
+       "corr",
+       "跑（currere）",
+       "走る（currere）"
+      ],
+      [
+       "-idor",
+       "表示场所",
+       "場所を表す"
+      ]
+     ],
+     "note": {
+      "zh": "经法语来自意大利语 corridore“跑道”，源于 correre“跑”（拉丁语 currere，Day 8 的 cur）。",
+      "ja": "フランス語を経てイタリア語 corridore「走路」から。correre「走る」（ラテン語 currere、Day 8 の cur）。"
+     },
+     "forms": [
+      [
+       "hallway (n.)",
+       "走廊",
+       "廊下"
+      ],
+      [
+       "down the corridor",
+       "沿走廊往前",
+       "廊下の先に"
+      ]
+     ]
+    },
+    {
+     "w": "thermostat",
+     "pos": "n.",
+     "ipa": "/ˈθɝməˌstæt/",
+     "zh": "恒温器；温度调节器",
+     "ja": "サーモスタット；温度調節器",
+     "ex": "Please do not adjust the thermostat in the conference room.",
+     "ex_zh": "请勿调节会议室的温度调节器。",
+     "ex_ja": "会議室の温度調節器は調整しないでください。",
+     "parts": [
+      [
+       "thermo",
+       "热（希腊语 thermos）",
+       "熱（ギリシャ語 thermos）"
+      ],
+      [
+       "stat",
+       "保持不变的（希腊语 statos）",
+       "止まった（ギリシャ語 statos）"
+      ]
+     ],
+     "note": {
+      "zh": "希腊语 thermos“热” + statos“站着的、不动的” → 让温度保持稳定的装置。",
+      "ja": "ギリシャ語 thermos「熱い」+ statos「立った・静止した」→ 温度を一定に保つ装置。"
+     },
+     "forms": [
+      [
+       "adjust the thermostat",
+       "调温度",
+       "温度設定を変える"
+      ],
+      [
+       "temperature (n.)",
+       "温度",
+       "温度"
+      ]
+     ]
+    },
+    {
+     "w": "downsize",
+     "pos": "v.",
+     "ipa": "/ˈdaʊnˌsaɪz/",
+     "zh": "缩小规模；裁员",
+     "ja": "規模を縮小する；人員削減する",
+     "ex": "The firm plans to downsize its office space after the merger.",
+     "ex_zh": "合并后公司计划缩小办公面积。",
+     "ex_ja": "その会社は合併後にオフィス面積を縮小する予定です。",
+     "parts": [],
+     "note": {
+      "zh": "本族词 down + size（经古法语 assise）构成的复合动词。没有可靠的词根拆分。",
+      "ja": "英語本来の down + size（古フランス語 assise から）の複合動詞。信頼できる語根分解はありません。"
+     },
+     "forms": [
+      [
+       "downsizing (n.)",
+       "裁员；缩编",
+       "人員整理；縮小"
+      ],
+      [
+       "scale back (v.)",
+       "缩减",
+       "縮小する"
+      ]
+     ]
+    },
+    {
+     "w": "unpack",
+     "pos": "v.",
+     "ipa": "/ʌnˈpæk/",
+     "zh": "打开（包裹）取出；拆箱",
+     "ja": "荷ほどきする；（箱から）取り出す",
+     "ex": "Movers will unpack the boxes and set up the furniture.",
+     "ex_zh": "搬家工人会拆箱并摆好家具。",
+     "ex_ja": "引っ越し業者が箱を開けて家具を設置します。",
+     "parts": [
+      [
+       "un-",
+       "反向动作",
+       "逆の動作"
+      ],
+      [
+       "pack",
+       "包裹",
+       "包み"
+      ]
+     ],
+     "note": {
+      "zh": "un-（相反动作）+ pack（来自中古荷兰语 pak“包裹”）。",
+      "ja": "un-（逆の動作）+ pack（中世オランダ語 pak「包み」から）。"
+     },
+     "forms": [
+      [
+       "pack (v.)",
+       "打包",
+       "荷造りする"
+      ],
+      [
+       "unpacking (n.)",
+       "拆箱整理",
+       "荷ほどき"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1：Some boxes are being unpacked.",
+      "ja": "Part 1：Some boxes are being unpacked."
+     }
+    },
+    {
+     "w": "disassemble",
+     "pos": "v.",
+     "ipa": "/ˌdɪsəˈsɛmbəl/",
+     "zh": "拆卸；拆开",
+     "ja": "分解する；解体する",
+     "ex": "The desks must be disassembled before they can be moved.",
+     "ex_zh": "书桌必须先拆开才能搬运。",
+     "ex_ja": "机は運ぶ前に分解しなければなりません。",
+     "parts": [
+      [
+       "dis-",
+       "相反",
+       "反対の"
+      ],
+      [
+       "as-",
+       "向（ad- 的变体）",
+       "〜へ（ad- の変形）"
+      ],
+      [
+       "semble",
+       "一起（simul）",
+       "一緒に（simul）"
+      ]
+     ],
+     "note": {
+      "zh": "dis- + assemble（古法语 assembler，来自拉丁语 ad- + simul“一起”）。",
+      "ja": "dis- + assemble（古フランス語 assembler、ラテン語 ad- + simul「一緒に」から）。"
+     },
+     "forms": [
+      [
+       "assemble (v.)",
+       "组装",
+       "組み立てる"
+      ],
+      [
+       "take apart (v.)",
+       "拆开",
+       "分解する"
+      ]
+     ],
+     "hl": "disassembled"
+    },
+    {
+     "w": "restroom",
+     "pos": "n.",
+     "ipa": "/ˈrɛstˌrum/",
+     "zh": "洗手间",
+     "ja": "お手洗い；化粧室",
+     "ex": "The restrooms on the third floor are closed for cleaning.",
+     "ex_zh": "三楼的洗手间正在清洁，暂停使用。",
+     "ex_ja": "3階のお手洗いは清掃のため使用できません。",
+     "parts": [],
+     "note": {
+      "zh": "本族词 rest + room 构成的美式复合词。没有可靠的词根拆分。",
+      "ja": "英語本来の rest + room による米語の複合語。信頼できる語根分解はありません。"
+     },
+     "forms": [
+      [
+       "lavatory (n.)",
+       "厕所（正式）",
+       "化粧室（改まった語）"
+      ],
+      [
+       "out of order",
+       "故障",
+       "故障中"
+      ]
+     ],
+     "hl": "restrooms"
+    },
+    {
+     "w": "pantry",
+     "pos": "n.",
+     "ipa": "/ˈpæntri/",
+     "zh": "（办公室）茶水间；食品储藏室",
+     "ja": "給湯室；食品庫",
+     "ex": "Coffee and tea are available in the pantry on each floor.",
+     "ex_zh": "每层的茶水间都提供咖啡和茶。",
+     "ex_ja": "各階の給湯室でコーヒーと紅茶が飲めます。",
+     "parts": [
+      [
+       "pan",
+       "面包（panis）",
+       "パン（panis）"
+      ],
+      [
+       "-try",
+       "场所",
+       "場所"
+      ]
+     ],
+     "note": {
+      "zh": "经古法语 paneterie“面包房”来自拉丁语 panis“面包”。",
+      "ja": "古フランス語 paneterie「パン置き場」を経て、ラテン語 panis「パン」から。"
+     },
+     "forms": [
+      [
+       "break room",
+       "休息室",
+       "休憩室"
+      ],
+      [
+       "kitchenette (n.)",
+       "小厨房",
+       "簡易キッチン"
+      ]
+     ]
+    },
+    {
+     "w": "workspace",
+     "pos": "n.",
+     "ipa": "/ˈwɝkˌspeɪs/",
+     "zh": "工作空间；办公场所",
+     "ja": "作業スペース；ワークスペース",
+     "ex": "The startup rents a shared workspace downtown.",
+     "ex_zh": "这家初创公司在市中心租用了共享办公空间。",
+     "ex_ja": "そのスタートアップは都心でシェアオフィスを借りています。",
+     "parts": [],
+     "note": {
+      "zh": "本族词 work + space（经古法语来自拉丁语 spatium“空间”）构成的复合词。没有可靠的词根拆分。",
+      "ja": "英語本来の work + space（古フランス語を経てラテン語 spatium「空間」から）の複合語。信頼できる語根分解はありません。"
+     },
+     "forms": [
+      [
+       "shared workspace",
+       "共享办公空间",
+       "シェアオフィス"
+      ],
+      [
+       "coworking space",
+       "联合办公空间",
+       "コワーキングスペース"
+      ]
+     ]
+    },
+    {
+     "w": "sublease",
+     "pos": "v./n.",
+     "ipa": "/ˈsʌbˌlis/",
+     "zh": "转租",
+     "ja": "転貸する；又貸し",
+     "ex": "We plan to sublease part of our floor to another company.",
+     "ex_zh": "我们打算把部分楼层转租给另一家公司。",
+     "ex_ja": "フロアの一部を別の会社に転貸する予定です。",
+     "parts": [
+      [
+       "sub-",
+       "在下；次级",
+       "下に；副次的な"
+      ],
+      [
+       "lease",
+       "租约",
+       "賃貸借"
+      ]
+     ],
+     "note": {
+      "zh": "sub-“次级” + lease（经英法语 les 来自拉丁语 laxare“放松 → 放出去”）。本站已学 lease。",
+      "ja": "sub-「下位の」+ lease（アングロ・フランス語 les を経てラテン語 laxare「緩める → 手放す」から）。既習 lease の派生。"
+     },
+     "forms": [
+      [
+       "sublet (v.)",
+       "转租",
+       "又貸しする"
+      ],
+      [
+       "subtenant (n.)",
+       "转租户",
+       "転借人"
+      ]
+     ]
+    },
+    {
+     "w": "footprint",
+     "pos": "n.",
+     "ipa": "/ˈfʊtˌprɪnt/",
+     "zh": "占地面积；（业务）覆盖范围；足迹",
+     "ja": "占有面積；（事業の）拠点規模；足跡",
+     "ex": "Moving to a smaller office will reduce our footprint and our rent.",
+     "ex_zh": "搬到更小的办公室会减少我们的占地面积和租金。",
+     "ex_ja": "小さなオフィスへの移転で占有面積も賃料も減ります。",
+     "parts": [],
+     "note": {
+      "zh": "本族词 foot + print（经古法语 preinte 来自拉丁语 premere“压”）构成的复合词。没有可靠的词根拆分。",
+      "ja": "英語本来の foot + print（古フランス語 preinte を経てラテン語 premere「押す」から）の複合語。信頼できる語根分解はありません。"
+     },
+     "forms": [
+      [
+       "carbon footprint",
+       "碳足迹",
+       "カーボンフットプリント"
+      ],
+      [
+       "expand our footprint",
+       "扩大业务版图",
+       "事業拠点を広げる"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}
