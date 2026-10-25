@@ -1,0 +1,2665 @@
+{
+ "day": 23,
+ "date": "2026-10-26",
+ "title_zh": "四大词根 + 机场航班与登机、时间管理与工作效率",
+ "title_ja": "4つの語根＋空港・フライトと搭乗、時間管理と仕事の効率",
+ "intro_zh": "今天掌握 4 个高频词根（labor 劳动 / oper 工作 / merg·mers 浸入 / alter·ali 另一个），再学机场航班与登机、时间管理与工作效率的核心词——强化 Part 5 语法搭配（elaborate on、cooperate with、an alternative to、concentrate on、prior to），Part 1 场景（a plane is on the runway、a parking attendant、wearing a lab coat），Part 4 机场与交通广播（boarding、turbulence、be rebooked on、fasten your seat belt、an alternate route），以及 Part 7 的维修发票、招聘广告和订单积压通知。",
+ "intro_ja": "今日は語根 4 つ（labor 労働／oper 仕事／merg·mers 浸す／alter·ali もう一方の）と、空港・フライトと搭乗、時間管理と仕事の効率の重要語を学びます。Part 5 の語法（elaborate on、cooperate with、an alternative to、concentrate on、prior to）、Part 1 の場面（a plane is on the runway、a parking attendant、wearing a lab coat）、Part 4 の空港・交通アナウンス（boarding、turbulence、be rebooked on、fasten your seat belt、an alternate route）、Part 7 の修理請求書・求人広告・受注残のお知らせを強化します。",
+ "voice": "en-US-AriaNeural",
+ "roots": [
+  {
+   "root": "-labor-",
+   "origin": "Latin labor / laborare",
+   "zh": "劳动；辛苦工作",
+   "ja": "労働；骨折り",
+   "exp_zh": "来自拉丁语 labor（劳动、辛劳）和 laborare（工作）。labor → laborer（劳工）、laborious（费力的）；e-“向外” + laborare → elaborare“下功夫做出来” → elaborate（精心的；详细说明）；com-“一起” + laborare → collaborate“一起干活”（本站已学）→ collaborative、collaborator；中世纪拉丁语 laboratorium“工作场所” → laboratory（口语缩写 lab）。⚠️ elaborate 作形容词读 /ɪˈlæbərət/，作动词读 /ɪˈlæbəˌreɪt/。⚠️ 英式拼写 labour 和美式 labor 是同一个词。",
+   "exp_ja": "ラテン語 labor（労働・骨折り）と laborare（働く）から。labor → laborer（労働者）、laborious（骨の折れる）。e-「外へ」+ laborare → elaborare「手間をかけて作り上げる」→ elaborate（入念な；詳しく述べる）。com-「共に」+ laborare → collaborate「一緒に働く」（既習）→ collaborative、collaborator。中世ラテン語 laboratorium「作業場」→ laboratory（略して lab）。⚠️ elaborate は形容詞 /ɪˈlæbərət/、動詞 /ɪˈlæbəˌreɪt/ と発音が変わる。⚠️ 英国式つづり labour と米国式 labor は同じ語。",
+   "examples": [
+    "labor",
+    "laborer",
+    "laborious",
+    "elaborate",
+    "elaborately",
+    "collaborative",
+    "collaborator",
+    "laboratory"
+   ]
+  },
+  {
+   "root": "-oper-",
+   "origin": "Latin opus, operis / operari",
+   "zh": "工作；作品",
+   "ja": "仕事；作品",
+   "exp_zh": "来自拉丁语 opus（复数 opera，工作、作品）和 operari（工作、起作用）。operate（操作、运营）→ operational（运营上的；可运转的）、operator（操作员；接线员；经营者）、operative（起作用的；生效的）；in-“不” + operable → inoperable（无法运转的）；co-“一起” + operari → cooperate（合作）→ cooperation、cooperative；意大利语 opera“作品” → opera（歌剧）。⚠️ opportunity 来自 portus“港口”，optimal 来自 optimus“最好的”，都和 oper 无关。",
+   "exp_ja": "ラテン語 opus（複数 opera、仕事・作品）と operari（働く・作用する）から。operate（操作する・運営する）→ operational（運用上の；稼働可能な）、operator（オペレーター；交換手；事業者）、operative（効力のある；稼働中の）。in-「否定」+ operable → inoperable（作動しない）。co-「共に」+ operari → cooperate（協力する）→ cooperation、cooperative。イタリア語 opera「作品」→ opera（オペラ）。⚠️ opportunity は portus「港」、optimal は optimus「最良の」から来ており oper とは無関係。",
+   "examples": [
+    "operational",
+    "operator",
+    "operative",
+    "inoperable",
+    "cooperate",
+    "cooperation",
+    "cooperative",
+    "opera"
+   ]
+  },
+  {
+   "root": "-merg- / -mers-",
+   "origin": "Latin mergere, mersus",
+   "zh": "浸入；沉没",
+   "ja": "浸す；沈める",
+   "exp_zh": "来自拉丁语 mergere（浸入、沉入），过去分词 mersus。e-“向外” + mergere → emergere“从水里冒出来” → emerge（出现）→ emergence、emerging（新兴的）、emergency（突发事件，本站已学）；mergere → merge（合并）→ merger（本站已学）；in-“进入” + mersus → immerse（使沉浸）→ immersion、immersive；sub-“在下面” + mergere → submerge（淹没）。⚠️ merchant、merchandise 来自 merx“商品”，和 merg 无关。",
+   "exp_ja": "ラテン語 mergere（浸す・沈める）、過去分詞 mersus から。e-「外へ」+ mergere → emergere「水中から浮かび出る」→ emerge（現れる）→ emergence、emerging（新興の）、emergency（緊急事態、既習）。mergere → merge（合併する）→ merger（既習）。in-「中へ」+ mersus → immerse（浸す・没頭させる）→ immersion、immersive。sub-「下に」+ mergere → submerge（水没させる）。⚠️ merchant・merchandise は merx「商品」から来ており merg とは無関係。",
+   "examples": [
+    "emerge",
+    "emergence",
+    "emerging",
+    "merge",
+    "immerse",
+    "immersion",
+    "immersive",
+    "submerge"
+   ]
+  },
+  {
+   "root": "-alter- / -ali-",
+   "origin": "Latin alter / alius",
+   "zh": "另一个；别的",
+   "ja": "もう一方の；他の",
+   "exp_zh": "来自拉丁语 alter（两者中的另一个）和 alius（别的）。alter → 中世纪拉丁语 alterare“使变成另一个样子” → alter（修改）、unaltered（未改动的）；alternare“轮流” → alternate（交替）、alternative（另一个选择）、alternatively；alius → alienus“属于别人的” → alien（外国的；陌生的）→ alienate（疏远）；拉丁语副词 alias“在别的时候；否则” → alias（化名；别名）。⚠️ altitude 来自 altus“高”，altar 是“祭坛”，都和 alter 无关。",
+   "exp_ja": "ラテン語 alter（二つのうちのもう一方）と alius（他の）から。alter → 中世ラテン語 alterare「別のものにする」→ alter（変更する）、unaltered（変更されていない）。alternare「交互に行う」→ alternate（交互に行う）、alternative（代わりの選択肢）、alternatively。alius → alienus「他人に属する」→ alien（外国の；なじみのない）→ alienate（遠ざける）。ラテン語の副詞 alias「別の時に；別名で」→ alias（別名）。⚠️ altitude は altus「高い」、altar は「祭壇」で、alter とは無関係。",
+   "examples": [
+    "alter",
+    "unaltered",
+    "alternate",
+    "alternative",
+    "alternatively",
+    "alien",
+    "alienate",
+    "alias"
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "labor",
+   "title_zh": "词根 -labor-：劳动",
+   "title_ja": "語根 -labor-：労働",
+   "words": [
+    {
+     "w": "labor",
+     "pos": "n./v.",
+     "ipa": "/ˈleɪbɚ/",
+     "zh": "劳动；劳动力；人工费；努力工作",
+     "ja": "労働；労働力；人件費；骨を折って働く",
+     "ex": "The repair estimate includes both parts and labor.",
+     "ex_zh": "维修报价包括零件费和人工费。",
+     "ex_ja": "修理の見積もりには部品代と工賃の両方が含まれています。",
+     "parts": [
+      [
+       "labor",
+       "劳动；工作（labor）",
+       "労働；働く（labor）"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 labor“劳动、辛劳”。",
+      "ja": "ラテン語 labor「労働・骨折り」。"
+     },
+     "forms": [
+      [
+       "labor costs",
+       "人工成本",
+       "人件費"
+      ],
+      [
+       "labor shortage",
+       "劳动力短缺",
+       "人手不足"
+      ],
+      [
+       "Labor Day",
+       "（美国）劳动节",
+       "（米国の）労働者の日"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7 维修发票常见 parts and labor“零件费与工时费”；labor shortage 是招聘类文章高频词。",
+      "ja": "Part 7 の修理請求書で parts and labor「部品代と工賃」が頻出。labor shortage は人材募集の記事でよく出る。"
+     }
+    },
+    {
+     "w": "laborer",
+     "pos": "n.",
+     "ipa": "/ˈleɪbərɚ/",
+     "zh": "体力劳动者；工人",
+     "ja": "肉体労働者；作業員",
+     "ex": "The construction company is hiring twenty laborers for the new bridge project.",
+     "ex_zh": "建筑公司正在为新桥项目招聘二十名工人。",
+     "ex_ja": "建設会社は新しい橋のプロジェクトのために作業員を20人採用しています。",
+     "parts": [
+      [
+       "labor",
+       "劳动；工作（labor）",
+       "労働；働く（labor）"
+      ],
+      [
+       "-er",
+       "表示人",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "labor + -er“干活的人”。",
+      "ja": "labor + -er「働く人」。"
+     },
+     "forms": [
+      [
+       "skilled laborer",
+       "熟练工",
+       "熟練労働者"
+      ],
+      [
+       "farm laborer",
+       "农场工人",
+       "農場労働者"
+      ]
+     ]
+    },
+    {
+     "w": "laborious",
+     "pos": "adj.",
+     "ipa": "/ləˈbɔriəs/",
+     "zh": "费力的；艰苦的；繁琐的",
+     "ja": "骨の折れる；手間のかかる",
+     "ex": "Entering the data by hand was a laborious process, so we bought new software.",
+     "ex_zh": "手工录入数据非常费力，所以我们买了新软件。",
+     "ex_ja": "手作業でのデータ入力は骨の折れる作業だったので、新しいソフトを購入しました。",
+     "parts": [
+      [
+       "labor",
+       "劳动；工作（labor）",
+       "労働；働く（labor）"
+      ],
+      [
+       "-ious",
+       "形容词后缀（充满……的）",
+       "〜に満ちた（形容詞）"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 laboriosus“充满辛劳的”。",
+      "ja": "ラテン語 laboriosus「骨折りに満ちた」。"
+     },
+     "forms": [
+      [
+       "laboriously (adv.)",
+       "费力地",
+       "苦労して"
+      ],
+      [
+       "a laborious task",
+       "繁重的任务",
+       "手間のかかる作業"
+      ]
+     ],
+     "tip": {
+      "zh": "重音在第二音节 la-BOR-ious，和 labor 不同。",
+      "ja": "強勢は第2音節 la-BOR-ious で、labor とは位置が違う。"
+     }
+    },
+    {
+     "w": "elaborate",
+     "pos": "adj./v.",
+     "ipa": "/ɪˈlæbərət/",
+     "zh": "精心制作的；复杂详尽的；详细说明",
+     "ja": "入念な；手の込んだ；詳しく述べる",
+     "ex": "The hotel prepared an elaborate dinner for the award ceremony.",
+     "ex_zh": "酒店为颁奖典礼准备了一顿精心制作的晚宴。",
+     "ex_ja": "ホテルは授賞式のために手の込んだディナーを用意しました。",
+     "parts": [
+      [
+       "e-",
+       "向外（ex- 的变体）",
+       "外へ（ex- の変形）"
+      ],
+      [
+       "labor",
+       "劳动；工作（labor）",
+       "労働；働く（labor）"
+      ],
+      [
+       "-ate",
+       "动词后缀",
+       "動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 elaborare“下功夫做出来”：e-“向外” + laborare“工作”。",
+      "ja": "ラテン語 elaborare「手間をかけて作り上げる」：e-「外へ」+ laborare「働く」。"
+     },
+     "forms": [
+      [
+       "elaborate on ...",
+       "详细说明……",
+       "〜について詳しく述べる"
+      ],
+      [
+       "elaboration (n.)",
+       "详细阐述",
+       "詳述"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5 常考 Could you elaborate on ...?（动词，要加 on）；形容词读 /ɪˈlæbərət/，动词读 /ɪˈlæbəˌreɪt/。",
+      "ja": "Part 5 では Could you elaborate on ...?（動詞は on が必要）が頻出。形容詞は /ɪˈlæbərət/、動詞は /ɪˈlæbəˌreɪt/ と読む。"
+     }
+    },
+    {
+     "w": "elaborately",
+     "pos": "adv.",
+     "ipa": "/ɪˈlæbərətli/",
+     "zh": "精心地；详尽地",
+     "ja": "入念に；凝って",
+     "ex": "The lobby was elaborately decorated for the company's fiftieth anniversary.",
+     "ex_zh": "大堂为公司成立五十周年而精心装饰过。",
+     "ex_ja": "ロビーは創立50周年のために入念に飾り付けられていました。",
+     "parts": [
+      [
+       "e-",
+       "向外（ex- 的变体）",
+       "外へ（ex- の変形）"
+      ],
+      [
+       "labor",
+       "劳动；工作（labor）",
+       "労働；働く（labor）"
+      ],
+      [
+       "-ate",
+       "动词后缀",
+       "動詞を作る"
+      ],
+      [
+       "-ly",
+       "副词后缀",
+       "副詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "elaborate 的副词。",
+      "ja": "elaborate の副詞形。"
+     },
+     "forms": [
+      [
+       "elaborately designed",
+       "设计精巧的",
+       "凝ったデザインの"
+      ],
+      [
+       "elaborately detailed",
+       "细节丰富的",
+       "細部まで作り込まれた"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5 词性题：修饰过去分词 decorated 要用副词 elaborately。",
+      "ja": "Part 5 の品詞問題：過去分詞 decorated を修飾するので副詞 elaborately。"
+     }
+    },
+    {
+     "w": "collaborative",
+     "pos": "adj.",
+     "ipa": "/kəˈlæbəˌreɪtɪv/",
+     "zh": "合作的；协作的",
+     "ja": "共同の；協力的な",
+     "ex": "The new office layout is designed to create a more collaborative environment.",
+     "ex_zh": "新的办公室布局旨在营造更具协作性的环境。",
+     "ex_ja": "新しいオフィスのレイアウトは、より協力的な環境を作るように設計されています。",
+     "parts": [
+      [
+       "col-",
+       "一起（com- 的同化形）",
+       "共に（com- の同化形）"
+      ],
+      [
+       "labor",
+       "劳动；工作（labor）",
+       "労働；働く（labor）"
+      ],
+      [
+       "-ative",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "collaborate（本站已学）的形容词：com-“一起” + laborare“工作”。",
+      "ja": "collaborate（既習）の形容詞形：com-「共に」+ laborare「働く」。"
+     },
+     "forms": [
+      [
+       "collaborative effort",
+       "共同努力",
+       "共同の取り組み"
+      ],
+      [
+       "collaboratively (adv.)",
+       "合作地",
+       "協力して"
+      ]
+     ]
+    },
+    {
+     "w": "collaborator",
+     "pos": "n.",
+     "ipa": "/kəˈlæbəˌreɪtɚ/",
+     "zh": "合作者；协作者",
+     "ja": "共同制作者；協力者",
+     "ex": "Dr. Patel thanked her collaborators at three universities for their contributions.",
+     "ex_zh": "帕特尔博士感谢了三所大学的合作者所作的贡献。",
+     "ex_ja": "パテル博士は3つの大学の共同研究者たちの貢献に感謝しました。",
+     "parts": [
+      [
+       "col-",
+       "一起（com- 的同化形）",
+       "共に（com- の同化形）"
+      ],
+      [
+       "labor",
+       "劳动；工作（labor）",
+       "労働；働く（labor）"
+      ],
+      [
+       "-ate",
+       "动词后缀",
+       "動詞を作る"
+      ],
+      [
+       "-or",
+       "表示人或物",
+       "〜する人・物"
+      ]
+     ],
+     "note": {
+      "zh": "collaborate + -or“一起工作的人”。",
+      "ja": "collaborate + -or「共に働く人」。"
+     },
+     "forms": [
+      [
+       "collaboration (n.)",
+       "合作",
+       "協力；共同作業"
+      ],
+      [
+       "in collaboration with ...",
+       "与……合作",
+       "〜と共同で"
+      ]
+     ]
+    },
+    {
+     "w": "laboratory",
+     "pos": "n.",
+     "ipa": "/ˈlæbrəˌtɔri/",
+     "zh": "实验室；研究所",
+     "ja": "実験室；研究所",
+     "ex": "All samples must be sent to the laboratory for testing by noon.",
+     "ex_zh": "所有样品必须在中午前送到实验室检测。",
+     "ex_ja": "すべてのサンプルは正午までに検査のため研究所へ送らなければなりません。",
+     "parts": [
+      [
+       "labor",
+       "劳动；工作（labor）",
+       "労働；働く（labor）"
+      ],
+      [
+       "-atory",
+       "表示场所",
+       "場所を表す"
+      ]
+     ],
+     "note": {
+      "zh": "中世纪拉丁语 laboratorium“工作场所”。",
+      "ja": "中世ラテン語 laboratorium「作業場」。"
+     },
+     "forms": [
+      [
+       "lab (n.)",
+       "实验室（口语）",
+       "ラボ（口語）"
+      ],
+      [
+       "research laboratory",
+       "研究实验室",
+       "研究所"
+      ]
+     ],
+     "tip": {
+      "zh": "美式读 LAB-ra-tor-y，重音在第一音节；Part 1 常见 wearing a lab coat。",
+      "ja": "米国式は LAB-ra-tor-y と第1音節に強勢。Part 1 で wearing a lab coat が頻出。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "oper",
+   "title_zh": "词根 -oper-：工作",
+   "title_ja": "語根 -oper-：仕事",
+   "words": [
+    {
+     "w": "operational",
+     "pos": "adj.",
+     "ipa": "/ˌɑpəˈreɪʃənəl/",
+     "zh": "运营的；业务上的；可运转的",
+     "ja": "運用上の；業務の；稼働可能な",
+     "ex": "The new factory will be fully operational by the end of March.",
+     "ex_zh": "新工厂将在三月底前全面投入运营。",
+     "ex_ja": "新工場は3月末までに全面稼働する予定です。",
+     "parts": [
+      [
+       "oper",
+       "工作；作品（opus / operari）",
+       "働く；作品（opus / operari）"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ],
+      [
+       "-al",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "operation“运营、运转” + -al。",
+      "ja": "operation「運営・稼働」+ -al。"
+     },
+     "forms": [
+      [
+       "operational costs",
+       "运营成本",
+       "運用コスト"
+      ],
+      [
+       "fully operational",
+       "全面运转",
+       "全面稼働して"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7 常见 be fully operational“全面投入使用”；operating costs 和 operational costs 意思接近。",
+      "ja": "Part 7 で be fully operational「全面稼働する」が頻出。operating costs と operational costs はほぼ同じ意味。"
+     }
+    },
+    {
+     "w": "operator",
+     "pos": "n.",
+     "ipa": "/ˈɑpəˌreɪtɚ/",
+     "zh": "操作员；（电话）接线员；经营者",
+     "ja": "オペレーター；（電話の）交換手；事業者",
+     "ex": "Only trained operators are allowed to use the forklift in the warehouse.",
+     "ex_zh": "只有受过培训的操作员才能在仓库使用叉车。",
+     "ex_ja": "倉庫でフォークリフトを使えるのは訓練を受けたオペレーターだけです。",
+     "parts": [
+      [
+       "oper",
+       "工作；作品（opus / operari）",
+       "働く；作品（opus / operari）"
+      ],
+      [
+       "-ate",
+       "动词后缀",
+       "動詞を作る"
+      ],
+      [
+       "-or",
+       "表示人或物",
+       "〜する人・物"
+      ]
+     ],
+     "note": {
+      "zh": "operate + -or“操作的人”。",
+      "ja": "operate + -or「操作する人」。"
+     },
+     "forms": [
+      [
+       "machine operator",
+       "机器操作员",
+       "機械オペレーター"
+      ],
+      [
+       "tour operator",
+       "旅游运营商",
+       "ツアー会社"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 4 电话录音里的 operator 是“人工客服”：press zero to speak to an operator。",
+      "ja": "Part 4 の自動音声では operator は「オペレーター（人間の担当者）」：press zero to speak to an operator。"
+     }
+    },
+    {
+     "w": "operative",
+     "pos": "adj.",
+     "ipa": "/ˈɑpərətɪv/",
+     "zh": "起作用的；有效的；运转中的",
+     "ja": "効力のある；有効な；稼働中の",
+     "ex": "The revised safety rules will become operative on the first of next month.",
+     "ex_zh": "修订后的安全规定将于下月一日起生效。",
+     "ex_ja": "改訂された安全規則は来月1日から効力を持ちます。",
+     "parts": [
+      [
+       "oper",
+       "工作；作品（opus / operari）",
+       "働く；作品（opus / operari）"
+      ],
+      [
+       "-ative",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 operativus“起作用的”。",
+      "ja": "ラテン語 operativus「作用する」。"
+     },
+     "forms": [
+      [
+       "become operative",
+       "生效",
+       "効力を生じる"
+      ],
+      [
+       "the operative word",
+       "关键词",
+       "肝心な言葉"
+      ]
+     ]
+    },
+    {
+     "w": "inoperable",
+     "pos": "adj.",
+     "ipa": "/ɪnˈɑpərəbəl/",
+     "zh": "无法运转的；不能使用的",
+     "ja": "作動しない；使用できない",
+     "ex": "The elevator will be inoperable while the technicians replace its cables.",
+     "ex_zh": "技术人员更换钢缆期间，电梯将无法使用。",
+     "ex_ja": "技術者がケーブルを交換している間、エレベーターは使用できません。",
+     "parts": [
+      [
+       "in-",
+       "不",
+       "否定"
+      ],
+      [
+       "oper",
+       "工作；作品（opus / operari）",
+       "働く；作品（opus / operari）"
+      ],
+      [
+       "-able",
+       "可……的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "in-“不” + operable“可运转的”。",
+      "ja": "in-「否定」+ operable「作動できる」。"
+     },
+     "forms": [
+      [
+       "operable (adj.)",
+       "可操作的",
+       "操作可能な"
+      ],
+      [
+       "out of order",
+       "出故障",
+       "故障中"
+      ]
+     ],
+     "tip": {
+      "zh": "同义表达：out of order、out of service、not working。",
+      "ja": "同じ意味の表現：out of order、out of service、not working。"
+     },
+     "hl": "inoperable"
+    },
+    {
+     "w": "cooperate",
+     "pos": "v.",
+     "ipa": "/koʊˈɑpəˌreɪt/",
+     "zh": "合作；配合",
+     "ja": "協力する；協調する",
+     "ex": "We ask all tenants to cooperate with the maintenance staff during the inspection.",
+     "ex_zh": "我们请所有租户在检查期间配合维修人员。",
+     "ex_ja": "点検の間、すべての入居者の皆様に保守スタッフへのご協力をお願いします。",
+     "parts": [
+      [
+       "co-",
+       "共同；一起（com- 的变体）",
+       "共に（com- の変形）"
+      ],
+      [
+       "oper",
+       "工作；作品（opus / operari）",
+       "働く；作品（opus / operari）"
+      ],
+      [
+       "-ate",
+       "动词后缀",
+       "動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 cooperari“一起工作”：co- + operari。",
+      "ja": "ラテン語 cooperari「共に働く」：co- + operari。"
+     },
+     "forms": [
+      [
+       "cooperate with + 人",
+       "与……合作",
+       "〜と協力する"
+      ],
+      [
+       "cooperate on + 事",
+       "在……上合作",
+       "〜で協力する"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5：cooperate 是不及物动词，与人合作要用 with。",
+      "ja": "Part 5：cooperate は自動詞なので、人と協力するときは with が必要。"
+     }
+    },
+    {
+     "w": "cooperation",
+     "pos": "n.",
+     "ipa": "/koʊˌɑpəˈreɪʃən/",
+     "zh": "合作；配合",
+     "ja": "協力；協調",
+     "ex": "Thank you for your cooperation while the parking lot is being repaved.",
+     "ex_zh": "停车场重新铺路期间，感谢您的配合。",
+     "ex_ja": "駐車場の再舗装工事中、ご協力いただきありがとうございます。",
+     "parts": [
+      [
+       "co-",
+       "共同；一起（com- 的变体）",
+       "共に（com- の変形）"
+      ],
+      [
+       "oper",
+       "工作；作品（opus / operari）",
+       "働く；作品（opus / operari）"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "cooperate 的名词。",
+      "ja": "cooperate の名詞形。"
+     },
+     "forms": [
+      [
+       "Thank you for your cooperation.",
+       "感谢您的配合。",
+       "ご協力ありがとうございます。"
+      ],
+      [
+       "in cooperation with ...",
+       "与……合作",
+       "〜と協力して"
+      ]
+     ],
+     "tip": {
+      "zh": "通知结尾的固定句：We appreciate your cooperation.",
+      "ja": "お知らせの締めの決まり文句：We appreciate your cooperation."
+     }
+    },
+    {
+     "w": "cooperative",
+     "pos": "adj./n.",
+     "ipa": "/koʊˈɑpərətɪv/",
+     "zh": "合作的；乐于配合的；合作社",
+     "ja": "協力的な；協同組合",
+     "ex": "The supplier has been very cooperative in adjusting delivery dates.",
+     "ex_zh": "供应商在调整交货日期方面一直非常配合。",
+     "ex_ja": "納入業者は納期の調整にとても協力的でした。",
+     "parts": [
+      [
+       "co-",
+       "共同；一起（com- 的变体）",
+       "共に（com- の変形）"
+      ],
+      [
+       "oper",
+       "工作；作品（opus / operari）",
+       "働く；作品（opus / operari）"
+      ],
+      [
+       "-ative",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "cooperate 的形容词；作名词指“合作社”（co-op）。",
+      "ja": "cooperate の形容詞形。名詞では「協同組合」（co-op）。"
+     },
+     "forms": [
+      [
+       "co-op (n.)",
+       "合作社（缩写）",
+       "生協（略語）"
+      ],
+      [
+       "uncooperative (adj.)",
+       "不配合的",
+       "非協力的な"
+      ]
+     ]
+    },
+    {
+     "w": "opera",
+     "pos": "n.",
+     "ipa": "/ˈɑpərə/",
+     "zh": "歌剧",
+     "ja": "オペラ；歌劇",
+     "ex": "Our clients have tickets to the opera after the business dinner on Friday.",
+     "ex_zh": "我们的客户周五商务晚餐后有歌剧票。",
+     "ex_ja": "顧客の方々は金曜日の会食の後、オペラのチケットをお持ちです。",
+     "parts": [
+      [
+       "oper",
+       "工作；作品（opus / operari）",
+       "働く；作品（opus / operari）"
+      ],
+      [
+       "-a",
+       "（拉丁语 opus 的复数 / 意大利语名词词尾）",
+       "（ラテン語 opus の複数・イタリア語の名詞語尾）"
+      ]
+     ],
+     "note": {
+      "zh": "意大利语 opera“作品”，来自拉丁语 opus 的复数 opera“工作、作品”。",
+      "ja": "イタリア語 opera「作品」、ラテン語 opus の複数形 opera「仕事・作品」から。"
+     },
+     "forms": [
+      [
+       "opera house",
+       "歌剧院",
+       "オペラハウス"
+      ],
+      [
+       "opera singer",
+       "歌剧演员",
+       "オペラ歌手"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "merg",
+   "title_zh": "词根 -merg- / -mers-：浸入",
+   "title_ja": "語根 -merg- / -mers-：浸す",
+   "words": [
+    {
+     "w": "emerge",
+     "pos": "v.",
+     "ipa": "/ɪˈmɝdʒ/",
+     "zh": "出现；浮现；（从困境中）摆脱出来",
+     "ja": "現れる；浮かび上がる；（困難から）抜け出す",
+     "ex": "Several new competitors have emerged in the online grocery market.",
+     "ex_zh": "网上生鲜市场出现了几家新的竞争对手。",
+     "ex_ja": "ネットスーパー市場には新たな競合が何社か現れました。",
+     "parts": [
+      [
+       "e-",
+       "向外（ex- 的变体）",
+       "外へ（ex- の変形）"
+      ],
+      [
+       "merg",
+       "浸入；沉没（mergere）",
+       "浸す；沈む（mergere）"
+      ],
+      [
+       "-e",
+       "（词尾）",
+       "（語尾）"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 emergere“从水中冒出”：e-“向外” + mergere“浸入”。",
+      "ja": "ラテン語 emergere「水中から浮かび出る」：e-「外へ」+ mergere「浸す」。"
+     },
+     "forms": [
+      [
+       "emerge as ...",
+       "成为……；崭露头角",
+       "〜として台頭する"
+      ],
+      [
+       "emerge from ...",
+       "从……中出现",
+       "〜から現れる"
+      ]
+     ],
+     "tip": {
+      "zh": "emergency（紧急情况）也来自 emerge：“突然冒出来的事”。",
+      "ja": "emergency（緊急事態）も emerge から：「突然浮かび上がった事態」。"
+     }
+    },
+    {
+     "w": "emergence",
+     "pos": "n.",
+     "ipa": "/ɪˈmɝdʒəns/",
+     "zh": "出现；兴起",
+     "ja": "出現；台頭",
+     "ex": "The emergence of mobile payment has changed how customers shop.",
+     "ex_zh": "移动支付的兴起改变了顾客购物的方式。",
+     "ex_ja": "モバイル決済の台頭で、顧客の買い物の仕方が変わりました。",
+     "parts": [
+      [
+       "e-",
+       "向外（ex- 的变体）",
+       "外へ（ex- の変形）"
+      ],
+      [
+       "merg",
+       "浸入；沉没（mergere）",
+       "浸す；沈む（mergere）"
+      ],
+      [
+       "-ence",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "emerge 的名词。",
+      "ja": "emerge の名詞形。"
+     },
+     "forms": [
+      [
+       "the emergence of ...",
+       "……的出现",
+       "〜の出現"
+      ],
+      [
+       "emergent (adj.)",
+       "新兴的",
+       "新たに現れた"
+      ]
+     ],
+     "tip": {
+      "zh": "⚠️ emergence“出现”≠ emergency“紧急情况”，Part 5 常拿来做干扰项。",
+      "ja": "⚠️ emergence「出現」≠ emergency「緊急事態」。Part 5 でひっかけ選択肢になる。"
+     }
+    },
+    {
+     "w": "emerging",
+     "pos": "adj.",
+     "ipa": "/ɪˈmɝdʒɪŋ/",
+     "zh": "新兴的；新出现的",
+     "ja": "新興の；新たに出てきた",
+     "ex": "The firm plans to open offices in several emerging markets in Asia.",
+     "ex_zh": "该公司计划在亚洲几个新兴市场开设办事处。",
+     "ex_ja": "同社はアジアのいくつかの新興市場に事務所を開く計画です。",
+     "parts": [
+      [
+       "e-",
+       "向外（ex- 的变体）",
+       "外へ（ex- の変形）"
+      ],
+      [
+       "merg",
+       "浸入；沉没（mergere）",
+       "浸す；沈む（mergere）"
+      ],
+      [
+       "-ing",
+       "名词/形容词后缀",
+       "名詞・形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "emerge 的现在分词作形容词。",
+      "ja": "emerge の現在分詞が形容詞化したもの。"
+     },
+     "forms": [
+      [
+       "emerging markets",
+       "新兴市场",
+       "新興市場"
+      ],
+      [
+       "emerging technologies",
+       "新兴技术",
+       "新興技術"
+      ]
+     ],
+     "hl": "emerging"
+    },
+    {
+     "w": "merge",
+     "pos": "v.",
+     "ipa": "/mɝdʒ/",
+     "zh": "合并；融合；（车道）汇合",
+     "ja": "合併する；統合する；（車線が）合流する",
+     "ex": "The two departments will merge into one team next quarter.",
+     "ex_zh": "这两个部门将在下季度合并成一个团队。",
+     "ex_ja": "二つの部署は来四半期に一つのチームに統合されます。",
+     "parts": [
+      [
+       "merg",
+       "浸入；沉没（mergere）",
+       "浸す；沈む（mergere）"
+      ],
+      [
+       "-e",
+       "（词尾）",
+       "（語尾）"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 mergere“浸入” → “沉入合为一体”。",
+      "ja": "ラテン語 mergere「浸す」→「沈んで一つになる」。"
+     },
+     "forms": [
+      [
+       "merge with ...",
+       "与……合并",
+       "〜と合併する"
+      ],
+      [
+       "merger (n.)",
+       "合并（本站已学）",
+       "合併（既習）"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 4 交通广播：Traffic merges into one lane near the bridge.（车道合并）",
+      "ja": "Part 4 の交通情報：Traffic merges into one lane near the bridge.（車線の合流）"
+     }
+    },
+    {
+     "w": "immerse",
+     "pos": "v.",
+     "ipa": "/ɪˈmɝs/",
+     "zh": "使浸入；使沉浸于；使专心",
+     "ja": "浸す；没頭させる",
+     "ex": "New employees are immersed in the company culture during their first week.",
+     "ex_zh": "新员工在第一周会全面沉浸在公司文化中。",
+     "ex_ja": "新入社員は最初の1週間で会社の文化にどっぷり浸ります。",
+     "parts": [
+      [
+       "im-",
+       "进入（in- 的同化形）",
+       "中へ（in- の同化形）"
+      ],
+      [
+       "mers",
+       "浸入（mersus，mergere 的过去分词）",
+       "浸す（mersus、mergere の過去分詞）"
+      ],
+      [
+       "-e",
+       "（词尾）",
+       "（語尾）"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 immergere / immersus：in-“进入” + mergere“浸入”。",
+      "ja": "ラテン語 immergere / immersus：in-「中へ」+ mergere「浸す」。"
+     },
+     "forms": [
+      [
+       "be immersed in ...",
+       "沉浸于……；专心于……",
+       "〜に没頭している"
+      ],
+      [
+       "immerse oneself in ...",
+       "让自己沉浸在……",
+       "〜に没頭する"
+      ]
+     ]
+    },
+    {
+     "w": "immersion",
+     "pos": "n.",
+     "ipa": "/ɪˈmɝʒən/",
+     "zh": "浸入；沉浸；（语言）沉浸式学习",
+     "ja": "浸すこと；没頭；（語学の）イマージョン",
+     "ex": "The two-week immersion program helps staff improve their business English quickly.",
+     "ex_zh": "为期两周的沉浸式课程帮助员工快速提高商务英语。",
+     "ex_ja": "2週間のイマージョン・プログラムで、社員はビジネス英語を短期間で伸ばせます。",
+     "parts": [
+      [
+       "im-",
+       "进入（in- 的同化形）",
+       "中へ（in- の同化形）"
+      ],
+      [
+       "mers",
+       "浸入（mersus，mergere 的过去分词）",
+       "浸す（mersus、mergere の過去分詞）"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "immerse 的名词。",
+      "ja": "immerse の名詞形。"
+     },
+     "forms": [
+      [
+       "language immersion",
+       "语言沉浸式学习",
+       "語学イマージョン"
+      ],
+      [
+       "immersion course",
+       "沉浸式课程",
+       "集中講座"
+      ]
+     ]
+    },
+    {
+     "w": "immersive",
+     "pos": "adj.",
+     "ipa": "/ɪˈmɝsɪv/",
+     "zh": "沉浸式的；身临其境的",
+     "ja": "没入型の；臨場感のある",
+     "ex": "The museum's new exhibit offers an immersive experience with 3D projections.",
+     "ex_zh": "博物馆的新展览通过 3D 投影提供身临其境的体验。",
+     "ex_ja": "美術館の新しい展示では、3D プロジェクションで没入型の体験ができます。",
+     "parts": [
+      [
+       "im-",
+       "进入（in- 的同化形）",
+       "中へ（in- の同化形）"
+      ],
+      [
+       "mers",
+       "浸入（mersus，mergere 的过去分词）",
+       "浸す（mersus、mergere の過去分詞）"
+      ],
+      [
+       "-ive",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "immerse + -ive。",
+      "ja": "immerse + -ive。"
+     },
+     "forms": [
+      [
+       "immersive experience",
+       "沉浸式体验",
+       "没入型の体験"
+      ],
+      [
+       "immersive technology",
+       "沉浸式技术",
+       "没入型技術"
+      ]
+     ]
+    },
+    {
+     "w": "submerge",
+     "pos": "v.",
+     "ipa": "/səbˈmɝdʒ/",
+     "zh": "淹没；浸没；使沉入水中",
+     "ja": "水没させる；水に沈める",
+     "ex": "Heavy rain submerged several roads near the river this morning.",
+     "ex_zh": "今早的大雨淹没了河边的几条道路。",
+     "ex_ja": "今朝の大雨で川沿いの道路がいくつか冠水しました。",
+     "parts": [
+      [
+       "sub-",
+       "在下面",
+       "下に"
+      ],
+      [
+       "merg",
+       "浸入；沉没（mergere）",
+       "浸す；沈む（mergere）"
+      ],
+      [
+       "-e",
+       "（词尾）",
+       "（語尾）"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 submergere：sub-“在下面” + mergere“浸入”。",
+      "ja": "ラテン語 submergere：sub-「下に」+ mergere「浸す」。"
+     },
+     "forms": [
+      [
+       "submerged (adj.)",
+       "被淹没的",
+       "水没した"
+      ],
+      [
+       "be submerged in water",
+       "浸在水里",
+       "水に浸かっている"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 4 天气 / 交通广播：roads are submerged / flooded“道路被淹”。",
+      "ja": "Part 4 の天気・交通情報：roads are submerged / flooded「道路が冠水している」。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "alter",
+   "title_zh": "词根 -alter- / -ali-：另一个",
+   "title_ja": "語根 -alter- / -ali-：もう一方の",
+   "words": [
+    {
+     "w": "alter",
+     "pos": "v.",
+     "ipa": "/ˈɔltɚ/",
+     "zh": "修改；改变；（衣服）改尺寸",
+     "ja": "変更する；手直しする；（服を）仕立て直す",
+     "ex": "The tailor can alter the suit so that it fits you perfectly.",
+     "ex_zh": "裁缝可以把西装改得非常合身。",
+     "ex_ja": "仕立て屋がスーツを手直しして、ぴったり合うようにしてくれます。",
+     "parts": [
+      [
+       "alter",
+       "另一个（alter）",
+       "もう一方の（alter）"
+      ]
+     ],
+     "note": {
+      "zh": "中世纪拉丁语 alterare“使成为另一个样子”，来自 alter“另一个”。",
+      "ja": "中世ラテン語 alterare「別のものにする」、alter「もう一方の」から。"
+     },
+     "forms": [
+      [
+       "alteration (n.)",
+       "修改；改动",
+       "変更；手直し"
+      ],
+      [
+       "alter the plan",
+       "修改计划",
+       "計画を変更する"
+      ]
+     ],
+     "tip": {
+      "zh": "⚠️ 发音同 altar“祭坛”，但意思无关。Part 7 服装店：Alterations are free with purchase.",
+      "ja": "⚠️ altar「祭壇」と同じ発音だが無関係。Part 7 の洋品店：Alterations are free with purchase.（お直し無料）"
+     }
+    },
+    {
+     "w": "unaltered",
+     "pos": "adj.",
+     "ipa": "/ʌnˈɔltɚd/",
+     "zh": "未改变的；原样的",
+     "ja": "変更されていない；元のままの",
+     "ex": "The contract terms remain unaltered except for the delivery date.",
+     "ex_zh": "除交货日期外，合同条款保持不变。",
+     "ex_ja": "納期を除き、契約条件は変更されていません。",
+     "parts": [
+      [
+       "un-",
+       "不；未",
+       "否定"
+      ],
+      [
+       "alter",
+       "另一个（alter）",
+       "もう一方の（alter）"
+      ],
+      [
+       "-ed",
+       "形容词/过去分词后缀",
+       "形容詞・過去分詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "un- + altered“被修改的”。",
+      "ja": "un- + altered「変更された」。"
+     },
+     "forms": [
+      [
+       "remain unaltered",
+       "保持不变",
+       "変わらないままである"
+      ],
+      [
+       "unchanged (adj.)",
+       "未变的",
+       "変わっていない"
+      ]
+     ],
+     "hl": "unaltered"
+    },
+    {
+     "w": "alternate",
+     "pos": "v./adj.",
+     "ipa": "/ˈɔltɚˌneɪt/",
+     "zh": "交替；轮流；交替的；隔一个的；备选的",
+     "ja": "交互に行う；交代でする；交互の；一つおきの；代わりの",
+     "ex": "Team members alternate taking notes at the weekly meeting.",
+     "ex_zh": "团队成员在每周例会上轮流做记录。",
+     "ex_ja": "チームのメンバーは週例会議で交代でメモを取ります。",
+     "parts": [
+      [
+       "alter",
+       "另一个（alter）",
+       "もう一方の（alter）"
+      ],
+      [
+       "-n-",
+       "（连接）",
+       "（つなぎ）"
+      ],
+      [
+       "-ate",
+       "动词后缀",
+       "動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 alternare“轮流”，来自 alter“两者中的另一个”。",
+      "ja": "ラテン語 alternare「交互に行う」、alter「二つのうちのもう一方」から。"
+     },
+     "forms": [
+      [
+       "on alternate days",
+       "隔天",
+       "一日おきに"
+      ],
+      [
+       "alternate route",
+       "备用路线",
+       "迂回路"
+      ]
+     ],
+     "tip": {
+      "zh": "形容词读 /ˈɔltɚnət/；alternate route = alternative route（替代路线），Part 4 交通广播常见。",
+      "ja": "形容詞は /ˈɔltɚnət/ と読む。alternate route = alternative route（迂回路）は Part 4 の交通情報で頻出。"
+     }
+    },
+    {
+     "w": "alternative",
+     "pos": "n./adj.",
+     "ipa": "/ɔlˈtɝnətɪv/",
+     "zh": "替代方案；其他选择；替代的",
+     "ja": "代わりの手段；選択肢；代わりの",
+     "ex": "If the train is delayed, the bus is a convenient alternative.",
+     "ex_zh": "如果火车晚点，坐公交车是个方便的替代选择。",
+     "ex_ja": "電車が遅れたら、バスが便利な代わりの手段です。",
+     "parts": [
+      [
+       "alter",
+       "另一个（alter）",
+       "もう一方の（alter）"
+      ],
+      [
+       "-n-",
+       "（连接）",
+       "（つなぎ）"
+      ],
+      [
+       "-ative",
+       "形容词/名词后缀",
+       "形容詞・名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "中世纪拉丁语 alternativus，来自 alternare“轮流”。",
+      "ja": "中世ラテン語 alternativus、alternare「交互に行う」から。"
+     },
+     "forms": [
+      [
+       "an alternative to ...",
+       "……的替代品",
+       "〜の代わり"
+      ],
+      [
+       "have no alternative but to do",
+       "别无选择只能……",
+       "〜するしかない"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5：an alternative to + 名词（介词用 to）。",
+      "ja": "Part 5：an alternative to + 名詞（前置詞は to）。"
+     }
+    },
+    {
+     "w": "alternatively",
+     "pos": "adv.",
+     "ipa": "/ɔlˈtɝnətɪvli/",
+     "zh": "或者；作为另一种选择",
+     "ja": "あるいは；代わりに",
+     "ex": "You can pay online. Alternatively, you can pay in person at any branch.",
+     "ex_zh": "您可以在线支付，或者也可以到任一分行当面支付。",
+     "ex_ja": "オンラインで支払えます。あるいは、どの支店の窓口でもお支払いいただけます。",
+     "parts": [
+      [
+       "alter",
+       "另一个（alter）",
+       "もう一方の（alter）"
+      ],
+      [
+       "-n-",
+       "（连接）",
+       "（つなぎ）"
+      ],
+      [
+       "-ative",
+       "形容词后缀",
+       "形容詞を作る"
+      ],
+      [
+       "-ly",
+       "副词后缀",
+       "副詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "alternative 的副词。",
+      "ja": "alternative の副詞形。"
+     },
+     "forms": [
+      [
+       "Alternatively, ...",
+       "或者……（句首）",
+       "あるいは……（文頭）"
+      ],
+      [
+       "instead (adv.)",
+       "代替地",
+       "代わりに"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 6 填句题：Alternatively 用来引出第二种办法。",
+      "ja": "Part 6 の文挿入：Alternatively は二つ目の方法を示すつなぎ言葉。"
+     }
+    },
+    {
+     "w": "alien",
+     "pos": "adj./n.",
+     "ipa": "/ˈeɪliən/",
+     "zh": "陌生的；格格不入的；外国的；外国人",
+     "ja": "なじみのない；異質な；外国の；外国人",
+     "ex": "Working from home was alien to many employees before the policy changed.",
+     "ex_zh": "在政策改变之前，居家办公对许多员工来说很陌生。",
+     "ex_ja": "制度が変わる前、在宅勤務は多くの社員にとってなじみのないものでした。",
+     "parts": [
+      [
+       "ali",
+       "别的；他人的（alius）",
+       "他の；他人の（alius）"
+      ],
+      [
+       "-en",
+       "形容词后缀（属于……的）",
+       "〜に属する（形容詞）"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 alienus“属于别人的”，来自 alius“别的”。",
+      "ja": "ラテン語 alienus「他人に属する」、alius「他の」から。"
+     },
+     "forms": [
+      [
+       "be alien to + 人",
+       "对……很陌生",
+       "〜にとってなじみがない"
+      ],
+      [
+       "resident alien",
+       "外籍居民",
+       "在留外国人"
+      ]
+     ]
+    },
+    {
+     "w": "alienate",
+     "pos": "v.",
+     "ipa": "/ˈeɪliəˌneɪt/",
+     "zh": "使疏远；使不满；离间",
+     "ja": "遠ざける；反感を買う；疎外する",
+     "ex": "A sudden price increase could alienate our most loyal customers.",
+     "ex_zh": "突然涨价可能会让我们最忠实的顾客离我们而去。",
+     "ex_ja": "急な値上げは、最も忠実な顧客を遠ざけてしまうおそれがあります。",
+     "parts": [
+      [
+       "ali",
+       "别的；他人的（alius）",
+       "他の；他人の（alius）"
+      ],
+      [
+       "-en",
+       "（属于……的）",
+       "（〜に属する）"
+      ],
+      [
+       "-ate",
+       "动词后缀",
+       "動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 alienare“使成为别人的 → 使疏远”。",
+      "ja": "ラテン語 alienare「他人のものにする → 遠ざける」。"
+     },
+     "forms": [
+      [
+       "alienation (n.)",
+       "疏远",
+       "疎外"
+      ],
+      [
+       "alienate customers",
+       "失去顾客",
+       "顧客を遠ざける"
+      ]
+     ]
+    },
+    {
+     "w": "alias",
+     "pos": "n./adv.",
+     "ipa": "/ˈeɪliəs/",
+     "zh": "化名；别名；（邮箱）别名地址；又名",
+     "ja": "別名；偽名；（メールの）エイリアス；別名は",
+     "ex": "Please use the support alias instead of writing to individual staff members.",
+     "ex_zh": "请使用客服别名邮箱，而不要直接写信给个别员工。",
+     "ex_ja": "個々の担当者ではなく、サポート用のエイリアスアドレスにご連絡ください。",
+     "parts": [
+      [
+       "ali",
+       "别的；他人的（alius）",
+       "他の；他人の（alius）"
+      ],
+      [
+       "-as",
+       "（拉丁语副词词尾）",
+       "（ラテン語の副詞語尾）"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语副词 alias“在别的时候；否则”，来自 alius“别的”。",
+      "ja": "ラテン語の副詞 alias「別の時に；別の名で」、alius「他の」から。"
+     },
+     "forms": [
+      [
+       "email alias",
+       "邮箱别名",
+       "メールエイリアス"
+      ],
+      [
+       "under an alias",
+       "用化名",
+       "偽名で"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "air",
+   "title_zh": "主题：机场航班与登机",
+   "title_ja": "テーマ：空港・フライトと搭乗",
+   "words": [
+    {
+     "w": "boarding",
+     "pos": "n.",
+     "ipa": "/ˈbɔrdɪŋ/",
+     "zh": "登机；登船；上车",
+     "ja": "搭乗；乗船；乗車",
+     "ex": "Boarding for Flight 208 to Seoul will begin at Gate 14 in ten minutes.",
+     "ex_zh": "飞往首尔的 208 航班将在十分钟后于 14 号登机口开始登机。",
+     "ex_ja": "ソウル行き208便は、10分後に14番ゲートで搭乗を開始します。",
+     "parts": [
+      [
+       "board",
+       "木板 → 船舷 → 上（船、飞机）",
+       "板 → 船べり → 乗り込む"
+      ],
+      [
+       "-ing",
+       "名词/形容词后缀",
+       "名詞・形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "本族词 board“木板、船舷”，引申为“上船、上飞机”。",
+      "ja": "本来の英語 board「板・船べり」から「乗船・搭乗する」へ。"
+     },
+     "forms": [
+      [
+       "boarding pass",
+       "登机牌",
+       "搭乗券"
+      ],
+      [
+       "board (v.)",
+       "登上（飞机、火车）",
+       "乗り込む"
+      ],
+      [
+       "boarding gate",
+       "登机口",
+       "搭乗口"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 4 机场广播：pre-boarding“优先登机”，final boarding call“最后登机通知”。",
+      "ja": "Part 4 の空港アナウンス：pre-boarding「優先搭乗」、final boarding call「最終搭乗案内」。"
+     }
+    },
+    {
+     "w": "turbulence",
+     "pos": "n.",
+     "ipa": "/ˈtɝbjələns/",
+     "zh": "（飞行中的）气流颠簸；动荡",
+     "ja": "（飛行中の）乱気流；混乱",
+     "ex": "Please return to your seat because we are expecting some turbulence.",
+     "ex_zh": "预计会有气流颠簸，请回到座位。",
+     "ex_ja": "揺れが予想されますので、お席にお戻りください。",
+     "parts": [
+      [
+       "turb",
+       "扰乱；骚动（turba）",
+       "かき乱す；騒ぎ（turba）"
+      ],
+      [
+       "-ulence",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 turbulentus“混乱的”，来自 turba“骚乱”；disturb 同源。",
+      "ja": "ラテン語 turbulentus「乱れた」、turba「騒ぎ」から。disturb と同語源。"
+     },
+     "forms": [
+      [
+       "turbulent (adj.)",
+       "动荡的；颠簸的",
+       "荒れた；不安定な"
+      ],
+      [
+       "economic turbulence",
+       "经济动荡",
+       "経済の混乱"
+      ]
+     ]
+    },
+    {
+     "w": "runway",
+     "pos": "n.",
+     "ipa": "/ˈrʌnˌweɪ/",
+     "zh": "跑道；（时装）T 台",
+     "ja": "滑走路；（ファッションショーの）ランウェイ",
+     "ex": "Our departure is delayed because the runway is being cleared of snow.",
+     "ex_zh": "因为跑道正在除雪，我们的起飞被推迟了。",
+     "ex_ja": "滑走路の除雪作業中のため、出発が遅れています。",
+     "parts": [
+      [
+       "run",
+       "跑",
+       "走る"
+      ],
+      [
+       "way",
+       "道路",
+       "道"
+      ]
+     ],
+     "note": {
+      "zh": "复合词 run + way“跑的道”。",
+      "ja": "複合語 run + way「走る道」。"
+     },
+     "forms": [
+      [
+       "take off from the runway",
+       "从跑道起飞",
+       "滑走路から離陸する"
+      ],
+      [
+       "taxi (v.)",
+       "（飞机）滑行",
+       "（飛行機が）地上走行する"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1：An airplane is on the runway. / A plane is taking off.",
+      "ja": "Part 1：An airplane is on the runway. / A plane is taking off."
+     }
+    },
+    {
+     "w": "airline",
+     "pos": "n.",
+     "ipa": "/ˈɛrˌlaɪn/",
+     "zh": "航空公司",
+     "ja": "航空会社",
+     "ex": "The airline offers free seat selection to members of its loyalty program.",
+     "ex_zh": "该航空公司为常旅客会员提供免费选座。",
+     "ex_ja": "その航空会社は、マイレージ会員に無料の座席指定を提供しています。",
+     "parts": [
+      [
+       "air",
+       "空气；航空",
+       "空気；航空"
+      ],
+      [
+       "line",
+       "线路",
+       "路線"
+      ]
+     ],
+     "note": {
+      "zh": "复合词 air + line“空中线路”。",
+      "ja": "複合語 air + line「空の路線」。"
+     },
+     "forms": [
+      [
+       "airline ticket",
+       "机票",
+       "航空券"
+      ],
+      [
+       "budget airline",
+       "廉价航空",
+       "格安航空会社"
+      ]
+     ],
+     "tip": {
+      "zh": "⚠️ airline 是“航空公司”，airliner 是“客机”。",
+      "ja": "⚠️ airline は「航空会社」、airliner は「旅客機」。"
+     }
+    },
+    {
+     "w": "fasten",
+     "pos": "v.",
+     "ipa": "/ˈfæsən/",
+     "zh": "系紧；扣上；固定",
+     "ja": "締める；留める；固定する",
+     "ex": "Please fasten your seat belt while the sign is illuminated.",
+     "ex_zh": "指示灯亮着时请系好安全带。",
+     "ex_ja": "サインが点灯している間は、シートベルトをお締めください。",
+     "parts": [
+      [
+       "fast",
+       "牢固的（古义）",
+       "しっかりした（古い意味）"
+      ],
+      [
+       "-en",
+       "使……（动词后缀）",
+       "〜にする（動詞）"
+      ]
+     ],
+     "note": {
+      "zh": "本族词 fast“牢固的”（hold fast“抓牢”）+ -en。",
+      "ja": "本来の英語 fast「固い」（hold fast「しっかりつかむ」）+ -en。"
+     },
+     "forms": [
+      [
+       "fasten your seat belt",
+       "系好安全带",
+       "シートベルトを締める"
+      ],
+      [
+       "unfasten (v.)",
+       "解开",
+       "外す"
+      ]
+     ],
+     "tip": {
+      "zh": "t 不发音：/ˈfæsən/，Part 4 容易听错。",
+      "ja": "t は発音しない：/ˈfæsən/。Part 4 で聞き取りにくい。"
+     }
+    },
+    {
+     "w": "stopover",
+     "pos": "n.",
+     "ipa": "/ˈstɑpˌoʊvɚ/",
+     "zh": "中途停留；经停",
+     "ja": "途中降機；立ち寄り",
+     "ex": "The cheapest ticket includes a six-hour stopover in Singapore.",
+     "ex_zh": "最便宜的机票包含在新加坡经停六小时。",
+     "ex_ja": "最も安い航空券には、シンガポールでの6時間の乗り継ぎ滞在が含まれます。",
+     "parts": [
+      [
+       "stop",
+       "停",
+       "止まる"
+      ],
+      [
+       "over",
+       "越过；在……停留",
+       "越えて；とどまって"
+      ]
+     ],
+     "note": {
+      "zh": "来自短语 stop over“中途停留”。",
+      "ja": "句動詞 stop over「途中で立ち寄る」から。"
+     },
+     "forms": [
+      [
+       "make a stopover in ...",
+       "在……经停",
+       "〜に立ち寄る"
+      ],
+      [
+       "layover (n.)",
+       "中转等候（本站已学）",
+       "乗り継ぎ待ち（既習）"
+      ]
+     ]
+    },
+    {
+     "w": "rebook",
+     "pos": "v.",
+     "ipa": "/riˈbʊk/",
+     "zh": "重新预订；改签",
+     "ja": "予約し直す；（便を）振り替える",
+     "ex": "Passengers on the canceled flight will be rebooked on the next available departure.",
+     "ex_zh": "被取消航班的乘客将被改签到下一班有空位的航班。",
+     "ex_ja": "欠航便の乗客は、空席のある次の便に振り替えられます。",
+     "parts": [
+      [
+       "re-",
+       "再；重新",
+       "再び"
+      ],
+      [
+       "book",
+       "预订",
+       "予約する"
+      ]
+     ],
+     "note": {
+      "zh": "re- + book“预订”。",
+      "ja": "re- + book「予約する」。"
+     },
+     "forms": [
+      [
+       "rebook a flight",
+       "改签航班",
+       "便を取り直す"
+      ],
+      [
+       "rebooking fee",
+       "改签费",
+       "変更手数料"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 4 航班取消广播常用被动：be rebooked on ...",
+      "ja": "Part 4 の欠航アナウンスで受け身 be rebooked on ... が頻出。"
+     },
+     "hl": "rebooked"
+    },
+    {
+     "w": "standby",
+     "pos": "n./adj.",
+     "ipa": "/ˈstændˌbaɪ/",
+     "zh": "候补；待命；备用的",
+     "ja": "キャンセル待ち；待機；予備の",
+     "ex": "We have placed you on the standby list for the 6 p.m. flight.",
+     "ex_zh": "我们已经把您列入晚上 6 点航班的候补名单。",
+     "ex_ja": "午後6時の便のキャンセル待ちリストにお名前を登録しました。",
+     "parts": [
+      [
+       "stand",
+       "站",
+       "立つ"
+      ],
+      [
+       "by",
+       "在旁边",
+       "そばに"
+      ]
+     ],
+     "note": {
+      "zh": "来自短语 stand by“在旁待命”。",
+      "ja": "句動詞 stand by「そばで待機する」から。"
+     },
+     "forms": [
+      [
+       "on standby",
+       "待命；候补",
+       "待機中；キャンセル待ちで"
+      ],
+      [
+       "standby generator",
+       "备用发电机",
+       "予備発電機"
+      ]
+     ]
+    },
+    {
+     "w": "airfare",
+     "pos": "n.",
+     "ipa": "/ˈɛrˌfɛr/",
+     "zh": "机票价格；飞机票价",
+     "ja": "航空運賃",
+     "ex": "The company will reimburse your airfare if you book through our travel agent.",
+     "ex_zh": "如果通过我们的旅行代理预订，公司会报销您的机票费用。",
+     "ex_ja": "当社の旅行代理店を通じて予約すれば、航空運賃は会社が払い戻します。",
+     "parts": [
+      [
+       "air",
+       "空气；航空",
+       "空気；航空"
+      ],
+      [
+       "fare",
+       "车费；票价",
+       "運賃"
+      ]
+     ],
+     "note": {
+      "zh": "air + fare；fare 来自古英语 faran“旅行”（与 farewell 同源）。",
+      "ja": "air + fare。fare は古英語 faran「旅をする」から（farewell と同語源）。"
+     },
+     "forms": [
+      [
+       "round-trip airfare",
+       "往返机票价",
+       "往復航空運賃"
+      ],
+      [
+       "fare (n.)",
+       "车费；票价",
+       "運賃"
+      ]
+     ],
+     "tip": {
+      "zh": "⚠️ fare（票价）和 fair（展会；公平的）同音，Part 2 常考。",
+      "ja": "⚠️ fare（運賃）と fair（見本市；公平な）は同じ発音で、Part 2 で狙われる。"
+     }
+    },
+    {
+     "w": "aviation",
+     "pos": "n.",
+     "ipa": "/ˌeɪviˈeɪʃən/",
+     "zh": "航空；航空业",
+     "ja": "航空；航空業界",
+     "ex": "She has worked in the aviation industry for over fifteen years.",
+     "ex_zh": "她在航空业工作了十五年以上。",
+     "ex_ja": "彼女は15年以上、航空業界で働いています。",
+     "parts": [
+      [
+       "avi",
+       "鸟（avis）",
+       "鳥（avis）"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "法语 aviation（19 世纪造词），来自拉丁语 avis“鸟”。",
+      "ja": "フランス語 aviation（19世紀の造語）、ラテン語 avis「鳥」から。"
+     },
+     "forms": [
+      [
+       "aviation industry",
+       "航空业",
+       "航空業界"
+      ],
+      [
+       "civil aviation",
+       "民用航空",
+       "民間航空"
+      ]
+     ]
+    },
+    {
+     "w": "cabin",
+     "pos": "n.",
+     "ipa": "/ˈkæbɪn/",
+     "zh": "机舱；船舱；小木屋",
+     "ja": "機内；客室；小屋",
+     "ex": "Cabin crew will now come through the aisle with drinks and snacks.",
+     "ex_zh": "乘务员现在将推车沿过道送上饮料和零食。",
+     "ex_ja": "ただいまから客室乗務員が通路でお飲み物と軽食をお配りします。",
+     "parts": [],
+     "note": {
+      "zh": "经古法语来自晚期拉丁语 capanna“小屋”；没有可靠的词根拆分。",
+      "ja": "古フランス語経由で後期ラテン語 capanna「小屋」から。信頼できる語根分解はない。"
+     },
+     "forms": [
+      [
+       "cabin crew",
+       "乘务组",
+       "客室乗務員"
+      ],
+      [
+       "cabin baggage",
+       "随身行李",
+       "機内持ち込み手荷物"
+      ]
+     ]
+    },
+    {
+     "w": "attendant",
+     "pos": "n.",
+     "ipa": "/əˈtɛndənt/",
+     "zh": "服务员；乘务员；侍者",
+     "ja": "係員；乗務員；接客係",
+     "ex": "A flight attendant helped the passenger store his bag in the overhead bin.",
+     "ex_zh": "一名空乘帮那位乘客把包放进了头顶行李舱。",
+     "ex_ja": "客室乗務員がその乗客のかばんを頭上の荷物入れにしまうのを手伝いました。",
+     "parts": [
+      [
+       "at-",
+       "向（ad- 的同化形）",
+       "〜へ（ad- の同化形）"
+      ],
+      [
+       "tend",
+       "伸展（Day 6 词根）",
+       "伸ばす（Day 6 の語根）"
+      ],
+      [
+       "-ant",
+       "表示人",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "attend“照料” + -ant；attend 来自拉丁语 attendere“把（心）伸向”。",
+      "ja": "attend「世話をする」+ -ant。attend はラテン語 attendere「（心を）向ける」から。"
+     },
+     "forms": [
+      [
+       "flight attendant",
+       "空乘人员",
+       "客室乗務員"
+      ],
+      [
+       "parking attendant",
+       "停车场管理员",
+       "駐車場係員"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1：A parking attendant is directing a car. 也常见。",
+      "ja": "Part 1：A parking attendant is directing a car. もよく出る。"
+     }
+    },
+    {
+     "w": "checkpoint",
+     "pos": "n.",
+     "ipa": "/ˈtʃɛkˌpɔɪnt/",
+     "zh": "检查站；安检口",
+     "ja": "検問所；保安検査場",
+     "ex": "Allow at least thirty minutes to pass through the security checkpoint.",
+     "ex_zh": "请预留至少三十分钟通过安检口。",
+     "ex_ja": "保安検査場の通過には少なくとも30分を見込んでください。",
+     "parts": [
+      [
+       "check",
+       "检查",
+       "点検する"
+      ],
+      [
+       "point",
+       "点；地点",
+       "地点"
+      ]
+     ],
+     "note": {
+      "zh": "复合词 check + point“检查的地点”。",
+      "ja": "複合語 check + point「検査する地点」。"
+     },
+     "forms": [
+      [
+       "security checkpoint",
+       "安检口",
+       "保安検査場"
+      ],
+      [
+       "go through security",
+       "过安检",
+       "保安検査を通る"
+      ]
+     ]
+    },
+    {
+     "w": "declare",
+     "pos": "v.",
+     "ipa": "/dɪˈklɛr/",
+     "zh": "申报（海关）；宣布；声明",
+     "ja": "（税関で）申告する；宣言する；表明する",
+     "ex": "Travelers must declare any goods worth more than 200,000 yen at customs.",
+     "ex_zh": "旅客必须在海关申报价值超过 20 万日元的物品。",
+     "ex_ja": "旅行者は20万円を超える品物を税関で申告しなければなりません。",
+     "parts": [
+      [
+       "de-",
+       "完全地（加强）",
+       "完全に（強意）"
+      ],
+      [
+       "clar",
+       "清楚的（clarus）",
+       "明らかな（clarus）"
+      ],
+      [
+       "-e",
+       "（词尾）",
+       "（語尾）"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 declarare“使完全清楚”：de-（加强）+ clarus“清楚的”。",
+      "ja": "ラテン語 declarare「完全に明らかにする」：de-（強意）+ clarus「明らかな」。"
+     },
+     "forms": [
+      [
+       "Anything to declare?",
+       "有需要申报的东西吗？",
+       "申告するものはありますか？"
+      ],
+      [
+       "declaration (n.)",
+       "申报（单）；声明",
+       "申告（書）；宣言"
+      ]
+     ],
+     "tip": {
+      "zh": "clarify“澄清”同源：都有 clar“清楚”。",
+      "ja": "clarify「明確にする」と同語源：どちらも clar「明らかな」。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "focus",
+   "title_zh": "主题：时间管理与工作效率",
+   "title_ja": "テーマ：時間管理と仕事の効率",
+   "words": [
+    {
+     "w": "prioritize",
+     "pos": "v.",
+     "ipa": "/praɪˈɔrəˌtaɪz/",
+     "zh": "优先处理；按重要性排序",
+     "ja": "優先する；優先順位をつける",
+     "ex": "Please prioritize the client's request and finish the report by Thursday.",
+     "ex_zh": "请优先处理客户的要求，周四前完成报告。",
+     "ex_ja": "顧客の依頼を優先して、木曜日までに報告書を仕上げてください。",
+     "parts": [
+      [
+       "prior",
+       "在先的（拉丁语 prior）",
+       "先の（ラテン語 prior）"
+      ],
+      [
+       "-ity",
+       "名词后缀",
+       "名詞を作る"
+      ],
+      [
+       "-ize",
+       "动词后缀",
+       "動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "priority“优先” + -ize；prior 是拉丁语“更早的、在前的”。",
+      "ja": "priority「優先」+ -ize。prior はラテン語で「より前の」。"
+     },
+     "forms": [
+      [
+       "priority (n.)",
+       "优先事项",
+       "優先事項"
+      ],
+      [
+       "top priority",
+       "头等大事",
+       "最優先事項"
+      ],
+      [
+       "prior to ...",
+       "在……之前",
+       "〜より前に"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5：prior to + 名词 / doing = before。",
+      "ja": "Part 5：prior to + 名詞 / doing = before。"
+     }
+    },
+    {
+     "w": "procrastinate",
+     "pos": "v.",
+     "ipa": "/proʊˈkræstəˌneɪt/",
+     "zh": "拖延；耽搁",
+     "ja": "先延ばしにする；ぐずぐずする",
+     "ex": "If you procrastinate on the budget, the whole project will fall behind.",
+     "ex_zh": "如果你拖延预算的工作，整个项目都会落后。",
+     "ex_ja": "予算の作業を先延ばしにすると、プロジェクト全体が遅れます。",
+     "parts": [
+      [
+       "pro-",
+       "向前",
+       "前へ"
+      ],
+      [
+       "crastin",
+       "明天的（crastinus，来自 cras）",
+       "明日の（crastinus、cras から）"
+      ],
+      [
+       "-ate",
+       "动词后缀",
+       "動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 procrastinare“推到明天”：pro-“向前” + crastinus“明天的”。",
+      "ja": "ラテン語 procrastinare「明日へ回す」：pro-「前へ」+ crastinus「明日の」。"
+     },
+     "forms": [
+      [
+       "procrastination (n.)",
+       "拖延",
+       "先延ばし"
+      ],
+      [
+       "put off (v.)",
+       "推迟",
+       "延期する"
+      ]
+     ]
+    },
+    {
+     "w": "multitask",
+     "pos": "v.",
+     "ipa": "/ˈmʌltiˌtæsk/",
+     "zh": "同时处理多项工作",
+     "ja": "複数の作業を同時にこなす",
+     "ex": "Receptionists must be able to multitask, answering phones while greeting visitors.",
+     "ex_zh": "前台必须能同时处理多件事，一边接电话一边接待访客。",
+     "ex_ja": "受付係は電話に出ながら来客を迎えるなど、複数の仕事を同時にこなせなければなりません。",
+     "parts": [
+      [
+       "multi-",
+       "多",
+       "多くの"
+      ],
+      [
+       "task",
+       "任务",
+       "仕事"
+      ]
+     ],
+     "note": {
+      "zh": "multi-“多” + task“任务”，原为计算机用语。",
+      "ja": "multi-「多くの」+ task「仕事」。もとはコンピューター用語。"
+     },
+     "forms": [
+      [
+       "multitasking (n.)",
+       "多任务处理",
+       "マルチタスク"
+      ],
+      [
+       "the ability to multitask",
+       "同时处理多项工作的能力",
+       "同時並行で仕事をこなす力"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7 招聘广告的资格要求常见 ability to multitask。",
+      "ja": "Part 7 の求人広告の応募資格で ability to multitask が頻出。"
+     }
+    },
+    {
+     "w": "bottleneck",
+     "pos": "n.",
+     "ipa": "/ˈbɑtəlˌnɛk/",
+     "zh": "瓶颈；阻碍进展的环节",
+     "ja": "ボトルネック；障害となる部分",
+     "ex": "The approval process has become a bottleneck that slows every order.",
+     "ex_zh": "审批流程已成为拖慢每一笔订单的瓶颈。",
+     "ex_ja": "承認手続きが、すべての注文を遅らせるボトルネックになっています。",
+     "parts": [
+      [
+       "bottle",
+       "瓶子",
+       "瓶"
+      ],
+      [
+       "neck",
+       "颈",
+       "首"
+      ]
+     ],
+     "note": {
+      "zh": "复合词 bottle + neck“瓶颈”：入口狭窄，流量受限。",
+      "ja": "複合語 bottle + neck「瓶の首」：口が狭く流れが詰まる。"
+     },
+     "forms": [
+      [
+       "eliminate a bottleneck",
+       "消除瓶颈",
+       "ボトルネックを解消する"
+      ],
+      [
+       "traffic bottleneck",
+       "交通拥堵点",
+       "渋滞箇所"
+      ]
+     ]
+    },
+    {
+     "w": "backlog",
+     "pos": "n.",
+     "ipa": "/ˈbækˌlɔɡ/",
+     "zh": "积压的工作；未完成的订单",
+     "ja": "未処理の仕事；受注残",
+     "ex": "Extra staff were hired to clear the backlog of customer requests.",
+     "ex_zh": "公司雇用了额外人手来清理积压的客户请求。",
+     "ex_ja": "顧客からの依頼の滞りを解消するため、追加の人員が雇われました。",
+     "parts": [
+      [
+       "back",
+       "后面",
+       "後ろ"
+      ],
+      [
+       "log",
+       "原木",
+       "丸太"
+      ]
+     ],
+     "note": {
+      "zh": "原指放在壁炉后面慢慢烧的大木头，引申为“积压”。",
+      "ja": "もとは暖炉の奥でゆっくり燃やす大きな丸太のこと。そこから「たまった仕事」の意味に。"
+     },
+     "forms": [
+      [
+       "a backlog of orders",
+       "积压的订单",
+       "受注残"
+      ],
+      [
+       "clear the backlog",
+       "清理积压",
+       "滞りを解消する"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7：due to a backlog of orders, shipping may be delayed。",
+      "ja": "Part 7：due to a backlog of orders, shipping may be delayed（注文殺到のため発送が遅れる場合あり）。"
+     }
+    },
+    {
+     "w": "checklist",
+     "pos": "n.",
+     "ipa": "/ˈtʃɛkˌlɪst/",
+     "zh": "核对清单；检查表",
+     "ja": "チェックリスト；確認表",
+     "ex": "Use this checklist to make sure every step of the setup is complete.",
+     "ex_zh": "用这份核对清单确认每个设置步骤都已完成。",
+     "ex_ja": "このチェックリストを使って、設定のすべての手順が完了しているか確認してください。",
+     "parts": [
+      [
+       "check",
+       "检查；核对",
+       "確認する"
+      ],
+      [
+       "list",
+       "清单",
+       "一覧"
+      ]
+     ],
+     "note": {
+      "zh": "复合词 check + list。",
+      "ja": "複合語 check + list。"
+     },
+     "forms": [
+      [
+       "safety checklist",
+       "安全检查表",
+       "安全点検表"
+      ],
+      [
+       "go through a checklist",
+       "逐项核对",
+       "チェックリストを一つずつ確認する"
+      ]
+     ]
+    },
+    {
+     "w": "concentrate",
+     "pos": "v.",
+     "ipa": "/ˈkɑnsənˌtreɪt/",
+     "zh": "集中（精力）；专心；聚集",
+     "ja": "集中する；専念する；集める",
+     "ex": "The quiet room allows staff to concentrate on detailed work.",
+     "ex_zh": "安静的房间让员工能专心做细致的工作。",
+     "ex_ja": "静かな部屋なら、社員は細かい作業に集中できます。",
+     "parts": [
+      [
+       "con-",
+       "一起（com- 的同化形）",
+       "共に（com- の同化形）"
+      ],
+      [
+       "centr",
+       "中心（centrum）",
+       "中心（centrum）"
+      ],
+      [
+       "-ate",
+       "动词后缀",
+       "動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "con-“一起” + centrum“中心” → “聚向中心”。",
+      "ja": "con-「共に」+ centrum「中心」→「中心に集める」。"
+     },
+     "forms": [
+      [
+       "concentrate on ...",
+       "专注于……",
+       "〜に集中する"
+      ],
+      [
+       "concentration (n.)",
+       "专注；浓度",
+       "集中；濃度"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5：concentrate on = focus on（介词都用 on）。",
+      "ja": "Part 5：concentrate on = focus on（どちらも前置詞は on）。"
+     }
+    },
+    {
+     "w": "overwhelmed",
+     "pos": "adj.",
+     "ipa": "/ˌoʊvɚˈwɛlmd/",
+     "zh": "不堪重负的；应接不暇的；被压倒的",
+     "ja": "圧倒された；手に負えない",
+     "ex": "The help desk was overwhelmed with calls after the system update.",
+     "ex_zh": "系统更新后，服务台被大量来电淹没了。",
+     "ex_ja": "システム更新の後、ヘルプデスクには電話が殺到して手が回らなくなりました。",
+     "parts": [
+      [
+       "over-",
+       "在上面；过度",
+       "上に；過度に"
+      ],
+      [
+       "whelm",
+       "（中古英语）翻覆",
+       "（中英語）ひっくり返す"
+      ],
+      [
+       "-ed",
+       "形容词/过去分词后缀",
+       "形容詞・過去分詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "over + whelm“翻覆、淹没”，本族词。",
+      "ja": "over + whelm「ひっくり返す・覆う」。本来の英語。"
+     },
+     "forms": [
+      [
+       "be overwhelmed with / by ...",
+       "被……压得喘不过气",
+       "〜で手一杯になる"
+      ],
+      [
+       "overwhelming (adj.)",
+       "压倒性的",
+       "圧倒的な"
+      ]
+     ],
+     "tip": {
+      "zh": "overwhelming majority“压倒性多数”、overwhelming response“热烈反响”都是 Part 7 常见搭配。",
+      "ja": "overwhelming majority「圧倒的多数」、overwhelming response「大反響」は Part 7 でよく見る組み合わせ。"
+     }
+    },
+    {
+     "w": "juggle",
+     "pos": "v.",
+     "ipa": "/ˈdʒʌɡəl/",
+     "zh": "同时应付（多项事务）；兼顾；玩杂耍",
+     "ja": "（複数の仕事を）やりくりする；両立させる；お手玉をする",
+     "ex": "Many of our part-time students juggle work and classes.",
+     "ex_zh": "我们的许多在职学生要兼顾工作和课程。",
+     "ex_ja": "当校の社会人学生の多くは、仕事と授業を両立させています。",
+     "parts": [],
+     "note": {
+      "zh": "经古法语 jogler 来自拉丁语 joculari“开玩笑”（与 joke 同源）；现代形式没有可靠的词根拆分。",
+      "ja": "古フランス語 jogler 経由でラテン語 joculari「冗談を言う」から（joke と同語源）。現代の形には信頼できる語根分解はない。"
+     },
+     "forms": [
+      [
+       "juggle A and B",
+       "兼顾 A 和 B",
+       "A と B を両立させる"
+      ],
+      [
+       "juggle priorities",
+       "平衡多个优先事项",
+       "いくつもの優先事項をやりくりする"
+      ]
+     ]
+    },
+    {
+     "w": "punctual",
+     "pos": "adj.",
+     "ipa": "/ˈpʌŋktʃuəl/",
+     "zh": "准时的；守时的",
+     "ja": "時間を守る；時間厳守の",
+     "ex": "Our drivers are punctual, so please be ready at the pickup time.",
+     "ex_zh": "我们的司机很准时，所以请在接送时间前准备好。",
+     "ex_ja": "当社のドライバーは時間に正確ですので、お迎えの時刻にはご準備ください。",
+     "parts": [
+      [
+       "punct",
+       "点（punctum，来自 pungere“刺”）",
+       "点（punctum、pungere「刺す」から）"
+      ],
+      [
+       "-ual",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "中世纪拉丁语 punctualis，来自 punctum“点” → “准点的”。",
+      "ja": "中世ラテン語 punctualis、punctum「点」から →「時間ぴったりの」。"
+     },
+     "forms": [
+      [
+       "punctually (adv.)",
+       "准时地",
+       "時間どおりに"
+      ],
+      [
+       "punctuality (n.)",
+       "守时",
+       "時間厳守"
+      ]
+     ],
+     "tip": {
+      "zh": "punctuation（标点）同源：都是“点”。",
+      "ja": "punctuation（句読点）と同語源：どちらも「点」。"
+     }
+    },
+    {
+     "w": "tackle",
+     "pos": "v./n.",
+     "ipa": "/ˈtækəl/",
+     "zh": "着手处理；解决（难题）；器具",
+     "ja": "（問題に）取り組む；対処する；道具",
+     "ex": "The committee met to tackle the problem of rising energy costs.",
+     "ex_zh": "委员会开会着手解决能源成本上涨的问题。",
+     "ex_ja": "委員会はエネルギーコスト上昇の問題に取り組むため会合を開きました。",
+     "parts": [],
+     "note": {
+      "zh": "中古英语 takel“装备、索具”，来源不确定；没有可靠的词根拆分。",
+      "ja": "中英語 takel「装備・索具」から。語源は不確かで、信頼できる語根分解はない。"
+     },
+     "forms": [
+      [
+       "tackle a problem / issue",
+       "处理问题",
+       "問題に取り組む"
+      ],
+      [
+       "fishing tackle",
+       "钓具",
+       "釣り道具"
+      ]
+     ],
+     "tip": {
+      "zh": "tackle = deal with = address（处理问题），Part 7 同义词题常考。",
+      "ja": "tackle = deal with = address（問題に対処する）は Part 7 の同義語問題で頻出。"
+     }
+    },
+    {
+     "w": "simultaneously",
+     "pos": "adv.",
+     "ipa": "/ˌsaɪməlˈteɪniəsli/",
+     "zh": "同时地",
+     "ja": "同時に",
+     "ex": "The webinar will be broadcast simultaneously in English and Japanese.",
+     "ex_zh": "这场网络研讨会将同时以英语和日语播出。",
+     "ex_ja": "そのウェビナーは英語と日本語で同時に配信されます。",
+     "parts": [
+      [
+       "simul",
+       "同时（simul）",
+       "同時に（simul）"
+      ],
+      [
+       "-taneous",
+       "形容词后缀",
+       "形容詞を作る"
+      ],
+      [
+       "-ly",
+       "副词后缀",
+       "副詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "中世纪拉丁语 simultaneus，来自 simul“同时”（与 similar 同源）。",
+      "ja": "中世ラテン語 simultaneus、simul「同時に」から（similar と同語源）。"
+     },
+     "forms": [
+      [
+       "simultaneous (adj.)",
+       "同时的",
+       "同時の"
+      ],
+      [
+       "simultaneous interpretation",
+       "同声传译",
+       "同時通訳"
+      ]
+     ]
+    },
+    {
+     "w": "hectic",
+     "pos": "adj.",
+     "ipa": "/ˈhɛktɪk/",
+     "zh": "忙乱的；繁忙的",
+     "ja": "てんてこ舞いの；慌ただしい",
+     "ex": "December is always a hectic month for our accounting team.",
+     "ex_zh": "十二月对我们的会计团队来说总是忙乱的一个月。",
+     "ex_ja": "12月は経理チームにとっていつも慌ただしい月です。",
+     "parts": [],
+     "note": {
+      "zh": "来自希腊语 hektikos“持续性的（发热）”；在英语里没有可靠的词根拆分。",
+      "ja": "ギリシャ語 hektikos「持続する（熱）」から。英語としては信頼できる語根分解はない。"
+     },
+     "forms": [
+      [
+       "a hectic schedule",
+       "排得满满的日程",
+       "過密スケジュール"
+      ],
+      [
+       "busy (adj.)",
+       "忙碌的",
+       "忙しい"
+      ]
+     ]
+    },
+    {
+     "w": "manageable",
+     "pos": "adj.",
+     "ipa": "/ˈmænɪdʒəbəl/",
+     "zh": "可管理的；可应付的；适度的",
+     "ja": "扱いやすい；対処できる；手頃な",
+     "ex": "Breaking the project into smaller tasks makes the workload more manageable.",
+     "ex_zh": "把项目拆成小任务，工作量就更容易应付。",
+     "ex_ja": "プロジェクトを小さな作業に分けると、仕事量が扱いやすくなります。",
+     "parts": [
+      [
+       "manag",
+       "用手操纵（意大利语 maneggiare，来自 manus“手”）",
+       "手で扱う（イタリア語 maneggiare、manus「手」から）"
+      ],
+      [
+       "-able",
+       "可……的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "manage + -able；manage 来自意大利语 maneggiare“驾驭（马）”，词源是拉丁语 manus“手”（Day 10 manu）。",
+      "ja": "manage + -able。manage はイタリア語 maneggiare「（馬を）乗りこなす」から、さかのぼるとラテン語 manus「手」（Day 10 の manu）。"
+     },
+     "forms": [
+      [
+       "a manageable size",
+       "适中的大小",
+       "手頃な大きさ"
+      ],
+      [
+       "unmanageable (adj.)",
+       "难以控制的",
+       "手に負えない"
+      ]
+     ],
+     "hl": "manageable"
+    }
+   ]
+  }
+ ]
+}
