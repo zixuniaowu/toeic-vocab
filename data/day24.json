@@ -1,0 +1,2714 @@
+{
+ "day": 24,
+ "date": "2026-10-27",
+ "title_zh": "四大词根 + 公司活动与庆典、电话留言与预约变更",
+ "title_ja": "4つの語根＋社内行事と祝賀会、電話・伝言と予約変更",
+ "intro_zh": "今天掌握 4 个高频词根（par 准备 / mun 职责·共同 / ord 顺序 / min 小），再学公司活动与庆典、电话留言与预约变更的核心词——强化 Part 5 语法搭配（be prepared to do、be immune to、in an orderly manner、our distinguished guests、take a message），Part 1 场景（is being repaired、a plaque is mounted on the wall），Part 3/4 电话与语音提示（leave a voicemail、dial extension、transfer your call、automated message、You're on mute、reschedule），以及 Part 7 的退休欢送通知、颁奖晚宴邀请和预约确认邮件。",
+ "intro_ja": "今日は語根 4 つ（par 準備する／mun 務め・共通／ord 順序／min 小さい）と、社内行事と祝賀会、電話・伝言と予約変更の重要語を学びます。Part 5 の語法（be prepared to do、be immune to、in an orderly manner、our distinguished guests、take a message）、Part 1 の場面（is being repaired、a plaque is mounted on the wall）、Part 3・4 の電話と自動音声（leave a voicemail、dial extension、transfer your call、automated message、You're on mute、reschedule）、Part 7 の退職送別のお知らせ・表彰ディナーの招待状・予約確認メールを強化します。",
+ "voice": "en-US-AriaNeural",
+ "roots": [
+  {
+   "root": "-par-",
+   "origin": "Latin parare",
+   "zh": "准备；安排",
+   "ja": "準備する；整える",
+   "exp_zh": "来自拉丁语 parare（准备、安排好）。prae-“预先” + parare → prepare（准备）→ preparation、preparatory；re-“重新” + parare → reparare“重新弄好” → repair（修理）→ irreparable（无法修复的）；se-“分开” + parare → separate（分开的）→ separately；ad-“向” + parare → apparatus（准备好的装备 → 设备、器械）。⚠️ compare、parallel 来自 par“相等”，和 parare 不是一回事；表示“前往”的 repair 也是另一个同形词。",
+   "exp_ja": "ラテン語 parare（準備する・整える）から。prae-「前もって」+ parare → prepare（準備する）→ preparation、preparatory。re-「再び」+ parare → reparare「整え直す」→ repair（修理する）→ irreparable（修復できない）。se-「離して」+ parare → separate（別々の）→ separately。ad-「〜へ」+ parare → apparatus（用意された装備 → 装置・器具）。⚠️ compare・parallel は par「等しい」から来ており parare とは別。「赴く」という意味の repair も別語源の同形語。",
+   "examples": [
+    "prepare",
+    "preparation",
+    "preparatory",
+    "repair",
+    "irreparable",
+    "separate",
+    "separately",
+    "apparatus"
+   ]
+  },
+  {
+   "root": "-mun- / -muni-",
+   "origin": "Latin munus / communis",
+   "zh": "职责；共同",
+   "ja": "務め；共通の",
+   "exp_zh": "来自拉丁语 munus（职责、礼物）和 munia（公共职责）。com-“一起” + munis“承担职责的” → communis“共同的” → community（社区）、communicate（使共有 → 沟通）→ communication、communicative，communal（共用的）；in-“不” + munis → immunis“免除职责/赋税的” → immune（免疫的、不受影响的）→ immunity；munia + capere“承担” → municeps“市民” → municipal（本站已学）→ municipality。remuneration（报酬，本站已学）也来自 munus“礼物”。⚠️ commute 来自 mutare“改变”，mundane 来自 mundus“世界”，都和 mun 无关。",
+   "exp_ja": "ラテン語 munus（務め・贈り物）と munia（公的な務め）から。com-「共に」+ munis「務めを担う」→ communis「共通の」→ community（地域社会）、communicate（共有させる → 伝える）→ communication、communicative、communal（共用の）。in-「不」+ munis → immunis「務め・税を免除された」→ immune（免疫のある・影響を受けない）→ immunity。munia + capere「引き受ける」→ municeps「市民」→ municipal（既習）→ municipality。remuneration（報酬、既習）も munus「贈り物」から。⚠️ commute は mutare「変える」、mundane は mundus「世界」から来ており mun とは無関係。",
+   "examples": [
+    "community",
+    "communicate",
+    "communication",
+    "communicative",
+    "communal",
+    "municipality",
+    "immune",
+    "immunity"
+   ]
+  },
+  {
+   "root": "-ord- / -ordin-",
+   "origin": "Latin ordo, ordinis / ordinare",
+   "zh": "顺序；秩序",
+   "ja": "順序；秩序",
+   "exp_zh": "来自拉丁语 ordo（行列、秩序），属格 ordinis，动词 ordinare（安排）。order（顺序、命令）→ orderly（有秩序的）；ordinarius“按常规顺序的” → ordinary（普通的）→ ordinarily；extra ordinem“超出常规” → extraordinary（非凡的；临时的）；co-“一起” + ordinare → coordinate（协调）→ coordinator；sub-“在下面” + ordinare → subordinate（下属）；in-“不” + ordinatus → inordinate（过度的）。ordinance（条例）本站已学。⚠️ ordeal（严峻考验）来自古英语 ordal“神判”，与 ord 无关。",
+   "exp_ja": "ラテン語 ordo（列・秩序）、属格 ordinis、動詞 ordinare（整える）から。order（順序・命令）→ orderly（整然とした）。ordinarius「通常の順序どおりの」→ ordinary（普通の）→ ordinarily。extra ordinem「通常の外に」→ extraordinary（並外れた；臨時の）。co-「共に」+ ordinare → coordinate（調整する）→ coordinator。sub-「下に」+ ordinare → subordinate（部下）。in-「不」+ ordinatus → inordinate（過度の）。ordinance（条例）は既習。⚠️ ordeal（試練）は古英語 ordal「神明裁判」から来ており ord とは無関係。",
+   "examples": [
+    "ordinary",
+    "ordinarily",
+    "extraordinary",
+    "coordinate",
+    "coordinator",
+    "subordinate",
+    "orderly",
+    "inordinate"
+   ]
+  },
+  {
+   "root": "-min-",
+   "origin": "Latin minor / minimus / minuere",
+   "zh": "小；减少",
+   "ja": "小さい；減らす",
+   "exp_zh": "来自拉丁语 minor（更小的）、minimus（最小的）、minus（更少）和动词 minuere（使变小）。minimum（最低限度）→ minimize、minimal；minor（较小的）→ minority（少数）；minus（减去）；de-“向下” + minuere → diminish（减少）；minutus“被弄小的” → minute /maɪˈnut/（极小的），表示“分钟”的 minute 也来自 pars minuta“细分的小部分”。⚠️ miniature 其实来自拉丁语 minium“朱砂红颜料”（手抄本插画），后来才被联想成“小”；mine、miner 也与 min 无关。",
+   "exp_ja": "ラテン語 minor（より小さい）、minimus（最小の）、minus（より少なく）、動詞 minuere（小さくする）から。minimum（最低限）→ minimize、minimal。minor（小さい方の）→ minority（少数）。minus（〜を引いた）。de-「下へ」+ minuere → diminish（減少する）。minutus「小さくされた」→ minute /maɪˈnut/（ごく小さな）。「分」の minute も pars minuta「細かく分けた部分」から。⚠️ miniature は実はラテン語 minium「朱色の顔料」（写本の挿絵）から来ており、後から「小さい」と結びつけられた。mine・miner も min とは無関係。",
+   "examples": [
+    "minimum",
+    "minimize",
+    "minimal",
+    "minor",
+    "minority",
+    "diminish",
+    "minute",
+    "minus"
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "par",
+   "title_zh": "词根 -par-：准备",
+   "title_ja": "語根 -par-：準備する",
+   "words": [
+    {
+     "w": "prepare",
+     "pos": "v.",
+     "ipa": "/prɪˈpɛr/",
+     "zh": "准备；筹备；做（饭菜）",
+     "ja": "準備する；用意する；（料理を）作る",
+     "ex": "The catering staff will prepare lunch for all forty participants.",
+     "ex_zh": "餐饮人员将为全部 40 名参加者准备午餐。",
+     "ex_ja": "ケータリングのスタッフが参加者 40 名全員の昼食を用意します。",
+     "parts": [
+      [
+       "pre-",
+       "预先",
+       "前もって"
+      ],
+      [
+       "par",
+       "准备；安排（parare）",
+       "準備する；整える（parare）"
+      ],
+      [
+       "-e",
+       "（词尾）",
+       "（語尾）"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 praeparare“预先准备”：prae-“在前” + parare“准备”。",
+      "ja": "ラテン語 praeparare「前もって準備する」：prae-「前に」+ parare「準備する」。"
+     },
+     "forms": [
+      [
+       "prepared (adj.)",
+       "有准备的",
+       "準備のできた"
+      ],
+      [
+       "be prepared to do",
+       "愿意做……",
+       "〜する用意がある"
+      ],
+      [
+       "prepare for ...",
+       "为……做准备",
+       "〜に備える"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5：be prepared to do“愿意/准备好做”，prepare for + 名词。",
+      "ja": "Part 5：be prepared to do「〜する用意がある」、prepare for + 名詞。"
+     }
+    },
+    {
+     "w": "preparation",
+     "pos": "n.",
+     "ipa": "/ˌprɛpəˈreɪʃən/",
+     "zh": "准备；准备工作；（食物等的）配制",
+     "ja": "準備；用意；調理",
+     "ex": "Preparations for the annual shareholders' meeting are already under way.",
+     "ex_zh": "年度股东大会的筹备工作已经在进行中。",
+     "ex_ja": "年次株主総会の準備はすでに進んでいます。",
+     "parts": [
+      [
+       "pre-",
+       "预先",
+       "前もって"
+      ],
+      [
+       "par",
+       "准备；安排（parare）",
+       "準備する；整える（parare）"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "prepare + -ation。",
+      "ja": "prepare + -ation。"
+     },
+     "forms": [
+      [
+       "in preparation for ...",
+       "为……做准备",
+       "〜に備えて"
+      ],
+      [
+       "preparation time",
+       "准备时间",
+       "準備時間"
+      ]
+     ],
+     "tip": {
+      "zh": "in preparation for the inspection“为检查做准备”是 Part 5/7 常见介词短语。",
+      "ja": "in preparation for the inspection「検査に備えて」は Part 5・7 によく出る。"
+     },
+     "hl": "Preparations"
+    },
+    {
+     "w": "preparatory",
+     "pos": "adj.",
+     "ipa": "/prɪˈpɛrəˌtɔri/",
+     "zh": "预备的；准备性的",
+     "ja": "準備の；予備の",
+     "ex": "A preparatory meeting will be held on Monday to review the agenda.",
+     "ex_zh": "周一将召开一次预备会议审议议程。",
+     "ex_ja": "議題を確認するための準備会議が月曜日に開かれます。",
+     "parts": [
+      [
+       "pre-",
+       "预先",
+       "前もって"
+      ],
+      [
+       "par",
+       "准备；安排（parare）",
+       "準備する；整える（parare）"
+      ],
+      [
+       "-atory",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 praeparatorius“准备用的”。",
+      "ja": "ラテン語 praeparatorius「準備のための」。"
+     },
+     "forms": [
+      [
+       "preparatory work",
+       "准备工作",
+       "準備作業"
+      ],
+      [
+       "preparatory course",
+       "预备课程",
+       "予備講座"
+      ]
+     ]
+    },
+    {
+     "w": "repair",
+     "pos": "v./n.",
+     "ipa": "/rɪˈpɛr/",
+     "zh": "修理；修补；维修",
+     "ja": "修理する；修繕；修理",
+     "ex": "The east elevator will be closed for repairs until Friday.",
+     "ex_zh": "东侧电梯维修期间停用，直到周五。",
+     "ex_ja": "東側のエレベーターは金曜日まで修理のため停止します。",
+     "parts": [
+      [
+       "re-",
+       "再；重新",
+       "再び"
+      ],
+      [
+       "par",
+       "准备；安排（parare）",
+       "準備する；整える（parare）"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 reparare“重新准备好” → 修复。⚠️ 表示“前往某处”的 repair 是另一个同形词，来源不同。",
+      "ja": "ラテン語 reparare「再び整える」→ 修理する。⚠️「〜へ赴く」という意味の repair は別語源の同形語。"
+     },
+     "forms": [
+      [
+       "under repair",
+       "在维修中",
+       "修理中で"
+      ],
+      [
+       "repair shop",
+       "修理店",
+       "修理工場"
+      ],
+      [
+       "beyond repair",
+       "无法修复",
+       "修理できないほど"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1：A road is being repaired.（正在修路）；Part 7 发票常见 repair costs。",
+      "ja": "Part 1：A road is being repaired.（道路が修理されている）。Part 7 の請求書では repair costs が頻出。"
+     },
+     "hl": "repairs"
+    },
+    {
+     "w": "irreparable",
+     "pos": "adj.",
+     "ipa": "/ɪˈrɛpərəbəl/",
+     "zh": "无法修复的；无可挽回的",
+     "ja": "修復できない；取り返しのつかない",
+     "ex": "The flood caused irreparable damage to the archive's oldest records.",
+     "ex_zh": "洪水对档案馆最古老的记录造成了无法挽回的损坏。",
+     "ex_ja": "洪水で資料館の最も古い記録が修復不能な損傷を受けました。",
+     "parts": [
+      [
+       "ir-",
+       "不（in- 的同化形）",
+       "不（in- の同化形）"
+      ],
+      [
+       "re-",
+       "再；重新",
+       "再び"
+      ],
+      [
+       "par",
+       "准备；安排（parare）",
+       "準備する；整える（parare）"
+      ],
+      [
+       "-able",
+       "能……的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "in-“不” + reparable“可修复的”。⚠️ 重音在 REP，不是 re-PAIR。",
+      "ja": "in-「不」+ reparable「修理できる」。⚠️ アクセントは REP にあり、re-PAIR ではない。"
+     },
+     "forms": [
+      [
+       "irreparable damage",
+       "无法挽回的损害",
+       "修復不能な損害"
+      ],
+      [
+       "reparable (adj.)",
+       "可修复的",
+       "修理可能な"
+      ]
+     ]
+    },
+    {
+     "w": "separate",
+     "pos": "adj./v.",
+     "ipa": "/ˈsɛpərət/",
+     "zh": "分开的；单独的；（动词）分开、分离",
+     "ja": "別々の；個別の；（動詞）分ける",
+     "ex": "Please submit receipts for meals and hotel stays in separate envelopes.",
+     "ex_zh": "请把餐费和住宿的收据分别装在不同的信封里提交。",
+     "ex_ja": "食事代と宿泊費の領収書は別々の封筒に入れて提出してください。",
+     "parts": [
+      [
+       "se-",
+       "分开",
+       "離して"
+      ],
+      [
+       "par",
+       "准备；安排（parare）",
+       "準備する；整える（parare）"
+      ],
+      [
+       "-ate",
+       "形容词/动词后缀",
+       "形容詞・動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 separare“分开安置”：se-“分开” + parare。",
+      "ja": "ラテン語 separare「離して置く」：se-「離して」+ parare。"
+     },
+     "forms": [
+      [
+       "separate A from B",
+       "把 A 与 B 分开",
+       "A を B から分ける"
+      ],
+      [
+       "separation (n.)",
+       "分离",
+       "分離"
+      ]
+     ],
+     "tip": {
+      "zh": "形容词读 /ˈsɛpərət/，动词读 /ˈsɛpəˌreɪt/。拼写易错：sep-A-rate。",
+      "ja": "形容詞は /ˈsɛpərət/、動詞は /ˈsɛpəˌreɪt/。つづりミス注意：sep-A-rate。"
+     }
+    },
+    {
+     "w": "separately",
+     "pos": "adv.",
+     "ipa": "/ˈsɛpərətli/",
+     "zh": "分别地；单独地",
+     "ja": "別々に；個別に",
+     "ex": "Shipping charges will be billed separately.",
+     "ex_zh": "运费将另行计费。",
+     "ex_ja": "送料は別途請求されます。",
+     "parts": [
+      [
+       "se-",
+       "分开",
+       "離して"
+      ],
+      [
+       "par",
+       "准备；安排（parare）",
+       "準備する；整える（parare）"
+      ],
+      [
+       "-ate",
+       "形容词后缀",
+       "形容詞を作る"
+      ],
+      [
+       "-ly",
+       "副词后缀",
+       "副詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "separate + -ly。",
+      "ja": "separate + -ly。"
+     },
+     "forms": [
+      [
+       "be sold separately",
+       "单独出售",
+       "別売りである"
+      ],
+      [
+       "billed separately",
+       "另行计费",
+       "別途請求"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7 商品说明：Batteries are sold separately.（电池另售）",
+      "ja": "Part 7 の商品説明：Batteries are sold separately.（電池は別売り）"
+     }
+    },
+    {
+     "w": "apparatus",
+     "pos": "n.",
+     "ipa": "/ˌæpəˈrætəs/",
+     "zh": "设备；器械；（组织）机构",
+     "ja": "装置；器具；機構",
+     "ex": "Laboratory staff must clean the testing apparatus after each use.",
+     "ex_zh": "实验室人员每次使用后都必须清洁测试设备。",
+     "ex_ja": "研究室のスタッフは使用後に毎回試験装置を清掃しなければなりません。",
+     "parts": [
+      [
+       "ap-",
+       "向（ad- 的同化形）",
+       "〜へ（ad- の同化形）"
+      ],
+      [
+       "par",
+       "准备；安排（parare）",
+       "準備する；整える（parare）"
+      ],
+      [
+       "-atus",
+       "名词词尾（拉丁语）",
+       "名詞語尾（ラテン語）"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 apparatus“准备好的东西、装备”，来自 apparare（ad- + parare）。",
+      "ja": "ラテン語 apparatus「用意されたもの・装備」、apparare（ad- + parare）から。"
+     },
+     "forms": [
+      [
+       "breathing apparatus",
+       "呼吸器",
+       "呼吸装置"
+      ],
+      [
+       "the government apparatus",
+       "政府机构",
+       "政府機構"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mun",
+   "title_zh": "词根 -mun- / -muni-：职责；共同",
+   "title_ja": "語根 -mun- / -muni-：務め；共通の",
+   "words": [
+    {
+     "w": "community",
+     "pos": "n.",
+     "ipa": "/kəˈmjunəti/",
+     "zh": "社区；团体；群体",
+     "ja": "地域社会；共同体；業界",
+     "ex": "The library offers free computer classes to members of the local community.",
+     "ex_zh": "图书馆为本地社区居民提供免费电脑课程。",
+     "ex_ja": "図書館は地域住民向けに無料のパソコン教室を開いています。",
+     "parts": [
+      [
+       "com-",
+       "一起",
+       "共に"
+      ],
+      [
+       "mun",
+       "职责；共同（munus / communis）",
+       "務め；共通の（munus / communis）"
+      ],
+      [
+       "-ity",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 communitas“共同性”，来自 communis“共同的”。",
+      "ja": "ラテン語 communitas「共同性」、communis「共通の」から。"
+     },
+     "forms": [
+      [
+       "community center",
+       "社区中心",
+       "公民館"
+      ],
+      [
+       "the business community",
+       "商界",
+       "経済界"
+      ]
+     ]
+    },
+    {
+     "w": "communicate",
+     "pos": "v.",
+     "ipa": "/kəˈmjunəˌkeɪt/",
+     "zh": "沟通；传达",
+     "ja": "伝える；意思疎通する",
+     "ex": "Managers should communicate changes to their teams as early as possible.",
+     "ex_zh": "经理应尽早把变动传达给团队。",
+     "ex_ja": "管理職は変更点をできるだけ早くチームに伝えるべきです。",
+     "parts": [
+      [
+       "com-",
+       "一起",
+       "共に"
+      ],
+      [
+       "mun",
+       "职责；共同（munus / communis）",
+       "務め；共通の（munus / communis）"
+      ],
+      [
+       "-ic",
+       "形容词后缀",
+       "形容詞を作る"
+      ],
+      [
+       "-ate",
+       "动词后缀",
+       "動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 communicare“使共有、分享”。",
+      "ja": "ラテン語 communicare「共有させる・分かち合う」。"
+     },
+     "forms": [
+      [
+       "communicate with ...",
+       "与……沟通",
+       "〜と連絡を取る"
+      ],
+      [
+       "communicate A to B",
+       "把 A 传达给 B",
+       "A を B に伝える"
+      ]
+     ]
+    },
+    {
+     "w": "communication",
+     "pos": "n.",
+     "ipa": "/kəˌmjunəˈkeɪʃən/",
+     "zh": "沟通；通信；（复数）通讯手段",
+     "ja": "コミュニケーション；連絡；通信",
+     "ex": "All communication with the client should go through the account manager.",
+     "ex_zh": "与客户的所有沟通都应通过客户经理进行。",
+     "ex_ja": "顧客との連絡はすべて担当マネージャーを通して行ってください。",
+     "parts": [
+      [
+       "com-",
+       "一起",
+       "共に"
+      ],
+      [
+       "mun",
+       "职责；共同（munus / communis）",
+       "務め；共通の（munus / communis）"
+      ],
+      [
+       "-ic",
+       "形容词后缀",
+       "形容詞を作る"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "communicate + -ion。",
+      "ja": "communicate + -ion。"
+     },
+     "forms": [
+      [
+       "communication skills",
+       "沟通能力",
+       "コミュニケーション能力"
+      ],
+      [
+       "communications department",
+       "宣传/通讯部门",
+       "広報部"
+      ]
+     ],
+     "tip": {
+      "zh": "招聘广告常见 excellent communication skills。",
+      "ja": "求人広告で excellent communication skills が頻出。"
+     }
+    },
+    {
+     "w": "communicative",
+     "pos": "adj.",
+     "ipa": "/kəˈmjunəˌkeɪtɪv/",
+     "zh": "善于沟通的；交际的",
+     "ja": "話し好きな；意思疎通の上手な",
+     "ex": "We are looking for a communicative team player with strong organizational skills.",
+     "ex_zh": "我们在寻找善于沟通、有团队精神且组织能力强的人。",
+     "ex_ja": "コミュニケーション力があり、調整力に優れたチームプレーヤーを募集しています。",
+     "parts": [
+      [
+       "com-",
+       "一起",
+       "共に"
+      ],
+      [
+       "mun",
+       "职责；共同（munus / communis）",
+       "務め；共通の（munus / communis）"
+      ],
+      [
+       "-ic",
+       "形容词后缀",
+       "形容詞を作る"
+      ],
+      [
+       "-ative",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "communicate + -ive。",
+      "ja": "communicate + -ive。"
+     },
+     "forms": [
+      [
+       "communicative ability",
+       "交际能力",
+       "伝達能力"
+      ],
+      [
+       "uncommunicative (adj.)",
+       "不爱说话的",
+       "口数の少ない"
+      ]
+     ]
+    },
+    {
+     "w": "communal",
+     "pos": "adj.",
+     "ipa": "/kəˈmjunəl/",
+     "zh": "公共的；共用的",
+     "ja": "共用の；共同の",
+     "ex": "Employees are asked to keep the communal kitchen clean.",
+     "ex_zh": "请员工保持公共厨房整洁。",
+     "ex_ja": "社員は共用キッチンを清潔に保つようお願いします。",
+     "parts": [
+      [
+       "com-",
+       "一起",
+       "共に"
+      ],
+      [
+       "mun",
+       "职责；共同（munus / communis）",
+       "務め；共通の（munus / communis）"
+      ],
+      [
+       "-al",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "经法语来自晚期拉丁语 communalis“共同体的”。",
+      "ja": "フランス語経由で後期ラテン語 communalis「共同体の」から。"
+     },
+     "forms": [
+      [
+       "communal area",
+       "公共区域",
+       "共用スペース"
+      ],
+      [
+       "communal kitchen",
+       "公共厨房",
+       "共用キッチン"
+      ]
+     ],
+     "tip": {
+      "zh": "公告中 communal = shared，Part 7 同义替换常考。",
+      "ja": "掲示では communal = shared。Part 7 の言い換えで出る。"
+     }
+    },
+    {
+     "w": "municipality",
+     "pos": "n.",
+     "ipa": "/mjuˌnɪsəˈpæləti/",
+     "zh": "市政当局；自治市（镇）",
+     "ja": "市町村；地方自治体",
+     "ex": "The municipality plans to widen the road near the train station next spring.",
+     "ex_zh": "市政府计划明年春天拓宽火车站附近的道路。",
+     "ex_ja": "市は来春、駅周辺の道路を拡張する予定です。",
+     "parts": [
+      [
+       "muni",
+       "职责（munia）",
+       "務め（munia）"
+      ],
+      [
+       "cip",
+       "拿；承担（capere，Day 4 词根）",
+       "取る；引き受ける（capere、Day 4 の語根）"
+      ],
+      [
+       "-al",
+       "形容词后缀",
+       "形容詞を作る"
+      ],
+      [
+       "-ity",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 municipium“自治城市”，来自 municeps“承担公共职责的市民”。",
+      "ja": "ラテン語 municipium「自治都市」、municeps「公的な務めを担う市民」から。"
+     },
+     "forms": [
+      [
+       "municipal (adj.)",
+       "市政的（本站已学）",
+       "市の（既習）"
+      ],
+      [
+       "local municipality",
+       "地方政府",
+       "地元自治体"
+      ]
+     ]
+    },
+    {
+     "w": "immune",
+     "pos": "adj.",
+     "ipa": "/ɪˈmjun/",
+     "zh": "免疫的；不受影响的；豁免的",
+     "ja": "免疫のある；影響を受けない；免除された",
+     "ex": "No industry is completely immune to changes in consumer demand.",
+     "ex_zh": "没有哪个行业能完全不受消费需求变化的影响。",
+     "ex_ja": "消費者需要の変化の影響をまったく受けない業界はありません。",
+     "parts": [
+      [
+       "im-",
+       "不（in- 的同化形）",
+       "不（in- の同化形）"
+      ],
+      [
+       "mun",
+       "职责；共同（munus / communis）",
+       "務め；共通の（munus / communis）"
+      ],
+      [
+       "-e",
+       "（词尾）",
+       "（語尾）"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 immunis“免除职责（赋税）的”：in-“不” + munis。",
+      "ja": "ラテン語 immunis「務め（税）を免除された」：in-「不」+ munis。"
+     },
+     "forms": [
+      [
+       "be immune to ...",
+       "不受……影响",
+       "〜の影響を受けない"
+      ],
+      [
+       "immune system",
+       "免疫系统",
+       "免疫系"
+      ]
+     ],
+     "tip": {
+      "zh": "be immune to / from ... 搭配介词 to 或 from。",
+      "ja": "be immune to / from ... と前置詞 to か from を取る。"
+     }
+    },
+    {
+     "w": "immunity",
+     "pos": "n.",
+     "ipa": "/ɪˈmjunəti/",
+     "zh": "免疫力；豁免（权）",
+     "ja": "免疫；免除",
+     "ex": "Regular exercise and enough sleep can help strengthen your immunity.",
+     "ex_zh": "规律运动和充足睡眠有助于增强免疫力。",
+     "ex_ja": "定期的な運動と十分な睡眠は免疫力を高めるのに役立ちます。",
+     "parts": [
+      [
+       "im-",
+       "不（in- 的同化形）",
+       "不（in- の同化形）"
+      ],
+      [
+       "mun",
+       "职责；共同（munus / communis）",
+       "務め；共通の（munus / communis）"
+      ],
+      [
+       "-ity",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "immune + -ity。",
+      "ja": "immune + -ity。"
+     },
+     "forms": [
+      [
+       "immunity from ...",
+       "免于……的豁免",
+       "〜の免除"
+      ],
+      [
+       "build immunity",
+       "增强免疫力",
+       "免疫をつける"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ord",
+   "title_zh": "词根 -ord- / -ordin-：顺序",
+   "title_ja": "語根 -ord- / -ordin-：順序",
+   "words": [
+    {
+     "w": "ordinary",
+     "pos": "adj.",
+     "ipa": "/ˈɔrdəˌnɛri/",
+     "zh": "普通的；平常的",
+     "ja": "普通の；ふだんの",
+     "ex": "This printer handles ordinary office paper as well as thick card stock.",
+     "ex_zh": "这台打印机既能用普通办公纸，也能用厚卡纸。",
+     "ex_ja": "このプリンターは普通紙だけでなく厚手のカード用紙にも対応しています。",
+     "parts": [
+      [
+       "ordin",
+       "顺序；秩序（ordo, ordinis）",
+       "順序；秩序（ordo, ordinis）"
+      ],
+      [
+       "-ary",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 ordinarius“按常规顺序的”。",
+      "ja": "ラテン語 ordinarius「通常の順序どおりの」。"
+     },
+     "forms": [
+      [
+       "out of the ordinary",
+       "不寻常的",
+       "普通でない"
+      ],
+      [
+       "ordinary expenses",
+       "日常开支",
+       "通常経費"
+      ]
+     ]
+    },
+    {
+     "w": "ordinarily",
+     "pos": "adv.",
+     "ipa": "/ˌɔrdəˈnɛrəli/",
+     "zh": "通常；一般情况下",
+     "ja": "ふだんは；通常は",
+     "ex": "The office is ordinarily closed on public holidays, but staff will be on duty this Monday.",
+     "ex_zh": "办公室通常在法定假日休息，但本周一会有员工值班。",
+     "ex_ja": "事務所は通常祝日は休みですが、今週の月曜日は職員が出勤します。",
+     "parts": [
+      [
+       "ordin",
+       "顺序；秩序（ordo, ordinis）",
+       "順序；秩序（ordo, ordinis）"
+      ],
+      [
+       "-ary",
+       "形容词后缀",
+       "形容詞を作る"
+      ],
+      [
+       "-ly",
+       "副词后缀",
+       "副詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "ordinary + -ly。",
+      "ja": "ordinary + -ly。"
+     },
+     "forms": [
+      [
+       "usually",
+       "通常（同义）",
+       "通常（同義）"
+      ],
+      [
+       "normally",
+       "一般（同义）",
+       "普通は（同義）"
+      ]
+     ]
+    },
+    {
+     "w": "extraordinary",
+     "pos": "adj.",
+     "ipa": "/ɪkˈstrɔrdəˌnɛri/",
+     "zh": "非凡的；特别的；临时的",
+     "ja": "並外れた；特別の；臨時の",
+     "ex": "An extraordinary general meeting will be held to vote on the merger.",
+     "ex_zh": "将召开临时股东大会对合并进行表决。",
+     "ex_ja": "合併について議決するため臨時株主総会が開かれます。",
+     "parts": [
+      [
+       "extra-",
+       "在……之外",
+       "〜の外に"
+      ],
+      [
+       "ordin",
+       "顺序；秩序（ordo, ordinis）",
+       "順序；秩序（ordo, ordinis）"
+      ],
+      [
+       "-ary",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 extra ordinem“超出常规顺序”。",
+      "ja": "ラテン語 extra ordinem「通常の順序の外に」。"
+     },
+     "forms": [
+      [
+       "extraordinary general meeting",
+       "临时股东大会",
+       "臨時株主総会"
+      ],
+      [
+       "extraordinarily (adv.)",
+       "非常地",
+       "並外れて"
+      ]
+     ],
+     "tip": {
+      "zh": "商务里 extraordinary 也可指“临时的、特别召开的”，不只是“了不起”。",
+      "ja": "ビジネスでは extraordinary は「臨時の」の意味もあり、「すごい」だけではない。"
+     }
+    },
+    {
+     "w": "coordinate",
+     "pos": "v.",
+     "ipa": "/koʊˈɔrdəˌneɪt/",
+     "zh": "协调；统筹",
+     "ja": "調整する；取りまとめる",
+     "ex": "Ms. Patel will coordinate the schedules of all three regional teams.",
+     "ex_zh": "帕特尔女士将协调三个地区团队的日程。",
+     "ex_ja": "パテルさんが 3 つの地域チームの日程を調整します。",
+     "parts": [
+      [
+       "co-",
+       "一起",
+       "共に"
+      ],
+      [
+       "ordin",
+       "顺序；秩序（ordo, ordinis）",
+       "順序；秩序（ordo, ordinis）"
+      ],
+      [
+       "-ate",
+       "动词后缀",
+       "動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "中世纪拉丁语 coordinare“一起排列”。",
+      "ja": "中世ラテン語 coordinare「一緒に並べる」。"
+     },
+     "forms": [
+      [
+       "coordinate with ...",
+       "与……协调",
+       "〜と調整する"
+      ],
+      [
+       "coordination (n.)",
+       "协调",
+       "調整"
+      ]
+     ]
+    },
+    {
+     "w": "coordinator",
+     "pos": "n.",
+     "ipa": "/koʊˈɔrdəˌneɪtɚ/",
+     "zh": "协调员；负责人",
+     "ja": "調整役；担当者",
+     "ex": "Please contact the event coordinator if you need a parking permit.",
+     "ex_zh": "如需停车许可，请联系活动负责人。",
+     "ex_ja": "駐車許可証が必要な場合はイベント担当者に連絡してください。",
+     "parts": [
+      [
+       "co-",
+       "一起",
+       "共に"
+      ],
+      [
+       "ordin",
+       "顺序；秩序（ordo, ordinis）",
+       "順序；秩序（ordo, ordinis）"
+      ],
+      [
+       "-ator",
+       "表示人",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "coordinate + -or。",
+      "ja": "coordinate + -or。"
+     },
+     "forms": [
+      [
+       "event coordinator",
+       "活动统筹",
+       "イベント担当"
+      ],
+      [
+       "project coordinator",
+       "项目协调员",
+       "プロジェクト調整役"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7 落款常见 Event Coordinator，问题会问“写信人是谁”。",
+      "ja": "Part 7 の署名で Event Coordinator がよく出て、「書き手は誰か」が問われる。"
+     }
+    },
+    {
+     "w": "subordinate",
+     "pos": "n./adj.",
+     "ipa": "/səˈbɔrdənət/",
+     "zh": "下属；从属的；次要的",
+     "ja": "部下；下位の；従属的な",
+     "ex": "A good manager gives subordinates clear goals and regular feedback.",
+     "ex_zh": "好的经理会给下属明确的目标和定期反馈。",
+     "ex_ja": "良い管理職は部下に明確な目標と定期的なフィードバックを与えます。",
+     "parts": [
+      [
+       "sub-",
+       "在下面",
+       "下に"
+      ],
+      [
+       "ordin",
+       "顺序；秩序（ordo, ordinis）",
+       "順序；秩序（ordo, ordinis）"
+      ],
+      [
+       "-ate",
+       "形容词/名词后缀",
+       "形容詞・名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "中世纪拉丁语 subordinare“排在下面”。",
+      "ja": "中世ラテン語 subordinare「下位に置く」。"
+     },
+     "forms": [
+      [
+       "be subordinate to ...",
+       "从属于……",
+       "〜より下位である"
+      ],
+      [
+       "supervisor",
+       "上司（反义）",
+       "上司（反意）"
+      ]
+     ],
+     "hl": "subordinates"
+    },
+    {
+     "w": "orderly",
+     "pos": "adj.",
+     "ipa": "/ˈɔrdɚli/",
+     "zh": "有秩序的；整齐的",
+     "ja": "秩序ある；整然とした",
+     "ex": "Passengers are asked to leave the train in an orderly manner.",
+     "ex_zh": "请乘客有序下车。",
+     "ex_ja": "乗客の皆様は順序よく降車してください。",
+     "parts": [
+      [
+       "ord",
+       "顺序；秩序（ordo）",
+       "順序；秩序（ordo）"
+      ],
+      [
+       "-er",
+       "（order 的词尾）",
+       "（order の語尾）"
+      ],
+      [
+       "-ly",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "order + -ly。⚠️ -ly 结尾但这里是形容词。",
+      "ja": "order + -ly。⚠️ -ly で終わるがここでは形容詞。"
+     },
+     "forms": [
+      [
+       "in an orderly manner",
+       "有秩序地",
+       "整然と"
+      ],
+      [
+       "orderly fashion",
+       "井然有序",
+       "秩序立って"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5 陷阱：orderly 是形容词，要说 in an orderly manner，不能当副词用。",
+      "ja": "Part 5 の罠：orderly は形容詞なので in an orderly manner とし、副詞としては使わない。"
+     }
+    },
+    {
+     "w": "inordinate",
+     "pos": "adj.",
+     "ipa": "/ɪnˈɔrdənət/",
+     "zh": "过度的；过多的",
+     "ja": "過度の；法外な",
+     "ex": "Installing the new software took an inordinate amount of time.",
+     "ex_zh": "安装新软件花了过多的时间。",
+     "ex_ja": "新しいソフトのインストールに法外な時間がかかりました。",
+     "parts": [
+      [
+       "in-",
+       "不",
+       "不"
+      ],
+      [
+       "ordin",
+       "顺序；秩序（ordo, ordinis）",
+       "順序；秩序（ordo, ordinis）"
+      ],
+      [
+       "-ate",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 inordinatus“不合秩序的” → 超出限度。",
+      "ja": "ラテン語 inordinatus「秩序のない」→ 度を越した。"
+     },
+     "forms": [
+      [
+       "an inordinate amount of ...",
+       "过多的……",
+       "法外な量の〜"
+      ],
+      [
+       "excessive",
+       "过度的（同义）",
+       "過度の（同義）"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "min",
+   "title_zh": "词根 -min-：小",
+   "title_ja": "語根 -min-：小さい",
+   "words": [
+    {
+     "w": "minimum",
+     "pos": "n./adj.",
+     "ipa": "/ˈmɪnəməm/",
+     "zh": "最低限度；最少的",
+     "ja": "最低限；最小の",
+     "ex": "A minimum order of 50 units is required for free delivery.",
+     "ex_zh": "满 50 件起订才可免运费。",
+     "ex_ja": "送料無料には最低 50 個の注文が必要です。",
+     "parts": [
+      [
+       "min",
+       "小（minor / minimus）",
+       "小さい（minor / minimus）"
+      ],
+      [
+       "-imum",
+       "最……（拉丁语最高级）",
+       "最も〜（ラテン語最上級）"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 minimum“最小的东西”，minimus 的中性形。",
+      "ja": "ラテン語 minimum「最小のもの」、minimus の中性形。"
+     },
+     "forms": [
+      [
+       "minimum wage",
+       "最低工资",
+       "最低賃金"
+      ],
+      [
+       "at a minimum",
+       "至少",
+       "最低でも"
+      ],
+      [
+       "maximum",
+       "最大值（反义）",
+       "最大（反意）"
+      ]
+     ]
+    },
+    {
+     "w": "minimize",
+     "pos": "v.",
+     "ipa": "/ˈmɪnəˌmaɪz/",
+     "zh": "把……减到最少",
+     "ja": "最小限にする",
+     "ex": "We moved the system upgrade to Sunday to minimize disruption to customers.",
+     "ex_zh": "我们把系统升级改到周日，以尽量减少对客户的影响。",
+     "ex_ja": "顧客への影響を最小限にするため、システム更新を日曜日に移しました。",
+     "parts": [
+      [
+       "min",
+       "小（minor / minimus）",
+       "小さい（minor / minimus）"
+      ],
+      [
+       "-im",
+       "最（最高级）",
+       "最も（最上級）"
+      ],
+      [
+       "-ize",
+       "动词后缀",
+       "動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "minimum + -ize。",
+      "ja": "minimum + -ize。"
+     },
+     "forms": [
+      [
+       "minimize costs",
+       "将成本降到最低",
+       "コストを最小限に抑える"
+      ],
+      [
+       "minimize the risk",
+       "把风险降到最低",
+       "リスクを最小化する"
+      ]
+     ]
+    },
+    {
+     "w": "minimal",
+     "pos": "adj.",
+     "ipa": "/ˈmɪnəməl/",
+     "zh": "极少的；最低限度的",
+     "ja": "最小限の；ごくわずかな",
+     "ex": "The renovation will be carried out with minimal noise during business hours.",
+     "ex_zh": "装修将在营业时间尽量减少噪音。",
+     "ex_ja": "改装工事は営業時間中の騒音を最小限にして行われます。",
+     "parts": [
+      [
+       "min",
+       "小（minor / minimus）",
+       "小さい（minor / minimus）"
+      ],
+      [
+       "-im",
+       "最（最高级）",
+       "最も（最上級）"
+      ],
+      [
+       "-al",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "minimum + -al。",
+      "ja": "minimum + -al。"
+     },
+     "forms": [
+      [
+       "minimal cost",
+       "极低的费用",
+       "最小限の費用"
+      ],
+      [
+       "minimally (adv.)",
+       "最低限度地",
+       "最小限に"
+      ]
+     ]
+    },
+    {
+     "w": "minor",
+     "pos": "adj./n.",
+     "ipa": "/ˈmaɪnɚ/",
+     "zh": "较小的；次要的；（名词）未成年人",
+     "ja": "小さい方の；軽微な；（名詞）未成年者",
+     "ex": "The report contained only a few minor errors.",
+     "ex_zh": "报告里只有几处小错误。",
+     "ex_ja": "報告書には軽微な誤りがいくつかあっただけでした。",
+     "parts": [
+      [
+       "min",
+       "小（minor / minimus）",
+       "小さい（minor / minimus）"
+      ],
+      [
+       "-or",
+       "比较级词尾（拉丁语）",
+       "比較級の語尾（ラテン語）"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 minor“更小的”（parvus 的比较级）。",
+      "ja": "ラテン語 minor「より小さい」（parvus の比較級）。"
+     },
+     "forms": [
+      [
+       "minor changes",
+       "小改动",
+       "軽微な変更"
+      ],
+      [
+       "major",
+       "主要的（反义）",
+       "主要な（反意）"
+      ]
+     ],
+     "tip": {
+      "zh": "minor（较小的）和 miner（矿工）发音相同，听力靠上下文判断。",
+      "ja": "minor（小さい）と miner（鉱夫）は同音。リスニングでは文脈で判断。"
+     }
+    },
+    {
+     "w": "minority",
+     "pos": "n.",
+     "ipa": "/maɪˈnɔrəti/",
+     "zh": "少数；少数派",
+     "ja": "少数；少数派",
+     "ex": "Only a minority of respondents said they would pay more for faster delivery.",
+     "ex_zh": "只有少数受访者表示愿意为更快的配送多付钱。",
+     "ex_ja": "より速い配送に追加料金を払うと答えた回答者はごく一部でした。",
+     "parts": [
+      [
+       "min",
+       "小（minor / minimus）",
+       "小さい（minor / minimus）"
+      ],
+      [
+       "-or",
+       "比较级词尾",
+       "比較級の語尾"
+      ],
+      [
+       "-ity",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "中世纪拉丁语 minoritas，来自 minor。",
+      "ja": "中世ラテン語 minoritas、minor から。"
+     },
+     "forms": [
+      [
+       "minority shareholder",
+       "小股东",
+       "少数株主"
+      ],
+      [
+       "majority",
+       "多数（反义）",
+       "多数（反意）"
+      ]
+     ]
+    },
+    {
+     "w": "diminish",
+     "pos": "v.",
+     "ipa": "/dɪˈmɪnɪʃ/",
+     "zh": "减少；降低；减弱",
+     "ja": "減少する；弱まる",
+     "ex": "Demand for printed catalogs has diminished steadily over the past decade.",
+     "ex_zh": "过去十年里，纸质商品目录的需求持续下降。",
+     "ex_ja": "紙のカタログの需要はこの 10 年で着実に減ってきました。",
+     "parts": [
+      [
+       "di-",
+       "向下；完全（de-）",
+       "下へ；完全に（de-）"
+      ],
+      [
+       "min",
+       "小（minor / minimus）",
+       "小さい（minor / minimus）"
+      ],
+      [
+       "-ish",
+       "动词词尾",
+       "動詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 deminuere“使变小”，并与旧词 minish“减少”混合而成。",
+      "ja": "ラテン語 deminuere「小さくする」に、古い語 minish「減らす」が混ざってできた語。"
+     },
+     "forms": [
+      [
+       "diminishing returns",
+       "收益递减",
+       "収穫逓減"
+      ],
+      [
+       "decrease",
+       "减少（同义）",
+       "減少する（同義）"
+      ]
+     ],
+     "hl": "diminished"
+    },
+    {
+     "w": "minute",
+     "pos": "adj.",
+     "ipa": "/maɪˈnut/",
+     "zh": "极小的；细微的；详细的",
+     "ja": "ごく小さな；細かい；詳細な",
+     "ex": "The inspector checked every minute detail of the contract.",
+     "ex_zh": "检查员仔细核对了合同中的每一个细节。",
+     "ex_ja": "検査官は契約書の細部まで一つ一つ確認しました。",
+     "parts": [
+      [
+       "min",
+       "小（minor / minimus）",
+       "小さい（minor / minimus）"
+      ],
+      [
+       "-ute",
+       "过去分词词尾（minutus）",
+       "過去分詞の語尾（minutus）"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 minutus“被弄小的”，来自 minuere“使变小”。表示“分钟”的 minute 也来自 pars minuta“细分的小部分”。",
+      "ja": "ラテン語 minutus「小さくされた」、minuere「小さくする」から。「分」の minute も pars minuta「細かく分けた部分」から。"
+     },
+     "forms": [
+      [
+       "minute details",
+       "细枝末节",
+       "細部"
+      ],
+      [
+       "minutes (n.)",
+       "会议记录 /ˈmɪnɪts/",
+       "議事録 /ˈmɪnɪts/"
+      ]
+     ],
+     "tip": {
+      "zh": "形容词读 /maɪˈnut/，名词“分钟；会议记录”读 /ˈmɪnɪt/，听力要分清。",
+      "ja": "形容詞は /maɪˈnut/、名詞「分；議事録」は /ˈmɪnɪt/。聞き分けに注意。"
+     }
+    },
+    {
+     "w": "minus",
+     "pos": "prep./n.",
+     "ipa": "/ˈmaɪnəs/",
+     "zh": "减去；负数；缺点",
+     "ja": "〜を引いた；マイナス；欠点",
+     "ex": "The final price is 480 dollars minus a ten percent loyalty discount.",
+     "ex_zh": "最终价格是 480 美元减去 10% 的会员折扣。",
+     "ex_ja": "最終価格は 480 ドルから会員割引 10％を引いた額です。",
+     "parts": [
+      [
+       "min",
+       "小（minor / minimus）",
+       "小さい（minor / minimus）"
+      ],
+      [
+       "-us",
+       "中性比较级词尾（拉丁语）",
+       "中性比較級の語尾（ラテン語）"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 minus“更少”，minor 的中性形。",
+      "ja": "ラテン語 minus「より少なく」、minor の中性形。"
+     },
+     "forms": [
+      [
+       "plus or minus",
+       "正负；上下浮动",
+       "プラスマイナス"
+      ],
+      [
+       "pluses and minuses",
+       "优缺点",
+       "長所と短所"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "party",
+   "title_zh": "主题：公司活动与庆典",
+   "title_ja": "テーマ：社内行事と祝賀会",
+   "words": [
+    {
+     "w": "retirement",
+     "pos": "n.",
+     "ipa": "/rɪˈtaɪɚmənt/",
+     "zh": "退休；退职",
+     "ja": "退職；引退",
+     "ex": "A party will be held on Friday to celebrate Mr. Okada's retirement after 30 years with the company.",
+     "ex_zh": "周五将举办聚会，庆祝冈田先生在公司工作 30 年后光荣退休。",
+     "ex_ja": "勤続 30 年の岡田さんの退職を祝うパーティーが金曜日に開かれます。",
+     "parts": [
+      [
+       "re-",
+       "往回",
+       "後ろへ"
+      ],
+      [
+       "tire",
+       "拉（古法语 tirer）",
+       "引く（古フランス語 tirer）"
+      ],
+      [
+       "-ment",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "法语 retirer“撤回、退下”。⚠️ 这里的 tire 是古法语“拉”，与 tired（累）无关。",
+      "ja": "フランス語 retirer「引き下がる」。⚠️ この tire は古フランス語「引く」で、tired（疲れた）とは無関係。"
+     },
+     "forms": [
+      [
+       "retirement party",
+       "退休欢送会",
+       "退職祝いの会"
+      ],
+      [
+       "retire (v.)",
+       "退休",
+       "引退する"
+      ],
+      [
+       "retirement plan",
+       "退休金计划",
+       "退職金制度"
+      ]
+     ]
+    },
+    {
+     "w": "retiree",
+     "pos": "n.",
+     "ipa": "/rɪˌtaɪˈri/",
+     "zh": "退休人员",
+     "ja": "退職者",
+     "ex": "Several retirees returned to share their experiences with new employees.",
+     "ex_zh": "几位退休人员回来与新员工分享经验。",
+     "ex_ja": "数人の退職者が戻ってきて新入社員に経験を語りました。",
+     "parts": [
+      [
+       "re-",
+       "往回",
+       "後ろへ"
+      ],
+      [
+       "tire",
+       "拉（古法语 tirer）",
+       "引く（古フランス語 tirer）"
+      ],
+      [
+       "-ee",
+       "表示人（被动/状态）",
+       "〜する人・される人"
+      ]
+     ],
+     "note": {
+      "zh": "retire + -ee。",
+      "ja": "retire + -ee。"
+     },
+     "forms": [
+      [
+       "company retirees",
+       "公司退休员工",
+       "会社の OB・OG"
+      ],
+      [
+       "retired (adj.)",
+       "已退休的",
+       "引退した"
+      ]
+     ],
+     "hl": "retirees"
+    },
+    {
+     "w": "farewell",
+     "pos": "n./adj.",
+     "ipa": "/ˌfɛrˈwɛl/",
+     "zh": "告别；欢送（的）",
+     "ja": "別れ；送別（の）",
+     "ex": "The team organized a farewell lunch for Ms. Rivera before her move to Singapore.",
+     "ex_zh": "团队在里维拉女士调往新加坡前为她办了一场欢送午宴。",
+     "ex_ja": "チームはリベラさんのシンガポール異動前に送別ランチを開きました。",
+     "parts": [
+      [
+       "fare",
+       "走；旅行（古英语 faran）",
+       "行く；旅する（古英語 faran）"
+      ],
+      [
+       "well",
+       "好",
+       "よく"
+      ]
+     ],
+     "note": {
+      "zh": "来自 fare well“一路走好”；fare 与 airfare 的 fare 同源。",
+      "ja": "fare well「無事に旅をせよ」から。fare は airfare の fare と同語源。"
+     },
+     "forms": [
+      [
+       "farewell party",
+       "欢送会",
+       "送別会"
+      ],
+      [
+       "bid farewell to ...",
+       "向……告别",
+       "〜に別れを告げる"
+      ]
+     ]
+    },
+    {
+     "w": "toast",
+     "pos": "n./v.",
+     "ipa": "/toʊst/",
+     "zh": "祝酒；干杯；吐司",
+     "ja": "乾杯；乾杯する；トースト",
+     "ex": "The CEO raised a toast to the success of the new product line.",
+     "ex_zh": "首席执行官举杯祝新产品线大获成功。",
+     "ex_ja": "CEO は新製品ラインの成功を祝して乾杯の音頭を取りました。",
+     "parts": [],
+     "note": {
+      "zh": "经古法语 toster“烤”而来；“祝酒”义据说源于在酒里放烤面包片的习俗。没有可靠的词根拆分。",
+      "ja": "古フランス語 toster「焼く」から。「乾杯」の意味は酒に焼いたパンを入れた習慣に由来するといわれる。信頼できる語根分解はない。"
+     },
+     "forms": [
+      [
+       "propose a toast",
+       "提议干杯",
+       "乾杯の音頭を取る"
+      ],
+      [
+       "a toast to ...",
+       "为……干杯",
+       "〜に乾杯"
+      ]
+     ]
+    },
+    {
+     "w": "commemorate",
+     "pos": "v.",
+     "ipa": "/kəˈmɛməˌreɪt/",
+     "zh": "纪念",
+     "ja": "記念する",
+     "ex": "The company will commemorate its 50th anniversary with a gala dinner.",
+     "ex_zh": "公司将以一场盛大晚宴纪念成立 50 周年。",
+     "ex_ja": "会社は創立 50 周年を祝賀ディナーで記念します。",
+     "parts": [
+      [
+       "com-",
+       "一起；完全",
+       "共に；完全に"
+      ],
+      [
+       "memor",
+       "记住（memor）",
+       "記憶する（memor）"
+      ],
+      [
+       "-ate",
+       "动词后缀",
+       "動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 commemorare“使人一起记住”。",
+      "ja": "ラテン語 commemorare「皆で思い起こす」。"
+     },
+     "forms": [
+      [
+       "commemorative (adj.)",
+       "纪念性的",
+       "記念の"
+      ],
+      [
+       "commemoration (n.)",
+       "纪念活动",
+       "記念式典"
+      ]
+     ]
+    },
+    {
+     "w": "emcee",
+     "pos": "n./v.",
+     "ipa": "/ˌɛmˈsi/",
+     "zh": "司仪；主持人；担任司仪",
+     "ja": "司会者；司会を務める",
+     "ex": "Ms. Tanaka will serve as the emcee for this year's awards banquet.",
+     "ex_zh": "田中女士将担任今年颁奖宴会的司仪。",
+     "ex_ja": "田中さんが今年の表彰晩餐会の司会を務めます。",
+     "parts": [
+      [
+       "em",
+       "M（master 的首字母）",
+       "M（master の頭文字）"
+      ],
+      [
+       "cee",
+       "C（ceremonies 的首字母）",
+       "C（ceremonies の頭文字）"
+      ]
+     ],
+     "note": {
+      "zh": "来自 MC = master of ceremonies（司仪）的读音拼写。",
+      "ja": "MC = master of ceremonies（司会者）の発音をつづったもの。"
+     },
+     "forms": [
+      [
+       "master of ceremonies (MC)",
+       "司仪",
+       "司会者"
+      ],
+      [
+       "host",
+       "主持人（同义）",
+       "司会者（同義）"
+      ]
+     ],
+     "tip": {
+      "zh": "emcee 就是 MC，读 /ˌɛmˈsi/，Part 4 活动介绍常见。",
+      "ja": "emcee は MC のこと。発音は /ˌɛmˈsi/。Part 4 のイベント紹介で出る。"
+     }
+    },
+    {
+     "w": "honoree",
+     "pos": "n.",
+     "ipa": "/ˌɑnəˈri/",
+     "zh": "受表彰者；获奖人",
+     "ja": "受賞者；表彰される人",
+     "ex": "Each honoree will receive a certificate and a gift card.",
+     "ex_zh": "每位受表彰者将获得一张证书和一张礼品卡。",
+     "ex_ja": "受賞者にはそれぞれ賞状とギフトカードが贈られます。",
+     "parts": [
+      [
+       "honor",
+       "荣誉（honor）",
+       "名誉（honor）"
+      ],
+      [
+       "-ee",
+       "表示人（被……者）",
+       "〜される人"
+      ]
+     ],
+     "note": {
+      "zh": "honor + -ee“被授予荣誉的人”。",
+      "ja": "honor + -ee「栄誉を受ける人」。"
+     },
+     "forms": [
+      [
+       "honor (v.)",
+       "表彰；给予荣誉",
+       "表彰する"
+      ],
+      [
+       "award recipient",
+       "获奖者（同义）",
+       "受賞者（同義）"
+      ]
+     ]
+    },
+    {
+     "w": "plaque",
+     "pos": "n.",
+     "ipa": "/plæk/",
+     "zh": "纪念牌；奖牌；牌匾",
+     "ja": "記念の盾；銘板；プレート",
+     "ex": "A bronze plaque near the entrance lists the names of the building's founders.",
+     "ex_zh": "入口附近的一块铜牌刻着这栋楼创建者的名字。",
+     "ex_ja": "入口近くの銅板に建物の創設者の名前が刻まれています。",
+     "parts": [],
+     "note": {
+      "zh": "法语 plaque“金属薄板”，来自中古荷兰语。没有可靠的词根拆分。",
+      "ja": "フランス語 plaque「金属の薄板」、中世オランダ語から。信頼できる語根分解はない。"
+     },
+     "forms": [
+      [
+       "commemorative plaque",
+       "纪念牌",
+       "記念プレート"
+      ],
+      [
+       "be presented with a plaque",
+       "获颁奖牌",
+       "記念の盾を贈られる"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1 常见：A plaque is mounted on the wall.（墙上挂着牌匾）",
+      "ja": "Part 1 頻出：A plaque is mounted on the wall.（壁にプレートが取り付けられている）"
+     }
+    },
+    {
+     "w": "gala",
+     "pos": "n./adj.",
+     "ipa": "/ˈɡeɪlə/",
+     "zh": "盛会；庆典晚会",
+     "ja": "祝賀会；ガラ",
+     "ex": "Tickets for the charity gala sold out within two days.",
+     "ex_zh": "慈善晚会的门票两天内就售罄了。",
+     "ex_ja": "チャリティーガラのチケットは 2 日で売り切れました。",
+     "parts": [],
+     "note": {
+      "zh": "经法语、意大利语 gala“节日盛装”而来。没有可靠的词根拆分。",
+      "ja": "フランス語・イタリア語 gala「祝祭の晴れ着」から。信頼できる語根分解はない。"
+     },
+     "forms": [
+      [
+       "gala dinner",
+       "庆典晚宴",
+       "祝賀ディナー"
+      ],
+      [
+       "charity gala",
+       "慈善晚会",
+       "チャリティー祝賀会"
+      ]
+     ]
+    },
+    {
+     "w": "festivities",
+     "pos": "n.",
+     "ipa": "/fɛˈstɪvətiz/",
+     "zh": "庆祝活动；喜庆活动",
+     "ja": "祝賀行事；お祭り騒ぎ",
+     "ex": "The festivities will begin at 6 P.M. with a welcome speech by the president.",
+     "ex_zh": "庆祝活动将于下午 6 点以总裁致欢迎辞开始。",
+     "ex_ja": "祝賀行事は午後 6 時、社長の歓迎の挨拶で始まります。",
+     "parts": [
+      [
+       "fest",
+       "节日（festum）",
+       "祭り（festum）"
+      ],
+      [
+       "-ive",
+       "形容词后缀",
+       "形容詞を作る"
+      ],
+      [
+       "-ity",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "festive“节日的” + -ity，通常用复数。",
+      "ja": "festive「祭りの」+ -ity。通常は複数形。"
+     },
+     "forms": [
+      [
+       "festive (adj.)",
+       "节日的",
+       "お祭り気分の"
+      ],
+      [
+       "festival",
+       "节日；节庆",
+       "祭り"
+      ]
+     ]
+    },
+    {
+     "w": "attire",
+     "pos": "n.",
+     "ipa": "/əˈtaɪɚ/",
+     "zh": "服装；衣着",
+     "ja": "服装；装い",
+     "ex": "Business attire is required for the awards dinner.",
+     "ex_zh": "颁奖晚宴要求穿商务正装。",
+     "ex_ja": "表彰ディナーにはビジネス服装が必要です。",
+     "parts": [],
+     "note": {
+      "zh": "古法语 atirier“整理、打扮”。没有可靠的词根拆分。",
+      "ja": "古フランス語 atirier「整える・装う」。信頼できる語根分解はない。"
+     },
+     "forms": [
+      [
+       "business attire",
+       "商务正装",
+       "ビジネス服装"
+      ],
+      [
+       "casual attire",
+       "便装",
+       "カジュアルな服装"
+      ]
+     ],
+     "tip": {
+      "zh": "attire 是不可数名词，邀请函 dress code 常见。",
+      "ja": "attire は不可算名詞。招待状のドレスコードで頻出。"
+     }
+    },
+    {
+     "w": "refreshments",
+     "pos": "n.",
+     "ipa": "/rɪˈfrɛʃmənts/",
+     "zh": "茶点；点心饮料",
+     "ja": "軽食；飲み物",
+     "ex": "Light refreshments will be served after the awards ceremony.",
+     "ex_zh": "颁奖仪式后将提供简单茶点。",
+     "ex_ja": "表彰式の後に軽食が出されます。",
+     "parts": [
+      [
+       "re-",
+       "再；重新",
+       "再び"
+      ],
+      [
+       "fresh",
+       "新鲜的",
+       "新鮮な"
+      ],
+      [
+       "-ment",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "refresh“使恢复精神” + -ment。",
+      "ja": "refresh「元気を回復させる」+ -ment。"
+     },
+     "forms": [
+      [
+       "light refreshments",
+       "简单茶点",
+       "軽食"
+      ],
+      [
+       "refresh (v.)",
+       "使恢复精神；刷新",
+       "元気づける；更新する"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 4 活动广播：Refreshments will be served in the lobby.",
+      "ja": "Part 4 のイベント案内：Refreshments will be served in the lobby."
+     }
+    },
+    {
+     "w": "luncheon",
+     "pos": "n.",
+     "ipa": "/ˈlʌntʃən/",
+     "zh": "午宴；正式午餐会",
+     "ja": "昼食会",
+     "ex": "The annual awards luncheon will take place at the Grand Harbor Hotel.",
+     "ex_zh": "年度颁奖午宴将在格兰德港湾酒店举行。",
+     "ex_ja": "年次表彰昼食会はグランドハーバーホテルで行われます。",
+     "parts": [],
+     "note": {
+      "zh": "与 lunch 有关，确切来源不明。没有可靠的词根拆分。",
+      "ja": "lunch と関係があるが正確な語源は不明。信頼できる語根分解はない。"
+     },
+     "forms": [
+      [
+       "awards luncheon",
+       "颁奖午宴",
+       "表彰昼食会"
+      ],
+      [
+       "business luncheon",
+       "商务午餐会",
+       "ビジネス昼食会"
+      ]
+     ]
+    },
+    {
+     "w": "distinguished",
+     "pos": "adj.",
+     "ipa": "/dɪˈstɪŋɡwɪʃt/",
+     "zh": "杰出的；尊贵的；著名的",
+     "ja": "著名な；優れた；高貴な",
+     "ex": "Please join us in welcoming our distinguished guests from the Kyoto Chamber of Commerce.",
+     "ex_zh": "让我们一起欢迎来自京都商工会议所的各位贵宾。",
+     "ex_ja": "京都商工会議所からお越しの来賓の皆様をお迎えください。",
+     "parts": [
+      [
+       "di-",
+       "分开（dis-）",
+       "離して（dis-）"
+      ],
+      [
+       "sting",
+       "刺；标记（stinguere）",
+       "突く；印をつける（stinguere）"
+      ],
+      [
+       "-uish",
+       "动词词尾",
+       "動詞語尾"
+      ],
+      [
+       "-ed",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "distinguish“区分” + -ed；来自拉丁语 distinguere“加记号分开”。",
+      "ja": "distinguish「区別する」+ -ed。ラテン語 distinguere「印をつけて分ける」から。"
+     },
+     "forms": [
+      [
+       "distinguished guests",
+       "贵宾",
+       "来賓"
+      ],
+      [
+       "distinguish A from B",
+       "区分 A 与 B",
+       "A と B を区別する"
+      ],
+      [
+       "distinguished career",
+       "卓越的职业生涯",
+       "輝かしい経歴"
+      ]
+     ],
+     "tip": {
+      "zh": "颁奖/欢迎致辞固定说法：our distinguished guests。",
+      "ja": "表彰式・歓迎の挨拶の決まり文句：our distinguished guests。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "phone",
+   "title_zh": "主题：电话留言与预约变更",
+   "title_ja": "テーマ：電話・伝言と予約変更",
+   "words": [
+    {
+     "w": "voicemail",
+     "pos": "n.",
+     "ipa": "/ˈvɔɪsˌmeɪl/",
+     "zh": "语音信箱；语音留言",
+     "ja": "留守番電話；音声メッセージ",
+     "ex": "If no one answers, please leave a voicemail with your name and number.",
+     "ex_zh": "如果没人接，请留言并说明您的姓名和电话号码。",
+     "ex_ja": "誰も出なければ、名前と番号を留守電に残してください。",
+     "parts": [
+      [
+       "voice",
+       "声音",
+       "声"
+      ],
+      [
+       "mail",
+       "邮件",
+       "郵便"
+      ]
+     ],
+     "note": {
+      "zh": "复合词 voice + mail“语音邮件”。",
+      "ja": "複合語 voice + mail「音声の郵便」。"
+     },
+     "forms": [
+      [
+       "leave a voicemail",
+       "语音留言",
+       "留守電を残す"
+      ],
+      [
+       "check voicemail",
+       "查听留言",
+       "留守電を確認する"
+      ]
+     ]
+    },
+    {
+     "w": "receptionist",
+     "pos": "n.",
+     "ipa": "/rɪˈsɛpʃənɪst/",
+     "zh": "前台接待员",
+     "ja": "受付係",
+     "ex": "The receptionist will give you a visitor badge when you arrive.",
+     "ex_zh": "您到达时前台会给您一张访客证。",
+     "ex_ja": "到着されると受付係が来客用バッジをお渡しします。",
+     "parts": [
+      [
+       "re-",
+       "往回",
+       "戻して"
+      ],
+      [
+       "cept",
+       "拿；接受（Day 4 词根）",
+       "取る；受ける（Day 4 の語根）"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ],
+      [
+       "-ist",
+       "表示人",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "reception“接待” + -ist；来自拉丁语 recipere“接收”。",
+      "ja": "reception「受付」+ -ist。ラテン語 recipere「受け取る」から。"
+     },
+     "forms": [
+      [
+       "reception desk",
+       "前台",
+       "受付"
+      ],
+      [
+       "front desk clerk",
+       "前台人员（同义）",
+       "フロント係（同義）"
+      ]
+     ]
+    },
+    {
+     "w": "dial",
+     "pos": "v./n.",
+     "ipa": "/ˈdaɪəl/",
+     "zh": "拨（号码）；表盘；刻度盘",
+     "ja": "（番号を）回す・押す；文字盤",
+     "ex": "To reach the sales department, dial 2 after the tone.",
+     "ex_zh": "联系销售部请在提示音后按 2。",
+     "ex_ja": "営業部へは発信音の後に 2 を押してください。",
+     "parts": [
+      [
+       "di",
+       "日；天（dies）",
+       "日（dies）"
+      ],
+      [
+       "-al",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "中世纪拉丁语 dialis“每天的”（日晷的刻度盘），来自 dies“日”。",
+      "ja": "中世ラテン語 dialis「毎日の」（日時計の文字盤）、dies「日」から。"
+     },
+     "forms": [
+      [
+       "dial a number",
+       "拨号",
+       "番号をダイヤルする"
+      ],
+      [
+       "dial tone",
+       "拨号音",
+       "発信音"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 4 自动语音：Please dial extension 305.",
+      "ja": "Part 4 の自動音声：Please dial extension 305."
+     }
+    },
+    {
+     "w": "callback",
+     "pos": "n.",
+     "ipa": "/ˈkɔlˌbæk/",
+     "zh": "回电；复试通知",
+     "ja": "折り返しの電話；二次面接の連絡",
+     "ex": "Please leave your number, and we will arrange a callback within one business day.",
+     "ex_zh": "请留下电话号码，我们会在一个工作日内回电。",
+     "ex_ja": "番号を残していただければ 1 営業日以内に折り返しお電話します。",
+     "parts": [
+      [
+       "call",
+       "打电话",
+       "電話する"
+      ],
+      [
+       "back",
+       "回",
+       "戻って"
+      ]
+     ],
+     "note": {
+      "zh": "来自短语 call back“回电话”。",
+      "ja": "句動詞 call back「折り返し電話する」から。"
+     },
+     "forms": [
+      [
+       "call back (phr. v.)",
+       "回电话",
+       "折り返し電話する"
+      ],
+      [
+       "return a call",
+       "回电",
+       "電話を折り返す"
+      ]
+     ]
+    },
+    {
+     "w": "transfer",
+     "pos": "v./n.",
+     "ipa": "/trænsˈfɝ/",
+     "zh": "转接；调动；转账；换乘",
+     "ja": "（電話を）つなぐ；異動させる；振り込み；乗り換え",
+     "ex": "Please hold while I transfer your call to the billing department.",
+     "ex_zh": "请稍等，我把您的电话转到账务部。",
+     "ex_ja": "請求担当部署におつなぎしますので、そのままお待ちください。",
+     "parts": [
+      [
+       "trans-",
+       "越过",
+       "越えて"
+      ],
+      [
+       "fer",
+       "搬运（Day 3 词根）",
+       "運ぶ（Day 3 の語根）"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 transferre“搬到另一边”。",
+      "ja": "ラテン語 transferre「向こう側へ運ぶ」。"
+     },
+     "forms": [
+      [
+       "transfer A to B",
+       "把 A 转到 B",
+       "A を B につなぐ／異動させる"
+      ],
+      [
+       "bank transfer",
+       "银行转账",
+       "銀行振込"
+      ]
+     ],
+     "tip": {
+      "zh": "动词重音在后 /trænsˈfɝ/，名词重音在前 /ˈtrænsfɚ/。",
+      "ja": "動詞は後ろにアクセント /trænsˈfɝ/、名詞は前 /ˈtrænsfɚ/。"
+     }
+    },
+    {
+     "w": "reschedule",
+     "pos": "v.",
+     "ipa": "/riˈskɛdʒul/",
+     "zh": "重新安排时间；改期",
+     "ja": "日程を変更する",
+     "ex": "Could we reschedule our meeting to Thursday afternoon?",
+     "ex_zh": "我们能把会议改到周四下午吗？",
+     "ex_ja": "会議を木曜日の午後に変更できますか。",
+     "parts": [
+      [
+       "re-",
+       "再；重新",
+       "再び"
+      ],
+      [
+       "schedule",
+       "日程（schedula）",
+       "予定（schedula）"
+      ]
+     ],
+     "note": {
+      "zh": "re- + schedule；schedule 来自晚期拉丁语 schedula“小纸片”。",
+      "ja": "re- + schedule。schedule は後期ラテン語 schedula「小さな紙片」から。"
+     },
+     "forms": [
+      [
+       "reschedule A for / to ...",
+       "把 A 改到……",
+       "A を〜に変更する"
+      ],
+      [
+       "schedule (n./v.)",
+       "日程；安排",
+       "予定；予定を組む"
+      ]
+     ]
+    },
+    {
+     "w": "appointment",
+     "pos": "n.",
+     "ipa": "/əˈpɔɪntmənt/",
+     "zh": "预约；约会；任命",
+     "ja": "予約；約束；任命",
+     "ex": "I'd like to make an appointment with Dr. Hayashi for next Tuesday.",
+     "ex_zh": "我想预约林医生下周二的时间。",
+     "ex_ja": "来週火曜日に林先生の予約を取りたいのですが。",
+     "parts": [
+      [
+       "ap-",
+       "向（ad- 的同化形）",
+       "〜へ（ad- の同化形）"
+      ],
+      [
+       "point",
+       "点",
+       "点"
+      ],
+      [
+       "-ment",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 apointer“约定（到某一点）”。",
+      "ja": "古フランス語 apointer「（ある点に）取り決める」。"
+     },
+     "forms": [
+      [
+       "make an appointment",
+       "预约",
+       "予約を取る"
+      ],
+      [
+       "by appointment only",
+       "仅限预约",
+       "予約制"
+      ]
+     ],
+     "tip": {
+      "zh": "医院、牙科、理发店的 Part 3 对话高频；appointment 也可指“任命”。",
+      "ja": "病院・歯科・美容院の Part 3 で頻出。appointment は「任命」の意味もある。"
+     }
+    },
+    {
+     "w": "confirmation",
+     "pos": "n.",
+     "ipa": "/ˌkɑnfɚˈmeɪʃən/",
+     "zh": "确认；确认函",
+     "ja": "確認；確認書",
+     "ex": "You will receive a confirmation e-mail once your booking is complete.",
+     "ex_zh": "预订完成后您会收到确认邮件。",
+     "ex_ja": "予約が完了すると確認メールが届きます。",
+     "parts": [
+      [
+       "con-",
+       "完全（加强）",
+       "完全に（強意）"
+      ],
+      [
+       "firm",
+       "坚固的（firmus）",
+       "堅い（firmus）"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 confirmare“使牢固”。",
+      "ja": "ラテン語 confirmare「固める」。"
+     },
+     "forms": [
+      [
+       "confirmation number",
+       "确认号",
+       "確認番号"
+      ],
+      [
+       "confirm (v.)",
+       "确认",
+       "確認する"
+      ]
+     ]
+    },
+    {
+     "w": "unavailable",
+     "pos": "adj.",
+     "ipa": "/ˌʌnəˈveɪləbəl/",
+     "zh": "没空的；无法接听的；无法获得的",
+     "ja": "手が離せない；不在の；入手できない",
+     "ex": "Mr. Chen is unavailable at the moment, but I can take a message.",
+     "ex_zh": "陈先生现在不方便接电话，我可以帮您留言。",
+     "ex_ja": "チェンはただいま席を外しておりますが、ご伝言を承ります。",
+     "parts": [
+      [
+       "un-",
+       "不",
+       "不"
+      ],
+      [
+       "a-",
+       "向（ad-）",
+       "〜へ（ad-）"
+      ],
+      [
+       "vail",
+       "有价值；有用（Day 10 词根）",
+       "価値がある；役に立つ（Day 10 の語根）"
+      ],
+      [
+       "-able",
+       "能……的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "un- + available；avail 来自拉丁语 valere“有力、有价值”。",
+      "ja": "un- + available。avail はラテン語 valere「力がある・価値がある」から。"
+     },
+     "forms": [
+      [
+       "take a message",
+       "代为留言",
+       "伝言を承る"
+      ],
+      [
+       "available (adj.)",
+       "有空的；可获得的",
+       "手が空いている；入手可能な"
+      ],
+      [
+       "availability (n.)",
+       "空闲时间；供应情况",
+       "都合；在庫状況"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 3 电话开场：He's unavailable right now. = He's not available.",
+      "ja": "Part 3 の電話の冒頭：He's unavailable right now. = He's not available."
+     }
+    },
+    {
+     "w": "mute",
+     "pos": "v./adj.",
+     "ipa": "/mjut/",
+     "zh": "静音；使无声；无声的",
+     "ja": "ミュートにする；消音する；無言の",
+     "ex": "Please mute your microphone when you are not speaking during the call.",
+     "ex_zh": "通话中不发言时请把麦克风静音。",
+     "ex_ja": "通話中、発言しないときはマイクをミュートにしてください。",
+     "parts": [],
+     "note": {
+      "zh": "经古法语来自拉丁语 mutus“哑的、无声的”。没有可靠的词根拆分。",
+      "ja": "古フランス語経由でラテン語 mutus「口のきけない・無言の」から。信頼できる語根分解はない。"
+     },
+     "forms": [
+      [
+       "mute button",
+       "静音键",
+       "ミュートボタン"
+      ],
+      [
+       "unmute (v.)",
+       "取消静音",
+       "ミュートを解除する"
+      ],
+      [
+       "on mute",
+       "处于静音状态",
+       "ミュート中で"
+      ]
+     ],
+     "tip": {
+      "zh": "远程会议常听到：You're on mute.（你开着静音）",
+      "ja": "オンライン会議の定番：You're on mute.（ミュートになっていますよ）"
+     }
+    },
+    {
+     "w": "caller",
+     "pos": "n.",
+     "ipa": "/ˈkɔlɚ/",
+     "zh": "打电话的人；来访者",
+     "ja": "電話をかけてくる人；訪問者",
+     "ex": "Callers are asked to have their account number ready.",
+     "ex_zh": "请来电者准备好账户号码。",
+     "ex_ja": "お電話の際はお客様番号をご用意ください。",
+     "parts": [
+      [
+       "call",
+       "打电话",
+       "電話する"
+      ],
+      [
+       "-er",
+       "表示人",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "call + -er。",
+      "ja": "call + -er。"
+     },
+     "forms": [
+      [
+       "the caller",
+       "来电者",
+       "電話をかけた人"
+      ],
+      [
+       "anonymous caller",
+       "匿名来电者",
+       "匿名の電話主"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 4 问题常问 Who most likely is the caller?",
+      "ja": "Part 4 では Who most likely is the caller? がよく問われる。"
+     },
+     "hl": "Callers"
+    },
+    {
+     "w": "automated",
+     "pos": "adj.",
+     "ipa": "/ˈɔtəˌmeɪtɪd/",
+     "zh": "自动化的；自动的",
+     "ja": "自動化された；自動の",
+     "ex": "An automated message said that all of our representatives were busy.",
+     "ex_zh": "自动语音提示说所有客服人员都在忙。",
+     "ex_ja": "自動音声で、担当者が全員対応中だと案内されました。",
+     "parts": [
+      [
+       "auto",
+       "自己（希腊语 autos）",
+       "自分（ギリシャ語 autos）"
+      ],
+      [
+       "mat",
+       "自行动作（automatos）",
+       "自ら動く（automatos）"
+      ],
+      [
+       "-ed",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "automate + -ed；来自希腊语 automatos“自行动作的”。",
+      "ja": "automate + -ed。ギリシャ語 automatos「自ら動く」から。"
+     },
+     "forms": [
+      [
+       "automated message",
+       "自动语音提示",
+       "自動音声メッセージ"
+      ],
+      [
+       "automation (n.)",
+       "自动化",
+       "自動化"
+      ]
+     ]
+    },
+    {
+     "w": "toll-free",
+     "pos": "adj.",
+     "ipa": "/ˌtoʊlˈfri/",
+     "zh": "免费（拨打）的",
+     "ja": "通話料無料の；フリーダイヤルの",
+     "ex": "For technical support, call our toll-free number at any time.",
+     "ex_zh": "如需技术支持，请随时拨打我们的免费电话。",
+     "ex_ja": "技術サポートはいつでも当社のフリーダイヤルにお電話ください。",
+     "parts": [
+      [
+       "toll",
+       "通行费；话费",
+       "通行料；通話料"
+      ],
+      [
+       "free",
+       "免费的",
+       "無料の"
+      ]
+     ],
+     "note": {
+      "zh": "复合词 toll“费用” + free“免费”。",
+      "ja": "複合語 toll「料金」+ free「無料」。"
+     },
+     "forms": [
+      [
+       "toll-free number",
+       "免费电话号码",
+       "フリーダイヤル番号"
+      ],
+      [
+       "toll road",
+       "收费公路",
+       "有料道路"
+      ]
+     ]
+    },
+    {
+     "w": "disconnect",
+     "pos": "v.",
+     "ipa": "/ˌdɪskəˈnɛkt/",
+     "zh": "断开；（电话）掉线；切断",
+     "ja": "切断する；（電話が）切れる",
+     "ex": "We were disconnected in the middle of the call, so I'm calling you back.",
+     "ex_zh": "我们通话中途断线了，所以我给您回拨过来。",
+     "ex_ja": "通話の途中で切れてしまったので、折り返しお電話しています。",
+     "parts": [
+      [
+       "dis-",
+       "分开；相反",
+       "離して；反対"
+      ],
+      [
+       "con-",
+       "一起",
+       "共に"
+      ],
+      [
+       "nect",
+       "绑；连接（nectere）",
+       "結ぶ（nectere）"
+      ]
+     ],
+     "note": {
+      "zh": "dis- + connect；connect 来自拉丁语 conectere“绑在一起”。",
+      "ja": "dis- + connect。connect はラテン語 conectere「結び合わせる」から。"
+     },
+     "forms": [
+      [
+       "get disconnected",
+       "掉线",
+       "電話が切れる"
+      ],
+      [
+       "connect (v.)",
+       "连接；接通",
+       "つなぐ"
+      ]
+     ],
+     "hl": "disconnected"
+    }
+   ]
+  }
+ ]
+}
