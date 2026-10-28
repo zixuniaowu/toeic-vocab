@@ -1,0 +1,2575 @@
+{
+ "day": 26,
+ "date": "2026-10-29",
+ "title_zh": "四大词根 + 清洁与保洁服务、保险理赔与损失报告",
+ "title_ja": "4つの語根＋清掃と清掃サービス、保険金請求と損害報告",
+ "intro_zh": "今天掌握 4 个高频词根（via 道路 / memor 记忆 / sci 知道 / vit·viv 生命），再学清洁与保洁服务、保险理赔与损失报告的核心词——强化 Part 5 易混词（conscious ≠ conscience ≠ conscientious、negligent ≠ negligible、remember to do ↔ remember doing、survive 不加 from），Part 1 场景（is mopping the floor、is sweeping with a broom、is wiping the counter、is polishing the glass、items on a conveyor belt），Part 4 酒店广播（call housekeeping）以及 Part 7 的内部备忘录、索赔流程通知和拒赔信。",
+ "intro_ja": "今日は語根 4 つ（via 道／memor 記憶／sci 知る／vit・viv 命）と、清掃と清掃サービス、保険金請求と損害報告の重要語を学びます。Part 5 の紛らわしい語（conscious ≠ conscience ≠ conscientious、negligent ≠ negligible、remember to do ↔ remember doing、survive に from は不要）、Part 1 の場面（is mopping the floor、is sweeping with a broom、is wiping the counter、is polishing the glass、items on a conveyor belt）、Part 4 のホテル案内（call housekeeping）、Part 7 の社内メモ・保険請求手続きのお知らせ・請求却下の通知を強化します。",
+ "voice": "en-US-AriaNeural",
+ "roots": [
+  {
+   "root": "-via- / -vey- / -voy-",
+   "origin": "Latin via",
+   "zh": "道路；经过",
+   "ja": "道；経由",
+   "exp_zh": "来自拉丁语 via（道路）。con-“一起”上路 → convey（护送 → 运送、传达）→ conveyor（传送带）；ob-“挡在面前”的路 → obvious（明显的）；pre-“走在前面” → previous（以前的）；de-“离开”道路 → deviate（偏离）；tri-“三岔路口”的闲谈 → trivial（琐碎的）；viaticum“旅费” → 古法语 voiage → voyage（航行）。英语里 via 本身也表示“经由”（via email）。⚠️ convey 的 vey、voyage 的 voy 都是 via 的变体；vivid、vital 属于 viv/vit“生命”，不是 via。",
+   "exp_ja": "ラテン語 via（道）から。con-「一緒に」道を行く → convey（護送 → 運ぶ・伝える）→ conveyor（コンベヤー）。ob-「目の前の」道 → obvious（明らかな）。pre-「前を行く」→ previous（以前の）。de-「道から外れる」→ deviate（逸脱する）。tri-「三叉路」での世間話 → trivial（ささいな）。viaticum「旅費」→ 古フランス語 voiage → voyage（航海）。英語の via 自体も「〜経由で」（via email）。⚠️ convey の vey、voyage の voy は via の変形。vivid・vital は「命」の viv／vit で別語源。",
+   "examples": [
+    "convey",
+    "conveyor",
+    "obvious",
+    "previous",
+    "previously",
+    "deviate",
+    "trivial",
+    "voyage"
+   ]
+  },
+  {
+   "root": "-memor- / -member-",
+   "origin": "Latin memor, memoria",
+   "zh": "记忆；记得",
+   "ja": "記憶；覚えている",
+   "exp_zh": "来自拉丁语 memor（记得的）、memoria（记忆）。memory（记忆）→ memorable（难忘的）、memorial（纪念碑）、memorize（背诵）；memorandum“应记住的事” → memo（备忘录）；com-“共同”记住 → commemorative（纪念的）；re-“再”想起 → 古法语 remembrer → remember（记得）→ remembrance（纪念）。⚠️ remember 里的 member 与“会员”member（拉丁语 membrum“肢体”）不同源。",
+   "exp_ja": "ラテン語 memor（覚えている）、memoria（記憶）から。memory（記憶）→ memorable（忘れられない）、memorial（記念碑）、memorize（暗記する）。memorandum「覚えておくべきこと」→ memo（社内メモ）。com-「共に」思い起こす → commemorative（記念の）。re-「再び」思い出す → 古フランス語 remembrer → remember → remembrance（追悼）。⚠️ remember の member と「会員」member（ラテン語 membrum「手足」）は別語源。",
+   "examples": [
+    "memory",
+    "memorable",
+    "memorial",
+    "memorize",
+    "memo",
+    "remember",
+    "commemorative",
+    "remembrance"
+   ]
+  },
+  {
+   "root": "-sci-",
+   "origin": "Latin scire, scientia",
+   "zh": "知道",
+   "ja": "知る",
+   "exp_zh": "来自拉丁语 scire（知道），scientia“知识” → science（科学）→ scientific（科学的）、scientist（科学家）；con-“共同/完全”知道 → conscius → conscious（意识到的）→ unconscious、consciousness（意识）；conscientia“内心知道是非” → conscience（良心）→ conscientious（尽责的）。⚠️ conscience（良心）≠ conscious（意识到的）≠ conscientious（认真的）是 Part 5 易混组；scissors、scenic 与 sci 无关。",
+   "exp_ja": "ラテン語 scire（知る）から。scientia「知識」→ science → scientific、scientist。con-「共に・完全に」知る → conscius → conscious（意識している）→ unconscious、consciousness（意識）。conscientia「善悪を内心で知ること」→ conscience（良心）→ conscientious（誠実な）。⚠️ conscience／conscious／conscientious は Part 5 の紛らわしい組。scissors・scenic は sci と無関係。",
+   "examples": [
+    "science",
+    "scientific",
+    "scientist",
+    "conscious",
+    "unconscious",
+    "conscience",
+    "conscientious",
+    "consciousness"
+   ]
+  },
+  {
+   "root": "-vit- / -viv-",
+   "origin": "Latin vita / vivere",
+   "zh": "生命；活",
+   "ja": "命；生きる",
+   "exp_zh": "来自拉丁语 vita（生命）和 vivere（活）。vitalis“生命的” → vital（至关重要的）→ vitality（活力）；vita + amine → vitamin（维生素）；re-“再”活 → revive（复苏）→ revival；sur-（super，超过）+ vivere → survive（幸存、挺过）→ survival；vividus“充满生命的” → vivid（鲜艳的）。⚠️ visit、vision 属于 vis“看”，invite 也与 vit 无关。",
+   "exp_ja": "ラテン語 vita（命）と vivere（生きる）から。vitalis「生命の」→ vital（極めて重要な）→ vitality（活力）。vita + amine → vitamin。re-「再び」生きる → revive（復活させる）→ revival。sur-（super「越えて」）+ vivere → survive（生き残る）→ survival。vividus「生気に満ちた」→ vivid（鮮やかな）。⚠️ visit・vision は「見る」の vis、invite も vit とは無関係。",
+   "examples": [
+    "vital",
+    "vitality",
+    "vitamin",
+    "revive",
+    "revival",
+    "survive",
+    "survival",
+    "vivid"
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "via",
+   "title_zh": "词根 -via- / -voy-：道路",
+   "title_ja": "語根 -via- / -voy-：道",
+   "words": [
+    {
+     "w": "convey",
+     "pos": "v.",
+     "ipa": "/kənˈveɪ/",
+     "zh": "传达；表达；运送",
+     "ja": "伝える；運ぶ",
+     "ex": "The memo conveys management's thanks to all staff for their hard work.",
+     "ex_zh": "这份备忘录向全体员工传达了管理层对辛勤工作的感谢。",
+     "ex_ja": "そのメモは、全社員の努力に対する経営陣の感謝を伝えています。",
+     "parts": [
+      [
+       "con-",
+       "一起",
+       "共に"
+      ],
+      [
+       "vey",
+       "道路（via）",
+       "道（via）"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 conviare“陪同上路”→ 古法语 conveier“护送”→“传送、传达”。",
+      "ja": "ラテン語 conviare「一緒に道を行く」→ 古フランス語 conveier「護送する」→「運ぶ・伝える」。"
+     },
+     "forms": [
+      [
+       "conveyance (n.)",
+       "运输；传达",
+       "運搬；伝達"
+      ],
+      [
+       "convey a message",
+       "传达信息",
+       "メッセージを伝える"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5：convey + 信息/感谢（convey one's gratitude），不说 convey sb. that。",
+      "ja": "Part 5：convey + 内容（convey one's gratitude）。convey 人 that とは言わない。"
+     }
+    },
+    {
+     "w": "conveyor",
+     "pos": "n.",
+     "ipa": "/kənˈveɪɚ/",
+     "zh": "传送带；运送装置",
+     "ja": "コンベヤー；運搬装置",
+     "ex": "Workers are placing boxes on the conveyor in the warehouse.",
+     "ex_zh": "工人们正在仓库里把箱子放到传送带上。",
+     "ex_ja": "作業員たちが倉庫でコンベヤーに箱を載せています。",
+     "parts": [
+      [
+       "con-",
+       "一起",
+       "共に"
+      ],
+      [
+       "vey",
+       "道路（via）",
+       "道（via）"
+      ],
+      [
+       "-or",
+       "表示物/人",
+       "〜するもの"
+      ]
+     ],
+     "note": {
+      "zh": "convey“运送”+ -or“……的东西”。",
+      "ja": "convey「運ぶ」+ -or「〜するもの」。"
+     },
+     "forms": [
+      [
+       "conveyor belt",
+       "传送带",
+       "ベルトコンベヤー"
+      ],
+      [
+       "baggage conveyor",
+       "行李传送带",
+       "手荷物コンベヤー"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1：Some items are on a conveyor belt“有些物品在传送带上”。",
+      "ja": "Part 1：Some items are on a conveyor belt「品物がベルトコンベヤーに載っている」。"
+     }
+    },
+    {
+     "w": "obvious",
+     "pos": "adj.",
+     "ipa": "/ˈɑbviəs/",
+     "zh": "明显的；显而易见的",
+     "ja": "明らかな；分かりきった",
+     "ex": "It was obvious that the team needed more time to finish the report.",
+     "ex_zh": "很明显，团队需要更多时间完成报告。",
+     "ex_ja": "チームが報告書を仕上げるのにもっと時間が必要なのは明らかでした。",
+     "parts": [
+      [
+       "ob-",
+       "在……前面",
+       "〜の前に"
+      ],
+      [
+       "vi",
+       "道路（via）",
+       "道（via）"
+      ],
+      [
+       "-ous",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 obvius“挡在路上的”→ 迎面就能看到 →“明显的”。",
+      "ja": "ラテン語 obvius「道の前にある」→ すぐ目に入る →「明らかな」。"
+     },
+     "forms": [
+      [
+       "obviously (adv.)",
+       "显然",
+       "明らかに"
+      ],
+      [
+       "an obvious choice",
+       "显而易见的选择",
+       "当然の選択"
+      ]
+     ]
+    },
+    {
+     "w": "previous",
+     "pos": "adj.",
+     "ipa": "/ˈpriviəs/",
+     "zh": "以前的；先前的",
+     "ja": "以前の；前の",
+     "ex": "The new manager has ten years of experience from her previous job.",
+     "ex_zh": "新经理在上一份工作中积累了十年经验。",
+     "ex_ja": "新しいマネージャーは前職で10年の経験があります。",
+     "parts": [
+      [
+       "pre-",
+       "在前",
+       "前に"
+      ],
+      [
+       "vi",
+       "道路（via）",
+       "道（via）"
+      ],
+      [
+       "-ous",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 praevius“走在前面的”。",
+      "ja": "ラテン語 praevius「前を行く」。"
+     },
+     "forms": [
+      [
+       "previous experience",
+       "以往经验",
+       "これまでの経験"
+      ],
+      [
+       "the previous day",
+       "前一天",
+       "前日"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7：previous experience is preferred“有相关经验者优先”。",
+      "ja": "Part 7：previous experience is preferred「経験者優遇」。"
+     }
+    },
+    {
+     "w": "previously",
+     "pos": "adv.",
+     "ipa": "/ˈpriviəsli/",
+     "zh": "以前；先前",
+     "ja": "以前に；前もって",
+     "ex": "As previously announced, the office will be closed on Monday.",
+     "ex_zh": "如之前通知的那样，办公室周一将关闭。",
+     "ex_ja": "以前お知らせした通り、月曜日は事務所を休業します。",
+     "parts": [
+      [
+       "pre-",
+       "在前",
+       "前に"
+      ],
+      [
+       "vi",
+       "道路（via）",
+       "道（via）"
+      ],
+      [
+       "-ous",
+       "形容词后缀",
+       "形容詞を作る"
+      ],
+      [
+       "-ly",
+       "副词后缀",
+       "副詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "previous + -ly。",
+      "ja": "previous + -ly。"
+     },
+     "forms": [
+      [
+       "as previously mentioned",
+       "如前所述",
+       "前述の通り"
+      ],
+      [
+       "previously scheduled",
+       "原定的",
+       "以前に予定された"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5：as previously announced / stated 是固定说法，填副词。",
+      "ja": "Part 5：as previously announced／stated は定型。副詞を選ぶ。"
+     }
+    },
+    {
+     "w": "deviate",
+     "pos": "v.",
+     "ipa": "/ˈdiviˌeɪt/",
+     "zh": "偏离；背离",
+     "ja": "逸脱する；それる",
+     "ex": "Please do not deviate from the approved budget without permission.",
+     "ex_zh": "未经许可请不要偏离已批准的预算。",
+     "ex_ja": "許可なく承認済みの予算から逸脱しないでください。",
+     "parts": [
+      [
+       "de-",
+       "离开",
+       "離れて"
+      ],
+      [
+       "vi",
+       "道路（via）",
+       "道（via）"
+      ],
+      [
+       "-ate",
+       "动词后缀",
+       "動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 deviare“离开道路”。",
+      "ja": "ラテン語 deviare「道から外れる」。"
+     },
+     "forms": [
+      [
+       "deviation (n.)",
+       "偏差；偏离",
+       "逸脱；偏差"
+      ],
+      [
+       "deviate from the plan",
+       "偏离计划",
+       "計画から外れる"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5：deviate 后接 from。",
+      "ja": "Part 5：deviate の後は from。"
+     }
+    },
+    {
+     "w": "trivial",
+     "pos": "adj.",
+     "ipa": "/ˈtrɪviəl/",
+     "zh": "琐碎的；不重要的",
+     "ja": "ささいな；取るに足らない",
+     "ex": "Let's not waste meeting time on trivial details.",
+     "ex_zh": "我们别把会议时间浪费在琐碎的细节上。",
+     "ex_ja": "ささいな細部に会議の時間を無駄にするのはやめましょう。",
+     "parts": [
+      [
+       "tri-",
+       "三",
+       "三つ"
+      ],
+      [
+       "vi",
+       "道路（via）",
+       "道（via）"
+      ],
+      [
+       "-al",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 trivium“三岔路口”→ 街头闲谈之处 →“平常的、琐碎的”。",
+      "ja": "ラテン語 trivium「三叉路」→ 世間話をする場所 →「ありふれた・ささいな」。"
+     },
+     "forms": [
+      [
+       "trivial matter",
+       "小事",
+       "ささいな事柄"
+      ],
+      [
+       "trivia (n.)",
+       "琐事；小知识",
+       "雑学"
+      ]
+     ]
+    },
+    {
+     "w": "voyage",
+     "pos": "n./v.",
+     "ipa": "/ˈvɔɪɪdʒ/",
+     "zh": "航行；航海；长途旅行",
+     "ja": "航海；船旅",
+     "ex": "Passengers can enjoy live music during the five-day voyage.",
+     "ex_zh": "在为期五天的航程中，乘客可以欣赏现场音乐。",
+     "ex_ja": "5日間の船旅の間、乗客は生演奏を楽しめます。",
+     "parts": [
+      [
+       "voy",
+       "道路（via）",
+       "道（via）"
+      ],
+      [
+       "-age",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 viaticum“旅费”→ 古法语 voiage“旅行”。",
+      "ja": "ラテン語 viaticum「旅費」→ 古フランス語 voiage「旅」。"
+     },
+     "forms": [
+      [
+       "maiden voyage",
+       "首航",
+       "処女航海"
+      ],
+      [
+       "voyager (n.)",
+       "航海者",
+       "航海者"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 4：cruise 广告常见 a seven-night voyage。",
+      "ja": "Part 4：クルーズ広告で a seven-night voyage がよく出る。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "memor",
+   "title_zh": "词根 -memor-：记忆",
+   "title_ja": "語根 -memor-：記憶",
+   "words": [
+    {
+     "w": "memory",
+     "pos": "n.",
+     "ipa": "/ˈmɛməri/",
+     "zh": "记忆；回忆；内存",
+     "ja": "記憶；思い出；メモリー",
+     "ex": "The tablet has enough memory to store thousands of photos.",
+     "ex_zh": "这台平板电脑有足够的存储空间保存数千张照片。",
+     "ex_ja": "そのタブレットには数千枚の写真を保存できるメモリーがあります。",
+     "parts": [
+      [
+       "memor",
+       "记忆（memor）",
+       "記憶（memor）"
+      ],
+      [
+       "-y",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 memoria“记忆”，来自 memor“记得的”。",
+      "ja": "ラテン語 memoria「記憶」。memor「覚えている」から。"
+     },
+     "forms": [
+      [
+       "in memory of",
+       "为纪念……",
+       "〜を記念して"
+      ],
+      [
+       "memory card",
+       "存储卡",
+       "メモリーカード"
+      ]
+     ]
+    },
+    {
+     "w": "memorable",
+     "pos": "adj.",
+     "ipa": "/ˈmɛmərəbəl/",
+     "zh": "难忘的；值得纪念的",
+     "ja": "忘れられない；記憶に残る",
+     "ex": "Our staff will make your wedding a memorable event.",
+     "ex_zh": "我们的员工会让您的婚礼成为难忘的盛事。",
+     "ex_ja": "当スタッフがあなたの結婚式を忘れられないものにします。",
+     "parts": [
+      [
+       "memor",
+       "记忆（memor）",
+       "記憶（memor）"
+      ],
+      [
+       "-able",
+       "可……的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 memorabilis“值得记住的”。",
+      "ja": "ラテン語 memorabilis「記憶に値する」。"
+     },
+     "forms": [
+      [
+       "a memorable experience",
+       "难忘的经历",
+       "忘れられない経験"
+      ],
+      [
+       "memorably (adv.)",
+       "令人难忘地",
+       "印象的に"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 4：广告常用 a memorable stay / evening。",
+      "ja": "Part 4：広告で a memorable stay／evening がよく出る。"
+     }
+    },
+    {
+     "w": "memorial",
+     "pos": "n./adj.",
+     "ipa": "/məˈmɔriəl/",
+     "zh": "纪念碑；纪念馆；纪念的",
+     "ja": "記念碑；記念館；記念の",
+     "ex": "Tourists are taking photos in front of the war memorial.",
+     "ex_zh": "游客们正在战争纪念碑前拍照。",
+     "ex_ja": "観光客が戦争記念碑の前で写真を撮っています。",
+     "parts": [
+      [
+       "memor",
+       "记忆（memor）",
+       "記憶（memor）"
+      ],
+      [
+       "-ial",
+       "形容词/名词后缀",
+       "形容詞・名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 memorialis“纪念的”。",
+      "ja": "ラテン語 memorialis「記念の」。"
+     },
+     "forms": [
+      [
+       "memorial service",
+       "追悼会",
+       "追悼式"
+      ],
+      [
+       "Memorial Day",
+       "阵亡将士纪念日",
+       "戦没将兵追悼記念日"
+      ]
+     ]
+    },
+    {
+     "w": "memorize",
+     "pos": "v.",
+     "ipa": "/ˈmɛməˌraɪz/",
+     "zh": "记住；背诵",
+     "ja": "暗記する；覚える",
+     "ex": "Employees must memorize the emergency exit routes.",
+     "ex_zh": "员工必须记住紧急出口路线。",
+     "ex_ja": "従業員は非常口への経路を暗記しなければなりません。",
+     "parts": [
+      [
+       "memor",
+       "记忆（memor）",
+       "記憶（memor）"
+      ],
+      [
+       "-ize",
+       "动词后缀",
+       "動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "memory + -ize“使……”。",
+      "ja": "memory + -ize「〜にする」。"
+     },
+     "forms": [
+      [
+       "memorize a speech",
+       "背演讲稿",
+       "スピーチを暗記する"
+      ],
+      [
+       "memorization (n.)",
+       "记忆；背诵",
+       "暗記"
+      ]
+     ]
+    },
+    {
+     "w": "memo",
+     "pos": "n.",
+     "ipa": "/ˈmɛmoʊ/",
+     "zh": "备忘录；内部通知",
+     "ja": "社内メモ；回覧",
+     "ex": "According to the memo, the meeting has been moved to Thursday.",
+     "ex_zh": "根据备忘录，会议已改到周四。",
+     "ex_ja": "メモによると、会議は木曜日に変更されました。",
+     "parts": [
+      [
+       "memo",
+       "记忆（memorandum 的缩写）",
+       "記憶（memorandum の短縮）"
+      ]
+     ],
+     "note": {
+      "zh": "memorandum“应记住的事”的缩写，来自拉丁语 memorare“提醒”。",
+      "ja": "memorandum「覚えておくべきこと」の短縮。ラテン語 memorare「思い出させる」から。"
+     },
+     "forms": [
+      [
+       "send a memo",
+       "发备忘录",
+       "メモを送る"
+      ],
+      [
+       "internal memo",
+       "内部通知",
+       "社内回覧"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7：文章类型题 What is the purpose of the memo? 很常见。",
+      "ja": "Part 7：What is the purpose of the memo? という目的問題が頻出。"
+     }
+    },
+    {
+     "w": "remember",
+     "pos": "v.",
+     "ipa": "/rɪˈmɛmbɚ/",
+     "zh": "记得；记住",
+     "ja": "覚えている；思い出す",
+     "ex": "Please remember to turn off the lights before you leave.",
+     "ex_zh": "离开前请记得关灯。",
+     "ex_ja": "帰る前に忘れずに電気を消してください。",
+     "parts": [
+      [
+       "re-",
+       "再",
+       "再び"
+      ],
+      [
+       "member",
+       "记忆（memor）",
+       "記憶（memor）"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 rememorari“再想起”→ 古法语 remembrer。",
+      "ja": "ラテン語 rememorari「再び思い出す」→ 古フランス語 remembrer。"
+     },
+     "forms": [
+      [
+       "remember to do",
+       "记得去做",
+       "忘れずに〜する"
+      ],
+      [
+       "remember doing",
+       "记得做过",
+       "〜したことを覚えている"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5：remember to do（未做）≠ remember doing（已做）。",
+      "ja": "Part 5：remember to do（これから）≠ remember doing（済み）。"
+     }
+    },
+    {
+     "w": "commemorative",
+     "pos": "adj.",
+     "ipa": "/kəˈmɛmərətɪv/",
+     "zh": "纪念的",
+     "ja": "記念の",
+     "ex": "Each guest received a commemorative mug at the anniversary party.",
+     "ex_zh": "每位来宾都在周年派对上获得了一个纪念杯。",
+     "ex_ja": "記念パーティーで各ゲストに記念マグカップが贈られました。",
+     "parts": [
+      [
+       "com-",
+       "一起；完全",
+       "共に；完全に"
+      ],
+      [
+       "memor",
+       "记忆（memor）",
+       "記憶（memor）"
+      ],
+      [
+       "-ative",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 commemorare“共同记住”。",
+      "ja": "ラテン語 commemorare「共に思い起こす」。"
+     },
+     "forms": [
+      [
+       "commemorative plaque",
+       "纪念牌匾",
+       "記念の銘板"
+      ],
+      [
+       "commemorative edition",
+       "纪念版",
+       "記念版"
+      ]
+     ]
+    },
+    {
+     "w": "remembrance",
+     "pos": "n.",
+     "ipa": "/rɪˈmɛmbrəns/",
+     "zh": "纪念；回忆",
+     "ja": "追悼；記憶",
+     "ex": "A remembrance ceremony was held for the company's founder.",
+     "ex_zh": "为公司创始人举行了纪念仪式。",
+     "ex_ja": "創業者をしのぶ追悼式が行われました。",
+     "parts": [
+      [
+       "re-",
+       "再",
+       "再び"
+      ],
+      [
+       "member",
+       "记忆（memor）",
+       "記憶（memor）"
+      ],
+      [
+       "-ance",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "remember + -ance。",
+      "ja": "remember + -ance。"
+     },
+     "forms": [
+      [
+       "in remembrance of",
+       "为纪念",
+       "〜をしのんで"
+      ],
+      [
+       "remembrance ceremony",
+       "纪念仪式",
+       "追悼式"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sci",
+   "title_zh": "词根 -sci-：知道",
+   "title_ja": "語根 -sci-：知る",
+   "words": [
+    {
+     "w": "science",
+     "pos": "n.",
+     "ipa": "/ˈsaɪəns/",
+     "zh": "科学；学科",
+     "ja": "科学；学問",
+     "ex": "The museum is opening a new science exhibit for children.",
+     "ex_zh": "博物馆将为孩子们开设一个新的科学展览。",
+     "ex_ja": "博物館は子ども向けの新しい科学展示をオープンします。",
+     "parts": [
+      [
+       "sci",
+       "知道（scire）",
+       "知る（scire）"
+      ],
+      [
+       "-ence",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 scientia“知识”，来自 scire“知道”。",
+      "ja": "ラテン語 scientia「知識」。scire「知る」から。"
+     },
+     "forms": [
+      [
+       "computer science",
+       "计算机科学",
+       "コンピューター科学"
+      ],
+      [
+       "science fair",
+       "科学展",
+       "科学フェア"
+      ]
+     ]
+    },
+    {
+     "w": "scientific",
+     "pos": "adj.",
+     "ipa": "/ˌsaɪənˈtɪfɪk/",
+     "zh": "科学的",
+     "ja": "科学的な",
+     "ex": "The claims in the advertisement are supported by scientific research.",
+     "ex_zh": "广告中的说法有科学研究支持。",
+     "ex_ja": "広告の主張は科学的研究に裏付けられています。",
+     "parts": [
+      [
+       "sci",
+       "知道（scire）",
+       "知る（scire）"
+      ],
+      [
+       "-ent",
+       "……的",
+       "〜の"
+      ],
+      [
+       "-ific",
+       "使……的",
+       "〜にする"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 scientificus“产生知识的”。",
+      "ja": "ラテン語 scientificus「知識を生む」。"
+     },
+     "forms": [
+      [
+       "scientifically (adv.)",
+       "科学地",
+       "科学的に"
+      ],
+      [
+       "scientific evidence",
+       "科学证据",
+       "科学的証拠"
+      ]
+     ]
+    },
+    {
+     "w": "scientist",
+     "pos": "n.",
+     "ipa": "/ˈsaɪəntɪst/",
+     "zh": "科学家",
+     "ja": "科学者",
+     "ex": "A team of scientists developed the new water filter.",
+     "ex_zh": "一组科学家研发了这种新型滤水器。",
+     "ex_ja": "科学者のチームがその新しい浄水フィルターを開発しました。",
+     "parts": [
+      [
+       "sci",
+       "知道（scire）",
+       "知る（scire）"
+      ],
+      [
+       "-ent",
+       "……的",
+       "〜の"
+      ],
+      [
+       "-ist",
+       "表示人",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "science + -ist“从事……的人”。",
+      "ja": "science + -ist「〜する人」。"
+     },
+     "forms": [
+      [
+       "research scientist",
+       "研究员",
+       "研究科学者"
+      ],
+      [
+       "data scientist",
+       "数据科学家",
+       "データサイエンティスト"
+      ]
+     ]
+    },
+    {
+     "w": "conscious",
+     "pos": "adj.",
+     "ipa": "/ˈkɑnʃəs/",
+     "zh": "意识到的；注重……的",
+     "ja": "意識している；気にかける",
+     "ex": "Many shoppers are becoming more conscious of product prices.",
+     "ex_zh": "许多购物者越来越在意商品价格。",
+     "ex_ja": "多くの買い物客が商品の価格をより意識するようになっています。",
+     "parts": [
+      [
+       "con-",
+       "一起；完全",
+       "共に；完全に"
+      ],
+      [
+       "sci",
+       "知道（scire）",
+       "知る（scire）"
+      ],
+      [
+       "-ous",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 conscius“共同知道的、知情的”。",
+      "ja": "ラテン語 conscius「共に知っている」。"
+     },
+     "forms": [
+      [
+       "be conscious of",
+       "意识到",
+       "〜を意識している"
+      ],
+      [
+       "cost-conscious",
+       "注重成本的",
+       "コスト意識の高い"
+      ],
+      [
+       "environmentally conscious",
+       "有环保意识的",
+       "環境意識の高い"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5：be conscious of + 名词；cost-conscious / health-conscious 复合词常考。",
+      "ja": "Part 5：be conscious of + 名詞。cost-conscious／health-conscious も頻出。"
+     }
+    },
+    {
+     "w": "unconscious",
+     "pos": "adj.",
+     "ipa": "/ʌnˈkɑnʃəs/",
+     "zh": "无意识的；失去知觉的",
+     "ja": "無意識の；意識不明の",
+     "ex": "Unconscious bias can affect hiring decisions.",
+     "ex_zh": "无意识的偏见会影响招聘决定。",
+     "ex_ja": "無意識の偏見が採用の判断に影響することがあります。",
+     "parts": [
+      [
+       "un-",
+       "不",
+       "〜でない"
+      ],
+      [
+       "con-",
+       "一起",
+       "共に"
+      ],
+      [
+       "sci",
+       "知道（scire）",
+       "知る（scire）"
+      ],
+      [
+       "-ous",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "un- + conscious。",
+      "ja": "un- + conscious。"
+     },
+     "forms": [
+      [
+       "unconsciously (adv.)",
+       "无意识地",
+       "無意識に"
+      ],
+      [
+       "unconscious bias",
+       "无意识偏见",
+       "無意識の偏見"
+      ]
+     ]
+    },
+    {
+     "w": "conscience",
+     "pos": "n.",
+     "ipa": "/ˈkɑnʃəns/",
+     "zh": "良心",
+     "ja": "良心",
+     "ex": "She could not in good conscience approve the unsafe design.",
+     "ex_zh": "凭良心，她无法批准这个不安全的设计。",
+     "ex_ja": "良心に照らして、彼女はその危険な設計を承認できませんでした。",
+     "parts": [
+      [
+       "con-",
+       "一起；完全",
+       "共に；完全に"
+      ],
+      [
+       "sci",
+       "知道（scire）",
+       "知る（scire）"
+      ],
+      [
+       "-ence",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 conscientia“内心知道（是非）”。",
+      "ja": "ラテン語 conscientia「（善悪を）内心で知ること」。"
+     },
+     "forms": [
+      [
+       "in good conscience",
+       "问心无愧地",
+       "良心に恥じずに"
+      ],
+      [
+       "a clear conscience",
+       "问心无愧",
+       "やましくない心"
+      ]
+     ],
+     "tip": {
+      "zh": "⚠️ conscience（良心，名词）≠ conscious（意识到的，形容词）。",
+      "ja": "⚠️ conscience（良心・名詞）≠ conscious（意識して・形容詞）。"
+     }
+    },
+    {
+     "w": "conscientious",
+     "pos": "adj.",
+     "ipa": "/ˌkɑnʃiˈɛnʃəs/",
+     "zh": "认真的；尽责的",
+     "ja": "誠実な；良心的な；きちょうめんな",
+     "ex": "Kevin is a conscientious worker who always double-checks his figures.",
+     "ex_zh": "凯文是个认真尽责的员工，总会反复核对数字。",
+     "ex_ja": "ケビンは数字を必ず再確認するきちょうめんな社員です。",
+     "parts": [
+      [
+       "con-",
+       "一起；完全",
+       "共に；完全に"
+      ],
+      [
+       "sci",
+       "知道（scire）",
+       "知る（scire）"
+      ],
+      [
+       "-ent",
+       "……的",
+       "〜の"
+      ],
+      [
+       "-ious",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "conscience“良心”+ -ious →“凭良心做事的”。",
+      "ja": "conscience「良心」+ -ious →「良心的に行う」。"
+     },
+     "forms": [
+      [
+       "conscientiously (adv.)",
+       "认真地",
+       "誠実に"
+      ],
+      [
+       "conscientious employee",
+       "尽责的员工",
+       "勤勉な社員"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7：推荐信中 hard-working and conscientious 常见。",
+      "ja": "Part 7：推薦状で hard-working and conscientious がよく出る。"
+     }
+    },
+    {
+     "w": "consciousness",
+     "pos": "n.",
+     "ipa": "/ˈkɑnʃəsnəs/",
+     "zh": "意识；觉悟",
+     "ja": "意識；自覚",
+     "ex": "The campaign raised public consciousness about recycling.",
+     "ex_zh": "这项活动提高了公众的回收意识。",
+     "ex_ja": "そのキャンペーンはリサイクルに対する人々の意識を高めました。",
+     "parts": [
+      [
+       "con-",
+       "一起",
+       "共に"
+      ],
+      [
+       "sci",
+       "知道（scire）",
+       "知る（scire）"
+      ],
+      [
+       "-ous",
+       "形容词后缀",
+       "形容詞を作る"
+      ],
+      [
+       "-ness",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "conscious + -ness。",
+      "ja": "conscious + -ness。"
+     },
+     "forms": [
+      [
+       "raise consciousness",
+       "提高意识",
+       "意識を高める"
+      ],
+      [
+       "lose consciousness",
+       "失去知觉",
+       "意識を失う"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "vit",
+   "title_zh": "词根 -vit- / -viv-：生命；活",
+   "title_ja": "語根 -vit- / -viv-：命；生きる",
+   "words": [
+    {
+     "w": "vital",
+     "pos": "adj.",
+     "ipa": "/ˈvaɪtəl/",
+     "zh": "至关重要的；生命的",
+     "ja": "極めて重要な；生命の",
+     "ex": "Customer feedback is vital to improving our services.",
+     "ex_zh": "客户反馈对改进我们的服务至关重要。",
+     "ex_ja": "顧客の声はサービス改善に極めて重要です。",
+     "parts": [
+      [
+       "vit",
+       "生命（vita）",
+       "命（vita）"
+      ],
+      [
+       "-al",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 vitalis“生命的”→“像生命一样重要的”。",
+      "ja": "ラテン語 vitalis「生命の」→「命のように重要な」。"
+     },
+     "forms": [
+      [
+       "be vital to / for",
+       "对……至关重要",
+       "〜にとって不可欠"
+      ],
+      [
+       "vital role",
+       "关键作用",
+       "重要な役割"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5：It is vital that S (should) + 动词原形。",
+      "ja": "Part 5：It is vital that S (should) + 原形。"
+     }
+    },
+    {
+     "w": "vitality",
+     "pos": "n.",
+     "ipa": "/vaɪˈtæləti/",
+     "zh": "活力；生命力",
+     "ja": "活力；生命力",
+     "ex": "New businesses have brought vitality to the downtown area.",
+     "ex_zh": "新企业为市中心带来了活力。",
+     "ex_ja": "新しい店舗が中心街に活気をもたらしました。",
+     "parts": [
+      [
+       "vit",
+       "生命（vita）",
+       "命（vita）"
+      ],
+      [
+       "-al",
+       "形容词后缀",
+       "形容詞を作る"
+      ],
+      [
+       "-ity",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "vital + -ity。",
+      "ja": "vital + -ity。"
+     },
+     "forms": [
+      [
+       "economic vitality",
+       "经济活力",
+       "経済の活力"
+      ],
+      [
+       "restore vitality",
+       "恢复活力",
+       "活力を取り戻す"
+      ]
+     ]
+    },
+    {
+     "w": "vitamin",
+     "pos": "n.",
+     "ipa": "/ˈvaɪtəmɪn/",
+     "zh": "维生素",
+     "ja": "ビタミン",
+     "ex": "This juice contains a full day's supply of vitamin C.",
+     "ex_zh": "这款果汁含有一整天所需的维生素 C。",
+     "ex_ja": "このジュースには1日分のビタミンCが含まれています。",
+     "parts": [
+      [
+       "vit",
+       "生命（vita）",
+       "命（vita）"
+      ],
+      [
+       "amin",
+       "胺（amine）",
+       "アミン（amine）"
+      ]
+     ],
+     "note": {
+      "zh": "1912 年造词：vita“生命”+ amine“胺”（当时认为是生命必需的胺）。",
+      "ja": "1912年の造語：vita「生命」+ amine「アミン」（生命に必要なアミンと考えられた）。"
+     },
+     "forms": [
+      [
+       "vitamin supplement",
+       "维生素补充剂",
+       "ビタミンサプリ"
+      ],
+      [
+       "rich in vitamins",
+       "富含维生素",
+       "ビタミンが豊富"
+      ]
+     ]
+    },
+    {
+     "w": "revive",
+     "pos": "v.",
+     "ipa": "/rɪˈvaɪv/",
+     "zh": "使复苏；重振",
+     "ja": "復活させる；活性化する",
+     "ex": "The city hopes the festival will revive tourism.",
+     "ex_zh": "市政府希望这个节日能重振旅游业。",
+     "ex_ja": "市はその祭りが観光業を復活させることを期待しています。",
+     "parts": [
+      [
+       "re-",
+       "再",
+       "再び"
+      ],
+      [
+       "viv",
+       "活（vivere）",
+       "生きる（vivere）"
+      ],
+      [
+       "-e",
+       "（词尾）",
+       "（語尾）"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 revivere“再活”。",
+      "ja": "ラテン語 revivere「再び生きる」。"
+     },
+     "forms": [
+      [
+       "revive the economy",
+       "振兴经济",
+       "経済を立て直す"
+      ],
+      [
+       "revive interest",
+       "重新引起兴趣",
+       "関心を呼び戻す"
+      ]
+     ]
+    },
+    {
+     "w": "revival",
+     "pos": "n.",
+     "ipa": "/rɪˈvaɪvəl/",
+     "zh": "复苏；复兴；重演",
+     "ja": "復活；再興；再上演",
+     "ex": "The theater is staging a revival of a classic musical.",
+     "ex_zh": "剧院正在重新上演一部经典音乐剧。",
+     "ex_ja": "劇場では名作ミュージカルの再演が行われています。",
+     "parts": [
+      [
+       "re-",
+       "再",
+       "再び"
+      ],
+      [
+       "viv",
+       "活（vivere）",
+       "生きる（vivere）"
+      ],
+      [
+       "-al",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "revive + -al。",
+      "ja": "revive + -al。"
+     },
+     "forms": [
+      [
+       "economic revival",
+       "经济复苏",
+       "経済の回復"
+      ],
+      [
+       "revival of interest",
+       "兴趣复燃",
+       "関心の再燃"
+      ]
+     ]
+    },
+    {
+     "w": "survive",
+     "pos": "v.",
+     "ipa": "/sɚˈvaɪv/",
+     "zh": "幸存；挺过；比……活得久",
+     "ja": "生き残る；乗り切る",
+     "ex": "Only a few small shops survived the economic downturn.",
+     "ex_zh": "只有几家小店挺过了经济衰退。",
+     "ex_ja": "景気後退を乗り切ったのは、ほんの数軒の小さな店だけでした。",
+     "parts": [
+      [
+       "sur-",
+       "超过（super）",
+       "越えて（super）"
+      ],
+      [
+       "viv",
+       "活（vivere）",
+       "生きる（vivere）"
+      ],
+      [
+       "-e",
+       "（词尾）",
+       "（語尾）"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 supervivere“活过、超越而活”。",
+      "ja": "ラテン語 supervivere「越えて生きる」。"
+     },
+     "forms": [
+      [
+       "survive a crisis",
+       "度过危机",
+       "危機を乗り越える"
+      ],
+      [
+       "survivor (n.)",
+       "幸存者",
+       "生存者"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5：survive 是及物动词，直接接宾语（survive the storm），不加 from。",
+      "ja": "Part 5：survive は他動詞。survive the storm（from 不要）。"
+     }
+    },
+    {
+     "w": "survival",
+     "pos": "n.",
+     "ipa": "/sɚˈvaɪvəl/",
+     "zh": "生存；存活",
+     "ja": "生き残り；存続",
+     "ex": "Online sales are essential to the survival of many bookstores.",
+     "ex_zh": "网络销售对许多书店的存活至关重要。",
+     "ex_ja": "多くの書店にとって、オンライン販売は存続に不可欠です。",
+     "parts": [
+      [
+       "sur-",
+       "超过",
+       "越えて"
+      ],
+      [
+       "viv",
+       "活（vivere）",
+       "生きる（vivere）"
+      ],
+      [
+       "-al",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "survive + -al。",
+      "ja": "survive + -al。"
+     },
+     "forms": [
+      [
+       "survival rate",
+       "存活率",
+       "生存率"
+      ],
+      [
+       "business survival",
+       "企业存续",
+       "事業の存続"
+      ]
+     ]
+    },
+    {
+     "w": "vivid",
+     "pos": "adj.",
+     "ipa": "/ˈvɪvɪd/",
+     "zh": "鲜艳的；生动的",
+     "ja": "鮮やかな；生き生きとした",
+     "ex": "The brochure features vivid photos of the island's beaches.",
+     "ex_zh": "宣传册上有这座岛屿海滩的鲜艳照片。",
+     "ex_ja": "パンフレットには島のビーチの鮮やかな写真が載っています。",
+     "parts": [
+      [
+       "viv",
+       "活（vivere）",
+       "生きる（vivere）"
+      ],
+      [
+       "-id",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 vividus“充满生命的”。",
+      "ja": "ラテン語 vividus「生気に満ちた」。"
+     },
+     "forms": [
+      [
+       "vivid colors",
+       "鲜艳的颜色",
+       "鮮やかな色"
+      ],
+      [
+       "vividly (adv.)",
+       "生动地",
+       "鮮明に"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "clean",
+   "title_zh": "主题：清洁与保洁服务",
+   "title_ja": "テーマ：清掃と清掃サービス",
+   "words": [
+    {
+     "w": "janitor",
+     "pos": "n.",
+     "ipa": "/ˈdʒænɪtɚ/",
+     "zh": "清洁工；大楼管理员",
+     "ja": "用務員；清掃員",
+     "ex": "Please contact the janitor if you notice a spill in the hallway.",
+     "ex_zh": "如果发现走廊有液体洒出，请联系清洁工。",
+     "ex_ja": "廊下に何かこぼれているのに気づいたら、清掃員に連絡してください。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分。来自拉丁语 janitor“看门人”（janua“门”），整体记忆。",
+      "ja": "信頼できる語根分解はない。ラテン語 janitor「門番」（janua「門」）から。まとめて覚える。"
+     },
+     "forms": [
+      [
+       "janitorial (adj.)",
+       "保洁的",
+       "清掃の"
+      ],
+      [
+       "janitorial staff",
+       "保洁人员",
+       "清掃スタッフ"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7：janitorial services = 保洁服务（custodian 的近义词）。",
+      "ja": "Part 7：janitorial services＝清掃サービス（custodian と同義）。"
+     }
+    },
+    {
+     "w": "housekeeping",
+     "pos": "n.",
+     "ipa": "/ˈhaʊsˌkipɪŋ/",
+     "zh": "客房清洁；家务管理",
+     "ja": "客室清掃；ハウスキーピング",
+     "ex": "Call housekeeping if you need extra towels.",
+     "ex_zh": "如果需要额外的毛巾，请致电客房服务部。",
+     "ex_ja": "タオルが追加で必要なら、客室係にお電話ください。",
+     "parts": [
+      [
+       "house",
+       "房子",
+       "家"
+      ],
+      [
+       "keep",
+       "保持",
+       "保つ"
+      ],
+      [
+       "-ing",
+       "动名词后缀",
+       "動名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "复合词：house“房子”+ keep“保持”+ -ing。",
+      "ja": "複合語：house「家」+ keep「保つ」+ -ing。"
+     },
+     "forms": [
+      [
+       "housekeeping staff",
+       "客房保洁人员",
+       "客室清掃係"
+      ],
+      [
+       "housekeeper (n.)",
+       "客房服务员；管家",
+       "客室係；家政婦"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 3/4：酒店场景 housekeeping 常指客房清洁部门。",
+      "ja": "Part 3・4：ホテル場面で housekeeping は客室清掃部門。"
+     }
+    },
+    {
+     "w": "sanitize",
+     "pos": "v.",
+     "ipa": "/ˈsænɪˌtaɪz/",
+     "zh": "消毒；使卫生",
+     "ja": "消毒する；衛生的にする",
+     "ex": "Staff sanitize the tables after each customer leaves.",
+     "ex_zh": "每位顾客离开后，员工都会给桌子消毒。",
+     "ex_ja": "スタッフは客が帰るたびにテーブルを消毒します。",
+     "parts": [
+      [
+       "sanit",
+       "健康（sanus）",
+       "健康（sanus）"
+      ],
+      [
+       "-ize",
+       "动词后缀",
+       "動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "来自拉丁语 sanitas“健康”（sanus“健康的”）+ -ize。",
+      "ja": "ラテン語 sanitas「健康」（sanus「健康な」）+ -ize。"
+     },
+     "forms": [
+      [
+       "hand sanitizer",
+       "洗手液；免洗消毒液",
+       "手指消毒剤"
+      ],
+      [
+       "sanitary (adj.)",
+       "卫生的",
+       "衛生的な"
+      ]
+     ]
+    },
+    {
+     "w": "disinfect",
+     "pos": "v.",
+     "ipa": "/ˌdɪsɪnˈfɛkt/",
+     "zh": "消毒；杀菌",
+     "ja": "殺菌する；消毒する",
+     "ex": "All equipment in the gym is disinfected twice a day.",
+     "ex_zh": "健身房的所有器材每天消毒两次。",
+     "ex_ja": "ジムの器具はすべて1日2回消毒されています。",
+     "parts": [
+      [
+       "dis-",
+       "去除",
+       "取り除く"
+      ],
+      [
+       "in-",
+       "进入",
+       "中へ"
+      ],
+      [
+       "fect",
+       "做；放（facere）",
+       "する（facere）"
+      ]
+     ],
+     "note": {
+      "zh": "dis-“去除”+ infect“感染”。",
+      "ja": "dis-「取り除く」+ infect「感染させる」。"
+     },
+     "forms": [
+      [
+       "disinfectant (n.)",
+       "消毒剂",
+       "消毒剤"
+      ],
+      [
+       "disinfect surfaces",
+       "给表面消毒",
+       "表面を消毒する"
+      ]
+     ]
+    },
+    {
+     "w": "detergent",
+     "pos": "n.",
+     "ipa": "/dɪˈtɝdʒənt/",
+     "zh": "洗涤剂；洗衣粉",
+     "ja": "洗剤",
+     "ex": "This detergent removes stains even in cold water.",
+     "ex_zh": "这种洗涤剂即使在冷水中也能去除污渍。",
+     "ex_ja": "この洗剤は冷水でも汚れを落とします。",
+     "parts": [
+      [
+       "de-",
+       "去掉",
+       "取り去る"
+      ],
+      [
+       "terg",
+       "擦（tergere）",
+       "拭く（tergere）"
+      ],
+      [
+       "-ent",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 detergere“擦掉”（de-“去掉”+ tergere“擦”）。",
+      "ja": "ラテン語 detergere「拭き取る」（de-「取り去る」+ tergere「拭く」）。"
+     },
+     "forms": [
+      [
+       "laundry detergent",
+       "洗衣液",
+       "洗濯用洗剤"
+      ],
+      [
+       "dish detergent",
+       "洗洁精",
+       "食器用洗剤"
+      ]
+     ]
+    },
+    {
+     "w": "mop",
+     "pos": "n./v.",
+     "ipa": "/mɑp/",
+     "zh": "拖把；用拖把拖",
+     "ja": "モップ；モップでふく",
+     "ex": "A worker is mopping the floor near the entrance.",
+     "ex_zh": "一名工人正在入口附近拖地。",
+     "ex_ja": "作業員が入り口付近の床をモップでふいています。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分。来源不明，整体记忆。",
+      "ja": "信頼できる語根分解はない。語源不詳。まとめて覚える。"
+     },
+     "forms": [
+      [
+       "mop the floor",
+       "拖地",
+       "床をモップがけする"
+      ],
+      [
+       "mop up",
+       "擦干；收拾",
+       "ふき取る"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1：is mopping the floor 是高频描述。",
+      "ja": "Part 1：is mopping the floor は頻出。"
+     }
+    },
+    {
+     "w": "broom",
+     "pos": "n.",
+     "ipa": "/brum/",
+     "zh": "扫帚",
+     "ja": "ほうき",
+     "ex": "The man is sweeping the sidewalk with a broom.",
+     "ex_zh": "男子正在用扫帚扫人行道。",
+     "ex_ja": "男性がほうきで歩道を掃いています。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分。本族词，原指“金雀花”（用来做扫帚的植物）。",
+      "ja": "信頼できる語根分解はない。本来語。もとはエニシダ（ほうきの材料）の意。"
+     },
+     "forms": [
+      [
+       "sweep (v.)",
+       "扫",
+       "掃く"
+      ],
+      [
+       "dustpan (n.)",
+       "簸箕",
+       "ちりとり"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1：is sweeping with a broom 常见。",
+      "ja": "Part 1：is sweeping with a broom が頻出。"
+     }
+    },
+    {
+     "w": "wipe",
+     "pos": "v./n.",
+     "ipa": "/waɪp/",
+     "zh": "擦；擦拭",
+     "ja": "ふく；ぬぐう",
+     "ex": "She is wiping the counter with a cloth.",
+     "ex_zh": "她正在用布擦柜台。",
+     "ex_ja": "彼女は布でカウンターをふいています。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分。本族词，整体记忆。",
+      "ja": "信頼できる語根分解はない。本来語。まとめて覚える。"
+     },
+     "forms": [
+      [
+       "wipe down",
+       "擦干净",
+       "きれいにふく"
+      ],
+      [
+       "wipe off",
+       "擦掉",
+       "ふき取る"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1：is wiping (off) a table。",
+      "ja": "Part 1：is wiping (off) a table。"
+     },
+     "hl": "wiping"
+    },
+    {
+     "w": "scrub",
+     "pos": "v.",
+     "ipa": "/skrʌb/",
+     "zh": "用力擦洗",
+     "ja": "ごしごし洗う",
+     "ex": "The crew scrubbed the kitchen floor before the inspection.",
+     "ex_zh": "工作人员在检查前擦洗了厨房地板。",
+     "ex_ja": "検査の前に作業員が厨房の床をごしごし洗いました。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分。来自中古荷兰语 schrobben“擦”，整体记忆。",
+      "ja": "信頼できる語根分解はない。中期オランダ語 schrobben「こする」から。まとめて覚える。"
+     },
+     "forms": [
+      [
+       "scrub brush",
+       "硬毛刷",
+       "たわし；ブラシ"
+      ],
+      [
+       "give it a good scrub",
+       "好好擦洗一下",
+       "よくこする"
+      ]
+     ]
+    },
+    {
+     "w": "dust",
+     "pos": "v./n.",
+     "ipa": "/dʌst/",
+     "zh": "除尘；灰尘",
+     "ja": "ほこりを払う；ほこり",
+     "ex": "Please dust the shelves in the lobby every morning.",
+     "ex_zh": "请每天早上擦拭大厅里的架子。",
+     "ex_ja": "毎朝ロビーの棚のほこりを払ってください。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分。本族词，整体记忆。",
+      "ja": "信頼できる語根分解はない。本来語。まとめて覚える。"
+     },
+     "forms": [
+      [
+       "dusty (adj.)",
+       "满是灰尘的",
+       "ほこりっぽい"
+      ],
+      [
+       "dust off",
+       "掸去灰尘",
+       "ほこりを払う"
+      ]
+     ],
+     "tip": {
+      "zh": "⚠️ 动词 dust = 去除灰尘（不是“撒上灰”）。",
+      "ja": "⚠️ 動詞 dust＝ほこりを取る（かけるではない）。"
+     }
+    },
+    {
+     "w": "polish",
+     "pos": "v./n.",
+     "ipa": "/ˈpɑlɪʃ/",
+     "zh": "擦亮；打磨；润色",
+     "ja": "磨く；仕上げる",
+     "ex": "A worker is polishing the glass doors of the building.",
+     "ex_zh": "一名工人正在擦亮大楼的玻璃门。",
+     "ex_ja": "作業員がビルのガラスドアを磨いています。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分。来自拉丁语 polire“磨光”，整体记忆。",
+      "ja": "信頼できる語根分解はない。ラテン語 polire「磨く」から。まとめて覚える。"
+     },
+     "forms": [
+      [
+       "polished (adj.)",
+       "光亮的；精致的",
+       "磨かれた；洗練された"
+      ],
+      [
+       "polish a report",
+       "润色报告",
+       "報告書を仕上げる"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5：polished presentation = 精心准备的演示。",
+      "ja": "Part 5：polished presentation＝洗練された発表。"
+     }
+    },
+    {
+     "w": "spotless",
+     "pos": "adj.",
+     "ipa": "/ˈspɑtləs/",
+     "zh": "一尘不染的",
+     "ja": "しみ一つない；ぴかぴかの",
+     "ex": "The hotel is known for its spotless rooms.",
+     "ex_zh": "这家酒店以一尘不染的客房闻名。",
+     "ex_ja": "そのホテルはぴかぴかの客室で知られています。",
+     "parts": [
+      [
+       "spot",
+       "污点",
+       "しみ"
+      ],
+      [
+       "-less",
+       "没有",
+       "〜のない"
+      ]
+     ],
+     "note": {
+      "zh": "spot“污点”+ -less“没有”。",
+      "ja": "spot「しみ」+ -less「〜のない」。"
+     },
+     "forms": [
+      [
+       "spotlessly clean",
+       "非常干净",
+       "ぴかぴかに清潔な"
+      ],
+      [
+       "keep spotless",
+       "保持一尘不染",
+       "清潔に保つ"
+      ]
+     ]
+    },
+    {
+     "w": "linen",
+     "pos": "n.",
+     "ipa": "/ˈlɪnən/",
+     "zh": "床单毛巾类；亚麻布",
+     "ja": "リネン類；麻布",
+     "ex": "Fresh linens are provided in every room daily.",
+     "ex_zh": "每个房间每天都会提供干净的床单毛巾。",
+     "ex_ja": "毎日、全室に洗いたてのリネン類が用意されます。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分。本族词，原意“亚麻做的”，整体记忆。",
+      "ja": "信頼できる語根分解はない。本来語。もとは「亜麻製の」。まとめて覚える。"
+     },
+     "forms": [
+      [
+       "bed linen",
+       "床上用品",
+       "寝具類"
+      ],
+      [
+       "table linen",
+       "桌布餐巾",
+       "テーブルクロス類"
+      ]
+     ]
+    },
+    {
+     "w": "trash",
+     "pos": "n./v.",
+     "ipa": "/træʃ/",
+     "zh": "垃圾；扔掉",
+     "ja": "ごみ；捨てる",
+     "ex": "Please empty the trash cans in the break room every evening.",
+     "ex_zh": "请每天晚上清空休息室的垃圾桶。",
+     "ex_ja": "毎晩、休憩室のごみ箱を空にしてください。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分。来源不明，整体记忆。",
+      "ja": "信頼できる語根分解はない。語源不詳。まとめて覚える。"
+     },
+     "forms": [
+      [
+       "trash can",
+       "垃圾桶",
+       "ごみ箱"
+      ],
+      [
+       "take out the trash",
+       "倒垃圾",
+       "ごみを出す"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1：A trash can is being emptied“垃圾桶正在被清空”。",
+      "ja": "Part 1：A trash can is being emptied「ごみ箱が空にされている」。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "claims",
+   "title_zh": "主题：保险理赔与损失报告",
+   "title_ja": "テーマ：保険金請求と損害報告",
+   "words": [
+    {
+     "w": "claim",
+     "pos": "n./v.",
+     "ipa": "/kleɪm/",
+     "zh": "索赔；声称；主张",
+     "ja": "請求；主張する",
+     "ex": "You must file a claim within 30 days of the accident.",
+     "ex_zh": "您必须在事故发生后 30 天内提出索赔。",
+     "ex_ja": "事故から30日以内に保険金を請求しなければなりません。",
+     "parts": [
+      [
+       "claim",
+       "呼喊（clamare）",
+       "叫ぶ（clamare）"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 clamare“呼喊”→ 大声要求。",
+      "ja": "ラテン語 clamare「叫ぶ」→ 声を上げて求める。"
+     },
+     "forms": [
+      [
+       "file a claim",
+       "提出索赔",
+       "請求を申し立てる"
+      ],
+      [
+       "baggage claim",
+       "行李提取处",
+       "手荷物受取所"
+      ],
+      [
+       "claim form",
+       "索赔表",
+       "請求書式"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7：baggage claim 是“行李提取处”；file/submit a claim 是“提出索赔”。",
+      "ja": "Part 7：baggage claim は「手荷物受取所」。file／submit a claim は「請求する」。"
+     }
+    },
+    {
+     "w": "claimant",
+     "pos": "n.",
+     "ipa": "/ˈkleɪmənt/",
+     "zh": "索赔人；申请人",
+     "ja": "請求者",
+     "ex": "Each claimant must provide a copy of the police report.",
+     "ex_zh": "每位索赔人必须提供一份警方报告的副本。",
+     "ex_ja": "請求者はそれぞれ警察の報告書の写しを提出しなければなりません。",
+     "parts": [
+      [
+       "claim",
+       "呼喊；要求",
+       "叫ぶ；求める"
+      ],
+      [
+       "-ant",
+       "表示人",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "claim + -ant“……的人”。",
+      "ja": "claim + -ant「〜する人」。"
+     },
+     "forms": [
+      [
+       "the claimant's name",
+       "索赔人姓名",
+       "請求者の氏名"
+      ],
+      [
+       "eligible claimant",
+       "符合资格的申请人",
+       "受給資格のある請求者"
+      ]
+     ]
+    },
+    {
+     "w": "policyholder",
+     "pos": "n.",
+     "ipa": "/ˈpɑləsiˌhoʊldɚ/",
+     "zh": "投保人；保单持有人",
+     "ja": "保険契約者",
+     "ex": "Policyholders can update their information online.",
+     "ex_zh": "投保人可以在网上更新个人信息。",
+     "ex_ja": "保険契約者はオンラインで情報を更新できます。",
+     "parts": [
+      [
+       "policy",
+       "保单",
+       "保険証券"
+      ],
+      [
+       "hold",
+       "持有",
+       "保つ"
+      ],
+      [
+       "-er",
+       "表示人",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "复合词：policy“保单”+ holder“持有人”。",
+      "ja": "複合語：policy「保険証券」+ holder「保有者」。"
+     },
+     "forms": [
+      [
+       "insurance policy",
+       "保险单",
+       "保険証券"
+      ],
+      [
+       "policy number",
+       "保单号",
+       "証券番号"
+      ]
+     ],
+     "tip": {
+      "zh": "⚠️ 保险语境中 policy = 保单，不是“政策”。",
+      "ja": "⚠️ 保険の文脈では policy＝保険証券（政策ではない）。"
+     }
+    },
+    {
+     "w": "adjuster",
+     "pos": "n.",
+     "ipa": "/əˈdʒʌstɚ/",
+     "zh": "理赔员；定损员",
+     "ja": "損害査定人",
+     "ex": "An adjuster will visit your home to inspect the damage.",
+     "ex_zh": "理赔员会到您家查看损失情况。",
+     "ex_ja": "損害査定人がご自宅を訪問して被害を調べます。",
+     "parts": [
+      [
+       "ad-",
+       "向",
+       "〜へ"
+      ],
+      [
+       "just",
+       "正确（justus）",
+       "正しい（justus）"
+      ],
+      [
+       "-er",
+       "表示人",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "adjust“调整”+ -er；保险中指核定赔偿金额的人。",
+      "ja": "adjust「調整する」+ -er。保険では支払額を査定する人。"
+     },
+     "forms": [
+      [
+       "claims adjuster",
+       "理赔员",
+       "保険査定人"
+      ],
+      [
+       "adjust (v.)",
+       "调整；理算",
+       "調整する"
+      ]
+     ]
+    },
+    {
+     "w": "payout",
+     "pos": "n.",
+     "ipa": "/ˈpeɪˌaʊt/",
+     "zh": "赔付金；支出款项",
+     "ja": "支払金；払い出し",
+     "ex": "The payout was deposited into her bank account within a week.",
+     "ex_zh": "赔付金在一周内存入了她的银行账户。",
+     "ex_ja": "支払金は1週間以内に彼女の口座に振り込まれました。",
+     "parts": [
+      [
+       "pay",
+       "支付",
+       "支払う"
+      ],
+      [
+       "out",
+       "出",
+       "外へ"
+      ]
+     ],
+     "note": {
+      "zh": "复合词：pay out“支付出去”。",
+      "ja": "複合語：pay out「支払う」。"
+     },
+     "forms": [
+      [
+       "insurance payout",
+       "保险赔付",
+       "保険金の支払い"
+      ],
+      [
+       "pay out (v.)",
+       "支付",
+       "支払う"
+      ]
+     ]
+    },
+    {
+     "w": "damaged",
+     "pos": "adj.",
+     "ipa": "/ˈdæmɪdʒd/",
+     "zh": "受损的；损坏的",
+     "ja": "損傷した；破損した",
+     "ex": "Damaged items can be returned for a full refund.",
+     "ex_zh": "损坏的商品可以退回并全额退款。",
+     "ex_ja": "破損した商品は返品して全額返金を受けられます。",
+     "parts": [
+      [
+       "damn",
+       "损失（damnum）",
+       "損失（damnum）"
+      ],
+      [
+       "-age",
+       "名词后缀",
+       "名詞を作る"
+      ],
+      [
+       "-ed",
+       "形容词（过去分词）",
+       "形容詞（過去分詞）"
+      ]
+     ],
+     "note": {
+      "zh": "来自拉丁语 damnum“损失”。",
+      "ja": "ラテン語 damnum「損失」から。"
+     },
+     "forms": [
+      [
+       "damage (n./v.)",
+       "损坏；损害",
+       "損害；損傷を与える"
+      ],
+      [
+       "water damage",
+       "水渍损坏",
+       "水濡れ被害"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5：damage 作名词不可数（cause damage to），不用 damages 表示“损坏”（damages = 赔偿金）。",
+      "ja": "Part 5：damage は不可算（cause damage to）。damages は「損害賠償金」。"
+     },
+     "hl": "Damaged"
+    },
+    {
+     "w": "estimate",
+     "pos": "n./v.",
+     "ipa": "/ˈɛstɪmət/",
+     "zh": "估价；估计；估算",
+     "ja": "見積もり；見積もる",
+     "ex": "Please get two repair estimates before submitting your claim.",
+     "ex_zh": "提交索赔前请先取得两份维修估价。",
+     "ex_ja": "請求を出す前に修理見積もりを2件取ってください。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分。来自拉丁语 aestimare“评价”，没有可靠的进一步拆分。",
+      "ja": "信頼できる語根分解はない。ラテン語 aestimare「評価する」から。"
+     },
+     "forms": [
+      [
+       "rough estimate",
+       "粗略估计",
+       "概算"
+      ],
+      [
+       "estimated (adj.)",
+       "估计的",
+       "推定の"
+      ]
+     ],
+     "tip": {
+      "zh": "⚠️ 名词 /ˈɛstɪmət/，动词 /ˈɛstɪˌmeɪt/。Part 7：estimate = 报价单（≈ quotation）。",
+      "ja": "⚠️ 名詞 /ˈɛstɪmət/、動詞 /ˈɛstɪˌmeɪt/。Part 7：estimate＝見積書（≈ quotation）。"
+     }
+    },
+    {
+     "w": "theft",
+     "pos": "n.",
+     "ipa": "/θɛft/",
+     "zh": "盗窃；偷窃",
+     "ja": "盗難；窃盗",
+     "ex": "The policy covers theft of personal belongings while traveling.",
+     "ex_zh": "该保单承保旅行期间个人物品被盗。",
+     "ex_ja": "その保険は旅行中の所持品の盗難を補償します。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分。本族词，与 thief“小偷”同源。",
+      "ja": "信頼できる語根分解はない。本来語。thief「泥棒」と同源。"
+     },
+     "forms": [
+      [
+       "thief (n.)",
+       "小偷",
+       "泥棒"
+      ],
+      [
+       "identity theft",
+       "身份盗用",
+       "なりすまし"
+      ]
+     ]
+    },
+    {
+     "w": "vandalism",
+     "pos": "n.",
+     "ipa": "/ˈvændəˌlɪzəm/",
+     "zh": "故意破坏公物",
+     "ja": "器物損壊；破壊行為",
+     "ex": "Security cameras were installed to prevent vandalism in the parking lot.",
+     "ex_zh": "安装了监控摄像头以防止停车场的破坏行为。",
+     "ex_ja": "駐車場の破壊行為を防ぐため防犯カメラが設置されました。",
+     "parts": [
+      [
+       "vandal",
+       "汪达尔人",
+       "ヴァンダル族"
+      ],
+      [
+       "-ism",
+       "名词后缀（行为）",
+       "〜行為"
+      ]
+     ],
+     "note": {
+      "zh": "来自日耳曼部落 Vandals“汪达尔人”+ -ism。",
+      "ja": "ゲルマン部族 Vandals「ヴァンダル族」+ -ism。"
+     },
+     "forms": [
+      [
+       "vandalize (v.)",
+       "肆意破坏",
+       "破壊する"
+      ],
+      [
+       "vandal (n.)",
+       "破坏公物者",
+       "破壊者"
+      ]
+     ]
+    },
+    {
+     "w": "negligence",
+     "pos": "n.",
+     "ipa": "/ˈnɛɡlɪdʒəns/",
+     "zh": "疏忽；过失",
+     "ja": "過失；怠慢",
+     "ex": "The company was not responsible because there was no negligence on its part.",
+     "ex_zh": "由于公司没有过失，因此不承担责任。",
+     "ex_ja": "会社側に過失がなかったため、責任は問われませんでした。",
+     "parts": [
+      [
+       "neg-",
+       "不",
+       "〜しない"
+      ],
+      [
+       "lig",
+       "选；收（legere）",
+       "選ぶ（legere）"
+      ],
+      [
+       "-ence",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "neg-“不”+ lig“选、收”（legere）+ -ence；与 neglect 同源。",
+      "ja": "neg-「〜しない」+ lig「選ぶ」（legere）+ -ence。neglect と同源。"
+     },
+     "forms": [
+      [
+       "negligent (adj.)",
+       "疏忽的",
+       "過失のある"
+      ],
+      [
+       "negligible (adj.)",
+       "微不足道的",
+       "ごくわずかな"
+      ]
+     ],
+     "tip": {
+      "zh": "⚠️ negligent（疏忽的）≠ negligible（可忽略的）。",
+      "ja": "⚠️ negligent（怠慢な）≠ negligible（ごくわずかな）。"
+     }
+    },
+    {
+     "w": "fraudulent",
+     "pos": "adj.",
+     "ipa": "/ˈfrɔdʒələnt/",
+     "zh": "欺诈的；舞弊的",
+     "ja": "詐欺の；不正な",
+     "ex": "Report any fraudulent charges on your card immediately.",
+     "ex_zh": "请立即报告您卡上的任何欺诈性扣款。",
+     "ex_ja": "カードの不正請求はすぐに報告してください。",
+     "parts": [
+      [
+       "fraud",
+       "欺诈（fraus）",
+       "詐欺（fraus）"
+      ],
+      [
+       "-ulent",
+       "充满……的",
+       "〜に満ちた"
+      ]
+     ],
+     "note": {
+      "zh": "fraud“欺诈”（拉丁语 fraus）+ -ulent“充满……的”。",
+      "ja": "fraud「詐欺」（ラテン語 fraus）+ -ulent「〜に満ちた」。"
+     },
+     "forms": [
+      [
+       "fraud (n.)",
+       "欺诈",
+       "詐欺"
+      ],
+      [
+       "fraud prevention",
+       "防欺诈",
+       "不正防止"
+      ]
+     ]
+    },
+    {
+     "w": "documentation",
+     "pos": "n.",
+     "ipa": "/ˌdɑkjəmɛnˈteɪʃən/",
+     "zh": "证明文件；文档资料",
+     "ja": "証明書類；文書",
+     "ex": "Please attach all supporting documentation to the claim form.",
+     "ex_zh": "请将所有证明文件附在索赔表上。",
+     "ex_ja": "請求書式にすべての裏付け書類を添付してください。",
+     "parts": [
+      [
+       "doc",
+       "教（docere）",
+       "教える（docere）"
+      ],
+      [
+       "-ment",
+       "名词后缀",
+       "名詞を作る"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "document（拉丁语 docere“教”）+ -ation。",
+      "ja": "document（ラテン語 docere「教える」）+ -ation。"
+     },
+     "forms": [
+      [
+       "supporting documentation",
+       "证明文件",
+       "裏付け書類"
+      ],
+      [
+       "document (v./n.)",
+       "记录；文件",
+       "記録する；書類"
+      ]
+     ]
+    },
+    {
+     "w": "approval",
+     "pos": "n.",
+     "ipa": "/əˈpruvəl/",
+     "zh": "批准；认可",
+     "ja": "承認；認可",
+     "ex": "Repairs may begin once the insurer gives its approval.",
+     "ex_zh": "保险公司批准后即可开始维修。",
+     "ex_ja": "保険会社の承認が出たら修理を始められます。",
+     "parts": [
+      [
+       "ap-",
+       "向",
+       "〜へ"
+      ],
+      [
+       "prov",
+       "证明（probare）",
+       "証明する（probare）"
+      ],
+      [
+       "-al",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "ap-“向”+ prove“证明、认可”（probare）+ -al。",
+      "ja": "ap-「〜へ」+ prove「証明する」（probare）+ -al。"
+     },
+     "forms": [
+      [
+       "approve (v.)",
+       "批准",
+       "承認する"
+      ],
+      [
+       "pending approval",
+       "待批准",
+       "承認待ち"
+      ],
+      [
+       "seek approval",
+       "寻求批准",
+       "承認を求める"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5：approve of（赞成）/ approve the plan（批准计划）。",
+      "ja": "Part 5：approve of（賛成する）／approve the plan（承認する）。"
+     }
+    },
+    {
+     "w": "denial",
+     "pos": "n.",
+     "ipa": "/dɪˈnaɪəl/",
+     "zh": "拒绝；否认",
+     "ja": "却下；否定",
+     "ex": "The letter explains the reason for the denial of your claim.",
+     "ex_zh": "这封信说明了拒绝您索赔的原因。",
+     "ex_ja": "その手紙には請求却下の理由が説明されています。",
+     "parts": [
+      [
+       "de-",
+       "完全",
+       "完全に"
+      ],
+      [
+       "ni",
+       "说不（negare）",
+       "否と言う（negare）"
+      ],
+      [
+       "-al",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "deny（拉丁语 de- + negare“说不”）+ -al。",
+      "ja": "deny（ラテン語 de- + negare「否と言う」）+ -al。"
+     },
+     "forms": [
+      [
+       "deny (v.)",
+       "拒绝；否认",
+       "拒否する；否定する"
+      ],
+      [
+       "claim denial",
+       "拒赔",
+       "請求の却下"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}
