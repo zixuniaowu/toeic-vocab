@@ -1,0 +1,2607 @@
+{
+ "day": 27,
+ "date": "2026-10-30",
+ "title_zh": "四大词根 + 服装与时装零售、摄影与视频拍摄",
+ "title_ja": "4つの語根＋衣料品とファッション小売、写真と映像撮影",
+ "intro_zh": "今天掌握 4 个高频词根（ped 脚 / clin 倾斜 / nect 连接 / frag·fract 破碎），再学服装与时装零售、摄影与视频拍摄的核心词——强化 Part 5 易混词（expedite ↔ impede、decline 的“下降 / 婉拒”两义、be inclined to do、fragile ≠ fragrant、fabric ≠ factory、apparel 不可数），Part 1 场景（garments are hanging on a rack、a mannequin is displayed、is setting up a tripod、is rolling up his sleeves、a statue on a pedestal），Part 4 机场广播（passengers with connecting flights）以及 Part 7 的广告（at a fraction of the cost）、大楼拍摄通知和规章违规通知。",
+ "intro_ja": "今日は語根 4 つ（ped 足／clin 傾く／nect 結ぶ／frag・fract 壊す）と、衣料品とファッション小売、写真と映像撮影の重要語を学びます。Part 5 の紛らわしい語（expedite ↔ impede、decline の「減少／断る」、be inclined to do、fragile ≠ fragrant、fabric ≠ factory、apparel は不可算）、Part 1 の場面（garments are hanging on a rack、a mannequin is displayed、is setting up a tripod、is rolling up his sleeves、a statue on a pedestal）、Part 4 の空港アナウンス（passengers with connecting flights）、Part 7 の広告（at a fraction of the cost）・建物の撮影案内・規則違反の通知を強化します。",
+ "voice": "en-US-AriaNeural",
+ "roots": [
+  {
+   "root": "-ped- / -pod-",
+   "origin": "Latin pes, pedis; Greek pous, podos",
+   "zh": "脚",
+   "ja": "足",
+   "exp_zh": "来自拉丁语 pes, pedis（脚）。pedestrian（步行的人）、pedal（用脚踩的踏板）、pedestal（柱脚 → 底座）都很直观。最妙的一对是 ex-“解开”脚镣 → expedite（加快）/ expedition（出发远征）/ expeditious（迅速的），和 im-“套上”脚镣 → impede（阻碍）/ impediment（障碍）——正好反义。希腊语同源的“脚”是 pod：tripod（三脚架，见今日摄影主题），英语本族词 foot 也是同一古老词根（footage）。⚠️ pediatric（儿科）来自希腊语 pais“儿童”，peddle（叫卖）来源不明，都不是“脚”。",
+   "exp_ja": "ラテン語 pes, pedis（足）から。pedestrian（歩行者）、pedal（足で踏むペダル）、pedestal（柱の足元 → 台座）は分かりやすい。面白いのは ex-「足かせを外す」→ expedite（早める）／expedition（遠征）／expeditious（迅速な）と、im-「足かせをはめる」→ impede（妨げる）／impediment（障害）の反対ペア。ギリシャ語で「足」は pod：tripod（三脚、今日の写真テーマ）。英語本来の foot も同じ古い語根（footage）。⚠️ pediatric（小児科の）はギリシャ語 pais「子ども」、peddle（行商する）は語源不詳で、どちらも「足」ではない。",
+   "examples": [
+    "pedestrian",
+    "expedite",
+    "expedition",
+    "expeditious",
+    "impede",
+    "impediment",
+    "pedal",
+    "pedestal"
+   ]
+  },
+  {
+   "root": "-clin-",
+   "origin": "Latin -clinare; Greek klinein",
+   "zh": "倾斜；弯",
+   "ja": "傾く；曲げる",
+   "exp_zh": "来自拉丁语 -clinare（倾斜、弯）。de-“向下 / 离开”→ decline（下降；转身避开 → 婉拒）；in-“向”→ incline（倾斜；使倾向）→ inclined（倾向于……的）→ inclination（意愿）→ disinclined（不愿意的）；re-“向后”→ recline（向后靠、放倒座椅）。希腊语同根 klinein → klinē“床”→ clinic（诊所）/ clinical（临床的）。⚠️ decline 有“下降”和“婉拒”两义；be inclined 后接 to do。",
+   "exp_ja": "ラテン語 -clinare（傾く・曲げる）から。de-「下へ・離れて」→ decline（減少する；身をかわす → 断る）。in-「〜へ」→ incline（傾く・気持ちを傾ける）→ inclined（〜したい）→ inclination（意向）→ disinclined（気が進まない）。re-「後ろへ」→ recline（もたれる・座席を倒す）。ギリシャ語の同根 klinein → klinē「寝台」→ clinic（診療所）／clinical（臨床の）。⚠️ decline は「減少」と「断る」の 2 義。be inclined の後は to do。",
+   "examples": [
+    "decline",
+    "incline",
+    "inclined",
+    "inclination",
+    "disinclined",
+    "recline",
+    "clinic",
+    "clinical"
+   ]
+  },
+  {
+   "root": "-nect- / -nex-",
+   "origin": "Latin nectere, nexus",
+   "zh": "连接；系",
+   "ja": "結ぶ；つなぐ",
+   "exp_zh": "来自拉丁语 nectere（系、绑），过去分词 nexus。con-“一起”系 → connect（连接）→ connection（连接；转机；人脉）、connector（接头）、connectivity（网络连接）、connecting（转机的；相通的）、reconnect（重新联系）、interconnected（相互连通的）；ad-“附加”系 → annex（附楼；附件）。⚠️ neck（脖子）、next（下一个）是英语本族词，与 nect 无关。",
+   "exp_ja": "ラテン語 nectere（結ぶ）、過去分詞 nexus から。con-「共に」結ぶ → connect（つなぐ）→ connection（接続・乗り継ぎ・コネ）、connector（コネクター）、connectivity（接続性）、connecting（乗り継ぎの・つながった）、reconnect（再びつながる）、interconnected（相互につながった）。ad-「付け加えて」結ぶ → annex（別館・付属書）。⚠️ neck（首）や next（次の）は英語本来の語で、nect とは無関係。",
+   "examples": [
+    "connect",
+    "connection",
+    "connector",
+    "connectivity",
+    "interconnected",
+    "reconnect",
+    "annex",
+    "connecting"
+   ]
+  },
+  {
+   "root": "-frag- / -fract- / -frai-",
+   "origin": "Latin frangere, fractus",
+   "zh": "破碎；打破",
+   "ja": "壊す；砕く",
+   "exp_zh": "来自拉丁语 frangere（打破），过去分词 fractus。fragile（易碎的）→ fragility（脆弱）；fragment（碎片）→ fragmented（分散的）；fraction（打碎分出的一部分 → 一小部分；分数）；fracture（断裂；骨折）；in-“打破（规则）”→ infraction（违规）。frail（虚弱的）是 fragilis 经古法语 fraile 变来，和 fragile 是“同源双胞胎”。⚠️ fragrance / fragrant（香气）来自 fragrare“散发香味”，与“破碎”无关——Part 5 易混。",
+   "exp_ja": "ラテン語 frangere（壊す）、過去分詞 fractus から。fragile（壊れやすい）→ fragility（もろさ）。fragment（破片）→ fragmented（細分化した）。fraction（砕いて分けた一部 → ごく一部・分数）。fracture（亀裂・骨折）。in-「（規則を）破る」→ infraction（違反）。frail（虚弱な）は fragilis が古フランス語 fraile を経た形で、fragile と「同源の双子」。⚠️ fragrance／fragrant（香り）は fragrare「香る」からで「壊す」とは無関係（Part 5 で紛らわしい）。",
+   "examples": [
+    "fragile",
+    "fragility",
+    "fragment",
+    "fragmented",
+    "fraction",
+    "fracture",
+    "infraction",
+    "frail"
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "ped",
+   "title_zh": "词根 -ped- / -pod-：脚",
+   "title_ja": "語根 -ped- / -pod-：足",
+   "words": [
+    {
+     "w": "pedestrian",
+     "pos": "n./adj.",
+     "ipa": "/pəˈdɛstriən/",
+     "zh": "行人；步行的",
+     "ja": "歩行者；歩行者の",
+     "ex": "The street in front of the station will be open to pedestrians only on weekends.",
+     "ex_zh": "车站前的街道周末将只对行人开放。",
+     "ex_ja": "駅前の通りは、週末は歩行者専用になります。",
+     "parts": [
+      [
+       "ped",
+       "脚（pes, pedis）",
+       "足（pes, pedis）"
+      ],
+      [
+       "-estrian",
+       "……的（人）",
+       "〜の（人）"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 pedester“步行的”（pes“脚”）。",
+      "ja": "ラテン語 pedester「徒歩の」（pes「足」）。"
+     },
+     "forms": [
+      [
+       "pedestrian crossing",
+       "人行横道",
+       "横断歩道"
+      ],
+      [
+       "pedestrian-only zone",
+       "步行街区",
+       "歩行者専用区域"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1/4：pedestrians are crossing the street（行人在过马路）是高频描述。",
+      "ja": "Part 1/4：pedestrians are crossing the street（歩行者が道路を渡っている）は頻出。"
+     }
+    },
+    {
+     "w": "expedite",
+     "pos": "v.",
+     "ipa": "/ˈɛkspəˌdaɪt/",
+     "zh": "加快；迅速处理",
+     "ja": "促進する；迅速に処理する",
+     "ex": "We paid an extra fee to expedite the shipment of the replacement parts.",
+     "ex_zh": "我们支付了额外费用，以加快替换零件的发货。",
+     "ex_ja": "交換部品の発送を早めるため、追加料金を支払いました。",
+     "parts": [
+      [
+       "ex-",
+       "出；解开",
+       "外へ；解く"
+      ],
+      [
+       "ped",
+       "脚（pes, pedis）",
+       "足（pes, pedis）"
+      ],
+      [
+       "-ite",
+       "动词后缀",
+       "動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 expedire“把脚从脚镣里解开”→ 使畅通 → 加快。",
+      "ja": "ラテン語 expedire「足かせから足を解き放つ」→ 妨げをなくす → 早める。"
+     },
+     "forms": [
+      [
+       "expedited shipping",
+       "加急运送",
+       "速達便"
+      ],
+      [
+       "expedite the process",
+       "加快流程",
+       "手続きを早める"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5：expedite 后接事物（the order / the process），近义词 speed up、accelerate。",
+      "ja": "Part 5：expedite の目的語は物事（the order／the process）。類義語 speed up、accelerate。"
+     }
+    },
+    {
+     "w": "expedition",
+     "pos": "n.",
+     "ipa": "/ˌɛkspəˈdɪʃən/",
+     "zh": "远征；考察；探险队",
+     "ja": "遠征；探検（隊）",
+     "ex": "The museum is sponsoring a research expedition to the Arctic next summer.",
+     "ex_zh": "博物馆将赞助明年夏天前往北极的科考活动。",
+     "ex_ja": "その博物館は来年の夏、北極への調査遠征を後援します。",
+     "parts": [
+      [
+       "ex-",
+       "出",
+       "外へ"
+      ],
+      [
+       "ped",
+       "脚（pes, pedis）",
+       "足（pes, pedis）"
+      ],
+      [
+       "-ition",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 expeditio“出征”（expedire“解开脚、准备出发”）。",
+      "ja": "ラテン語 expeditio「出陣」（expedire「足を解き放つ、出発の準備をする」）。"
+     },
+     "forms": [
+      [
+       "go on an expedition",
+       "去远征 / 考察",
+       "遠征に出る"
+      ],
+      [
+       "fishing expedition",
+       "钓鱼之旅；（喻）盲目打探",
+       "釣り旅行；（比喩）当て推量の探り"
+      ]
+     ]
+    },
+    {
+     "w": "expeditious",
+     "pos": "adj.",
+     "ipa": "/ˌɛkspəˈdɪʃəs/",
+     "zh": "迅速而高效的",
+     "ja": "迅速な；手際のよい",
+     "ex": "Thank you for your expeditious handling of our refund request.",
+     "ex_zh": "感谢您迅速处理我们的退款申请。",
+     "ex_ja": "返金請求を迅速にご対応いただき、ありがとうございます。",
+     "parts": [
+      [
+       "ex-",
+       "出；解开",
+       "外へ；解く"
+      ],
+      [
+       "ped",
+       "脚（pes, pedis）",
+       "足（pes, pedis）"
+      ],
+      [
+       "-itious",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "由 expedition 派生，“扫清障碍的”→ 迅速的。",
+      "ja": "expedition から派生。「障害を取り除いた」→ 迅速な。"
+     },
+     "forms": [
+      [
+       "expeditiously (adv.)",
+       "迅速地",
+       "迅速に"
+      ],
+      [
+       "an expeditious manner",
+       "迅速的方式",
+       "迅速なやり方"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7：商务邮件里的正式用语，意思≈ quick and efficient；别和 expensive（昂贵的）混淆。",
+      "ja": "Part 7：ビジネスメールの硬い表現で、≒ quick and efficient。expensive（高価な）と混同しない。"
+     }
+    },
+    {
+     "w": "impede",
+     "pos": "v.",
+     "ipa": "/ɪmˈpid/",
+     "zh": "妨碍；阻碍",
+     "ja": "妨げる；遅らせる",
+     "ex": "Heavy snow impeded the delivery of materials to the construction site.",
+     "ex_zh": "大雪妨碍了材料运往施工现场。",
+     "ex_ja": "大雪で建設現場への資材搬入が妨げられました。",
+     "parts": [
+      [
+       "im-（in-）",
+       "在……里；套上",
+       "中に；はめる"
+      ],
+      [
+       "ped",
+       "脚（pes, pedis）",
+       "足（pes, pedis）"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 impedire“给脚套上脚镣”→ 阻碍；与 expedite（解开脚镣）正好相反。",
+      "ja": "ラテン語 impedire「足に足かせをはめる」→ 妨げる。expedite（足かせを外す）と正反対。"
+     },
+     "forms": [
+      [
+       "impede progress",
+       "阻碍进展",
+       "進展を妨げる"
+      ],
+      [
+       "impede traffic",
+       "妨碍交通",
+       "交通を妨げる"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5：impede ↔ expedite 是一对反义词，同源记忆最省力。",
+      "ja": "Part 5：impede ↔ expedite は反対語のペア。同じ語源で覚えると楽。"
+     }
+    },
+    {
+     "w": "impediment",
+     "pos": "n.",
+     "ipa": "/ɪmˈpɛdəmənt/",
+     "zh": "障碍；阻碍物",
+     "ja": "障害；妨げ",
+     "ex": "The lack of parking is the main impediment to expanding the store.",
+     "ex_zh": "停车位不足是扩建这家店的主要障碍。",
+     "ex_ja": "駐車場不足が、店舗拡張の主な障害となっています。",
+     "parts": [
+      [
+       "im-（in-）",
+       "套上",
+       "はめる"
+      ],
+      [
+       "ped",
+       "脚（pes, pedis）",
+       "足（pes, pedis）"
+      ],
+      [
+       "-iment",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 impedimentum“绊脚的东西、行李”。",
+      "ja": "ラテン語 impedimentum「足手まとい、荷物」。"
+     },
+     "forms": [
+      [
+       "impediment to growth",
+       "增长的障碍",
+       "成長の妨げ"
+      ],
+      [
+       "speech impediment",
+       "言语障碍",
+       "言語障害"
+      ]
+     ]
+    },
+    {
+     "w": "pedal",
+     "pos": "n./v.",
+     "ipa": "/ˈpɛdəl/",
+     "zh": "踏板；踩踏板",
+     "ja": "ペダル；ペダルをこぐ",
+     "ex": "The cyclist is pushing the pedals of a bicycle up a hill.",
+     "ex_zh": "骑车人正蹬着自行车踏板上坡。",
+     "ex_ja": "自転車に乗った人が、ペダルをこいで坂を上っている。",
+     "parts": [
+      [
+       "ped",
+       "脚（pes, pedis）",
+       "足（pes, pedis）"
+      ],
+      [
+       "-al",
+       "……的；名词后缀",
+       "〜の；名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 pedalis“脚的”→ 用脚踩的装置。",
+      "ja": "ラテン語 pedalis「足の」→ 足で踏む装置。"
+     },
+     "forms": [
+      [
+       "brake pedal",
+       "刹车踏板",
+       "ブレーキペダル"
+      ],
+      [
+       "pedal a bicycle",
+       "骑自行车",
+       "自転車をこぐ"
+      ]
+     ],
+     "tip": {
+      "zh": "⚠️ 与 peddle（叫卖）发音相同，拼写和来源都不同。",
+      "ja": "⚠️ peddle（行商する）と同音だが、つづりも語源も別。"
+     }
+    },
+    {
+     "w": "pedestal",
+     "pos": "n.",
+     "ipa": "/ˈpɛdəstəl/",
+     "zh": "底座；基座",
+     "ja": "台座；（像の）台",
+     "ex": "A bronze statue stands on a stone pedestal in the lobby.",
+     "ex_zh": "大厅里一尊铜像立在石头底座上。",
+     "ex_ja": "ロビーにはブロンズ像が石の台座の上に立っている。",
+     "parts": [
+      [
+       "ped",
+       "脚（pes, pedis）",
+       "足（pes, pedis）"
+      ],
+      [
+       "stal",
+       "台；位置（stallo）",
+       "台；場所（stallo）"
+      ]
+     ],
+     "note": {
+      "zh": "来自意大利语 piedestallo“柱脚”（piede“脚”+ stallo“位置、台”）。",
+      "ja": "イタリア語 piedestallo「柱の足元」（piede「足」＋ stallo「場所・台」）から。"
+     },
+     "forms": [
+      [
+       "on a pedestal",
+       "在底座上；（喻）被捧得很高",
+       "台座の上に；（比喩）崇拝されて"
+      ],
+      [
+       "pedestal fan",
+       "落地扇",
+       "スタンド扇風機"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1：a statue is mounted on a pedestal（雕像安放在底座上）。",
+      "ja": "Part 1：a statue is mounted on a pedestal（像が台座に据えられている）。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "clin",
+   "title_zh": "词根 -clin-：倾斜",
+   "title_ja": "語根 -clin-：傾く",
+   "words": [
+    {
+     "w": "decline",
+     "pos": "v./n.",
+     "ipa": "/dɪˈklaɪn/",
+     "zh": "下降；减少；婉拒",
+     "ja": "減少（する）；（丁重に）断る",
+     "ex": "Ms. Sato declined the job offer because she did not want to relocate.",
+     "ex_zh": "佐藤女士婉拒了这份工作邀请，因为她不想搬家。",
+     "ex_ja": "佐藤さんは転居したくなかったので、その仕事の申し出を断りました。",
+     "parts": [
+      [
+       "de-",
+       "向下；离开",
+       "下へ；離れて"
+      ],
+      [
+       "clin",
+       "倾斜；弯（clinare）",
+       "傾く；曲げる（clinare）"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 declinare“偏离、向下弯”→ 下降；转身避开 → 婉拒。",
+      "ja": "ラテン語 declinare「それる、下へ曲がる」→ 減少する；身をかわす → 断る。"
+     },
+     "forms": [
+      [
+       "a decline in sales",
+       "销售额下降",
+       "売上の減少"
+      ],
+      [
+       "decline an invitation",
+       "婉拒邀请",
+       "招待を断る"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5/7：decline 有两义——“下降”（sales declined）和“婉拒”（declined the offer），看宾语判断。",
+      "ja": "Part 5/7：decline は「減少する」（sales declined）と「断る」（declined the offer）の 2 義。目的語で判断。"
+     }
+    },
+    {
+     "w": "incline",
+     "pos": "v./n.",
+     "ipa": "/ɪnˈklaɪn/",
+     "zh": "使倾向；倾斜；斜坡",
+     "ja": "傾ける；傾く；坂",
+     "ex": "The new data may incline the board to approve the proposal.",
+     "ex_zh": "新数据可能会让董事会倾向于批准这个提案。",
+     "ex_ja": "新しいデータで、取締役会は提案の承認に傾くかもしれません。",
+     "parts": [
+      [
+       "in-",
+       "向",
+       "〜へ"
+      ],
+      [
+       "clin",
+       "倾斜；弯（clinare）",
+       "傾く；曲げる（clinare）"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 inclinare“向……弯”→ 倾斜 → 倾向。名词“斜坡”重音在前 /ˈɪnklaɪn/。",
+      "ja": "ラテン語 inclinare「〜へ曲げる」→ 傾く → 気持ちが傾く。名詞「坂」は前にアクセント /ˈɪnklaɪn/。"
+     },
+     "forms": [
+      [
+       "incline sb. to do",
+       "使某人倾向于做",
+       "人を〜する気にさせる"
+      ],
+      [
+       "a steep incline",
+       "陡坡",
+       "急な坂"
+      ]
+     ]
+    },
+    {
+     "w": "inclined",
+     "pos": "adj.",
+     "ipa": "/ɪnˈklaɪnd/",
+     "zh": "倾向于……的；有意的",
+     "ja": "〜したい気がする；〜する傾向がある",
+     "ex": "Customers are more inclined to buy when free shipping is offered.",
+     "ex_zh": "提供免费送货时，顾客更倾向于购买。",
+     "ex_ja": "送料無料だと、客は買う気になりやすい。",
+     "parts": [
+      [
+       "in-",
+       "向",
+       "〜へ"
+      ],
+      [
+       "clin",
+       "倾斜；弯（clinare）",
+       "傾く；曲げる（clinare）"
+      ],
+      [
+       "-ed",
+       "形容词（过去分词）",
+       "形容詞（過去分詞）"
+      ]
+     ],
+     "note": {
+      "zh": "incline 的过去分词作形容词。",
+      "ja": "incline の過去分詞が形容詞化したもの。"
+     },
+     "forms": [
+      [
+       "be inclined to do",
+       "倾向于做；想做",
+       "〜する傾向がある；〜したい"
+      ],
+      [
+       "mechanically inclined",
+       "有机械天赋的",
+       "機械に強い"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5：be inclined + to do（不是 doing）。",
+      "ja": "Part 5：be inclined の後は to do（doing ではない）。"
+     }
+    },
+    {
+     "w": "inclination",
+     "pos": "n.",
+     "ipa": "/ˌɪnkləˈneɪʃən/",
+     "zh": "意愿；倾向；倾斜",
+     "ja": "意向；傾向；傾斜",
+     "ex": "I have no inclination to change suppliers at this point.",
+     "ex_zh": "目前我没有更换供应商的打算。",
+     "ex_ja": "現時点では、仕入れ先を変えるつもりはありません。",
+     "parts": [
+      [
+       "in-",
+       "向",
+       "〜へ"
+      ],
+      [
+       "clin",
+       "倾斜；弯（clinare）",
+       "傾く；曲げる（clinare）"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 inclinatio“倾斜、偏向”。",
+      "ja": "ラテン語 inclinatio「傾き、偏り」。"
+     },
+     "forms": [
+      [
+       "have no inclination to do",
+       "无意做",
+       "〜する気がない"
+      ],
+      [
+       "natural inclination",
+       "天性倾向",
+       "生まれつきの傾向"
+      ]
+     ]
+    },
+    {
+     "w": "disinclined",
+     "pos": "adj.",
+     "ipa": "/ˌdɪsɪnˈklaɪnd/",
+     "zh": "不愿意的",
+     "ja": "気が進まない",
+     "ex": "Many employees seem disinclined to work overtime during the holidays.",
+     "ex_zh": "许多员工似乎不愿意在假期加班。",
+     "ex_ja": "多くの社員は休暇中の残業に気が進まないようだ。",
+     "parts": [
+      [
+       "dis-",
+       "否定",
+       "否定"
+      ],
+      [
+       "in-",
+       "向",
+       "〜へ"
+      ],
+      [
+       "clin",
+       "倾斜；弯（clinare）",
+       "傾く；曲げる（clinare）"
+      ],
+      [
+       "-ed",
+       "形容词",
+       "形容詞"
+      ]
+     ],
+     "note": {
+      "zh": "dis-“不”+ inclined“倾向于”。",
+      "ja": "dis-「否定」＋ inclined「〜したい」。"
+     },
+     "forms": [
+      [
+       "be disinclined to do",
+       "不愿做",
+       "〜する気がない"
+      ],
+      [
+       "disinclination (n.)",
+       "不情愿",
+       "気が進まないこと"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5：≈ reluctant / unwilling，后接 to do。",
+      "ja": "Part 5：≒ reluctant／unwilling。後ろは to do。"
+     }
+    },
+    {
+     "w": "recline",
+     "pos": "v.",
+     "ipa": "/rɪˈklaɪn/",
+     "zh": "向后靠；斜躺；放倒（座椅）",
+     "ja": "もたれる；（座席を）倒す",
+     "ex": "Passengers may recline their seats once the plane has reached cruising altitude.",
+     "ex_zh": "飞机到达巡航高度后，乘客可以放倒座椅。",
+     "ex_ja": "飛行機が巡航高度に達したら、座席を倒していただけます。",
+     "parts": [
+      [
+       "re-",
+       "向后",
+       "後ろへ"
+      ],
+      [
+       "clin",
+       "倾斜；弯（clinare）",
+       "傾く；曲げる（clinare）"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 reclinare“向后弯、靠”。",
+      "ja": "ラテン語 reclinare「後ろへ傾ける、もたれる」。"
+     },
+     "forms": [
+      [
+       "reclining seat",
+       "可放倒的座椅",
+       "リクライニングシート"
+      ],
+      [
+       "recliner (n.)",
+       "躺椅",
+       "リクライニングチェア"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1：a woman is reclining in a chair（女子正斜靠在椅子上）。",
+      "ja": "Part 1：a woman is reclining in a chair（女性が椅子にもたれている）。"
+     }
+    },
+    {
+     "w": "clinic",
+     "pos": "n.",
+     "ipa": "/ˈklɪnɪk/",
+     "zh": "诊所；门诊",
+     "ja": "診療所；クリニック",
+     "ex": "The clinic on the third floor offers free flu shots to all employees.",
+     "ex_zh": "三楼的诊所为全体员工免费接种流感疫苗。",
+     "ex_ja": "3 階の診療所では、全社員にインフルエンザ予防接種を無料で行っています。",
+     "parts": [
+      [
+       "clin",
+       "床（希腊语 klinē，源自 klinein“倾斜”）",
+       "寝台（ギリシャ語 klinē ＜ klinein「傾く」）"
+      ],
+      [
+       "-ic",
+       "……的",
+       "〜の"
+      ]
+     ],
+     "note": {
+      "zh": "希腊语 klinikē“床边的（医术）”← klinē“床”← klinein“倾斜、躺”，与拉丁语 clinare 同出一个古老词根。",
+      "ja": "ギリシャ語 klinikē「病床の（医術）」← klinē「寝台」← klinein「傾く・横たわる」。ラテン語 clinare と同じ古い語根。"
+     },
+     "forms": [
+      [
+       "dental clinic",
+       "牙科诊所",
+       "歯科医院"
+      ],
+      [
+       "walk-in clinic",
+       "无需预约的诊所",
+       "予約不要の診療所"
+      ]
+     ]
+    },
+    {
+     "w": "clinical",
+     "pos": "adj.",
+     "ipa": "/ˈklɪnɪkəl/",
+     "zh": "临床的",
+     "ja": "臨床の",
+     "ex": "The company will begin clinical trials of the new drug next spring.",
+     "ex_zh": "该公司将于明年春天开始新药的临床试验。",
+     "ex_ja": "その会社は来春、新薬の臨床試験を始めます。",
+     "parts": [
+      [
+       "clin",
+       "床（klinē）",
+       "寝台（klinē）"
+      ],
+      [
+       "-ic",
+       "……的",
+       "〜の"
+      ],
+      [
+       "-al",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "clinic + -al。“在病床边（实际诊疗）的”→ 临床的。",
+      "ja": "clinic ＋ -al。「病床のそばの（実際の診療の）」→ 臨床の。"
+     },
+     "forms": [
+      [
+       "clinical trial",
+       "临床试验",
+       "臨床試験"
+      ],
+      [
+       "clinical research",
+       "临床研究",
+       "臨床研究"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "nect",
+   "title_zh": "词根 -nect- / -nex-：连接",
+   "title_ja": "語根 -nect- / -nex-：結ぶ",
+   "words": [
+    {
+     "w": "connect",
+     "pos": "v.",
+     "ipa": "/kəˈnɛkt/",
+     "zh": "连接；接通；（使）联系",
+     "ja": "つなぐ；接続する；連絡を取らせる",
+     "ex": "Please connect the projector to the laptop before the meeting starts.",
+     "ex_zh": "请在会议开始前把投影仪连接到笔记本电脑上。",
+     "ex_ja": "会議が始まる前に、プロジェクターをノートパソコンにつないでください。",
+     "parts": [
+      [
+       "con-",
+       "一起",
+       "共に"
+      ],
+      [
+       "nect",
+       "连接；系（nectere）",
+       "結ぶ；つなぐ（nectere）"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 conectere“系在一起”。",
+      "ja": "ラテン語 conectere「一緒に結ぶ」。"
+     },
+     "forms": [
+      [
+       "connect A to/with B",
+       "把 A 和 B 连接",
+       "A を B につなぐ"
+      ],
+      [
+       "I'll connect you.",
+       "我帮您转接（电话）。",
+       "おつなぎします。"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 2/4：电话场景 I'll connect you to the sales department（帮您转接销售部）。",
+      "ja": "Part 2/4：電話で I'll connect you to the sales department（営業部におつなぎします）。"
+     }
+    },
+    {
+     "w": "connection",
+     "pos": "n.",
+     "ipa": "/kəˈnɛkʃən/",
+     "zh": "连接；联系；人脉；转机",
+     "ja": "接続；関係；コネ；乗り継ぎ",
+     "ex": "My flight was delayed, so I missed my connection in Frankfurt.",
+     "ex_zh": "我的航班延误了，所以在法兰克福没赶上转机。",
+     "ex_ja": "便が遅れたため、フランクフルトでの乗り継ぎに間に合いませんでした。",
+     "parts": [
+      [
+       "con-",
+       "一起",
+       "共に"
+      ],
+      [
+       "nect",
+       "连接；系（nectere）",
+       "結ぶ；つなぐ（nectere）"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "connect + -ion。",
+      "ja": "connect ＋ -ion。"
+     },
+     "forms": [
+      [
+       "in connection with",
+       "关于；与……有关",
+       "〜に関連して"
+      ],
+      [
+       "internet connection",
+       "网络连接",
+       "インターネット接続"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7：in connection with = regarding（关于）；出差文中 connection 常指“转机航班”。",
+      "ja": "Part 7：in connection with ＝ regarding（〜に関して）。出張の文脈では connection＝「乗り継ぎ便」。"
+     }
+    },
+    {
+     "w": "connector",
+     "pos": "n.",
+     "ipa": "/kəˈnɛktɚ/",
+     "zh": "连接器；接头",
+     "ja": "コネクター；接続部品",
+     "ex": "Each charging cable comes with a USB connector at one end.",
+     "ex_zh": "每根充电线的一端都带有一个 USB 接头。",
+     "ex_ja": "各充電ケーブルの片端には USB コネクターが付いています。",
+     "parts": [
+      [
+       "con-",
+       "一起",
+       "共に"
+      ],
+      [
+       "nect",
+       "连接；系（nectere）",
+       "結ぶ；つなぐ（nectere）"
+      ],
+      [
+       "-or",
+       "表示物/人",
+       "〜するもの"
+      ]
+     ],
+     "note": {
+      "zh": "connect + -or“……的东西”。",
+      "ja": "connect ＋ -or「〜するもの」。"
+     },
+     "forms": [
+      [
+       "cable connector",
+       "电缆接头",
+       "ケーブルコネクター"
+      ],
+      [
+       "connector pin",
+       "连接针",
+       "コネクターピン"
+      ]
+     ]
+    },
+    {
+     "w": "connectivity",
+     "pos": "n.",
+     "ipa": "/ˌkɑnɛkˈtɪvəti/",
+     "zh": "连接性；（网络）连接能力",
+     "ja": "接続性；つながりやすさ",
+     "ex": "The hotel upgraded its Wi-Fi to improve connectivity in every room.",
+     "ex_zh": "酒店升级了 Wi-Fi，以改善每个房间的网络连接。",
+     "ex_ja": "ホテルは全客室の接続環境を改善するため Wi-Fi を強化しました。",
+     "parts": [
+      [
+       "con-",
+       "一起",
+       "共に"
+      ],
+      [
+       "nect",
+       "连接；系（nectere）",
+       "結ぶ；つなぐ（nectere）"
+      ],
+      [
+       "-iv(e)",
+       "形容词后缀",
+       "形容詞を作る"
+      ],
+      [
+       "-ity",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "connective + -ity。",
+      "ja": "connective ＋ -ity。"
+     },
+     "forms": [
+      [
+       "internet connectivity",
+       "网络连接",
+       "インターネット接続"
+      ],
+      [
+       "wireless connectivity",
+       "无线连接",
+       "無線接続"
+      ]
+     ]
+    },
+    {
+     "w": "interconnected",
+     "pos": "adj.",
+     "ipa": "/ˌɪntɚkəˈnɛktɪd/",
+     "zh": "相互连接的；相互关联的",
+     "ja": "相互に結びついた",
+     "ex": "The two buildings are interconnected by a glass walkway on the second floor.",
+     "ex_zh": "这两栋楼在二楼由一条玻璃走廊相互连通。",
+     "ex_ja": "2 つの建物は 2 階のガラス張りの通路でつながっています。",
+     "parts": [
+      [
+       "inter-",
+       "相互；之间",
+       "相互に；間に"
+      ],
+      [
+       "con-",
+       "一起",
+       "共に"
+      ],
+      [
+       "nect",
+       "连接；系（nectere）",
+       "結ぶ；つなぐ（nectere）"
+      ],
+      [
+       "-ed",
+       "形容词",
+       "形容詞"
+      ]
+     ],
+     "note": {
+      "zh": "inter-“相互”+ connected。",
+      "ja": "inter-「相互」＋ connected。"
+     },
+     "forms": [
+      [
+       "interconnect (v.)",
+       "互连",
+       "相互につなぐ"
+      ],
+      [
+       "closely interconnected",
+       "密切关联的",
+       "密接に関連した"
+      ]
+     ]
+    },
+    {
+     "w": "reconnect",
+     "pos": "v.",
+     "ipa": "/ˌrikəˈnɛkt/",
+     "zh": "重新连接；重新联系",
+     "ja": "再接続する；再び連絡を取る",
+     "ex": "The alumni event is a great chance to reconnect with former colleagues.",
+     "ex_zh": "校友活动是和以前同事重新联络的好机会。",
+     "ex_ja": "同窓会イベントは、元同僚と再びつながる絶好の機会です。",
+     "parts": [
+      [
+       "re-",
+       "再",
+       "再び"
+      ],
+      [
+       "con-",
+       "一起",
+       "共に"
+      ],
+      [
+       "nect",
+       "连接；系（nectere）",
+       "結ぶ；つなぐ（nectere）"
+      ]
+     ],
+     "note": {
+      "zh": "re-“再”+ connect。",
+      "ja": "re-「再び」＋ connect。"
+     },
+     "forms": [
+      [
+       "reconnect with sb.",
+       "与某人重新联系",
+       "人と再び連絡を取る"
+      ],
+      [
+       "reconnect the power",
+       "恢复供电",
+       "電源を再接続する"
+      ]
+     ]
+    },
+    {
+     "w": "annex",
+     "pos": "n./v.",
+     "ipa": "/ˈænɛks/",
+     "zh": "附属建筑；附楼；附加；吞并",
+     "ja": "別館；付属書；併合する",
+     "ex": "The training sessions will be held in the annex next to the main building.",
+     "ex_zh": "培训课程将在主楼旁边的附楼举行。",
+     "ex_ja": "研修は本館の隣の別館で行われます。",
+     "parts": [
+      [
+       "an-（ad-）",
+       "向；附加",
+       "〜へ；付け加える"
+      ],
+      [
+       "nex",
+       "连接（nectere 的过去分词 nexus）",
+       "結ぶ（nectere の過去分詞 nexus）"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 annectere / annexus“系上、附上”。动词 /əˈnɛks/ 重音在后。",
+      "ja": "ラテン語 annectere／annexus「結び付ける」。動詞は /əˈnɛks/ と後ろにアクセント。"
+     },
+     "forms": [
+      [
+       "annex building",
+       "附属楼",
+       "別館"
+      ],
+      [
+       "annex to a contract",
+       "合同附件",
+       "契約書の付属書"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 4/7：会场通知常说 in the annex / the east annex（东附楼）；英式也拼 annexe。",
+      "ja": "Part 4/7：会場案内で in the annex／the east annex（東別館）が頻出。英式つづりは annexe。"
+     }
+    },
+    {
+     "w": "connecting",
+     "pos": "adj.",
+     "ipa": "/kəˈnɛktɪŋ/",
+     "zh": "连接的；转乘的；相通的",
+     "ja": "乗り継ぎの；連結した",
+     "ex": "Passengers with connecting flights should proceed to the transfer desk.",
+     "ex_zh": "有转机航班的乘客请前往中转柜台。",
+     "ex_ja": "乗り継ぎ便をご利用のお客様は、乗り継ぎカウンターへお進みください。",
+     "parts": [
+      [
+       "con-",
+       "一起",
+       "共に"
+      ],
+      [
+       "nect",
+       "连接；系（nectere）",
+       "結ぶ；つなぐ（nectere）"
+      ],
+      [
+       "-ing",
+       "形容词（现在分词）",
+       "形容詞（現在分詞）"
+      ]
+     ],
+     "note": {
+      "zh": "connect 的现在分词作形容词。",
+      "ja": "connect の現在分詞が形容詞化したもの。"
+     },
+     "forms": [
+      [
+       "connecting flight",
+       "转机航班",
+       "乗り継ぎ便"
+      ],
+      [
+       "connecting rooms",
+       "相通的客房",
+       "コネクティングルーム"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 4：机场广播 passengers with connecting flights（转机旅客）是固定说法。",
+      "ja": "Part 4：空港アナウンスの passengers with connecting flights（乗り継ぎのお客様）は定番。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "fract",
+   "title_zh": "词根 -frag- / -fract-：破碎",
+   "title_ja": "語根 -frag- / -fract-：壊す",
+   "words": [
+    {
+     "w": "fragile",
+     "pos": "adj.",
+     "ipa": "/ˈfrædʒəl/",
+     "zh": "易碎的；脆弱的",
+     "ja": "壊れやすい；もろい",
+     "ex": "Please mark the box \"fragile\" because it contains glassware.",
+     "ex_zh": "请在箱子上标注“易碎”，因为里面有玻璃器皿。",
+     "ex_ja": "中にガラス製品が入っているので、箱に「割れ物注意」と書いてください。",
+     "parts": [
+      [
+       "frag",
+       "破碎（frangere）",
+       "壊す（frangere）"
+      ],
+      [
+       "-ile",
+       "能……的",
+       "〜しやすい"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 fragilis“易碎的”（frangere“打破”）。",
+      "ja": "ラテン語 fragilis「壊れやすい」（frangere「壊す」）。"
+     },
+     "forms": [
+      [
+       "Fragile: Handle with Care",
+       "易碎品，小心轻放",
+       "割れ物注意・取扱注意"
+      ],
+      [
+       "fragile economy",
+       "脆弱的经济",
+       "もろい経済"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1/7：包裹标签 fragile = 易碎；⚠️ fragrance（香气）来自 fragrare“散发香味”，不是这个词根。",
+      "ja": "Part 1/7：荷物ラベルの fragile＝割れ物。⚠️ fragrance（香り）は fragrare「香る」からで別語源。"
+     }
+    },
+    {
+     "w": "fragility",
+     "pos": "n.",
+     "ipa": "/frəˈdʒɪləti/",
+     "zh": "脆弱；易碎性",
+     "ja": "もろさ；壊れやすさ",
+     "ex": "Because of the vase's fragility, it will be shipped in a wooden crate.",
+     "ex_zh": "由于花瓶易碎，将装在木箱里发货。",
+     "ex_ja": "花瓶は壊れやすいため、木箱に入れて発送されます。",
+     "parts": [
+      [
+       "frag",
+       "破碎",
+       "壊す"
+      ],
+      [
+       "-il(e)",
+       "能……的",
+       "〜しやすい"
+      ],
+      [
+       "-ity",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "fragile + -ity。",
+      "ja": "fragile ＋ -ity。"
+     },
+     "forms": [
+      [
+       "financial fragility",
+       "财务脆弱性",
+       "財務のもろさ"
+      ],
+      [
+       "due to its fragility",
+       "由于易碎",
+       "壊れやすいため"
+      ]
+     ]
+    },
+    {
+     "w": "fragment",
+     "pos": "n.",
+     "ipa": "/ˈfræɡmənt/",
+     "zh": "碎片；片段",
+     "ja": "破片；断片",
+     "ex": "Workers carefully removed fragments of broken glass from the floor.",
+     "ex_zh": "工人们小心地把地上的碎玻璃片清理掉。",
+     "ex_ja": "作業員たちは床から割れたガラスの破片を慎重に取り除いた。",
+     "parts": [
+      [
+       "frag",
+       "破碎",
+       "壊す"
+      ],
+      [
+       "-ment",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 fragmentum“碎块”（frangere）。",
+      "ja": "ラテン語 fragmentum「かけら」（frangere）。"
+     },
+     "forms": [
+      [
+       "glass fragments",
+       "玻璃碎片",
+       "ガラスの破片"
+      ],
+      [
+       "sentence fragment",
+       "不完整的句子",
+       "不完全な文"
+      ]
+     ]
+    },
+    {
+     "w": "fragmented",
+     "pos": "adj.",
+     "ipa": "/ˈfræɡˌmɛntɪd/",
+     "zh": "分散的；支离破碎的",
+     "ja": "細分化した；ばらばらの",
+     "ex": "The market for home appliances is highly fragmented, with dozens of small brands.",
+     "ex_zh": "家电市场高度分散，有几十个小品牌。",
+     "ex_ja": "家電市場は細分化が進んでおり、小さなブランドが何十もあります。",
+     "parts": [
+      [
+       "frag",
+       "破碎",
+       "壊す"
+      ],
+      [
+       "-ment",
+       "名词后缀",
+       "名詞を作る"
+      ],
+      [
+       "-ed",
+       "形容词",
+       "形容詞"
+      ]
+     ],
+     "note": {
+      "zh": "fragment + -ed“被打碎的”。",
+      "ja": "fragment ＋ -ed「砕かれた」。"
+     },
+     "forms": [
+      [
+       "fragmented market",
+       "分散的市场",
+       "細分化された市場"
+      ],
+      [
+       "fragmentation (n.)",
+       "碎片化",
+       "断片化"
+      ]
+     ]
+    },
+    {
+     "w": "fraction",
+     "pos": "n.",
+     "ipa": "/ˈfrækʃən/",
+     "zh": "一小部分；分数",
+     "ja": "ごく一部；分数",
+     "ex": "The new printer uses only a fraction of the energy of our old model.",
+     "ex_zh": "新打印机的耗电量只有我们旧型号的一小部分。",
+     "ex_ja": "新しいプリンターの消費電力は、旧機種のほんの一部です。",
+     "parts": [
+      [
+       "fract",
+       "破碎（fractus）",
+       "壊された（fractus）"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 fractio“打碎、分开”→ 被分出来的一部分。",
+      "ja": "ラテン語 fractio「砕くこと・分割」→ 分けられた一部分。"
+     },
+     "forms": [
+      [
+       "a fraction of the cost",
+       "成本的一小部分（极便宜）",
+       "費用のほんの一部"
+      ],
+      [
+       "fractional (adj.)",
+       "微小的；部分的",
+       "わずかな；部分的な"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7：at a fraction of the cost / price = 价格低得多（广告常用）。",
+      "ja": "Part 7：at a fraction of the cost／price＝ずっと安く（広告の定番）。"
+     }
+    },
+    {
+     "w": "fracture",
+     "pos": "n./v.",
+     "ipa": "/ˈfræktʃɚ/",
+     "zh": "骨折；断裂；使断裂",
+     "ja": "骨折；亀裂；折る",
+     "ex": "The inspector found a small fracture in one of the support beams.",
+     "ex_zh": "检查员在一根支撑梁上发现了一处小裂缝。",
+     "ex_ja": "検査官は支持梁の 1 本に小さな亀裂を見つけた。",
+     "parts": [
+      [
+       "fract",
+       "破碎",
+       "壊す"
+      ],
+      [
+       "-ure",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 fractura“断裂”。",
+      "ja": "ラテン語 fractura「割れ目」。"
+     },
+     "forms": [
+      [
+       "a hairline fracture",
+       "细微裂缝；骨裂",
+       "ひび；ひび状骨折"
+      ],
+      [
+       "fracture a bone",
+       "骨折",
+       "骨を折る"
+      ]
+     ]
+    },
+    {
+     "w": "infraction",
+     "pos": "n.",
+     "ipa": "/ɪnˈfrækʃən/",
+     "zh": "违规；违反",
+     "ja": "違反",
+     "ex": "Parking in a reserved space without a permit is considered an infraction.",
+     "ex_zh": "无许可证在专用车位停车被视为违规。",
+     "ex_ja": "許可証なしで専用区画に駐車すると、違反とみなされます。",
+     "parts": [
+      [
+       "in-",
+       "进入；对……",
+       "中へ；〜に対して"
+      ],
+      [
+       "fract",
+       "破坏",
+       "壊す"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 infractio“破坏（规则）”。",
+      "ja": "ラテン語 infractio「（規則を）破ること」。"
+     },
+     "forms": [
+      [
+       "minor infraction",
+       "轻微违规",
+       "軽微な違反"
+      ],
+      [
+       "traffic infraction",
+       "交通违规",
+       "交通違反"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7：≈ violation / breach，规章通知中常见。",
+      "ja": "Part 7：≒ violation／breach。規則の通知で頻出。"
+     }
+    },
+    {
+     "w": "frail",
+     "pos": "adj.",
+     "ipa": "/freɪl/",
+     "zh": "虚弱的；脆弱的",
+     "ja": "虚弱な；か弱い",
+     "ex": "Volunteers deliver meals to frail elderly residents who cannot leave their homes.",
+     "ex_zh": "志愿者为无法出门的体弱老人送餐。",
+     "ex_ja": "ボランティアが、外出できない虚弱な高齢住民に食事を届けています。",
+     "parts": [
+      [
+       "frail",
+       "易碎（fragilis 经古法语 fraile）",
+       "壊れやすい（fragilis → 古フランス語 fraile）"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 fraile ← 拉丁语 fragilis，与 fragile 同源：一个经法语变形，一个直接借自拉丁语。",
+      "ja": "古フランス語 fraile ← ラテン語 fragilis。fragile と同源で、片方はフランス語経由、片方はラテン語から直接。"
+     },
+     "forms": [
+      [
+       "frail health",
+       "身体虚弱",
+       "体が弱いこと"
+      ],
+      [
+       "frailty (n.)",
+       "虚弱",
+       "虚弱さ"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "apparel",
+   "title_zh": "主题：服装与时装零售",
+   "title_ja": "テーマ：衣料品とファッション小売",
+   "words": [
+    {
+     "w": "apparel",
+     "pos": "n.",
+     "ipa": "/əˈpærəl/",
+     "zh": "服装；衣物（集合）",
+     "ja": "衣料品；アパレル",
+     "ex": "The store sells outdoor apparel and hiking equipment.",
+     "ex_zh": "这家店出售户外服装和徒步装备。",
+     "ex_ja": "その店はアウトドア衣料品とハイキング用品を販売している。",
+     "parts": [
+      [
+       "ap-（ad-）",
+       "向",
+       "〜へ"
+      ],
+      [
+       "par",
+       "准备（parare）",
+       "準備する（parare）"
+      ],
+      [
+       "-el",
+       "名词词尾",
+       "名詞の語尾"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 apareillier“准备、装备”（源自拉丁语 parare“准备”）→ 穿戴的装备 → 服装。",
+      "ja": "古フランス語 apareillier「準備する・装備する」（ラテン語 parare「準備する」）→ 身に着ける装備 → 衣服。"
+     },
+     "forms": [
+      [
+       "apparel industry",
+       "服装行业",
+       "アパレル業界"
+      ],
+      [
+       "athletic apparel",
+       "运动服装",
+       "スポーツウェア"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7：apparel 是不可数集合名词，不说 an apparel / apparels。",
+      "ja": "Part 7：apparel は不可算の集合名詞。an apparel／apparels とは言わない。"
+     }
+    },
+    {
+     "w": "garment",
+     "pos": "n.",
+     "ipa": "/ˈɡɑrmənt/",
+     "zh": "（一件）衣服",
+     "ja": "衣服（1 着）",
+     "ex": "Several garments are hanging on a rack near the window.",
+     "ex_zh": "窗边的衣架上挂着几件衣服。",
+     "ex_ja": "窓の近くのラックに何着かの服が掛かっている。",
+     "parts": [
+      [
+       "garn",
+       "装备（garnir）",
+       "装備する（garnir）"
+      ],
+      [
+       "-ment",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 garnement“装备”← garnir“装备、供给”。",
+      "ja": "古フランス語 garnement「装備」← garnir「備える」。"
+     },
+     "forms": [
+      [
+       "garment factory",
+       "制衣厂",
+       "縫製工場"
+      ],
+      [
+       "garment bag",
+       "西装收纳袋",
+       "ガーメントバッグ"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1：clothes 的正式说法，常见 Some garments are being displayed / hanging。",
+      "ja": "Part 1：clothes の硬い言い方。Some garments are hanging などが頻出。"
+     }
+    },
+    {
+     "w": "textile",
+     "pos": "n.",
+     "ipa": "/ˈtɛkstaɪl/",
+     "zh": "纺织品；纺织业",
+     "ja": "織物；繊維",
+     "ex": "The company imports textiles from several countries in Asia.",
+     "ex_zh": "该公司从亚洲多个国家进口纺织品。",
+     "ex_ja": "その会社はアジアの数か国から織物を輸入している。",
+     "parts": [
+      [
+       "text",
+       "编织（texere）",
+       "織る（texere）"
+      ],
+      [
+       "-ile",
+       "……的；名词后缀",
+       "〜の；名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 textilis“编织的”← texere“编织”；text（文本＝编织出的文字）同源。",
+      "ja": "ラテン語 textilis「織られた」← texere「織る」。text（言葉を織ったもの）も同源。"
+     },
+     "forms": [
+      [
+       "textile industry",
+       "纺织业",
+       "繊維産業"
+      ],
+      [
+       "textile mill",
+       "纺织厂",
+       "紡績工場"
+      ]
+     ]
+    },
+    {
+     "w": "fabric",
+     "pos": "n.",
+     "ipa": "/ˈfæbrɪk/",
+     "zh": "布料；织物；（社会等的）结构",
+     "ja": "布地；生地；構造",
+     "ex": "Customers can choose from over fifty fabrics for their custom sofa.",
+     "ex_zh": "顾客可以从五十多种布料中为定制沙发挑选。",
+     "ex_ja": "お客様は特注ソファの生地を 50 種類以上から選べます。",
+     "parts": [
+      [
+       "fabr",
+       "工匠；制作（faber）",
+       "職人；作る（faber）"
+      ],
+      [
+       "-ic",
+       "名词词尾",
+       "名詞の語尾"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 fabrica“工坊、制作物”← faber“工匠”；fabricate（制造）同源。",
+      "ja": "ラテン語 fabrica「工房・作られた物」← faber「職人」。fabricate（製造する）も同源。"
+     },
+     "forms": [
+      [
+       "fabric softener",
+       "衣物柔顺剂",
+       "柔軟剤"
+      ],
+      [
+       "cotton fabric",
+       "棉布",
+       "綿の生地"
+      ]
+     ],
+     "tip": {
+      "zh": "⚠️ fabric 是“布料”，不是“工厂”（factory）。",
+      "ja": "⚠️ fabric は「布地」で「工場」（factory）ではない。"
+     }
+    },
+    {
+     "w": "tailor",
+     "pos": "n./v.",
+     "ipa": "/ˈteɪlɚ/",
+     "zh": "裁缝；（为特定需求）定制、调整",
+     "ja": "仕立て屋；（目的に）合わせる",
+     "ex": "We can tailor the training program to meet the needs of your staff.",
+     "ex_zh": "我们可以根据贵公司员工的需要定制培训课程。",
+     "ex_ja": "研修プログラムを御社の社員のニーズに合わせて調整できます。",
+     "parts": [
+      [
+       "tail",
+       "切（taillier）",
+       "切る（taillier）"
+      ],
+      [
+       "-or",
+       "表示人",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 tailleor“裁剪的人”← taillier“切”。⚠️ 和 tail（尾巴）无关。",
+      "ja": "古フランス語 tailleor「裁つ人」← taillier「切る」。⚠️ tail（しっぽ）とは無関係。"
+     },
+     "forms": [
+      [
+       "tailor A to B",
+       "根据 B 定制 A",
+       "A を B に合わせる"
+      ],
+      [
+       "tailor-made (adj.)",
+       "量身定做的",
+       "オーダーメードの"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5：tailor ... to (meet) the needs of 是高频搭配；tailored = customized。",
+      "ja": "Part 5：tailor ... to (meet) the needs of は頻出。tailored ＝ customized。"
+     }
+    },
+    {
+     "w": "seam",
+     "pos": "n.",
+     "ipa": "/sim/",
+     "zh": "接缝；缝口",
+     "ja": "縫い目；継ぎ目",
+     "ex": "The jacket was returned because one of the seams had come apart.",
+     "ex_zh": "这件夹克被退回了，因为有一处接缝开线了。",
+     "ex_ja": "縫い目の 1 か所がほつれたので、そのジャケットは返品された。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分。古英语 seam“缝合处”，本族词，与 sew（缝）有关，整体记忆。",
+      "ja": "信頼できる語根分解はない。古英語 seam「縫い合わせた所」。本来語で sew（縫う）と関係がある。まとめて覚える。"
+     },
+     "forms": [
+      [
+       "seamless (adj.)",
+       "无缝的；流畅的",
+       "継ぎ目のない；スムーズな"
+      ],
+      [
+       "seamlessly (adv.)",
+       "顺畅地",
+       "途切れなく"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5/7：seamless transition（无缝衔接）在商务文中很常见。",
+      "ja": "Part 5/7：seamless transition（スムーズな移行）はビジネス文で頻出。"
+     }
+    },
+    {
+     "w": "stitch",
+     "pos": "n./v.",
+     "ipa": "/stɪtʃ/",
+     "zh": "针脚；缝",
+     "ja": "ひと針；縫う",
+     "ex": "A tailor is stitching a button onto a shirt.",
+     "ex_zh": "一名裁缝正把纽扣缝到衬衫上。",
+     "ex_ja": "仕立て屋がシャツにボタンを縫い付けている。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分。古英语 stice“刺、扎”，本族词，与 stick 有关，整体记忆。",
+      "ja": "信頼できる語根分解はない。古英語 stice「刺すこと」。本来語で stick と関係がある。まとめて覚える。"
+     },
+     "forms": [
+      [
+       "stitch up",
+       "缝合",
+       "縫い合わせる"
+      ],
+      [
+       "hand-stitched (adj.)",
+       "手工缝制的",
+       "手縫いの"
+      ]
+     ]
+    },
+    {
+     "w": "sleeve",
+     "pos": "n.",
+     "ipa": "/sliv/",
+     "zh": "袖子；（唱片等的）封套",
+     "ja": "袖；（レコードなどの）ジャケット",
+     "ex": "The man is rolling up his sleeves to wash the dishes.",
+     "ex_zh": "那名男子正卷起袖子洗碗。",
+     "ex_ja": "男性が皿を洗うために袖をまくっている。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分。古英语 sliefe，本族词，整体记忆。",
+      "ja": "信頼できる語根分解はない。古英語 sliefe。本来語。まとめて覚える。"
+     },
+     "forms": [
+      [
+       "short-sleeved (adj.)",
+       "短袖的",
+       "半袖の"
+      ],
+      [
+       "roll up one's sleeves",
+       "卷起袖子；（喻）准备大干",
+       "袖をまくる；（比喩）本気で取りかかる"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1：is rolling up his sleeves 是常见动作描述。",
+      "ja": "Part 1：is rolling up his sleeves はよく出る動作描写。"
+     }
+    },
+    {
+     "w": "hem",
+     "pos": "n./v.",
+     "ipa": "/hɛm/",
+     "zh": "（衣服的）下摆；缝边",
+     "ja": "（服の）裾；裾上げする",
+     "ex": "The shop can shorten the hem of your trousers while you wait.",
+     "ex_zh": "店里可以在您等候时把裤脚改短。",
+     "ex_ja": "お待ちいただく間に、ズボンの裾を短くできます。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分。古英语 hem“边缘”，本族词，整体记忆。",
+      "ja": "信頼できる語根分解はない。古英語 hem「へり」。本来語。まとめて覚える。"
+     },
+     "forms": [
+      [
+       "take up a hem",
+       "把下摆改短",
+       "裾を上げる"
+      ],
+      [
+       "hemline (n.)",
+       "下摆线",
+       "裾の線"
+      ]
+     ]
+    },
+    {
+     "w": "wardrobe",
+     "pos": "n.",
+     "ipa": "/ˈwɔrdroʊb/",
+     "zh": "衣柜；（个人的）全部衣服",
+     "ja": "洋服だんす；持ち衣装",
+     "ex": "Our stylists can help you build a professional wardrobe for your new job.",
+     "ex_zh": "我们的造型师可以帮您为新工作置办一套职业服装。",
+     "ex_ja": "当店のスタイリストが、新しい仕事向けの仕事着選びをお手伝いします。",
+     "parts": [
+      [
+       "ward",
+       "看管（warder）",
+       "番をする（warder）"
+      ],
+      [
+       "robe",
+       "长袍；衣服",
+       "衣服"
+      ]
+     ],
+     "note": {
+      "zh": "古北法语 warderobe：warder“看管”+ robe“衣服”→ 存放衣服的地方。",
+      "ja": "古北フランス語 warderobe：warder「守る」＋ robe「衣服」→ 衣服をしまう所。"
+     },
+     "forms": [
+      [
+       "built-in wardrobe",
+       "嵌入式衣柜",
+       "造り付けのクローゼット"
+      ],
+      [
+       "wardrobe department",
+       "（剧组）服装部",
+       "衣装部"
+      ]
+     ]
+    },
+    {
+     "w": "outfit",
+     "pos": "n./v.",
+     "ipa": "/ˈaʊtfɪt/",
+     "zh": "全套服装；装备；为……配备",
+     "ja": "服装一式；装備する",
+     "ex": "All the meeting rooms have been outfitted with new video equipment.",
+     "ex_zh": "所有会议室都已配备了新的视频设备。",
+     "ex_ja": "すべての会議室に新しいビデオ機器が備え付けられた。",
+     "parts": [
+      [
+       "out",
+       "向外",
+       "外へ"
+      ],
+      [
+       "fit",
+       "装备；合身",
+       "整える；合う"
+      ]
+     ],
+     "note": {
+      "zh": "复合词：out + fit，原义“出行前的装备”→ 全套服装；动词“配备”。",
+      "ja": "複合語：out ＋ fit。元は「出かける装備」→ 服装一式；動詞は「装備する」。"
+     },
+     "forms": [
+      [
+       "be outfitted with",
+       "配备有",
+       "〜を備えている"
+      ],
+      [
+       "a casual outfit",
+       "一套休闲装",
+       "カジュアルな服装"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7：动词 outfit = equip（配备），be outfitted with ≈ be equipped with。",
+      "ja": "Part 7：動詞 outfit ＝ equip。be outfitted with ≒ be equipped with。"
+     },
+     "hl": "outfitted"
+    },
+    {
+     "w": "mannequin",
+     "pos": "n.",
+     "ipa": "/ˈmænəkɪn/",
+     "zh": "人体模型；服装模特架",
+     "ja": "マネキン",
+     "ex": "A mannequin wearing a winter coat is displayed in the shop window.",
+     "ex_zh": "橱窗里展示着一个穿着冬季大衣的人体模型。",
+     "ex_ja": "冬のコートを着たマネキンがショーウィンドーに飾られている。",
+     "parts": [
+      [
+       "mann",
+       "人",
+       "人"
+      ],
+      [
+       "-equin",
+       "小（指小词尾）",
+       "小さい（指小辞）"
+      ]
+     ],
+     "note": {
+      "zh": "法语 mannequin ← 荷兰语 manneken“小人儿”。",
+      "ja": "フランス語 mannequin ← オランダ語 manneken「小さな人」。"
+     },
+     "forms": [
+      [
+       "display mannequin",
+       "展示模特",
+       "展示用マネキン"
+      ],
+      [
+       "window mannequin",
+       "橱窗模特",
+       "ウィンドウのマネキン"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1：A mannequin is being dressed / is displayed（模特正被穿衣 / 被展示）。",
+      "ja": "Part 1：A mannequin is being dressed／is displayed（マネキンに服を着せている／飾られている）。"
+     }
+    },
+    {
+     "w": "hanger",
+     "pos": "n.",
+     "ipa": "/ˈhæŋɚ/",
+     "zh": "衣架",
+     "ja": "ハンガー",
+     "ex": "Some shirts have been placed on hangers along the wall.",
+     "ex_zh": "沿墙放着几件挂在衣架上的衬衫。",
+     "ex_ja": "壁沿いに何枚かのシャツがハンガーに掛けられている。",
+     "parts": [
+      [
+       "hang",
+       "挂",
+       "掛ける"
+      ],
+      [
+       "-er",
+       "表示物",
+       "〜するもの"
+      ]
+     ],
+     "note": {
+      "zh": "hang“挂”+ -er“……的东西”。",
+      "ja": "hang「掛ける」＋ -er「〜するもの」。"
+     },
+     "forms": [
+      [
+       "coat hanger",
+       "衣架",
+       "洋服掛け"
+      ],
+      [
+       "hang up (v.)",
+       "挂起；挂断电话",
+       "掛ける；電話を切る"
+      ]
+     ],
+     "tip": {
+      "zh": "⚠️ 发音同 hangar（飞机库），拼写不同。",
+      "ja": "⚠️ hangar（格納庫）と同音だが、つづりが違う。"
+     }
+    },
+    {
+     "w": "fitting",
+     "pos": "n./adj.",
+     "ipa": "/ˈfɪtɪŋ/",
+     "zh": "试衣；配件；合适的",
+     "ja": "試着；付属品；ふさわしい",
+     "ex": "Please leave any items you do not want in the fitting room.",
+     "ex_zh": "不需要的商品请留在试衣间。",
+     "ex_ja": "ご不要の商品は試着室にお置きください。",
+     "parts": [
+      [
+       "fit",
+       "合身；适合",
+       "合う"
+      ],
+      [
+       "-ing",
+       "名词/形容词后缀",
+       "名詞・形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "fit + -ing。",
+      "ja": "fit ＋ -ing。"
+     },
+     "forms": [
+      [
+       "fitting room",
+       "试衣间",
+       "試着室"
+      ],
+      [
+       "a fitting tribute",
+       "恰如其分的致敬",
+       "ふさわしい賛辞"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1/4：fitting room = 试衣间（≈ dressing room）。",
+      "ja": "Part 1/4：fitting room ＝ 試着室（≒ dressing room）。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "photo",
+   "title_zh": "主题：摄影与视频拍摄",
+   "title_ja": "テーマ：写真と映像撮影",
+   "words": [
+    {
+     "w": "photographer",
+     "pos": "n.",
+     "ipa": "/fəˈtɑɡrəfɚ/",
+     "zh": "摄影师",
+     "ja": "写真家；カメラマン",
+     "ex": "A photographer has been hired to take pictures at the awards ceremony.",
+     "ex_zh": "已请了一位摄影师在颁奖典礼上拍照。",
+     "ex_ja": "授賞式で写真を撮るためにカメラマンが雇われた。",
+     "parts": [
+      [
+       "photo-",
+       "光（希腊语 phōs）",
+       "光（ギリシャ語 phōs）"
+      ],
+      [
+       "graph",
+       "写；画",
+       "書く；描く"
+      ],
+      [
+       "-er",
+       "表示人",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "希腊语 phōs“光”+ graphein“写”→ “用光来画”。",
+      "ja": "ギリシャ語 phōs「光」＋ graphein「書く」→「光で描く」。"
+     },
+     "forms": [
+      [
+       "photograph (n./v.)",
+       "照片；拍照",
+       "写真；撮影する"
+      ],
+      [
+       "photography (n.)",
+       "摄影（术）",
+       "写真撮影"
+      ]
+     ],
+     "tip": {
+      "zh": "⚠️ 重音：PHOtograph / phoTOgrapher / photoGRAPHic，听力容易听漏。",
+      "ja": "⚠️ アクセント：PHOtograph／phoTOgrapher／photoGRAPHic。リスニングで要注意。"
+     }
+    },
+    {
+     "w": "tripod",
+     "pos": "n.",
+     "ipa": "/ˈtraɪpɑd/",
+     "zh": "三脚架",
+     "ja": "三脚",
+     "ex": "The photographer is setting up a camera on a tripod.",
+     "ex_zh": "摄影师正把相机架在三脚架上。",
+     "ex_ja": "カメラマンが三脚にカメラを設置している。",
+     "parts": [
+      [
+       "tri-",
+       "三",
+       "三"
+      ],
+      [
+       "pod",
+       "脚（希腊语 pous, podos）",
+       "足（ギリシャ語 pous, podos）"
+      ]
+     ],
+     "note": {
+      "zh": "希腊语 tripous“三只脚的”。pod 是希腊语“脚”，与拉丁语 ped 同源。",
+      "ja": "ギリシャ語 tripous「3 本足の」。pod はギリシャ語の「足」で、ラテン語 ped と同源。"
+     },
+     "forms": [
+      [
+       "camera tripod",
+       "相机三脚架",
+       "カメラ用三脚"
+      ],
+      [
+       "set up a tripod",
+       "架好三脚架",
+       "三脚を立てる"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1：is setting up / adjusting a tripod 是高频描述。",
+      "ja": "Part 1：is setting up／adjusting a tripod は頻出。"
+     }
+    },
+    {
+     "w": "shutter",
+     "pos": "n.",
+     "ipa": "/ˈʃʌtɚ/",
+     "zh": "快门；百叶窗；卷帘门",
+     "ja": "シャッター；よろい戸",
+     "ex": "The shop's metal shutters are closed for the holiday.",
+     "ex_zh": "这家店的金属卷帘门因节假日关着。",
+     "ex_ja": "その店の金属シャッターは休日のため閉まっている。",
+     "parts": [
+      [
+       "shut",
+       "关",
+       "閉める"
+      ],
+      [
+       "-er",
+       "表示物",
+       "〜するもの"
+      ]
+     ],
+     "note": {
+      "zh": "shut“关”+ -er“……的东西”。",
+      "ja": "shut「閉める」＋ -er「〜するもの」。"
+     },
+     "forms": [
+      [
+       "shutter speed",
+       "快门速度",
+       "シャッタースピード"
+      ],
+      [
+       "window shutters",
+       "百叶窗",
+       "窓のよろい戸"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1：The shutters have been pulled down（卷帘门已经拉下）。",
+      "ja": "Part 1：The shutters have been pulled down（シャッターが下ろされている）。"
+     }
+    },
+    {
+     "w": "exposure",
+     "pos": "n.",
+     "ipa": "/ɪkˈspoʊʒɚ/",
+     "zh": "曝光；曝露；（媒体）曝光度",
+     "ja": "露出；さらされること；宣伝",
+     "ex": "Sponsoring the marathon will give our brand valuable media exposure.",
+     "ex_zh": "赞助马拉松会给我们的品牌带来宝贵的媒体曝光。",
+     "ex_ja": "マラソンへの協賛は、当社ブランドに貴重なメディア露出をもたらします。",
+     "parts": [
+      [
+       "ex-",
+       "向外",
+       "外へ"
+      ],
+      [
+       "pos",
+       "放置",
+       "置く"
+      ],
+      [
+       "-ure",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "expose“暴露”+ -ure。expose 来自古法语 exposer（受拉丁语 exponere“放到外面”影响）。",
+      "ja": "expose「さらす」＋ -ure。expose は古フランス語 exposer（ラテン語 exponere「外に置く」の影響）から。"
+     },
+     "forms": [
+      [
+       "media exposure",
+       "媒体曝光",
+       "メディア露出"
+      ],
+      [
+       "exposure to sunlight",
+       "暴露在阳光下",
+       "日光にさらすこと"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7：广告/赞助文章中 exposure = 曝光度、知名度。",
+      "ja": "Part 7：広告・協賛の文脈では exposure ＝ 露出・知名度。"
+     }
+    },
+    {
+     "w": "footage",
+     "pos": "n.",
+     "ipa": "/ˈfʊtɪdʒ/",
+     "zh": "（一段）影片素材；镜头",
+     "ja": "（撮影した）映像；フィルム",
+     "ex": "The film crew spent three days shooting footage of the new factory.",
+     "ex_zh": "摄制组花了三天拍摄新工厂的视频素材。",
+     "ex_ja": "撮影班は新工場の映像を 3 日かけて撮影した。",
+     "parts": [
+      [
+       "foot",
+       "英尺；脚",
+       "フィート；足"
+      ],
+      [
+       "-age",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "foot + -age，原指胶片的英尺长度 → 影像素材；foot 与 ped/pod 是同一古老词根。",
+      "ja": "foot ＋ -age。元はフィルムの長さ（フィート）→ 映像素材。foot は ped／pod と同じ古い語根。"
+     },
+     "forms": [
+      [
+       "video footage",
+       "视频素材",
+       "映像"
+      ],
+      [
+       "security footage",
+       "监控录像",
+       "防犯カメラの映像"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7：footage 是不可数名词。",
+      "ja": "Part 7：footage は不可算名詞。"
+     }
+    },
+    {
+     "w": "backdrop",
+     "pos": "n.",
+     "ipa": "/ˈbækˌdrɑp/",
+     "zh": "背景幕；背景",
+     "ja": "背景幕；背景",
+     "ex": "The mountains provide a beautiful backdrop for the wedding photos.",
+     "ex_zh": "群山为婚纱照提供了美丽的背景。",
+     "ex_ja": "山々が結婚写真の美しい背景になっている。",
+     "parts": [
+      [
+       "back",
+       "后面",
+       "後ろ"
+      ],
+      [
+       "drop",
+       "垂下的幕",
+       "垂れ幕"
+      ]
+     ],
+     "note": {
+      "zh": "复合词：back“后面”+ drop“垂幕”。",
+      "ja": "複合語：back「後ろ」＋ drop「垂れ幕」。"
+     },
+     "forms": [
+      [
+       "against the backdrop of",
+       "在……背景下",
+       "〜を背景に"
+      ],
+      [
+       "studio backdrop",
+       "摄影棚背景布",
+       "スタジオの背景布"
+      ]
+     ]
+    },
+    {
+     "w": "studio",
+     "pos": "n.",
+     "ipa": "/ˈstudioʊ/",
+     "zh": "工作室；摄影棚；录音室",
+     "ja": "スタジオ；アトリエ",
+     "ex": "The portraits will be taken at our studio on Maple Avenue.",
+     "ex_zh": "肖像照将在我们位于枫树大道的摄影棚拍摄。",
+     "ex_ja": "肖像写真はメープル通りの当スタジオで撮影します。",
+     "parts": [
+      [
+       "stud",
+       "热心；学习（studium）",
+       "熱意；学ぶ（studium）"
+      ],
+      [
+       "-io",
+       "名词词尾",
+       "名詞の語尾"
+      ]
+     ],
+     "note": {
+      "zh": "意大利语 studio“书房、工作室”← 拉丁语 studium“热心、学习”；study 同源。",
+      "ja": "イタリア語 studio「書斎・仕事場」← ラテン語 studium「熱意・学び」。study も同源。"
+     },
+     "forms": [
+      [
+       "photo studio",
+       "照相馆",
+       "写真館"
+      ],
+      [
+       "studio apartment",
+       "单间公寓",
+       "ワンルームマンション"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7：studio apartment = 单间公寓（租房广告常见）。",
+      "ja": "Part 7：studio apartment ＝ ワンルーム（賃貸広告で頻出）。"
+     }
+    },
+    {
+     "w": "caption",
+     "pos": "n.",
+     "ipa": "/ˈkæpʃən/",
+     "zh": "（图片）说明文字；字幕",
+     "ja": "（写真の）説明文；字幕",
+     "ex": "Please check that each photo in the brochure has the correct caption.",
+     "ex_zh": "请检查宣传册里每张照片的说明文字是否正确。",
+     "ex_ja": "パンフレットの各写真に正しい説明文が付いているか確認してください。",
+     "parts": [
+      [
+       "capt",
+       "拿；抓（capere）",
+       "取る（capere）"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 captio“拿取”← capere；后来指文件开头的“标题说明”，再到图片说明。",
+      "ja": "ラテン語 captio「取ること」← capere。のちに文書冒頭の見出し → 写真の説明文。"
+     },
+     "forms": [
+      [
+       "photo caption",
+       "图片说明",
+       "写真の説明文"
+      ],
+      [
+       "closed captions",
+       "（可开关的）字幕",
+       "クローズドキャプション"
+      ]
+     ]
+    },
+    {
+     "w": "zoom",
+     "pos": "v./n.",
+     "ipa": "/zum/",
+     "zh": "（镜头）推近；猛增；变焦",
+     "ja": "ズームする；急上昇する",
+     "ex": "You can zoom in on the map to see the exact location of the venue.",
+     "ex_zh": "你可以放大地图查看会场的确切位置。",
+     "ex_ja": "地図を拡大すれば、会場の正確な場所がわかります。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分。拟声词，模仿快速移动的嗡嗡声，整体记忆。",
+      "ja": "信頼できる語根分解はない。擬音語。速く動く音をまねたもの。まとめて覚える。"
+     },
+     "forms": [
+      [
+       "zoom in / out",
+       "放大 / 缩小",
+       "拡大／縮小する"
+      ],
+      [
+       "zoom lens",
+       "变焦镜头",
+       "ズームレンズ"
+      ]
+     ]
+    },
+    {
+     "w": "snapshot",
+     "pos": "n.",
+     "ipa": "/ˈsnæpˌʃɑt/",
+     "zh": "快照；简要情况",
+     "ja": "スナップ写真；概況",
+     "ex": "The report gives a snapshot of consumer spending in the third quarter.",
+     "ex_zh": "这份报告简要呈现了第三季度的消费支出情况。",
+     "ex_ja": "その報告書は第 3 四半期の個人消費の概況を示している。",
+     "parts": [
+      [
+       "snap",
+       "快速咬合；快拍",
+       "素早く；パチッと"
+      ],
+      [
+       "shot",
+       "射击；拍摄",
+       "撃つこと；一枚"
+      ]
+     ],
+     "note": {
+      "zh": "复合词：snap“迅速”+ shot“一拍”。",
+      "ja": "複合語：snap「素早く」＋ shot「一撃・一枚」。"
+     },
+     "forms": [
+      [
+       "a snapshot of",
+       "……的简要概况",
+       "〜の概況"
+      ],
+      [
+       "take a snapshot",
+       "拍一张快照",
+       "スナップ写真を撮る"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7：报告里 a snapshot of = 对……的概览，不是真的照片。",
+      "ja": "Part 7：報告書の a snapshot of ＝「〜の概要」で、写真ではない。"
+     }
+    },
+    {
+     "w": "filming",
+     "pos": "n.",
+     "ipa": "/ˈfɪlmɪŋ/",
+     "zh": "拍摄；摄制",
+     "ja": "撮影",
+     "ex": "Filming will take place in the lobby on Saturday, so the entrance will be closed.",
+     "ex_zh": "周六将在大厅拍摄，因此入口将关闭。",
+     "ex_ja": "土曜日にロビーで撮影が行われるため、入口は閉鎖されます。",
+     "parts": [
+      [
+       "film",
+       "薄膜；胶片",
+       "薄い膜；フィルム"
+      ],
+      [
+       "-ing",
+       "动名词后缀",
+       "動名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "film + -ing。film 来自古英语 filmen“薄膜”。",
+      "ja": "film ＋ -ing。film は古英語 filmen「薄い膜」から。"
+     },
+     "forms": [
+      [
+       "filming location",
+       "拍摄地",
+       "撮影場所"
+      ],
+      [
+       "film crew",
+       "摄制组",
+       "撮影クルー"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 4/7：大楼通知 filming will take place ... 告知拍摄与封闭区域。",
+      "ja": "Part 4/7：建物の案内 filming will take place ... は撮影と閉鎖区域の告知。"
+     }
+    },
+    {
+     "w": "lighting",
+     "pos": "n.",
+     "ipa": "/ˈlaɪtɪŋ/",
+     "zh": "照明；灯光",
+     "ja": "照明",
+     "ex": "The lighting in the conference room has been replaced with energy-saving bulbs.",
+     "ex_zh": "会议室的照明已换成节能灯泡。",
+     "ex_ja": "会議室の照明は省エネ電球に交換された。",
+     "parts": [
+      [
+       "light",
+       "光",
+       "光"
+      ],
+      [
+       "-ing",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "light + -ing。",
+      "ja": "light ＋ -ing。"
+     },
+     "forms": [
+      [
+       "lighting fixture",
+       "照明灯具",
+       "照明器具"
+      ],
+      [
+       "stage lighting",
+       "舞台灯光",
+       "舞台照明"
+      ]
+     ]
+    },
+    {
+     "w": "retouch",
+     "pos": "v.",
+     "ipa": "/riˈtʌtʃ/",
+     "zh": "修饰（照片）；润色",
+     "ja": "（写真を）修整する",
+     "ex": "The designer retouched the product photos before they were posted online.",
+     "ex_zh": "设计师在产品照片上线前做了修图。",
+     "ex_ja": "デザイナーは商品写真をネットに掲載する前に修整した。",
+     "parts": [
+      [
+       "re-",
+       "再",
+       "再び"
+      ],
+      [
+       "touch",
+       "触碰",
+       "触れる"
+      ]
+     ],
+     "note": {
+      "zh": "re-“再”+ touch“触碰、修饰”。",
+      "ja": "re-「再び」＋ touch「触れる・手を加える」。"
+     },
+     "forms": [
+      [
+       "photo retouching",
+       "照片修图",
+       "写真修整"
+      ],
+      [
+       "retouch the paint",
+       "补漆",
+       "塗装を手直しする"
+      ]
+     ]
+    },
+    {
+     "w": "portrait",
+     "pos": "n.",
+     "ipa": "/ˈpɔrtrɪt/",
+     "zh": "肖像；人像照",
+     "ja": "肖像；ポートレート",
+     "ex": "A portrait of the company's founder hangs above the reception desk.",
+     "ex_zh": "公司创始人的肖像挂在前台上方。",
+     "ex_ja": "創業者の肖像画が受付の上に掛かっている。",
+     "parts": [
+      [
+       "por-（pro-）",
+       "向前",
+       "前へ"
+      ],
+      [
+       "trait",
+       "拉；描绘（trahere）",
+       "引く；描く（trahere）"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 portraire“描绘”← 拉丁语 protrahere“拉出来”（tract 同源）。",
+      "ja": "古フランス語 portraire「描く」← ラテン語 protrahere「引き出す」（tract と同源）。"
+     },
+     "forms": [
+      [
+       "portrait photographer",
+       "人像摄影师",
+       "ポートレート写真家"
+      ],
+      [
+       "portray (v.)",
+       "描绘；扮演",
+       "描く；演じる"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1：A portrait is hanging on the wall（墙上挂着肖像）。",
+      "ja": "Part 1：A portrait is hanging on the wall（壁に肖像画が掛かっている）。"
+     }
+    }
+   ]
+  }
+ ]
+}
