@@ -1,0 +1,2636 @@
+{
+ "day": 28,
+ "date": "2026-10-31",
+ "title_zh": "四大词根 + 科研与实验室、手机与电子设备",
+ "title_ja": "4つの語根＋研究と実験室、携帯電話と電子機器",
+ "intro_zh": "今天掌握 4 个高频词根（magn·maj·max 大 / dom 家·主人 / sat 足够 / cult 耕种），再学科研与实验室、手机与电子设备的核心词——强化 Part 5 词性题（analysis / analyze / analyst、domestically、satisfactorily、predominantly）和易混词（magnate ≠ magnet、device ≠ devise、satisfactory 是“合格”不是“非常满意”、research 不可数），Part 1 场景（looking into a microscope、plugging in a cord、cables are lying on the floor），Part 4 机场广播（domestic ↔ international）以及 Part 7 的研究报告（findings、methodology、the majority of）和 IT 维护通知（reboot the servers）。",
+ "intro_ja": "今日は語根 4 つ（magn・maj・max 大きい／dom 家・主人／sat 十分／cult 耕す）と、研究と実験室、携帯電話と電子機器の重要語を学びます。Part 5 の品詞問題（analysis / analyze / analyst、domestically、satisfactorily、predominantly）と紛らわしい語（magnate ≠ magnet、device ≠ devise、satisfactory は「合格」で「大満足」ではない、research は不可算）、Part 1 の場面（looking into a microscope、plugging in a cord、cables are lying on the floor）、Part 4 の空港アナウンス（domestic ↔ international）、Part 7 の研究報告（findings、methodology、the majority of）と IT 保守のお知らせ（reboot the servers）を強化します。",
+ "voice": "en-US-AriaNeural",
+ "roots": [
+  {
+   "root": "-magn- / -maj- / -max-",
+   "origin": "Latin magnus, major, maximus",
+   "zh": "大",
+   "ja": "大きい",
+   "exp_zh": "来自拉丁语 magnus（大），比较级 major（更大），最高级 maximus（最大）——三个形式正好是“大 → 更大 → 最大”。magnus → magnify（放大）/ magnitude（规模）/ magnificent（壮丽的，magnus + facere“做大事”）/ magnate（大亨）；major → major（主要的）/ majority（大多数）；maximus → maximum（最大量）/ maximize（最大化）。反义一组来自 minor / minimus：minority、minimum、minimize。⚠️ magnet（磁铁）来自希腊地名 Magnesia，magazine（杂志 / 仓库）来自阿拉伯语 makhāzin，都与“大”无关。",
+   "exp_ja": "ラテン語 magnus（大きい）、比較級 major（より大きい）、最上級 maximus（最大の）から。「大 → より大 → 最大」の三段活用。magnus → magnify（拡大する）／magnitude（規模）／magnificent（壮大な。magnus＋facere「大きなことをする」）／magnate（大物）。major → major（主要な）／majority（大多数）。maximus → maximum（最大限）／maximize（最大化する）。反対は minor / minimus：minority、minimum、minimize。⚠️ magnet（磁石）はギリシャの地名 Magnesia、magazine（雑誌・倉庫）はアラビア語 makhāzin 由来で「大きい」とは無関係。",
+   "examples": [
+    "magnify",
+    "magnitude",
+    "magnificent",
+    "magnate",
+    "major",
+    "majority",
+    "maximum",
+    "maximize"
+   ]
+  },
+  {
+   "root": "-dom- / -domin-",
+   "origin": "Latin domus, dominus",
+   "zh": "家；主人",
+   "ja": "家；主人",
+   "exp_zh": "来自拉丁语 domus（家），一家之主叫 dominus（主人）。“家”这一支：domestic（国内的、家庭的——把“国家”看成一个大家）/ domestically；“主人 → 统治”这一支：dominate（主导）/ dominant（占主导的）/ predominant（占多数的，pre-“在前”）/ predominantly / domain（主人的领地 → 领域、域名）/ condominium（con-“共同”+ 所有权 → 产权公寓，简称 condo）。⚠️ freedom、kingdom 里的 -dom 是古英语后缀 dōm“状态、领域”，与拉丁语 domus 无关；random 也无关。",
+   "exp_ja": "ラテン語 domus（家）と、家の主人 dominus から。「家」の系統：domestic（国内の・家庭の。国をひとつの家と見る）／domestically。「主人 → 支配」の系統：dominate（支配する）／dominant（優勢な）／predominant（主な。pre-「前に」）／predominantly／domain（主人の領地 → 領域・ドメイン）／condominium（con-「共同」＋所有権 → 分譲マンション、略して condo）。⚠️ freedom、kingdom の -dom は古英語の接尾辞 dōm「状態・領域」でラテン語 domus とは無関係。random も無関係。",
+   "examples": [
+    "domestic",
+    "domestically",
+    "dominate",
+    "dominant",
+    "predominant",
+    "predominantly",
+    "domain",
+    "condominium"
+   ]
+  },
+  {
+   "root": "-sat- / -satis- / -satur-",
+   "origin": "Latin satis, satur",
+   "zh": "足够；饱满",
+   "ja": "十分；満ちた",
+   "exp_zh": "来自拉丁语 satis（足够）和同源的 satur（吃饱的）。satis + facere“做” → satisfy（使满意 = 做到足够）→ satisfactory（合格的）/ satisfactorily / unsatisfactory / dissatisfaction（不满）；satur → saturate（使饱和）/ saturated（饱和的）/ saturation（饱和）。已学过的 asset（资产）也来自 ad satis“达到足够”——原指足以偿债的财产。⚠️ satellite（卫星）和 Saturday（土星 Saturn 之日）都与 satis 无关。satisfactory 重点是“达标”，不等于“非常满意”。",
+   "exp_ja": "ラテン語 satis（十分）と同源の satur（満腹の）から。satis＋facere「する」→ satisfy（満足させる＝十分にする）→ satisfactory（十分な・合格の）／satisfactorily／unsatisfactory／dissatisfaction（不満）。satur → saturate（飽和させる）／saturated（飽和した）／saturation（飽和）。既習の asset（資産）も ad satis「十分に」から——借金を返すのに十分な財産、が元の意味。⚠️ satellite（衛星）や Saturday（土星 Saturn の日）は satis と無関係。satisfactory は「基準を満たす」が中心で「大満足」ではない。",
+   "examples": [
+    "satisfy",
+    "satisfactory",
+    "satisfactorily",
+    "unsatisfactory",
+    "dissatisfaction",
+    "saturate",
+    "saturated",
+    "saturation"
+   ]
+  },
+  {
+   "root": "-cult-",
+   "origin": "Latin colere, cultus",
+   "zh": "耕种；培育",
+   "ja": "耕す；育てる",
+   "exp_zh": "来自拉丁语 colere（耕种、照料），过去分词 cultus。耕地 → 培养人 → 文化：culture（文化、企业风气）/ cultural / multicultural（多元文化的）/ cross-cultural（跨文化的）；“耕种”本义：cultivation（种植、培养）/ cultivated（人工种植的）/ agriculture（ager“田地”+ 耕种 → 农业）/ horticulture（hortus“园子”+ 耕种 → 园艺）。⚠️ consult（咨询）来自 consulere，difficult 来自 facilis，虽然拼写里有 cult，都与“耕种”无关。",
+   "exp_ja": "ラテン語 colere（耕す・世話する）、過去分詞 cultus から。畑を耕す → 人を育てる → 文化：culture（文化・企業風土）／cultural／multicultural（多文化の）／cross-cultural（異文化間の）。「耕す」の本義：cultivation（栽培・育成）／cultivated（栽培された）／agriculture（ager「畑」＋耕作 → 農業）／horticulture（hortus「庭」＋耕作 → 園芸）。⚠️ consult（相談する）は consulere、difficult は facilis 由来で、つづりに cult があっても「耕す」とは無関係。",
+   "examples": [
+    "culture",
+    "cultural",
+    "multicultural",
+    "cross-cultural",
+    "cultivation",
+    "cultivated",
+    "agriculture",
+    "horticulture"
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "magn",
+   "title_zh": "词根 -magn- / -maj- / -max-：大",
+   "title_ja": "語根 -magn- / -maj- / -max-：大きい",
+   "words": [
+    {
+     "w": "magnify",
+     "pos": "v.",
+     "ipa": "/ˈmæɡnəˌfaɪ/",
+     "zh": "放大；夸大",
+     "ja": "拡大する；誇張する",
+     "ex": "The new display software allows users to magnify charts without losing image quality.",
+     "ex_zh": "新的显示软件可以让用户放大图表而不损失画质。",
+     "ex_ja": "新しい表示ソフトでは、画質を落とさずにグラフを拡大できる。",
+     "parts": [
+      [
+       "magn",
+       "大（magnus）",
+       "大きい（magnus）"
+      ],
+      [
+       "-ify",
+       "使……",
+       "〜にする"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 magnificare“使变大”（magnus“大”+ facere“做”）。",
+      "ja": "ラテン語 magnificare「大きくする」（magnus「大きい」＋ facere「する」）。"
+     },
+     "forms": [
+      [
+       "magnifying glass",
+       "放大镜",
+       "虫眼鏡"
+      ],
+      [
+       "magnification (n.)",
+       "放大（倍率）",
+       "拡大（倍率）"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1：A man is looking through a magnifying glass. 是常见描述。",
+      "ja": "Part 1：A man is looking through a magnifying glass.（虫眼鏡をのぞいている）は頻出。"
+     }
+    },
+    {
+     "w": "magnitude",
+     "pos": "n.",
+     "ipa": "/ˈmæɡnəˌtud/",
+     "zh": "规模；重要性；（地震）震级",
+     "ja": "大きさ；重大さ；（地震の）規模",
+     "ex": "Few employees understood the magnitude of the changes until the merger was announced.",
+     "ex_zh": "直到宣布合并，很少有员工意识到这些变化的规模之大。",
+     "ex_ja": "合併が発表されるまで、変化の大きさを理解している社員はほとんどいなかった。",
+     "parts": [
+      [
+       "magn",
+       "大（magnus）",
+       "大きい（magnus）"
+      ],
+      [
+       "-itude",
+       "表示性质、状态",
+       "性質・状態"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 magnitudo“大小”（magnus“大”）。",
+      "ja": "ラテン語 magnitudo「大きさ」（magnus「大きい」）。"
+     },
+     "forms": [
+      [
+       "of this magnitude",
+       "这种规模的",
+       "これほどの規模の"
+      ],
+      [
+       "the magnitude of the problem",
+       "问题的严重程度",
+       "問題の深刻さ"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7：a project of this magnitude（这么大规模的项目）常在同义替换题里换成 size / scale。",
+      "ja": "Part 7：a project of this magnitude（これほどの規模の事業）は size / scale の言い換えで出る。"
+     }
+    },
+    {
+     "w": "magnificent",
+     "pos": "adj.",
+     "ipa": "/mæɡˈnɪfəsənt/",
+     "zh": "壮丽的；极好的",
+     "ja": "壮大な；見事な",
+     "ex": "Guests at the rooftop restaurant can enjoy a magnificent view of the harbor.",
+     "ex_zh": "屋顶餐厅的客人可以欣赏到港口的壮丽景色。",
+     "ex_ja": "屋上レストランの客は、港の見事な眺めを楽しめる。",
+     "parts": [
+      [
+       "magn",
+       "大（magnus）",
+       "大きい（magnus）"
+      ],
+      [
+       "fic",
+       "做（facere）",
+       "する（facere）"
+      ],
+      [
+       "-ent",
+       "……的",
+       "〜な"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 magnificus“做大事的、宏伟的”（magnus + facere）。",
+      "ja": "ラテン語 magnificus「大きなことをする→壮大な」（magnus＋facere）。"
+     },
+     "forms": [
+      [
+       "magnificently (adv.)",
+       "壮丽地",
+       "見事に"
+      ],
+      [
+       "magnificence (n.)",
+       "壮丽",
+       "壮大さ"
+      ]
+     ],
+     "tip": {
+      "zh": "广告和旅游介绍里常和 view / scenery 搭配。",
+      "ja": "広告や観光案内で view / scenery と組んで使われる。"
+     }
+    },
+    {
+     "w": "magnate",
+     "pos": "n.",
+     "ipa": "/ˈmæɡˌneɪt/",
+     "zh": "大亨；巨头",
+     "ja": "大物；実業界の有力者",
+     "ex": "The hotel was originally built by a shipping magnate in the 1920s.",
+     "ex_zh": "这家酒店最初是一位航运大亨在 20 世纪 20 年代建造的。",
+     "ex_ja": "そのホテルはもともと、1920 年代に海運王によって建てられた。",
+     "parts": [
+      [
+       "magn",
+       "大（magnus）",
+       "大きい（magnus）"
+      ],
+      [
+       "-ate",
+       "表示人",
+       "人"
+      ]
+     ],
+     "note": {
+      "zh": "晚期拉丁语 magnates“大人物”（magnus“大”）。",
+      "ja": "後期ラテン語 magnates「大物たち」（magnus「大きい」）。"
+     },
+     "forms": [
+      [
+       "business magnate",
+       "商业大亨",
+       "財界の大物"
+      ],
+      [
+       "media magnate",
+       "媒体巨头",
+       "メディア王"
+      ]
+     ],
+     "tip": {
+      "zh": "⚠️ magnate（大亨）≠ magnet（磁铁，来自希腊地名 Magnesia，与 magnus 无关）。",
+      "ja": "⚠️ magnate（大物）≠ magnet（磁石。ギリシャの地名 Magnesia 由来で magnus とは無関係）。"
+     }
+    },
+    {
+     "w": "major",
+     "pos": "adj./v.",
+     "ipa": "/ˈmeɪdʒɚ/",
+     "zh": "主要的；重大的；主修",
+     "ja": "主要な；大きな；専攻する",
+     "ex": "Traffic delays are expected because of major road repairs on Fifth Avenue.",
+     "ex_zh": "由于第五大道的大规模道路维修，预计交通会延误。",
+     "ex_ja": "5 番街の大規模な道路補修のため、交通の遅れが予想される。",
+     "parts": [
+      [
+       "maj",
+       "更大（major）",
+       "より大きい（major）"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 major“更大的”，是 magnus 的比较级。",
+      "ja": "ラテン語 major「より大きい」。magnus の比較級。"
+     },
+     "forms": [
+      [
+       "major in ~",
+       "主修……",
+       "〜を専攻する"
+      ],
+      [
+       "a major client",
+       "大客户",
+       "主要顧客"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5：major 作形容词放在名词前（a major change），没有 *a major of 的用法。",
+      "ja": "Part 5：major は名詞の前に置く形容詞（a major change）として出ることが多い。"
+     }
+    },
+    {
+     "w": "majority",
+     "pos": "n.",
+     "ipa": "/məˈdʒɔrəti/",
+     "zh": "大多数；多数",
+     "ja": "大多数；過半数",
+     "ex": "The majority of survey respondents said they would prefer a four-day workweek.",
+     "ex_zh": "大多数受访者表示他们更喜欢每周工作四天。",
+     "ex_ja": "調査回答者の大多数は、週 4 日勤務の方がよいと答えた。",
+     "parts": [
+      [
+       "maj",
+       "更大（major）",
+       "より大きい（major）"
+      ],
+      [
+       "-ity",
+       "表示性质、状态",
+       "性質・状態"
+      ]
+     ],
+     "note": {
+      "zh": "中世拉丁语 majoritas（major“更大的”）。",
+      "ja": "中世ラテン語 majoritas（major「より大きい」）。"
+     },
+     "forms": [
+      [
+       "the majority of ~",
+       "……的大多数",
+       "〜の大部分"
+      ],
+      [
+       "minority (n.)",
+       "少数",
+       "少数派"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7 同义替换：the majority of = most。Part 5：the majority of + 复数名词 → 动词用复数。",
+      "ja": "Part 7 言い換え：the majority of ＝ most。Part 5：the majority of＋複数名詞 → 動詞は複数形。"
+     }
+    },
+    {
+     "w": "maximum",
+     "pos": "n./adj.",
+     "ipa": "/ˈmæksəməm/",
+     "zh": "最大量；最大的",
+     "ja": "最大限；最大の",
+     "ex": "The conference room can hold a maximum of forty people.",
+     "ex_zh": "这间会议室最多可容纳四十人。",
+     "ex_ja": "その会議室は最大 40 人まで収容できる。",
+     "parts": [
+      [
+       "max",
+       "最大（maximus）",
+       "最大の（maximus）"
+      ],
+      [
+       "-um",
+       "名词词尾",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 maximum“最大的”，是 magnus 的最高级。",
+      "ja": "ラテン語 maximum「最大のもの」。magnus の最上級。"
+     },
+     "forms": [
+      [
+       "a maximum of ~",
+       "最多……",
+       "最大〜"
+      ],
+      [
+       "minimum (n./adj.)",
+       "最小量；最小的",
+       "最小限；最小の"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 4/7：a maximum of 20 participants 表示“名额上限”，常考人数限制。",
+      "ja": "Part 4/7：a maximum of 20 participants は「定員」を表し、人数制限の問題で頻出。"
+     }
+    },
+    {
+     "w": "maximize",
+     "pos": "v.",
+     "ipa": "/ˈmæksəˌmaɪz/",
+     "zh": "使最大化；充分利用",
+     "ja": "最大化する；最大限に活用する",
+     "ex": "The new shelving system will help us maximize storage space in the warehouse.",
+     "ex_zh": "新的货架系统将帮助我们最大限度地利用仓库空间。",
+     "ex_ja": "新しい棚システムは、倉庫の保管スペースを最大限に活用するのに役立つ。",
+     "parts": [
+      [
+       "max",
+       "最大（maximus）",
+       "最大の（maximus）"
+      ],
+      [
+       "-ize",
+       "使……",
+       "〜にする"
+      ]
+     ],
+     "note": {
+      "zh": "maximum + -ize“使达到最大”。",
+      "ja": "maximum＋-ize「最大にする」。"
+     },
+     "forms": [
+      [
+       "maximize profits",
+       "使利润最大化",
+       "利益を最大化する"
+      ],
+      [
+       "minimize (v.)",
+       "使最小化",
+       "最小限にする"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5：maximize efficiency / output / space 是常见搭配。",
+      "ja": "Part 5：maximize efficiency / output / space はよく出る組み合わせ。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "dom",
+   "title_zh": "词根 -dom- / -domin-：家；主人",
+   "title_ja": "語根 -dom- / -domin-：家；主人",
+   "words": [
+    {
+     "w": "domestic",
+     "pos": "adj.",
+     "ipa": "/dəˈmɛstɪk/",
+     "zh": "国内的；家庭的",
+     "ja": "国内の；家庭の",
+     "ex": "Domestic flights depart from Terminal 1, and international flights from Terminal 2.",
+     "ex_zh": "国内航班从 1 号航站楼出发，国际航班从 2 号航站楼出发。",
+     "ex_ja": "国内線は第 1 ターミナル、国際線は第 2 ターミナルから出発する。",
+     "parts": [
+      [
+       "dom",
+       "家（domus）",
+       "家（domus）"
+      ],
+      [
+       "-estic",
+       "……的",
+       "〜の"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 domesticus“家里的”（domus“家”）→“本国的”。",
+      "ja": "ラテン語 domesticus「家の」（domus「家」）→「自国の」。"
+     },
+     "forms": [
+      [
+       "domestic market",
+       "国内市场",
+       "国内市場"
+      ],
+      [
+       "domestic appliances",
+       "家用电器",
+       "家庭用電化製品"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 4：domestic ↔ international 是机场广播和销售报告里的对比词。",
+      "ja": "Part 4：domestic ↔ international は空港アナウンスや売上報告での対比語。"
+     }
+    },
+    {
+     "w": "domestically",
+     "pos": "adv.",
+     "ipa": "/dəˈmɛstɪkli/",
+     "zh": "在国内",
+     "ja": "国内で",
+     "ex": "All of our furniture is designed and manufactured domestically.",
+     "ex_zh": "我们所有的家具都是在国内设计和制造的。",
+     "ex_ja": "当社の家具はすべて国内で設計・製造されている。",
+     "parts": [
+      [
+       "dom",
+       "家（domus）",
+       "家（domus）"
+      ],
+      [
+       "-estic",
+       "……的",
+       "〜の"
+      ],
+      [
+       "-ally",
+       "副词词尾",
+       "副詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "domestic + -ally。",
+      "ja": "domestic＋-ally。"
+     },
+     "forms": [
+      [
+       "domestically produced",
+       "国产的",
+       "国産の"
+      ],
+      [
+       "sell domestically and overseas",
+       "在国内外销售",
+       "国内外で販売する"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5：修饰动词 manufactured 要用副词 domestically。",
+      "ja": "Part 5：動詞 manufactured を修飾するので副詞 domestically。"
+     }
+    },
+    {
+     "w": "dominate",
+     "pos": "v.",
+     "ipa": "/ˈdɑməˌneɪt/",
+     "zh": "主导；支配；占据",
+     "ja": "支配する；大半を占める",
+     "ex": "Two large companies dominate the regional market for office supplies.",
+     "ex_zh": "两家大公司主导着该地区的办公用品市场。",
+     "ex_ja": "2 つの大企業が地域の事務用品市場を支配している。",
+     "parts": [
+      [
+       "domin",
+       "主人（dominus）",
+       "主人（dominus）"
+      ],
+      [
+       "-ate",
+       "动词词尾",
+       "動詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 dominari“当主人、统治”（dominus“一家之主”← domus“家”）。",
+      "ja": "ラテン語 dominari「主人として支配する」（dominus「家の主人」← domus「家」）。"
+     },
+     "forms": [
+      [
+       "dominate the market",
+       "主导市场",
+       "市場を支配する"
+      ],
+      [
+       "domination (n.)",
+       "支配",
+       "支配"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7：dominate the conversation / the agenda 表示“占据讨论的大部分”。",
+      "ja": "Part 7：dominate the discussion は「議論の大半を占める」の意味。"
+     }
+    },
+    {
+     "w": "dominant",
+     "pos": "adj.",
+     "ipa": "/ˈdɑmənənt/",
+     "zh": "占主导地位的；最有影响的",
+     "ja": "支配的な；優勢な",
+     "ex": "Online sales have become the dominant source of revenue for the bookstore.",
+     "ex_zh": "网上销售已成为这家书店最主要的收入来源。",
+     "ex_ja": "オンライン販売がその書店の主な収入源になった。",
+     "parts": [
+      [
+       "domin",
+       "主人（dominus）",
+       "主人（dominus）"
+      ],
+      [
+       "-ant",
+       "……的",
+       "〜の"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 dominans（dominari“统治”）。",
+      "ja": "ラテン語 dominans（dominari「支配する」）。"
+     },
+     "forms": [
+      [
+       "dominance (n.)",
+       "主导地位",
+       "優位"
+      ],
+      [
+       "a dominant position",
+       "支配地位",
+       "優位な立場"
+      ]
+     ]
+    },
+    {
+     "w": "predominant",
+     "pos": "adj.",
+     "ipa": "/prɪˈdɑmənənt/",
+     "zh": "占多数的；主要的",
+     "ja": "主な；優勢な",
+     "ex": "Price was the predominant concern among customers who canceled their subscriptions.",
+     "ex_zh": "价格是取消订阅的客户最主要的顾虑。",
+     "ex_ja": "解約した顧客の主な懸念は価格だった。",
+     "parts": [
+      [
+       "pre-",
+       "在前",
+       "前に"
+      ],
+      [
+       "domin",
+       "主人（dominus）",
+       "主人（dominus）"
+      ],
+      [
+       "-ant",
+       "……的",
+       "〜の"
+      ]
+     ],
+     "note": {
+      "zh": "中世拉丁语 praedominari“占上风”（prae“在前”+ dominari“统治”）。",
+      "ja": "中世ラテン語 praedominari「優位に立つ」（prae「前に」＋dominari「支配する」）。"
+     },
+     "forms": [
+      [
+       "predominance (n.)",
+       "优势；主导",
+       "優勢"
+      ],
+      [
+       "predominate (v.)",
+       "占优势",
+       "優勢である"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7 同义替换：predominant ≈ main / primary。",
+      "ja": "Part 7 言い換え：predominant ≒ main / primary。"
+     }
+    },
+    {
+     "w": "predominantly",
+     "pos": "adv.",
+     "ipa": "/prɪˈdɑmənəntli/",
+     "zh": "主要地；大多",
+     "ja": "主に；大部分は",
+     "ex": "The workshop is aimed predominantly at managers with less than two years of experience.",
+     "ex_zh": "这个研讨会主要面向经验不足两年的管理人员。",
+     "ex_ja": "そのワークショップは主に経験 2 年未満の管理職を対象としている。",
+     "parts": [
+      [
+       "pre-",
+       "在前",
+       "前に"
+      ],
+      [
+       "domin",
+       "主人（dominus）",
+       "主人（dominus）"
+      ],
+      [
+       "-ant",
+       "……的",
+       "〜の"
+      ],
+      [
+       "-ly",
+       "副词词尾",
+       "副詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "predominant + -ly。",
+      "ja": "predominant＋-ly。"
+     },
+     "forms": [
+      [
+       "predominantly female / young",
+       "以女性 / 年轻人为主",
+       "主に女性／若者"
+      ],
+      [
+       "mainly (adv.)",
+       "主要地",
+       "主に"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5：副词插在 is aimed 与 at 之间，选 -ly 形式。",
+      "ja": "Part 5：is aimed と at の間に入るのは副詞形 -ly。"
+     }
+    },
+    {
+     "w": "domain",
+     "pos": "n.",
+     "ipa": "/doʊˈmeɪn/",
+     "zh": "领域；范围；（网站）域名",
+     "ja": "領域；分野；（ウェブの）ドメイン",
+     "ex": "Customer data security falls within the domain of the IT department.",
+     "ex_zh": "客户数据安全属于信息技术部门的职责范围。",
+     "ex_ja": "顧客データのセキュリティは IT 部門の管轄だ。",
+     "parts": [
+      [
+       "domin",
+       "主人（dominus）",
+       "主人（dominus）"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 demaine“领地”← 拉丁语 dominium“所有权”（dominus“主人”）。",
+      "ja": "古フランス語 demaine「領地」← ラテン語 dominium「所有権」（dominus「主人」）。"
+     },
+     "forms": [
+      [
+       "domain name",
+       "域名",
+       "ドメイン名"
+      ],
+      [
+       "in the public domain",
+       "公有领域的；公开的",
+       "パブリックドメインの；公知の"
+      ]
+     ]
+    },
+    {
+     "w": "condominium",
+     "pos": "n.",
+     "ipa": "/ˌkɑndəˈmɪniəm/",
+     "zh": "（产权独立的）公寓",
+     "ja": "分譲マンション",
+     "ex": "The developer plans to build a twelve-story condominium near the train station.",
+     "ex_zh": "开发商计划在火车站附近建一栋十二层的公寓楼。",
+     "ex_ja": "開発業者は駅の近くに 12 階建ての分譲マンションを建てる予定だ。",
+     "parts": [
+      [
+       "con-",
+       "共同",
+       "共に"
+      ],
+      [
+       "domin",
+       "主人（dominus）",
+       "主人（dominus）"
+      ],
+      [
+       "-ium",
+       "名词词尾",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "现代拉丁语 condominium“共同所有”（con“共同”+ dominium“所有权”）。",
+      "ja": "近代ラテン語 condominium「共同所有」（con「共に」＋dominium「所有権」）。"
+     },
+     "forms": [
+      [
+       "condo (n.)",
+       "（口语）公寓",
+       "（口語）分譲マンション"
+      ],
+      [
+       "condominium complex",
+       "公寓小区",
+       "マンション群"
+      ]
+     ],
+     "tip": {
+      "zh": "北美 TOEIC 素材里常用简称 condo；日语的「マンション」在英语里多是 condo / apartment。",
+      "ja": "北米の素材では condo と略すことが多い。日本語の「マンション」は英語では condo / apartment。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "sat",
+   "title_zh": "词根 -sat- / -satis-：足够",
+   "title_ja": "語根 -sat- / -satis-：十分",
+   "words": [
+    {
+     "w": "satisfy",
+     "pos": "v.",
+     "ipa": "/ˈsætɪsˌfaɪ/",
+     "zh": "使满意；满足（要求）",
+     "ja": "満足させる；（条件を）満たす",
+     "ex": "Applicants who do not satisfy the minimum requirements will not be contacted.",
+     "ex_zh": "不符合最低要求的申请人将不会被联系。",
+     "ex_ja": "最低条件を満たさない応募者には連絡しない。",
+     "parts": [
+      [
+       "sat",
+       "足够（satis）",
+       "十分（satis）"
+      ],
+      [
+       "-isfy",
+       "使……（facere）",
+       "〜にする（facere）"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 satisfacere“做得足够”（satis“足够”+ facere“做”）。",
+      "ja": "ラテン語 satisfacere「十分にする」（satis「十分」＋facere「する」）。"
+     },
+     "forms": [
+      [
+       "satisfy the requirements",
+       "满足要求",
+       "要件を満たす"
+      ],
+      [
+       "be satisfied with ~",
+       "对……满意",
+       "〜に満足している"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7：satisfy a requirement ≈ meet / fulfill a requirement。",
+      "ja": "Part 7：satisfy a requirement ≒ meet / fulfill a requirement。"
+     }
+    },
+    {
+     "w": "satisfactory",
+     "pos": "adj.",
+     "ipa": "/ˌsætɪsˈfæktəri/",
+     "zh": "令人满意的；合格的",
+     "ja": "満足のいく；十分な",
+     "ex": "Employees whose performance is satisfactory will receive a salary increase in April.",
+     "ex_zh": "表现合格的员工将在四月加薪。",
+     "ex_ja": "業績が十分な社員は、4 月に昇給する。",
+     "parts": [
+      [
+       "sat",
+       "足够（satis）",
+       "十分（satis）"
+      ],
+      [
+       "fact",
+       "做（facere）",
+       "する（facere）"
+      ],
+      [
+       "-ory",
+       "……的",
+       "〜の"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 satisfactorius（satisfacere“满足”）。",
+      "ja": "ラテン語 satisfactorius（satisfacere「満足させる」）。"
+     },
+     "forms": [
+      [
+       "a satisfactory result",
+       "满意的结果",
+       "満足のいく結果"
+      ],
+      [
+       "satisfying (adj.)",
+       "令人满足的",
+       "満足感のある"
+      ]
+     ],
+     "tip": {
+      "zh": "⚠️ satisfactory 多指“达到标准、合格”，不一定是“非常满意”。",
+      "ja": "⚠️ satisfactory は「基準に達している」の意味が中心で、「大満足」とは限らない。"
+     }
+    },
+    {
+     "w": "satisfactorily",
+     "pos": "adv.",
+     "ipa": "/ˌsætɪsˈfæktərəli/",
+     "zh": "令人满意地；圆满地",
+     "ja": "満足のいくように；無事に",
+     "ex": "The issue with the billing system has been resolved satisfactorily.",
+     "ex_zh": "计费系统的问题已经圆满解决。",
+     "ex_ja": "請求システムの問題は無事に解決された。",
+     "parts": [
+      [
+       "sat",
+       "足够（satis）",
+       "十分（satis）"
+      ],
+      [
+       "fact",
+       "做（facere）",
+       "する（facere）"
+      ],
+      [
+       "-orily",
+       "副词词尾",
+       "副詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "satisfactory + -ly。",
+      "ja": "satisfactory＋-ly。"
+     },
+     "forms": [
+      [
+       "be completed satisfactorily",
+       "圆满完成",
+       "問題なく完了する"
+      ],
+      [
+       "resolve ~ satisfactorily",
+       "圆满解决……",
+       "〜を円満に解決する"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5：被动语态 has been resolved 后面修饰动词用副词。",
+      "ja": "Part 5：受動態 has been resolved の後で動詞を修飾するのは副詞。"
+     }
+    },
+    {
+     "w": "unsatisfactory",
+     "pos": "adj.",
+     "ipa": "/ˌʌnsætɪsˈfæktəri/",
+     "zh": "不能令人满意的；不合格的",
+     "ja": "不十分な；不満足な",
+     "ex": "The inspector rated the kitchen's hygiene as unsatisfactory.",
+     "ex_zh": "检查员将厨房的卫生评为不合格。",
+     "ex_ja": "検査官はその厨房の衛生状態を不十分と評価した。",
+     "parts": [
+      [
+       "un-",
+       "不",
+       "不〜"
+      ],
+      [
+       "sat",
+       "足够（satis）",
+       "十分（satis）"
+      ],
+      [
+       "fact",
+       "做（facere）",
+       "する（facere）"
+      ],
+      [
+       "-ory",
+       "……的",
+       "〜の"
+      ]
+     ],
+     "note": {
+      "zh": "un- + satisfactory。",
+      "ja": "un-＋satisfactory。"
+     },
+     "forms": [
+      [
+       "unsatisfactory performance",
+       "表现不合格",
+       "不十分な成績"
+      ],
+      [
+       "unsatisfied (adj.)",
+       "未被满足的",
+       "満たされない"
+      ]
+     ]
+    },
+    {
+     "w": "dissatisfaction",
+     "pos": "n.",
+     "ipa": "/ˌdɪsˌsætɪsˈfækʃən/",
+     "zh": "不满",
+     "ja": "不満",
+     "ex": "Several customers expressed dissatisfaction with the long waiting times.",
+     "ex_zh": "几位顾客对漫长的等待时间表示不满。",
+     "ex_ja": "何人かの客が長い待ち時間に不満を示した。",
+     "parts": [
+      [
+       "dis-",
+       "不；相反",
+       "不〜；反対"
+      ],
+      [
+       "sat",
+       "足够（satis）",
+       "十分（satis）"
+      ],
+      [
+       "fact",
+       "做（facere）",
+       "する（facere）"
+      ],
+      [
+       "-ion",
+       "名词词尾",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "dis- + satisfaction。",
+      "ja": "dis-＋satisfaction。"
+     },
+     "forms": [
+      [
+       "express dissatisfaction with ~",
+       "对……表示不满",
+       "〜に不満を示す"
+      ],
+      [
+       "dissatisfied (adj.)",
+       "不满的",
+       "不満な"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7：投诉信题里 dissatisfaction 常替换 complaint / unhappy。",
+      "ja": "Part 7：苦情メールで dissatisfaction は complaint / unhappy の言い換え。"
+     }
+    },
+    {
+     "w": "saturate",
+     "pos": "v.",
+     "ipa": "/ˈsætʃəˌreɪt/",
+     "zh": "使饱和；使充满",
+     "ja": "飽和させる；いっぱいにする",
+     "ex": "Cheap imports have saturated the market, making it hard for new brands to compete.",
+     "ex_zh": "廉价进口商品已使市场饱和，新品牌很难竞争。",
+     "ex_ja": "安い輸入品が市場を飽和させ、新ブランドが競争しにくくなっている。",
+     "parts": [
+      [
+       "satur",
+       "饱满（satur）",
+       "満ちた（satur）"
+      ],
+      [
+       "-ate",
+       "动词词尾",
+       "動詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 saturare“填满”（satur“饱的”，与 satis“足够”同源）。",
+      "ja": "ラテン語 saturare「満たす」（satur「満腹の」。satis「十分」と同源）。"
+     },
+     "forms": [
+      [
+       "saturate the market",
+       "使市场饱和",
+       "市場を飽和させる"
+      ],
+      [
+       "be saturated with ~",
+       "充满……",
+       "〜でいっぱいだ"
+      ]
+     ]
+    },
+    {
+     "w": "saturated",
+     "pos": "adj.",
+     "ipa": "/ˈsætʃəˌreɪtɪd/",
+     "zh": "饱和的；湿透的",
+     "ja": "飽和した；びしょぬれの",
+     "ex": "The smartphone market is already saturated in most developed countries.",
+     "ex_zh": "在大多数发达国家，智能手机市场已经饱和。",
+     "ex_ja": "ほとんどの先進国で、スマートフォン市場はすでに飽和している。",
+     "parts": [
+      [
+       "satur",
+       "饱满（satur）",
+       "満ちた（satur）"
+      ],
+      [
+       "-ated",
+       "……了的",
+       "〜された"
+      ]
+     ],
+     "note": {
+      "zh": "saturate 的过去分词形容词。",
+      "ja": "saturate の過去分詞形容詞。"
+     },
+     "forms": [
+      [
+       "a saturated market",
+       "饱和的市场",
+       "飽和市場"
+      ],
+      [
+       "saturated fat",
+       "饱和脂肪",
+       "飽和脂肪"
+      ]
+     ]
+    },
+    {
+     "w": "saturation",
+     "pos": "n.",
+     "ipa": "/ˌsætʃəˈreɪʃən/",
+     "zh": "饱和；饱和状态",
+     "ja": "飽和；飽和状態",
+     "ex": "Market saturation forced the company to look for customers overseas.",
+     "ex_zh": "市场饱和迫使公司到海外寻找客户。",
+     "ex_ja": "市場の飽和により、その会社は海外で顧客を探さざるを得なかった。",
+     "parts": [
+      [
+       "satur",
+       "饱满（satur）",
+       "満ちた（satur）"
+      ],
+      [
+       "-ation",
+       "名词词尾",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 saturatio（saturare“填满”）。",
+      "ja": "ラテン語 saturatio（saturare「満たす」）。"
+     },
+     "forms": [
+      [
+       "market saturation",
+       "市场饱和",
+       "市場飽和"
+      ],
+      [
+       "reach saturation",
+       "达到饱和",
+       "飽和に達する"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cult",
+   "title_zh": "词根 -cult-：耕种；培育",
+   "title_ja": "語根 -cult-：耕す；育てる",
+   "words": [
+    {
+     "w": "culture",
+     "pos": "n.",
+     "ipa": "/ˈkʌltʃɚ/",
+     "zh": "文化；（企业）风气",
+     "ja": "文化；（企業の）風土",
+     "ex": "Our company culture encourages employees to share new ideas openly.",
+     "ex_zh": "我们的企业文化鼓励员工公开分享新想法。",
+     "ex_ja": "当社の企業風土は、社員が新しいアイデアを率直に共有することを促している。",
+     "parts": [
+      [
+       "cult",
+       "耕种；培育（colere, cultus）",
+       "耕す；育てる（colere, cultus）"
+      ],
+      [
+       "-ure",
+       "名词词尾",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 cultura“耕种”（colere“耕种、照料”）→“修养、文化”。",
+      "ja": "ラテン語 cultura「耕作」（colere「耕す・世話する」）→「教養・文化」。"
+     },
+     "forms": [
+      [
+       "corporate culture",
+       "企业文化",
+       "企業文化"
+      ],
+      [
+       "workplace culture",
+       "职场风气",
+       "職場の風土"
+      ]
+     ]
+    },
+    {
+     "w": "cultural",
+     "pos": "adj.",
+     "ipa": "/ˈkʌltʃərəl/",
+     "zh": "文化的",
+     "ja": "文化の；文化的な",
+     "ex": "The city's cultural festival attracts thousands of visitors every autumn.",
+     "ex_zh": "这座城市的文化节每年秋天都吸引数千名游客。",
+     "ex_ja": "その市の文化祭は毎年秋に何千人もの観光客を集める。",
+     "parts": [
+      [
+       "cult",
+       "耕种；培育（colere, cultus）",
+       "耕す；育てる（colere, cultus）"
+      ],
+      [
+       "-ure",
+       "名词词尾",
+       "名詞語尾"
+      ],
+      [
+       "-al",
+       "……的",
+       "〜の"
+      ]
+     ],
+     "note": {
+      "zh": "culture + -al。",
+      "ja": "culture＋-al。"
+     },
+     "forms": [
+      [
+       "cultural differences",
+       "文化差异",
+       "文化の違い"
+      ],
+      [
+       "culturally (adv.)",
+       "在文化上",
+       "文化的に"
+      ]
+     ]
+    },
+    {
+     "w": "multicultural",
+     "pos": "adj.",
+     "ipa": "/ˌmʌltiˈkʌltʃərəl/",
+     "zh": "多元文化的",
+     "ja": "多文化の",
+     "ex": "Working in a multicultural team has improved my communication skills.",
+     "ex_zh": "在多元文化团队中工作提高了我的沟通能力。",
+     "ex_ja": "多文化のチームで働くことで、私のコミュニケーション能力が向上した。",
+     "parts": [
+      [
+       "multi-",
+       "多",
+       "多くの"
+      ],
+      [
+       "cult",
+       "耕种；培育（colere, cultus）",
+       "耕す；育てる（colere, cultus）"
+      ],
+      [
+       "-ure",
+       "名词词尾",
+       "名詞語尾"
+      ],
+      [
+       "-al",
+       "……的",
+       "〜の"
+      ]
+     ],
+     "note": {
+      "zh": "multi-“多”+ cultural。",
+      "ja": "multi-「多い」＋cultural。"
+     },
+     "forms": [
+      [
+       "a multicultural workforce",
+       "多元文化的员工队伍",
+       "多文化の人材"
+      ],
+      [
+       "diverse (adj.)",
+       "多样的",
+       "多様な"
+      ]
+     ]
+    },
+    {
+     "w": "cross-cultural",
+     "pos": "adj.",
+     "ipa": "/ˌkrɔsˈkʌltʃərəl/",
+     "zh": "跨文化的",
+     "ja": "異文化間の",
+     "ex": "All overseas staff must complete a cross-cultural training course before relocating.",
+     "ex_zh": "所有外派员工在调任前都必须完成跨文化培训课程。",
+     "ex_ja": "海外赴任者は全員、赴任前に異文化研修を修了しなければならない。",
+     "parts": [
+      [
+       "cross-",
+       "跨越",
+       "横断する"
+      ],
+      [
+       "cult",
+       "耕种；培育（colere, cultus）",
+       "耕す；育てる（colere, cultus）"
+      ],
+      [
+       "-ure",
+       "名词词尾",
+       "名詞語尾"
+      ],
+      [
+       "-al",
+       "……的",
+       "〜の"
+      ]
+     ],
+     "note": {
+      "zh": "cross“交叉、跨越”（本族词）+ cultural。",
+      "ja": "cross「交差する」（本来語）＋cultural。"
+     },
+     "forms": [
+      [
+       "cross-cultural communication",
+       "跨文化沟通",
+       "異文化コミュニケーション"
+      ],
+      [
+       "cross-functional (adj.)",
+       "跨部门的",
+       "部門横断の"
+      ]
+     ],
+     "hl": "cross-cultural"
+    },
+    {
+     "w": "cultivation",
+     "pos": "n.",
+     "ipa": "/ˌkʌltəˈveɪʃən/",
+     "zh": "种植；培养",
+     "ja": "栽培；育成",
+     "ex": "The region is known for the cultivation of high-quality green tea.",
+     "ex_zh": "这个地区以种植优质绿茶而闻名。",
+     "ex_ja": "その地域は高品質な緑茶の栽培で知られている。",
+     "parts": [
+      [
+       "cult",
+       "耕种；培育（colere, cultus）",
+       "耕す；育てる（colere, cultus）"
+      ],
+      [
+       "-iv",
+       "……的",
+       "〜の"
+      ],
+      [
+       "-ation",
+       "名词词尾",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "中世拉丁语 cultivare“耕种”（cultivus“可耕种的”← colere）。",
+      "ja": "中世ラテン語 cultivare「耕す」（cultivus「耕作できる」← colere）。"
+     },
+     "forms": [
+      [
+       "cultivate (v.)",
+       "种植；培养（关系）",
+       "栽培する；（関係を）築く"
+      ],
+      [
+       "cultivation of client relationships",
+       "客户关系的培养",
+       "顧客との関係づくり"
+      ]
+     ]
+    },
+    {
+     "w": "cultivated",
+     "pos": "adj.",
+     "ipa": "/ˈkʌltəˌveɪtɪd/",
+     "zh": "人工种植的；有教养的",
+     "ja": "栽培された；教養のある",
+     "ex": "These mushrooms are cultivated indoors under carefully controlled conditions.",
+     "ex_zh": "这些蘑菇是在严格控制的条件下在室内种植的。",
+     "ex_ja": "これらのキノコは、厳しく管理された条件のもと屋内で栽培されている。",
+     "parts": [
+      [
+       "cult",
+       "耕种；培育（colere, cultus）",
+       "耕す；育てる（colere, cultus）"
+      ],
+      [
+       "-iv",
+       "……的",
+       "〜の"
+      ],
+      [
+       "-ated",
+       "……了的",
+       "〜された"
+      ]
+     ],
+     "note": {
+      "zh": "cultivate 的过去分词。",
+      "ja": "cultivate の過去分詞。"
+     },
+     "forms": [
+      [
+       "cultivated land",
+       "耕地",
+       "耕作地"
+      ],
+      [
+       "wild (adj.)",
+       "野生的",
+       "野生の"
+      ]
+     ]
+    },
+    {
+     "w": "agriculture",
+     "pos": "n.",
+     "ipa": "/ˈæɡrɪˌkʌltʃɚ/",
+     "zh": "农业",
+     "ja": "農業",
+     "ex": "The government announced new subsidies to support local agriculture.",
+     "ex_zh": "政府宣布了新的补贴来支持本地农业。",
+     "ex_ja": "政府は地元の農業を支援する新しい補助金を発表した。",
+     "parts": [
+      [
+       "agri-",
+       "田地（ager）",
+       "畑（ager）"
+      ],
+      [
+       "cult",
+       "耕种；培育（colere, cultus）",
+       "耕す；育てる（colere, cultus）"
+      ],
+      [
+       "-ure",
+       "名词词尾",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 agricultura（ager“田地”+ cultura“耕种”）。",
+      "ja": "ラテン語 agricultura（ager「畑」＋cultura「耕作」）。"
+     },
+     "forms": [
+      [
+       "Ministry of Agriculture",
+       "农业部",
+       "農業省"
+      ],
+      [
+       "farming (n.)",
+       "农业；耕作",
+       "農業；農作業"
+      ]
+     ]
+    },
+    {
+     "w": "horticulture",
+     "pos": "n.",
+     "ipa": "/ˈhɔrtɪˌkʌltʃɚ/",
+     "zh": "园艺",
+     "ja": "園芸",
+     "ex": "She studied horticulture before opening her own garden center.",
+     "ex_zh": "她在开自己的园艺中心之前学过园艺。",
+     "ex_ja": "彼女は自分の園芸店を開く前に園芸を学んだ。",
+     "parts": [
+      [
+       "horti-",
+       "园子（hortus）",
+       "庭（hortus）"
+      ],
+      [
+       "cult",
+       "耕种；培育（colere, cultus）",
+       "耕す；育てる（colere, cultus）"
+      ],
+      [
+       "-ure",
+       "名词词尾",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "现代拉丁语 horticultura（hortus“园子”+ cultura“耕种”）。",
+      "ja": "近代ラテン語 horticultura（hortus「庭」＋cultura「耕作」）。"
+     },
+     "forms": [
+      [
+       "horticultural (adj.)",
+       "园艺的",
+       "園芸の"
+      ],
+      [
+       "garden center",
+       "园艺用品店",
+       "園芸店"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "lab",
+   "title_zh": "主题：科研与实验室",
+   "title_ja": "テーマ：研究と実験室",
+   "words": [
+    {
+     "w": "experiment",
+     "pos": "n./v.",
+     "ipa": "/ɪkˈspɛrəmənt/",
+     "zh": "实验；做实验；尝试",
+     "ja": "実験；実験する；試す",
+     "ex": "The team conducted an experiment to test the durability of the new packaging.",
+     "ex_zh": "团队做了一个实验来测试新包装的耐用性。",
+     "ex_ja": "チームは新しい包装の耐久性を調べる実験を行った。",
+     "parts": [
+      [
+       "ex-",
+       "出",
+       "外へ"
+      ],
+      [
+       "peri",
+       "尝试（experiri）",
+       "試す（experiri）"
+      ],
+      [
+       "-ment",
+       "名词词尾",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 experimentum“试验”（experiri“尝试”）。与 experience、expert 同源。",
+      "ja": "ラテン語 experimentum「試み」（experiri「試す」）。experience、expert と同源。"
+     },
+     "forms": [
+      [
+       "conduct an experiment",
+       "做实验",
+       "実験を行う"
+      ],
+      [
+       "experiment with ~",
+       "尝试……",
+       "〜を試してみる"
+      ]
+     ],
+     "tip": {
+      "zh": "动词用法 experiment with new flavors（尝试新口味）在 Part 7 也常见。",
+      "ja": "動詞の experiment with new flavors（新しい味を試す）も Part 7 で出る。"
+     }
+    },
+    {
+     "w": "experimental",
+     "pos": "adj.",
+     "ipa": "/ɪkˌspɛrəˈmɛntəl/",
+     "zh": "实验性的；试验的",
+     "ja": "実験的な；試験的な",
+     "ex": "The experimental drug is still being tested on a small group of volunteers.",
+     "ex_zh": "这种试验性药物仍在一小批志愿者身上进行测试。",
+     "ex_ja": "その試験薬はまだ少人数のボランティアで試験中だ。",
+     "parts": [
+      [
+       "ex-",
+       "出",
+       "外へ"
+      ],
+      [
+       "peri",
+       "尝试（experiri）",
+       "試す（experiri）"
+      ],
+      [
+       "-ment",
+       "名词词尾",
+       "名詞語尾"
+      ],
+      [
+       "-al",
+       "……的",
+       "〜の"
+      ]
+     ],
+     "note": {
+      "zh": "experiment + -al。",
+      "ja": "experiment＋-al。"
+     },
+     "forms": [
+      [
+       "experimental stage",
+       "试验阶段",
+       "試験段階"
+      ],
+      [
+       "experimentation (n.)",
+       "实验；试验",
+       "実験すること"
+      ]
+     ]
+    },
+    {
+     "w": "hypothesis",
+     "pos": "n.",
+     "ipa": "/haɪˈpɑθəsɪs/",
+     "zh": "假设；假说",
+     "ja": "仮説",
+     "ex": "The researchers designed a study to test their hypothesis about consumer behavior.",
+     "ex_zh": "研究人员设计了一项研究来验证他们关于消费者行为的假设。",
+     "ex_ja": "研究者たちは消費者行動についての仮説を検証する研究を計画した。",
+     "parts": [
+      [
+       "hypo-",
+       "在下面",
+       "下に"
+      ],
+      [
+       "thes",
+       "放置（希腊语 thesis）",
+       "置くこと（ギリシャ語 thesis）"
+      ],
+      [
+       "-is",
+       "名词词尾",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "希腊语 hypothesis“放在下面的东西 → 基础、假定”（hypo“下”+ thesis“放置”）。",
+      "ja": "ギリシャ語 hypothesis「下に置くもの → 前提」（hypo「下」＋thesis「置くこと」）。"
+     },
+     "forms": [
+      [
+       "hypotheses (pl.)",
+       "复数形式",
+       "複数形"
+      ],
+      [
+       "hypothetical (adj.)",
+       "假设的",
+       "仮定の"
+      ]
+     ],
+     "tip": {
+      "zh": "⚠️ 复数是 hypotheses /haɪˈpɑθəˌsiz/。",
+      "ja": "⚠️ 複数形は hypotheses /haɪˈpɑθəˌsiz/。"
+     }
+    },
+    {
+     "w": "specimen",
+     "pos": "n.",
+     "ipa": "/ˈspɛsəmən/",
+     "zh": "样本；标本",
+     "ja": "見本；標本；検体",
+     "ex": "Each specimen is labeled with the date and location where it was collected.",
+     "ex_zh": "每个样本都贴有采集日期和地点的标签。",
+     "ex_ja": "各標本には採取した日付と場所のラベルが貼られている。",
+     "parts": [
+      [
+       "spec",
+       "看（specere）",
+       "見る（specere）"
+      ],
+      [
+       "-imen",
+       "名词词尾",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 specimen“标志、样例”（specere“看”，与第 1 天的 -spect- 同根）。",
+      "ja": "ラテン語 specimen「しるし・見本」（specere「見る」。Day 1 の -spect- と同根）。"
+     },
+     "forms": [
+      [
+       "blood specimen",
+       "血液样本",
+       "血液検体"
+      ],
+      [
+       "sample (n.)",
+       "样品",
+       "サンプル"
+      ]
+     ]
+    },
+    {
+     "w": "findings",
+     "pos": "n.",
+     "ipa": "/ˈfaɪndɪŋz/",
+     "zh": "调查结果；研究发现",
+     "ja": "調査結果；研究結果",
+     "ex": "The findings of the study will be published in next month's journal.",
+     "ex_zh": "这项研究的结果将发表在下个月的期刊上。",
+     "ex_ja": "その研究の結果は来月の学術誌に掲載される。",
+     "parts": [
+      [
+       "find",
+       "发现（本族词）",
+       "見つける（本来語）"
+      ],
+      [
+       "-ings",
+       "名词复数",
+       "名詞（複数）"
+      ]
+     ],
+     "note": {
+      "zh": "本族词 find + -ing，常用复数 findings 表示“研究结果”。",
+      "ja": "本来語 find＋-ing。「研究結果」の意味では複数形 findings が普通。"
+     },
+     "forms": [
+      [
+       "research findings",
+       "研究结果",
+       "研究結果"
+      ],
+      [
+       "key findings",
+       "主要发现",
+       "主な結果"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7：findings ≈ results；本义题常问 What did the study find?",
+      "ja": "Part 7：findings ≒ results。What did the study find? の形で問われる。"
+     }
+    },
+    {
+     "w": "researcher",
+     "pos": "n.",
+     "ipa": "/ˈriˌsɝtʃɚ/",
+     "zh": "研究人员",
+     "ja": "研究者",
+     "ex": "A researcher from the university will present the survey results at the conference.",
+     "ex_zh": "一位大学研究人员将在会议上公布调查结果。",
+     "ex_ja": "大学の研究者が会議で調査結果を発表する。",
+     "parts": [
+      [
+       "re-",
+       "加强；再",
+       "強意；再び"
+      ],
+      [
+       "search",
+       "寻找（circare 绕圈）",
+       "探す（circare 巡る）"
+      ],
+      [
+       "-er",
+       "表示人",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 recercher“仔细寻找”（re- 加强 + cercher ← 拉丁语 circare“绕着走”）。",
+      "ja": "古フランス語 recercher「念入りに探す」（re- 強意＋cercher ← ラテン語 circare「巡る」）。"
+     },
+     "forms": [
+      [
+       "research (n./v.)",
+       "研究；调研",
+       "研究；調査する"
+      ],
+      [
+       "research and development (R&D)",
+       "研发",
+       "研究開発"
+      ]
+     ],
+     "tip": {
+      "zh": "⚠️ research 作名词不可数：do research，不说 *a research。",
+      "ja": "⚠️ 名詞 research は不可算：do research（*a research は不可）。"
+     }
+    },
+    {
+     "w": "microscope",
+     "pos": "n.",
+     "ipa": "/ˈmaɪkrəˌskoʊp/",
+     "zh": "显微镜",
+     "ja": "顕微鏡",
+     "ex": "The technician is examining a sample under a microscope.",
+     "ex_zh": "技术员正在用显微镜检查样本。",
+     "ex_ja": "技術者が顕微鏡で試料を調べている。",
+     "parts": [
+      [
+       "micro-",
+       "小",
+       "小さい"
+      ],
+      [
+       "scope",
+       "看（希腊语 skopein）",
+       "見る（ギリシャ語 skopein）"
+      ]
+     ],
+     "note": {
+      "zh": "希腊语 mikros“小”+ skopein“看”。",
+      "ja": "ギリシャ語 mikros「小さい」＋skopein「見る」。"
+     },
+     "forms": [
+      [
+       "microscopic (adj.)",
+       "微小的；显微的",
+       "微小な"
+      ],
+      [
+       "under a microscope",
+       "在显微镜下",
+       "顕微鏡で"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1：A woman is looking into a microscope. 是实验室照片的典型描述。",
+      "ja": "Part 1：A woman is looking into a microscope. は実験室の写真の定番。"
+     }
+    },
+    {
+     "w": "chemical",
+     "pos": "n./adj.",
+     "ipa": "/ˈkɛmɪkəl/",
+     "zh": "化学品；化学的",
+     "ja": "化学物質；化学の",
+     "ex": "Workers must wear gloves when handling cleaning chemicals.",
+     "ex_zh": "工人在处理清洁用化学品时必须戴手套。",
+     "ex_ja": "作業員は洗浄用の化学薬品を扱う際、手袋を着用しなければならない。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分。来自 alchemy（炼金术），源头可追溯到阿拉伯语 al-kīmiyā，更早的来源说法不一，整体记忆。",
+      "ja": "信頼できる語根分解はない。alchemy（錬金術）から来ており、アラビア語 al-kīmiyā に遡るが、それ以前の語源は諸説ある。まとめて覚える。"
+     },
+     "forms": [
+      [
+       "chemistry (n.)",
+       "化学",
+       "化学"
+      ],
+      [
+       "chemist (n.)",
+       "化学家；（英）药剂师",
+       "化学者；（英）薬剤師"
+      ]
+     ],
+     "tip": {
+      "zh": "⚠️ 英式英语 chemist 也指药店（= pharmacy）。",
+      "ja": "⚠️ イギリス英語の chemist は薬局（＝pharmacy）の意味もある。"
+     }
+    },
+    {
+     "w": "analysis",
+     "pos": "n.",
+     "ipa": "/əˈnæləsɪs/",
+     "zh": "分析",
+     "ja": "分析",
+     "ex": "A detailed analysis of last quarter's sales will be sent to all managers.",
+     "ex_zh": "上季度销售的详细分析将发给所有经理。",
+     "ex_ja": "前四半期の売上の詳しい分析が、全管理職に送られる。",
+     "parts": [
+      [
+       "ana-",
+       "向上；彻底",
+       "上へ；完全に"
+      ],
+      [
+       "lys",
+       "松开（希腊语 lysis）",
+       "ほどく（ギリシャ語 lysis）"
+      ],
+      [
+       "-is",
+       "名词词尾",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "希腊语 analysis“分解”（ana“彻底”+ lysis“松开”）。",
+      "ja": "ギリシャ語 analysis「分解」（ana「完全に」＋lysis「ほどく」）。"
+     },
+     "forms": [
+      [
+       "analyses (pl.)",
+       "复数形式",
+       "複数形"
+      ],
+      [
+       "analyze (v.) / analyst (n.)",
+       "分析 / 分析师",
+       "分析する／アナリスト"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5：词性题常考 analysis（名词）/ analyze（动词）/ analytical（形容词）/ analyst（人）。",
+      "ja": "Part 5：品詞問題で analysis（名）／analyze（動）／analytical（形）／analyst（人）が狙われる。"
+     }
+    },
+    {
+     "w": "measurement",
+     "pos": "n.",
+     "ipa": "/ˈmɛʒɚmənt/",
+     "zh": "测量；尺寸",
+     "ja": "測定；寸法",
+     "ex": "Please take accurate measurements of the room before ordering the carpet.",
+     "ex_zh": "订购地毯前请准确测量房间的尺寸。",
+     "ex_ja": "カーペットを注文する前に、部屋の寸法を正確に測ってください。",
+     "parts": [
+      [
+       "meas",
+       "测量（mensura）",
+       "測る（mensura）"
+      ],
+      [
+       "-ure",
+       "名词词尾",
+       "名詞語尾"
+      ],
+      [
+       "-ment",
+       "名词词尾",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "measure ← 拉丁语 mensura“测量”（metiri“量”）+ -ment。",
+      "ja": "measure ← ラテン語 mensura「測定」（metiri「測る」）＋-ment。"
+     },
+     "forms": [
+      [
+       "take measurements",
+       "测量尺寸",
+       "寸法を測る"
+      ],
+      [
+       "measure (v./n.)",
+       "测量；措施",
+       "測る；対策"
+      ]
+     ],
+     "tip": {
+      "zh": "⚠️ measure 作名词还有“措施”：safety measures（安全措施）。",
+      "ja": "⚠️ 名詞 measure には「対策」の意味も：safety measures（安全対策）。"
+     }
+    },
+    {
+     "w": "conclusion",
+     "pos": "n.",
+     "ipa": "/kənˈkluʒən/",
+     "zh": "结论；结束",
+     "ja": "結論；終わり",
+     "ex": "After reviewing the data, the committee reached the conclusion that the plan was too costly.",
+     "ex_zh": "审查数据后，委员会得出结论：这个计划成本太高。",
+     "ex_ja": "データを検討した結果、委員会はその計画は費用がかかりすぎるという結論に達した。",
+     "parts": [
+      [
+       "con-",
+       "完全",
+       "完全に"
+      ],
+      [
+       "clus",
+       "关闭（claudere）",
+       "閉じる（claudere）"
+      ],
+      [
+       "-ion",
+       "名词词尾",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 conclusio（concludere“关上、结束”，Day 6 的 -clud- / -clus-）。",
+      "ja": "ラテン語 conclusio（concludere「閉じる・終える」。Day 6 の -clud- / -clus-）。"
+     },
+     "forms": [
+      [
+       "reach a conclusion",
+       "得出结论",
+       "結論に達する"
+      ],
+      [
+       "in conclusion",
+       "总之；最后",
+       "結論として"
+      ]
+     ]
+    },
+    {
+     "w": "methodology",
+     "pos": "n.",
+     "ipa": "/ˌmɛθəˈdɑlədʒi/",
+     "zh": "方法论；（一套）研究方法",
+     "ja": "方法論；調査方法",
+     "ex": "The report explains the survey methodology in an appendix.",
+     "ex_zh": "报告在附录中说明了调查方法。",
+     "ex_ja": "報告書は付録で調査方法を説明している。",
+     "parts": [
+      [
+       "meth",
+       "随后（希腊语 meta）",
+       "後に（ギリシャ語 meta）"
+      ],
+      [
+       "od",
+       "道路（希腊语 hodos）",
+       "道（ギリシャ語 hodos）"
+      ],
+      [
+       "-ology",
+       "学；论",
+       "〜学；〜論"
+      ]
+     ],
+     "note": {
+      "zh": "method ← 希腊语 methodos“追寻之路”（meta“跟随”+ hodos“路”）+ -logy。",
+      "ja": "method ← ギリシャ語 methodos「追求の道」（meta「後を追う」＋hodos「道」）＋-logy。"
+     },
+     "forms": [
+      [
+       "method (n.)",
+       "方法",
+       "方法"
+      ],
+      [
+       "research methodology",
+       "研究方法",
+       "研究手法"
+      ]
+     ]
+    },
+    {
+     "w": "contaminate",
+     "pos": "v.",
+     "ipa": "/kənˈtæməˌneɪt/",
+     "zh": "污染；弄脏",
+     "ja": "汚染する",
+     "ex": "The batch was discarded because it may have been contaminated during shipping.",
+     "ex_zh": "这批货被丢弃了，因为它可能在运输途中受到了污染。",
+     "ex_ja": "そのロットは輸送中に汚染された可能性があるため廃棄された。",
+     "parts": [
+      [
+       "con-",
+       "一起",
+       "共に"
+      ],
+      [
+       "tamin",
+       "接触（tangere）",
+       "触れる（tangere）"
+      ],
+      [
+       "-ate",
+       "动词词尾",
+       "動詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 contaminare“因接触而弄脏”（contamen“接触”，与 tangere“触摸”同源，见 Day 18 -tact- / -tang-）。",
+      "ja": "ラテン語 contaminare「触れて汚す」（contamen「接触」。tangere「触れる」と同源、Day 18 の -tact- / -tang-）。"
+     },
+     "forms": [
+      [
+       "contamination (n.)",
+       "污染",
+       "汚染"
+      ],
+      [
+       "contaminated water",
+       "受污染的水",
+       "汚染された水"
+      ]
+     ]
+    },
+    {
+     "w": "sterile",
+     "pos": "adj.",
+     "ipa": "/ˈstɛrəl/",
+     "zh": "无菌的；消过毒的",
+     "ja": "無菌の；殺菌された",
+     "ex": "All instruments are kept in a sterile container until they are used.",
+     "ex_zh": "所有器械在使用前都存放在无菌容器中。",
+     "ex_ja": "すべての器具は使用するまで無菌容器に保管される。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分。拉丁语 sterilis“不结果的、贫瘠的”，整体记忆。",
+      "ja": "信頼できる語根分解はない。ラテン語 sterilis「実を結ばない」。まとめて覚える。"
+     },
+     "forms": [
+      [
+       "sterilize (v.)",
+       "消毒；杀菌",
+       "殺菌する"
+      ],
+      [
+       "sterile environment",
+       "无菌环境",
+       "無菌環境"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "device",
+   "title_zh": "主题：手机与电子设备",
+   "title_ja": "テーマ：携帯電話と電子機器",
+   "words": [
+    {
+     "w": "device",
+     "pos": "n.",
+     "ipa": "/dɪˈvaɪs/",
+     "zh": "设备；装置",
+     "ja": "機器；装置",
+     "ex": "Please switch off all electronic devices before the presentation begins.",
+     "ex_zh": "演讲开始前请关闭所有电子设备。",
+     "ex_ja": "発表が始まる前に、すべての電子機器の電源をお切りください。",
+     "parts": [],
+     "note": {
+      "zh": "没有简单可靠的词根拆分。古法语 devis“安排、设计”（← 拉丁语 dividere“分开”），整体记忆。",
+      "ja": "単純で信頼できる語根分解はない。古フランス語 devis「工夫・計画」（← ラテン語 dividere「分ける」）。まとめて覚える。"
+     },
+     "forms": [
+      [
+       "mobile device",
+       "移动设备",
+       "モバイル機器"
+      ],
+      [
+       "devise (v.)",
+       "设计；想出",
+       "考案する"
+      ]
+     ],
+     "tip": {
+      "zh": "⚠️ device（名词，设备）/dɪˈvaɪs/ ≠ devise（动词，设计）/dɪˈvaɪz/。",
+      "ja": "⚠️ device（名詞・機器）/dɪˈvaɪs/ ≠ devise（動詞・考案する）/dɪˈvaɪz/。"
+     }
+    },
+    {
+     "w": "battery",
+     "pos": "n.",
+     "ipa": "/ˈbætəri/",
+     "zh": "电池",
+     "ja": "電池；バッテリー",
+     "ex": "The battery lasts up to ten hours on a single charge.",
+     "ex_zh": "电池充一次电最多可以用十个小时。",
+     "ex_ja": "バッテリーは 1 回の充電で最大 10 時間持つ。",
+     "parts": [
+      [
+       "batt",
+       "打（battre）",
+       "打つ（battre）"
+      ],
+      [
+       "-ery",
+       "……的集合",
+       "〜の集まり"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 batterie“打击”（battre“打”）→ 一组火炮 → 一组电池。",
+      "ja": "古フランス語 batterie「打つこと」（battre「打つ」）→ 砲列 → 電池の組。"
+     },
+     "forms": [
+      [
+       "battery life",
+       "电池续航",
+       "バッテリー寿命"
+      ],
+      [
+       "run out of battery",
+       "没电了",
+       "電池が切れる"
+      ]
+     ]
+    },
+    {
+     "w": "charger",
+     "pos": "n.",
+     "ipa": "/ˈtʃɑrdʒɚ/",
+     "zh": "充电器",
+     "ja": "充電器",
+     "ex": "I left my phone charger at the hotel, so I'll need to buy a new one.",
+     "ex_zh": "我把手机充电器落在酒店了，所以得买个新的。",
+     "ex_ja": "ホテルに携帯の充電器を忘れたので、新しいのを買わないといけない。",
+     "parts": [
+      [
+       "charg",
+       "装载（carricare）",
+       "積む（carricare）"
+      ],
+      [
+       "-er",
+       "表示工具",
+       "〜する道具"
+      ]
+     ],
+     "note": {
+      "zh": "charge ← 古法语 charger“装载”（拉丁语 carricare，与 car 同源）+ -er。",
+      "ja": "charge ← 古フランス語 charger「積む」（ラテン語 carricare。car と同源）＋-er。"
+     },
+     "forms": [
+      [
+       "charge (v.)",
+       "充电；收费",
+       "充電する；請求する"
+      ],
+      [
+       "charging station",
+       "充电站",
+       "充電スタンド"
+      ]
+     ],
+     "tip": {
+      "zh": "⚠️ charge 还有“收费；负责”：in charge of（负责）、free of charge（免费）。",
+      "ja": "⚠️ charge は「料金・担当」も：in charge of（担当して）、free of charge（無料で）。"
+     }
+    },
+    {
+     "w": "rechargeable",
+     "pos": "adj.",
+     "ipa": "/riˈtʃɑrdʒəbəl/",
+     "zh": "可充电的",
+     "ja": "充電式の",
+     "ex": "The wireless mouse comes with a rechargeable battery.",
+     "ex_zh": "这款无线鼠标配有可充电电池。",
+     "ex_ja": "そのワイヤレスマウスには充電式電池が付いている。",
+     "parts": [
+      [
+       "re-",
+       "再",
+       "再び"
+      ],
+      [
+       "charg",
+       "装载（carricare）",
+       "積む（carricare）"
+      ],
+      [
+       "-eable",
+       "可……的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "re- + charge + -able。",
+      "ja": "re-＋charge＋-able。"
+     },
+     "forms": [
+      [
+       "recharge (v.)",
+       "再充电；恢复精力",
+       "充電する；元気を回復する"
+      ],
+      [
+       "disposable (adj.)",
+       "一次性的",
+       "使い捨ての"
+      ]
+     ]
+    },
+    {
+     "w": "cable",
+     "pos": "n.",
+     "ipa": "/ˈkeɪbəl/",
+     "zh": "电缆；数据线",
+     "ja": "ケーブル",
+     "ex": "Make sure the cable is firmly connected to the back of the monitor.",
+     "ex_zh": "确保电缆牢固地连接在显示器背面。",
+     "ex_ja": "ケーブルがモニターの背面にしっかり接続されているか確認してください。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分。经古法语来自晚期拉丁语 capulum“绳索”，整体记忆。",
+      "ja": "信頼できる語根分解はない。古フランス語を経て後期ラテン語 capulum「綱」から。まとめて覚える。"
+     },
+     "forms": [
+      [
+       "power cable",
+       "电源线",
+       "電源ケーブル"
+      ],
+      [
+       "cable television",
+       "有线电视",
+       "ケーブルテレビ"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1：Cables are lying on the floor.（电线放在地板上）。",
+      "ja": "Part 1：Cables are lying on the floor.（床にケーブルが置かれている）。"
+     }
+    },
+    {
+     "w": "wireless",
+     "pos": "adj.",
+     "ipa": "/ˈwaɪɚləs/",
+     "zh": "无线的",
+     "ja": "無線の；ワイヤレスの",
+     "ex": "Wireless internet access is available free of charge in the lobby.",
+     "ex_zh": "大厅提供免费无线上网。",
+     "ex_ja": "ロビーでは無料で無線インターネットが利用できる。",
+     "parts": [
+      [
+       "wire",
+       "金属线（本族词）",
+       "針金（本来語）"
+      ],
+      [
+       "-less",
+       "无",
+       "〜のない"
+      ]
+     ],
+     "note": {
+      "zh": "本族词 wire“金属线”+ -less“没有”。",
+      "ja": "本来語 wire「針金」＋-less「〜のない」。"
+     },
+     "forms": [
+      [
+       "wireless network",
+       "无线网络",
+       "無線ネットワーク"
+      ],
+      [
+       "Wi-Fi (n.)",
+       "无线网",
+       "Wi-Fi"
+      ]
+     ]
+    },
+    {
+     "w": "outlet",
+     "pos": "n.",
+     "ipa": "/ˈaʊtˌlɛt/",
+     "zh": "电源插座；（商品）销售点；出口",
+     "ja": "コンセント；販売店；はけ口",
+     "ex": "There is an electrical outlet under each desk for charging laptops.",
+     "ex_zh": "每张桌子下面都有一个电源插座，可以给笔记本电脑充电。",
+     "ex_ja": "各机の下にノートパソコン充電用のコンセントがある。",
+     "parts": [
+      [
+       "out",
+       "向外（本族词）",
+       "外へ（本来語）"
+      ],
+      [
+       "let",
+       "放出（本族词）",
+       "出す（本来語）"
+      ]
+     ],
+     "note": {
+      "zh": "本族词 out + let“让……出去”→ 出口 → 电流的出口。",
+      "ja": "本来語 out＋let「外へ出す」→ 出口 → 電気の取り出し口。"
+     },
+     "forms": [
+      [
+       "power outlet",
+       "电源插座",
+       "電源コンセント"
+      ],
+      [
+       "retail outlet",
+       "零售店",
+       "小売店"
+      ]
+     ],
+     "tip": {
+      "zh": "⚠️ 多义：电源插座 / 销售点（outlet store 折扣店）/ 发泄渠道。日语「コンセント」在英语是 outlet。",
+      "ja": "⚠️ 多義：コンセント／販売店（outlet store）／はけ口。和製英語「コンセント」は英語で outlet。"
+     }
+    },
+    {
+     "w": "plug",
+     "pos": "n./v.",
+     "ipa": "/plʌɡ/",
+     "zh": "插头；插上（电源）",
+     "ja": "プラグ；（電源に）差し込む",
+     "ex": "Plug the projector into the outlet next to the screen.",
+     "ex_zh": "把投影仪插到屏幕旁边的插座上。",
+     "ex_ja": "プロジェクターをスクリーン横のコンセントに差し込んでください。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分。来自中古荷兰语 plugge“塞子”，整体记忆。",
+      "ja": "信頼できる語根分解はない。中世オランダ語 plugge「栓」から。まとめて覚える。"
+     },
+     "forms": [
+      [
+       "plug in",
+       "插上电源",
+       "電源を入れる；差し込む"
+      ],
+      [
+       "plug-in (n.)",
+       "（软件）插件",
+       "プラグイン"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1：A man is plugging in a cord.（男子正在插电线）。",
+      "ja": "Part 1：A man is plugging in a cord.（男性がコードを差し込んでいる）。"
+     }
+    },
+    {
+     "w": "unplug",
+     "pos": "v.",
+     "ipa": "/ʌnˈplʌɡ/",
+     "zh": "拔掉插头",
+     "ja": "プラグを抜く",
+     "ex": "Please unplug the coffee maker before you leave the office.",
+     "ex_zh": "离开办公室前请拔掉咖啡机的插头。",
+     "ex_ja": "退社する前にコーヒーメーカーのプラグを抜いてください。",
+     "parts": [
+      [
+       "un-",
+       "去除；相反",
+       "取り除く；逆"
+      ],
+      [
+       "plug",
+       "塞子（荷兰语 plugge）",
+       "栓（オランダ語 plugge）"
+      ]
+     ],
+     "note": {
+      "zh": "un-（反向动作）+ plug。",
+      "ja": "un-（逆の動作）＋plug。"
+     },
+     "forms": [
+      [
+       "unplugged (adj.)",
+       "未插电的",
+       "電源の入っていない"
+      ],
+      [
+       "switch off (v.)",
+       "关掉",
+       "電源を切る"
+      ]
+     ]
+    },
+    {
+     "w": "download",
+     "pos": "v./n.",
+     "ipa": "/ˈdaʊnˌloʊd/",
+     "zh": "下载",
+     "ja": "ダウンロード（する）",
+     "ex": "Participants can download the conference schedule from our Web site.",
+     "ex_zh": "参会者可以从我们的网站下载会议日程。",
+     "ex_ja": "参加者は当社ウェブサイトから会議の日程表をダウンロードできる。",
+     "parts": [
+      [
+       "down",
+       "向下（本族词）",
+       "下へ（本来語）"
+      ],
+      [
+       "load",
+       "装载（本族词）",
+       "積荷（本来語）"
+      ]
+     ],
+     "note": {
+      "zh": "本族词 down + load“装载”。",
+      "ja": "本来語 down＋load「積荷」。"
+     },
+     "forms": [
+      [
+       "upload (v.)",
+       "上传",
+       "アップロードする"
+      ],
+      [
+       "downloadable (adj.)",
+       "可下载的",
+       "ダウンロード可能な"
+      ]
+     ]
+    },
+    {
+     "w": "router",
+     "pos": "n.",
+     "ipa": "/ˈraʊtɚ/",
+     "zh": "路由器",
+     "ja": "ルーター",
+     "ex": "If the internet connection is slow, try restarting the router.",
+     "ex_zh": "如果网速慢，试着重启路由器。",
+     "ex_ja": "インターネット接続が遅い場合は、ルーターを再起動してみてください。",
+     "parts": [
+      [
+       "rout",
+       "路线（route）",
+       "道筋（route）"
+      ],
+      [
+       "-er",
+       "表示工具",
+       "〜する道具"
+      ]
+     ],
+     "note": {
+      "zh": "route“路线”← 古法语 rute（拉丁语 rupta via“开辟出的路”，Day 6 的 -rupt-）+ -er。",
+      "ja": "route「経路」← 古フランス語 rute（ラテン語 rupta via「切り開いた道」。Day 6 の -rupt-）＋-er。"
+     },
+     "forms": [
+      [
+       "Wi-Fi router",
+       "无线路由器",
+       "Wi-Fi ルーター"
+      ],
+      [
+       "route (n./v.)",
+       "路线；按路线发送",
+       "経路；送る"
+      ]
+     ],
+     "tip": {
+      "zh": "⚠️ 美音 router /ˈraʊtɚ/，route 也常读 /raʊt/ 或 /rut/。",
+      "ja": "⚠️ 米音 router は /ˈraʊtɚ/。route は /raʊt/ と /rut/ の両方がある。"
+     }
+    },
+    {
+     "w": "reboot",
+     "pos": "v.",
+     "ipa": "/riˈbut/",
+     "zh": "重新启动（电脑等）",
+     "ja": "再起動する",
+     "ex": "The IT department will reboot all servers on Saturday night for maintenance.",
+     "ex_zh": "信息技术部门将在周六晚上重启所有服务器进行维护。",
+     "ex_ja": "IT 部門は保守のため、土曜日の夜にすべてのサーバーを再起動する。",
+     "parts": [
+      [
+       "re-",
+       "再",
+       "再び"
+      ],
+      [
+       "boot",
+       "启动（来自 bootstrap）",
+       "起動（bootstrap から）"
+      ]
+     ],
+     "note": {
+      "zh": "re- + boot“启动”（boot 是 bootstrap 的简称，本族词）。",
+      "ja": "re-＋boot「起動」（bootstrap の略。本来語）。"
+     },
+     "forms": [
+      [
+       "restart (v.)",
+       "重启",
+       "再起動する"
+      ],
+      [
+       "boot up (v.)",
+       "开机启动",
+       "起動する"
+      ]
+     ]
+    },
+    {
+     "w": "speakerphone",
+     "pos": "n.",
+     "ipa": "/ˈspikɚˌfoʊn/",
+     "zh": "免提电话",
+     "ja": "スピーカーフォン",
+     "ex": "Let's put the call on speakerphone so everyone in the room can hear.",
+     "ex_zh": "我们把电话开免提吧，这样会议室里的人都能听到。",
+     "ex_ja": "部屋の全員に聞こえるように、電話をスピーカーフォンにしましょう。",
+     "parts": [
+      [
+       "speak",
+       "说（本族词）",
+       "話す（本来語）"
+      ],
+      [
+       "-er",
+       "表示工具",
+       "〜する道具"
+      ],
+      [
+       "phone",
+       "声音（希腊语 phōnē）",
+       "音（ギリシャ語 phōnē）"
+      ]
+     ],
+     "note": {
+      "zh": "speaker + phone（← 希腊语 phōnē“声音”）。",
+      "ja": "speaker＋phone（← ギリシャ語 phōnē「声」）。"
+     },
+     "forms": [
+      [
+       "put ~ on speakerphone",
+       "打开免提",
+       "スピーカーフォンにする"
+      ],
+      [
+       "conference call",
+       "电话会议",
+       "電話会議"
+      ]
+     ]
+    },
+    {
+     "w": "handset",
+     "pos": "n.",
+     "ipa": "/ˈhændˌsɛt/",
+     "zh": "手机；（电话）听筒",
+     "ja": "携帯端末；受話器",
+     "ex": "The new model is lighter than any other handset on the market.",
+     "ex_zh": "这款新机型比市面上任何其他手机都轻。",
+     "ex_ja": "新機種は市場に出ているどの端末よりも軽い。",
+     "parts": [
+      [
+       "hand",
+       "手（本族词）",
+       "手（本来語）"
+      ],
+      [
+       "set",
+       "装置（本族词）",
+       "装置（本来語）"
+      ]
+     ],
+     "note": {
+      "zh": "本族词 hand + set“一套装置”→ 拿在手上的装置。",
+      "ja": "本来語 hand＋set「装置一式」→ 手に持つ装置。"
+     },
+     "forms": [
+      [
+       "handset manufacturer",
+       "手机制造商",
+       "携帯端末メーカー"
+      ],
+      [
+       "receiver (n.)",
+       "听筒",
+       "受話器"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}
