@@ -1,0 +1,2690 @@
+{
+ "day": 29,
+ "date": "2026-11-01",
+ "title_zh": "四大词根 + 预算编制与成本削减、文件归档与办公文具",
+ "title_ja": "4つの語根＋予算編成とコスト削減、書類整理と事務用品",
+ "intro_zh": "今天掌握 4 个高频词根（cre·cresc 生长 / equ 相等 / simil·sembl 相似 / hab·hib 拿住·居住），再学预算编制与成本削减、文件归档与办公文具的核心词——强化 Part 5 词性题（create / creation / creative、budget / budgetary、adequate / adequately）和易混词（inhibit ≠ inhabit、stationery ≠ stationary、economical ≠ economic、envelope ≠ envelop），固定搭配（similar to、equate A with B、resemble 直接接宾语），Part 1 场景（assembling a bookshelf、writing on a clipboard、a drawer has been left open），以及 Part 7 的财务报告（fiscal year、cost overrun、shortfall）和邮件惯用句（Please find attached ~）。",
+ "intro_ja": "今日は語根 4 つ（cre・cresc 育つ／equ 等しい／simil・sembl 似ている／hab・hib 持つ・住む）と、予算編成とコスト削減、書類整理と事務用品の重要語を学びます。Part 5 の品詞問題（create / creation / creative、budget / budgetary、adequate / adequately）と紛らわしい語（inhibit ≠ inhabit、stationery ≠ stationary、economical ≠ economic、envelope ≠ envelop）、語法（similar to、equate A with B、resemble は直接目的語）、Part 1 の場面（assembling a bookshelf、writing on a clipboard、a drawer has been left open）、Part 7 の財務報告（fiscal year、cost overrun、shortfall）とメール定型文（Please find attached ~）を強化します。",
+ "voice": "en-US-AriaNeural",
+ "roots": [
+  {
+   "root": "-cre- / -cresc- / -creat-",
+   "origin": "Latin crescere, creare",
+   "zh": "生长；创造",
+   "ja": "育つ；生み出す",
+   "exp_zh": "拉丁语 crescere 意为“生长、变大”：in- + crescere → increase（增加，“长进去”），de- + crescere → decrease（减少，“往下长”），incrementum → increment（增量）。同族还有 crescent（新月，“正在长大的月亮”）和 concrete（混凝土，“长在一起”）。与之同源的 creare（使产生、创造）→ create / creative / creativity，re- + creare → recreation（“重新造出精力”→ 消遣），recreational（休闲的）。⚠️ credit / credible 来自 credere“相信”，与“生长”无关；increase 和 decrease 作名词时重音前移（ˈɪnkris / ˈdikris）。",
+   "exp_ja": "ラテン語 crescere は「育つ・大きくなる」。in-＋crescere → increase（増える）、de-＋crescere → decrease（減る、「下へ育つ」）、incrementum → increment（増分）。仲間に crescent（三日月＝「満ちていく月」）、concrete（コンクリート＝「一緒に育ったもの」）。同源の creare（生み出す）→ create／creative／creativity、re-＋creare → recreation（「力を作り直す」→ 気晴らし）、recreational（レクリエーションの）。⚠️ credit／credible は credere「信じる」由来で「育つ」とは無関係。increase・decrease は名詞だと強勢が前に移る（ˈɪnkris／ˈdikris）。",
+   "examples": [
+    "increase",
+    "decrease",
+    "increment",
+    "incremental",
+    "create",
+    "creative",
+    "creativity",
+    "recreational"
+   ]
+  },
+  {
+   "root": "-equ- / -equi-",
+   "origin": "Latin aequus",
+   "zh": "相等；平",
+   "ja": "等しい；平らな",
+   "exp_zh": "来自拉丁语 aequus（平的、相等的）。aequalis → equal（相等的）/ equality（平等）；ad- + aequare“使相等”→ adequate（“和要求相等”→ 足够的），in- 否定 → inadequate（不足的）；aequitas → equitable（公平的）；aequatio → equation（等式；平衡因素）；aequi- + libra“天平”→ equilibrium（平衡）；aequare → equate（等同看待）。前几天学过的 equivalent（相等的）、equity（公平；股权）也属此族。⚠️ equip（装备）一般认为来自古诺尔斯语“装备船只”，equine（马的）来自 equus“马”，都与“相等”无关。",
+   "exp_ja": "ラテン語 aequus（平らな・等しい）から。aequalis → equal（等しい）／equality（平等）。ad-＋aequare「等しくする」→ adequate（「要求に等しい」→ 十分な）、否定の in- で inadequate（不十分な）。aequitas → equitable（公平な）、aequatio → equation（方程式・等式）、aequi-＋libra「天秤」→ equilibrium（均衡）、aequare → equate（同一視する）。既習の equivalent（同等の）、equity（公平・株主資本）も同じ仲間。⚠️ equip（装備する）は古ノルド語「船を装備する」由来とされ、equine（馬の）は equus「馬」由来で、どちらも「等しい」とは無関係。",
+   "examples": [
+    "equal",
+    "equality",
+    "adequate",
+    "inadequate",
+    "equitable",
+    "equation",
+    "equilibrium",
+    "equate"
+   ]
+  },
+  {
+   "root": "-simil- / -simul- / -sembl-",
+   "origin": "Latin similis, simul",
+   "zh": "相似；一起",
+   "ja": "似ている；一緒に",
+   "exp_zh": "拉丁语 similis（相似的）和 simul（一起、同时）是近亲。similis → similar / similarity；simulare“做得相像、模仿”→ simulate（模拟）/ simulation（模拟）。经古法语变形为 sembl：ad- + simul → assemble（“聚到一起”→ 组装；集合）/ assembly（组装；集会），re- + sembler“相像”→ resemble（像）/ resemblance（相似之处）。前面学过的 simultaneously（同时）也来自 simul。⚠️ assemble 与 assess（评估，ad + sedere“坐”）字形接近但不同源；resemble 后面直接接宾语，不说 resemble to / with。",
+   "exp_ja": "ラテン語 similis（似ている）と simul（一緒に・同時に）は近い親戚。similis → similar／similarity、simulare「似せる・まねる」→ simulate（模擬する）／simulation（シミュレーション）。古フランス語で sembl に変形：ad-＋simul → assemble（「一か所に集める」→ 組み立てる・集まる）／assembly（組み立て・集会）、re-＋sembler「似る」→ resemble（似ている）／resemblance（類似点）。既習の simultaneously（同時に）も simul 由来。⚠️ assemble と assess（評価する、ad＋sedere「座る」）は形が似ているが別語源。resemble は他動詞で、resemble to / with とは言わない。",
+   "examples": [
+    "similar",
+    "similarity",
+    "simulate",
+    "simulation",
+    "assemble",
+    "assembly",
+    "resemble",
+    "resemblance"
+   ]
+  },
+  {
+   "root": "-hab- / -hib-",
+   "origin": "Latin habere, habitare",
+   "zh": "拥有；拿住；居住",
+   "ja": "持つ；保つ；住む",
+   "exp_zh": "拉丁语 habere（拥有、拿住），反复形 habitare（住，“一直待着”）。habitus“状态、习性”→ habit（习惯）/ habitual（习惯性的）；in- + habitare → inhabit（居住于）/ inhabitant（居民）。前缀后 habere 弱化为 hib：ex- + habere“拿出来给人看”→ exhibit（展示；展品），in- + habere“往回拿住”→ inhibit（抑制），pro- + habere“挡在前面”→ prohibition（禁止）。habilis“容易拿住的 → 能干的”→ rehabilitate（使恢复；翻修），ability 也是这一家。⚠️ hibernate（冬眠）来自 hibernus“冬天的”，与 hib“拿”无关。",
+   "exp_ja": "ラテン語 habere（持つ・保つ）、その反復形 habitare（住む＝「ずっとそこにいる」）。habitus「状態・習性」→ habit（習慣）／habitual（習慣的な）、in-＋habitare → inhabit（住む）／inhabitant（住民）。接頭辞のあとで habere は hib に弱まる：ex-＋habere「外に出して見せる」→ exhibit（展示する・展示品）、in-＋habere「押しとどめる」→ inhibit（抑制する）、pro-＋habere「前で止める」→ prohibition（禁止）。habilis「扱いやすい → 有能な」→ rehabilitate（回復させる・改修する）。ability も同じ一族。⚠️ hibernate（冬眠する）は hibernus「冬の」由来で、hib「持つ」とは無関係。",
+   "examples": [
+    "habit",
+    "habitual",
+    "inhabit",
+    "inhabitant",
+    "exhibit",
+    "inhibit",
+    "prohibition",
+    "rehabilitate"
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "cre",
+   "title_zh": "词根 -cre- / -cresc- / -creat-：生长；创造",
+   "title_ja": "語根 -cre- / -cresc- / -creat-：育つ；生み出す",
+   "words": [
+    {
+     "w": "increase",
+     "pos": "v./n.",
+     "ipa": "/ɪnˈkris/",
+     "zh": "增加；增长；上涨",
+     "ja": "増加する；増やす；増加",
+     "ex": "Online sales increased by 15 percent after the website was redesigned.",
+     "ex_zh": "网站改版后，线上销售额增长了 15%。",
+     "ex_ja": "ウェブサイトの刷新後、オンライン売上は 15 パーセント増加した。",
+     "parts": [
+      [
+       "in-",
+       "向内；向上",
+       "中へ；上へ"
+      ],
+      [
+       "crease",
+       "生长（crescere）",
+       "育つ（crescere）"
+      ]
+     ],
+     "note": {
+      "zh": "经古法语来自拉丁语 increscere“长大、增加”（in- + crescere“生长”）。",
+      "ja": "古フランス語経由でラテン語 increscere「大きくなる」（in-＋crescere「育つ」）から。"
+     },
+     "forms": [
+      [
+       "increasingly (adv.)",
+       "越来越",
+       "ますます"
+      ],
+      [
+       "an increase in ~",
+       "……的增加",
+       "〜の増加"
+      ]
+     ],
+     "tip": {
+      "zh": "⚠️ 名词 increase 后接 in：an increase in demand；“增加了 15%”用 by 15 percent，“增加到”用 to。",
+      "ja": "⚠️ 名詞は increase in：an increase in demand。「15% 増えた」は by 15 percent、「〜まで増えた」は to。"
+     }
+    },
+    {
+     "w": "decrease",
+     "pos": "v./n.",
+     "ipa": "/dɪˈkris/",
+     "zh": "减少；下降",
+     "ja": "減少する；減らす；減少",
+     "ex": "The number of customer complaints decreased steadily throughout the year.",
+     "ex_zh": "客户投诉的数量全年持续减少。",
+     "ex_ja": "顧客からの苦情の件数は一年を通して着実に減少した。",
+     "parts": [
+      [
+       "de-",
+       "向下",
+       "下へ"
+      ],
+      [
+       "crease",
+       "生长（crescere）",
+       "育つ（crescere）"
+      ]
+     ],
+     "note": {
+      "zh": "经古法语来自拉丁语 decrescere“变小、减少”（de-“向下”+ crescere“生长”）。",
+      "ja": "古フランス語経由でラテン語 decrescere「小さくなる」（de-「下へ」＋crescere「育つ」）から。"
+     },
+     "forms": [
+      [
+       "a decrease in ~",
+       "……的减少",
+       "〜の減少"
+      ],
+      [
+       "decline (v./n.)",
+       "下降（近义词）",
+       "減少（類義語）"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7 图表题：decrease / decline / drop / fall 常互相改写。",
+      "ja": "Part 7 のグラフ問題では decrease / decline / drop / fall が言い換えに使われる。"
+     }
+    },
+    {
+     "w": "increment",
+     "pos": "n.",
+     "ipa": "/ˈɪŋkrəmənt/",
+     "zh": "增量；（定期）加薪额",
+     "ja": "増加分；（定期）昇給額",
+     "ex": "Employees receive a salary increment every April based on their performance review.",
+     "ex_zh": "员工每年四月根据绩效考核获得加薪。",
+     "ex_ja": "従業員は人事評価に基づき、毎年 4 月に昇給がある。",
+     "parts": [
+      [
+       "in-",
+       "向内；向上",
+       "中へ；上へ"
+      ],
+      [
+       "cre",
+       "生长（crescere）",
+       "育つ（crescere）"
+      ],
+      [
+       "-ment",
+       "名词词尾",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 incrementum“增长”（increscere“增加”）。",
+      "ja": "ラテン語 incrementum「増加」（increscere「増える」）から。"
+     },
+     "forms": [
+      [
+       "in increments of ~",
+       "以……为单位递增",
+       "〜刻みで"
+      ],
+      [
+       "salary increment",
+       "加薪",
+       "昇給"
+      ]
+     ]
+    },
+    {
+     "w": "incremental",
+     "pos": "adj.",
+     "ipa": "/ˌɪŋkrəˈmɛntəl/",
+     "zh": "逐步增加的；渐进的",
+     "ja": "段階的な；漸進的な",
+     "ex": "Rather than a complete overhaul, the company prefers incremental improvements to its software.",
+     "ex_zh": "比起彻底翻新，公司更倾向于对软件进行逐步改进。",
+     "ex_ja": "全面刷新よりも、同社はソフトウェアの段階的な改善を好む。",
+     "parts": [
+      [
+       "in-",
+       "向内；向上",
+       "中へ；上へ"
+      ],
+      [
+       "cre",
+       "生长（crescere）",
+       "育つ（crescere）"
+      ],
+      [
+       "-ment",
+       "名词词尾",
+       "名詞語尾"
+      ],
+      [
+       "-al",
+       "……的",
+       "〜の"
+      ]
+     ],
+     "note": {
+      "zh": "increment + -al。",
+      "ja": "increment＋-al。"
+     },
+     "forms": [
+      [
+       "incrementally (adv.)",
+       "逐步地",
+       "段階的に"
+      ],
+      [
+       "incremental cost",
+       "增量成本",
+       "増分コスト"
+      ]
+     ]
+    },
+    {
+     "w": "create",
+     "pos": "v.",
+     "ipa": "/kriˈeɪt/",
+     "zh": "创造；创建；造成",
+     "ja": "作り出す；創設する；生み出す",
+     "ex": "The new factory is expected to create more than 300 jobs in the region.",
+     "ex_zh": "新工厂预计将在当地创造 300 多个就业岗位。",
+     "ex_ja": "新工場はその地域に 300 人以上の雇用を生み出す見込みだ。",
+     "parts": [
+      [
+       "creat",
+       "创造、使生长（creare）",
+       "生み出す（creare）"
+      ],
+      [
+       "-e",
+       "（动词词形）",
+       "（動詞の語形）"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 creare“生出、创造”，与 crescere“生长”同源。",
+      "ja": "ラテン語 creare「生み出す」。crescere「育つ」と同源。"
+     },
+     "forms": [
+      [
+       "create jobs",
+       "创造就业",
+       "雇用を生み出す"
+      ],
+      [
+       "creation (n.)",
+       "创造；作品",
+       "創造；作品"
+      ],
+      [
+       "creator (n.)",
+       "创作者",
+       "作り手"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5 常考词性：create（动）/ creation（名）/ creative（形）/ creatively（副）。",
+      "ja": "Part 5 の品詞問題：create（動）／creation（名）／creative（形）／creatively（副）。"
+     }
+    },
+    {
+     "w": "creative",
+     "pos": "adj.",
+     "ipa": "/kriˈeɪtɪv/",
+     "zh": "有创意的；创造性的",
+     "ja": "創造的な；独創的な",
+     "ex": "We are looking for a creative designer to lead our new advertising campaign.",
+     "ex_zh": "我们在找一位有创意的设计师来主导新的广告活动。",
+     "ex_ja": "新しい広告キャンペーンを率いる独創的なデザイナーを募集しています。",
+     "parts": [
+      [
+       "creat",
+       "创造、使生长（creare）",
+       "生み出す（creare）"
+      ],
+      [
+       "-ive",
+       "……的",
+       "〜的な"
+      ]
+     ],
+     "note": {
+      "zh": "create + -ive。",
+      "ja": "create＋-ive。"
+     },
+     "forms": [
+      [
+       "creative director",
+       "创意总监",
+       "クリエイティブディレクター"
+      ],
+      [
+       "creatively (adv.)",
+       "有创意地",
+       "独創的に"
+      ]
+     ]
+    },
+    {
+     "w": "creativity",
+     "pos": "n.",
+     "ipa": "/ˌkrieɪˈtɪvəti/",
+     "zh": "创造力；创意",
+     "ja": "創造性；独創性",
+     "ex": "The workshop is designed to encourage creativity and teamwork among staff.",
+     "ex_zh": "这个工作坊旨在激发员工的创造力和团队合作。",
+     "ex_ja": "このワークショップは社員の創造性とチームワークを促すことを目的としている。",
+     "parts": [
+      [
+       "creat",
+       "创造、使生长（creare）",
+       "生み出す（creare）"
+      ],
+      [
+       "-ive",
+       "……的",
+       "〜的な"
+      ],
+      [
+       "-ity",
+       "名词词尾（性质）",
+       "名詞語尾（性質）"
+      ]
+     ],
+     "note": {
+      "zh": "creative + -ity。",
+      "ja": "creative＋-ity。"
+     },
+     "forms": [
+      [
+       "encourage creativity",
+       "激发创造力",
+       "創造性を促す"
+      ],
+      [
+       "show creativity",
+       "展现创意",
+       "独創性を発揮する"
+      ]
+     ]
+    },
+    {
+     "w": "recreational",
+     "pos": "adj.",
+     "ipa": "/ˌrɛkriˈeɪʃənəl/",
+     "zh": "休闲的；娱乐的",
+     "ja": "レクリエーションの；娯楽の",
+     "ex": "The apartment complex offers recreational facilities, including a pool and tennis courts.",
+     "ex_zh": "这个公寓小区提供游泳池和网球场等休闲设施。",
+     "ex_ja": "そのマンションにはプールやテニスコートなどのレクリエーション施設がある。",
+     "parts": [
+      [
+       "re-",
+       "再",
+       "再び"
+      ],
+      [
+       "creat",
+       "创造、使生长（creare）",
+       "生み出す（creare）"
+      ],
+      [
+       "-ion",
+       "名词词尾",
+       "名詞語尾"
+      ],
+      [
+       "-al",
+       "……的",
+       "〜の"
+      ]
+     ],
+     "note": {
+      "zh": "recreation + -al；recreation 来自拉丁语 recreare“恢复精力”（re-“再”+ creare“创造”）。",
+      "ja": "recreation＋-al。recreation はラテン語 recreare「元気を取り戻させる」（re-「再び」＋creare「生み出す」）から。"
+     },
+     "forms": [
+      [
+       "recreational facilities",
+       "休闲设施",
+       "娯楽施設"
+      ],
+      [
+       "recreation (n.)",
+       "消遣；娱乐",
+       "気晴らし；レクリエーション"
+      ]
+     ],
+     "tip": {
+      "zh": "⚠️ 注意拼写和读音：rec-re-ation，不是 re-create（重新创造）。",
+      "ja": "⚠️ つづりと発音に注意：rec-re-ation。re-create（作り直す）とは別。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "equ",
+   "title_zh": "词根 -equ- / -equi-：相等",
+   "title_ja": "語根 -equ- / -equi-：等しい",
+   "words": [
+    {
+     "w": "equal",
+     "pos": "adj./v.",
+     "ipa": "/ˈikwəl/",
+     "zh": "相等的；平等的；等于",
+     "ja": "等しい；平等な；〜に等しい",
+     "ex": "All candidates will be given an equal amount of time to present their proposals.",
+     "ex_zh": "所有候选人都将获得相同的时间来介绍自己的提案。",
+     "ex_ja": "候補者全員に、提案を発表するための同じ時間が与えられる。",
+     "parts": [
+      [
+       "equ",
+       "相等（aequus）",
+       "等しい（aequus）"
+      ],
+      [
+       "-al",
+       "……的",
+       "〜の"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 aequalis“相等的”（aequus“平的、相等的”）。",
+      "ja": "ラテン語 aequalis「等しい」（aequus「平らな・等しい」）から。"
+     },
+     "forms": [
+      [
+       "be equal to ~",
+       "等于……；胜任……",
+       "〜に等しい；〜に耐えうる"
+      ],
+      [
+       "equally (adv.)",
+       "同样地；平均地",
+       "等しく；均等に"
+      ]
+     ]
+    },
+    {
+     "w": "equality",
+     "pos": "n.",
+     "ipa": "/ɪˈkwɑləti/",
+     "zh": "平等；相等",
+     "ja": "平等；同等",
+     "ex": "The company's new policy promotes gender equality in hiring and promotion.",
+     "ex_zh": "公司的新政策促进招聘与晋升中的性别平等。",
+     "ex_ja": "会社の新方針は採用と昇進における男女平等を推進している。",
+     "parts": [
+      [
+       "equ",
+       "相等（aequus）",
+       "等しい（aequus）"
+      ],
+      [
+       "-al",
+       "……的",
+       "〜の"
+      ],
+      [
+       "-ity",
+       "名词词尾（性质）",
+       "名詞語尾（性質）"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 aequalitas“平等”（aequalis“相等的”）。",
+      "ja": "ラテン語 aequalitas「平等」（aequalis「等しい」）から。"
+     },
+     "forms": [
+      [
+       "gender equality",
+       "性别平等",
+       "男女平等"
+      ],
+      [
+       "equal opportunity",
+       "机会均等",
+       "機会均等"
+      ]
+     ]
+    },
+    {
+     "w": "adequate",
+     "pos": "adj.",
+     "ipa": "/ˈædɪkwət/",
+     "zh": "足够的；适当的",
+     "ja": "十分な；適切な",
+     "ex": "Please make sure there is adequate seating for all the guests at the reception.",
+     "ex_zh": "请确保招待会上有足够的座位给所有来宾。",
+     "ex_ja": "レセプションで来客全員分の十分な席があるか確認してください。",
+     "parts": [
+      [
+       "ad-",
+       "向",
+       "〜へ"
+      ],
+      [
+       "equ",
+       "相等（aequus）",
+       "等しい（aequus）"
+      ],
+      [
+       "-ate",
+       "动词词尾",
+       "動詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 adaequatus“使相等的”（ad-“向”+ aequare“使相等”）→ 与需要相等 → 足够的。",
+      "ja": "ラテン語 adaequatus「等しくされた」（ad-「〜へ」＋aequare「等しくする」）→ 必要量に等しい → 十分な。"
+     },
+     "forms": [
+      [
+       "adequately (adv.)",
+       "充分地；适当地",
+       "十分に；適切に"
+      ],
+      [
+       "adequate funding",
+       "充足的资金",
+       "十分な資金"
+      ]
+     ],
+     "tip": {
+      "zh": "adequate 常和 sufficient、enough 互换；读音 /ˈædɪkwət/，最后不读 /eɪt/。",
+      "ja": "adequate は sufficient・enough と言い換えられる。発音は /ˈædɪkwət/ で語尾は /eɪt/ ではない。"
+     }
+    },
+    {
+     "w": "inadequate",
+     "pos": "adj.",
+     "ipa": "/ɪnˈædɪkwət/",
+     "zh": "不足的；不够格的",
+     "ja": "不十分な；不適切な",
+     "ex": "The report found that the warehouse's ventilation system was inadequate.",
+     "ex_zh": "报告发现仓库的通风系统不够完善。",
+     "ex_ja": "報告書は倉庫の換気設備が不十分だと指摘した。",
+     "parts": [
+      [
+       "in-",
+       "不",
+       "〜でない"
+      ],
+      [
+       "ad-",
+       "向",
+       "〜へ"
+      ],
+      [
+       "equ",
+       "相等（aequus）",
+       "等しい（aequus）"
+      ],
+      [
+       "-ate",
+       "动词词尾",
+       "動詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "in-（否定）+ adequate。",
+      "ja": "in-（否定）＋adequate。"
+     },
+     "forms": [
+      [
+       "inadequate staffing",
+       "人手不足",
+       "人員不足"
+      ],
+      [
+       "inadequacy (n.)",
+       "不足；不充分",
+       "不十分さ"
+      ]
+     ]
+    },
+    {
+     "w": "equitable",
+     "pos": "adj.",
+     "ipa": "/ˈɛkwɪtəbəl/",
+     "zh": "公平的；公正的",
+     "ja": "公平な；公正な",
+     "ex": "The committee worked out an equitable way to distribute the bonus among the team.",
+     "ex_zh": "委员会制定了一个在团队中公平分配奖金的方法。",
+     "ex_ja": "委員会はチーム内でボーナスを公平に分配する方法を考え出した。",
+     "parts": [
+      [
+       "equ",
+       "相等（aequus）",
+       "等しい（aequus）"
+      ],
+      [
+       "-it",
+       "名词部分（aequitas）",
+       "名詞部分（aequitas）"
+      ],
+      [
+       "-able",
+       "可……的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "法语 équitable，来自 équité“公平”← 拉丁语 aequitas（aequus“相等的”）。",
+      "ja": "フランス語 équitable（équité「公平」← ラテン語 aequitas、aequus「等しい」）から。"
+     },
+     "forms": [
+      [
+       "equitable distribution",
+       "公平分配",
+       "公平な分配"
+      ],
+      [
+       "equity (n.)",
+       "公平；股权",
+       "公平；株主資本"
+      ]
+     ],
+     "tip": {
+      "zh": "equitable ≈ fair，可用来改写 Part 7 的 fair。",
+      "ja": "equitable ≈ fair。Part 7 の言い換えに出る。"
+     }
+    },
+    {
+     "w": "equation",
+     "pos": "n.",
+     "ipa": "/ɪˈkweɪʒən/",
+     "zh": "等式；方程式；（综合考虑的）因素",
+     "ja": "方程式；等式；（考慮すべき）要素",
+     "ex": "When choosing a supplier, price is only one part of the equation.",
+     "ex_zh": "选择供应商时，价格只是需要考虑的因素之一。",
+     "ex_ja": "仕入れ先を選ぶとき、価格は考慮すべき要素の一つにすぎない。",
+     "parts": [
+      [
+       "equ",
+       "相等（aequus）",
+       "等しい（aequus）"
+      ],
+      [
+       "-at",
+       "动词部分（aequare）",
+       "動詞部分（aequare）"
+      ],
+      [
+       "-ion",
+       "名词词尾",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 aequatio“使相等”（aequare）。",
+      "ja": "ラテン語 aequatio「等しくすること」（aequare）から。"
+     },
+     "forms": [
+      [
+       "part of the equation",
+       "要考虑的一个因素",
+       "考慮すべき要素の一つ"
+      ],
+      [
+       "solve an equation",
+       "解方程",
+       "方程式を解く"
+      ]
+     ],
+     "tip": {
+      "zh": "商务英语里 equation 常表示“全盘考虑的各种因素”，不一定是数学。",
+      "ja": "ビジネス英語の equation は「考慮すべき要素全体」の意味でよく使われる。"
+     }
+    },
+    {
+     "w": "equilibrium",
+     "pos": "n.",
+     "ipa": "/ˌikwəˈlɪbriəm/",
+     "zh": "平衡；均衡",
+     "ja": "均衡；平衡",
+     "ex": "Prices will rise until the market reaches equilibrium between supply and demand.",
+     "ex_zh": "价格会一直上涨，直到市场达到供需平衡。",
+     "ex_ja": "需要と供給が均衡に達するまで価格は上がり続けるだろう。",
+     "parts": [
+      [
+       "equi-",
+       "相等",
+       "等しい"
+      ],
+      [
+       "libr",
+       "天平（libra）",
+       "天秤（libra）"
+      ],
+      [
+       "-ium",
+       "名词词尾",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 aequilibrium（aequi-“相等”+ libra“天平”）→ 天平两边相等。",
+      "ja": "ラテン語 aequilibrium（aequi-「等しい」＋libra「天秤」）→ 天秤の両側が等しい状態。"
+     },
+     "forms": [
+      [
+       "reach equilibrium",
+       "达到平衡",
+       "均衡に達する"
+      ],
+      [
+       "balance (n.)",
+       "平衡（近义词）",
+       "バランス（類義語）"
+      ]
+     ]
+    },
+    {
+     "w": "equate",
+     "pos": "v.",
+     "ipa": "/ɪˈkweɪt/",
+     "zh": "把……等同于；使相等",
+     "ja": "同一視する；等しいとみなす",
+     "ex": "Many consumers equate higher prices with better quality.",
+     "ex_zh": "许多消费者认为价格越高质量越好。",
+     "ex_ja": "多くの消費者は価格が高いほど品質が良いと考えがちだ。",
+     "parts": [
+      [
+       "equ",
+       "相等（aequus）",
+       "等しい（aequus）"
+      ],
+      [
+       "-ate",
+       "动词词尾",
+       "動詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 aequatus，aequare“使相等”的过去分词。",
+      "ja": "ラテン語 aequare「等しくする」の過去分詞 aequatus から。"
+     },
+     "forms": [
+      [
+       "equate A with B",
+       "把 A 等同于 B",
+       "A を B と同一視する"
+      ],
+      [
+       "equation (n.)",
+       "等式",
+       "等式"
+      ]
+     ],
+     "tip": {
+      "zh": "固定搭配 equate A with B（介词用 with）。",
+      "ja": "決まった形は equate A with B（前置詞は with）。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "simil",
+   "title_zh": "词根 -simil- / -simul- / -sembl-：相似；一起",
+   "title_ja": "語根 -simil- / -simul- / -sembl-：似ている；一緒に",
+   "words": [
+    {
+     "w": "similar",
+     "pos": "adj.",
+     "ipa": "/ˈsɪməlɚ/",
+     "zh": "相似的；类似的",
+     "ja": "似ている；同様の",
+     "ex": "Our new model is similar in size to the previous one but much lighter.",
+     "ex_zh": "我们的新机型和旧款尺寸相近，但轻得多。",
+     "ex_ja": "新モデルは前モデルとほぼ同じ大きさだが、ずっと軽い。",
+     "parts": [
+      [
+       "simil",
+       "相似（similis）",
+       "似ている（similis）"
+      ],
+      [
+       "-ar",
+       "……的",
+       "〜の"
+      ]
+     ],
+     "note": {
+      "zh": "法语 similaire ← 拉丁语 similis“相似的”。",
+      "ja": "フランス語 similaire ← ラテン語 similis「似ている」から。"
+     },
+     "forms": [
+      [
+       "be similar to ~",
+       "和……相似",
+       "〜に似ている"
+      ],
+      [
+       "similarly (adv.)",
+       "同样地",
+       "同様に"
+      ]
+     ],
+     "tip": {
+      "zh": "⚠️ similar to（介词 to），不说 similar with。",
+      "ja": "⚠️ similar to（前置詞は to）。similar with とは言わない。"
+     }
+    },
+    {
+     "w": "similarity",
+     "pos": "n.",
+     "ipa": "/ˌsɪməˈlɛrəti/",
+     "zh": "相似之处；相似性",
+     "ja": "類似点；類似性",
+     "ex": "There are several similarities between the two proposals, so the board may combine them.",
+     "ex_zh": "两份提案有几处相似之处，所以董事会可能会把它们合并。",
+     "ex_ja": "二つの提案には類似点がいくつかあるので、取締役会はそれらをまとめるかもしれない。",
+     "parts": [
+      [
+       "simil",
+       "相似（similis）",
+       "似ている（similis）"
+      ],
+      [
+       "-ar",
+       "……的",
+       "〜の"
+      ],
+      [
+       "-ity",
+       "名词词尾（性质）",
+       "名詞語尾（性質）"
+      ]
+     ],
+     "note": {
+      "zh": "similar + -ity。",
+      "ja": "similar＋-ity。"
+     },
+     "forms": [
+      [
+       "similarity between A and B",
+       "A 和 B 的相似之处",
+       "A と B の類似点"
+      ],
+      [
+       "difference (n.)",
+       "不同（反义）",
+       "違い（反意語）"
+      ]
+     ]
+    },
+    {
+     "w": "simulate",
+     "pos": "v.",
+     "ipa": "/ˈsɪmjəˌleɪt/",
+     "zh": "模拟；仿真",
+     "ja": "模擬する；シミュレートする",
+     "ex": "The training program simulates real customer calls so that new staff can practice.",
+     "ex_zh": "培训项目模拟真实的客户来电，让新员工练习。",
+     "ex_ja": "研修プログラムは実際の顧客からの電話を再現し、新人が練習できるようにしている。",
+     "parts": [
+      [
+       "simul",
+       "相似（similis）",
+       "似ている（similis）"
+      ],
+      [
+       "-ate",
+       "动词词尾",
+       "動詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 simulare“使相像、模仿”（similis“相似的”）。",
+      "ja": "ラテン語 simulare「似せる・まねる」（similis「似ている」）から。"
+     },
+     "forms": [
+      [
+       "simulated (adj.)",
+       "模拟的",
+       "模擬の"
+      ],
+      [
+       "simulator (n.)",
+       "模拟器",
+       "シミュレーター"
+      ]
+     ]
+    },
+    {
+     "w": "simulation",
+     "pos": "n.",
+     "ipa": "/ˌsɪmjəˈleɪʃən/",
+     "zh": "模拟；仿真",
+     "ja": "シミュレーション；模擬実験",
+     "ex": "Pilots must complete a flight simulation before operating the new aircraft.",
+     "ex_zh": "飞行员在驾驶新型飞机之前必须完成飞行模拟训练。",
+     "ex_ja": "パイロットは新型機を操縦する前にフライトシミュレーションを修了しなければならない。",
+     "parts": [
+      [
+       "simul",
+       "相似（similis）",
+       "似ている（similis）"
+      ],
+      [
+       "-at",
+       "动词部分",
+       "動詞部分"
+      ],
+      [
+       "-ion",
+       "名词词尾",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 simulatio（simulare“模仿”）。",
+      "ja": "ラテン語 simulatio（simulare「まねる」）から。"
+     },
+     "forms": [
+      [
+       "computer simulation",
+       "计算机模拟",
+       "コンピューターシミュレーション"
+      ],
+      [
+       "run a simulation",
+       "进行模拟",
+       "シミュレーションを行う"
+      ]
+     ]
+    },
+    {
+     "w": "assemble",
+     "pos": "v.",
+     "ipa": "/əˈsɛmbəl/",
+     "zh": "组装；集合；收集",
+     "ja": "組み立てる；集まる；集める",
+     "ex": "The desks arrive in boxes and must be assembled by the customer.",
+     "ex_zh": "书桌装箱送达，需要顾客自行组装。",
+     "ex_ja": "机は箱で届き、購入者が自分で組み立てる必要がある。",
+     "parts": [
+      [
+       "as-",
+       "向（ad-）",
+       "〜へ（ad-）"
+      ],
+      [
+       "sembl",
+       "相似、一起（similis / simul）",
+       "似る・一緒に（similis / simul）"
+      ],
+      [
+       "-e",
+       "（动词词形）",
+       "（動詞の語形）"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 assembler“聚集”← 通俗拉丁语 *assimulare（ad-“向”+ simul“一起”）。",
+      "ja": "古フランス語 assembler「集める」← 俗ラテン語 *assimulare（ad-「〜へ」＋simul「一緒に」）から。"
+     },
+     "forms": [
+      [
+       "assemble a team",
+       "组建团队",
+       "チームを編成する"
+      ],
+      [
+       "easy to assemble",
+       "容易组装",
+       "組み立てが簡単"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1：Some people are assembling a bookshelf.（在组装书架）；Part 4：Please assemble in the lobby.（请在大厅集合）。",
+      "ja": "Part 1：Some people are assembling a bookshelf.（本棚を組み立てている）。Part 4：Please assemble in the lobby.（ロビーに集まってください）。"
+     }
+    },
+    {
+     "w": "assembly",
+     "pos": "n.",
+     "ipa": "/əˈsɛmbli/",
+     "zh": "组装；集会；议会",
+     "ja": "組み立て；集会；議会",
+     "ex": "Production was delayed because one of the assembly lines needed repairs.",
+     "ex_zh": "由于一条装配线需要维修，生产被推迟了。",
+     "ex_ja": "組立ラインの一つが修理を要したため、生産が遅れた。",
+     "parts": [
+      [
+       "as-",
+       "向（ad-）",
+       "〜へ（ad-）"
+      ],
+      [
+       "sembl",
+       "相似、一起（similis / simul）",
+       "似る・一緒に（similis / simul）"
+      ],
+      [
+       "-y",
+       "名词词尾",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 assemblee“集会”（assembler“聚集”）。",
+      "ja": "古フランス語 assemblee「集まり」（assembler「集める」）から。"
+     },
+     "forms": [
+      [
+       "assembly line",
+       "装配线",
+       "組立ライン"
+      ],
+      [
+       "assembly required",
+       "需自行组装",
+       "要組立"
+      ]
+     ]
+    },
+    {
+     "w": "resemble",
+     "pos": "v.",
+     "ipa": "/rɪˈzɛmbəl/",
+     "zh": "像；类似于",
+     "ja": "〜に似ている",
+     "ex": "The new logo closely resembles the one used by a competitor, so it will be revised.",
+     "ex_zh": "新标志和一家竞争对手的标志很像，所以要修改。",
+     "ex_ja": "新しいロゴは競合他社のものとよく似ているため、修正される予定だ。",
+     "parts": [
+      [
+       "re-",
+       "（加强）",
+       "（強調）"
+      ],
+      [
+       "sembl",
+       "相似、一起（similis / simul）",
+       "似る・一緒に（similis / simul）"
+      ],
+      [
+       "-e",
+       "（动词词形）",
+       "（動詞の語形）"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 resembler（re- + sembler“相像”← 拉丁语 similare，similis“相似的”）。",
+      "ja": "古フランス語 resembler（re-＋sembler「似る」← ラテン語 similare、similis「似ている」）から。"
+     },
+     "forms": [
+      [
+       "closely resemble",
+       "非常像",
+       "よく似ている"
+      ],
+      [
+       "resemblance (n.)",
+       "相似",
+       "類似"
+      ]
+     ],
+     "tip": {
+      "zh": "⚠️ resemble 是及物动词：resemble A，不用 to / with，也不用进行时。",
+      "ja": "⚠️ resemble は他動詞：resemble A。to / with は不要で、進行形にもしない。"
+     }
+    },
+    {
+     "w": "resemblance",
+     "pos": "n.",
+     "ipa": "/rɪˈzɛmbləns/",
+     "zh": "相似；相像",
+     "ja": "類似；似ていること",
+     "ex": "The restaurant's interior bears a strong resemblance to a 1950s diner.",
+     "ex_zh": "这家餐厅的内部装潢很像 20 世纪 50 年代的美式小餐馆。",
+     "ex_ja": "そのレストランの内装は 1950 年代のダイナーによく似ている。",
+     "parts": [
+      [
+       "re-",
+       "（加强）",
+       "（強調）"
+      ],
+      [
+       "sembl",
+       "相似、一起（similis / simul）",
+       "似る・一緒に（similis / simul）"
+      ],
+      [
+       "-ance",
+       "名词词尾",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "resemble + -ance。",
+      "ja": "resemble＋-ance。"
+     },
+     "forms": [
+      [
+       "bear a resemblance to ~",
+       "与……相似",
+       "〜に似ている"
+      ],
+      [
+       "similarity (n.)",
+       "相似（近义词）",
+       "類似（類義語）"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "hab",
+   "title_zh": "词根 -hab- / -hib-：拿住；居住",
+   "title_ja": "語根 -hab- / -hib-：持つ；住む",
+   "words": [
+    {
+     "w": "habit",
+     "pos": "n.",
+     "ipa": "/ˈhæbɪt/",
+     "zh": "习惯；习性",
+     "ja": "習慣；癖",
+     "ex": "Checking e-mail first thing in the morning is a habit many office workers share.",
+     "ex_zh": "早上第一件事查邮件是很多上班族共同的习惯。",
+     "ex_ja": "朝一番にメールを確認するのは多くの会社員に共通する習慣だ。",
+     "parts": [
+      [
+       "habit",
+       "拥有、居住（habere / habitare）",
+       "持つ・住む（habere / habitare）"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 habitus“状态、习性”（habere“拥有、保持”）。",
+      "ja": "ラテン語 habitus「状態・習性」（habere「持つ・保つ」）から。"
+     },
+     "forms": [
+      [
+       "be in the habit of ~ing",
+       "有……的习惯",
+       "〜する習慣がある"
+      ],
+      [
+       "spending habits",
+       "消费习惯",
+       "消費習慣"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7 市场调研常见 consumer habits / spending habits。",
+      "ja": "Part 7 の市場調査では consumer habits / spending habits がよく出る。"
+     }
+    },
+    {
+     "w": "habitual",
+     "pos": "adj.",
+     "ipa": "/həˈbɪtʃuəl/",
+     "zh": "习惯性的；惯常的",
+     "ja": "習慣的な；いつもの",
+     "ex": "Habitual lateness may result in a formal warning from the human resources department.",
+     "ex_zh": "习惯性迟到可能会收到人事部的正式警告。",
+     "ex_ja": "常習的な遅刻は人事部からの正式な警告につながる可能性がある。",
+     "parts": [
+      [
+       "habit",
+       "拥有、居住（habere / habitare）",
+       "持つ・住む（habere / habitare）"
+      ],
+      [
+       "-ual",
+       "……的",
+       "〜の"
+      ]
+     ],
+     "note": {
+      "zh": "中世拉丁语 habitualis（habitus“习性”）。",
+      "ja": "中世ラテン語 habitualis（habitus「習性」）から。"
+     },
+     "forms": [
+      [
+       "habitually (adv.)",
+       "习惯性地",
+       "習慣的に"
+      ],
+      [
+       "habitual customer",
+       "老顾客",
+       "常連客"
+      ]
+     ]
+    },
+    {
+     "w": "inhabit",
+     "pos": "v.",
+     "ipa": "/ɪnˈhæbɪt/",
+     "zh": "居住于；栖息于",
+     "ja": "〜に住む；生息する",
+     "ex": "The island is inhabited by fewer than 2,000 people, most of whom work in fishing.",
+     "ex_zh": "这个岛上住着不到 2000 人，大多数从事渔业。",
+     "ex_ja": "その島には 2,000 人足らずが住んでおり、大半が漁業に従事している。",
+     "parts": [
+      [
+       "in-",
+       "在……里",
+       "中に"
+      ],
+      [
+       "habit",
+       "拥有、居住（habere / habitare）",
+       "持つ・住む（habere / habitare）"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 inhabitare（in-“在里面”+ habitare“居住”，habere 的反复形）。",
+      "ja": "ラテン語 inhabitare（in-「中に」＋habitare「住む」、habere の反復形）から。"
+     },
+     "forms": [
+      [
+       "uninhabited (adj.)",
+       "无人居住的",
+       "無人の"
+      ],
+      [
+       "inhabitant (n.)",
+       "居民",
+       "住民"
+      ]
+     ],
+     "tip": {
+      "zh": "⚠️ inhabit 是及物动词：inhabit the island，不说 inhabit in。in- 不是否定！",
+      "ja": "⚠️ inhabit は他動詞：inhabit the island（inhabit in とは言わない）。in- は否定ではない。"
+     }
+    },
+    {
+     "w": "inhabitant",
+     "pos": "n.",
+     "ipa": "/ɪnˈhæbɪtənt/",
+     "zh": "居民；栖息动物",
+     "ja": "住民；生息する動物",
+     "ex": "The city council surveyed inhabitants about the proposed bus route.",
+     "ex_zh": "市议会就拟议的公交路线向居民做了调查。",
+     "ex_ja": "市議会は計画中のバス路線について住民に調査を行った。",
+     "parts": [
+      [
+       "in-",
+       "在……里",
+       "中に"
+      ],
+      [
+       "habit",
+       "拥有、居住（habere / habitare）",
+       "持つ・住む（habere / habitare）"
+      ],
+      [
+       "-ant",
+       "表示人",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "inhabit + -ant。",
+      "ja": "inhabit＋-ant。"
+     },
+     "forms": [
+      [
+       "local inhabitants",
+       "当地居民",
+       "地元の住民"
+      ],
+      [
+       "resident (n.)",
+       "居民（近义词）",
+       "住民（類義語）"
+      ]
+     ]
+    },
+    {
+     "w": "exhibit",
+     "pos": "v./n.",
+     "ipa": "/ɪɡˈzɪbɪt/",
+     "zh": "展示；展出；展品",
+     "ja": "展示する；示す；展示品",
+     "ex": "The museum will exhibit works by local artists throughout the month of June.",
+     "ex_zh": "博物馆将在整个六月展出本地艺术家的作品。",
+     "ex_ja": "博物館は 6 月いっぱい地元の芸術家の作品を展示する。",
+     "parts": [
+      [
+       "ex-",
+       "出",
+       "外へ"
+      ],
+      [
+       "hib",
+       "拿、握（habere）",
+       "持つ・保つ（habere）"
+      ],
+      [
+       "-it",
+       "（过去分词词尾）",
+       "（過去分詞語尾）"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 exhibitus，exhibere“拿出来展示”（ex-“出”+ habere“拿”）的过去分词。",
+      "ja": "ラテン語 exhibere「差し出して見せる」（ex-「外へ」＋habere「持つ」）の過去分詞 exhibitus から。"
+     },
+     "forms": [
+      [
+       "exhibitor (n.)",
+       "参展商",
+       "出展者"
+      ],
+      [
+       "on exhibit",
+       "展出中",
+       "展示中"
+      ]
+     ],
+     "tip": {
+      "zh": "⚠️ h 不发音：/ɪɡˈzɪbɪt/。名词 exhibition 已学过；exhibit 作名词常指单件“展品”。",
+      "ja": "⚠️ h は発音しない：/ɪɡˈzɪbɪt/。名詞 exhibit は個々の「展示品」を指すことが多い。"
+     }
+    },
+    {
+     "w": "inhibit",
+     "pos": "v.",
+     "ipa": "/ɪnˈhɪbɪt/",
+     "zh": "抑制；阻碍",
+     "ja": "抑制する；妨げる",
+     "ex": "High shipping costs may inhibit the growth of our online business overseas.",
+     "ex_zh": "高昂的运费可能会阻碍我们海外网店业务的增长。",
+     "ex_ja": "高い送料が海外でのネット事業の成長を妨げるかもしれない。",
+     "parts": [
+      [
+       "in-",
+       "在内；（向回）",
+       "中に；（押しとどめる）"
+      ],
+      [
+       "hib",
+       "拿、握（habere）",
+       "持つ・保つ（habere）"
+      ],
+      [
+       "-it",
+       "（过去分词词尾）",
+       "（過去分詞語尾）"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 inhibitus，inhibere“拉住、阻止”（in- + habere“拿住”）的过去分词。",
+      "ja": "ラテン語 inhibere「引き止める」（in-＋habere「持つ」）の過去分詞 inhibitus から。"
+     },
+     "forms": [
+      [
+       "inhibit growth",
+       "阻碍增长",
+       "成長を妨げる"
+      ],
+      [
+       "inhibition (n.)",
+       "抑制；拘束感",
+       "抑制；ためらい"
+      ]
+     ],
+     "tip": {
+      "zh": "⚠️ inhibit（抑制）≠ inhabit（居住），只差一个字母。",
+      "ja": "⚠️ inhibit（抑制する）≠ inhabit（住む）。一文字違い。"
+     }
+    },
+    {
+     "w": "prohibition",
+     "pos": "n.",
+     "ipa": "/ˌproʊəˈbɪʃən/",
+     "zh": "禁止；禁令",
+     "ja": "禁止；禁止令",
+     "ex": "The prohibition on smoking applies to all areas of the building, including the rooftop.",
+     "ex_zh": "禁烟规定适用于大楼的所有区域，包括屋顶。",
+     "ex_ja": "喫煙禁止は屋上を含む建物内のすべての場所に適用される。",
+     "parts": [
+      [
+       "pro-",
+       "在前",
+       "前に"
+      ],
+      [
+       "hib",
+       "拿、握（habere）",
+       "持つ・保つ（habere）"
+      ],
+      [
+       "-it",
+       "（过去分词词尾）",
+       "（過去分詞語尾）"
+      ],
+      [
+       "-ion",
+       "名词词尾",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 prohibitio，prohibere“挡在前面 → 阻止”（pro-“在前”+ habere“拿住”）。",
+      "ja": "ラテン語 prohibitio、prohibere「前で押しとどめる → 禁じる」（pro-「前に」＋habere「持つ」）から。"
+     },
+     "forms": [
+      [
+       "a prohibition on ~",
+       "对……的禁令",
+       "〜の禁止"
+      ],
+      [
+       "prohibit A from ~ing",
+       "禁止 A 做……",
+       "A が〜するのを禁じる"
+      ]
+     ],
+     "tip": {
+      "zh": "动词 prohibit 已学过：Visitors are prohibited from taking photos. 注意 from + 动名词。",
+      "ja": "動詞 prohibit は既習：Visitors are prohibited from taking photos.（from＋動名詞に注意）。"
+     }
+    },
+    {
+     "w": "rehabilitate",
+     "pos": "v.",
+     "ipa": "/ˌrihəˈbɪləˌteɪt/",
+     "zh": "修复；翻新；使康复",
+     "ja": "修復する；改修する；リハビリさせる",
+     "ex": "The city plans to rehabilitate the old train station and turn it into a shopping center.",
+     "ex_zh": "市政府计划修复旧火车站，并把它改造成购物中心。",
+     "ex_ja": "市は古い駅舎を改修してショッピングセンターにする計画だ。",
+     "parts": [
+      [
+       "re-",
+       "再",
+       "再び"
+      ],
+      [
+       "habil",
+       "能干的、容易拿住的（habilis）",
+       "有能な・扱いやすい（habilis）"
+      ],
+      [
+       "-it",
+       "（名词部分）",
+       "（名詞部分）"
+      ],
+      [
+       "-ate",
+       "动词词尾",
+       "動詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "中世拉丁语 rehabilitare“恢复能力 / 地位”（re- + habilitare“使有能力”，habilis ← habere）。",
+      "ja": "中世ラテン語 rehabilitare「能力・地位を回復させる」（re-＋habilitare「能力を与える」、habilis ← habere）から。"
+     },
+     "forms": [
+      [
+       "rehabilitation (n.)",
+       "修复；康复",
+       "修復；リハビリ"
+      ],
+      [
+       "renovate (v.)",
+       "翻新（近义词）",
+       "改装する（類義語）"
+      ]
+     ],
+     "tip": {
+      "zh": "TOEIC 里 rehabilitate 多指“修复建筑物”，可与 renovate、restore 互换。",
+      "ja": "TOEIC では建物の「改修」の意味が多く、renovate・restore と言い換えられる。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "budget",
+   "title_zh": "主题：预算编制与成本削减",
+   "title_ja": "テーマ：予算編成とコスト削減",
+   "words": [
+    {
+     "w": "budgetary",
+     "pos": "adj.",
+     "ipa": "/ˈbʌdʒɪˌtɛri/",
+     "zh": "预算的；预算上的",
+     "ja": "予算の；予算上の",
+     "ex": "Due to budgetary constraints, the office renovation has been postponed until next year.",
+     "ex_zh": "由于预算限制，办公室翻新被推迟到明年。",
+     "ex_ja": "予算上の制約により、オフィスの改装は来年に延期された。",
+     "parts": [
+      [
+       "budget",
+       "预算（古法语 bougette“小皮包”）",
+       "予算（古フランス語 bougette「小さな革袋」）"
+      ],
+      [
+       "-ary",
+       "……的",
+       "〜の"
+      ]
+     ],
+     "note": {
+      "zh": "budget + -ary；budget 来自古法语 bougette“小皮包”（财政大臣装预算文件的包）。",
+      "ja": "budget＋-ary。budget は古フランス語 bougette「小さな革袋」（大蔵大臣が予算書を入れた袋）から。"
+     },
+     "forms": [
+      [
+       "budgetary constraints",
+       "预算限制",
+       "予算上の制約"
+      ],
+      [
+       "over budget / under budget",
+       "超出预算 / 低于预算",
+       "予算超過／予算内"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5 常考 budget（名）/ budgetary（形）的词性选择。",
+      "ja": "Part 5 では budget（名）／budgetary（形）の品詞選択がよく出る。"
+     }
+    },
+    {
+     "w": "expenditure",
+     "pos": "n.",
+     "ipa": "/ɪkˈspɛndɪtʃɚ/",
+     "zh": "支出；开支；花费",
+     "ja": "支出；経費",
+     "ex": "The finance team was asked to cut capital expenditure by ten percent this year.",
+     "ex_zh": "财务团队被要求今年把资本支出削减 10%。",
+     "ex_ja": "財務チームは今年の設備投資を 10 パーセント削減するよう求められた。",
+     "parts": [
+      [
+       "ex-",
+       "出",
+       "外へ"
+      ],
+      [
+       "pend",
+       "称量、支付（pendere）",
+       "量る・支払う（pendere）"
+      ],
+      [
+       "-iture",
+       "名词词尾",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "中世拉丁语 expenditura，来自 expendere“称出 → 支付”（ex-“出”+ pendere“称量”）。",
+      "ja": "中世ラテン語 expenditura（expendere「量り出す → 支払う」、ex-「外へ」＋pendere「量る」）から。"
+     },
+     "forms": [
+      [
+       "capital expenditure",
+       "资本支出",
+       "設備投資"
+      ],
+      [
+       "expend (v.)",
+       "花费（正式）",
+       "費やす（正式）"
+      ]
+     ],
+     "tip": {
+      "zh": "expenditure ≈ spending / expenses，Part 7 常互相改写。",
+      "ja": "expenditure ≈ spending / expenses。Part 7 で言い換えに使われる。"
+     }
+    },
+    {
+     "w": "cutback",
+     "pos": "n.",
+     "ipa": "/ˈkʌtˌbæk/",
+     "zh": "削减；缩减",
+     "ja": "削減；縮小",
+     "ex": "Staff cutbacks have left the customer service team struggling to answer calls.",
+     "ex_zh": "裁员缩编让客服团队应接不暇。",
+     "ex_ja": "人員削減により、顧客サービスチームは電話対応に苦労している。",
+     "parts": [
+      [
+       "cut",
+       "切",
+       "切る"
+      ],
+      [
+       "back",
+       "向回",
+       "後ろへ"
+      ]
+     ],
+     "note": {
+      "zh": "本族词合成：动词短语 cut back（削减）变成名词。",
+      "ja": "本来の英語の複合語：句動詞 cut back（削減する）が名詞になったもの。"
+     },
+     "forms": [
+      [
+       "cut back on ~",
+       "削减……",
+       "〜を削減する"
+      ],
+      [
+       "budget cutbacks",
+       "预算削减",
+       "予算削減"
+      ]
+     ],
+     "tip": {
+      "zh": "动词短语写成两个词 cut back on，名词写成一个词 cutback。",
+      "ja": "句動詞は二語 cut back on、名詞は一語 cutback。"
+     }
+    },
+    {
+     "w": "curtail",
+     "pos": "v.",
+     "ipa": "/kɝˈteɪl/",
+     "zh": "削减；缩短；限制",
+     "ja": "切り詰める；短縮する；制限する",
+     "ex": "The airline curtailed its winter schedule because of rising fuel costs.",
+     "ex_zh": "由于燃油成本上涨，航空公司缩减了冬季航班。",
+     "ex_ja": "燃料費の高騰により、その航空会社は冬季ダイヤを縮小した。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：来自旧词 curtal“剪短尾巴的马”（← 法语 court“短”← 拉丁语 curtus），拼写受 tail“尾巴”影响，但意思上与 tail 无关。",
+      "ja": "信頼できる語根分解はない：古語 curtal「尾を短く切った馬」（← フランス語 court「短い」← ラテン語 curtus）から。つづりが tail「尾」の影響を受けたが、意味の上では tail とは無関係。"
+     },
+     "forms": [
+      [
+       "curtail spending",
+       "削减开支",
+       "支出を切り詰める"
+      ],
+      [
+       "reduce / cut (v.)",
+       "减少（近义词）",
+       "減らす（類義語）"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5 / 7 中 curtail ≈ reduce / cut back。",
+      "ja": "Part 5・7 では curtail ≈ reduce / cut back。"
+     }
+    },
+    {
+     "w": "austerity",
+     "pos": "n.",
+     "ipa": "/ɔˈstɛrəti/",
+     "zh": "紧缩；节俭；朴素",
+     "ja": "緊縮；耐乏；簡素",
+     "ex": "The government introduced austerity measures to reduce the national debt.",
+     "ex_zh": "政府推出紧缩措施以减少国债。",
+     "ex_ja": "政府は国の借金を減らすために緊縮策を導入した。",
+     "parts": [
+      [
+       "auster",
+       "严厉、苦涩（希腊语 austeros）",
+       "厳しい・渋い（ギリシャ語 austeros）"
+      ],
+      [
+       "-ity",
+       "名词词尾（性质）",
+       "名詞語尾（性質）"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 austerite ← 拉丁语 austeritas（austerus“严厉的”← 希腊语 austeros“苦涩、严厉的”）。",
+      "ja": "古フランス語 austerite ← ラテン語 austeritas（austerus「厳しい」← ギリシャ語 austeros「渋い・厳しい」）から。"
+     },
+     "forms": [
+      [
+       "austerity measures",
+       "紧缩措施",
+       "緊縮策"
+      ],
+      [
+       "austere (adj.)",
+       "朴素的；严厉的",
+       "簡素な；厳しい"
+      ]
+     ]
+    },
+    {
+     "w": "streamline",
+     "pos": "v.",
+     "ipa": "/ˈstrimˌlaɪn/",
+     "zh": "精简；使高效；使成流线型",
+     "ja": "合理化する；効率化する；流線型にする",
+     "ex": "We streamlined the approval process so that requests are handled within two days.",
+     "ex_zh": "我们精简了审批流程，申请在两天内就能处理完。",
+     "ex_ja": "承認手続きを効率化し、申請が 2 日以内に処理されるようにした。",
+     "parts": [
+      [
+       "stream",
+       "水流",
+       "流れ"
+      ],
+      [
+       "line",
+       "线",
+       "線"
+      ]
+     ],
+     "note": {
+      "zh": "本族词合成：stream（水流）+ line（线）→ 流线型 → 引申为“去掉多余、使高效”。",
+      "ja": "本来の英語の複合語：stream（流れ）＋line（線）→ 流線型 → 「無駄を省いて効率化する」。"
+     },
+     "forms": [
+      [
+       "streamlined (adj.)",
+       "精简的；高效的",
+       "合理化された"
+      ],
+      [
+       "streamline operations",
+       "精简运营",
+       "業務を効率化する"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7 里 streamline ≈ simplify / make more efficient。",
+      "ja": "Part 7 では streamline ≈ simplify / make more efficient。"
+     }
+    },
+    {
+     "w": "economize",
+     "pos": "v.",
+     "ipa": "/ɪˈkɑnəˌmaɪz/",
+     "zh": "节约；节省",
+     "ja": "節約する；倹約する",
+     "ex": "To economize on energy, the lights in the meeting rooms now switch off automatically.",
+     "ex_zh": "为了节约能源，会议室的灯现在会自动关闭。",
+     "ex_ja": "省エネのため、会議室の照明は現在自動で消えるようになっている。",
+     "parts": [
+      [
+       "eco",
+       "家（希腊语 oikos）",
+       "家（ギリシャ語 oikos）"
+      ],
+      [
+       "nom",
+       "管理（希腊语 nomos）",
+       "管理（ギリシャ語 nomos）"
+      ],
+      [
+       "-y",
+       "名词词尾",
+       "名詞語尾"
+      ],
+      [
+       "-ize",
+       "使……化",
+       "〜化する"
+      ]
+     ],
+     "note": {
+      "zh": "economy + -ize；economy 来自希腊语 oikonomia“管理家务”（oikos“家”+ nemein“管理”）。",
+      "ja": "economy＋-ize。economy はギリシャ語 oikonomia「家の切り盛り」（oikos「家」＋nemein「管理する」）から。"
+     },
+     "forms": [
+      [
+       "economize on ~",
+       "在……上节省",
+       "〜を節約する"
+      ],
+      [
+       "economical (adj.)",
+       "节约的；经济实惠的",
+       "経済的な；節約になる"
+      ]
+     ],
+     "tip": {
+      "zh": "⚠️ economical（省钱的）≠ economic（经济的、经济学的）。",
+      "ja": "⚠️ economical（節約になる）≠ economic（経済の）。"
+     }
+    },
+    {
+     "w": "outlay",
+     "pos": "n.",
+     "ipa": "/ˈaʊtˌleɪ/",
+     "zh": "（一笔）支出；投入的费用",
+     "ja": "支出；（初期）費用",
+     "ex": "The initial outlay for the new equipment will be recovered within two years.",
+     "ex_zh": "新设备的初期投入将在两年内收回。",
+     "ex_ja": "新しい設備の初期費用は 2 年以内に回収できる見込みだ。",
+     "parts": [
+      [
+       "out",
+       "出",
+       "外へ"
+      ],
+      [
+       "lay",
+       "放、摆出",
+       "置く"
+      ]
+     ],
+     "note": {
+      "zh": "本族词合成：out（出）+ lay（放）→ 把钱摆出去 → 支出。",
+      "ja": "本来の英語の複合語：out（外へ）＋lay（置く）→ お金を出す → 支出。"
+     },
+     "forms": [
+      [
+       "initial outlay",
+       "初期投入",
+       "初期費用"
+      ],
+      [
+       "capital outlay",
+       "资本支出",
+       "設備投資額"
+      ]
+     ]
+    },
+    {
+     "w": "overrun",
+     "pos": "n./v.",
+     "ipa": "/ˈoʊvɚˌrʌn/",
+     "zh": "（费用、时间）超支；超出",
+     "ja": "（費用・時間の）超過；超過する",
+     "ex": "The project manager explained the reasons for the cost overrun at the board meeting.",
+     "ex_zh": "项目经理在董事会上解释了成本超支的原因。",
+     "ex_ja": "プロジェクトマネジャーは取締役会でコスト超過の理由を説明した。",
+     "parts": [
+      [
+       "over-",
+       "超过",
+       "超えて"
+      ],
+      [
+       "run",
+       "跑",
+       "走る"
+      ]
+     ],
+     "note": {
+      "zh": "本族词合成：over（超过）+ run（跑）→ 跑过了头。",
+      "ja": "本来の英語の複合語：over（超えて）＋run（走る）→ 走りすぎる → 超過。"
+     },
+     "forms": [
+      [
+       "cost overrun",
+       "成本超支",
+       "コスト超過"
+      ],
+      [
+       "The meeting overran.",
+       "会议超时了",
+       "会議が時間をオーバーした"
+      ]
+     ],
+     "tip": {
+      "zh": "动词重音在后：overrun /ˌoʊvɚˈrʌn/；名词重音在前。",
+      "ja": "動詞は後ろに強勢 /ˌoʊvɚˈrʌn/、名詞は前に強勢。"
+     }
+    },
+    {
+     "w": "reallocate",
+     "pos": "v.",
+     "ipa": "/riˈæləˌkeɪt/",
+     "zh": "重新分配；重新调配",
+     "ja": "再配分する；配置し直す",
+     "ex": "Funds from the cancelled event will be reallocated to the marketing department.",
+     "ex_zh": "取消活动的资金将重新分配给市场部。",
+     "ex_ja": "中止されたイベントの資金はマーケティング部に再配分される。",
+     "parts": [
+      [
+       "re-",
+       "再",
+       "再び"
+      ],
+      [
+       "al-",
+       "向（ad-）",
+       "〜へ（ad-）"
+      ],
+      [
+       "loc",
+       "地方、位置（locus）",
+       "場所（locus）"
+      ],
+      [
+       "-ate",
+       "动词词尾",
+       "動詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "re- + allocate；allocate 来自中世拉丁语 allocare（ad-“向”+ locare“放置”，locus“地方”）。",
+      "ja": "re-＋allocate。allocate は中世ラテン語 allocare（ad-「〜へ」＋locare「置く」、locus「場所」）から。"
+     },
+     "forms": [
+      [
+       "reallocation (n.)",
+       "重新分配",
+       "再配分"
+      ],
+      [
+       "reallocate resources",
+       "重新调配资源",
+       "資源を配分し直す"
+      ]
+     ]
+    },
+    {
+     "w": "shortfall",
+     "pos": "n.",
+     "ipa": "/ˈʃɔrtˌfɔl/",
+     "zh": "缺口；不足额",
+     "ja": "不足；不足額",
+     "ex": "The company borrowed money to cover a temporary shortfall in cash.",
+     "ex_zh": "公司借款来弥补暂时的现金缺口。",
+     "ex_ja": "会社は一時的な資金不足を補うためにお金を借りた。",
+     "parts": [
+      [
+       "short",
+       "短、不足",
+       "短い・足りない"
+      ],
+      [
+       "fall",
+       "落下",
+       "落ちる"
+      ]
+     ],
+     "note": {
+      "zh": "本族词合成：来自短语 fall short（不足、达不到）。",
+      "ja": "本来の英語の複合語：句 fall short（不足する・届かない）から。"
+     },
+     "forms": [
+      [
+       "a shortfall in ~",
+       "……的缺口",
+       "〜の不足"
+      ],
+      [
+       "fall short of ~",
+       "达不到……",
+       "〜に届かない"
+      ]
+     ],
+     "tip": {
+      "zh": "fall short of expectations（未达预期）是 Part 7 常见表达。",
+      "ja": "fall short of expectations（期待に届かない）は Part 7 の頻出表現。"
+     }
+    },
+    {
+     "w": "discretionary",
+     "pos": "adj.",
+     "ipa": "/dɪˈskrɛʃəˌnɛri/",
+     "zh": "可自由支配的；酌情决定的",
+     "ja": "裁量による；任意の",
+     "ex": "Each manager has a small discretionary budget for team lunches and supplies.",
+     "ex_zh": "每位经理都有一小笔可自由支配的预算，用于团队午餐和用品。",
+     "ex_ja": "各マネジャーにはチームの昼食や備品に使える少額の裁量予算がある。",
+     "parts": [
+      [
+       "dis-",
+       "分开",
+       "分ける"
+      ],
+      [
+       "cret",
+       "区分（cernere）",
+       "見分ける（cernere）"
+      ],
+      [
+       "-ion",
+       "名词词尾",
+       "名詞語尾"
+      ],
+      [
+       "-ary",
+       "……的",
+       "〜の"
+      ]
+     ],
+     "note": {
+      "zh": "discretion + -ary；discretion 来自拉丁语 discretio“区分、判断”（discernere：dis-“分开”+ cernere“筛分”）。",
+      "ja": "discretion＋-ary。discretion はラテン語 discretio「区別・判断」（discernere：dis-「分ける」＋cernere「ふるい分ける」）から。"
+     },
+     "forms": [
+      [
+       "discretionary spending",
+       "可自由支配的开支",
+       "裁量的支出"
+      ],
+      [
+       "at one's discretion",
+       "由……酌情决定",
+       "〜の裁量で"
+      ]
+     ],
+     "tip": {
+      "zh": "at the manager's discretion（由经理决定）在 Part 7 规定类文章常出现。",
+      "ja": "at the manager's discretion（マネジャーの裁量で）は Part 7 の規定文に出る。"
+     }
+    },
+    {
+     "w": "itemize",
+     "pos": "v.",
+     "ipa": "/ˈaɪtəˌmaɪz/",
+     "zh": "逐条列出；分项记录",
+     "ja": "項目別に記載する；明細を書く",
+     "ex": "Please itemize all travel expenses on the form and attach the original receipts.",
+     "ex_zh": "请在表格上逐项列出所有差旅费用，并附上原始收据。",
+     "ex_ja": "出張経費はすべて用紙に項目別に記入し、領収書の原本を添付してください。",
+     "parts": [
+      [
+       "item",
+       "条目（拉丁语 item“同样地”）",
+       "項目（ラテン語 item「同様に」）"
+      ],
+      [
+       "-ize",
+       "使……化",
+       "〜化する"
+      ]
+     ],
+     "note": {
+      "zh": "item + -ize；item 原是拉丁语副词“同样、又”，清单中逐条使用，后来指“一项”。",
+      "ja": "item＋-ize。item はラテン語の副詞「同様に・さらに」で、目録の各行頭に使われ「一項目」の意味になった。"
+     },
+     "forms": [
+      [
+       "itemized receipt",
+       "明细收据",
+       "明細つき領収書"
+      ],
+      [
+       "itemized bill",
+       "分项账单",
+       "明細書"
+      ]
+     ]
+    },
+    {
+     "w": "fiscal",
+     "pos": "adj.",
+     "ipa": "/ˈfɪskəl/",
+     "zh": "财政的；会计年度的",
+     "ja": "財政の；会計（年度）の",
+     "ex": "Sales in the third quarter of the fiscal year exceeded expectations.",
+     "ex_zh": "本财年第三季度的销售额超出预期。",
+     "ex_ja": "今年度第 3 四半期の売上は予想を上回った。",
+     "parts": [
+      [
+       "fisc",
+       "国库（拉丁语 fiscus“篮子、钱袋”）",
+       "国庫（ラテン語 fiscus「かご・財布」）"
+      ],
+      [
+       "-al",
+       "……的",
+       "〜の"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 fiscalis（fiscus“篮子、钱袋 → 国库”）。",
+      "ja": "ラテン語 fiscalis（fiscus「かご・財布 → 国庫」）から。"
+     },
+     "forms": [
+      [
+       "fiscal year",
+       "财年；会计年度",
+       "会計年度"
+      ],
+      [
+       "fiscal policy",
+       "财政政策",
+       "財政政策"
+      ]
+     ],
+     "tip": {
+      "zh": "fiscal year ≈ financial year，Part 7 报表中常见。",
+      "ja": "fiscal year ≈ financial year。Part 7 の財務報告で頻出。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "files",
+   "title_zh": "主题：文件归档与办公文具",
+   "title_ja": "テーマ：書類整理と事務用品",
+   "words": [
+    {
+     "w": "paperwork",
+     "pos": "n.",
+     "ipa": "/ˈpeɪpɚˌwɝk/",
+     "zh": "文书工作；书面材料",
+     "ja": "書類仕事；事務書類",
+     "ex": "New employees should complete their paperwork before their first day.",
+     "ex_zh": "新员工应在第一天上班前填好各种文件。",
+     "ex_ja": "新入社員は初出社日までに書類をすべて記入しておくこと。",
+     "parts": [
+      [
+       "paper",
+       "纸",
+       "紙"
+      ],
+      [
+       "work",
+       "工作",
+       "仕事"
+      ]
+     ],
+     "note": {
+      "zh": "本族词合成：paper（纸）+ work（工作）。paper 来自拉丁语 papyrus“莎草纸”。",
+      "ja": "本来の英語の複合語：paper（紙）＋work（仕事）。paper はラテン語 papyrus「パピルス」から。"
+     },
+     "forms": [
+      [
+       "fill out paperwork",
+       "填写文件",
+       "書類に記入する"
+      ],
+      [
+       "a lot of paperwork",
+       "大量文书工作",
+       "大量の事務書類"
+      ]
+     ],
+     "tip": {
+      "zh": "paperwork 不可数：a lot of paperwork，不说 paperworks。",
+      "ja": "paperwork は不可算：a lot of paperwork（paperworks とは言わない）。"
+     }
+    },
+    {
+     "w": "shred",
+     "pos": "v./n.",
+     "ipa": "/ʃrɛd/",
+     "zh": "用碎纸机切碎；撕碎；碎片",
+     "ja": "シュレッダーにかける；細かく裂く；断片",
+     "ex": "Please shred any documents that contain customer information before throwing them away.",
+     "ex_zh": "丢弃之前，请把含有客户信息的文件用碎纸机粉碎。",
+     "ex_ja": "顧客情報を含む書類は、捨てる前にシュレッダーにかけてください。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：本族词，来自古英语 screade“碎片、片段”。",
+      "ja": "信頼できる語根分解はない：本来の英語で、古英語 screade「切れ端」から。"
+     },
+     "forms": [
+      [
+       "shredder (n.)",
+       "碎纸机",
+       "シュレッダー"
+      ],
+      [
+       "shred - shredded - shredded",
+       "动词变化",
+       "活用"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1：A woman is feeding paper into a shredder. 也会出现。",
+      "ja": "Part 1：A woman is feeding paper into a shredder.（シュレッダーに紙を入れている）も出る。"
+     }
+    },
+    {
+     "w": "folder",
+     "pos": "n.",
+     "ipa": "/ˈfoʊldɚ/",
+     "zh": "文件夹；（电脑）文件夹",
+     "ja": "フォルダー；書類挟み",
+     "ex": "All the contracts are kept in a blue folder on my desk.",
+     "ex_zh": "所有合同都放在我桌上的蓝色文件夹里。",
+     "ex_ja": "契約書はすべて私の机の上の青いフォルダーに入っている。",
+     "parts": [
+      [
+       "fold",
+       "折",
+       "折る"
+      ],
+      [
+       "-er",
+       "表示东西",
+       "〜するもの"
+      ]
+     ],
+     "note": {
+      "zh": "fold（折叠）+ -er，本族词派生。",
+      "ja": "fold（折る）＋-er。本来の英語の派生語。"
+     },
+     "forms": [
+      [
+       "shared folder",
+       "共享文件夹",
+       "共有フォルダー"
+      ],
+      [
+       "file folder",
+       "文件夹",
+       "ファイルフォルダー"
+      ]
+     ]
+    },
+    {
+     "w": "staple",
+     "pos": "n./v.",
+     "ipa": "/ˈsteɪpəl/",
+     "zh": "订书钉；用订书机订；主要产品",
+     "ja": "ホチキスの針；ホチキスで留める；主要産物",
+     "ex": "Please staple the pages together before you hand in the report.",
+     "ex_zh": "交报告前请把各页订在一起。",
+     "ex_ja": "報告書を提出する前に、ページをホチキスで留めてください。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：本族词，古英语 stapol“柱、桩”；“主要商品”一义来自古法语 estaple“集市”，同出一个日耳曼词。",
+      "ja": "信頼できる語根分解はない：本来の英語で、古英語 stapol「柱・杭」から。「主要産物」の意味は古フランス語 estaple「市場」由来だが、同じゲルマン語にさかのぼる。"
+     },
+     "forms": [
+      [
+       "stapler (n.)",
+       "订书机",
+       "ホチキス"
+      ],
+      [
+       "staple food",
+       "主食",
+       "主食"
+      ]
+     ],
+     "tip": {
+      "zh": "⚠️ “主食 / 主要产品”也是 staple：Rice is a staple in many Asian countries.",
+      "ja": "⚠️ staple は「主食・主要産物」の意味もある：Rice is a staple in many Asian countries."
+     }
+    },
+    {
+     "w": "photocopy",
+     "pos": "n./v.",
+     "ipa": "/ˈfoʊtoʊˌkɑpi/",
+     "zh": "复印件；复印",
+     "ja": "コピー；コピーする",
+     "ex": "Could you make ten photocopies of this handout for the afternoon meeting?",
+     "ex_zh": "能帮我为下午的会议把这份讲义复印十份吗？",
+     "ex_ja": "午後の会議用に、この配布資料を 10 部コピーしてもらえますか。",
+     "parts": [
+      [
+       "photo",
+       "光（希腊语 phos）",
+       "光（ギリシャ語 phos）"
+      ],
+      [
+       "copy",
+       "复制（拉丁语 copia“丰富”）",
+       "写し（ラテン語 copia「豊富」）"
+      ]
+     ],
+     "note": {
+      "zh": "photo-（希腊语 phos“光”）+ copy（中世拉丁语 copia“抄本”← 拉丁语“丰富”）。",
+      "ja": "photo-（ギリシャ語 phos「光」）＋copy（中世ラテン語 copia「写し」← ラテン語「豊富」）。"
+     },
+     "forms": [
+      [
+       "make a photocopy",
+       "复印一份",
+       "コピーを取る"
+      ],
+      [
+       "photocopier (n.)",
+       "复印机",
+       "コピー機"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1 常见：A man is making copies. / standing at a photocopier。",
+      "ja": "Part 1 頻出：A man is making copies. / standing at a photocopier。"
+     }
+    },
+    {
+     "w": "attachment",
+     "pos": "n.",
+     "ipa": "/əˈtætʃmənt/",
+     "zh": "（邮件）附件；附属物；依恋",
+     "ja": "（メールの）添付ファイル；付属品；愛着",
+     "ex": "I've sent the revised schedule as an attachment, so please take a look.",
+     "ex_zh": "我已经把修改后的日程作为附件发出了，请看一下。",
+     "ex_ja": "修正したスケジュールを添付ファイルで送りましたので、ご確認ください。",
+     "parts": [
+      [
+       "attach",
+       "附上、系上（古法语 atachier）",
+       "取り付ける（古フランス語 atachier）"
+      ],
+      [
+       "-ment",
+       "名词词尾",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "attach + -ment；attach 来自古法语 atachier“系上、钉住”，更早的来源不确定。",
+      "ja": "attach＋-ment。attach は古フランス語 atachier「留める」から（それ以前の語源は不確か）。"
+     },
+     "forms": [
+      [
+       "attached (adj.)",
+       "附上的",
+       "添付の"
+      ],
+      [
+       "Please find attached ~",
+       "随信附上……",
+       "〜を添付いたします"
+      ]
+     ],
+     "tip": {
+      "zh": "邮件惯用句 Please find attached the invoice. 在 Part 6 / 7 极常见。",
+      "ja": "メール定型文 Please find attached the invoice. は Part 6・7 で頻出。"
+     }
+    },
+    {
+     "w": "envelope",
+     "pos": "n.",
+     "ipa": "/ˈɛnvəˌloʊp/",
+     "zh": "信封",
+     "ja": "封筒",
+     "ex": "Please write the return address in the upper left corner of the envelope.",
+     "ex_zh": "请把寄件人地址写在信封左上角。",
+     "ex_ja": "差出人の住所は封筒の左上に書いてください。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：来自法语 enveloppe（envelopper“包起来”），更早来源不确定。",
+      "ja": "信頼できる語根分解はない：フランス語 enveloppe（envelopper「包む」）から。それ以前の語源は不確か。"
+     },
+     "forms": [
+      [
+       "self-addressed envelope",
+       "写好回邮地址的信封",
+       "返信用封筒"
+      ],
+      [
+       "envelop (v.) /ɪnˈvɛləp/",
+       "包住；笼罩",
+       "包む"
+      ]
+     ],
+     "tip": {
+      "zh": "⚠️ envelope（名，信封）≠ envelop（动，包住），拼写和重音都不同。",
+      "ja": "⚠️ envelope（名詞・封筒）≠ envelop（動詞・包む）。つづりも強勢も違う。"
+     }
+    },
+    {
+     "w": "clipboard",
+     "pos": "n.",
+     "ipa": "/ˈklɪpˌbɔrd/",
+     "zh": "写字夹板；（电脑）剪贴板",
+     "ja": "クリップボード；（パソコンの）クリップボード",
+     "ex": "The inspector walked around the factory with a clipboard, checking each machine.",
+     "ex_zh": "检查员拿着写字夹板在工厂里走动，逐台检查机器。",
+     "ex_ja": "検査官はクリップボードを持って工場内を回り、機械を一台ずつ確認した。",
+     "parts": [
+      [
+       "clip",
+       "夹子",
+       "留め具"
+      ],
+      [
+       "board",
+       "板",
+       "板"
+      ]
+     ],
+     "note": {
+      "zh": "本族词合成：clip（夹子）+ board（板）。",
+      "ja": "本来の英語の複合語：clip（留め具）＋board（板）。"
+     },
+     "forms": [
+      [
+       "holding a clipboard",
+       "拿着夹板",
+       "クリップボードを持っている"
+      ],
+      [
+       "copy to the clipboard",
+       "复制到剪贴板",
+       "クリップボードにコピーする"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1：A woman is writing on a clipboard. 是常见描述。",
+      "ja": "Part 1：A woman is writing on a clipboard. はよく出る描写。"
+     }
+    },
+    {
+     "w": "alphabetical",
+     "pos": "adj.",
+     "ipa": "/ˌælfəˈbɛtɪkəl/",
+     "zh": "按字母顺序的",
+     "ja": "アルファベット順の",
+     "ex": "The files are arranged in alphabetical order by the client's last name.",
+     "ex_zh": "文件按客户的姓氏字母顺序排列。",
+     "ex_ja": "ファイルは顧客の姓のアルファベット順に並べられている。",
+     "parts": [
+      [
+       "alpha",
+       "希腊字母 α",
+       "ギリシャ文字 α"
+      ],
+      [
+       "bet",
+       "希腊字母 β（beta）",
+       "ギリシャ文字 β（beta）"
+      ],
+      [
+       "-ical",
+       "……的",
+       "〜の"
+      ]
+     ],
+     "note": {
+      "zh": "alphabet（希腊语头两个字母 alpha + beta）+ -ical。",
+      "ja": "alphabet（ギリシャ語の最初の二文字 alpha＋beta）＋-ical。"
+     },
+     "forms": [
+      [
+       "in alphabetical order",
+       "按字母顺序",
+       "アルファベット順に"
+      ],
+      [
+       "alphabetically (adv.)",
+       "按字母顺序地",
+       "アルファベット順に"
+      ]
+     ]
+    },
+    {
+     "w": "misplace",
+     "pos": "v.",
+     "ipa": "/mɪsˈpleɪs/",
+     "zh": "把……放错地方；一时找不到",
+     "ja": "置き忘れる；置き場所を間違える",
+     "ex": "I seem to have misplaced my security badge, so I'll need a temporary one today.",
+     "ex_zh": "我好像把门禁卡放错地方了，所以今天需要一张临时卡。",
+     "ex_ja": "セキュリティーカードをどこかに置き忘れたようなので、今日は仮のカードが必要です。",
+     "parts": [
+      [
+       "mis-",
+       "错误地",
+       "誤って"
+      ],
+      [
+       "place",
+       "放置",
+       "置く"
+      ]
+     ],
+     "note": {
+      "zh": "mis-（错）+ place（放置）；place 经古法语来自拉丁语 platea“宽街”。",
+      "ja": "mis-（誤って）＋place（置く）。place は古フランス語経由でラテン語 platea「広い通り」から。"
+     },
+     "forms": [
+      [
+       "misplaced (adj.)",
+       "放错的；不恰当的",
+       "置き忘れた；見当違いの"
+      ],
+      [
+       "lose (v.)",
+       "丢失（近义词）",
+       "なくす（類義語）"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 2/3 常见：I misplaced my keys. ≈ I can't find my keys.",
+      "ja": "Part 2・3 頻出：I misplaced my keys. ≈ I can't find my keys."
+     }
+    },
+    {
+     "w": "retrieve",
+     "pos": "v.",
+     "ipa": "/rɪˈtriv/",
+     "zh": "取回；检索（数据）",
+     "ja": "取り戻す；（データを）取り出す",
+     "ex": "Old invoices can be retrieved from the archive within a few minutes.",
+     "ex_zh": "旧发票几分钟内就能从档案库调出来。",
+     "ex_ja": "古い請求書は数分でアーカイブから取り出せる。",
+     "parts": [
+      [
+       "re-",
+       "再",
+       "再び"
+      ],
+      [
+       "triev",
+       "找到（古法语 trover）",
+       "見つける（古フランス語 trover）"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 retrover“再找到”（re-“再”+ trover“找到”）。",
+      "ja": "古フランス語 retrover「再び見つける」（re-「再び」＋trover「見つける」）から。"
+     },
+     "forms": [
+      [
+       "retrieval (n.)",
+       "取回；检索",
+       "回収；検索"
+      ],
+      [
+       "retrieve data",
+       "检索数据",
+       "データを取り出す"
+      ]
+     ],
+     "tip": {
+      "zh": "retrieve ≈ get back / recover。Part 7 常见“从系统中取回文件”。",
+      "ja": "retrieve ≈ get back / recover。Part 7 では「システムからファイルを取り出す」の意味で出る。"
+     }
+    },
+    {
+     "w": "stationery",
+     "pos": "n.",
+     "ipa": "/ˈsteɪʃəˌnɛri/",
+     "zh": "文具；信纸",
+     "ja": "文房具；便箋",
+     "ex": "Pens, notepads and other stationery are kept in the supply cabinet.",
+     "ex_zh": "笔、便笺本和其他文具都放在用品柜里。",
+     "ex_ja": "ペンやメモ帳などの文房具は備品棚に保管されている。",
+     "parts": [
+      [
+       "station",
+       "固定的摊位（拉丁语 statio）",
+       "定位置の店（ラテン語 statio）"
+      ],
+      [
+       "-er",
+       "表示人",
+       "〜する人"
+      ],
+      [
+       "-y",
+       "名词词尾",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "stationer（中世有固定摊位的书商、文具商，拉丁语 statio“站立处”）+ -y。",
+      "ja": "stationer（中世の定位置に店を構えた本屋・文具商、ラテン語 statio「立つ場所」）＋-y。"
+     },
+     "forms": [
+      [
+       "office stationery",
+       "办公文具",
+       "事務用品"
+      ],
+      [
+       "stationery store",
+       "文具店",
+       "文房具店"
+      ]
+     ],
+     "tip": {
+      "zh": "⚠️ stationery（文具，-ery）≠ stationary（静止的，-ary）；stationery 不可数。",
+      "ja": "⚠️ stationery（文房具、-ery）≠ stationary（静止した、-ary）。stationery は不可算。"
+     }
+    },
+    {
+     "w": "spreadsheet",
+     "pos": "n.",
+     "ipa": "/ˈsprɛdˌʃit/",
+     "zh": "电子表格；试算表",
+     "ja": "スプレッドシート；表計算",
+     "ex": "Please enter this month's sales figures into the shared spreadsheet by Friday.",
+     "ex_zh": "请在周五前把本月销售数据录入共享电子表格。",
+     "ex_ja": "今月の売上数値を金曜日までに共有スプレッドシートに入力してください。",
+     "parts": [
+      [
+       "spread",
+       "展开",
+       "広げる"
+      ],
+      [
+       "sheet",
+       "一张（纸）",
+       "一枚（の紙）"
+      ]
+     ],
+     "note": {
+      "zh": "本族词合成：spread（展开）+ sheet（纸张）→ 摊开的大账表。",
+      "ja": "本来の英語の複合語：spread（広げる）＋sheet（紙）→ 広げた大きな帳簿。"
+     },
+     "forms": [
+      [
+       "spreadsheet software",
+       "电子表格软件",
+       "表計算ソフト"
+      ],
+      [
+       "update a spreadsheet",
+       "更新表格",
+       "スプレッドシートを更新する"
+      ]
+     ]
+    },
+    {
+     "w": "drawer",
+     "pos": "n.",
+     "ipa": "/drɔr/",
+     "zh": "抽屉",
+     "ja": "引き出し",
+     "ex": "The spare keys are in the top drawer of the filing cabinet.",
+     "ex_zh": "备用钥匙在文件柜最上面的抽屉里。",
+     "ex_ja": "合鍵は書類棚のいちばん上の引き出しに入っている。",
+     "parts": [
+      [
+       "draw",
+       "拉、拉出",
+       "引く"
+      ],
+      [
+       "-er",
+       "表示东西",
+       "〜するもの"
+      ]
+     ],
+     "note": {
+      "zh": "draw（拉出）+ -er → 可以拉出来的东西。",
+      "ja": "draw（引く）＋-er → 引き出すもの。"
+     },
+     "forms": [
+      [
+       "top drawer",
+       "最上层抽屉",
+       "いちばん上の引き出し"
+      ],
+      [
+       "chest of drawers",
+       "五斗柜",
+       "整理だんす"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1：A drawer has been left open.（抽屉开着）。注意美式读一个音节 /drɔr/。",
+      "ja": "Part 1：A drawer has been left open.（引き出しが開いたままだ）。米音は一音節 /drɔr/。"
+     }
+    }
+   ]
+  }
+ ]
+}
