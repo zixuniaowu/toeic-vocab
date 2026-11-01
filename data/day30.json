@@ -1,0 +1,2554 @@
+{
+ "day": 30,
+ "date": "2026-11-02",
+ "title_zh": "四大词根 + 包装与标签、停车场与大楼出入",
+ "title_ja": "4つの語根＋包装とラベル、駐車場と入館管理",
+ "intro_zh": "今天掌握 4 个高频词根（claim·clam 喊 / junct·join 连接 / pat·pass 忍受 / lat 带、搬运），再学包装与标签、停车场与大楼出入的核心词——强化 Part 5 词性题（compatible / compatibility、legislative / legislator、patient / patience）和固定搭配（in conjunction with、compatible with、be passionate about、tamper with、translate into），拼写陷阱（proclaim → proclamation、exclaim → exclamation），Part 1 场景（crates are stacked、a lid has been removed、a car is parked in a driveway），以及 Part 4 / Part 7 的通知用语（We appreciate your patience、parking validation、restricted area）。",
+ "intro_ja": "今日は語根 4 つ（claim・clam 叫ぶ／junct・join つなぐ／pat・pass 耐える／lat 運ぶ）と、包装とラベル、駐車場と入館管理の重要語を学びます。Part 5 の品詞問題（compatible / compatibility、legislative / legislator、patient / patience）と語法（in conjunction with、compatible with、be passionate about、tamper with、translate into）、つづりの落とし穴（proclaim → proclamation、exclaim → exclamation）、Part 1 の場面（crates are stacked、a lid has been removed、a car is parked in a driveway）、Part 4／Part 7 のお知らせ表現（We appreciate your patience、parking validation、restricted area）を強化します。",
+ "voice": "en-US-AriaNeural",
+ "roots": [
+  {
+   "root": "-claim- / -clam-",
+   "origin": "Latin clamare",
+   "zh": "喊；大声说",
+   "ja": "叫ぶ；声に出す",
+   "exp_zh": "拉丁语 clamare 意为“喊、大声宣布”。经法语变成 claim：claim（“喊出来说是我的”→ 主张、认领、索赔），re- → reclaim（喊回来 → 取回），pro- → proclaim（向前喊 → 宣布），ex- → exclaim（喊出来 → 惊呼），dis- → disclaimer（放弃主张 → 免责声明），un- → unclaimed（没人认领的）。名词形式回到拉丁拼写 clam：proclamation、exclamation、reclamation；clamor 直接来自拉丁语 clamor“喊声”。前几天学过的 claim、acclaimed 也属这一族。⚠️ declare（宣布）来自 clarus“清楚的”，clam（蛤蜊）也无关；claim → clamation 的 i 脱落是常见拼写陷阱。",
+   "exp_ja": "ラテン語 clamare は「叫ぶ・大声で告げる」。フランス語を経て claim に：claim（「自分のものだと叫ぶ」→ 主張・請求）、re- → reclaim（呼び戻す → 取り戻す）、pro- → proclaim（前へ叫ぶ → 宣言する）、ex- → exclaim（叫び出す）、dis- → disclaimer（主張を放棄 → 免責事項）、un- → unclaimed（引き取り手のない）。名詞形ではラテン語のつづり clam に戻る：proclamation、exclamation、reclamation。clamor はラテン語 clamor「叫び声」そのもの。既習の claim、acclaimed も同じ仲間。⚠️ declare（宣言する）は clarus「明るい・明白な」由来で無関係、clam（ハマグリ）も別語。claim → clamation で i が落ちるつづりに注意。",
+   "examples": [
+    "reclaim",
+    "disclaimer",
+    "proclaim",
+    "proclamation",
+    "exclaim",
+    "exclamation",
+    "clamor",
+    "unclaimed"
+   ]
+  },
+  {
+   "root": "-junct- / -join-",
+   "origin": "Latin jungere, junctus",
+   "zh": "连接；结合",
+   "ja": "つなぐ；結びつける",
+   "exp_zh": "拉丁语 jungere“连接、套上轭”，过去分词 junctus。经法语变成 join / joint：joint（连接处；联合的）→ jointly，ad- → adjoin / adjoining（连在旁边 → 邻接的），re- → rejoin（重新连上 → 重新加入），dis- → disjointed（拆开的 → 不连贯的）。保留拉丁拼写 junct 的有：junction（交叉口，已学）、con- → conjunction（连在一起 → 结合；连词）、juncture（连接点 → 关头）、ad- → adjunct（附加上的 → 辅助的；兼职的）。⚠️ junior 来自 juvenis“年轻的”，June 来自女神 Juno，都与 junct 无关。",
+   "exp_ja": "ラテン語 jungere「つなぐ・くびきをかける」、過去分詞 junctus。フランス語を経て join／joint に：joint（継ぎ目；共同の）→ jointly、ad- → adjoin／adjoining（隣につながる → 隣接した）、re- → rejoin（再びつながる → 復帰する）、dis- → disjointed（ばらばらの → まとまりのない）。ラテン語のつづり junct を残すのは junction（交差点、既習）、con- → conjunction（結合；接続詞）、juncture（接合点 → 局面）、ad- → adjunct（付け加えられた → 補助の；非常勤の）。⚠️ junior は juvenis「若い」、June は女神 Juno 由来で無関係。",
+   "examples": [
+    "joint",
+    "jointly",
+    "adjoining",
+    "conjunction",
+    "juncture",
+    "rejoin",
+    "adjunct",
+    "disjointed"
+   ]
+  },
+  {
+   "root": "-pat- / -pass-",
+   "origin": "Latin pati, passus",
+   "zh": "忍受；承受；感受",
+   "ja": "耐える；受ける；感じる",
+   "exp_zh": "拉丁语 pati“忍受、承受”，过去分词 passus。现在分词 patiens → patient（能忍受的 → 有耐心的；承受病痛的人 → 病人）/ patience / impatient；com- + pati“一起承受”→ compatible（兼容的）/ compatibility / incompatible；passio“受苦 → 强烈情感”→ passion / passionate；passivus“承受动作的”→ passive（被动的）。⚠️ pass（通过）、passenger、passport 来自 passus“脚步”（pandere“伸开”），与“忍受”无关；patent（专利）来自 patere“敞开”，patron 来自 pater“父亲”，也都不是同族。",
+   "exp_ja": "ラテン語 pati「耐える・受ける」、過去分詞 passus。現在分詞 patiens → patient（耐えられる → 我慢強い；病に耐える人 → 患者）／patience／impatient。com-＋pati「共に耐える」→ compatible（互換性のある）／compatibility／incompatible。passio「苦しみ → 激しい感情」→ passion／passionate。passivus「動作を受ける」→ passive（受け身の）。⚠️ pass（通る）・passenger・passport は passus「歩み」（pandere「広げる」）由来で「耐える」とは無関係。patent（特許）は patere「開いている」、patron は pater「父」由来で、これらも別語源。",
+   "examples": [
+    "patient",
+    "patience",
+    "impatient",
+    "compatible",
+    "incompatible",
+    "compatibility",
+    "passionate",
+    "passive"
+   ]
+  },
+  {
+   "root": "-lat-",
+   "origin": "Latin latus (past participle of ferre)",
+   "zh": "带；搬运",
+   "ja": "運ぶ；持っていく",
+   "exp_zh": "-lat- 来自拉丁语 latus，是 ferre“搬运、带”的过去分词（两种形态完全不同，叫“异干”）。re- + latus“带回来”→ relate（讲述；与……相关）/ relatively；trans- + latus“搬过去”→ translate（翻译；转化为）/ translation；lex“法律”+ lator“提出者”→ legislator / legislative / legislation（已学）；super- + latus“带到最上面”→ superlative（最高级；极好的）；cor- + relate → correlate（相互关联）。Day 3 学过的 -fer- 是同一个动词的现在时形式：transfer ↔ translate、refer ↔ relate。⚠️ late（迟的）、latitude（纬度，来自 latus“宽的”）、lateral（来自 latus“侧面”）拼写相同但并不同源。",
+   "exp_ja": "-lat- はラテン語 latus で、ferre「運ぶ」の過去分詞（形がまったく違う「補充法」）。re-＋latus「持ち帰る」→ relate（述べる；関係がある）／relatively、trans-＋latus「向こうへ運ぶ」→ translate（翻訳する；〜に変わる）／translation、lex「法」＋lator「提出者」→ legislator／legislative／legislation（既習）、super-＋latus「一番上に運ぶ」→ superlative（最上級；最高の）、cor-＋relate → correlate（相関する）。Day 3 の -fer- は同じ動詞の現在形：transfer ↔ translate、refer ↔ relate。⚠️ late（遅い）、latitude（緯度、latus「広い」）、lateral（latus「側面」）はつづりが同じでも別語源。",
+   "examples": [
+    "relate",
+    "relatively",
+    "translate",
+    "translation",
+    "legislative",
+    "legislator",
+    "correlate",
+    "superlative"
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "claim",
+   "title_zh": "词根 -claim- / -clam-：喊；大声说",
+   "title_ja": "語根 -claim- / -clam-：叫ぶ；声に出す",
+   "words": [
+    {
+     "w": "reclaim",
+     "pos": "v.",
+     "ipa": "/rɪˈkleɪm/",
+     "zh": "取回；领回；回收再利用",
+     "ja": "取り戻す；（荷物を）受け取る；再生利用する",
+     "ex": "The city plans to reclaim the abandoned factory site and turn it into a public park.",
+     "ex_zh": "市政府计划收回废弃的工厂用地，把它改造成公园。",
+     "ex_ja": "市は放置された工場跡地を再整備し、公園にする計画だ。",
+     "parts": [
+      [
+       "re-",
+       "回",
+       "元へ"
+      ],
+      [
+       "claim",
+       "喊；主张（clamare）",
+       "叫ぶ；主張する（clamare）"
+      ]
+     ],
+     "note": {
+      "zh": "经古法语 reclamer 来自拉丁语 reclamare“喊回来；抗议”，后引申为“要回、取回”。",
+      "ja": "古フランス語 reclamer を経てラテン語 reclamare「呼び戻す；抗議する」から。のちに「取り戻す」の意味に。"
+     },
+     "forms": [
+      [
+       "baggage reclaim",
+       "行李提取处",
+       "手荷物受取所"
+      ],
+      [
+       "reclamation (n.)",
+       "回收利用；开垦",
+       "再生利用；埋め立て"
+      ]
+     ],
+     "tip": {
+      "zh": "机场广播：Please proceed to baggage reclaim = baggage claim（行李提取处）。",
+      "ja": "空港：baggage reclaim＝baggage claim（手荷物受取所）。"
+     }
+    },
+    {
+     "w": "disclaimer",
+     "pos": "n.",
+     "ipa": "/dɪsˈkleɪmɚ/",
+     "zh": "免责声明；否认声明",
+     "ja": "免責事項；免責声明",
+     "ex": "The disclaimer at the bottom of the e-mail states that the message is confidential.",
+     "ex_zh": "邮件底部的免责声明写明该邮件内容属于机密。",
+     "ex_ja": "メール末尾の免責事項には、このメッセージは機密であると記されている。",
+     "parts": [
+      [
+       "dis-",
+       "否定；放弃",
+       "否定；放棄"
+      ],
+      [
+       "claim",
+       "喊；主张（clamare）",
+       "叫ぶ；主張する（clamare）"
+      ],
+      [
+       "-er",
+       "法律用语名词词尾",
+       "法律用語の名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "盎格鲁法语 desclaimer“放弃主张”（不定式当名词用），dis- + clamare“喊、主张”。",
+      "ja": "アングロ・フランス語 desclaimer「権利を放棄する」（不定詞の名詞化）。dis-＋clamare「叫ぶ・主張する」。"
+     },
+     "forms": [
+      [
+       "disclaim (v.)",
+       "否认；放弃（权利）",
+       "否認する；放棄する"
+      ],
+      [
+       "legal disclaimer",
+       "法律免责声明",
+       "法的免責事項"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7 网站、合同、邮件末尾常有 disclaimer，可能被问“文中暗示了什么”。",
+      "ja": "Part 7 のウェブサイト・契約書・メール末尾によく出る。"
+     }
+    },
+    {
+     "w": "proclaim",
+     "pos": "v.",
+     "ipa": "/proʊˈkleɪm/",
+     "zh": "宣布；公开声明；表明",
+     "ja": "宣言する；公表する",
+     "ex": "The mayor proclaimed October Local Business Month to support small shops.",
+     "ex_zh": "市长宣布十月为“本地商业月”，以支持小商店。",
+     "ex_ja": "市長は小規模店を支援するため、10 月を「地元ビジネス月間」と宣言した。",
+     "parts": [
+      [
+       "pro-",
+       "向前",
+       "前へ"
+      ],
+      [
+       "claim",
+       "喊；主张（clamare）",
+       "叫ぶ；主張する（clamare）"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 proclamare“向前喊 → 当众宣布”。",
+      "ja": "ラテン語 proclamare「前に向かって叫ぶ → 公に宣言する」。"
+     },
+     "forms": [
+      [
+       "proclamation (n.)",
+       "公告；宣言",
+       "宣言；布告"
+      ],
+      [
+       "proclaim A (to be) B",
+       "宣布 A 为 B",
+       "A を B と宣言する"
+      ]
+     ],
+     "tip": {
+      "zh": "proclaim ≈ announce / declare，语气更正式。",
+      "ja": "proclaim ≈ announce / declare（より改まった語）。"
+     }
+    },
+    {
+     "w": "proclamation",
+     "pos": "n.",
+     "ipa": "/ˌprɑkləˈmeɪʃən/",
+     "zh": "公告；宣言；声明",
+     "ja": "宣言；布告；声明",
+     "ex": "The governor signed a proclamation honoring the city's volunteer firefighters.",
+     "ex_zh": "州长签署了一份公告，表彰该市的志愿消防员。",
+     "ex_ja": "知事は市の消防ボランティアをたたえる宣言書に署名した。",
+     "parts": [
+      [
+       "pro-",
+       "向前",
+       "前へ"
+      ],
+      [
+       "clam",
+       "喊（clamare）",
+       "叫ぶ（clamare）"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 proclamatio，来自 proclamare“当众宣布”。",
+      "ja": "ラテン語 proclamatio（proclamare「公に宣言する」から）。"
+     },
+     "forms": [
+      [
+       "issue a proclamation",
+       "发布公告",
+       "布告を出す"
+      ],
+      [
+       "proclaim (v.)",
+       "宣布",
+       "宣言する"
+      ]
+     ],
+     "tip": {
+      "zh": "⚠️ 拼写：proclaim → proclamation，名词里 i 脱落（claim → clam）。",
+      "ja": "⚠️ つづり：proclaim → proclamation（名詞では i が落ちる）。"
+     }
+    },
+    {
+     "w": "exclaim",
+     "pos": "v.",
+     "ipa": "/ɪkˈskleɪm/",
+     "zh": "惊叫；呼喊；大声说",
+     "ja": "叫ぶ；声を上げる",
+     "ex": "\"This is exactly what we needed!\" the client exclaimed after seeing the new design.",
+     "ex_zh": "看到新设计后，客户惊呼：“这正是我们想要的！”",
+     "ex_ja": "新しいデザインを見たクライアントは「まさに求めていたものだ！」と声を上げた。",
+     "parts": [
+      [
+       "ex-",
+       "出",
+       "外へ"
+      ],
+      [
+       "claim",
+       "喊；主张（clamare）",
+       "叫ぶ；主張する（clamare）"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 exclamare“喊出来”。",
+      "ja": "ラテン語 exclamare「叫び出す」。"
+     },
+     "forms": [
+      [
+       "exclamation (n.)",
+       "感叹；惊呼",
+       "感嘆；叫び"
+      ],
+      [
+       "exclaim in surprise",
+       "惊讶地叫出声",
+       "驚いて声を上げる"
+      ]
+     ]
+    },
+    {
+     "w": "exclamation",
+     "pos": "n.",
+     "ipa": "/ˌɛkskləˈmeɪʃən/",
+     "zh": "感叹；惊呼；感叹词",
+     "ja": "感嘆；叫び；感嘆詞",
+     "ex": "Please avoid using too many exclamation points in formal business e-mails.",
+     "ex_zh": "正式的商务邮件里请避免使用过多感叹号。",
+     "ex_ja": "正式なビジネスメールでは感嘆符を使いすぎないようにしてください。",
+     "parts": [
+      [
+       "ex-",
+       "出",
+       "外へ"
+      ],
+      [
+       "clam",
+       "喊（clamare）",
+       "叫ぶ（clamare）"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 exclamatio，来自 exclamare“喊出来”。",
+      "ja": "ラテン語 exclamatio（exclamare「叫び出す」から）。"
+     },
+     "forms": [
+      [
+       "exclamation point",
+       "感叹号（美）",
+       "感嘆符（米）"
+      ],
+      [
+       "exclamation mark",
+       "感叹号（英）",
+       "感嘆符（英）"
+      ]
+     ],
+     "tip": {
+      "zh": "⚠️ 拼写同 proclamation：exclaim → exclamation，i 脱落。",
+      "ja": "⚠️ proclamation と同じく exclaim → exclamation で i が落ちる。"
+     }
+    },
+    {
+     "w": "clamor",
+     "pos": "n./v.",
+     "ipa": "/ˈklæmɚ/",
+     "zh": "喧闹；强烈要求；吵着要",
+     "ja": "騒ぎ；強い要求；要求して騒ぐ",
+     "ex": "Customers have been clamoring for a vegetarian option on the lunch menu.",
+     "ex_zh": "顾客一直强烈要求午餐菜单增加素食选项。",
+     "ex_ja": "顧客はランチメニューにベジタリアン向けの選択肢をと強く求めている。",
+     "parts": [
+      [
+       "clam",
+       "喊（clamare）",
+       "叫ぶ（clamare）"
+      ],
+      [
+       "-or",
+       "名词后缀",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "直接来自拉丁语 clamor“喊声”（clamare“喊”的名词）。",
+      "ja": "ラテン語 clamor「叫び声」（clamare「叫ぶ」の名詞）から。"
+     },
+     "forms": [
+      [
+       "clamor for ~",
+       "吵着要求……",
+       "〜を強く求める"
+      ],
+      [
+       "clamour (英式拼写)",
+       "英式拼写",
+       "英国式つづり"
+      ]
+     ],
+     "tip": {
+      "zh": "clamor for ≈ demand loudly；Part 7 报道中“公众强烈要求”常用。",
+      "ja": "clamor for ≈ demand loudly。記事で「強い要望」を表す。"
+     },
+     "hl": "clamoring"
+    },
+    {
+     "w": "unclaimed",
+     "pos": "adj.",
+     "ipa": "/ˌʌnˈkleɪmd/",
+     "zh": "无人认领的；未领取的",
+     "ja": "引き取り手のない；未請求の",
+     "ex": "Unclaimed items in the lost-and-found will be donated after 60 days.",
+     "ex_zh": "失物招领处无人认领的物品将在 60 天后捐出。",
+     "ex_ja": "遺失物取扱所で引き取り手のない品は 60 日後に寄付されます。",
+     "parts": [
+      [
+       "un-",
+       "不",
+       "〜でない"
+      ],
+      [
+       "claim",
+       "喊；主张（clamare）",
+       "叫ぶ；主張する（clamare）"
+      ],
+      [
+       "-ed",
+       "形容词词尾",
+       "形容詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "本族否定前缀 un- + claim（拉丁语 clamare“喊 → 声称归自己”）+ -ed。",
+      "ja": "英語本来の否定接頭辞 un-＋claim（ラテン語 clamare「叫ぶ → 自分のものだと主張する」）＋-ed。"
+     },
+     "forms": [
+      [
+       "claim (v.)",
+       "认领；声称；索赔",
+       "請求する；主張する"
+      ],
+      [
+       "unclaimed baggage / prize",
+       "无人认领的行李 / 奖品",
+       "持ち主不明の荷物／未受取の賞品"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "junct",
+   "title_zh": "词根 -junct- / -join-：连接",
+   "title_ja": "語根 -junct- / -join-：つなぐ",
+   "words": [
+    {
+     "w": "joint",
+     "pos": "adj./n.",
+     "ipa": "/dʒɔɪnt/",
+     "zh": "联合的；共同的；关节；接头",
+     "ja": "共同の；合同の；関節；継ぎ目",
+     "ex": "The two companies announced a joint venture to develop electric buses.",
+     "ex_zh": "两家公司宣布成立合资企业，共同开发电动巴士。",
+     "ex_ja": "両社は電気バスを開発するための合弁事業を発表した。",
+     "parts": [
+      [
+       "join",
+       "连接（jungere）",
+       "つなぐ（jungere）"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 joint“连接的”，来自拉丁语 junctus（jungere“连接”的过去分词）。",
+      "ja": "古フランス語 joint「つながれた」、ラテン語 junctus（jungere「つなぐ」の過去分詞）から。"
+     },
+     "forms": [
+      [
+       "joint venture",
+       "合资企业",
+       "合弁事業"
+      ],
+      [
+       "joint account",
+       "联名账户",
+       "共同名義口座"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5：joint（形）修饰名词，jointly（副）修饰动词。",
+      "ja": "Part 5：joint（形）は名詞を、jointly（副）は動詞を修飾。"
+     }
+    },
+    {
+     "w": "jointly",
+     "pos": "adv.",
+     "ipa": "/ˈdʒɔɪntli/",
+     "zh": "共同地；联合地",
+     "ja": "共同で；連帯して",
+     "ex": "The conference is jointly organized by the city and the local chamber of commerce.",
+     "ex_zh": "这次会议由市政府和当地商会联合主办。",
+     "ex_ja": "この会議は市と地元商工会議所の共催である。",
+     "parts": [
+      [
+       "join",
+       "连接（jungere）",
+       "つなぐ（jungere）"
+      ],
+      [
+       "-ly",
+       "副词后缀",
+       "副詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "joint（联合的）+ -ly。",
+      "ja": "joint（共同の）＋-ly。"
+     },
+     "forms": [
+      [
+       "jointly owned",
+       "共同拥有的",
+       "共同所有の"
+      ],
+      [
+       "jointly responsible",
+       "共同负责",
+       "共同責任を負う"
+      ]
+     ]
+    },
+    {
+     "w": "adjoining",
+     "pos": "adj.",
+     "ipa": "/əˈdʒɔɪnɪŋ/",
+     "zh": "邻接的；隔壁的；相连的",
+     "ja": "隣接した；隣の",
+     "ex": "Lunch will be served in the adjoining room after the presentation.",
+     "ex_zh": "发表结束后，午餐将在隔壁房间供应。",
+     "ex_ja": "発表の後、昼食は隣の部屋で提供されます。",
+     "parts": [
+      [
+       "ad-",
+       "向；靠近",
+       "〜へ"
+      ],
+      [
+       "join",
+       "连接（jungere）",
+       "つなぐ（jungere）"
+      ],
+      [
+       "-ing",
+       "形容词词尾",
+       "形容詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 ajoindre，来自拉丁语 adjungere“连接到……”。",
+      "ja": "古フランス語 ajoindre、ラテン語 adjungere「〜につなぐ」から。"
+     },
+     "forms": [
+      [
+       "adjoin (v.)",
+       "与……邻接",
+       "〜に隣接する"
+      ],
+      [
+       "adjoining rooms",
+       "相通的客房",
+       "続き部屋"
+      ]
+     ],
+     "tip": {
+      "zh": "adjoining ≈ adjacent ≈ next to，Part 7 常互相改写。",
+      "ja": "adjoining ≈ adjacent ≈ next to。Part 7 で言い換えに。"
+     }
+    },
+    {
+     "w": "conjunction",
+     "pos": "n.",
+     "ipa": "/kənˈdʒʌŋkʃən/",
+     "zh": "结合；同时发生；连词",
+     "ja": "結合；同時発生；接続詞",
+     "ex": "The workshop is being held in conjunction with the annual trade fair.",
+     "ex_zh": "这个研讨会与年度贸易展同期举行。",
+     "ex_ja": "このワークショップは年次見本市と合わせて開催される。",
+     "parts": [
+      [
+       "con-",
+       "一起",
+       "共に"
+      ],
+      [
+       "junct",
+       "连接（junctus）",
+       "つなぐ（junctus）"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 conjunctio“结合”，来自 conjungere“连在一起”。",
+      "ja": "ラテン語 conjunctio「結合」（conjungere「結びつける」から）。"
+     },
+     "forms": [
+      [
+       "in conjunction with ~",
+       "与……一起；与……同时",
+       "〜と共同で；〜と併せて"
+      ],
+      [
+       "conjunctive (adj.)",
+       "连接的",
+       "接続の"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5 高频：in conjunction with ≈ together with / along with。",
+      "ja": "Part 5 頻出：in conjunction with ≈ together with。"
+     }
+    },
+    {
+     "w": "juncture",
+     "pos": "n.",
+     "ipa": "/ˈdʒʌŋktʃɚ/",
+     "zh": "时刻；关头；连接点",
+     "ja": "時点；局面；接合点",
+     "ex": "At this juncture, we cannot confirm the opening date of the new branch.",
+     "ex_zh": "目前我们还无法确认新分店的开业日期。",
+     "ex_ja": "現時点では、新支店の開業日は確定できません。",
+     "parts": [
+      [
+       "junct",
+       "连接（junctus）",
+       "つなぐ（junctus）"
+      ],
+      [
+       "-ure",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 junctura“连接处”，来自 jungere“连接”。",
+      "ja": "ラテン語 junctura「接合部」（jungere「つなぐ」から）。"
+     },
+     "forms": [
+      [
+       "at this juncture",
+       "此时；目前",
+       "現時点で"
+      ],
+      [
+       "a critical juncture",
+       "关键时刻",
+       "重大な局面"
+      ]
+     ],
+     "tip": {
+      "zh": "at this juncture ≈ at this point / at present，正式说法。",
+      "ja": "at this juncture ≈ at this point（改まった言い方）。"
+     }
+    },
+    {
+     "w": "rejoin",
+     "pos": "v.",
+     "ipa": "/riˈdʒɔɪn/",
+     "zh": "重新加入；回到",
+     "ja": "再び加わる；復帰する",
+     "ex": "After a two-year break, Ms. Tanaka rejoined the firm as head of design.",
+     "ex_zh": "休息两年后，田中女士回到公司担任设计主管。",
+     "ex_ja": "2 年のブランクを経て、田中さんはデザイン部長として会社に復帰した。",
+     "parts": [
+      [
+       "re-",
+       "再",
+       "再び"
+      ],
+      [
+       "join",
+       "连接（jungere）",
+       "つなぐ（jungere）"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 rejoindre“重新连接”，re- + joindre（拉丁语 jungere）。",
+      "ja": "古フランス語 rejoindre「再びつなぐ」（re-＋joindre、ラテン語 jungere）。"
+     },
+     "forms": [
+      [
+       "rejoin the team",
+       "重新加入团队",
+       "チームに復帰する"
+      ],
+      [
+       "rejoin the main road",
+       "重新驶回主路",
+       "幹線道路に戻る"
+      ]
+     ]
+    },
+    {
+     "w": "adjunct",
+     "pos": "n./adj.",
+     "ipa": "/ˈædʒʌŋkt/",
+     "zh": "附属物；辅助的；兼职的",
+     "ja": "付属物；補助の；非常勤の",
+     "ex": "Dr. Lee also works as an adjunct professor at a nearby university.",
+     "ex_zh": "李博士还在附近一所大学担任兼职教授。",
+     "ex_ja": "リー博士は近くの大学で非常勤教授も務めている。",
+     "parts": [
+      [
+       "ad-",
+       "向；附加",
+       "〜へ"
+      ],
+      [
+       "junct",
+       "连接（junctus）",
+       "つなぐ（junctus）"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 adjunctus“被连接上的”，adjungere 的过去分词。",
+      "ja": "ラテン語 adjunctus「付け加えられた」（adjungere の過去分詞）。"
+     },
+     "forms": [
+      [
+       "adjunct professor",
+       "兼职教授",
+       "非常勤教授"
+      ],
+      [
+       "an adjunct to ~",
+       "……的辅助手段",
+       "〜の補助"
+      ]
+     ]
+    },
+    {
+     "w": "disjointed",
+     "pos": "adj.",
+     "ipa": "/dɪsˈdʒɔɪntɪd/",
+     "zh": "支离破碎的；不连贯的",
+     "ja": "まとまりのない；支離滅裂な",
+     "ex": "The report seemed disjointed because each section was written by a different person.",
+     "ex_zh": "这份报告显得零散不连贯，因为每一部分由不同的人撰写。",
+     "ex_ja": "各章を別の人が書いたため、その報告書はまとまりがなく見えた。",
+     "parts": [
+      [
+       "dis-",
+       "分开",
+       "離れて"
+      ],
+      [
+       "join",
+       "连接（jungere）",
+       "つなぐ（jungere）"
+      ],
+      [
+       "-ed",
+       "形容词词尾",
+       "形容詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 desjoint“分开的”，dis- + joint（拉丁语 junctus“连接的”）+ -ed。",
+      "ja": "古フランス語 desjoint「離された」、dis-＋joint（ラテン語 junctus）＋-ed。"
+     },
+     "forms": [
+      [
+       "a disjointed presentation",
+       "条理不清的演示",
+       "まとまりのない発表"
+      ],
+      [
+       "disjoint (v.)",
+       "使脱节",
+       "ばらばらにする"
+      ]
+     ],
+     "tip": {
+      "zh": "反义 coherent（连贯的）是 Part 7 评价类文章常见词。",
+      "ja": "反意語 coherent（一貫した）も Part 7 の評価文で出る。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "pat",
+   "title_zh": "词根 -pat- / -pass-：忍受；承受",
+   "title_ja": "語根 -pat- / -pass-：耐える；受ける",
+   "words": [
+    {
+     "w": "patient",
+     "pos": "adj./n.",
+     "ipa": "/ˈpeɪʃənt/",
+     "zh": "有耐心的；病人；患者",
+     "ja": "我慢強い；忍耐強い；患者",
+     "ex": "Thank you for being patient while we upgrade our online booking system.",
+     "ex_zh": "在我们升级在线预订系统期间，感谢您的耐心等待。",
+     "ex_ja": "オンライン予約システムの更新中、お待ちいただきありがとうございます。",
+     "parts": [
+      [
+       "pat",
+       "忍受（pati）",
+       "耐える（pati）"
+      ],
+      [
+       "-ient",
+       "形容词后缀（……的）",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 patiens“忍受着的”（pati 的现在分词）→“能忍耐的”；病人 = “承受病痛的人”。",
+      "ja": "ラテン語 patiens「耐えている」（pati の現在分詞）→「我慢強い」。患者＝「苦しみに耐える人」。"
+     },
+     "forms": [
+      [
+       "patiently (adv.)",
+       "耐心地",
+       "辛抱強く"
+      ],
+      [
+       "outpatient (n.)",
+       "门诊病人",
+       "外来患者"
+      ]
+     ],
+     "tip": {
+      "zh": "be patient with ~ 对……有耐心；作名词时是“病人”，看上下文判断。",
+      "ja": "be patient with ~（〜に辛抱強い）。名詞なら「患者」。文脈で判断。"
+     }
+    },
+    {
+     "w": "patience",
+     "pos": "n.",
+     "ipa": "/ˈpeɪʃəns/",
+     "zh": "耐心；忍耐",
+     "ja": "忍耐；辛抱",
+     "ex": "We appreciate your patience during the renovation of the main lobby.",
+     "ex_zh": "大堂翻修期间，感谢您的耐心与理解。",
+     "ex_ja": "メインロビー改装中のご理解とご辛抱に感謝いたします。",
+     "parts": [
+      [
+       "pat",
+       "忍受（pati）",
+       "耐える（pati）"
+      ],
+      [
+       "-ience",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 patientia“忍耐”，来自 pati“忍受”。",
+      "ja": "ラテン語 patientia「忍耐」（pati「耐える」から）。"
+     },
+     "forms": [
+      [
+       "Thank you for your patience.",
+       "感谢您的耐心等待。",
+       "お待ちいただきありがとうございます。"
+      ],
+      [
+       "lose patience",
+       "失去耐心",
+       "しびれを切らす"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 4 / Part 7 通知结尾高频：We appreciate your patience and understanding.",
+      "ja": "Part 4／Part 7 のお知らせの結び：We appreciate your patience and understanding."
+     }
+    },
+    {
+     "w": "impatient",
+     "pos": "adj.",
+     "ipa": "/ɪmˈpeɪʃənt/",
+     "zh": "不耐烦的；急切的",
+     "ja": "いらいらした；待ちきれない",
+     "ex": "Some customers grew impatient as the checkout line got longer.",
+     "ex_zh": "收银队伍越排越长，一些顾客开始不耐烦。",
+     "ex_ja": "レジの列が長くなるにつれ、いらだつ客も出てきた。",
+     "parts": [
+      [
+       "im-",
+       "不",
+       "〜でない"
+      ],
+      [
+       "pat",
+       "忍受（pati）",
+       "耐える（pati）"
+      ],
+      [
+       "-ient",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "in-（否定，在 p 前变 im-）+ patient。",
+      "ja": "否定の in-（p の前で im-）＋patient。"
+     },
+     "forms": [
+      [
+       "impatient with ~",
+       "对……不耐烦",
+       "〜にいらいらする"
+      ],
+      [
+       "impatient for ~ / to do",
+       "急于……",
+       "〜を待ちきれない"
+      ]
+     ]
+    },
+    {
+     "w": "compatible",
+     "pos": "adj.",
+     "ipa": "/kəmˈpætəbəl/",
+     "zh": "兼容的；相容的；合得来的",
+     "ja": "互換性のある；両立する；気が合う",
+     "ex": "The new software is compatible with both Windows and Mac computers.",
+     "ex_zh": "新软件同时兼容 Windows 和 Mac 电脑。",
+     "ex_ja": "新しいソフトは Windows と Mac の両方に対応している。",
+     "parts": [
+      [
+       "com-",
+       "一起",
+       "共に"
+      ],
+      [
+       "pat",
+       "忍受（pati）",
+       "耐える（pati）"
+      ],
+      [
+       "-ible",
+       "能……的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "中世拉丁语 compatibilis“能共同承受的”，com- + pati“忍受”。",
+      "ja": "中世ラテン語 compatibilis「共に耐えうる」（com-＋pati「耐える」）。"
+     },
+     "forms": [
+      [
+       "compatible with ~",
+       "与……兼容",
+       "〜と互換性がある"
+      ],
+      [
+       "backward compatible",
+       "向下兼容",
+       "下位互換の"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5：compatible 后接 with；名词 compatibility。",
+      "ja": "Part 5：compatible は with を取る。名詞は compatibility。"
+     }
+    },
+    {
+     "w": "incompatible",
+     "pos": "adj.",
+     "ipa": "/ˌɪnkəmˈpætəbəl/",
+     "zh": "不兼容的；不相容的；合不来的",
+     "ja": "互換性のない；相容れない",
+     "ex": "Older printers may be incompatible with the updated operating system.",
+     "ex_zh": "旧型打印机可能与更新后的操作系统不兼容。",
+     "ex_ja": "古いプリンターは更新後の OS に対応していない可能性がある。",
+     "parts": [
+      [
+       "in-",
+       "不",
+       "〜でない"
+      ],
+      [
+       "com-",
+       "一起",
+       "共に"
+      ],
+      [
+       "pat",
+       "忍受（pati）",
+       "耐える（pati）"
+      ],
+      [
+       "-ible",
+       "能……的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "in-（否定）+ compatible。",
+      "ja": "否定の in-＋compatible。"
+     },
+     "forms": [
+      [
+       "incompatible with ~",
+       "与……不兼容",
+       "〜と互換性がない"
+      ],
+      [
+       "incompatibility (n.)",
+       "不兼容",
+       "非互換性"
+      ]
+     ]
+    },
+    {
+     "w": "compatibility",
+     "pos": "n.",
+     "ipa": "/kəmˌpætəˈbɪləti/",
+     "zh": "兼容性；相容性",
+     "ja": "互換性；適合性",
+     "ex": "Please check the compatibility of your device before downloading the app.",
+     "ex_zh": "下载应用前，请先确认您的设备是否兼容。",
+     "ex_ja": "アプリをダウンロードする前に、お使いの端末の対応状況をご確認ください。",
+     "parts": [
+      [
+       "com-",
+       "一起",
+       "共に"
+      ],
+      [
+       "pat",
+       "忍受（pati）",
+       "耐える（pati）"
+      ],
+      [
+       "-ibility",
+       "名词后缀（能……性）",
+       "〜できる性質"
+      ]
+     ],
+     "note": {
+      "zh": "compatible + -ity（名词后缀），-ible 变 -ibility。",
+      "ja": "compatible＋-ity（-ible が -ibility に）。"
+     },
+     "forms": [
+      [
+       "compatibility with ~",
+       "与……的兼容性",
+       "〜との互換性"
+      ],
+      [
+       "check compatibility",
+       "确认兼容性",
+       "互換性を確認する"
+      ]
+     ]
+    },
+    {
+     "w": "passionate",
+     "pos": "adj.",
+     "ipa": "/ˈpæʃənət/",
+     "zh": "热情的；热衷的；充满激情的",
+     "ja": "情熱的な；熱心な",
+     "ex": "We are looking for a sales associate who is passionate about customer service.",
+     "ex_zh": "我们正在招聘一位热衷于客户服务的销售专员。",
+     "ex_ja": "顧客サービスに情熱を持つ販売スタッフを募集しています。",
+     "parts": [
+      [
+       "pass",
+       "忍受；感受（passus）",
+       "耐える；感じる（passus）"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ],
+      [
+       "-ate",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "中世纪拉丁语 passionatus，来自 passio“受苦 → 强烈的情感”（pati 的过去分词 passus）。",
+      "ja": "中世ラテン語 passionatus、passio「苦しみ → 激しい感情」（pati の過去分詞 passus）から。"
+     },
+     "forms": [
+      [
+       "passion (n.)",
+       "热情；激情",
+       "情熱"
+      ],
+      [
+       "be passionate about ~",
+       "热衷于……",
+       "〜に情熱を注ぐ"
+      ]
+     ],
+     "tip": {
+      "zh": "招聘广告高频：be passionate about；介词用 about。",
+      "ja": "求人広告の定番：be passionate about（前置詞は about）。"
+     }
+    },
+    {
+     "w": "passive",
+     "pos": "adj.",
+     "ipa": "/ˈpæsɪv/",
+     "zh": "被动的；消极的",
+     "ja": "受け身の；消極的な",
+     "ex": "Instead of being passive listeners, participants will join hands-on activities.",
+     "ex_zh": "参加者不只是被动地听讲，还将参与实践活动。",
+     "ex_ja": "参加者は聞くだけでなく、体験型の活動にも参加します。",
+     "parts": [
+      [
+       "pass",
+       "忍受；感受（passus）",
+       "耐える；感じる（passus）"
+      ],
+      [
+       "-ive",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 passivus“承受的”，来自 passus（pati“忍受”的过去分词）。",
+      "ja": "ラテン語 passivus「受ける」、passus（pati「耐える」の過去分詞）から。"
+     },
+     "forms": [
+      [
+       "passive voice",
+       "被动语态",
+       "受動態"
+      ],
+      [
+       "passive income",
+       "被动收入",
+       "不労所得"
+      ]
+     ],
+     "tip": {
+      "zh": "反义 active（主动的）。Part 5 语态题要分清主动 / 被动。",
+      "ja": "反意語 active。Part 5 の態の問題で能動／受動を見分ける。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "lat",
+   "title_zh": "词根 -lat-：带；搬运",
+   "title_ja": "語根 -lat-：運ぶ",
+   "words": [
+    {
+     "w": "relate",
+     "pos": "v.",
+     "ipa": "/rɪˈleɪt/",
+     "zh": "与……有关；讲述；理解共鸣",
+     "ja": "関係がある；述べる；共感する",
+     "ex": "Please submit all questions that relate to the new travel policy by Friday.",
+     "ex_zh": "有关新差旅制度的所有问题，请在周五前提交。",
+     "ex_ja": "新しい出張規定に関する質問は、金曜日までにすべて提出してください。",
+     "parts": [
+      [
+       "re-",
+       "回",
+       "元へ"
+      ],
+      [
+       "lat",
+       "带、搬运（latus，ferre 的过去分词）",
+       "運ぶ（latus、ferre の過去分詞）"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 relatus，是 referre“带回、报告”的过去分词。",
+      "ja": "ラテン語 relatus（referre「持ち帰る・報告する」の過去分詞）から。"
+     },
+     "forms": [
+      [
+       "related to ~",
+       "与……有关",
+       "〜に関連した"
+      ],
+      [
+       "relation / relationship (n.)",
+       "关系",
+       "関係"
+      ]
+     ],
+     "tip": {
+      "zh": "relate to + 名词（不及物）；be related to ~ 是形容词用法。",
+      "ja": "relate to＋名詞（自動詞）。be related to ~ は形容詞的用法。"
+     }
+    },
+    {
+     "w": "relatively",
+     "pos": "adv.",
+     "ipa": "/ˈrɛlətɪvli/",
+     "zh": "相对地；比较地",
+     "ja": "比較的；相対的に",
+     "ex": "The new office is relatively close to the train station.",
+     "ex_zh": "新办公室离火车站比较近。",
+     "ex_ja": "新しいオフィスは駅から比較的近い。",
+     "parts": [
+      [
+       "re-",
+       "回",
+       "元へ"
+      ],
+      [
+       "lat",
+       "带、搬运（latus，ferre 的过去分词）",
+       "運ぶ（latus、ferre の過去分詞）"
+      ],
+      [
+       "-ive",
+       "形容词后缀",
+       "形容詞を作る"
+      ],
+      [
+       "-ly",
+       "副词后缀",
+       "副詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "relative（相对的，拉丁语 relativus，来自 relatus）+ -ly。",
+      "ja": "relative（相対的な、ラテン語 relativus＜relatus）＋-ly。"
+     },
+     "forms": [
+      [
+       "relative (adj./n.)",
+       "相对的；亲戚",
+       "相対的な；親戚"
+      ],
+      [
+       "relatively speaking",
+       "相对而言",
+       "比較して言えば"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5：修饰形容词（close / small / easy）要用副词 relatively。",
+      "ja": "Part 5：形容詞（close / small / easy）を修飾するのは副詞 relatively。"
+     }
+    },
+    {
+     "w": "translate",
+     "pos": "v.",
+     "ipa": "/trænsˈleɪt/",
+     "zh": "翻译；转化为；导致",
+     "ja": "翻訳する；〜に変わる；結びつく",
+     "ex": "Strong online reviews usually translate into higher sales.",
+     "ex_zh": "良好的网上评价通常会带来更高的销量。",
+     "ex_ja": "ネット上の高い評価は、たいてい売上増につながる。",
+     "parts": [
+      [
+       "trans-",
+       "跨越",
+       "越えて"
+      ],
+      [
+       "lat",
+       "带、搬运（latus，ferre 的过去分词）",
+       "運ぶ（latus、ferre の過去分詞）"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 translatus，是 transferre“搬过去”的过去分词。",
+      "ja": "ラテン語 translatus（transferre「向こうへ運ぶ」の過去分詞）から。"
+     },
+     "forms": [
+      [
+       "translate A into B",
+       "把 A 译成 B；把 A 转化为 B",
+       "A を B に訳す；A を B に変える"
+      ],
+      [
+       "translator (n.)",
+       "译者",
+       "翻訳者"
+      ]
+     ],
+     "tip": {
+      "zh": "translate into ≈ result in / lead to（带来……结果），Part 7 改写常见。",
+      "ja": "translate into ≈ result in / lead to（〜につながる）。Part 7 の言い換えに。"
+     }
+    },
+    {
+     "w": "translation",
+     "pos": "n.",
+     "ipa": "/trænsˈleɪʃən/",
+     "zh": "翻译；译文；译本",
+     "ja": "翻訳；訳文",
+     "ex": "The Japanese translation of the user manual will be available next month.",
+     "ex_zh": "使用手册的日文译本将于下个月提供。",
+     "ex_ja": "取扱説明書の日本語訳は来月公開される。",
+     "parts": [
+      [
+       "trans-",
+       "跨越",
+       "越えて"
+      ],
+      [
+       "lat",
+       "带、搬运（latus，ferre 的过去分词）",
+       "運ぶ（latus、ferre の過去分詞）"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 translatio“搬运过去；翻译”。",
+      "ja": "ラテン語 translatio「運び移すこと；翻訳」。"
+     },
+     "forms": [
+      [
+       "translation service",
+       "翻译服务",
+       "翻訳サービス"
+      ],
+      [
+       "machine translation",
+       "机器翻译",
+       "機械翻訳"
+      ]
+     ]
+    },
+    {
+     "w": "legislative",
+     "pos": "adj.",
+     "ipa": "/ˈlɛdʒɪsˌleɪtɪv/",
+     "zh": "立法的；立法机关的",
+     "ja": "立法の；立法府の",
+     "ex": "The legislative changes will affect how small businesses report their taxes.",
+     "ex_zh": "这些立法变化将影响小企业申报税款的方式。",
+     "ex_ja": "この法改正は、中小企業の税申告の仕方に影響する。",
+     "parts": [
+      [
+       "legis",
+       "法律（lex）",
+       "法（lex）"
+      ],
+      [
+       "lat",
+       "带、搬运（latus，ferre 的过去分词）",
+       "運ぶ（latus、ferre の過去分詞）"
+      ],
+      [
+       "-ive",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "由 legislator 而来；拉丁语 legis lator“提出法律的人”（lex“法律”的属格 + lator“提出者”，来自 latus）。",
+      "ja": "legislator から。ラテン語 legis lator「法を提出する人」（lex「法」の属格＋latus 由来の lator「運ぶ人」）。"
+     },
+     "forms": [
+      [
+       "legislation (n.)",
+       "法律；立法（已学）",
+       "法律；法制（既習）"
+      ],
+      [
+       "legislative body",
+       "立法机构",
+       "立法機関"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5 词性：legislation（名）/ legislative（形）/ legislator（人）。",
+      "ja": "Part 5 の品詞：legislation（名）／legislative（形）／legislator（人）。"
+     }
+    },
+    {
+     "w": "legislator",
+     "pos": "n.",
+     "ipa": "/ˈlɛdʒɪsˌleɪtɚ/",
+     "zh": "立法者；议员",
+     "ja": "立法者；議員",
+     "ex": "Local legislators met with business owners to discuss the new parking rules.",
+     "ex_zh": "当地议员与商户见面，讨论新的停车规定。",
+     "ex_ja": "地元議員が事業者と会い、新しい駐車規則について話し合った。",
+     "parts": [
+      [
+       "legis",
+       "法律（lex）",
+       "法（lex）"
+      ],
+      [
+       "lat",
+       "带、搬运（latus，ferre 的过去分词）",
+       "運ぶ（latus、ferre の過去分詞）"
+      ],
+      [
+       "-or",
+       "表示人",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 legis lator“提出法律的人”。",
+      "ja": "ラテン語 legis lator「法を提出する人」。"
+     },
+     "forms": [
+      [
+       "state legislator",
+       "州议员",
+       "州議会議員"
+      ],
+      [
+       "legislature (n.)",
+       "立法机关",
+       "議会"
+      ]
+     ]
+    },
+    {
+     "w": "correlate",
+     "pos": "v.",
+     "ipa": "/ˈkɔrəˌleɪt/",
+     "zh": "相关；使相互关联",
+     "ja": "相関する；関連づける",
+     "ex": "The survey showed that customer satisfaction correlates closely with delivery speed.",
+     "ex_zh": "调查显示，顾客满意度与配送速度密切相关。",
+     "ex_ja": "調査では、顧客満足度が配送の速さと密接に相関していることがわかった。",
+     "parts": [
+      [
+       "cor-",
+       "一起（com- 的变体）",
+       "共に"
+      ],
+      [
+       "re-",
+       "回",
+       "元へ"
+      ],
+      [
+       "lat",
+       "带、搬运（latus，ferre 的过去分词）",
+       "運ぶ（latus、ferre の過去分詞）"
+      ]
+     ],
+     "note": {
+      "zh": "17 世纪由 cor-（= com-“一起”）+ relate 构成；relate 来自拉丁语 relatus。",
+      "ja": "17 世紀に cor-（＝com-「共に」）＋relate から作られた語。relate はラテン語 relatus から。"
+     },
+     "forms": [
+      [
+       "correlation (n.)",
+       "相关性",
+       "相関関係"
+      ],
+      [
+       "correlate with ~",
+       "与……相关",
+       "〜と相関する"
+      ]
+     ]
+    },
+    {
+     "w": "superlative",
+     "pos": "adj./n.",
+     "ipa": "/sʊˈpɝlətɪv/",
+     "zh": "极好的；最高级",
+     "ja": "最高の；最上級",
+     "ex": "The hotel is known for its superlative service and quiet location.",
+     "ex_zh": "这家酒店以一流的服务和安静的位置著称。",
+     "ex_ja": "そのホテルは最高のサービスと静かな立地で知られている。",
+     "parts": [
+      [
+       "super-",
+       "超过；在上",
+       "上に；超えて"
+      ],
+      [
+       "lat",
+       "带、搬运（latus，ferre 的过去分词）",
+       "運ぶ（latus、ferre の過去分詞）"
+      ],
+      [
+       "-ive",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "晚期拉丁语 superlativus，来自 superlatus（superferre“带到上方”的过去分词）。",
+      "ja": "後期ラテン語 superlativus、superlatus（superferre「上へ運ぶ」の過去分詞）から。"
+     },
+     "forms": [
+      [
+       "superlative form",
+       "最高级",
+       "最上級"
+      ],
+      [
+       "comparative (adj./n.)",
+       "比较级",
+       "比較級"
+      ]
+     ],
+     "tip": {
+      "zh": "语法题：the + 最高级 + in / of ~；superlative 本身也是“极好的”。",
+      "ja": "文法：the＋最上級＋in / of ~。superlative 自体は「最高の」の意味も。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "packaging",
+   "title_zh": "主题：包装与标签",
+   "title_ja": "テーマ：包装とラベル",
+   "words": [
+    {
+     "w": "packaging",
+     "pos": "n.",
+     "ipa": "/ˈpækɪdʒɪŋ/",
+     "zh": "包装；包装材料",
+     "ja": "包装；梱包材",
+     "ex": "The company switched to paper packaging to reduce plastic waste.",
+     "ex_zh": "公司改用纸质包装，以减少塑料垃圾。",
+     "ex_ja": "同社はプラスチックごみを減らすため紙製の包装に切り替えた。",
+     "parts": [
+      [
+       "pack",
+       "包",
+       "包み"
+      ],
+      [
+       "-age",
+       "名词后缀",
+       "名詞を作る"
+      ],
+      [
+       "-ing",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "pack 来自中古荷兰语 / 低地德语 pak“包裹”，+ -age + -ing。",
+      "ja": "pack は中世オランダ語／低地ドイツ語 pak「包み」から。＋-age＋-ing。"
+     },
+     "forms": [
+      [
+       "package (n./v.)",
+       "包裹；套餐；包装",
+       "小包；パッケージ；包装する"
+      ],
+      [
+       "eco-friendly packaging",
+       "环保包装",
+       "環境に優しい包装"
+      ]
+     ],
+     "tip": {
+      "zh": "package 是“包裹 / 套餐”（可数），packaging 是“包装材料”（不可数）。",
+      "ja": "package は「小包・パッケージ」（可算）、packaging は「包装材」（不可算）。"
+     }
+    },
+    {
+     "w": "label",
+     "pos": "n./v.",
+     "ipa": "/ˈleɪbəl/",
+     "zh": "标签；贴标签；标明",
+     "ja": "ラベル；ラベルを貼る；表示する",
+     "ex": "Each box must be clearly labeled with the customer's name and order number.",
+     "ex_zh": "每个箱子都必须清楚标明客户姓名和订单号。",
+     "ex_ja": "各箱には顧客名と注文番号をはっきり表示しなければならない。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：经古法语 label“布条、带子”而来，更早来源不明。",
+      "ja": "信頼できる語根分解はない：古フランス語 label「細長い布切れ」経由で、それ以前の語源は不明。"
+     },
+     "forms": [
+      [
+       "mislabel (v.)",
+       "贴错标签",
+       "表示を誤る"
+      ],
+      [
+       "private label",
+       "自有品牌",
+       "プライベートブランド"
+      ]
+     ],
+     "tip": {
+      "zh": "美式 labeled / labeling，英式 labelled / labelling。",
+      "ja": "米式 labeled / labeling、英式 labelled / labelling。"
+     },
+     "hl": "labeled"
+    },
+    {
+     "w": "wrap",
+     "pos": "v./n.",
+     "ipa": "/ræp/",
+     "zh": "包；裹；包装纸",
+     "ja": "包む；巻く；包装紙",
+     "ex": "Please wrap the glassware in paper before placing it in the box.",
+     "ex_zh": "把玻璃器皿放进箱子前，请先用纸包好。",
+     "ex_ja": "ガラス製品は箱に入れる前に紙で包んでください。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：中古英语 wrappen，更早来源不明。",
+      "ja": "信頼できる語根分解はない：中英語 wrappen から。それ以前は不明。"
+     },
+     "forms": [
+      [
+       "bubble wrap",
+       "气泡膜",
+       "プチプチ（気泡緩衝材）"
+      ],
+      [
+       "wrap up ~",
+       "结束（会议等）",
+       "（会議などを）締めくくる"
+      ]
+     ],
+     "tip": {
+      "zh": "wrap up the meeting = 结束会议；w 不发音。",
+      "ja": "wrap up the meeting＝会議を終える。w は発音しない。"
+     }
+    },
+    {
+     "w": "crate",
+     "pos": "n.",
+     "ipa": "/kreɪt/",
+     "zh": "板条箱；货箱",
+     "ja": "木枠の箱；運搬用ケース",
+     "ex": "The new machines arrived in wooden crates and were unpacked by the warehouse staff.",
+     "ex_zh": "新机器装在木箱里运到，由仓库员工开箱。",
+     "ex_ja": "新しい機械は木箱で届き、倉庫スタッフが開梱した。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：可能来自荷兰语 krat 或拉丁语 cratis“编织物”，来源不确定。",
+      "ja": "信頼できる語根分解はない：オランダ語 krat またはラテン語 cratis「編み細工」からとされるが、確かではない。"
+     },
+     "forms": [
+      [
+       "a crate of ~",
+       "一箱……",
+       "〜一箱"
+      ],
+      [
+       "crated (adj.)",
+       "装箱的",
+       "木箱詰めの"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1：Some crates are stacked on top of each other.（几个货箱叠放着）",
+      "ja": "Part 1：Some crates are stacked on top of each other.（箱が積み重ねられている）"
+     }
+    },
+    {
+     "w": "seal",
+     "pos": "v./n.",
+     "ipa": "/sil/",
+     "zh": "密封；封口；封条；印章",
+     "ja": "密封する；封をする；封印；印章",
+     "ex": "Make sure each package is sealed tightly before it leaves the warehouse.",
+     "ex_zh": "每个包裹在出库前都要确认封牢。",
+     "ex_ja": "各荷物が倉庫を出る前に、しっかり封がされているか確認してください。",
+     "parts": [
+      [
+       "seal",
+       "印记（sigillum，signum 的指小词）",
+       "印（sigillum、signum の縮小形）"
+      ]
+     ],
+     "note": {
+      "zh": "经古法语来自拉丁语 sigillum“小印记”，是 signum“记号”的指小词。",
+      "ja": "古フランス語経由でラテン語 sigillum「小さな印」（signum「しるし」の縮小形）から。"
+     },
+     "forms": [
+      [
+       "sealed envelope",
+       "封好的信封",
+       "封をした封筒"
+      ],
+      [
+       "seal of approval",
+       "认可；批准",
+       "お墨付き"
+      ]
+     ],
+     "tip": {
+      "zh": "⚠️ seal“海豹”是另一个本族词，与“印记”无关。",
+      "ja": "⚠️ 「アザラシ」の seal は別語源の英語本来語。"
+     },
+     "hl": "sealed"
+    },
+    {
+     "w": "tape",
+     "pos": "n./v.",
+     "ipa": "/teɪp/",
+     "zh": "胶带；用胶带贴",
+     "ja": "テープ；テープで貼る",
+     "ex": "Use packing tape to secure the bottom of each box.",
+     "ex_zh": "请用封箱胶带把每个箱子的底部封牢。",
+     "ex_ja": "各箱の底は梱包用テープでしっかり留めてください。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：古英语 tæppe“布条”，更早来源不明。",
+      "ja": "信頼できる語根分解はない：古英語 tæppe「布切れ」から。それ以前は不明。"
+     },
+     "forms": [
+      [
+       "packing tape",
+       "封箱胶带",
+       "梱包用テープ"
+      ],
+      [
+       "red tape",
+       "繁文缛节；官僚手续",
+       "お役所仕事"
+      ]
+     ],
+     "tip": {
+      "zh": "red tape 是“繁琐的官僚手续”，Part 7 报道中常见。",
+      "ja": "red tape は「煩雑なお役所手続き」。Part 7 の記事に出る。"
+     }
+    },
+    {
+     "w": "barcode",
+     "pos": "n.",
+     "ipa": "/ˈbɑrˌkoʊd/",
+     "zh": "条形码",
+     "ja": "バーコード",
+     "ex": "Scan the barcode on the label to update the inventory system.",
+     "ex_zh": "扫描标签上的条形码来更新库存系统。",
+     "ex_ja": "ラベルのバーコードを読み取って在庫システムを更新してください。",
+     "parts": [
+      [
+       "bar",
+       "条；杆",
+       "棒；線"
+      ],
+      [
+       "code",
+       "代码",
+       "符号"
+      ]
+     ],
+     "note": {
+      "zh": "合成词：bar（条，来自古法语 barre）+ code（代码，经法语来自拉丁语 codex“书册”）。",
+      "ja": "複合語：bar（線、古フランス語 barre）＋code（符号、フランス語経由でラテン語 codex「書物」）。"
+     },
+     "forms": [
+      [
+       "scan a barcode",
+       "扫条形码",
+       "バーコードを読み取る"
+      ],
+      [
+       "QR code",
+       "二维码",
+       "QR コード"
+      ]
+     ]
+    },
+    {
+     "w": "sticker",
+     "pos": "n.",
+     "ipa": "/ˈstɪkɚ/",
+     "zh": "贴纸；标签贴",
+     "ja": "シール；ステッカー",
+     "ex": "A red sticker on the box indicates that the item has been discounted.",
+     "ex_zh": "箱子上的红色贴纸表示该商品已打折。",
+     "ex_ja": "箱の赤いシールは、その商品が値引き済みであることを示す。",
+     "parts": [
+      [
+       "stick",
+       "粘",
+       "くっつく"
+      ],
+      [
+       "-er",
+       "名词后缀（……的东西）",
+       "〜するもの"
+      ]
+     ],
+     "note": {
+      "zh": "本族词：stick（粘，古英语 stician）+ -er。",
+      "ja": "英語本来の語：stick（くっつく、古英語 stician）＋-er。"
+     },
+     "forms": [
+      [
+       "sticker price",
+       "标价",
+       "表示価格"
+      ],
+      [
+       "stick (v.)",
+       "粘贴",
+       "貼る"
+      ]
+     ],
+     "tip": {
+      "zh": "sticker price 指标价（尤其汽车），往往可以再砍价。",
+      "ja": "sticker price は表示価格（特に車）。値引き交渉の前提となる。"
+     }
+    },
+    {
+     "w": "compartment",
+     "pos": "n.",
+     "ipa": "/kəmˈpɑrtmənt/",
+     "zh": "隔间；分隔区；（列车）包厢",
+     "ja": "仕切り；区画；（列車の）個室",
+     "ex": "The lunch box has three compartments to keep the food separate.",
+     "ex_zh": "这个便当盒有三个格子，可以把食物分开放。",
+     "ex_ja": "この弁当箱は料理を分けて入れられる 3 つの仕切りがある。",
+     "parts": [
+      [
+       "com-",
+       "加强语气",
+       "強意"
+      ],
+      [
+       "part",
+       "部分",
+       "部分"
+      ],
+      [
+       "-ment",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "经法语 compartiment 来自晚期拉丁语 compartiri“分割”（com- + partiri“分”）。",
+      "ja": "フランス語 compartiment 経由で後期ラテン語 compartiri「分割する」（com-＋partiri「分ける」）から。"
+     },
+     "forms": [
+      [
+       "overhead compartment",
+       "头顶行李舱",
+       "頭上の荷物入れ"
+      ],
+      [
+       "storage compartment",
+       "储物格",
+       "収納スペース"
+      ]
+     ]
+    },
+    {
+     "w": "lid",
+     "pos": "n.",
+     "ipa": "/lɪd/",
+     "zh": "盖子",
+     "ja": "ふた",
+     "ex": "Make sure the lid is closed firmly so the soup does not spill during delivery.",
+     "ex_zh": "请把盖子盖紧，以免配送时汤洒出来。",
+     "ex_ja": "配達中にスープがこぼれないよう、ふたをしっかり閉めてください。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：本族词，古英语 hlid“盖子”。",
+      "ja": "信頼できる語根分解はない：英語本来の語で、古英語 hlid「ふた」から。"
+     },
+     "forms": [
+      [
+       "eyelid (n.)",
+       "眼皮",
+       "まぶた"
+      ],
+      [
+       "keep a lid on ~",
+       "控制住……",
+       "〜を抑える"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1：A lid has been removed from a container.（容器的盖子被拿掉了）",
+      "ja": "Part 1：A lid has been removed from a container.（容器のふたが外されている）"
+     }
+    },
+    {
+     "w": "recyclable",
+     "pos": "adj./n.",
+     "ipa": "/riˈsaɪkləbəl/",
+     "zh": "可回收的；可回收物",
+     "ja": "リサイクル可能な；資源ごみ",
+     "ex": "All of our shipping boxes are made from recyclable materials.",
+     "ex_zh": "我们所有的运输纸箱都由可回收材料制成。",
+     "ex_ja": "当社の配送用の箱はすべてリサイクル可能な素材でできている。",
+     "parts": [
+      [
+       "re-",
+       "再",
+       "再び"
+      ],
+      [
+       "cycl",
+       "圈（希腊语 kyklos）",
+       "輪（ギリシャ語 kyklos）"
+      ],
+      [
+       "-able",
+       "能……的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "recycle（re- + cycle，cycle 来自希腊语 kyklos“圆圈”）+ -able。",
+      "ja": "recycle（re-＋cycle、cycle はギリシャ語 kyklos「輪」から）＋-able。"
+     },
+     "forms": [
+      [
+       "recycle (v.)",
+       "回收利用",
+       "リサイクルする"
+      ],
+      [
+       "recycling bin",
+       "回收箱",
+       "リサイクル用ごみ箱"
+      ]
+     ]
+    },
+    {
+     "w": "cushioning",
+     "pos": "n.",
+     "ipa": "/ˈkʊʃənɪŋ/",
+     "zh": "缓冲材料；衬垫；缓冲",
+     "ja": "緩衝材；クッション材",
+     "ex": "Extra cushioning was added to protect the monitors during shipping.",
+     "ex_zh": "为了在运输中保护显示器，额外加了缓冲材料。",
+     "ex_ja": "輸送中にモニターを守るため、緩衝材が追加された。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：cushion 经古法语 coissin 而来，更早来源说法不一；-ing 构成名词。",
+      "ja": "信頼できる語根分解はない：cushion は古フランス語 coissin 経由で、それ以前の語源は諸説ある。-ing で名詞に。"
+     },
+     "forms": [
+      [
+       "cushion (n./v.)",
+       "垫子；缓冲",
+       "クッション；和らげる"
+      ],
+      [
+       "cushion the impact",
+       "减轻冲击",
+       "衝撃を和らげる"
+      ]
+     ]
+    },
+    {
+     "w": "dent",
+     "pos": "n./v.",
+     "ipa": "/dɛnt/",
+     "zh": "凹痕；使凹陷",
+     "ja": "へこみ；へこませる",
+     "ex": "The customer requested a replacement because the microwave arrived with a dent in its door.",
+     "ex_zh": "微波炉送到时门上有凹痕，顾客要求换货。",
+     "ex_ja": "電子レンジの扉にへこみがあったため、客は交換を求めた。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：中古英语 dent，是 dint“打击”的变体。⚠️ 与 dentist 的 dent（牙齿）无关。",
+      "ja": "信頼できる語根分解はない：中英語 dent、dint「打撃」の変形。⚠️ dentist の dent（歯）とは無関係。"
+     },
+     "forms": [
+      [
+       "dented (adj.)",
+       "有凹痕的",
+       "へこんだ"
+      ],
+      [
+       "make a dent in ~",
+       "使……减少一些",
+       "〜を少し減らす"
+      ]
+     ],
+     "tip": {
+      "zh": "make a dent in the backlog = 让积压的工作减少一些。",
+      "ja": "make a dent in the backlog＝たまった仕事を少し減らす。"
+     }
+    },
+    {
+     "w": "tamper",
+     "pos": "v.",
+     "ipa": "/ˈtæmpɚ/",
+     "zh": "乱动；篡改；擅自改动",
+     "ja": "いじる；不正に手を加える",
+     "ex": "Do not purchase the product if the seal appears to have been tampered with.",
+     "ex_zh": "如果封条看起来被动过，请不要购买该产品。",
+     "ex_ja": "封が開けられた形跡があれば、その商品は購入しないでください。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：一般认为是 temper 的变体，来源说法不一。",
+      "ja": "信頼できる語根分解はない：temper の変形とされるが、諸説ある。"
+     },
+     "forms": [
+      [
+       "tamper with ~",
+       "乱动……；篡改……",
+       "〜に手を加える"
+      ],
+      [
+       "tamper-evident seal",
+       "防拆封条",
+       "開封防止シール"
+      ]
+     ],
+     "tip": {
+      "zh": "tamper 一定带 with：tamper with the meter。",
+      "ja": "tamper は必ず with を伴う：tamper with the meter。"
+     },
+     "hl": "tampered"
+    }
+   ]
+  },
+  {
+   "id": "parking",
+   "title_zh": "主题：停车场与大楼出入",
+   "title_ja": "テーマ：駐車場と入館管理",
+   "words": [
+    {
+     "w": "parking",
+     "pos": "n.",
+     "ipa": "/ˈpɑrkɪŋ/",
+     "zh": "停车；停车位",
+     "ja": "駐車；駐車場",
+     "ex": "Free parking is available for visitors in the lot behind the building.",
+     "ex_zh": "来访者可在大楼后面的停车场免费停车。",
+     "ex_ja": "来訪者は建物裏の駐車場を無料で利用できる。",
+     "parts": [
+      [
+       "park",
+       "围起来的场地",
+       "囲われた場所"
+      ],
+      [
+       "-ing",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "park 经古法语 parc“围起来的场地”而来（更早来自日耳曼语）；+ -ing。",
+      "ja": "park は古フランス語 parc「囲い地」から（さらに古くはゲルマン語）。＋-ing。"
+     },
+     "forms": [
+      [
+       "parking lot / parking garage",
+       "停车场 / 立体停车场",
+       "駐車場／立体駐車場"
+      ],
+      [
+       "parking space",
+       "停车位",
+       "駐車スペース"
+      ]
+     ],
+     "tip": {
+      "zh": "parking 不可数：There is limited parking.（车位有限）",
+      "ja": "parking は不可算：There is limited parking.（駐車場は限られている）"
+     }
+    },
+    {
+     "w": "lot",
+     "pos": "n.",
+     "ipa": "/lɑt/",
+     "zh": "场地；一块地；一批",
+     "ja": "用地；区画；一山",
+     "ex": "The parking lot will be repaved this weekend, so please park on the street.",
+     "ex_zh": "停车场本周末重铺路面，请把车停在路边。",
+     "ex_ja": "駐車場は今週末に舗装し直すので、路上に駐車してください。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：本族词，古英语 hlot“抽签；分得的份额”→“分到的地块”。",
+      "ja": "信頼できる語根分解はない：英語本来の語で、古英語 hlot「くじ；割り当て」→「割り当てられた土地」。"
+     },
+     "forms": [
+      [
+       "vacant lot",
+       "空地",
+       "空き地"
+      ],
+      [
+       "a lot of ~",
+       "许多……",
+       "たくさんの〜"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1：Cars are parked in a lot.（车停在停车场里）",
+      "ja": "Part 1：Cars are parked in a lot.（車が駐車場に止まっている）"
+     }
+    },
+    {
+     "w": "curb",
+     "pos": "n./v.",
+     "ipa": "/kɝb/",
+     "zh": "路缘；抑制",
+     "ja": "縁石；抑制する",
+     "ex": "Delivery trucks may stop at the curb for no more than ten minutes.",
+     "ex_zh": "送货卡车在路边停靠不得超过十分钟。",
+     "ex_ja": "配送トラックは縁石沿いに 10 分以内なら停車できる。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：一般认为来自古法语 courbe“弯曲的”（拉丁语 curvus），后用来指路边石和马嚼子的链条（“抑制”义由此而来）。",
+      "ja": "信頼できる語根分解はない：古フランス語 courbe「曲がった」（ラテン語 curvus）からとされ、縁石や馬のくつわ鎖（「抑制」の意味）を指すようになった。"
+     },
+     "forms": [
+      [
+       "curb spending",
+       "抑制开支",
+       "支出を抑える"
+      ],
+      [
+       "curbside pickup",
+       "路边取货",
+       "店頭受け取り（車で）"
+      ]
+     ],
+     "tip": {
+      "zh": "curb 作动词 = 抑制（≈ restrain）；英式拼写 kerb（路缘）。",
+      "ja": "動詞 curb＝抑える（≈ restrain）。英式つづりは kerb（縁石）。"
+     }
+    },
+    {
+     "w": "driveway",
+     "pos": "n.",
+     "ipa": "/ˈdraɪvˌweɪ/",
+     "zh": "私人车道；车道",
+     "ja": "私道；車寄せ",
+     "ex": "Please do not block the driveway when you drop off packages.",
+     "ex_zh": "送包裹时请不要挡住车道。",
+     "ex_ja": "荷物を届ける際は私道をふさがないでください。",
+     "parts": [
+      [
+       "drive",
+       "驾驶",
+       "運転する"
+      ],
+      [
+       "way",
+       "路",
+       "道"
+      ]
+     ],
+     "note": {
+      "zh": "本族词合成：drive（驾驶）+ way（路）。",
+      "ja": "英語本来の複合語：drive（運転する）＋way（道）。"
+     },
+     "forms": [
+      [
+       "block the driveway",
+       "挡住车道",
+       "私道をふさぐ"
+      ],
+      [
+       "pull into the driveway",
+       "把车开进车道",
+       "私道に車を入れる"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1：A car is parked in a driveway.",
+      "ja": "Part 1：A car is parked in a driveway."
+     }
+    },
+    {
+     "w": "pavement",
+     "pos": "n.",
+     "ipa": "/ˈpeɪvmənt/",
+     "zh": "路面；铺设的地面；人行道（英）",
+     "ja": "舗装路面；舗道；歩道（英）",
+     "ex": "Workers are repairing cracks in the pavement near the main entrance.",
+     "ex_zh": "工人正在修补正门附近路面的裂缝。",
+     "ex_ja": "作業員が正面入口付近の舗装のひび割れを補修している。",
+     "parts": [
+      [
+       "pave",
+       "铺（拉丁语 pavire“夯实”）",
+       "舗装する（ラテン語 pavire「突き固める」）"
+      ],
+      [
+       "-ment",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 pavement，来自拉丁语 pavimentum“夯实的地面”（pavire“夯实”）。",
+      "ja": "古フランス語 pavement、ラテン語 pavimentum「突き固めた床」（pavire「突き固める」）から。"
+     },
+     "forms": [
+      [
+       "pave (v.)",
+       "铺路",
+       "舗装する"
+      ],
+      [
+       "sidewalk (n.)",
+       "人行道（美）",
+       "歩道（米）"
+      ]
+     ],
+     "tip": {
+      "zh": "美式 pavement 多指“路面”，英式指“人行道”（美式 sidewalk）。",
+      "ja": "米では pavement は「路面」、英では「歩道」（米 sidewalk）。"
+     }
+    },
+    {
+     "w": "barrier",
+     "pos": "n.",
+     "ipa": "/ˈbæriɚ/",
+     "zh": "栅栏；路障；障碍",
+     "ja": "遮断機；柵；障壁",
+     "ex": "The barrier at the exit will lift once you insert your parking ticket.",
+     "ex_zh": "插入停车票后，出口的栏杆就会抬起。",
+     "ex_ja": "駐車券を入れると出口のゲートバーが上がる。",
+     "parts": [
+      [
+       "barr",
+       "栏杆",
+       "横木"
+      ],
+      [
+       "-ier",
+       "名词后缀",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 barriere，来自 barre“棒、栏杆”。",
+      "ja": "古フランス語 barriere、barre「棒・横木」から。"
+     },
+     "forms": [
+      [
+       "language barrier",
+       "语言障碍",
+       "言葉の壁"
+      ],
+      [
+       "barrier-free",
+       "无障碍的",
+       "バリアフリーの"
+      ]
+     ]
+    },
+    {
+     "w": "meter",
+     "pos": "n./v.",
+     "ipa": "/ˈmitɚ/",
+     "zh": "计量表；米；用仪表计量",
+     "ja": "メーター；メートル；計量する",
+     "ex": "Visitors who park on the street must pay at the meter.",
+     "ex_zh": "在路边停车的来访者必须在咪表处付费。",
+     "ex_ja": "路上駐車する来訪者はパーキングメーターで料金を払わなければならない。",
+     "parts": [
+      [
+       "meter",
+       "测量（希腊语 metron）",
+       "測る（ギリシャ語 metron）"
+      ]
+     ],
+     "note": {
+      "zh": "经法语来自希腊语 metron“尺度、量度”。",
+      "ja": "フランス語経由でギリシャ語 metron「尺度」から。"
+     },
+     "forms": [
+      [
+       "parking meter",
+       "停车咪表",
+       "パーキングメーター"
+      ],
+      [
+       "metered parking",
+       "计时收费停车",
+       "時間制有料駐車"
+      ]
+     ]
+    },
+    {
+     "w": "validation",
+     "pos": "n.",
+     "ipa": "/ˌvæləˈdeɪʃən/",
+     "zh": "验证；确认；（停车票）盖章认证",
+     "ja": "検証；確認；（駐車券の）認証",
+     "ex": "Bring your ticket to the front desk for parking validation.",
+     "ex_zh": "请把停车票拿到前台盖章认证（可免费或优惠停车）。",
+     "ex_ja": "駐車券を受付に持ってきて認証を受けてください。",
+     "parts": [
+      [
+       "val",
+       "强；有效（valere）",
+       "強い；有効（valere）"
+      ],
+      [
+       "-id",
+       "形容词词尾",
+       "形容詞語尾"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "validate + -ion；valid 来自拉丁语 validus“强有力的”（valere，Day 10 词根 -val-）。",
+      "ja": "validate＋-ion。valid はラテン語 validus「力強い」（valere、Day 10 の語根 -val-）から。"
+     },
+     "forms": [
+      [
+       "validate (v.)",
+       "验证；盖章认证（已学）",
+       "検証する；認証する（既習）"
+      ],
+      [
+       "data validation",
+       "数据校验",
+       "データ検証"
+      ]
+     ],
+     "tip": {
+      "zh": "停车场 validation = 店家或公司盖章后停车免费 / 打折。",
+      "ja": "駐車の validation＝店や会社で認証を受けると無料・割引になる仕組み。"
+     }
+    },
+    {
+     "w": "swipe",
+     "pos": "v./n.",
+     "ipa": "/swaɪp/",
+     "zh": "刷（卡）；滑动",
+     "ja": "（カードを）通す；スワイプする",
+     "ex": "Employees must swipe their ID cards to enter the building after 7 p.m.",
+     "ex_zh": "晚上 7 点后，员工必须刷工作证才能进入大楼。",
+     "ex_ja": "午後 7 時以降は、社員は ID カードをかざして入館しなければならない。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：可能是 sweep“扫”的变体，来源不确定。",
+      "ja": "信頼できる語根分解はない：sweep「掃く」の変形とも言われるが、確かではない。"
+     },
+     "forms": [
+      [
+       "swipe card",
+       "刷卡门禁卡",
+       "カードキー"
+      ],
+      [
+       "swipe left / right",
+       "向左 / 右滑动",
+       "左／右にスワイプする"
+      ]
+     ]
+    },
+    {
+     "w": "intercom",
+     "pos": "n.",
+     "ipa": "/ˈɪntɚˌkɑm/",
+     "zh": "对讲机；内部通话系统",
+     "ja": "インターホン；内部通話装置",
+     "ex": "Visitors should press the button on the intercom and wait for reception to open the door.",
+     "ex_zh": "来访者应按下对讲机按钮，等待前台开门。",
+     "ex_ja": "来訪者はインターホンのボタンを押し、受付がドアを開けるのを待ってください。",
+     "parts": [
+      [
+       "inter-",
+       "之间",
+       "間"
+      ],
+      [
+       "com",
+       "= communication 的缩写",
+       "communication の短縮"
+      ]
+     ],
+     "note": {
+      "zh": "intercommunication“相互通信”的缩写。",
+      "ja": "intercommunication「相互通信」の短縮形。"
+     },
+     "forms": [
+      [
+       "over the intercom",
+       "通过对讲机 / 广播",
+       "インターホン越しに"
+      ],
+      [
+       "intercom system",
+       "对讲系统",
+       "インターホン設備"
+      ]
+     ]
+    },
+    {
+     "w": "lanyard",
+     "pos": "n.",
+     "ipa": "/ˈlænjɚd/",
+     "zh": "挂绳；证件挂带",
+     "ja": "ネックストラップ",
+     "ex": "Please wear your visitor badge on a lanyard at all times.",
+     "ex_zh": "请始终用挂绳佩戴访客证。",
+     "ex_ja": "来訪者証は常にネックストラップで身につけてください。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：经古法语 laniere“皮带”而来，更早来源不明。",
+      "ja": "信頼できる語根分解はない：古フランス語 laniere「革ひも」経由で、それ以前は不明。"
+     },
+     "forms": [
+      [
+       "ID lanyard",
+       "证件挂绳",
+       "社員証ストラップ"
+      ],
+      [
+       "badge holder",
+       "证件套",
+       "名札ホルダー"
+      ]
+     ]
+    },
+    {
+     "w": "stairwell",
+     "pos": "n.",
+     "ipa": "/ˈstɛrˌwɛl/",
+     "zh": "楼梯井；楼梯间",
+     "ja": "階段室；階段の吹き抜け",
+     "ex": "In case of fire, use the stairwell instead of the elevator.",
+     "ex_zh": "发生火灾时，请走楼梯间，不要乘电梯。",
+     "ex_ja": "火災の際はエレベーターではなく階段を使ってください。",
+     "parts": [
+      [
+       "stair",
+       "楼梯",
+       "階段"
+      ],
+      [
+       "well",
+       "井；竖井",
+       "井戸；吹き抜け"
+      ]
+     ],
+     "note": {
+      "zh": "本族词合成：stair（楼梯）+ well（井，竖井状空间）。",
+      "ja": "英語本来の複合語：stair（階段）＋well（井戸状の吹き抜け）。"
+     },
+     "forms": [
+      [
+       "staircase / stairway",
+       "楼梯",
+       "階段"
+      ],
+      [
+       "emergency stairwell",
+       "紧急楼梯",
+       "非常階段"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1：Some people are walking down a staircase.",
+      "ja": "Part 1：Some people are walking down a staircase."
+     }
+    },
+    {
+     "w": "restricted",
+     "pos": "adj.",
+     "ipa": "/rɪˈstrɪktɪd/",
+     "zh": "受限制的；限制进入的",
+     "ja": "制限された；立入禁止の",
+     "ex": "Only authorized staff may enter the restricted area on the third floor.",
+     "ex_zh": "只有获授权的员工才可进入三楼的限制区域。",
+     "ex_ja": "3 階の立入制限区域に入れるのは許可された職員のみだ。",
+     "parts": [
+      [
+       "re-",
+       "往回",
+       "後ろへ"
+      ],
+      [
+       "strict",
+       "拉紧（stringere）",
+       "締める（stringere）"
+      ],
+      [
+       "-ed",
+       "形容词词尾",
+       "形容詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "restrict 来自拉丁语 restrictus（restringere“往回拉紧”的过去分词），Day 21 词根 -strict-。",
+      "ja": "restrict はラテン語 restrictus（restringere「引き締める」の過去分詞）から。Day 21 の語根 -strict-。"
+     },
+     "forms": [
+      [
+       "restricted area",
+       "限制区域",
+       "立入制限区域"
+      ],
+      [
+       "restriction (n.)",
+       "限制",
+       "制限"
+      ]
+     ],
+     "tip": {
+      "zh": "restricted to ~ = 仅限于……：Access is restricted to employees.",
+      "ja": "restricted to ~＝〜に限られる：Access is restricted to employees."
+     }
+    },
+    {
+     "w": "credential",
+     "pos": "n.",
+     "ipa": "/krɪˈdɛnʃəl/",
+     "zh": "证件；资格证明；（登录）凭证",
+     "ja": "資格証明；身分証；認証情報",
+     "ex": "Contractors must show their credentials to the security guard before entering the site.",
+     "ex_zh": "承包商进入现场前必须向保安出示证件。",
+     "ex_ja": "業者は現場に入る前に警備員に身分証明書を提示しなければならない。",
+     "parts": [
+      [
+       "cred",
+       "相信（credere）",
+       "信じる（credere）"
+      ],
+      [
+       "-ent",
+       "形容词词尾",
+       "形容詞語尾"
+      ],
+      [
+       "-ial",
+       "形容词 / 名词后缀",
+       "形容詞・名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "中世纪拉丁语 credentialis，来自 credentia“信任”（credere“相信”，Day 13 词根 -cred-）。",
+      "ja": "中世ラテン語 credentialis、credentia「信頼」（credere「信じる」、Day 13 の語根 -cred-）から。"
+     },
+     "forms": [
+      [
+       "login credentials",
+       "登录信息（账号 / 密码）",
+       "ログイン情報"
+      ],
+      [
+       "academic credentials",
+       "学历证明",
+       "学歴"
+      ]
+     ],
+     "tip": {
+      "zh": "多用复数 credentials；招聘广告里指“资历、资格”。",
+      "ja": "通常は複数形 credentials。求人では「経歴・資格」の意。"
+     }
+    }
+   ]
+  }
+ ]
+}

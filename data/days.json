@@ -375,5 +375,18 @@
    "-simil- / -simul- / -sembl-",
    "-hab- / -hib-"
   ]
+ },
+ {
+  "day": 30,
+  "date": "2026-11-02",
+  "title_zh": "四大词根 + 包装与标签、停车场与大楼出入",
+  "title_ja": "4つの語根＋包装とラベル、駐車場と入館管理",
+  "words": 60,
+  "roots": [
+   "-claim- / -clam-",
+   "-junct- / -join-",
+   "-pat- / -pass-",
+   "-lat-"
+  ]
  }
 ]
