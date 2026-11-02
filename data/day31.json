@@ -1,0 +1,2635 @@
+{
+ "day": 31,
+ "date": "2026-11-03",
+ "title_zh": "四大词根 + 股东大会与季度财报、家居装修与室内陈设",
+ "title_ja": "4つの語根＋株主総会と四半期決算、住まいの改装とインテリア",
+ "intro_zh": "今天掌握 4 个高频词根（sect·seg 切 / norm 标准 / rat 计算 / chron 时间），再学股东大会与季度财报、家居装修与室内陈设的核心词——强化 Part 5 词性题（profit / profitable / profitability、enormous / enormously、rational / rationale）和固定搭配（in chronological order、vote by proxy、a stake in、at the intersection of、return to normal），易混词（revenue ≠ profit、stake ≠ steak、unanimous 的 un- 是“一”、sect 与 section 不同源），Part 1 场景（a ladder is leaning against the wall、a rug has been rolled up、leaning on a railing），以及 Part 7 的财报与股东大会通知（quarterly earnings、for an undisclosed amount、pass a resolution、reach a quorum）。",
+ "intro_ja": "今日は語根 4 つ（sect・seg 切る／norm 基準／rat 数える／chron 時間）と、株主総会と四半期決算、住まいの改装とインテリアの重要語を学びます。Part 5 の品詞問題（profit / profitable / profitability、enormous / enormously、rational / rationale）と語法（in chronological order、vote by proxy、a stake in、at the intersection of、return to normal）、紛らわしい語（revenue ≠ profit、stake ≠ steak、unanimous の un- は「1」、sect と section は別語源）、Part 1 の場面（a ladder is leaning against the wall、a rug has been rolled up、leaning on a railing）、Part 7 の決算と株主総会のお知らせ（quarterly earnings、for an undisclosed amount、pass a resolution、reach a quorum）を強化します。",
+ "voice": "en-US-AriaNeural",
+ "roots": [
+  {
+   "root": "-sect- / -seg-",
+   "origin": "Latin secare, sectus",
+   "zh": "切",
+   "ja": "切る",
+   "exp_zh": "来自拉丁语 secare（切），过去分词 sectus。切下来的一部分 → section（部分、条款）/ subsection（分项）/ sectional（组合式的）；切割者 → sector（扇形 → 行业）；inter-“之间”→ intersection（路口）；dis-“分开”→ dissect（剖析）；bi-“二”→ bisect（一分为二）；in-“进去”→ insect（身体分节的虫）。已学过的 segment（部分、细分市场）也是 secare 的另一种形式。⚠️ sect（宗派）来自 sequi“跟随”，second 也来自 sequi，与“切”无关。",
+   "exp_ja": "ラテン語 secare（切る）、過去分詞 sectus から。切り取った部分 → section（部分・条項）／subsection（細目）／sectional（組み立て式の）。切る者 → sector（扇形 → 業界）。inter-「間」→ intersection（交差点）、dis-「離して」→ dissect（分析する）、bi-「2」→ bisect（二分する）、in-「中へ」→ insect（体に節がある虫）。既習の segment（部分・市場区分）も secare の別形。⚠️ sect（宗派）や second は sequi「従う」由来で「切る」とは無関係。",
+   "examples": [
+    "section",
+    "sector",
+    "intersection",
+    "dissect",
+    "bisect",
+    "sectional",
+    "subsection",
+    "insect"
+   ]
+  },
+  {
+   "root": "-norm-",
+   "origin": "Latin norma",
+   "zh": "规矩；标准",
+   "ja": "定規；基準",
+   "exp_zh": "来自拉丁语 norma（木匠的直角尺）→ 标准。norm（常态）/ normal（正常的）/ normally / normalize（正常化）；ab-“偏离”→ abnormal（异常的）/ abnormality；e-“超出”→ enormous（大得出格 → 巨大的）/ enormously。想象“尺子量得出来的就是 normal，超出尺子的就是 enormous”。⚠️ north（北）、nor（也不）与 norma 无关。",
+   "exp_ja": "ラテン語 norma（大工の直角定規）→ 基準。norm（標準・当たり前）／normal（正常な）／normally／normalize（正常化する）。ab-「外れて」→ abnormal（異常な）／abnormality。e-「外へ」→ enormous（基準外に大きい → 巨大な）／enormously。「定規で測れるのが normal、定規をはみ出すのが enormous」と覚えよう。⚠️ north（北）、nor は norma と無関係。",
+   "examples": [
+    "norm",
+    "normal",
+    "normally",
+    "normalize",
+    "abnormal",
+    "abnormality",
+    "enormous",
+    "enormously"
+   ]
+  },
+  {
+   "root": "-rat-",
+   "origin": "Latin reri, ratus",
+   "zh": "计算；确定",
+   "ja": "数える；定める",
+   "exp_zh": "来自拉丁语 reri（计算、认为），过去分词 ratus“计算过的、确定的”。名词 ratio（计算；理性）→ ratio（比例）/ rational（理性的）/ rationale（理由）/ irrational；pro rata“按比例”→ rate（比率、费用）/ rating（评分）/ prorated（按比例计算的）；ratus + facere“做”→ ratify（使确定 → 批准）。英语里的 reason（理由）也经法语来自 ratio。⚠️ rat（老鼠）、rather（宁可）都是本族词，与 reri 无关。发音注意 rate /reɪt/ 而 rational /ˈræʃ-/。",
+   "exp_ja": "ラテン語 reri（数える・考える）、過去分詞 ratus「算定された・確定した」から。名詞 ratio（計算・理性）→ ratio（比率）／rational（合理的な）／rationale（根拠）／irrational。pro rata「割合に応じて」→ rate（率・料金）／rating（評価）／prorated（按分した）。ratus＋facere「する」→ ratify（確定させる → 承認する）。reason（理由）もフランス語経由で ratio から。⚠️ rat（ネズミ）、rather は本来語で無関係。発音は rate /reɪt/、rational /ˈræʃ-/ に注意。",
+   "examples": [
+    "rate",
+    "ratio",
+    "rational",
+    "rationale",
+    "irrational",
+    "rating",
+    "prorated",
+    "ratify"
+   ]
+  },
+  {
+   "root": "-chron-",
+   "origin": "Greek chronos",
+   "zh": "时间",
+   "ja": "時間",
+   "exp_zh": "来自希腊语 chronos（时间）。chronic（长期的、慢性的）/ chronically；chronicle（编年史、记述）；+ logos“记述”→ chronology（年表）/ chronological（按时间顺序的）；syn-“一起”→ synchronize（同步）/ synchronous（同步的）；a-“不”→ asynchronous（非同步的，远程办公常用）。ch 读 /k/，和 character、technology 一样。⚠️ chrome（铬、Chrome 浏览器）来自希腊语 chroma“颜色”，与时间无关。",
+   "exp_ja": "ギリシャ語 chronos（時間）から。chronic（慢性的な）／chronically。chronicle（年代記・記録する）。＋logos「記述」→ chronology（年表）／chronological（年代順の）。syn-「共に」→ synchronize（同期させる）／synchronous（同期の）。a-「否定」→ asynchronous（非同期の。リモートワークで頻出）。ch は /k/（character、technology と同じ）。⚠️ chrome（クロム・ブラウザ名）はギリシャ語 chroma「色」で時間とは無関係。",
+   "examples": [
+    "chronic",
+    "chronically",
+    "chronicle",
+    "chronological",
+    "chronology",
+    "synchronize",
+    "synchronous",
+    "asynchronous"
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "sect",
+   "title_zh": "词根 -sect- / -seg-：切",
+   "title_ja": "語根 -sect- / -seg-：切る",
+   "words": [
+    {
+     "w": "section",
+     "pos": "n.",
+     "ipa": "/ˈsɛkʃən/",
+     "zh": "部分；（报刊）栏目；（组织）科、部门",
+     "ja": "部分；（新聞の）欄；（組織の）課",
+     "ex": "Please read section 4 of the contract carefully before signing it.",
+     "ex_zh": "签字前请仔细阅读合同第 4 条。",
+     "ex_ja": "署名する前に契約書の第 4 項をよくお読みください。",
+     "parts": [
+      [
+       "sect",
+       "切（secare, sectus）",
+       "切る（secare, sectus）"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 sectio“切开、切下的部分”（secare“切”）。",
+      "ja": "ラテン語 sectio「切ること・切り取られた部分」（secare「切る」）。"
+     },
+     "forms": [
+      [
+       "the sports section",
+       "体育版",
+       "スポーツ欄"
+      ],
+      [
+       "section manager",
+       "科长；部门经理",
+       "課長"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7：文件里 section / clause / article 都可指“条款”；报纸的“版面”也是 section。",
+      "ja": "Part 7：文書の section / clause / article は「条項」。新聞の「欄」も section。"
+     }
+    },
+    {
+     "w": "sector",
+     "pos": "n.",
+     "ipa": "/ˈsɛktɚ/",
+     "zh": "（经济）部门；行业；领域",
+     "ja": "（経済の）部門；業界；分野",
+     "ex": "Employment in the technology sector grew by eight percent last year.",
+     "ex_zh": "去年科技行业的就业人数增长了 8%。",
+     "ex_ja": "昨年、テクノロジー部門の雇用は 8% 増加した。",
+     "parts": [
+      [
+       "sect",
+       "切（secare, sectus）",
+       "切る（secare, sectus）"
+      ],
+      [
+       "-or",
+       "表示人或物",
+       "人・物"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 sector 原意“切割者”，后在几何里指“扇形”（从圆上切下的一块），再引申为“经济中的一块 → 部门、行业”。",
+      "ja": "ラテン語 sector は本来「切る人」。幾何学で「扇形」（円から切り取った部分）となり、「経済の一区画 → 部門・業界」に。"
+     },
+     "forms": [
+      [
+       "the private / public sector",
+       "私营 / 公共部门",
+       "民間／公共部門"
+      ],
+      [
+       "the retail sector",
+       "零售业",
+       "小売業界"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7 同义替换：sector ≈ industry / field。",
+      "ja": "Part 7 言い換え：sector ≈ industry / field。"
+     }
+    },
+    {
+     "w": "intersection",
+     "pos": "n.",
+     "ipa": "/ˌɪntɚˈsɛkʃən/",
+     "zh": "十字路口；交叉点",
+     "ja": "交差点；交わるところ",
+     "ex": "The new branch is located at the intersection of Oak Street and Third Avenue.",
+     "ex_zh": "新分店位于橡树街和第三大道的交叉口。",
+     "ex_ja": "新しい支店はオーク通りと 3 番街の交差点にある。",
+     "parts": [
+      [
+       "inter-",
+       "在……之间",
+       "間に"
+      ],
+      [
+       "sect",
+       "切（secare, sectus）",
+       "切る（secare, sectus）"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 intersectio（inter“之间”+ secare“切”）：两条路互相“切过” → 交叉点。",
+      "ja": "ラテン語 intersectio（inter「間に」＋secare「切る」）：2 本の道が互いを「切る」→ 交差点。"
+     },
+     "forms": [
+      [
+       "at the intersection of A and B",
+       "在 A 和 B 的交叉口",
+       "A と B の交差点で"
+      ],
+      [
+       "intersect (v.)",
+       "相交",
+       "交差する"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 4 路线说明：Turn left at the next intersection.（在下一个路口左转）",
+      "ja": "Part 4 の道案内：Turn left at the next intersection.（次の交差点を左へ）"
+     }
+    },
+    {
+     "w": "dissect",
+     "pos": "v.",
+     "ipa": "/dɪˈsɛkt/",
+     "zh": "解剖；仔细剖析",
+     "ja": "解剖する；詳しく分析する",
+     "ex": "The consultants will dissect last quarter's sales figures to find out why they dropped.",
+     "ex_zh": "顾问们将仔细剖析上季度的销售数据，找出下降的原因。",
+     "ex_ja": "コンサルタントは前四半期の売上を詳しく分析し、落ち込んだ理由を探る。",
+     "parts": [
+      [
+       "dis-",
+       "分开",
+       "離して"
+      ],
+      [
+       "sect",
+       "切（secare, sectus）",
+       "切る（secare, sectus）"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 dissecare“切开”（dis-“分开”+ secare“切”）。",
+      "ja": "ラテン語 dissecare「切り分ける」（dis-「離して」＋secare「切る」）。"
+     },
+     "forms": [
+      [
+       "dissect a report",
+       "逐项分析报告",
+       "報告書を細かく分析する"
+      ],
+      [
+       "dissection (n.)",
+       "解剖；剖析",
+       "解剖；分析"
+      ]
+     ],
+     "tip": {
+      "zh": "⚠️ 拼写是 dissect（两个 s：dis + sect），不是 *disect。",
+      "ja": "⚠️ つづりは dissect（dis＋sect で s が 2 つ）。*disect ではない。"
+     }
+    },
+    {
+     "w": "bisect",
+     "pos": "v.",
+     "ipa": "/ˈbaɪˌsɛkt/",
+     "zh": "把……一分为二；横穿",
+     "ja": "二等分する；横切る",
+     "ex": "A busy highway bisects the industrial park, so shuttle buses connect the two halves.",
+     "ex_zh": "一条繁忙的公路把工业园区一分为二，因此有班车连接两边。",
+     "ex_ja": "交通量の多い幹線道路が工業団地を二分しているため、シャトルバスが両側を結んでいる。",
+     "parts": [
+      [
+       "bi-",
+       "二",
+       "2つの"
+      ],
+      [
+       "sect",
+       "切（secare, sectus）",
+       "切る（secare, sectus）"
+      ]
+     ],
+     "note": {
+      "zh": "现代拉丁语 bisectus（bi-“二”+ secare“切”）。",
+      "ja": "近代ラテン語 bisectus（bi-「2」＋secare「切る」）。"
+     },
+     "forms": [
+      [
+       "be bisected by ~",
+       "被……一分为二",
+       "〜によって二分される"
+      ],
+      [
+       "bisection (n.)",
+       "二等分",
+       "二等分"
+      ]
+     ]
+    },
+    {
+     "w": "sectional",
+     "pos": "adj./n.",
+     "ipa": "/ˈsɛkʃənəl/",
+     "zh": "分段的；组合式的；组合沙发",
+     "ja": "区分の；組み立て式の；組み合わせソファ",
+     "ex": "The lobby will be furnished with a large sectional sofa that can be rearranged easily.",
+     "ex_zh": "大堂将摆放一套可以轻松重新组合的大型组合沙发。",
+     "ex_ja": "ロビーには並べ替えが簡単な大型の組み合わせソファが置かれる。",
+     "parts": [
+      [
+       "sect",
+       "切（secare, sectus）",
+       "切る（secare, sectus）"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ],
+      [
+       "-al",
+       "……的",
+       "〜の"
+      ]
+     ],
+     "note": {
+      "zh": "section + -al“……的”：由一段段组成的。",
+      "ja": "section＋-al「〜の」：いくつかの部分から成る。"
+     },
+     "forms": [
+      [
+       "sectional sofa",
+       "组合沙发",
+       "ユニットソファ"
+      ],
+      [
+       "sectional view",
+       "剖面图",
+       "断面図"
+      ]
+     ],
+     "tip": {
+      "zh": "家具广告里 a sectional 单独用就指“组合沙发”。",
+      "ja": "家具の広告では a sectional だけで「組み合わせソファ」を指す。"
+     }
+    },
+    {
+     "w": "subsection",
+     "pos": "n.",
+     "ipa": "/ˈsʌbˌsɛkʃən/",
+     "zh": "（条款的）分项；小节",
+     "ja": "（条項の）細目；小節",
+     "ex": "Refund conditions are explained in subsection 2.3 of the user agreement.",
+     "ex_zh": "退款条件在用户协议第 2.3 小节中有说明。",
+     "ex_ja": "返金条件は利用規約の第 2.3 項に説明されている。",
+     "parts": [
+      [
+       "sub-",
+       "下；次一级",
+       "下位の"
+      ],
+      [
+       "sect",
+       "切（secare, sectus）",
+       "切る（secare, sectus）"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "sub-“下面、次一级”+ section。",
+      "ja": "sub-「下の・下位の」＋section。"
+     },
+     "forms": [
+      [
+       "under subsection B",
+       "根据 B 项",
+       "B 項に基づき"
+      ],
+      [
+       "subheading (n.)",
+       "小标题",
+       "小見出し"
+      ]
+     ]
+    },
+    {
+     "w": "insect",
+     "pos": "n.",
+     "ipa": "/ˈɪnˌsɛkt/",
+     "zh": "昆虫",
+     "ja": "昆虫",
+     "ex": "Guests hiking the trail are advised to bring insect repellent.",
+     "ex_zh": "建议走这条步道的游客携带驱虫剂。",
+     "ex_ja": "この遊歩道を歩く来訪者は虫よけを持参するよう勧められている。",
+     "parts": [
+      [
+       "in-",
+       "进入",
+       "中へ"
+      ],
+      [
+       "sect",
+       "切（secare, sectus）",
+       "切る（secare, sectus）"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 insectum“切进去的（东西）”（in- + secare），指身体一节一节分段；是希腊语 entomon（同样意为“切开的”）的仿译。",
+      "ja": "ラテン語 insectum「切れ込みの入ったもの」（in-＋secare）。体が節に分かれていることから。ギリシャ語 entomon（同じく「切られた」）の訳語。"
+     },
+     "forms": [
+      [
+       "insect repellent",
+       "驱虫剂",
+       "虫よけ剤"
+      ],
+      [
+       "insect bite",
+       "虫咬",
+       "虫刺され"
+      ]
+     ],
+     "tip": {
+      "zh": "旅游、户外活动通知里常见 insect repellent / sunscreen。",
+      "ja": "観光・アウトドアのお知らせで insect repellent / sunscreen がよく出る。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "norm",
+   "title_zh": "词根 -norm-：规矩；标准",
+   "title_ja": "語根 -norm-：定規；基準",
+   "words": [
+    {
+     "w": "norm",
+     "pos": "n.",
+     "ipa": "/nɔrm/",
+     "zh": "常态；惯例；标准",
+     "ja": "標準；当たり前のこと；規範",
+     "ex": "Flexible working hours have become the norm at many software companies.",
+     "ex_zh": "弹性工作时间已在许多软件公司成为常态。",
+     "ex_ja": "多くのソフトウェア企業では、フレックスタイムが当たり前になっている。",
+     "parts": [
+      [
+       "norm",
+       "规矩；标准（norma）",
+       "定規；基準（norma）"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 norma“木匠用的直角尺”→ 标准、规矩。",
+      "ja": "ラテン語 norma「大工の直角定規」→ 基準・規範。"
+     },
+     "forms": [
+      [
+       "become the norm",
+       "成为常态",
+       "当たり前になる"
+      ],
+      [
+       "social norms",
+       "社会规范",
+       "社会規範"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7 同义替换：the norm ≈ common / standard practice。",
+      "ja": "Part 7 言い換え：the norm ≈ common / standard practice。"
+     }
+    },
+    {
+     "w": "normal",
+     "pos": "adj.",
+     "ipa": "/ˈnɔrməl/",
+     "zh": "正常的；通常的",
+     "ja": "通常の；正常な",
+     "ex": "Our customer service center will return to normal hours on Monday.",
+     "ex_zh": "我们的客服中心将于周一恢复正常营业时间。",
+     "ex_ja": "カスタマーセンターは月曜日から通常の営業時間に戻る。",
+     "parts": [
+      [
+       "norm",
+       "规矩；标准（norma）",
+       "定規；基準（norma）"
+      ],
+      [
+       "-al",
+       "……的",
+       "〜の"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 normalis“按直角尺做的”→ 合乎标准的 → 正常的。",
+      "ja": "ラテン語 normalis「直角定規どおりの」→ 基準に合う → 正常な。"
+     },
+     "forms": [
+      [
+       "return to normal",
+       "恢复正常",
+       "平常に戻る"
+      ],
+      [
+       "normal business hours",
+       "正常营业时间",
+       "通常営業時間"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 4：Operations will return to normal once repairs are complete. 是维修通知常见句。",
+      "ja": "Part 4：Operations will return to normal once repairs are complete. は修理のお知らせの定番。"
+     }
+    },
+    {
+     "w": "normally",
+     "pos": "adv.",
+     "ipa": "/ˈnɔrməli/",
+     "zh": "通常；一般；正常地",
+     "ja": "通常は；普段は；正常に",
+     "ex": "The shuttle bus normally leaves every fifteen minutes, but service is reduced on holidays.",
+     "ex_zh": "班车通常每十五分钟一班，但节假日班次减少。",
+     "ex_ja": "シャトルバスは通常 15 分おきに出るが、祝日は本数が減る。",
+     "parts": [
+      [
+       "norm",
+       "规矩；标准（norma）",
+       "定規；基準（norma）"
+      ],
+      [
+       "-al",
+       "……的",
+       "〜の"
+      ],
+      [
+       "-ly",
+       "副词后缀",
+       "副詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "normal + -ly。",
+      "ja": "normal＋-ly。"
+     },
+     "forms": [
+      [
+       "normally take ~ days",
+       "通常需要……天",
+       "通常〜日かかる"
+      ],
+      [
+       "usually (adv.)",
+       "通常",
+       "たいてい"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5：副词位置题——normally 放在一般动词前、be 动词后。",
+      "ja": "Part 5：副詞の位置——normally は一般動詞の前、be 動詞の後。"
+     }
+    },
+    {
+     "w": "normalize",
+     "pos": "v.",
+     "ipa": "/ˈnɔrməˌlaɪz/",
+     "zh": "使正常化；使标准化",
+     "ja": "正常化する；標準化する",
+     "ex": "The company hopes to normalize delivery times after the new warehouse opens.",
+     "ex_zh": "公司希望在新仓库启用后让配送时间恢复正常。",
+     "ex_ja": "同社は新倉庫の稼働後、配送日数を正常化したいと考えている。",
+     "parts": [
+      [
+       "norm",
+       "规矩；标准（norma）",
+       "定規；基準（norma）"
+      ],
+      [
+       "-al",
+       "……的",
+       "〜の"
+      ],
+      [
+       "-ize",
+       "使……化",
+       "〜化する"
+      ]
+     ],
+     "note": {
+      "zh": "normal + -ize“使……化”。",
+      "ja": "normal＋-ize「〜化する」。"
+     },
+     "forms": [
+      [
+       "normalization (n.)",
+       "正常化；标准化",
+       "正常化；標準化"
+      ],
+      [
+       "normalize relations",
+       "使关系正常化",
+       "関係を正常化する"
+      ]
+     ]
+    },
+    {
+     "w": "abnormal",
+     "pos": "adj.",
+     "ipa": "/æbˈnɔrməl/",
+     "zh": "异常的；反常的",
+     "ja": "異常な",
+     "ex": "Technicians found abnormal vibrations in one of the production machines.",
+     "ex_zh": "技术人员在一台生产机器上发现了异常震动。",
+     "ex_ja": "技術者が生産機械の 1 台で異常な振動を見つけた。",
+     "parts": [
+      [
+       "ab-",
+       "离开",
+       "離れて"
+      ],
+      [
+       "norm",
+       "规矩；标准（norma）",
+       "定規；基準（norma）"
+      ],
+      [
+       "-al",
+       "……的",
+       "〜の"
+      ]
+     ],
+     "note": {
+      "zh": "源自法语 anormal（希腊语否定 a- + normal），后被拉丁语 abnormis（ab-“离开”+ norma）改了拼写 → 偏离标准的。",
+      "ja": "フランス語 anormal（ギリシャ語の否定 a-＋normal）が、ラテン語 abnormis（ab-「離れて」＋norma）の影響でつづりが変わった → 基準から外れた。"
+     },
+     "forms": [
+      [
+       "abnormally (adv.)",
+       "异常地",
+       "異常に"
+      ],
+      [
+       "abnormally high",
+       "异常地高",
+       "異常に高い"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7 设备报告：abnormal noise / readings（异常噪音 / 读数）。",
+      "ja": "Part 7 の設備報告：abnormal noise / readings（異常音・異常値）。"
+     }
+    },
+    {
+     "w": "abnormality",
+     "pos": "n.",
+     "ipa": "/ˌæbnɔrˈmæləti/",
+     "zh": "异常；异常现象",
+     "ja": "異常；異常な点",
+     "ex": "The inspection did not reveal any abnormality in the building's electrical system.",
+     "ex_zh": "检查没有发现大楼电力系统有任何异常。",
+     "ex_ja": "点検では建物の電気系統に異常は見つからなかった。",
+     "parts": [
+      [
+       "ab-",
+       "离开",
+       "離れて"
+      ],
+      [
+       "norm",
+       "规矩；标准（norma）",
+       "定規；基準（norma）"
+      ],
+      [
+       "-al",
+       "……的",
+       "〜の"
+      ],
+      [
+       "-ity",
+       "表示性质、状态",
+       "性質・状態"
+      ]
+     ],
+     "note": {
+      "zh": "abnormal + -ity（名词后缀）。",
+      "ja": "abnormal＋-ity（名詞を作る）。"
+     },
+     "forms": [
+      [
+       "detect an abnormality",
+       "发现异常",
+       "異常を検知する"
+      ],
+      [
+       "irregularity (n.)",
+       "不规则；异常",
+       "不規則；不正"
+      ]
+     ]
+    },
+    {
+     "w": "enormous",
+     "pos": "adj.",
+     "ipa": "/ɪˈnɔrməs/",
+     "zh": "巨大的；庞大的",
+     "ja": "巨大な；莫大な",
+     "ex": "Launching the online store required an enormous amount of planning.",
+     "ex_zh": "开设网店需要大量的筹划工作。",
+     "ex_ja": "オンラインストアの立ち上げには膨大な計画作業が必要だった。",
+     "parts": [
+      [
+       "e-",
+       "出；超出",
+       "外へ"
+      ],
+      [
+       "norm",
+       "规矩；标准（norma）",
+       "定規；基準（norma）"
+      ],
+      [
+       "-ous",
+       "……的",
+       "〜な"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 enormis“超出规矩的”（e-“出”+ norma“标准”）→ 大得出格 → 巨大的。",
+      "ja": "ラテン語 enormis「基準を外れた」（e-「外へ」＋norma「基準」）→ 並外れて大きい。"
+     },
+     "forms": [
+      [
+       "an enormous amount of ~",
+       "大量的……",
+       "膨大な量の〜"
+      ],
+      [
+       "huge / immense (adj.)",
+       "巨大的",
+       "巨大な"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7 同义替换：enormous ≈ huge / tremendous / considerable。",
+      "ja": "Part 7 言い換え：enormous ≈ huge / tremendous / considerable。"
+     }
+    },
+    {
+     "w": "enormously",
+     "pos": "adv.",
+     "ipa": "/ɪˈnɔrməsli/",
+     "zh": "极其；非常",
+     "ja": "非常に；とても",
+     "ex": "The training workshop was enormously helpful for our new sales staff.",
+     "ex_zh": "这次培训研讨会对我们的新销售人员非常有帮助。",
+     "ex_ja": "その研修は新しい営業スタッフにとって非常に役立った。",
+     "parts": [
+      [
+       "e-",
+       "出；超出",
+       "外へ"
+      ],
+      [
+       "norm",
+       "规矩；标准（norma）",
+       "定規；基準（norma）"
+      ],
+      [
+       "-ous",
+       "……的",
+       "〜な"
+      ],
+      [
+       "-ly",
+       "副词后缀",
+       "副詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "enormous + -ly。",
+      "ja": "enormous＋-ly。"
+     },
+     "forms": [
+      [
+       "enormously popular",
+       "极受欢迎",
+       "非常に人気がある"
+      ],
+      [
+       "tremendously (adv.)",
+       "极其",
+       "ものすごく"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5：形容词前放副词 → enormously helpful，不能填 enormous。",
+      "ja": "Part 5：形容詞の前は副詞 → enormously helpful（enormous は不可）。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "rat",
+   "title_zh": "词根 -rat-：计算；确定",
+   "title_ja": "語根 -rat-：数える；定める",
+   "words": [
+    {
+     "w": "rate",
+     "pos": "n./v.",
+     "ipa": "/reɪt/",
+     "zh": "比率；费用；速度；评价",
+     "ja": "率；料金；速度；評価する",
+     "ex": "The hotel offers a discounted rate for guests who stay more than five nights.",
+     "ex_zh": "酒店为住满五晚以上的客人提供折扣价。",
+     "ex_ja": "そのホテルは 5 泊以上の宿泊客に割引料金を提供している。",
+     "parts": [
+      [
+       "rat",
+       "计算；确定（reri, ratus）",
+       "数える；定める（reri, ratus）"
+      ]
+     ],
+     "note": {
+      "zh": "中世拉丁语 rata，来自 pro rata parte“按计算好的份额”（ratus“计算过的、确定的”）。",
+      "ja": "中世ラテン語 rata。pro rata parte「算定された割合で」から（ratus「数えられた・定められた」）。"
+     },
+     "forms": [
+      [
+       "at a rate of ~",
+       "以……的速度 / 比率",
+       "〜の割合で"
+      ],
+      [
+       "interest / exchange rate",
+       "利率 / 汇率",
+       "金利／為替レート"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5：at a reduced rate、room rates、be highly rated。",
+      "ja": "Part 5：at a reduced rate、room rates、be highly rated。"
+     }
+    },
+    {
+     "w": "ratio",
+     "pos": "n.",
+     "ipa": "/ˈreɪʃoʊ/",
+     "zh": "比例；比率",
+     "ja": "比率；割合",
+     "ex": "The school maintains a student-to-teacher ratio of fifteen to one.",
+     "ex_zh": "这所学校保持 15 比 1 的师生比例。",
+     "ex_ja": "その学校は生徒と教員の比率を 15 対 1 に保っている。",
+     "parts": [
+      [
+       "rat",
+       "计算；确定（reri, ratus）",
+       "数える；定める（reri, ratus）"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 ratio“计算；理性”（reri“计算”）。",
+      "ja": "ラテン語 ratio「計算；理性」（reri「数える」）。"
+     },
+     "forms": [
+      [
+       "a ratio of A to B",
+       "A 比 B 的比例",
+       "A 対 B の比率"
+      ],
+      [
+       "proportion (n.)",
+       "比例",
+       "割合"
+      ]
+     ]
+    },
+    {
+     "w": "rational",
+     "pos": "adj.",
+     "ipa": "/ˈræʃənəl/",
+     "zh": "理性的；合理的",
+     "ja": "合理的な；理性的な",
+     "ex": "We need a rational plan for reducing costs, not a quick fix.",
+     "ex_zh": "我们需要一个合理的削减成本计划，而不是权宜之计。",
+     "ex_ja": "必要なのはその場しのぎではなく、合理的なコスト削減計画だ。",
+     "parts": [
+      [
+       "rat",
+       "计算；确定（reri, ratus）",
+       "数える；定める（reri, ratus）"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ],
+      [
+       "-al",
+       "……的",
+       "〜の"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 rationalis“有理性的”（ratio“计算；理性”）。",
+      "ja": "ラテン語 rationalis「理性のある」（ratio「計算；理性」）。"
+     },
+     "forms": [
+      [
+       "a rational decision",
+       "理性的决定",
+       "合理的な判断"
+      ],
+      [
+       "rationally (adv.)",
+       "理性地",
+       "合理的に"
+      ]
+     ],
+     "tip": {
+      "zh": "⚠️ 读音：rate /reɪt/，但 rational /ˈræʃ-/、ratify /ˈræt-/，元音变了。",
+      "ja": "⚠️ 発音：rate は /reɪt/ だが rational /ˈræʃ-/、ratify /ˈræt-/ で母音が変わる。"
+     }
+    },
+    {
+     "w": "rationale",
+     "pos": "n.",
+     "ipa": "/ˌræʃəˈnæl/",
+     "zh": "（决定背后的）理由；基本原理",
+     "ja": "根拠；理論的根拠",
+     "ex": "The director explained the rationale behind the new hiring policy at the staff meeting.",
+     "ex_zh": "主管在员工会议上解释了新招聘政策背后的理由。",
+     "ex_ja": "部長は職員会議で新しい採用方針の根拠を説明した。",
+     "parts": [
+      [
+       "rat",
+       "计算；确定（reri, ratus）",
+       "数える；定める（reri, ratus）"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ],
+      [
+       "-al",
+       "……的",
+       "〜の"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 rationalis 的中性形式 rationale“合乎道理的（说明）”。",
+      "ja": "ラテン語 rationalis の中性形 rationale「理にかなった（説明）」。"
+     },
+     "forms": [
+      [
+       "the rationale behind / for ~",
+       "……背后的理由",
+       "〜の根拠"
+      ],
+      [
+       "reasoning (n.)",
+       "推理；理由",
+       "論拠"
+      ]
+     ],
+     "tip": {
+      "zh": "⚠️ rationale（名词，重音在最后 -nale）≠ rational（形容词）。",
+      "ja": "⚠️ rationale（名詞・語末に強勢）≠ rational（形容詞）。"
+     }
+    },
+    {
+     "w": "irrational",
+     "pos": "adj.",
+     "ipa": "/ɪˈræʃənəl/",
+     "zh": "不理性的；不合理的",
+     "ja": "不合理な；理性を欠いた",
+     "ex": "Some investors made irrational decisions when the stock price fell suddenly.",
+     "ex_zh": "股价突然下跌时，一些投资者做出了不理性的决定。",
+     "ex_ja": "株価が急落したとき、一部の投資家は不合理な判断をした。",
+     "parts": [
+      [
+       "ir-",
+       "不（in- 在 r 前）",
+       "否定（r の前の in-）"
+      ],
+      [
+       "rat",
+       "计算；确定（reri, ratus）",
+       "数える；定める（reri, ratus）"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ],
+      [
+       "-al",
+       "……的",
+       "〜の"
+      ]
+     ],
+     "note": {
+      "zh": "in-“不”在 r 前同化为 ir- + rational。",
+      "ja": "否定の in- が r の前で ir- に変化＋rational。"
+     },
+     "forms": [
+      [
+       "irrational fear",
+       "莫名的恐惧",
+       "根拠のない恐れ"
+      ],
+      [
+       "irrationally (adv.)",
+       "不理性地",
+       "不合理に"
+      ]
+     ],
+     "tip": {
+      "zh": "拼写：ir + rational → 两个 r。",
+      "ja": "つづり：ir＋rational で r が 2 つ。"
+     }
+    },
+    {
+     "w": "rating",
+     "pos": "n.",
+     "ipa": "/ˈreɪtɪŋ/",
+     "zh": "评分；等级；收视率",
+     "ja": "評価；格付け；視聴率",
+     "ex": "The restaurant has received a five-star rating from several online reviewers.",
+     "ex_zh": "这家餐厅获得了几位网络评论者的五星评价。",
+     "ex_ja": "そのレストランは複数のネット評論家から五つ星の評価を受けている。",
+     "parts": [
+      [
+       "rat",
+       "计算；确定（reri, ratus）",
+       "数える；定める（reri, ratus）"
+      ],
+      [
+       "-ing",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "rate（评价）+ -ing。",
+      "ja": "rate（評価する）＋-ing。"
+     },
+     "forms": [
+      [
+       "customer ratings",
+       "顾客评分",
+       "顧客評価"
+      ],
+      [
+       "highly rated (adj.)",
+       "评价很高的",
+       "評価の高い"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7：网评、问卷图表题常出现 rating / rated。",
+      "ja": "Part 7：口コミ・アンケートの図表で rating / rated が頻出。"
+     }
+    },
+    {
+     "w": "prorated",
+     "pos": "adj.",
+     "ipa": "/proʊˈreɪtɪd/",
+     "zh": "按比例计算的",
+     "ja": "日割り（按分）計算の",
+     "ex": "Employees who join mid-year will receive a prorated share of the annual bonus.",
+     "ex_zh": "年中入职的员工将按比例获得年度奖金。",
+     "ex_ja": "年度途中に入社した社員は、年間賞与を按分した額を受け取る。",
+     "parts": [
+      [
+       "pro-",
+       "按照",
+       "〜に応じて"
+      ],
+      [
+       "rat",
+       "计算；确定（reri, ratus）",
+       "数える；定める（reri, ratus）"
+      ],
+      [
+       "-ed",
+       "形容词词尾",
+       "形容詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "来自拉丁语 pro rata“按（计算好的）比例”。",
+      "ja": "ラテン語 pro rata「（算定された）割合に応じて」から。"
+     },
+     "forms": [
+      [
+       "prorate (v.)",
+       "按比例分配",
+       "按分する"
+      ],
+      [
+       "a prorated refund",
+       "按比例退款",
+       "日割りの返金"
+      ]
+     ],
+     "tip": {
+      "zh": "租赁、会员费通知：the first month's rent will be prorated（首月房租按天计算）。",
+      "ja": "賃貸・会費のお知らせ：the first month's rent will be prorated（初月家賃は日割り）。"
+     }
+    },
+    {
+     "w": "ratify",
+     "pos": "v.",
+     "ipa": "/ˈrætəˌfaɪ/",
+     "zh": "（正式）批准",
+     "ja": "（正式に）承認する；批准する",
+     "ex": "The union members voted to ratify the new labor agreement.",
+     "ex_zh": "工会成员投票批准了新的劳动协议。",
+     "ex_ja": "組合員は新しい労働協約を承認する投票を行った。",
+     "parts": [
+      [
+       "rat",
+       "计算；确定（reri, ratus）",
+       "数える；定める（reri, ratus）"
+      ],
+      [
+       "-ify",
+       "使……",
+       "〜にする"
+      ]
+     ],
+     "note": {
+      "zh": "中世拉丁语 ratificare（ratus“确定的”+ facere“做”）→ 使确定 → 批准。",
+      "ja": "中世ラテン語 ratificare（ratus「確定した」＋facere「する」）→ 確定させる → 承認する。"
+     },
+     "forms": [
+      [
+       "ratification (n.)",
+       "批准",
+       "批准；承認"
+      ],
+      [
+       "approve (v.)",
+       "批准",
+       "承認する"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7 同义替换：ratify ≈ formally approve。",
+      "ja": "Part 7 言い換え：ratify ≈ formally approve。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "chron",
+   "title_zh": "词根 -chron-：时间",
+   "title_ja": "語根 -chron-：時間",
+   "words": [
+    {
+     "w": "chronic",
+     "pos": "adj.",
+     "ipa": "/ˈkrɑnɪk/",
+     "zh": "长期的；慢性的",
+     "ja": "慢性的な；長期にわたる",
+     "ex": "The city is building a new bridge to ease chronic traffic congestion downtown.",
+     "ex_zh": "该市正在修建一座新桥，以缓解市中心长期的交通拥堵。",
+     "ex_ja": "市は中心部の慢性的な渋滞を緩和するため、新しい橋を建設している。",
+     "parts": [
+      [
+       "chron",
+       "时间（chronos）",
+       "時間（chronos）"
+      ],
+      [
+       "-ic",
+       "……的",
+       "〜の"
+      ]
+     ],
+     "note": {
+      "zh": "希腊语 chronikos“与时间有关的”（chronos“时间”）→ 持续很久的。",
+      "ja": "ギリシャ語 chronikos「時間に関する」（chronos「時間」）→ 長く続く。"
+     },
+     "forms": [
+      [
+       "chronic shortage",
+       "长期短缺",
+       "慢性的な不足"
+      ],
+      [
+       "chronic pain",
+       "慢性疼痛",
+       "慢性的な痛み"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7：chronic problem / shortage = 长期存在、一直没解决的问题。",
+      "ja": "Part 7：chronic problem / shortage＝長く続いて解決していない問題。"
+     }
+    },
+    {
+     "w": "chronically",
+     "pos": "adv.",
+     "ipa": "/ˈkrɑnɪkli/",
+     "zh": "长期地；一贯地",
+     "ja": "慢性的に；常に",
+     "ex": "The night shift has been chronically understaffed since the factory expanded.",
+     "ex_zh": "自工厂扩建以来，夜班一直人手不足。",
+     "ex_ja": "工場の拡張以来、夜勤は慢性的な人手不足だ。",
+     "parts": [
+      [
+       "chron",
+       "时间（chronos）",
+       "時間（chronos）"
+      ],
+      [
+       "-ic",
+       "……的",
+       "〜の"
+      ],
+      [
+       "-ally",
+       "副词后缀",
+       "副詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "chronic + -ally。",
+      "ja": "chronic＋-ally。"
+     },
+     "forms": [
+      [
+       "chronically late",
+       "总是迟到",
+       "いつも遅れる"
+      ],
+      [
+       "persistently (adv.)",
+       "持续地",
+       "しつこく"
+      ]
+     ]
+    },
+    {
+     "w": "chronicle",
+     "pos": "n./v.",
+     "ipa": "/ˈkrɑnɪkəl/",
+     "zh": "编年史；记录；记述",
+     "ja": "年代記；記録する",
+     "ex": "The museum's new exhibit chronicles the history of the city's railway.",
+     "ex_zh": "博物馆的新展览记述了这座城市铁路的历史。",
+     "ex_ja": "博物館の新しい展示は市の鉄道の歴史をたどっている。",
+     "parts": [
+      [
+       "chron",
+       "时间（chronos）",
+       "時間（chronos）"
+      ],
+      [
+       "-icle",
+       "名词词尾",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "经拉丁语 chronica 来自希腊语 chronika (biblia)“按时间记事的书”。",
+      "ja": "ラテン語 chronica を経てギリシャ語 chronika (biblia)「年代順の記録」から。"
+     },
+     "forms": [
+      [
+       "chronicle the history of ~",
+       "记述……的历史",
+       "〜の歴史を記録する"
+      ],
+      [
+       "record / document (v.)",
+       "记录",
+       "記録する"
+      ]
+     ],
+     "tip": {
+      "zh": "报纸名常叫 The ~ Chronicle；动词 chronicle = 按时间记录。",
+      "ja": "新聞名 The ~ Chronicle によく使われる。動詞は「年代順に記録する」。"
+     }
+    },
+    {
+     "w": "chronological",
+     "pos": "adj.",
+     "ipa": "/ˌkrɑnəˈlɑdʒɪkəl/",
+     "zh": "按时间顺序的",
+     "ja": "年代順の；時系列の",
+     "ex": "Please list your work experience in reverse chronological order.",
+     "ex_zh": "请按时间倒序列出你的工作经历。",
+     "ex_ja": "職歴を新しい順（逆年代順）に記入してください。",
+     "parts": [
+      [
+       "chron",
+       "时间（chronos）",
+       "時間（chronos）"
+      ],
+      [
+       "log",
+       "记述；学问（logos）",
+       "言葉；学（logos）"
+      ],
+      [
+       "-ical",
+       "……的",
+       "〜の"
+      ]
+     ],
+     "note": {
+      "zh": "chronology（希腊语 chronos“时间”+ logos“记述”）+ -ical。",
+      "ja": "chronology（ギリシャ語 chronos「時間」＋logos「記述」）＋-ical。"
+     },
+     "forms": [
+      [
+       "in chronological order",
+       "按时间顺序",
+       "時系列順に"
+      ],
+      [
+       "chronologically (adv.)",
+       "按时间顺序地",
+       "年代順に"
+      ]
+     ],
+     "tip": {
+      "zh": "简历指示：in reverse chronological order = 从最近的开始写。",
+      "ja": "履歴書：in reverse chronological order＝最近のものから書く。"
+     }
+    },
+    {
+     "w": "chronology",
+     "pos": "n.",
+     "ipa": "/krəˈnɑlədʒi/",
+     "zh": "年表；事件发生顺序",
+     "ja": "年表；出来事の順序",
+     "ex": "The report includes a detailed chronology of the product recall.",
+     "ex_zh": "报告包括这次产品召回的详细时间线。",
+     "ex_ja": "報告書には製品リコールの詳しい経緯（時系列）が含まれている。",
+     "parts": [
+      [
+       "chron",
+       "时间（chronos）",
+       "時間（chronos）"
+      ],
+      [
+       "-o-",
+       "连接元音",
+       "連結母音"
+      ],
+      [
+       "-logy",
+       "记述；学问",
+       "〜学；記述"
+      ]
+     ],
+     "note": {
+      "zh": "希腊语 chronos“时间”+ -logia“记述、学问”。",
+      "ja": "ギリシャ語 chronos「時間」＋-logia「記述・学」。"
+     },
+     "forms": [
+      [
+       "timeline (n.)",
+       "时间线",
+       "タイムライン"
+      ],
+      [
+       "a chronology of events",
+       "事件时间表",
+       "出来事の時系列"
+      ]
+     ]
+    },
+    {
+     "w": "synchronize",
+     "pos": "v.",
+     "ipa": "/ˈsɪŋkrəˌnaɪz/",
+     "zh": "使同步；（数据）同步",
+     "ja": "同期させる；（時計を）合わせる",
+     "ex": "Your calendar will synchronize automatically across all of your devices.",
+     "ex_zh": "你的日历会在所有设备之间自动同步。",
+     "ex_ja": "カレンダーはすべての端末で自動的に同期される。",
+     "parts": [
+      [
+       "syn-",
+       "共同；同时",
+       "共に"
+      ],
+      [
+       "chron",
+       "时间（chronos）",
+       "時間（chronos）"
+      ],
+      [
+       "-ize",
+       "使……化",
+       "〜化する"
+      ]
+     ],
+     "note": {
+      "zh": "希腊语 synchronizein“同时发生”（syn“一起”+ chronos“时间”）。",
+      "ja": "ギリシャ語 synchronizein「同時に起こる」（syn「共に」＋chronos「時間」）。"
+     },
+     "forms": [
+      [
+       "sync (v./n.)",
+       "同步（口语缩写）",
+       "同期（略語）"
+      ],
+      [
+       "synchronize A with B",
+       "使 A 与 B 同步",
+       "A を B と同期させる"
+      ]
+     ],
+     "tip": {
+      "zh": "IT 通知常写 sync：Your files will sync when you reconnect.",
+      "ja": "IT のお知らせでは sync が多い：Your files will sync when you reconnect."
+     }
+    },
+    {
+     "w": "synchronous",
+     "pos": "adj.",
+     "ipa": "/ˈsɪŋkrənəs/",
+     "zh": "同步的；同时进行的",
+     "ja": "同期の；同時に行われる",
+     "ex": "The online course combines synchronous live lectures with recorded videos.",
+     "ex_zh": "这门在线课程把同步直播授课和录播视频结合起来。",
+     "ex_ja": "そのオンライン講座は同期型のライブ講義と録画動画を組み合わせている。",
+     "parts": [
+      [
+       "syn-",
+       "共同；同时",
+       "共に"
+      ],
+      [
+       "chron",
+       "时间（chronos）",
+       "時間（chronos）"
+      ],
+      [
+       "-ous",
+       "……的",
+       "〜な"
+      ]
+     ],
+     "note": {
+      "zh": "晚期拉丁语 synchronus，来自希腊语 synkhronos“同时的”。",
+      "ja": "後期ラテン語 synchronus、ギリシャ語 synkhronos「同時の」から。"
+     },
+     "forms": [
+      [
+       "synchronous meeting",
+       "实时会议",
+       "同期型の会議"
+      ],
+      [
+       "simultaneous (adj.)",
+       "同时的",
+       "同時の"
+      ]
+     ]
+    },
+    {
+     "w": "asynchronous",
+     "pos": "adj.",
+     "ipa": "/eɪˈsɪŋkrənəs/",
+     "zh": "非同步的；不需要同时在线的",
+     "ja": "非同期の",
+     "ex": "Our remote team relies on asynchronous communication because members work in different time zones.",
+     "ex_zh": "我们的远程团队依赖非同步沟通，因为成员在不同时区工作。",
+     "ex_ja": "メンバーが異なるタイムゾーンで働くため、リモートチームは非同期のコミュニケーションに頼っている。",
+     "parts": [
+      [
+       "a-",
+       "不；无",
+       "否定"
+      ],
+      [
+       "syn-",
+       "共同；同时",
+       "共に"
+      ],
+      [
+       "chron",
+       "时间（chronos）",
+       "時間（chronos）"
+      ],
+      [
+       "-ous",
+       "……的",
+       "〜な"
+      ]
+     ],
+     "note": {
+      "zh": "希腊语否定前缀 a- + synchronous。",
+      "ja": "ギリシャ語の否定接頭辞 a-＋synchronous。"
+     },
+     "forms": [
+      [
+       "asynchronous learning",
+       "异步学习（随时自学）",
+       "非同期学習"
+      ],
+      [
+       "asynchronously (adv.)",
+       "异步地",
+       "非同期で"
+      ]
+     ],
+     "tip": {
+      "zh": "远程办公文章常见：asynchronous = 不用同时在线，各自方便时回复。",
+      "ja": "リモートワークの記事で頻出：asynchronous＝同時にいなくても都合のよい時に対応する。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "shareholders",
+   "title_zh": "主题：股东大会与季度财报",
+   "title_ja": "テーマ：株主総会と四半期決算",
+   "words": [
+    {
+     "w": "shareholder",
+     "pos": "n.",
+     "ipa": "/ˈʃɛrˌhoʊldɚ/",
+     "zh": "股东",
+     "ja": "株主",
+     "ex": "The annual shareholders' meeting will be held at the Grand Hotel on May 20.",
+     "ex_zh": "年度股东大会将于 5 月 20 日在格兰德酒店举行。",
+     "ex_ja": "年次株主総会は 5 月 20 日にグランドホテルで開かれる。",
+     "parts": [
+      [
+       "share",
+       "份额；股份",
+       "分け前；株"
+      ],
+      [
+       "hold",
+       "持有",
+       "持つ"
+      ],
+      [
+       "-er",
+       "表示人",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "share（古英语 scearu“切下的一份”）+ hold + -er：持有股份的人。",
+      "ja": "share（古英語 scearu「切り分けた分」）＋hold＋-er：株を持つ人。"
+     },
+     "forms": [
+      [
+       "stockholder (n.)",
+       "股东（美式）",
+       "株主（米）"
+      ],
+      [
+       "shareholders' meeting",
+       "股东大会",
+       "株主総会"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7 同义替换：shareholder = stockholder = investor（投资者）。",
+      "ja": "Part 7 言い換え：shareholder＝stockholder≈investor。"
+     }
+    },
+    {
+     "w": "quarterly",
+     "pos": "adj./adv.",
+     "ipa": "/ˈkwɔrtɚli/",
+     "zh": "每季度的；按季度",
+     "ja": "四半期ごとの；年 4 回",
+     "ex": "The company's quarterly report showed a sharp rise in overseas sales.",
+     "ex_zh": "公司的季度报告显示海外销售大幅增长。",
+     "ex_ja": "同社の四半期報告書は海外売上の急増を示した。",
+     "parts": [
+      [
+       "quarter",
+       "四分之一（quartarius）",
+       "4 分の 1（quartarius）"
+      ],
+      [
+       "-ly",
+       "副词后缀",
+       "副詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "quarter（拉丁语 quartarius“四分之一”）+ -ly。",
+      "ja": "quarter（ラテン語 quartarius「4 分の 1」）＋-ly。"
+     },
+     "forms": [
+      [
+       "quarterly earnings",
+       "季度收益",
+       "四半期決算"
+      ],
+      [
+       "the first quarter (Q1)",
+       "第一季度",
+       "第 1 四半期"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7：quarterly newsletter / meeting = 每三个月一次。",
+      "ja": "Part 7：quarterly newsletter / meeting＝3 か月に 1 度。"
+     }
+    },
+    {
+     "w": "earnings",
+     "pos": "n.",
+     "ipa": "/ˈɝnɪŋz/",
+     "zh": "收益；利润；收入",
+     "ja": "収益；利益；所得",
+     "ex": "The firm's earnings exceeded analysts' expectations for the third consecutive quarter.",
+     "ex_zh": "该公司的收益连续第三个季度超出分析师预期。",
+     "ex_ja": "同社の利益は 3 四半期連続でアナリストの予想を上回った。",
+     "parts": [
+      [
+       "earn",
+       "挣得",
+       "稼ぐ"
+      ],
+      [
+       "-ing",
+       "名词后缀",
+       "名詞を作る"
+      ],
+      [
+       "-s",
+       "复数",
+       "複数"
+      ]
+     ],
+     "note": {
+      "zh": "earn 来自古英语 earnian“靠劳动获得”，本族词 + -ings。",
+      "ja": "earn は古英語 earnian「働いて得る」（本来語）＋-ings。"
+     },
+     "forms": [
+      [
+       "earnings report",
+       "财报",
+       "決算報告"
+      ],
+      [
+       "annual earnings",
+       "年收入；年度收益",
+       "年間収益"
+      ]
+     ],
+     "tip": {
+      "zh": "earnings 通常用复数；指公司时 ≈ profits。",
+      "ja": "earnings は通常複数形。企業なら ≈ profits。"
+     }
+    },
+    {
+     "w": "profitable",
+     "pos": "adj.",
+     "ipa": "/ˈprɑfətəbəl/",
+     "zh": "有利润的；有益的",
+     "ja": "利益の出る；有益な",
+     "ex": "The new product line became profitable within its first year.",
+     "ex_zh": "新产品线在第一年内就实现了盈利。",
+     "ex_ja": "新しい製品ラインは 1 年目で黒字になった。",
+     "parts": [
+      [
+       "profit",
+       "利润（profectus）",
+       "利益（profectus）"
+      ],
+      [
+       "-able",
+       "可……的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "profit 经法语来自拉丁语 profectus“进展、收益”（proficere = pro-“向前”+ facere“做”）+ -able。",
+      "ja": "profit はフランス語経由でラテン語 profectus「進歩・収益」（proficere＝pro-「前へ」＋facere「する」）＋-able。"
+     },
+     "forms": [
+      [
+       "profitability (n.)",
+       "盈利能力",
+       "収益性"
+      ],
+      [
+       "unprofitable (adj.)",
+       "不赚钱的",
+       "採算の合わない"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5 词性：profit (n.) / profitable (adj.) / profitably (adv.) / profitability (n.)。",
+      "ja": "Part 5 品詞：profit (n.) / profitable (adj.) / profitably (adv.) / profitability (n.)。"
+     }
+    },
+    {
+     "w": "revenue",
+     "pos": "n.",
+     "ipa": "/ˈrɛvəˌnu/",
+     "zh": "收入；营业额",
+     "ja": "収益；売上高",
+     "ex": "Advertising revenue fell slightly, but subscription income increased.",
+     "ex_zh": "广告收入略有下降，但订阅收入增加了。",
+     "ex_ja": "広告収入はわずかに減ったが、購読収入は増えた。",
+     "parts": [
+      [
+       "re-",
+       "回",
+       "戻って"
+      ],
+      [
+       "ven",
+       "来（venire）",
+       "来る（venire）"
+      ],
+      [
+       "-ue",
+       "名词词尾",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 revenue“回来的东西”（revenir，拉丁语 re-“回”+ venire“来”）→ 收回的钱 → 收入。",
+      "ja": "古フランス語 revenue「戻ってくるもの」（revenir、ラテン語 re-「戻って」＋venire「来る」）→ 入ってくるお金 → 収益。"
+     },
+     "forms": [
+      [
+       "sales revenue",
+       "销售收入",
+       "売上収益"
+      ],
+      [
+       "generate revenue",
+       "创造收入",
+       "収益を生む"
+      ]
+     ],
+     "tip": {
+      "zh": "⚠️ revenue（收入）≠ profit（利润 = 收入 − 成本）。",
+      "ja": "⚠️ revenue（売上・収入）≠ profit（利益＝収入−費用）。"
+     }
+    },
+    {
+     "w": "stake",
+     "pos": "n.",
+     "ipa": "/steɪk/",
+     "zh": "股份；利害关系；桩",
+     "ja": "出資；利害関係；杭",
+     "ex": "A Japanese electronics maker has acquired a thirty percent stake in the startup.",
+     "ex_zh": "一家日本电子厂商收购了这家初创公司 30% 的股份。",
+     "ex_ja": "日本の電機メーカーがそのスタートアップの株式 30% を取得した。",
+     "parts": [],
+     "note": {
+      "zh": "古英语 staca“木桩”；本族词，没有可靠的词根拆分。“下注时押上的东西 → 股份、利害”是后来引申的。",
+      "ja": "古英語 staca「杭」。本来語で信頼できる語根分解はない。「賭けに置くもの → 出資・利害」は後の意味。"
+     },
+     "forms": [
+      [
+       "a stake in ~",
+       "在……中的股份",
+       "〜への出資"
+      ],
+      [
+       "stakeholder (n.)",
+       "利益相关者",
+       "利害関係者"
+      ],
+      [
+       "at stake",
+       "面临风险的",
+       "危機にさらされて"
+      ]
+     ],
+     "tip": {
+      "zh": "⚠️ stake（股份、桩）与 steak（牛排）同音 /steɪk/，Part 2 小心。",
+      "ja": "⚠️ stake（出資・杭）と steak（ステーキ）は同音 /steɪk/。Part 2 で注意。"
+     }
+    },
+    {
+     "w": "outlook",
+     "pos": "n.",
+     "ipa": "/ˈaʊtˌlʊk/",
+     "zh": "前景；展望；看法",
+     "ja": "見通し；展望；見方",
+     "ex": "The CEO gave a positive outlook for the coming fiscal year.",
+     "ex_zh": "首席执行官对下一财年给出了乐观的展望。",
+     "ex_ja": "CEO は次の会計年度について明るい見通しを示した。",
+     "parts": [
+      [
+       "out",
+       "向外",
+       "外へ"
+      ],
+      [
+       "look",
+       "看",
+       "見る"
+      ]
+     ],
+     "note": {
+      "zh": "out + look（本族词）：向外看 → 前景、看法。",
+      "ja": "out＋look（本来語）：外を見る → 見通し・見方。"
+     },
+     "forms": [
+      [
+       "economic outlook",
+       "经济前景",
+       "経済見通し"
+      ],
+      [
+       "outlook for ~",
+       "……的前景",
+       "〜の見通し"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7 同义替换：outlook ≈ forecast / prospect。",
+      "ja": "Part 7 言い換え：outlook ≈ forecast / prospect。"
+     }
+    },
+    {
+     "w": "disclose",
+     "pos": "v.",
+     "ipa": "/dɪˈskloʊz/",
+     "zh": "公开；透露",
+     "ja": "公表する；開示する",
+     "ex": "The terms of the agreement were not disclosed to the public.",
+     "ex_zh": "协议条款没有对外公开。",
+     "ex_ja": "契約の条件は公表されなかった。",
+     "parts": [
+      [
+       "dis-",
+       "相反；打开",
+       "反対；開く"
+      ],
+      [
+       "clos",
+       "关闭（claudere）",
+       "閉じる（claudere）"
+      ],
+      [
+       "-e",
+       "词尾",
+       "語尾"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 desclos“打开”（des-“相反”+ clore“关”，拉丁语 claudere）→ 打开 → 公开。",
+      "ja": "古フランス語 desclos「開く」（des-「反対」＋clore「閉じる」、ラテン語 claudere）→ 明らかにする。"
+     },
+     "forms": [
+      [
+       "disclosure (n.)",
+       "公开；披露",
+       "開示"
+      ],
+      [
+       "undisclosed (adj.)",
+       "未公开的",
+       "非公開の"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7：for an undisclosed amount（金额未公开）是并购新闻常用语。",
+      "ja": "Part 7：for an undisclosed amount（金額非公表）は買収ニュースの定番。"
+     }
+    },
+    {
+     "w": "audit",
+     "pos": "n./v.",
+     "ipa": "/ˈɔdɪt/",
+     "zh": "审计；查账",
+     "ja": "会計監査；監査する",
+     "ex": "An outside firm will audit our accounts at the end of the fiscal year.",
+     "ex_zh": "一家外部公司将在财年末审计我们的账目。",
+     "ex_ja": "会計年度末に外部の会社が当社の会計を監査する。",
+     "parts": [
+      [
+       "aud",
+       "听（audire）",
+       "聞く（audire）"
+      ],
+      [
+       "-it",
+       "过去分词词尾",
+       "過去分詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 auditus“听”（audire）。中世纪查账时要当众把账目“念出来听”。",
+      "ja": "ラテン語 auditus「聞くこと」（audire）。中世には帳簿を読み上げて聞いて確認した。"
+     },
+     "forms": [
+      [
+       "auditor (n.)",
+       "审计员",
+       "監査人"
+      ],
+      [
+       "internal audit",
+       "内部审计",
+       "内部監査"
+      ]
+     ],
+     "tip": {
+      "zh": "audit 同族：audience、audio、auditorium（都与“听”有关）。",
+      "ja": "同じ仲間：audience、audio、auditorium（すべて「聞く」）。"
+     }
+    },
+    {
+     "w": "chairperson",
+     "pos": "n.",
+     "ipa": "/ˈtʃɛrˌpɝsən/",
+     "zh": "主席；董事长；会议主持人",
+     "ja": "議長；会長",
+     "ex": "The chairperson opened the meeting by welcoming the new board members.",
+     "ex_zh": "主席在会议开始时欢迎了新的董事会成员。",
+     "ex_ja": "議長は新任の取締役を歓迎して会議を始めた。",
+     "parts": [
+      [
+       "chair",
+       "椅子；主持",
+       "椅子；議長"
+      ],
+      [
+       "person",
+       "人",
+       "人"
+      ]
+     ],
+     "note": {
+      "zh": "chair（主持人的座位 → 主持人）+ person，是 chairman 的性别中立说法。",
+      "ja": "chair（議長の席 → 議長）＋person。chairman の性中立的な言い方。"
+     },
+     "forms": [
+      [
+       "chair (n./v.)",
+       "主席；主持（会议）",
+       "議長；議長を務める"
+      ],
+      [
+       "chairman of the board",
+       "董事长",
+       "取締役会長"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7：chair a meeting = 主持会议。",
+      "ja": "Part 7：chair a meeting＝会議の議長を務める。"
+     }
+    },
+    {
+     "w": "quorum",
+     "pos": "n.",
+     "ipa": "/ˈkwɔrəm/",
+     "zh": "法定人数",
+     "ja": "定足数",
+     "ex": "The vote was postponed because there was no quorum at the meeting.",
+     "ex_zh": "由于会议未达到法定人数，投票被推迟。",
+     "ex_ja": "会議が定足数に達しなかったため、採決は延期された。",
+     "parts": [],
+     "note": {
+      "zh": "拉丁语 quorum“其中的（人）”，来自旧时委任状的措辞“quorum vos ... unum esse volumus”（希望你们中某几位到场），没有可靠的词根拆分。",
+      "ja": "ラテン語 quorum「その者たちのうち」。昔の任命状の文言から。信頼できる語根分解はない。"
+     },
+     "forms": [
+      [
+       "reach a quorum",
+       "达到法定人数",
+       "定足数に達する"
+      ],
+      [
+       "lack a quorum",
+       "不足法定人数",
+       "定足数を欠く"
+      ]
+     ]
+    },
+    {
+     "w": "unanimous",
+     "pos": "adj.",
+     "ipa": "/juˈnænəməs/",
+     "zh": "一致同意的；全体一致的",
+     "ja": "満場一致の",
+     "ex": "The board's decision to expand into Asia was unanimous.",
+     "ex_zh": "董事会进军亚洲的决定是全体一致通过的。",
+     "ex_ja": "アジア進出という取締役会の決定は満場一致だった。",
+     "parts": [
+      [
+       "un-",
+       "一（unus）",
+       "1つの（unus）"
+      ],
+      [
+       "anim",
+       "心；精神（animus）",
+       "心（animus）"
+      ],
+      [
+       "-ous",
+       "……的",
+       "〜な"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 unanimus“同一颗心的”（unus“一”+ animus“心”）。",
+      "ja": "ラテン語 unanimus「心がひとつの」（unus「1」＋animus「心」）。"
+     },
+     "forms": [
+      [
+       "unanimously (adv.)",
+       "一致地",
+       "満場一致で"
+      ],
+      [
+       "a unanimous vote",
+       "全票通过",
+       "満場一致の採決"
+      ]
+     ],
+     "tip": {
+      "zh": "⚠️ 这里 un- 是“一”（unus），不是否定前缀；冠词用 a unanimous（读 /ju/）。",
+      "ja": "⚠️ この un- は「1」（unus）で否定ではない。冠詞は a unanimous（/ju/ で始まる）。"
+     }
+    },
+    {
+     "w": "resolution",
+     "pos": "n.",
+     "ipa": "/ˌrɛzəˈluʃən/",
+     "zh": "决议；解决；分辨率",
+     "ja": "決議；解決；解像度",
+     "ex": "Shareholders approved a resolution to increase the number of directors.",
+     "ex_zh": "股东们批准了一项增加董事人数的决议。",
+     "ex_ja": "株主は取締役の数を増やす決議を承認した。",
+     "parts": [
+      [
+       "re-",
+       "加强",
+       "強意"
+      ],
+      [
+       "solu",
+       "松开；解开（solvere）",
+       "ほどく（solvere）"
+      ],
+      [
+       "-tion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 resolutio“解开”（resolvere：re- + solvere“松开”）→ 解决 → 下定决心 → 决议。",
+      "ja": "ラテン語 resolutio「ほどくこと」（resolvere：re-＋solvere「ゆるめる」）→ 解決 → 決意 → 決議。"
+     },
+     "forms": [
+      [
+       "pass / adopt a resolution",
+       "通过决议",
+       "決議を可決する"
+      ],
+      [
+       "high resolution",
+       "高分辨率",
+       "高解像度"
+      ]
+     ],
+     "tip": {
+      "zh": "多义词：会议 = 决议，投诉 = 解决，屏幕 = 分辨率。",
+      "ja": "多義語：会議＝決議、苦情＝解決、画面＝解像度。"
+     }
+    },
+    {
+     "w": "proxy",
+     "pos": "n.",
+     "ipa": "/ˈprɑksi/",
+     "zh": "代理人；委托书；代理投票",
+     "ja": "代理人；委任状；代理投票",
+     "ex": "Shareholders who cannot attend may vote by proxy.",
+     "ex_zh": "无法出席的股东可以委托代理人投票。",
+     "ex_ja": "出席できない株主は委任状により議決権を行使できる。",
+     "parts": [],
+     "note": {
+      "zh": "由 procuracy（拉丁语 procuratio“代为管理”）缩约而成，按现在的拼写没有可靠的词根拆分。",
+      "ja": "procuracy（ラテン語 procuratio「代理で管理すること」）の短縮形。現在のつづりでは信頼できる語根分解はない。"
+     },
+     "forms": [
+      [
+       "vote by proxy",
+       "委托投票",
+       "代理投票する"
+      ],
+      [
+       "proxy form",
+       "委托书",
+       "委任状"
+      ]
+     ],
+     "tip": {
+      "zh": "股东大会通知 Part 7 常考：by proxy = 由他人代为投票。",
+      "ja": "株主総会のお知らせ（Part 7）で頻出：by proxy＝代理で。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "home",
+   "title_zh": "主题：家居装修与室内陈设",
+   "title_ja": "テーマ：住まいの改装とインテリア",
+   "words": [
+    {
+     "w": "remodel",
+     "pos": "v.",
+     "ipa": "/riˈmɑdəl/",
+     "zh": "改建；重新装修",
+     "ja": "改装する；リフォームする",
+     "ex": "We are remodeling our kitchen, so the café will be closed until June 10.",
+     "ex_zh": "我们正在改建厨房，所以咖啡馆将停业至 6 月 10 日。",
+     "ex_ja": "厨房を改装中のため、カフェは 6 月 10 日まで休業します。",
+     "parts": [
+      [
+       "re-",
+       "再",
+       "再び"
+      ],
+      [
+       "mod",
+       "尺度；样式（modus）",
+       "尺度；型（modus）"
+      ],
+      [
+       "-el",
+       "名词词尾",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "re-“再”+ model（经意大利语 modello 来自拉丁语 modulus，modus“尺度”）。",
+      "ja": "re-「再び」＋model（イタリア語 modello、ラテン語 modulus ＜ modus「尺度」）。"
+     },
+     "forms": [
+      [
+       "remodeling (n.)",
+       "改建工程",
+       "改装工事"
+      ],
+      [
+       "renovation (n.)",
+       "翻新",
+       "改修"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 4：closed for remodeling / renovations（因装修停业）是广播常用句。",
+      "ja": "Part 4：closed for remodeling / renovations（改装のため休業）は定番。"
+     }
+    },
+    {
+     "w": "cabinet",
+     "pos": "n.",
+     "ipa": "/ˈkæbənɪt/",
+     "zh": "橱柜；柜子；内阁",
+     "ja": "戸棚；キャビネット；内閣",
+     "ex": "Extra printer paper is kept in the cabinet next to the copier.",
+     "ex_zh": "多余的打印纸放在复印机旁边的柜子里。",
+     "ex_ja": "予備のコピー用紙はコピー機の横の戸棚にある。",
+     "parts": [],
+     "note": {
+      "zh": "来自法语 cabinet“小房间”（cabine 的指小词），更早的来源不确定，没有可靠的词根拆分。",
+      "ja": "フランス語 cabinet「小部屋」（cabine の指小形）から。それ以前の語源は不確かで、信頼できる語根分解はない。"
+     },
+     "forms": [
+      [
+       "filing cabinet",
+       "文件柜",
+       "書類整理棚"
+      ],
+      [
+       "kitchen cabinets",
+       "厨房橱柜",
+       "キッチンの戸棚"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1：A cabinet door has been left open. / Some files are being put in a cabinet.",
+      "ja": "Part 1：A cabinet door has been left open.（戸棚の扉が開いたまま）"
+     }
+    },
+    {
+     "w": "countertop",
+     "pos": "n.",
+     "ipa": "/ˈkaʊntɚˌtɑp/",
+     "zh": "（厨房）操作台面",
+     "ja": "調理台の天板；カウンター",
+     "ex": "The new kitchen features granite countertops and stainless steel appliances.",
+     "ex_zh": "新厨房配有花岗岩台面和不锈钢电器。",
+     "ex_ja": "新しいキッチンには御影石の天板とステンレス家電が備わっている。",
+     "parts": [
+      [
+       "counter",
+       "柜台（computare）",
+       "カウンター（computare）"
+      ],
+      [
+       "top",
+       "顶面",
+       "上面"
+      ]
+     ],
+     "note": {
+      "zh": "counter（原指数钱的桌子，来自拉丁语 computare“计算”）+ top。",
+      "ja": "counter（もとは金を数える台、ラテン語 computare「数える」）＋top。"
+     },
+     "forms": [
+      [
+       "kitchen counter",
+       "厨房台面",
+       "キッチンカウンター"
+      ],
+      [
+       "on the counter",
+       "在台面上",
+       "カウンターの上に"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1：Some dishes have been placed on the counter.",
+      "ja": "Part 1：Some dishes have been placed on the counter.（皿がカウンターに置かれている）"
+     }
+    },
+    {
+     "w": "hardwood",
+     "pos": "n./adj.",
+     "ipa": "/ˈhɑrdˌwʊd/",
+     "zh": "硬木；硬木的",
+     "ja": "堅木；堅木の",
+     "ex": "All of the apartments have hardwood floors and large windows.",
+     "ex_zh": "所有公寓都有硬木地板和大窗户。",
+     "ex_ja": "どの部屋もフローリング（堅木の床）と大きな窓がある。",
+     "parts": [
+      [
+       "hard",
+       "硬的",
+       "固い"
+      ],
+      [
+       "wood",
+       "木",
+       "木"
+      ]
+     ],
+     "note": {
+      "zh": "hard + wood（本族词复合）。",
+      "ja": "hard＋wood（本来語の複合語）。"
+     },
+     "forms": [
+      [
+       "hardwood floors",
+       "硬木地板",
+       "堅木の床"
+      ],
+      [
+       "softwood (n.)",
+       "软木",
+       "軟材"
+      ]
+     ],
+     "tip": {
+      "zh": "租房广告常见卖点：hardwood floors、in-unit laundry。",
+      "ja": "賃貸広告の売り文句：hardwood floors、in-unit laundry。"
+     }
+    },
+    {
+     "w": "flooring",
+     "pos": "n.",
+     "ipa": "/ˈflɔrɪŋ/",
+     "zh": "地板材料；地面铺设",
+     "ja": "床材；床張り",
+     "ex": "The contractor recommended waterproof flooring for the bathroom.",
+     "ex_zh": "承包商建议浴室使用防水地板材料。",
+     "ex_ja": "業者は浴室に防水の床材を勧めた。",
+     "parts": [
+      [
+       "floor",
+       "地板",
+       "床"
+      ],
+      [
+       "-ing",
+       "名词后缀（材料）",
+       "名詞（材料）"
+      ]
+     ],
+     "note": {
+      "zh": "floor（古英语 flor，本族词）+ -ing（表示材料）。",
+      "ja": "floor（古英語 flor、本来語）＋-ing（材料を表す）。"
+     },
+     "forms": [
+      [
+       "vinyl / tile flooring",
+       "乙烯基 / 瓷砖地板",
+       "塩ビ／タイルの床材"
+      ],
+      [
+       "floor plan",
+       "平面图",
+       "間取り図"
+      ]
+     ],
+     "tip": {
+      "zh": "flooring 不可数：new flooring（不说 *a flooring）。",
+      "ja": "flooring は不可算：new flooring（*a flooring とは言わない）。"
+     }
+    },
+    {
+     "w": "rug",
+     "pos": "n.",
+     "ipa": "/rʌɡ/",
+     "zh": "小地毯",
+     "ja": "敷物；ラグ",
+     "ex": "A woman is rolling up a rug in the living room.",
+     "ex_zh": "一位女士正在客厅里卷起一块地毯。",
+     "ex_ja": "女性がリビングでラグを巻いている。",
+     "parts": [],
+     "note": {
+      "zh": "来自北欧语（类似挪威方言 rugga“粗毯子”），没有可靠的词根拆分。",
+      "ja": "北欧語起源（ノルウェー方言 rugga「粗い毛布」など）。信頼できる語根分解はない。"
+     },
+     "forms": [
+      [
+       "carpet (n.)",
+       "（满铺）地毯",
+       "じゅうたん"
+      ],
+      [
+       "roll up a rug",
+       "卷起地毯",
+       "ラグを巻く"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1：A rug has been rolled up. / A rug is spread on the floor.",
+      "ja": "Part 1：A rug has been rolled up. / A rug is spread on the floor."
+     }
+    },
+    {
+     "w": "tile",
+     "pos": "n./v.",
+     "ipa": "/taɪl/",
+     "zh": "瓷砖；瓦片；铺瓷砖",
+     "ja": "タイル；瓦；タイルを張る",
+     "ex": "Workers are replacing the cracked tiles in the hotel lobby.",
+     "ex_zh": "工人们正在更换酒店大堂里破裂的瓷砖。",
+     "ex_ja": "作業員がホテルのロビーでひびの入ったタイルを交換している。",
+     "parts": [],
+     "note": {
+      "zh": "古英语 tigele，来自拉丁语 tegula“瓦”（与 tegere“盖”有关），在英语里已无法按词素拆分。",
+      "ja": "古英語 tigele、ラテン語 tegula「瓦」（tegere「覆う」と関連）から。英語では語根分解できない。"
+     },
+     "forms": [
+      [
+       "floor tiles",
+       "地砖",
+       "床タイル"
+      ],
+      [
+       "tiled (adj.)",
+       "铺了瓷砖的",
+       "タイル張りの"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1：Some tiles are being laid.（正在铺瓷砖）",
+      "ja": "Part 1：Some tiles are being laid.（タイルが敷かれているところ）"
+     }
+    },
+    {
+     "w": "faucet",
+     "pos": "n.",
+     "ipa": "/ˈfɔsɪt/",
+     "zh": "水龙头",
+     "ja": "蛇口",
+     "ex": "Please report any leaking faucet to the maintenance office.",
+     "ex_zh": "如有漏水的水龙头，请报告维修办公室。",
+     "ex_ja": "水漏れしている蛇口があれば管理事務所へ報告してください。",
+     "parts": [],
+     "note": {
+      "zh": "来自古法语 fausset“（酒桶的）塞子”，再往前的来源不确定，没有可靠的词根拆分。",
+      "ja": "古フランス語 fausset「（樽の）栓」から。それ以前は不明で、信頼できる語根分解はない。"
+     },
+     "forms": [
+      [
+       "tap (n.)",
+       "水龙头（英式）",
+       "蛇口（英）"
+      ],
+      [
+       "turn off the faucet",
+       "关水龙头",
+       "蛇口を閉める"
+      ]
+     ],
+     "tip": {
+      "zh": "美式 faucet = 英式 tap；Part 1：Water is running from a faucet.",
+      "ja": "米 faucet＝英 tap。Part 1：Water is running from a faucet."
+     }
+    },
+    {
+     "w": "upholstery",
+     "pos": "n.",
+     "ipa": "/əˈpoʊlstəri/",
+     "zh": "（沙发等的）软垫、面料；家具装潢",
+     "ja": "（いすなどの）張り地；内装",
+     "ex": "The upholstery on the lobby chairs will be cleaned this weekend.",
+     "ex_zh": "大堂椅子的软垫面料将在本周末清洗。",
+     "ex_ja": "ロビーの椅子の張り地は今週末にクリーニングされる。",
+     "parts": [],
+     "note": {
+      "zh": "由 upholsterer（来自 upholder“修补、经营小家具的人”，up + hold）倒推出 upholster，再加 -y；按现在拼写没有可靠的词根拆分。",
+      "ja": "upholsterer（upholder「家具を修理・販売する人」、up＋hold）から逆成された upholster＋-y。現在のつづりでは信頼できる語根分解はない。"
+     },
+     "forms": [
+      [
+       "leather upholstery",
+       "皮革面料",
+       "革張り"
+      ],
+      [
+       "upholstered (adj.)",
+       "有软垫的",
+       "布張りの"
+      ]
+     ],
+     "tip": {
+      "zh": "⚠️ 发音 /əˈpoʊl-/：中间的 h 通常不发音。",
+      "ja": "⚠️ 発音 /əˈpoʊl-/：h は普通発音しない。"
+     }
+    },
+    {
+     "w": "curtain",
+     "pos": "n.",
+     "ipa": "/ˈkɝtən/",
+     "zh": "窗帘；幕布",
+     "ja": "カーテン；（劇場の）幕",
+     "ex": "A man is drawing the curtains to block out the sunlight.",
+     "ex_zh": "一名男子正拉上窗帘挡住阳光。",
+     "ex_ja": "男性が日差しを遮るためにカーテンを引いている。",
+     "parts": [],
+     "note": {
+      "zh": "经古法语 cortine 来自晚期拉丁语 cortina，没有可靠的词根拆分。",
+      "ja": "古フランス語 cortine、後期ラテン語 cortina から。信頼できる語根分解はない。"
+     },
+     "forms": [
+      [
+       "draw the curtains",
+       "拉上（或拉开）窗帘",
+       "カーテンを引く"
+      ],
+      [
+       "blinds (n.)",
+       "百叶窗",
+       "ブラインド"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1：The curtains have been closed. / are being drawn.",
+      "ja": "Part 1：The curtains have been closed. / are being drawn."
+     }
+    },
+    {
+     "w": "ladder",
+     "pos": "n.",
+     "ipa": "/ˈlædɚ/",
+     "zh": "梯子；阶梯",
+     "ja": "はしご",
+     "ex": "A worker is climbing a ladder to change a light bulb.",
+     "ex_zh": "一名工人正爬上梯子换灯泡。",
+     "ex_ja": "作業員が電球を替えるためにはしごに登っている。",
+     "parts": [],
+     "note": {
+      "zh": "古英语 hlæder，本族词，没有可靠的词根拆分。",
+      "ja": "古英語 hlæder。本来語で信頼できる語根分解はない。"
+     },
+     "forms": [
+      [
+       "climb a ladder",
+       "爬梯子",
+       "はしごを登る"
+      ],
+      [
+       "the career ladder",
+       "职业阶梯",
+       "出世の階段"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1：A ladder is leaning against the wall.（梯子靠在墙上）",
+      "ja": "Part 1：A ladder is leaning against the wall.（はしごが壁に立てかけてある）"
+     }
+    },
+    {
+     "w": "railing",
+     "pos": "n.",
+     "ipa": "/ˈreɪlɪŋ/",
+     "zh": "栏杆；扶手",
+     "ja": "手すり；柵",
+     "ex": "Please hold on to the railing when using the stairs.",
+     "ex_zh": "走楼梯时请扶好扶手。",
+     "ex_ja": "階段を使うときは手すりにおつかまりください。",
+     "parts": [
+      [
+       "rail",
+       "栏杆；横杆",
+       "横木；手すり"
+      ],
+      [
+       "-ing",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "rail 经古法语 reille 来自拉丁语 regula“直棍”+ -ing。",
+      "ja": "rail は古フランス語 reille、ラテン語 regula「まっすぐな棒」から＋-ing。"
+     },
+     "forms": [
+      [
+       "handrail (n.)",
+       "扶手",
+       "手すり"
+      ],
+      [
+       "lean on the railing",
+       "靠在栏杆上",
+       "手すりにもたれる"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1：A woman is leaning on a railing. / They're holding the railing.",
+      "ja": "Part 1：A woman is leaning on a railing.（手すりにもたれている）"
+     }
+    },
+    {
+     "w": "patio",
+     "pos": "n.",
+     "ipa": "/ˈpætioʊ/",
+     "zh": "露台；庭院",
+     "ja": "テラス；中庭",
+     "ex": "In summer, guests can dine outdoors on the restaurant's patio.",
+     "ex_zh": "夏天，客人可以在餐厅的露台上户外用餐。",
+     "ex_ja": "夏は、レストランのテラスで屋外の食事を楽しめる。",
+     "parts": [],
+     "note": {
+      "zh": "直接借自西班牙语 patio“内院”，来源不明，没有可靠的词根拆分。",
+      "ja": "スペイン語 patio「中庭」の借用。起源は不明で、信頼できる語根分解はない。"
+     },
+     "forms": [
+      [
+       "patio seating",
+       "露台座位",
+       "テラス席"
+      ],
+      [
+       "outdoor patio",
+       "户外露台",
+       "屋外テラス"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1：Chairs have been arranged on a patio.",
+      "ja": "Part 1：Chairs have been arranged on a patio.（テラスにいすが並べてある）"
+     }
+    },
+    {
+     "w": "insulation",
+     "pos": "n.",
+     "ipa": "/ˌɪnsəˈleɪʃən/",
+     "zh": "隔热（材料）；绝缘；隔音",
+     "ja": "断熱（材）；絶縁；防音",
+     "ex": "Better insulation in the walls has reduced our heating costs by twenty percent.",
+     "ex_zh": "墙体隔热改善后，我们的供暖费用减少了 20%。",
+     "ex_ja": "壁の断熱を強化したことで暖房費が 20% 減った。",
+     "parts": [
+      [
+       "insul",
+       "岛（insula）",
+       "島（insula）"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "insulate 来自拉丁语 insula“岛”：把东西变成“孤岛”→ 隔开热、电、声音。",
+      "ja": "insulate はラテン語 insula「島」から：「島のように孤立させる」→ 熱・電気・音を遮る。"
+     },
+     "forms": [
+      [
+       "insulate (v.)",
+       "使隔热；使绝缘",
+       "断熱する；絶縁する"
+      ],
+      [
+       "peninsula (n.)",
+       "半岛（同源）",
+       "半島（同源）"
+      ]
+     ],
+     "tip": {
+      "zh": "节能广告：improve insulation、energy-efficient windows。",
+      "ja": "省エネ広告：improve insulation、energy-efficient windows。"
+     }
+    }
+   ]
+  }
+ ]
+}
