@@ -1,0 +1,2570 @@
+{
+ "day": 32,
+ "date": "2026-11-04",
+ "title_zh": "四大词根 + 会员积分与忠诚计划、租车与自驾出行",
+ "title_ja": "4つの語根＋会員ポイントとロイヤルティプログラム、レンタカーとドライブ",
+ "intro_zh": "今天掌握 4 个高频词根（pop·publ 人民 / hosp·host 客人 / mens·meter 测量 / bene·bon 好），再学会员积分与忠诚计划、租车与自驾出行的核心词——强化 Part 5 词性题（popular / popularity、immense / immensely、benefit / beneficial、eligible / eligibility）和固定搭配（open to the public、commensurate with、be entitled to、redeemable for、benefit from），易混词（populous ≠ popular、insure / ensure / assure、benign 的 g 不发音、a host of 不同源），Part 1/4 场景（loading luggage into the trunk、heavy traffic on the highway），以及 Part 7 的会员规约与租车条款（points are nontransferable、membership will lapse、unlimited mileage、return with a full tank、Thank you for your patronage）。",
+ "intro_ja": "今日は語根 4 つ（pop・publ 人々／hosp・host 客／mens・meter 測る／bene・bon よい）と、会員ポイントとロイヤルティプログラム、レンタカーとドライブの重要語を学びます。Part 5 の品詞問題（popular / popularity、immense / immensely、benefit / beneficial、eligible / eligibility）と語法（open to the public、commensurate with、be entitled to、redeemable for、benefit from）、紛らわしい語（populous ≠ popular、insure / ensure / assure、benign の g は無音、a host of は別語源）、Part 1/4 の場面（loading luggage into the trunk、heavy traffic on the highway）、Part 7 の会員規約とレンタル条件（points are nontransferable、membership will lapse、unlimited mileage、満タン返し、Thank you for your patronage）を強化します。",
+ "voice": "en-US-AriaNeural",
+ "roots": [
+  {
+   "root": "-pop- / -publ-",
+   "origin": "Latin populus, publicus",
+   "zh": "人民；公众",
+   "ja": "人々；公衆",
+   "exp_zh": "来自拉丁语 populus（人民），形容词 publicus（公众的）与它有关。受大众欢迎 → popular / popularity；人的总数 → population；住满人 → populate / populated；人多的 → populous。公众的 → public / publicly；让公众知道 → publicize（publicity 宣传）；让公众看到的作品 → publish / publisher。⚠️ populous（人口多）≠ popular（受欢迎）；pub（酒馆）是 public house 的缩写，确实同源，但 pupil（学生）、puberty 无关。",
+   "exp_ja": "ラテン語 populus（人々）、形容詞 publicus（公の）はこれと関係がある。大衆に好まれる → popular／popularity、人の総数 → population、人が住む → populate／populated、人の多い → populous。公の → public／publicly、公に知らせる → publicize（publicity 宣伝）、公にする作品 → publish／publisher。⚠️ populous（人口の多い）≠ popular（人気のある）。pub は public house の略で同語源だが、pupil（生徒）は無関係。",
+   "examples": [
+    "popularity",
+    "population",
+    "populated",
+    "populous",
+    "public",
+    "publicly",
+    "publicize",
+    "publisher"
+   ]
+  },
+  {
+   "root": "-hosp- / -host-",
+   "origin": "Latin hospes, hospit-",
+   "zh": "客人；主人",
+   "ja": "客；もてなす主人",
+   "exp_zh": "来自拉丁语 hospes（hospit-），既指“客人”也指“招待客人的主人”。好客的 → hospitable / inhospitable；招待客人的地方 → 中世纪拉丁语 hospitale，后来分化成 hospital（医院）、hostel（旅舍）、hotel（酒店）三个词；主人 → host / hostess / co-host（联合主办）。记忆：hospital、hostel、hotel 原本都是“接待人的地方”。⚠️ hostile（敌对的）和 a host of（大量）来自 hostis“陌生人 → 敌人”，意思已经完全不同，不要混淆。",
+   "exp_ja": "ラテン語 hospes（hospit-）は「客」と「客をもてなす主人」の両方を指す。もてなしのよい → hospitable／inhospitable。客を迎える場所 → 中世ラテン語 hospitale が hospital（病院）、hostel（宿）、hotel（ホテル）の 3 語に分かれた。主人 → host／hostess／co-host（共催）。「hospital・hostel・hotel はもとは全部“人を迎える場所”」と覚えよう。⚠️ hostile（敵意のある）や a host of（多数の）は hostis「よそ者 → 敵」由来で意味が全く違う。",
+   "examples": [
+    "hospitable",
+    "inhospitable",
+    "hospital",
+    "hospitalize",
+    "host",
+    "hostess",
+    "hotel",
+    "co-host"
+   ]
+  },
+  {
+   "root": "-mens- / -meter-",
+   "origin": "Latin metiri, mensus; Greek metron",
+   "zh": "测量",
+   "ja": "測る",
+   "exp_zh": "拉丁语 metiri（过去分词 mensus）“测量”和希腊语 metron“尺度”是同一个古老词根的亲戚。拉丁系：dis-“完全”→ dimension（尺寸）；im-“不”→ immense（量不出 → 巨大的）/ immensely；com-“共同”→ commensurate（同一尺度 → 相称的）；mensura → measure → measurable。希腊系：peri-“周围”→ perimeter（周长）；dia-“穿过”→ diameter（直径）；para-“旁边”→ parameter（参数）。已学过的 meter、measurement 也属这一族。⚠️ mental（精神的）、mention 来自 mens“心智”，与“测量”无关。",
+   "exp_ja": "ラテン語 metiri（過去分詞 mensus）「測る」とギリシャ語 metron「尺度」は同じ古い語根の親戚。ラテン系：dis-「すっかり」→ dimension（寸法）、im-「不」→ immense（測れない → 巨大な）／immensely、com-「共に」→ commensurate（同じ尺度 → 見合った）、mensura → measure → measurable。ギリシャ系：peri-「周り」→ perimeter（周囲）、dia-「横切って」→ diameter（直径）、para-「そば」→ parameter（条件）。既習の meter、measurement も同じ仲間。⚠️ mental、mention は mens「心」由来で「測る」とは無関係。",
+   "examples": [
+    "dimension",
+    "immense",
+    "immensely",
+    "commensurate",
+    "measurable",
+    "perimeter",
+    "diameter",
+    "parameter"
+   ]
+  },
+  {
+   "root": "-bene- / -bon-",
+   "origin": "Latin bene, bonus",
+   "zh": "好；善",
+   "ja": "よく；よい",
+   "exp_zh": "拉丁语副词 bene“好地”和形容词 bonus“好的”。bene + facere“做”→ benefit（好处）/ beneficial（有益的）；bene + velle“愿意”→ benevolent（仁慈的）；bene + gignere“生”→ benign（良性的、温和的，g 不发音）。bonus 系：bona fide（以诚信 → 真正的）；bonitas → 古法语 bonte → bounty（赏金）/ bountiful（丰富的）。已学过的 bonus、beneficiary、benefactor 也属这一族。反义词根 mal-“坏”：malfunction（故障）。⚠️ bench（长椅）、bend 与 bene 无关。",
+   "exp_ja": "ラテン語の副詞 bene「よく」と形容詞 bonus「よい」。bene＋facere「する」→ benefit（利点）／beneficial（有益な）、bene＋velle「望む」→ benevolent（慈悲深い）、bene＋gignere「生む」→ benign（良性の・穏やかな、g は発音しない）。bonus 系：bona fide（誠意をもって → 本物の）、bonitas → 古フランス語 bonte → bounty（報奨金）／bountiful（豊富な）。既習の bonus、beneficiary、benefactor も仲間。反対は mal-「悪い」：malfunction（故障）。⚠️ bench や bend は無関係。",
+   "examples": [
+    "benefit",
+    "beneficial",
+    "benevolent",
+    "benign",
+    "bona fide",
+    "bounty",
+    "bountiful"
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "pop",
+   "title_zh": "词根 -pop- / -publ-：人民；公众",
+   "title_ja": "語根 -pop- / -publ-：人々；公衆",
+   "words": [
+    {
+     "w": "popularity",
+     "pos": "n.",
+     "ipa": "/ˌpɑpjəˈlærəti/",
+     "zh": "受欢迎；普及",
+     "ja": "人気；普及",
+     "ex": "The popularity of the new lunch menu surprised even the restaurant's owner.",
+     "ex_zh": "新午餐菜单如此受欢迎，连餐厅老板都感到意外。",
+     "ex_ja": "新しいランチメニューの人気には、店のオーナーでさえ驚いた。",
+     "parts": [
+      [
+       "popul",
+       "人民（populus）",
+       "人々（populus）"
+      ],
+      [
+       "-ar",
+       "形容词后缀",
+       "形容詞を作る"
+      ],
+      [
+       "-ity",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 popularis“人民的”→ 受大众喜爱。",
+      "ja": "ラテン語 popularis「人々の」→ 大衆に好まれる。"
+     },
+     "forms": [
+      [
+       "popular (adj.)",
+       "受欢迎的",
+       "人気のある"
+      ],
+      [
+       "gain popularity",
+       "越来越受欢迎",
+       "人気が高まる"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5 词性题：popular (adj.) / popularity (n.) / popularly (adv.)，空格前是 the 或形容词时选名词 popularity。",
+      "ja": "Part 5 品詞問題：popular (adj.)／popularity (n.)／popularly (adv.)。the や形容詞の後なら名詞 popularity。"
+     }
+    },
+    {
+     "w": "population",
+     "pos": "n.",
+     "ipa": "/ˌpɑpjəˈleɪʃən/",
+     "zh": "人口；（特定）人群",
+     "ja": "人口；（特定の）集団",
+     "ex": "The city's population has grown by 12 percent over the past decade.",
+     "ex_zh": "过去十年，该市人口增长了 12%。",
+     "ex_ja": "その市の人口は過去 10 年で 12% 増えた。",
+     "parts": [
+      [
+       "popul",
+       "人民（populus）",
+       "人々（populus）"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "后期拉丁语 populatio“人民、人口”。",
+      "ja": "後期ラテン語 populatio「人々・人口」。"
+     },
+     "forms": [
+      [
+       "population growth",
+       "人口增长",
+       "人口増加"
+      ],
+      [
+       "the working population",
+       "劳动人口",
+       "労働人口"
+      ]
+     ]
+    },
+    {
+     "w": "populated",
+     "pos": "adj.",
+     "ipa": "/ˈpɑpjəˌleɪtɪd/",
+     "zh": "有人居住的；（人口）……的",
+     "ja": "人が住んでいる；人口が〜な",
+     "ex": "The new branch will open in a densely populated area near the station.",
+     "ex_zh": "新分店将开在车站附近人口稠密的地区。",
+     "ex_ja": "新支店は駅近くの人口密集地にオープンする。",
+     "parts": [
+      [
+       "popul",
+       "人民（populus）",
+       "人々（populus）"
+      ],
+      [
+       "-ate",
+       "动词后缀",
+       "動詞を作る"
+      ],
+      [
+       "-ed",
+       "形容词（过去分词）",
+       "形容詞（過去分詞）"
+      ]
+     ],
+     "note": {
+      "zh": "populate“使有人居住”来自中世纪拉丁语 populare。",
+      "ja": "populate「人を住まわせる」は中世ラテン語 populare から。"
+     },
+     "forms": [
+      [
+       "densely populated",
+       "人口稠密的",
+       "人口密度の高い"
+      ],
+      [
+       "sparsely populated",
+       "人烟稀少的",
+       "人口のまばらな"
+      ],
+      [
+       "populate (v.)",
+       "居住于；填入（数据）",
+       "住む；（データを）入力する"
+      ]
+     ],
+     "tip": {
+      "zh": "固定搭配：densely / heavily / sparsely populated。",
+      "ja": "定番の組み合わせ：densely / heavily / sparsely populated。"
+     }
+    },
+    {
+     "w": "populous",
+     "pos": "adj.",
+     "ipa": "/ˈpɑpjələs/",
+     "zh": "人口众多的",
+     "ja": "人口の多い",
+     "ex": "Tokyo is one of the most populous cities in the world.",
+     "ex_zh": "东京是世界上人口最多的城市之一。",
+     "ex_ja": "東京は世界で最も人口の多い都市の一つだ。",
+     "parts": [
+      [
+       "popul",
+       "人民（populus）",
+       "人々（populus）"
+      ],
+      [
+       "-ous",
+       "形容词后缀（多……的）",
+       "形容詞を作る（〜の多い）"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 populosus“人多的”。",
+      "ja": "ラテン語 populosus「人の多い」。"
+     },
+     "forms": [
+      [
+       "the most populous country",
+       "人口最多的国家",
+       "最も人口の多い国"
+      ],
+      [
+       "populous region",
+       "人口众多的地区",
+       "人口の多い地域"
+      ]
+     ],
+     "tip": {
+      "zh": "⚠️ 形近词：populous（人多的）≠ popular（受欢迎的）。",
+      "ja": "⚠️ 紛らわしい語：populous（人口の多い）≠ popular（人気のある）。"
+     }
+    },
+    {
+     "w": "public",
+     "pos": "adj.",
+     "ipa": "/ˈpʌblɪk/",
+     "zh": "公共的；公开的；（n.）公众",
+     "ja": "公共の；公開の；（n.）一般の人々",
+     "ex": "The museum is open to the public free of charge on the first Sunday of every month.",
+     "ex_zh": "博物馆每月第一个星期日免费向公众开放。",
+     "ex_ja": "その博物館は毎月第 1 日曜日に一般に無料公開される。",
+     "parts": [
+      [
+       "publ",
+       "人民；公众（publicus）",
+       "人々；公衆（publicus）"
+      ],
+      [
+       "-ic",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 publicus“人民的、公众的”，与 populus“人民”有关。",
+      "ja": "ラテン語 publicus「人々の・公の」。populus「人々」と関係がある。"
+     },
+     "forms": [
+      [
+       "open to the public",
+       "向公众开放",
+       "一般公開されている"
+      ],
+      [
+       "public transportation",
+       "公共交通",
+       "公共交通機関"
+      ],
+      [
+       "in public",
+       "当众",
+       "人前で"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 4/7：open to the public（对外开放）、public hearing（公开听证会）很常见。",
+      "ja": "Part 4/7：open to the public（一般公開）、public hearing（公聴会）は頻出。"
+     }
+    },
+    {
+     "w": "publicly",
+     "pos": "adv.",
+     "ipa": "/ˈpʌblɪkli/",
+     "zh": "公开地；公众地",
+     "ja": "公に；公然と",
+     "ex": "The company publicly announced the appointment of its new CEO on Monday morning.",
+     "ex_zh": "公司于周一上午公开宣布了新任首席执行官。",
+     "ex_ja": "その会社は月曜日の朝、新 CEO の就任を公式に発表した。",
+     "parts": [
+      [
+       "publ",
+       "人民；公众（publicus）",
+       "人々；公衆（publicus）"
+      ],
+      [
+       "-ic",
+       "形容词后缀",
+       "形容詞を作る"
+      ],
+      [
+       "-ly",
+       "副词后缀",
+       "副詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "public + -ly。",
+      "ja": "public＋-ly。"
+     },
+     "forms": [
+      [
+       "publicly traded company",
+       "上市公司",
+       "上場企業"
+      ],
+      [
+       "publicly available",
+       "公开可得的",
+       "一般に入手できる"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7：a publicly traded company = 股票公开交易的上市公司。",
+      "ja": "Part 7：a publicly traded company＝株式が公開取引される上場企業。"
+     }
+    },
+    {
+     "w": "publicize",
+     "pos": "v.",
+     "ipa": "/ˈpʌbləˌsaɪz/",
+     "zh": "宣传；公布",
+     "ja": "宣伝する；公表する",
+     "ex": "We need to publicize the charity run more widely on social media.",
+     "ex_zh": "我们需要在社交媒体上更广泛地宣传这次慈善跑。",
+     "ex_ja": "チャリティーランをもっと SNS で広く宣伝する必要がある。",
+     "parts": [
+      [
+       "publ",
+       "人民；公众（publicus）",
+       "人々；公衆（publicus）"
+      ],
+      [
+       "-ic",
+       "形容词后缀",
+       "形容詞を作る"
+      ],
+      [
+       "-ize",
+       "动词后缀（使……）",
+       "動詞を作る（〜化する）"
+      ]
+     ],
+     "note": {
+      "zh": "public + -ize“使公开”。",
+      "ja": "public＋-ize「公にする」。"
+     },
+     "forms": [
+      [
+       "publicity (n.)",
+       "宣传；公众关注",
+       "宣伝；評判"
+      ],
+      [
+       "well-publicized",
+       "广为宣传的",
+       "よく宣伝された"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5：publicize (v.) / publicity (n.) / public (adj.) 的词性辨析。",
+      "ja": "Part 5：publicize (v.)／publicity (n.)／public (adj.) の品詞を見分けよう。"
+     }
+    },
+    {
+     "w": "publisher",
+     "pos": "n.",
+     "ipa": "/ˈpʌblɪʃɚ/",
+     "zh": "出版社；出版商",
+     "ja": "出版社；発行者",
+     "ex": "The publisher has agreed to release a second edition of the guidebook next spring.",
+     "ex_zh": "出版社已同意明年春天推出这本旅游指南的第二版。",
+     "ex_ja": "出版社はそのガイドブックの第 2 版を来春出すことに同意した。",
+     "parts": [
+      [
+       "publ",
+       "人民；公众（publicus）",
+       "人々；公衆（publicus）"
+      ],
+      [
+       "-ish",
+       "动词词尾",
+       "動詞語尾"
+      ],
+      [
+       "-er",
+       "表示人或机构",
+       "〜する人・組織"
+      ]
+     ],
+     "note": {
+      "zh": "publish 经古法语 publier 来自拉丁语 publicare“公开”。",
+      "ja": "publish は古フランス語 publier、ラテン語 publicare「公にする」から。"
+     },
+     "forms": [
+      [
+       "publish (v.)",
+       "出版；发表",
+       "出版する；公表する"
+      ],
+      [
+       "publishing house",
+       "出版社",
+       "出版社"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "hosp",
+   "title_zh": "词根 -hosp- / -host-：客人；主人",
+   "title_ja": "語根 -hosp- / -host-：客；主人",
+   "words": [
+    {
+     "w": "hospitable",
+     "pos": "adj.",
+     "ipa": "/hɑˈspɪtəbəl/",
+     "zh": "好客的；（环境）宜人的",
+     "ja": "もてなしのよい；（環境が）快適な",
+     "ex": "The staff at the inn were extremely hospitable to all the conference guests.",
+     "ex_zh": "旅馆员工对所有参会客人都非常热情周到。",
+     "ex_ja": "その旅館のスタッフは会議の参加者全員をとても温かくもてなした。",
+     "parts": [
+      [
+       "hospit",
+       "客人；主人（hospes, hospit-）",
+       "客；主人（hospes, hospit-）"
+      ],
+      [
+       "-able",
+       "能……的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "中世纪拉丁语 hospitare“招待客人”。",
+      "ja": "中世ラテン語 hospitare「客をもてなす」。"
+     },
+     "forms": [
+      [
+       "hospitality (n.)",
+       "款待；酒店餐饮服务",
+       "もてなし；接客"
+      ],
+      [
+       "the hospitality industry",
+       "酒店餐饮业",
+       "ホスピタリティ産業"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7：hospitality industry 指酒店、餐饮、旅游等接待行业。",
+      "ja": "Part 7：hospitality industry はホテル・飲食・観光などの接客業。"
+     }
+    },
+    {
+     "w": "inhospitable",
+     "pos": "adj.",
+     "ipa": "/ˌɪnhɑˈspɪtəbəl/",
+     "zh": "不好客的；（环境）恶劣的",
+     "ja": "無愛想な；（環境が）住みにくい",
+     "ex": "The research station is located in an inhospitable region with long, freezing winters.",
+     "ex_zh": "这个科考站位于冬季漫长而严寒的恶劣地区。",
+     "ex_ja": "その研究基地は冬が長く凍える、過酷な地域にある。",
+     "parts": [
+      [
+       "in-",
+       "不",
+       "不〜"
+      ],
+      [
+       "hospit",
+       "客人；主人（hospes, hospit-）",
+       "客；主人（hospes, hospit-）"
+      ],
+      [
+       "-able",
+       "能……的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "in-“不”+ hospitable。",
+      "ja": "in-「不」＋hospitable。"
+     },
+     "forms": [
+      [
+       "inhospitable climate",
+       "恶劣的气候",
+       "過酷な気候"
+      ],
+      [
+       "inhospitable terrain",
+       "险恶的地形",
+       "過酷な地形"
+      ]
+     ]
+    },
+    {
+     "w": "hospital",
+     "pos": "n.",
+     "ipa": "/ˈhɑspɪtəl/",
+     "zh": "医院",
+     "ja": "病院",
+     "ex": "The new hospital wing will add 120 beds and a larger emergency room.",
+     "ex_zh": "医院新楼将增加 120 张床位和一个更大的急诊室。",
+     "ex_ja": "病院の新病棟でベッドが 120 床増え、救急室も広くなる。",
+     "parts": [
+      [
+       "hospit",
+       "客人；主人（hospes, hospit-）",
+       "客；主人（hospes, hospit-）"
+      ],
+      [
+       "-al",
+       "名词后缀（场所）",
+       "名詞を作る（場所）"
+      ]
+     ],
+     "note": {
+      "zh": "中世纪拉丁语 hospitale“招待客人的地方”，后来才专指医院。",
+      "ja": "中世ラテン語 hospitale「客をもてなす場所」。後に病院の意味になった。"
+     },
+     "forms": [
+      [
+       "be admitted to the hospital",
+       "住院",
+       "入院する"
+      ],
+      [
+       "hospital staff",
+       "医院员工",
+       "病院職員"
+      ]
+     ]
+    },
+    {
+     "w": "hospitalize",
+     "pos": "v.",
+     "ipa": "/ˈhɑspɪtəˌlaɪz/",
+     "zh": "使住院",
+     "ja": "入院させる",
+     "ex": "Two workers were hospitalized after the accident but have since returned to work.",
+     "ex_zh": "两名工人在事故后住院，但现在已经回到工作岗位。",
+     "ex_ja": "2 人の作業員が事故後に入院したが、すでに職場に復帰している。",
+     "parts": [
+      [
+       "hospit",
+       "客人；主人（hospes, hospit-）",
+       "客；主人（hospes, hospit-）"
+      ],
+      [
+       "-al",
+       "名词后缀",
+       "名詞を作る"
+      ],
+      [
+       "-ize",
+       "动词后缀",
+       "動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "hospital + -ize“送进医院”。",
+      "ja": "hospital＋-ize「病院に入れる」。"
+     },
+     "forms": [
+      [
+       "hospitalization (n.)",
+       "住院",
+       "入院"
+      ],
+      [
+       "be hospitalized for",
+       "因……住院",
+       "〜で入院する"
+      ]
+     ],
+     "hl": "hospitalized"
+    },
+    {
+     "w": "host",
+     "pos": "n./v.",
+     "ipa": "/hoʊst/",
+     "zh": "主人；主持人；主办",
+     "ja": "主催者；司会者；主催する",
+     "ex": "Our company will host the regional sales conference in Osaka this year.",
+     "ex_zh": "今年我们公司将在大阪主办地区销售大会。",
+     "ex_ja": "今年は当社が大阪で地域営業会議を主催する。",
+     "parts": [
+      [
+       "hospit",
+       "客人；主人（hospes, hospit-）",
+       "客；主人（hospes, hospit-）"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 hoste，来自拉丁语 hospes（hospit-）“客人；主人”。⚠️ a host of（大量的）里的 host 来自另一个词 hostis“敌人 → 军队”。",
+      "ja": "古フランス語 hoste、ラテン語 hospes（hospit-）「客；主人」から。⚠️ a host of（多数の）の host は hostis「敵 → 軍勢」から来た別の語。"
+     },
+     "forms": [
+      [
+       "host a conference",
+       "主办会议",
+       "会議を主催する"
+      ],
+      [
+       "a host of",
+       "大量的",
+       "多数の"
+      ],
+      [
+       "host city",
+       "主办城市",
+       "開催都市"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 4：Today's guest... I'm your host（我是主持人）。host = 主办 / 主持，动词名词同形。",
+      "ja": "Part 4：I'm your host（司会の〜です）。host は「主催する／司会」、動詞と名詞が同じ形。"
+     }
+    },
+    {
+     "w": "hostess",
+     "pos": "n.",
+     "ipa": "/ˈhoʊstɪs/",
+     "zh": "女主人；（餐厅）女领位员",
+     "ja": "女主人；（レストランの）案内係",
+     "ex": "The hostess greeted us at the door and showed us to a table by the window.",
+     "ex_zh": "女领位员在门口迎接我们，并带我们到靠窗的桌子。",
+     "ex_ja": "案内係が入口で出迎え、窓際の席へ案内してくれた。",
+     "parts": [
+      [
+       "host",
+       "主人（hospes）",
+       "主人（hospes）"
+      ],
+      [
+       "-ess",
+       "表示女性",
+       "女性を表す"
+      ]
+     ],
+     "note": {
+      "zh": "host + -ess（女性后缀）。",
+      "ja": "host＋-ess（女性を表す接尾辞）。"
+     },
+     "forms": [
+      [
+       "host (n.)",
+       "主人；主持人",
+       "主人；司会者"
+      ],
+      [
+       "show ... to a table",
+       "带……入座",
+       "〜を席に案内する"
+      ]
+     ]
+    },
+    {
+     "w": "hotel",
+     "pos": "n.",
+     "ipa": "/hoʊˈtɛl/",
+     "zh": "酒店；宾馆",
+     "ja": "ホテル",
+     "ex": "The hotel offers a free shuttle to the airport every thirty minutes.",
+     "ex_zh": "酒店每 30 分钟提供一班免费机场班车。",
+     "ex_ja": "そのホテルは 30 分ごとに空港への無料シャトルを運行している。",
+     "parts": [],
+     "note": {
+      "zh": "法语 hôtel，来自古法语 hostel，再往前是中世纪拉丁语 hospitale（与 hospital 同源）；词形已经变化，不再硬拆。",
+      "ja": "フランス語 hôtel、古フランス語 hostel、さらに中世ラテン語 hospitale（hospital と同語源）から。形が変わっているので無理に分解しない。"
+     },
+     "forms": [
+      [
+       "hotel lobby",
+       "酒店大堂",
+       "ホテルのロビー"
+      ],
+      [
+       "check in to a hotel",
+       "入住酒店",
+       "ホテルにチェックインする"
+      ]
+     ]
+    },
+    {
+     "w": "co-host",
+     "pos": "n./v.",
+     "ipa": "/ˈkoʊˌhoʊst/",
+     "zh": "联合主办；共同主持（人）",
+     "ja": "共催する；共同司会者",
+     "ex": "The trade fair will be co-hosted by the city of Kobe and a local business association.",
+     "ex_zh": "这次商品展将由神户市和当地一个商业协会联合主办。",
+     "ex_ja": "その見本市は神戸市と地元の経済団体が共催する。",
+     "parts": [
+      [
+       "co-",
+       "共同（com-）",
+       "共に（com-）"
+      ],
+      [
+       "host",
+       "主人（hospes）",
+       "主人（hospes）"
+      ]
+     ],
+     "note": {
+      "zh": "co-“共同”+ host。",
+      "ja": "co-「共に」＋host。"
+     },
+     "forms": [
+      [
+       "co-host an event",
+       "联合主办活动",
+       "イベントを共催する"
+      ],
+      [
+       "co-sponsor (v.)",
+       "联合赞助",
+       "共同後援する"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7：jointly hosted / co-hosted by A and B = 由 A 和 B 联合主办。",
+      "ja": "Part 7：co-hosted by A and B＝A と B の共催。"
+     },
+     "hl": "co-hosted"
+    }
+   ]
+  },
+  {
+   "id": "mens",
+   "title_zh": "词根 -mens- / -meter-：测量",
+   "title_ja": "語根 -mens- / -meter-：測る",
+   "words": [
+    {
+     "w": "dimension",
+     "pos": "n.",
+     "ipa": "/dɪˈmɛnʃən/",
+     "zh": "尺寸；方面；维度",
+     "ja": "寸法；側面；次元",
+     "ex": "Please check the dimensions of the desk before placing your order.",
+     "ex_zh": "下单前请确认书桌的尺寸。",
+     "ex_ja": "注文する前に机の寸法を確認してください。",
+     "parts": [
+      [
+       "di-",
+       "（dis-）完全；分开",
+       "（dis-）すっかり；分けて"
+      ],
+      [
+       "mens",
+       "测量（metiri, mensus）",
+       "測る（metiri, mensus）"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 dimensio，来自 dimetiri“量出”。",
+      "ja": "ラテン語 dimensio、dimetiri「測り出す」から。"
+     },
+     "forms": [
+      [
+       "dimensions (n. pl.)",
+       "尺寸",
+       "寸法"
+      ],
+      [
+       "three-dimensional",
+       "三维的",
+       "3 次元の"
+      ],
+      [
+       "a new dimension",
+       "新的方面",
+       "新たな側面"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7：网购说明里 dimensions = 长宽高尺寸，常和 weight 一起出现。",
+      "ja": "Part 7：通販の説明で dimensions は縦・横・高さの寸法。weight と一緒に出やすい。"
+     }
+    },
+    {
+     "w": "immense",
+     "pos": "adj.",
+     "ipa": "/ɪˈmɛns/",
+     "zh": "巨大的；极大的",
+     "ja": "莫大な；巨大な",
+     "ex": "The new shopping complex attracted an immense number of visitors on its opening day.",
+     "ex_zh": "新购物中心开业当天吸引了大量游客。",
+     "ex_ja": "新しいショッピングモールは開業日に莫大な数の来客を集めた。",
+     "parts": [
+      [
+       "im-",
+       "不",
+       "不〜"
+      ],
+      [
+       "mens",
+       "测量（metiri, mensus）",
+       "測る（metiri, mensus）"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 immensus“无法测量的”→ 巨大的。",
+      "ja": "ラテン語 immensus「測れない」→ 巨大な。"
+     },
+     "forms": [
+      [
+       "immense pressure",
+       "巨大压力",
+       "大きなプレッシャー"
+      ],
+      [
+       "immense value",
+       "极大的价值",
+       "計り知れない価値"
+      ]
+     ]
+    },
+    {
+     "w": "immensely",
+     "pos": "adv.",
+     "ipa": "/ɪˈmɛnsli/",
+     "zh": "极其；非常",
+     "ja": "非常に；大いに",
+     "ex": "The workshop was immensely helpful for our new employees.",
+     "ex_zh": "这次研习会对我们的新员工非常有帮助。",
+     "ex_ja": "その研修は新入社員にとって非常に役立った。",
+     "parts": [
+      [
+       "im-",
+       "不",
+       "不〜"
+      ],
+      [
+       "mens",
+       "测量（metiri, mensus）",
+       "測る（metiri, mensus）"
+      ],
+      [
+       "-ly",
+       "副词后缀",
+       "副詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "immense + -ly。",
+      "ja": "immense＋-ly。"
+     },
+     "forms": [
+      [
+       "immensely popular",
+       "极受欢迎的",
+       "非常に人気のある"
+      ],
+      [
+       "enjoy ... immensely",
+       "非常享受",
+       "大いに楽しむ"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5：修饰形容词 helpful 用副词 immensely，不用 immense。",
+      "ja": "Part 5：形容詞 helpful を修飾するのは副詞 immensely。"
+     }
+    },
+    {
+     "w": "commensurate",
+     "pos": "adj.",
+     "ipa": "/kəˈmɛnsərət/",
+     "zh": "相称的；相当的",
+     "ja": "釣り合った；見合った",
+     "ex": "Salary will be commensurate with experience and qualifications.",
+     "ex_zh": "薪资将根据经验和资历而定。",
+     "ex_ja": "給与は経験と資格に応じて決定します。",
+     "parts": [
+      [
+       "com-",
+       "共同",
+       "共に"
+      ],
+      [
+       "mens",
+       "测量（metiri, mensus）",
+       "測る（metiri, mensus）"
+      ],
+      [
+       "-ate",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "后期拉丁语 commensuratus“用同一标准衡量的”。",
+      "ja": "後期ラテン語 commensuratus「同じ尺度で測られた」。"
+     },
+     "forms": [
+      [
+       "commensurate with",
+       "与……相称",
+       "〜に見合った"
+      ],
+      [
+       "salary commensurate with experience",
+       "薪资视经验而定",
+       "経験に応じた給与"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7 招聘广告固定句：Salary commensurate with experience. 介词固定用 with。",
+      "ja": "Part 7 求人広告の定番：Salary commensurate with experience. 前置詞は with。"
+     }
+    },
+    {
+     "w": "measurable",
+     "pos": "adj.",
+     "ipa": "/ˈmɛʒərəbəl/",
+     "zh": "可衡量的；显著的",
+     "ja": "測定できる；目に見える",
+     "ex": "The new training program has led to measurable improvements in customer satisfaction.",
+     "ex_zh": "新培训项目使客户满意度有了明显提升。",
+     "ex_ja": "新しい研修プログラムで顧客満足度が目に見えて向上した。",
+     "parts": [
+      [
+       "meas(ure)",
+       "测量（mensura）",
+       "測る（mensura）"
+      ],
+      [
+       "-able",
+       "能……的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "measure 经古法语 mesure 来自拉丁语 mensura（metiri“测量”），与 mens 同源。",
+      "ja": "measure は古フランス語 mesure、ラテン語 mensura（metiri「測る」）から。mens と同語源。"
+     },
+     "forms": [
+      [
+       "measure (v./n.)",
+       "测量；措施",
+       "測る；対策"
+      ],
+      [
+       "measurable goals",
+       "可衡量的目标",
+       "測定可能な目標"
+      ]
+     ]
+    },
+    {
+     "w": "perimeter",
+     "pos": "n.",
+     "ipa": "/pəˈrɪmətɚ/",
+     "zh": "周长；周边；外围",
+     "ja": "周囲；外周",
+     "ex": "Security cameras have been installed around the perimeter of the warehouse.",
+     "ex_zh": "仓库四周已经安装了监控摄像头。",
+     "ex_ja": "倉庫の周囲に防犯カメラが設置された。",
+     "parts": [
+      [
+       "peri-",
+       "周围",
+       "周り"
+      ],
+      [
+       "meter",
+       "测量（希腊语 metron）",
+       "測る（ギリシャ語 metron）"
+      ]
+     ],
+     "note": {
+      "zh": "希腊语 perimetros“绕一周量”。",
+      "ja": "ギリシャ語 perimetros「周りを測る」。"
+     },
+     "forms": [
+      [
+       "perimeter fence",
+       "外围围栏",
+       "外周フェンス"
+      ],
+      [
+       "along the perimeter",
+       "沿着四周",
+       "周囲に沿って"
+      ]
+     ],
+     "tip": {
+      "zh": "⚠️ peri-（周围）≠ per-（穿过）：perimeter 与 per- 开头的 permit 不同。",
+      "ja": "⚠️ peri-（周り）≠ per-（通して）。"
+     }
+    },
+    {
+     "w": "diameter",
+     "pos": "n.",
+     "ipa": "/daɪˈæmətɚ/",
+     "zh": "直径",
+     "ja": "直径",
+     "ex": "The round table has a diameter of 120 centimeters and seats six people.",
+     "ex_zh": "这张圆桌直径 120 厘米，可坐 6 人。",
+     "ex_ja": "その丸テーブルは直径 120 センチで 6 人座れる。",
+     "parts": [
+      [
+       "dia-",
+       "穿过",
+       "横切って"
+      ],
+      [
+       "meter",
+       "测量（希腊语 metron）",
+       "測る（ギリシャ語 metron）"
+      ]
+     ],
+     "note": {
+      "zh": "希腊语 diametros“穿过（中心）量”。",
+      "ja": "ギリシャ語 diametros「（中心を）横切って測る」。"
+     },
+     "forms": [
+      [
+       "in diameter",
+       "直径为",
+       "直径で"
+      ],
+      [
+       "radius (n.)",
+       "半径",
+       "半径"
+      ]
+     ]
+    },
+    {
+     "w": "parameter",
+     "pos": "n.",
+     "ipa": "/pəˈræmətɚ/",
+     "zh": "参数；限定范围",
+     "ja": "条件；範囲；パラメーター",
+     "ex": "The project must be completed within the budget parameters set by management.",
+     "ex_zh": "项目必须在管理层设定的预算范围内完成。",
+     "ex_ja": "プロジェクトは経営陣が定めた予算の範囲内で完了しなければならない。",
+     "parts": [
+      [
+       "para-",
+       "旁边",
+       "そばに"
+      ],
+      [
+       "meter",
+       "测量（希腊语 metron）",
+       "測る（ギリシャ語 metron）"
+      ]
+     ],
+     "note": {
+      "zh": "现代拉丁语 parameter，来自希腊语 para-“旁边”+ metron“测量”。",
+      "ja": "近代ラテン語 parameter、ギリシャ語 para-「そば」＋metron「測る」から。"
+     },
+     "forms": [
+      [
+       "within the parameters",
+       "在范围之内",
+       "範囲内で"
+      ],
+      [
+       "set parameters",
+       "设定参数 / 范围",
+       "条件を設定する"
+      ]
+     ],
+     "hl": "parameters"
+    }
+   ]
+  },
+  {
+   "id": "bene",
+   "title_zh": "词根 -bene- / -bon-：好；善",
+   "title_ja": "語根 -bene- / -bon-：よい",
+   "words": [
+    {
+     "w": "benefit",
+     "pos": "n./v.",
+     "ipa": "/ˈbɛnəfɪt/",
+     "zh": "好处；福利；受益",
+     "ja": "利点；給付；恩恵を受ける",
+     "ex": "One benefit of the new system is that employees can submit expense reports from their phones.",
+     "ex_zh": "新系统的一个好处是员工可以用手机提交报销单。",
+     "ex_ja": "新システムの利点の一つは、社員がスマホから経費報告を出せることだ。",
+     "parts": [
+      [
+       "bene",
+       "好；善（bene）",
+       "よく；善（bene）"
+      ],
+      [
+       "fit",
+       "做（facere）",
+       "する（facere）"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 benefactum“善行”（bene“好”+ facere“做”），经古法语 bienfait。",
+      "ja": "ラテン語 benefactum「善行」（bene「よく」＋facere「する」）、古フランス語 bienfait 経由。"
+     },
+     "forms": [
+      [
+       "benefit from",
+       "从……中受益",
+       "〜から恩恵を受ける"
+      ],
+      [
+       "employee benefits",
+       "员工福利",
+       "福利厚生"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5：benefit from + 名词（受益于）；benefit 作及物动词 = 对……有益。",
+      "ja": "Part 5：benefit from＋名詞（〜から恩恵を受ける）。他動詞なら「〜のためになる」。"
+     }
+    },
+    {
+     "w": "beneficial",
+     "pos": "adj.",
+     "ipa": "/ˌbɛnəˈfɪʃəl/",
+     "zh": "有益的；有利的",
+     "ja": "有益な；役に立つ",
+     "ex": "Regular breaks are beneficial to both health and productivity.",
+     "ex_zh": "定期休息对健康和效率都有好处。",
+     "ex_ja": "定期的な休憩は健康にも生産性にも有益だ。",
+     "parts": [
+      [
+       "bene",
+       "好；善（bene）",
+       "よく；善（bene）"
+      ],
+      [
+       "fic",
+       "做（facere）",
+       "する（facere）"
+      ],
+      [
+       "-ial",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 beneficium“善行；恩惠”。",
+      "ja": "ラテン語 beneficium「善行；恩恵」。"
+     },
+     "forms": [
+      [
+       "be beneficial to",
+       "对……有益",
+       "〜に有益だ"
+      ],
+      [
+       "mutually beneficial",
+       "互利的",
+       "互いに有益な"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5：beneficial (adj.) / benefit (n./v.) / beneficiary (n. 受益人) 词性辨析。",
+      "ja": "Part 5：beneficial (adj.)／benefit (n./v.)／beneficiary (n. 受益者) の品詞。"
+     }
+    },
+    {
+     "w": "benevolent",
+     "pos": "adj.",
+     "ipa": "/bəˈnɛvələnt/",
+     "zh": "仁慈的；慈善的",
+     "ja": "慈悲深い；慈善の",
+     "ex": "The benevolent fund helps employees who face unexpected financial difficulties.",
+     "ex_zh": "这个互助基金帮助遭遇意外经济困难的员工。",
+     "ex_ja": "その共済基金は思わぬ経済的困難に直面した社員を援助する。",
+     "parts": [
+      [
+       "bene",
+       "好；善（bene）",
+       "よく；善（bene）"
+      ],
+      [
+       "vol",
+       "意愿（velle）",
+       "望む（velle）"
+      ],
+      [
+       "-ent",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 benevolens“怀有善意的”（bene + velle“愿意”）。",
+      "ja": "ラテン語 benevolens「善意を持つ」（bene＋velle「望む」）。"
+     },
+     "forms": [
+      [
+       "benevolence (n.)",
+       "仁慈；善意",
+       "善意"
+      ],
+      [
+       "benevolent fund",
+       "互助 / 慈善基金",
+       "共済基金"
+      ]
+     ]
+    },
+    {
+     "w": "benign",
+     "pos": "adj.",
+     "ipa": "/bɪˈnaɪn/",
+     "zh": "良性的；温和的；无害的",
+     "ja": "良性の；穏やかな；害のない",
+     "ex": "Analysts describe the current market conditions as relatively benign for new investors.",
+     "ex_zh": "分析师认为目前的市场环境对新投资者来说相对温和。",
+     "ex_ja": "アナリストは現在の市場環境を新規投資家にとって比較的穏やかだと評している。",
+     "parts": [
+      [
+       "beni",
+       "好（bene）",
+       "よく（bene）"
+      ],
+      [
+       "gn",
+       "出生（gignere）",
+       "生まれる（gignere）"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 benignus“生性善良的”（bene + gignere“生”）。注意 g 不发音。",
+      "ja": "ラテン語 benignus「生まれつき善良な」（bene＋gignere「生む」）。g は発音しない。"
+     },
+     "forms": [
+      [
+       "benign tumor",
+       "良性肿瘤",
+       "良性腫瘍"
+      ],
+      [
+       "environmentally benign",
+       "对环境无害的",
+       "環境にやさしい"
+      ]
+     ],
+     "tip": {
+      "zh": "发音陷阱：benign /bɪˈnaɪn/，g 不发音（同 sign、design）。",
+      "ja": "発音の落とし穴：benign の g は発音しない（sign、design と同じ）。"
+     }
+    },
+    {
+     "w": "bona fide",
+     "pos": "adj.",
+     "ipa": "/ˈboʊnə ˌfaɪd/",
+     "zh": "真诚的；真正的",
+     "ja": "誠実な；本物の",
+     "ex": "Only bona fide members of the association may vote at the annual meeting.",
+     "ex_zh": "只有协会的正式会员才能在年会上投票。",
+     "ex_ja": "年次総会で投票できるのは協会の正会員だけだ。",
+     "parts": [
+      [
+       "bona",
+       "好（bonus）",
+       "よい（bonus）"
+      ],
+      [
+       "fide",
+       "信用（fides）",
+       "信頼（fides）"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 bona fide“以诚信”（bonus“好”+ fides“信用”）。",
+      "ja": "ラテン語 bona fide「誠意をもって」（bonus「よい」＋fides「信頼」）。"
+     },
+     "forms": [
+      [
+       "a bona fide offer",
+       "真诚的报价",
+       "正式な申し出"
+      ],
+      [
+       "a bona fide expert",
+       "真正的专家",
+       "本物の専門家"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7：bona fide 常见于合同和会员规定，意思接近 genuine。",
+      "ja": "Part 7：契約や会員規約で使われる。genuine に近い意味。"
+     }
+    },
+    {
+     "w": "bounty",
+     "pos": "n.",
+     "ipa": "/ˈbaʊnti/",
+     "zh": "赏金；丰富",
+     "ja": "報奨金；恵み",
+     "ex": "The software company offers a bounty to anyone who reports a serious security flaw.",
+     "ex_zh": "这家软件公司向报告严重安全漏洞的任何人提供赏金。",
+     "ex_ja": "そのソフト会社は重大なセキュリティ欠陥を報告した人に報奨金を出す。",
+     "parts": [],
+     "note": {
+      "zh": "古法语 bonte“善、慷慨”，来自拉丁语 bonitas（bonus“好”）；词形已变，不硬拆。",
+      "ja": "古フランス語 bonte「善・気前よさ」、ラテン語 bonitas（bonus「よい」）から。形が変わったので分解しない。"
+     },
+     "forms": [
+      [
+       "bug bounty program",
+       "漏洞悬赏计划",
+       "バグ報奨金制度"
+      ],
+      [
+       "bountiful (adj.)",
+       "丰富的",
+       "豊富な"
+      ]
+     ]
+    },
+    {
+     "w": "bountiful",
+     "pos": "adj.",
+     "ipa": "/ˈbaʊntɪfəl/",
+     "zh": "丰富的；充裕的",
+     "ja": "豊富な；豊かな",
+     "ex": "Thanks to the warm weather, local farmers expect a bountiful harvest this year.",
+     "ex_zh": "由于天气温暖，当地农民预计今年会大丰收。",
+     "ex_ja": "暖かい天候のおかげで、地元の農家は今年豊作を見込んでいる。",
+     "parts": [
+      [
+       "bounti",
+       "慷慨；丰盛（bonitas）",
+       "気前のよさ（bonitas）"
+      ],
+      [
+       "-ful",
+       "充满……的",
+       "〜に満ちた"
+      ]
+     ],
+     "note": {
+      "zh": "bounty + -ful。",
+      "ja": "bounty＋-ful。"
+     },
+     "forms": [
+      [
+       "a bountiful harvest",
+       "大丰收",
+       "豊作"
+      ],
+      [
+       "bountiful supply",
+       "充足的供应",
+       "豊富な供給"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "loyalty",
+   "title_zh": "主题：会员积分与忠诚计划",
+   "title_ja": "テーマ：会員ポイントとロイヤルティプログラム",
+   "words": [
+    {
+     "w": "perks",
+     "pos": "n.",
+     "ipa": "/pɝks/",
+     "zh": "额外福利；优惠",
+     "ja": "特典；役得",
+     "ex": "Members enjoy perks such as free shipping and early access to sales.",
+     "ex_zh": "会员享有免运费、提前参加促销等优惠。",
+     "ex_ja": "会員は送料無料やセールへの先行アクセスなどの特典を受けられる。",
+     "parts": [],
+     "note": {
+      "zh": "perquisite（额外收入）的口语缩写；perquisite 来自拉丁语 perquirere“仔细寻求”，缩写后不再拆分。",
+      "ja": "perquisite（臨時収入）の口語短縮形。perquisite はラテン語 perquirere「探し求める」から。短縮形なので分解しない。"
+     },
+     "forms": [
+      [
+       "perk (n.)",
+       "一项福利",
+       "特典の一つ"
+      ],
+      [
+       "job perks",
+       "工作福利",
+       "仕事の役得"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7：perks / benefits / privileges 都可指会员“权益”，同义替换常考。",
+      "ja": "Part 7：perks / benefits / privileges はいずれも会員の「特典」。言い換えに注意。"
+     }
+    },
+    {
+     "w": "redeemable",
+     "pos": "adj.",
+     "ipa": "/rɪˈdiməbəl/",
+     "zh": "可兑换的；可赎回的",
+     "ja": "引き換え可能な；換金できる",
+     "ex": "Reward points are redeemable for gift cards or discounts on future purchases.",
+     "ex_zh": "积分可以兑换礼品卡或日后购物的折扣。",
+     "ex_ja": "ポイントはギフトカードや次回以降の割引と引き換えられる。",
+     "parts": [
+      [
+       "red-",
+       "回（re-）",
+       "戻して（re-）"
+      ],
+      [
+       "eem",
+       "拿；买（emere）",
+       "取る；買う（emere）"
+      ],
+      [
+       "-able",
+       "能……的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "redeem 来自拉丁语 redimere“买回”（red- + emere）。",
+      "ja": "redeem はラテン語 redimere「買い戻す」（red-＋emere）から。"
+     },
+     "forms": [
+      [
+       "redeem (v.)",
+       "兑换；赎回",
+       "引き換える"
+      ],
+      [
+       "redeemable for",
+       "可兑换成",
+       "〜と交換できる"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5/7：redeem points / a coupon（兑换积分 / 优惠券），介词用 for。",
+      "ja": "Part 5/7：redeem points / a coupon（ポイント・クーポンを使う）。交換先は for。"
+     }
+    },
+    {
+     "w": "redemption",
+     "pos": "n.",
+     "ipa": "/rɪˈdɛmpʃən/",
+     "zh": "兑换；赎回",
+     "ja": "引き換え；換金",
+     "ex": "Point redemption is available online or at any of our stores.",
+     "ex_zh": "积分兑换可在网上或任何门店进行。",
+     "ex_ja": "ポイントの引き換えはオンラインまたは全店舗で可能です。",
+     "parts": [
+      [
+       "red-",
+       "回（re-）",
+       "戻して（re-）"
+      ],
+      [
+       "empt",
+       "买（emptus）",
+       "買う（emptus）"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 redemptio“买回”。",
+      "ja": "ラテン語 redemptio「買い戻し」。"
+     },
+     "forms": [
+      [
+       "redemption code",
+       "兑换码",
+       "引き換えコード"
+      ],
+      [
+       "redemption rate",
+       "兑换率",
+       "引き換え率"
+      ]
+     ]
+    },
+    {
+     "w": "rewards",
+     "pos": "n.",
+     "ipa": "/rɪˈwɔrdz/",
+     "zh": "奖励；回馈（积分）",
+     "ja": "報酬；（ポイントの）特典",
+     "ex": "Join our rewards program and earn one point for every 100 yen you spend.",
+     "ex_zh": "加入我们的积分回馈计划，每消费 100 日元可得 1 积分。",
+     "ex_ja": "当社のリワードプログラムに入会すると、100 円ごとに 1 ポイントたまります。",
+     "parts": [],
+     "note": {
+      "zh": "古北部法语 rewarder“关照、注视”（与 regard 同源，后半部分是日耳曼语源），没有简单可靠的拉丁词根拆分。",
+      "ja": "古北フランス語 rewarder「気にかける・見る」（regard と同語源、後半はゲルマン語系）。単純で信頼できるラテン語根の分解はない。"
+     },
+     "forms": [
+      [
+       "rewards card",
+       "积分卡",
+       "ポイントカード"
+      ],
+      [
+       "reward (v.)",
+       "奖励",
+       "報いる"
+      ]
+     ]
+    },
+    {
+     "w": "accumulate",
+     "pos": "v.",
+     "ipa": "/əˈkjumjəˌleɪt/",
+     "zh": "积累；累积",
+     "ja": "ためる；蓄積する",
+     "ex": "Points accumulate automatically each time you use your membership card.",
+     "ex_zh": "每次使用会员卡，积分都会自动累积。",
+     "ex_ja": "会員カードを使うたびにポイントが自動的にたまる。",
+     "parts": [
+      [
+       "ac-",
+       "向（ad-）",
+       "〜へ（ad-）"
+      ],
+      [
+       "cumul",
+       "堆（cumulus）",
+       "積み重ね（cumulus）"
+      ],
+      [
+       "-ate",
+       "动词后缀",
+       "動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 accumulare“堆起来”。",
+      "ja": "ラテン語 accumulare「積み上げる」。"
+     },
+     "forms": [
+      [
+       "accumulation (n.)",
+       "积累",
+       "蓄積"
+      ],
+      [
+       "cumulative (adj.)",
+       "累计的",
+       "累積の"
+      ]
+     ]
+    },
+    {
+     "w": "tier",
+     "pos": "n.",
+     "ipa": "/tɪr/",
+     "zh": "等级；层级",
+     "ja": "ランク；段階",
+     "ex": "Customers who spend over 50,000 yen a year move up to the gold tier.",
+     "ex_zh": "年消费超过 5 万日元的顾客升级为金卡等级。",
+     "ex_ja": "年間 5 万円以上利用した顧客はゴールドランクに上がる。",
+     "parts": [],
+     "note": {
+      "zh": "来自古法语 tire“排、列”，更早来源不明，没有可靠的词根拆分。",
+      "ja": "古フランス語 tire「列」から。それ以前は不明で、信頼できる語根分解はない。"
+     },
+     "forms": [
+      [
+       "tiered pricing",
+       "分级定价",
+       "段階的価格設定"
+      ],
+      [
+       "top tier",
+       "最高等级",
+       "最上位ランク"
+      ]
+     ],
+     "tip": {
+      "zh": "⚠️ 发音：tier /tɪr/ 与 tear（眼泪）同音，不读 /taɪɚ/。",
+      "ja": "⚠️ 発音：tier は tear（涙）と同じ /tɪr/。"
+     }
+    },
+    {
+     "w": "eligibility",
+     "pos": "n.",
+     "ipa": "/ˌɛlɪdʒəˈbɪləti/",
+     "zh": "资格；合格条件",
+     "ja": "資格；適格性",
+     "ex": "Eligibility for the premium discount depends on your total purchases over the past year.",
+     "ex_zh": "能否享受高级折扣取决于你过去一年的消费总额。",
+     "ex_ja": "プレミアム割引の資格は過去 1 年間の購入総額で決まる。",
+     "parts": [
+      [
+       "e-",
+       "出（ex-）",
+       "外へ（ex-）"
+      ],
+      [
+       "lig",
+       "选（legere）",
+       "選ぶ（legere）"
+      ],
+      [
+       "-ibility",
+       "名词后缀（能……）",
+       "名詞を作る（〜できること）"
+      ]
+     ],
+     "note": {
+      "zh": "eligible 来自后期拉丁语 eligibilis“可选出的”（eligere“挑选”）。",
+      "ja": "eligible は後期ラテン語 eligibilis「選ばれうる」（eligere「選ぶ」）から。"
+     },
+     "forms": [
+      [
+       "eligible (adj.)",
+       "有资格的",
+       "資格がある"
+      ],
+      [
+       "eligibility requirements",
+       "资格条件",
+       "資格要件"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5：be eligible for + 名词 / be eligible to do；名词是 eligibility。",
+      "ja": "Part 5：be eligible for＋名詞／be eligible to do。名詞は eligibility。"
+     }
+    },
+    {
+     "w": "privilege",
+     "pos": "n.",
+     "ipa": "/ˈprɪvəlɪdʒ/",
+     "zh": "特权；优待；荣幸",
+     "ja": "特権；特典；光栄",
+     "ex": "Gold members have the privilege of using the airport lounge free of charge.",
+     "ex_zh": "金卡会员享有免费使用机场贵宾室的特权。",
+     "ex_ja": "ゴールド会員は空港ラウンジを無料で使える特権がある。",
+     "parts": [
+      [
+       "privi",
+       "个人的（privus）",
+       "個人の（privus）"
+      ],
+      [
+       "leg",
+       "法律（lex, leg-）",
+       "法（lex, leg-）"
+      ],
+      [
+       "-e",
+       "词尾",
+       "語尾"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 privilegium“只针对个人的法律”→ 特权。",
+      "ja": "ラテン語 privilegium「個人だけに関わる法」→ 特権。"
+     },
+     "forms": [
+      [
+       "privileged (adj.)",
+       "享有特权的；荣幸的",
+       "特権のある；光栄な"
+      ],
+      [
+       "membership privileges",
+       "会员特权",
+       "会員特典"
+      ],
+      [
+       "It's a privilege to ...",
+       "……是我的荣幸",
+       "〜できて光栄です"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 4 致辞：It's a privilege to introduce ...（很荣幸介绍……）。",
+      "ja": "Part 4 のスピーチ：It's a privilege to introduce ...（ご紹介できて光栄です）。"
+     }
+    },
+    {
+     "w": "patronage",
+     "pos": "n.",
+     "ipa": "/ˈpeɪtrənɪdʒ/",
+     "zh": "惠顾；光顾；赞助",
+     "ja": "ひいき；愛顧；後援",
+     "ex": "We thank you for your continued patronage and look forward to serving you again.",
+     "ex_zh": "感谢您一直以来的惠顾，期待再次为您服务。",
+     "ex_ja": "日頃のご愛顧に感謝し、またのご利用をお待ちしております。",
+     "parts": [
+      [
+       "patr",
+       "父亲（pater）",
+       "父（pater）"
+      ],
+      [
+       "-on",
+       "名词词尾",
+       "名詞語尾"
+      ],
+      [
+       "-age",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "patron 来自拉丁语 patronus“保护人”（pater“父亲”）。",
+      "ja": "patron はラテン語 patronus「保護者」（pater「父」）から。"
+     },
+     "forms": [
+      [
+       "patron (n.)",
+       "顾客；赞助人",
+       "常連客；後援者"
+      ],
+      [
+       "patronize (v.)",
+       "光顾",
+       "ひいきにする"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7 信件结尾：Thank you for your patronage.（感谢惠顾）",
+      "ja": "Part 7 の手紙の結び：Thank you for your patronage.（ご愛顧ありがとうございます）"
+     }
+    },
+    {
+     "w": "frequently",
+     "pos": "adv.",
+     "ipa": "/ˈfrikwəntli/",
+     "zh": "经常；频繁地",
+     "ja": "頻繁に；よく",
+     "ex": "Frequently asked questions about the program are listed on our website.",
+     "ex_zh": "关于该计划的常见问题已列在我们的网站上。",
+     "ex_ja": "プログラムに関するよくある質問は当社のウェブサイトに掲載しています。",
+     "parts": [],
+     "note": {
+      "zh": "拉丁语 frequens“拥挤的、常见的”，更早的来源不确定，没有可靠的词根拆分。",
+      "ja": "ラテン語 frequens「混み合った・よくある」から。それ以前は不確かで、信頼できる語根分解はない。"
+     },
+     "forms": [
+      [
+       "frequent (adj.)",
+       "频繁的",
+       "頻繁な"
+      ],
+      [
+       "frequent flyer program",
+       "常旅客计划",
+       "マイレージプログラム"
+      ],
+      [
+       "frequency (n.)",
+       "频率",
+       "頻度"
+      ]
+     ],
+     "tip": {
+      "zh": "FAQ = Frequently Asked Questions（常见问题）。",
+      "ja": "FAQ＝Frequently Asked Questions（よくある質問）。"
+     }
+    },
+    {
+     "w": "lapse",
+     "pos": "n./v.",
+     "ipa": "/læps/",
+     "zh": "失效；过期；（小）失误",
+     "ja": "失効する；（ちょっとした）過失",
+     "ex": "Your membership will lapse if it is not renewed by March 31.",
+     "ex_zh": "如果在 3 月 31 日前不续费，你的会员资格将失效。",
+     "ex_ja": "3 月 31 日までに更新しないと会員資格が失効します。",
+     "parts": [
+      [
+       "laps",
+       "滑落（labi, lapsus）",
+       "滑る（labi, lapsus）"
+      ],
+      [
+       "-e",
+       "词尾",
+       "語尾"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 lapsus“滑落”。",
+      "ja": "ラテン語 lapsus「滑ること」。"
+     },
+     "forms": [
+      [
+       "let ... lapse",
+       "让……失效",
+       "〜を失効させる"
+      ],
+      [
+       "a lapse in judgment",
+       "判断失误",
+       "判断ミス"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7：expire / lapse 都表示“到期失效”，常互相替换。",
+      "ja": "Part 7：expire と lapse はどちらも「失効する」。言い換えに注意。"
+     }
+    },
+    {
+     "w": "activation",
+     "pos": "n.",
+     "ipa": "/ˌæktəˈveɪʃən/",
+     "zh": "激活；开通",
+     "ja": "有効化；起動",
+     "ex": "Card activation can be completed by calling the number on the back of the card.",
+     "ex_zh": "拨打卡背面的号码即可完成激活。",
+     "ex_ja": "カードの有効化は裏面の番号に電話すれば完了します。",
+     "parts": [
+      [
+       "act",
+       "做（agere, actus）",
+       "行う（agere, actus）"
+      ],
+      [
+       "-iv",
+       "形容词词尾",
+       "形容詞語尾"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "activate“使活动”+ -ion。",
+      "ja": "activate「作動させる」＋-ion。"
+     },
+     "forms": [
+      [
+       "activate (v.)",
+       "激活",
+       "有効にする"
+      ],
+      [
+       "activation code",
+       "激活码",
+       "アクティベーションコード"
+      ]
+     ]
+    },
+    {
+     "w": "threshold",
+     "pos": "n.",
+     "ipa": "/ˈθrɛʃˌhoʊld/",
+     "zh": "门槛；临界值；门口",
+     "ja": "しきい値；基準額；敷居",
+     "ex": "Customers who exceed the spending threshold receive free delivery for a year.",
+     "ex_zh": "消费超过门槛的顾客可享一年免费配送。",
+     "ex_ja": "利用額の基準を超えた顧客は 1 年間配送無料になる。",
+     "parts": [],
+     "note": {
+      "zh": "古英语 therscold；后半部分并不是 hold，词源不确定，没有可靠的词根拆分。",
+      "ja": "古英語 therscold から。後半は hold ではなく、語源は不確かで信頼できる語根分解はない。"
+     },
+     "forms": [
+      [
+       "on the threshold of",
+       "即将；在……的开端",
+       "〜の入り口に"
+      ],
+      [
+       "minimum threshold",
+       "最低门槛",
+       "最低基準"
+      ]
+     ],
+     "tip": {
+      "zh": "⚠️ 拼写：threshold 只有一个 h 在 s 后面（thresh-old），不是 threshhold。",
+      "ja": "⚠️ つづり：threshold（h は 1 つ）。threshhold ではない。"
+     }
+    },
+    {
+     "w": "entitled",
+     "pos": "adj.",
+     "ipa": "/ɪnˈtaɪtəld/",
+     "zh": "有权享有的；名为……的",
+     "ja": "権利がある；〜という題の",
+     "ex": "Premium members are entitled to a 10 percent discount on all items.",
+     "ex_zh": "高级会员可享受全场九折。",
+     "ex_ja": "プレミアム会員は全商品 10% 割引を受ける権利がある。",
+     "parts": [
+      [
+       "en-",
+       "使",
+       "〜にする"
+      ],
+      [
+       "title",
+       "名称；权利（titulus）",
+       "名称；権利（titulus）"
+      ],
+      [
+       "-ed",
+       "形容词（过去分词）",
+       "形容詞（過去分詞）"
+      ]
+     ],
+     "note": {
+      "zh": "entitle 来自古法语 entiteler“给予名称 / 权利”。",
+      "ja": "entitle は古フランス語 entiteler「名称・権利を与える」から。"
+     },
+     "forms": [
+      [
+       "be entitled to + n.",
+       "有权享有",
+       "〜を受ける資格がある"
+      ],
+      [
+       "entitlement (n.)",
+       "权利；应得之物",
+       "権利；受給資格"
+      ],
+      [
+       "a book entitled ...",
+       "一本名为……的书",
+       "〜という題の本"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5：be entitled to 的 to 是介词，后面接名词（to a discount）；也可 be entitled to do。",
+      "ja": "Part 5：be entitled to＋名詞（to a discount）。be entitled to do も可。"
+     }
+    },
+    {
+     "w": "nontransferable",
+     "pos": "adj.",
+     "ipa": "/ˌnɑntrænsˈfɝəbəl/",
+     "zh": "不可转让的",
+     "ja": "譲渡不可の",
+     "ex": "Gift vouchers are nontransferable and cannot be exchanged for cash.",
+     "ex_zh": "礼券不可转让，也不能兑换现金。",
+     "ex_ja": "ギフト券は譲渡不可で、現金との交換もできません。",
+     "parts": [
+      [
+       "non-",
+       "不",
+       "非〜"
+      ],
+      [
+       "trans-",
+       "跨越",
+       "越えて"
+      ],
+      [
+       "fer",
+       "携带（ferre）",
+       "運ぶ（ferre）"
+      ],
+      [
+       "-able",
+       "能……的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "non- + transferable（transfer“转移”来自拉丁语 transferre）。",
+      "ja": "non-＋transferable（transfer はラテン語 transferre「移す」）。"
+     },
+     "forms": [
+      [
+       "transferable (adj.)",
+       "可转让的",
+       "譲渡可能な"
+      ],
+      [
+       "nontransferable ticket",
+       "不可转让的票",
+       "譲渡不可のチケット"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7 细则题：nontransferable = 只能本人使用。",
+      "ja": "Part 7 の細則：nontransferable＝本人のみ使用可。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "carrental",
+   "title_zh": "主题：租车与自驾出行",
+   "title_ja": "テーマ：レンタカーとドライブ",
+   "words": [
+    {
+     "w": "rental",
+     "pos": "n./adj.",
+     "ipa": "/ˈrɛntəl/",
+     "zh": "租赁；租金；出租的",
+     "ja": "レンタル；賃貸料；賃貸の",
+     "ex": "The rental includes unlimited mileage and basic insurance.",
+     "ex_zh": "租金包含不限里程和基本保险。",
+     "ex_ja": "レンタル料には走行距離無制限と基本保険が含まれる。",
+     "parts": [
+      [
+       "rent",
+       "租金（rendita）",
+       "賃料（rendita）"
+      ],
+      [
+       "-al",
+       "名词 / 形容词后缀",
+       "名詞・形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "rent 来自古法语 rente“收入”，源自通俗拉丁语 rendita（reddere“交还”）。",
+      "ja": "rent は古フランス語 rente「収入」、俗ラテン語 rendita（reddere「返す」）から。"
+     },
+     "forms": [
+      [
+       "car rental agency",
+       "租车公司",
+       "レンタカー会社"
+      ],
+      [
+       "rental fee",
+       "租金",
+       "レンタル料"
+      ]
+     ]
+    },
+    {
+     "w": "fuel",
+     "pos": "n./v.",
+     "ipa": "/ˈfjuəl/",
+     "zh": "燃料；加油；助长",
+     "ja": "燃料；燃料を補給する；あおる",
+     "ex": "Rising fuel prices have pushed up the cost of business trips.",
+     "ex_zh": "燃油价格上涨推高了出差成本。",
+     "ex_ja": "燃料価格の上昇で出張費が上がった。",
+     "parts": [],
+     "note": {
+      "zh": "古法语 fouaille“柴火”，来自拉丁语 focus“炉火”；词形已变，不硬拆。",
+      "ja": "古フランス語 fouaille「薪」、ラテン語 focus「炉」から。形が変わったので分解しない。"
+     },
+     "forms": [
+      [
+       "fuel efficiency",
+       "燃油效率",
+       "燃費"
+      ],
+      [
+       "fuel-efficient",
+       "省油的",
+       "燃費のよい"
+      ]
+     ]
+    },
+    {
+     "w": "tank",
+     "pos": "n.",
+     "ipa": "/tæŋk/",
+     "zh": "油箱；储罐；水箱",
+     "ja": "タンク；燃料タンク",
+     "ex": "Customers must return the vehicle with a full tank or pay a refueling fee.",
+     "ex_zh": "顾客必须加满油还车，否则需支付加油费。",
+     "ex_ja": "顧客は満タンで返却するか、給油料金を払わなければならない。",
+     "parts": [],
+     "note": {
+      "zh": "来自葡萄牙语 tanque 等，来源有不同说法，没有可靠的词根拆分。",
+      "ja": "ポルトガル語 tanque などから。語源には諸説あり、信頼できる語根分解はない。"
+     },
+     "forms": [
+      [
+       "a full tank",
+       "满箱油",
+       "満タン"
+      ],
+      [
+       "fill up the tank",
+       "加满油",
+       "満タンにする"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 3/4 租车对话：return the car with a full tank（加满油还车）。",
+      "ja": "Part 3/4 のレンタカー：return the car with a full tank（満タン返し）。"
+     }
+    },
+    {
+     "w": "highway",
+     "pos": "n.",
+     "ipa": "/ˈhaɪˌweɪ/",
+     "zh": "公路；干道",
+     "ja": "幹線道路；高速道路",
+     "ex": "Traffic on the highway is expected to be heavy during the holiday weekend.",
+     "ex_zh": "假日周末期间公路预计会很拥堵。",
+     "ex_ja": "連休中は幹線道路の混雑が予想される。",
+     "parts": [
+      [
+       "high",
+       "高；主要的",
+       "高い；主要な"
+      ],
+      [
+       "way",
+       "路",
+       "道"
+      ]
+     ],
+     "note": {
+      "zh": "本族词复合：high“主要的”+ way“路”。",
+      "ja": "英語本来の複合語：high「主要な」＋way「道」。"
+     },
+     "forms": [
+      [
+       "highway exit",
+       "公路出口",
+       "高速道路の出口"
+      ],
+      [
+       "expressway",
+       "高速公路",
+       "高速道路"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 4 交通广播：heavy traffic on the highway / take an alternate route。",
+      "ja": "Part 4 の交通情報：heavy traffic on the highway / take an alternate route。"
+     }
+    },
+    {
+     "w": "navigation",
+     "pos": "n.",
+     "ipa": "/ˌnævəˈgeɪʃən/",
+     "zh": "导航；航行",
+     "ja": "ナビゲーション；航行",
+     "ex": "All of our rental cars come with a built-in navigation system.",
+     "ex_zh": "我们所有的租赁车都配有内置导航系统。",
+     "ex_ja": "当社のレンタカーはすべてナビを内蔵しています。",
+     "parts": [
+      [
+       "nav",
+       "船（navis）",
+       "船（navis）"
+      ],
+      [
+       "ig",
+       "驱动（agere）",
+       "動かす（agere）"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 navigare“驾船”（navis“船”+ agere“驱动”）。",
+      "ja": "ラテン語 navigare「船を操る」（navis「船」＋agere「動かす」）。"
+     },
+     "forms": [
+      [
+       "navigate (v.)",
+       "导航；找到路",
+       "道を見つける；操作する"
+      ],
+      [
+       "navigation system",
+       "导航系统",
+       "ナビ"
+      ]
+     ]
+    },
+    {
+     "w": "insurance",
+     "pos": "n.",
+     "ipa": "/ɪnˈʃʊrəns/",
+     "zh": "保险",
+     "ja": "保険",
+     "ex": "Collision insurance can be added at the counter for an additional fee.",
+     "ex_zh": "碰撞险可在柜台另付费用加保。",
+     "ex_ja": "車両保険はカウンターで追加料金を払えば付けられる。",
+     "parts": [
+      [
+       "in-",
+       "使（en-）",
+       "〜にする（en-）"
+      ],
+      [
+       "sure",
+       "确定的（securus）",
+       "確かな（securus）"
+      ],
+      [
+       "-ance",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "insure 来自古法语 enseurer“使确定”，sure 源自拉丁语 securus。",
+      "ja": "insure は古フランス語 enseurer「確かにする」から。sure はラテン語 securus に由来。"
+     },
+     "forms": [
+      [
+       "insurance policy",
+       "保单",
+       "保険証券"
+      ],
+      [
+       "insure (v.)",
+       "给……保险",
+       "保険をかける"
+      ]
+     ],
+     "tip": {
+      "zh": "⚠️ insure（投保）/ ensure（确保）/ assure（向人保证）三者常混。",
+      "ja": "⚠️ insure（保険をかける）／ensure（確実にする）／assure（人に保証する）を区別。"
+     }
+    },
+    {
+     "w": "drop-off",
+     "pos": "n.",
+     "ipa": "/ˈdrɑp ˌɔf/",
+     "zh": "还车；送达；（送人）下车",
+     "ja": "返却；降車；引き渡し",
+     "ex": "The drop-off location must be the same as the pick-up location unless otherwise arranged.",
+     "ex_zh": "除非另有安排，还车地点必须与取车地点相同。",
+     "ex_ja": "別途手配がない限り、返却場所は受取場所と同じでなければならない。",
+     "parts": [
+      [
+       "drop",
+       "放下",
+       "落とす"
+      ],
+      [
+       "off",
+       "离开",
+       "離れて"
+      ]
+     ],
+     "note": {
+      "zh": "本族词短语动词 drop off 的名词化。",
+      "ja": "句動詞 drop off を名詞化したもの（英語本来の語）。"
+     },
+     "forms": [
+      [
+       "drop off (v.)",
+       "放下；把……送到",
+       "降ろす；届ける"
+      ],
+      [
+       "drop-off point",
+       "交还点",
+       "返却場所"
+      ]
+     ]
+    },
+    {
+     "w": "chauffeur",
+     "pos": "n./v.",
+     "ipa": "/ʃoʊˈfɝ/",
+     "zh": "专职司机；开车接送",
+     "ja": "お抱え運転手；送迎する",
+     "ex": "A chauffeur will meet the CEO at the airport and drive him to the hotel.",
+     "ex_zh": "专职司机会在机场接首席执行官，送他到酒店。",
+     "ex_ja": "運転手が空港で CEO を出迎え、ホテルまで送る。",
+     "parts": [],
+     "note": {
+      "zh": "法语 chauffeur 原意“烧火工”（早期蒸汽车的司机），来自 chauffer“加热”；作为外来词不拆。",
+      "ja": "フランス語 chauffeur はもと「火夫」（初期の蒸気自動車の運転手）、chauffer「温める」から。外来語として分解しない。"
+     },
+     "forms": [
+      [
+       "chauffeur service",
+       "专车接送服务",
+       "送迎サービス"
+      ],
+      [
+       "chauffeur-driven car",
+       "有专职司机的车",
+       "運転手付きの車"
+      ]
+     ],
+     "tip": {
+      "zh": "发音：/ʃoʊˈfɝ/，ch 读 /ʃ/。",
+      "ja": "発音：/ʃoʊˈfɝ/、ch は /ʃ/。"
+     }
+    },
+    {
+     "w": "roadside",
+     "pos": "adj./n.",
+     "ipa": "/ˈroʊdˌsaɪd/",
+     "zh": "路边（的）",
+     "ja": "道路脇（の）",
+     "ex": "Our 24-hour roadside assistance service is included with every rental.",
+     "ex_zh": "每次租车都包含我们的 24 小时道路救援服务。",
+     "ex_ja": "24 時間ロードサービスはすべてのレンタルに含まれています。",
+     "parts": [
+      [
+       "road",
+       "路",
+       "道"
+      ],
+      [
+       "side",
+       "边",
+       "脇"
+      ]
+     ],
+     "note": {
+      "zh": "本族词复合：road + side。",
+      "ja": "英語本来の複合語：road＋side。"
+     },
+     "forms": [
+      [
+       "roadside assistance",
+       "道路救援",
+       "ロードサービス"
+      ],
+      [
+       "roadside restaurant",
+       "路边餐馆",
+       "道路沿いのレストラン"
+      ]
+     ]
+    },
+    {
+     "w": "breakdown",
+     "pos": "n.",
+     "ipa": "/ˈbreɪkˌdaʊn/",
+     "zh": "故障；（费用）明细",
+     "ja": "故障；内訳",
+     "ex": "In the event of a breakdown, please call the emergency number on your rental agreement.",
+     "ex_zh": "万一车辆故障，请拨打租车合同上的紧急电话。",
+     "ex_ja": "故障の場合は、レンタル契約書の緊急番号に電話してください。",
+     "parts": [
+      [
+       "break",
+       "坏；断",
+       "壊れる"
+      ],
+      [
+       "down",
+       "向下",
+       "下へ"
+      ]
+     ],
+     "note": {
+      "zh": "本族词短语动词 break down 的名词化。",
+      "ja": "句動詞 break down を名詞化したもの（英語本来の語）。"
+     },
+     "forms": [
+      [
+       "break down (v.)",
+       "出故障",
+       "故障する"
+      ],
+      [
+       "a breakdown of costs",
+       "费用明细",
+       "費用の内訳"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7 双义：a breakdown（故障）vs a breakdown of expenses（费用明细）。",
+      "ja": "Part 7 で 2 つの意味：a breakdown（故障）と a breakdown of expenses（費用の内訳）。"
+     }
+    },
+    {
+     "w": "towing",
+     "pos": "n.",
+     "ipa": "/ˈtoʊɪŋ/",
+     "zh": "拖车；拖吊",
+     "ja": "レッカー移動；牽引",
+     "ex": "Vehicles parked in the loading zone will be removed, and towing charges will apply.",
+     "ex_zh": "停在装卸区的车辆将被拖走，并收取拖车费。",
+     "ex_ja": "荷さばき場に駐車した車は撤去され、レッカー料金が発生します。",
+     "parts": [],
+     "note": {
+      "zh": "tow 来自古英语 togian“拉”，本族词，没有拉丁词根可拆。",
+      "ja": "tow は古英語 togian「引く」から。英語本来の語でラテン語根の分解はない。"
+     },
+     "forms": [
+      [
+       "tow (v.)",
+       "拖走",
+       "レッカー移動する"
+      ],
+      [
+       "tow truck",
+       "拖车",
+       "レッカー車"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1/7：Unauthorized vehicles will be towed at the owner's expense.（违停车辆将被拖走，费用由车主承担）",
+      "ja": "Part 7：Unauthorized vehicles will be towed at the owner's expense.（無断駐車はレッカー移動、費用は所有者負担）"
+     }
+    },
+    {
+     "w": "spare",
+     "pos": "adj./v.",
+     "ipa": "/spɛr/",
+     "zh": "备用的；抽出（时间）；省去",
+     "ja": "予備の；（時間を）割く；省く",
+     "ex": "There is a spare tire and a jack in the trunk.",
+     "ex_zh": "后备箱里有备胎和千斤顶。",
+     "ex_ja": "トランクにスペアタイヤとジャッキがある。",
+     "parts": [],
+     "note": {
+      "zh": "古英语 sparian“节省、保留”，本族词，没有可靠的拉丁词根拆分。",
+      "ja": "古英語 sparian「節約する」から。英語本来の語で、ラテン語根の分解はない。"
+     },
+     "forms": [
+      [
+       "spare tire",
+       "备胎",
+       "スペアタイヤ"
+      ],
+      [
+       "spare time",
+       "空闲时间",
+       "余暇"
+      ],
+      [
+       "spare no effort",
+       "不遗余力",
+       "努力を惜しまない"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5：Could you spare a few minutes?（能抽出几分钟吗？）",
+      "ja": "Part 5：Could you spare a few minutes?（数分お時間をいただけますか）"
+     }
+    },
+    {
+     "w": "unlimited",
+     "pos": "adj.",
+     "ipa": "/ʌnˈlɪmɪtɪd/",
+     "zh": "无限的；不受限制的",
+     "ja": "無制限の",
+     "ex": "The weekly plan offers unlimited mileage, so you can drive as far as you like.",
+     "ex_zh": "周租方案不限里程，你想开多远都行。",
+     "ex_ja": "週間プランは走行距離無制限なので、好きなだけ走れる。",
+     "parts": [
+      [
+       "un-",
+       "不",
+       "不〜"
+      ],
+      [
+       "limit",
+       "界限（limes, limit-）",
+       "境界（limes, limit-）"
+      ],
+      [
+       "-ed",
+       "形容词（过去分词）",
+       "形容詞（過去分詞）"
+      ]
+     ],
+     "note": {
+      "zh": "un- + limited；limit 来自拉丁语 limes“边界”。",
+      "ja": "un-＋limited。limit はラテン語 limes「境界」から。"
+     },
+     "forms": [
+      [
+       "unlimited mileage",
+       "不限里程",
+       "走行距離無制限"
+      ],
+      [
+       "limited-time offer",
+       "限时优惠",
+       "期間限定サービス"
+      ]
+     ]
+    },
+    {
+     "w": "trunk",
+     "pos": "n.",
+     "ipa": "/trʌŋk/",
+     "zh": "后备箱；树干；大箱子",
+     "ja": "（車の）トランク；幹",
+     "ex": "Please remove all personal belongings from the trunk before returning the car.",
+     "ex_zh": "还车前请从后备箱取出所有个人物品。",
+     "ex_ja": "返却前にトランクから私物をすべて取り出してください。",
+     "parts": [],
+     "note": {
+      "zh": "拉丁语 truncus“树干”，单音节词不再拆分。",
+      "ja": "ラテン語 truncus「幹」から。単音節語なので分解しない。"
+     },
+     "forms": [
+      [
+       "open the trunk",
+       "打开后备箱",
+       "トランクを開ける"
+      ],
+      [
+       "boot (英式)",
+       "后备箱（英式）",
+       "トランク（英）"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1：A man is loading luggage into the trunk of a car.",
+      "ja": "Part 1：A man is loading luggage into the trunk of a car.（男性が車のトランクに荷物を積んでいる）"
+     }
+    }
+   ]
+  }
+ ]
+}
