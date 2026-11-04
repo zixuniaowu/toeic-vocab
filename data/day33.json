@@ -1,0 +1,2608 @@
+{
+ "day": 33,
+ "date": "2026-11-05",
+ "title_zh": "四大词根 + 超市与食品杂货、IT 技术支持与故障排除",
+ "title_ja": "4つの語根＋スーパーと食料品、IT サポートとトラブル対応",
+ "intro_zh": "今天掌握 4 个高频词根（centr 中心 / grav·griev 重 / luc·lumin·lustr 光 / liber 自由），再学超市与食品杂货、IT 技术支持与故障排除的核心词——强化 Part 5 词性题（central / centrally、grave / gravely、liberal / liberally、centralize / decentralize）和固定搭配（be centrally located、gravitate toward、take the liberty of、file a grievance、deliver a speech），易混词（produce 名词与动词重音不同、grave“坟墓”不同源、deliberate 与 library 不属于 liber“自由”、a crash course 是速成课），Part 1 场景（carrying bags of groceries、pushing a cart、illuminated by ceiling lights），以及 Part 7 的超市传单与 IT 通知（expiration date、keep refrigerated、submit a support ticket、intermittent problems、a temporary workaround）。",
+ "intro_ja": "今日は語根 4 つ（centr 中心／grav・griev 重い／luc・lumin・lustr 光／liber 自由）と、スーパーと食料品、IT サポートとトラブル対応の重要語を学びます。Part 5 の品詞問題（central / centrally、grave / gravely、liberal / liberally、centralize / decentralize）と語法（be centrally located、gravitate toward、take the liberty of、file a grievance、deliver a speech）、紛らわしい語（produce は名詞と動詞でアクセントが違う、grave「墓」は別語源、deliberate と library は liber「自由」ではない、a crash course は集中講座）、Part 1 の場面（carrying bags of groceries、pushing a cart、illuminated by ceiling lights）、Part 7 のチラシと IT のお知らせ（expiration date、keep refrigerated、submit a support ticket、intermittent problems、a temporary workaround）を強化します。",
+ "voice": "en-US-AriaNeural",
+ "roots": [
+  {
+   "root": "-centr- / -center-",
+   "origin": "Latin centrum, Greek kentron",
+   "zh": "中心",
+   "ja": "中心",
+   "exp_zh": "来自拉丁语 centrum（中心），源自希腊语 kentron“圆规的尖脚”——画圆时扎在中间的那一点。中心的 → central / centrally；使集中 → centralize，加 de-“相反”→ decentralize（分散）；con-“一起”→ concentration（集中、专注）；ec-“离开”→ eccentric（偏离中心 → 古怪的）；epi-“在上面”→ epicenter（震中 → 中心地）；center + piece → centerpiece（重头戏）。⚠️ cent（分、百）来自 centum“一百”，century、percent 都与“中心”无关。",
+   "exp_ja": "ラテン語 centrum（中心）、さらにギリシャ語 kentron「コンパスの針」——円を描くとき真ん中に刺す一点から。中心の → central／centrally。集中させる → centralize、de-「逆」→ decentralize（分散させる）。con-「共に」→ concentration（集中）、ec-「外へ」→ eccentric（中心から外れた → 風変わりな）、epi-「上に」→ epicenter（震央 → 中心地）、center＋piece → centerpiece（目玉）。⚠️ cent（セント）や century、percent は centum「100」由来で「中心」とは無関係。",
+   "examples": [
+    "central",
+    "centrally",
+    "centralize",
+    "decentralize",
+    "concentration",
+    "eccentric",
+    "centerpiece",
+    "epicenter"
+   ]
+  },
+  {
+   "root": "-grav- / -griev-",
+   "origin": "Latin gravis",
+   "zh": "重",
+   "ja": "重い",
+   "exp_zh": "来自拉丁语 gravis（重的）。重量、分量 → gravity（重力；严重性）；重 → 严重 → grave / gravely（严重地）；像被重力吸过去 → gravitate（倾向于）；ad-“向”+ 加重 → aggravate（使恶化）。经古法语 grever“使负重、使痛苦”变形为 griev：grievance（不满、申诉）、aggrieved（受损害的）。记忆：心里“重”了就有 grievance。⚠️ 名词 grave（坟墓）、engrave（雕刻）来自古英语 grafan“挖”，与 gravis 无关；gravy（肉汁）也无关。",
+   "exp_ja": "ラテン語 gravis（重い）から。重さ → gravity（重力；重大さ）、重い → 深刻な → grave／gravely、重力に引かれるように → gravitate（引き寄せられる）、ad-「〜へ」＋重くする → aggravate（悪化させる）。古フランス語 grever「重荷を負わせる・苦しめる」を経て griev の形に：grievance（不満・苦情）、aggrieved（被害を受けた）。「心が重い → grievance」と覚えよう。⚠️ 名詞 grave（墓）や engrave（彫る）は古英語 grafan「掘る」由来で無関係。gravy（肉汁）も無関係。",
+   "examples": [
+    "gravity",
+    "grave",
+    "gravely",
+    "gravitate",
+    "grievance",
+    "aggrieved",
+    "aggravate"
+   ]
+  },
+  {
+   "root": "-luc- / -lumin- / -lustr-",
+   "origin": "Latin lux (lucis), lumen, lustrare",
+   "zh": "光",
+   "ja": "光",
+   "exp_zh": "来自拉丁语 lux（光，词干 luc-）、lucere“发光”和 lumen“光”（词干 lumin-）；lustrare“照亮”也与之相关。发光、明亮 → lucid（清楚易懂的）/ luminous（发光的）；e-“出”→ elucidate（阐明）；trans-“穿过”→ translucent（半透明）；in-“照进”→ illuminate / illumination（照亮、灯饰）；illustrare“照亮 → 阐明”→ illustrate（说明）/ illustrious（显赫的）。记忆：把光照进去 = 让人看清楚。⚠️ lumber（木材）、lucky（幸运的）与“光”无关。",
+   "exp_ja": "ラテン語 lux（光、語幹 luc-）、lucere「輝く」、lumen「光」（語幹 lumin-）から。lustrare「照らす」も関連する。明るい → lucid（明快な）／luminous（光る）、e-「外へ」→ elucidate（解明する）、trans-「通して」→ translucent（半透明の）、in-「中へ」→ illuminate／illumination（照らす・イルミネーション）、illustrare「照らす → 明らかにする」→ illustrate（説明する）／illustrious（名高い）。「光を当てる＝はっきり見せる」と覚えよう。⚠️ lumber（材木）、lucky（幸運な）は「光」と無関係。",
+   "examples": [
+    "illuminate",
+    "illumination",
+    "lucid",
+    "elucidate",
+    "translucent",
+    "luminous",
+    "illustrate",
+    "illustrious"
+   ]
+  },
+  {
+   "root": "-liber-",
+   "origin": "Latin liber, liberare",
+   "zh": "自由的；使自由",
+   "ja": "自由な；自由にする",
+   "exp_zh": "来自拉丁语 liber（自由的）和 liberare（使自由）。自由人的 → 慷慨、宽松 → liberal / liberally；自由 → liberty（take the liberty of ~ing 冒昧……）；使自由 → liberate（解放）；放宽 → liberalize。后期拉丁语 deliberare“使自由”经古法语 delivrer 成为 deliver（放出 → 交出 → 递送、发表）/ delivery / deliverable。⚠️ 两个陷阱：deliberate（深思熟虑）来自 libra“天平”；library（图书馆）来自另一个 liber“书、树皮”，都与“自由”无关。",
+   "exp_ja": "ラテン語 liber（自由な）と liberare（自由にする）から。自由人らしい → 気前のよい・寛大な → liberal／liberally、自由 → liberty（take the liberty of ~ing 勝手ながら〜する）、自由にする → liberate（解放する）、規制を緩める → liberalize。後期ラテン語 deliberare「自由にする」が古フランス語 delivrer を経て deliver（放す → 引き渡す → 配達する・講演する）／delivery／deliverable に。⚠️ 落とし穴が 2 つ：deliberate（熟考した）は libra「天秤」由来、library（図書館）は別の liber「本・樹皮」由来で、どちらも「自由」とは無関係。",
+   "examples": [
+    "liberal",
+    "liberally",
+    "liberty",
+    "liberate",
+    "liberalize",
+    "deliver",
+    "delivery",
+    "deliverable"
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "centr",
+   "title_zh": "词根 -centr- / -center-：中心",
+   "title_ja": "語根 -centr- / -center-：中心",
+   "words": [
+    {
+     "w": "central",
+     "pos": "adj.",
+     "ipa": "/ˈsɛntrəl/",
+     "zh": "中心的；中央的；主要的",
+     "ja": "中心の；中央の；主要な",
+     "ex": "Our new office is in a central location, just five minutes from the main station.",
+     "ex_zh": "我们的新办公室位置居中，离总站只有五分钟。",
+     "ex_ja": "新しいオフィスは中心部にあり、中央駅からわずか 5 分だ。",
+     "parts": [
+      [
+       "centr",
+       "中心（centrum）",
+       "中心（centrum）"
+      ],
+      [
+       "-al",
+       "……的",
+       "〜の"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 centralis，来自 centrum“中心”（希腊语 kentron“圆规的尖脚”）。",
+      "ja": "ラテン語 centralis。centrum「中心」（ギリシャ語 kentron「コンパスの針」）から。"
+     },
+     "forms": [
+      [
+       "central location",
+       "中心地段",
+       "便利な立地"
+      ],
+      [
+       "play a central role in ~",
+       "在……中起核心作用",
+       "〜で中心的な役割を果たす"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7 同义替换：central ≈ main / key / convenient（地段）。",
+      "ja": "Part 7 言い換え：central ≈ main / key、立地なら convenient。"
+     }
+    },
+    {
+     "w": "centrally",
+     "pos": "adv.",
+     "ipa": "/ˈsɛntrəli/",
+     "zh": "在中心；集中地",
+     "ja": "中心に；一元的に",
+     "ex": "The hotel is centrally located, so guests can walk to most of the conference venues.",
+     "ex_zh": "酒店位于市中心，客人步行就能到达大多数会议场地。",
+     "ex_ja": "ホテルは中心部にあるため、宿泊客はほとんどの会議会場へ歩いて行ける。",
+     "parts": [
+      [
+       "centr",
+       "中心（centrum）",
+       "中心（centrum）"
+      ],
+      [
+       "-al",
+       "……的",
+       "〜の"
+      ],
+      [
+       "-ly",
+       "副词后缀",
+       "副詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "central + -ly。",
+      "ja": "central＋-ly。"
+     },
+     "forms": [
+      [
+       "centrally located",
+       "位于中心地段",
+       "中心部に位置する"
+      ],
+      [
+       "centrally managed",
+       "集中管理的",
+       "一元管理された"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5 词性题：be ___ located 空格选副词 centrally。",
+      "ja": "Part 5 品詞問題：be ___ located の空所は副詞 centrally。"
+     }
+    },
+    {
+     "w": "centralize",
+     "pos": "v.",
+     "ipa": "/ˈsɛntrəˌlaɪz/",
+     "zh": "集中；使集中管理",
+     "ja": "集中させる；一元化する",
+     "ex": "The company plans to centralize its purchasing to reduce costs.",
+     "ex_zh": "公司计划把采购集中起来以降低成本。",
+     "ex_ja": "会社はコスト削減のため購買を一元化する予定だ。",
+     "parts": [
+      [
+       "centr",
+       "中心（centrum）",
+       "中心（centrum）"
+      ],
+      [
+       "-al",
+       "……的",
+       "〜の"
+      ],
+      [
+       "-ize",
+       "使……化（动词后缀）",
+       "〜化する（動詞を作る）"
+      ]
+     ],
+     "note": {
+      "zh": "central + -ize“使……化”。",
+      "ja": "central＋-ize「〜化する」。"
+     },
+     "forms": [
+      [
+       "centralized (adj.)",
+       "集中的",
+       "一元化された"
+      ],
+      [
+       "centralization (n.)",
+       "集中化",
+       "中央集権化；一元化"
+      ]
+     ]
+    },
+    {
+     "w": "decentralize",
+     "pos": "v.",
+     "ipa": "/diˈsɛntrəˌlaɪz/",
+     "zh": "分散；下放（权力）",
+     "ja": "分散させる；分権化する",
+     "ex": "Management decided to decentralize decision-making and give regional offices more authority.",
+     "ex_zh": "管理层决定分散决策权，给各地区办公室更多权限。",
+     "ex_ja": "経営陣は意思決定を分権化し、地域事務所により多くの権限を与えることにした。",
+     "parts": [
+      [
+       "de-",
+       "去除；相反",
+       "取り除く；逆"
+      ],
+      [
+       "centr",
+       "中心（centrum）",
+       "中心（centrum）"
+      ],
+      [
+       "-al",
+       "……的",
+       "〜の"
+      ],
+      [
+       "-ize",
+       "使……化（动词后缀）",
+       "〜化する（動詞を作る）"
+      ]
+     ],
+     "note": {
+      "zh": "de-“相反”+ centralize。",
+      "ja": "de-「逆に」＋centralize。"
+     },
+     "forms": [
+      [
+       "decentralized (adj.)",
+       "分散的",
+       "分散型の"
+      ],
+      [
+       "decentralization (n.)",
+       "分散化；权力下放",
+       "分権化"
+      ]
+     ],
+     "tip": {
+      "zh": "反义对：centralize（集中）↔ decentralize（分散）。",
+      "ja": "対義語：centralize（集中）↔ decentralize（分散）。"
+     }
+    },
+    {
+     "w": "concentration",
+     "pos": "n.",
+     "ipa": "/ˌkɑnsənˈtreɪʃən/",
+     "zh": "专注；集中；浓度",
+     "ja": "集中（力）；密集；濃度",
+     "ex": "The open-plan office was quiet enough to allow full concentration on the report.",
+     "ex_zh": "开放式办公室足够安静，可以全神贯注地写报告。",
+     "ex_ja": "オープンオフィスは十分静かで、報告書に集中できた。",
+     "parts": [
+      [
+       "con-",
+       "一起",
+       "共に"
+      ],
+      [
+       "centr",
+       "中心（centrum）",
+       "中心（centrum）"
+      ],
+      [
+       "-ate",
+       "动词后缀",
+       "動詞を作る"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "法语 concentrer“集中到同一个中心”（con-“一起”+ centre）。",
+      "ja": "フランス語 concentrer「一つの中心に集める」（con-「共に」＋centre）。"
+     },
+     "forms": [
+      [
+       "concentrate on ~ (v.)",
+       "专心于……",
+       "〜に集中する"
+      ],
+      [
+       "a high concentration of ~",
+       "……高度集中",
+       "〜が密集している"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7：a high concentration of restaurants（餐厅密集）也是 concentration。",
+      "ja": "Part 7：a high concentration of restaurants（飲食店の密集）も concentration。"
+     }
+    },
+    {
+     "w": "eccentric",
+     "pos": "adj.",
+     "ipa": "/ɪkˈsɛntrɪk/",
+     "zh": "古怪的；与众不同的",
+     "ja": "風変わりな；型破りな",
+     "ex": "The café is known for its eccentric decor, including chairs hanging from the ceiling.",
+     "ex_zh": "这家咖啡馆以古怪的装饰闻名，连椅子都挂在天花板上。",
+     "ex_ja": "そのカフェは天井からいすがぶら下がるなど、風変わりな内装で知られている。",
+     "parts": [
+      [
+       "ec-",
+       "离开（ex-）",
+       "外へ（ex-）"
+      ],
+      [
+       "centr",
+       "中心（centrum）",
+       "中心（centrum）"
+      ],
+      [
+       "-ic",
+       "……的",
+       "〜の"
+      ]
+     ],
+     "note": {
+      "zh": "希腊语 ekkentros“偏离中心的”（ek-“出”+ kentron）→ 不在常规中心 → 古怪的。",
+      "ja": "ギリシャ語 ekkentros「中心から外れた」（ek-「外」＋kentron）→ 普通から外れた → 風変わりな。"
+     },
+     "forms": [
+      [
+       "eccentric style",
+       "另类风格",
+       "個性的なスタイル"
+      ],
+      [
+       "eccentricity (n.)",
+       "古怪；怪癖",
+       "風変わり；奇抜さ"
+      ]
+     ]
+    },
+    {
+     "w": "centerpiece",
+     "pos": "n.",
+     "ipa": "/ˈsɛntɚˌpis/",
+     "zh": "核心部分；（餐桌）中央摆饰",
+     "ja": "目玉；（テーブル中央の）飾り",
+     "ex": "The new fountain will be the centerpiece of the renovated plaza.",
+     "ex_zh": "新喷泉将成为翻修后广场的核心景观。",
+     "ex_ja": "新しい噴水が改装された広場の目玉になる。",
+     "parts": [
+      [
+       "centr",
+       "中心（centrum）",
+       "中心（centrum）"
+      ],
+      [
+       "piece",
+       "一件；一块",
+       "1つ；部分"
+      ]
+     ],
+     "note": {
+      "zh": "center（中心，来自 centrum）+ piece：放在中心的那一件。",
+      "ja": "center（中心、centrum から）＋piece：中心に置く一品。"
+     },
+     "forms": [
+      [
+       "the centerpiece of ~",
+       "……的重头戏",
+       "〜の目玉"
+      ],
+      [
+       "floral centerpiece",
+       "餐桌中央花饰",
+       "テーブル中央の花飾り"
+      ]
+     ],
+     "tip": {
+      "zh": "活动通知常见：The centerpiece of the festival will be ~（节日的重头戏是……）。",
+      "ja": "イベント告知の定番：The centerpiece of the festival will be ~（祭りの目玉は〜）。"
+     }
+    },
+    {
+     "w": "epicenter",
+     "pos": "n.",
+     "ipa": "/ˈɛpɪˌsɛntɚ/",
+     "zh": "震中；（活动的）中心",
+     "ja": "震源地の真上；（活動の）中心地",
+     "ex": "In the 1990s, the district became the epicenter of the country's software industry.",
+     "ex_zh": "20 世纪 90 年代，该地区成为全国软件产业的中心。",
+     "ex_ja": "1990 年代、その地区は国内ソフトウェア産業の中心地となった。",
+     "parts": [
+      [
+       "epi-",
+       "在……之上",
+       "上に"
+      ],
+      [
+       "centr",
+       "中心（centrum）",
+       "中心（centrum）"
+      ]
+     ],
+     "note": {
+      "zh": "希腊语 epikentros“位于中心之上”（epi- + kentron）：地震震源正上方的地面点 → 引申为“中心地”。",
+      "ja": "ギリシャ語 epikentros「中心の上にある」（epi-＋kentron）：震源の真上の地点 → 比喩で「中心地」。"
+     },
+     "forms": [
+      [
+       "the epicenter of ~",
+       "……的中心",
+       "〜の中心地"
+      ],
+      [
+       "hub (n.)",
+       "中心；枢纽",
+       "拠点；ハブ"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7 同义替换：the epicenter of ≈ the hub / center of。",
+      "ja": "Part 7 言い換え：the epicenter of ≈ the hub / center of。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "grav",
+   "title_zh": "词根 -grav- / -griev-：重",
+   "title_ja": "語根 -grav- / -griev-：重い",
+   "words": [
+    {
+     "w": "gravity",
+     "pos": "n.",
+     "ipa": "/ˈɡrævəti/",
+     "zh": "严重性；重力；庄重",
+     "ja": "重大さ；重力；真剣さ",
+     "ex": "The manager explained the gravity of the delay to the entire project team.",
+     "ex_zh": "经理向整个项目组说明了延误的严重性。",
+     "ex_ja": "マネージャーはプロジェクトチーム全員に遅延の重大さを説明した。",
+     "parts": [
+      [
+       "grav",
+       "重（gravis）",
+       "重い（gravis）"
+      ],
+      [
+       "-ity",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 gravitas“重量；庄重”，来自 gravis“重的”。",
+      "ja": "ラテン語 gravitas「重さ；威厳」。gravis「重い」から。"
+     },
+     "forms": [
+      [
+       "the gravity of the situation",
+       "情况的严重性",
+       "事態の深刻さ"
+      ],
+      [
+       "center of gravity",
+       "重心",
+       "重心"
+      ]
+     ]
+    },
+    {
+     "w": "grave",
+     "pos": "adj.",
+     "ipa": "/ɡreɪv/",
+     "zh": "严重的；严肃的",
+     "ja": "重大な；深刻な；厳粛な",
+     "ex": "Investors expressed grave concerns about the company's rising debt.",
+     "ex_zh": "投资者对公司不断增加的债务表示严重担忧。",
+     "ex_ja": "投資家は同社の増え続ける負債に深刻な懸念を示した。",
+     "parts": [
+      [
+       "grav",
+       "重（gravis）",
+       "重い（gravis）"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 gravis“重的 → 严重的”。⚠️ 名词 grave（坟墓）来自古英语 græf，与此不同源。",
+      "ja": "ラテン語 gravis「重い → 重大な」。⚠️ 名詞 grave（墓）は古英語 græf 由来で別語源。"
+     },
+     "forms": [
+      [
+       "grave concern",
+       "严重担忧",
+       "深刻な懸念"
+      ],
+      [
+       "a grave mistake",
+       "严重错误",
+       "重大な誤り"
+      ]
+     ],
+     "tip": {
+      "zh": "grave concern ≈ serious concern，正式文件里常见。",
+      "ja": "grave concern ≈ serious concern。改まった文書で頻出。"
+     }
+    },
+    {
+     "w": "gravely",
+     "pos": "adv.",
+     "ipa": "/ˈɡreɪvli/",
+     "zh": "严重地；严肃地",
+     "ja": "深刻に；ひどく",
+     "ex": "Several board members were gravely concerned about the falling sales figures.",
+     "ex_zh": "几位董事对销售数字下滑深感担忧。",
+     "ex_ja": "数人の取締役は売上の落ち込みを深刻に懸念していた。",
+     "parts": [
+      [
+       "grav",
+       "重（gravis）",
+       "重い（gravis）"
+      ],
+      [
+       "-ly",
+       "副词后缀",
+       "副詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "grave + -ly。",
+      "ja": "grave＋-ly。"
+     },
+     "forms": [
+      [
+       "gravely concerned",
+       "深感担忧",
+       "深く憂慮している"
+      ],
+      [
+       "gravely ill",
+       "病情严重",
+       "重病の"
+      ]
+     ]
+    },
+    {
+     "w": "gravitate",
+     "pos": "v.",
+     "ipa": "/ˈɡrævɪˌteɪt/",
+     "zh": "被吸引；倾向于",
+     "ja": "引き寄せられる；自然と向かう",
+     "ex": "Younger customers tend to gravitate toward brands with strong social media pages.",
+     "ex_zh": "年轻顾客往往倾向于社交媒体做得好的品牌。",
+     "ex_ja": "若い客は SNS に力を入れているブランドに引き寄せられる傾向がある。",
+     "parts": [
+      [
+       "grav",
+       "重（gravis）",
+       "重い（gravis）"
+      ],
+      [
+       "-it-ate",
+       "动词后缀",
+       "動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "现代拉丁语 gravitare，来自 gravitas：像受重力一样被吸过去。",
+      "ja": "近代ラテン語 gravitare（gravitas から）：重力に引かれるように向かう。"
+     },
+     "forms": [
+      [
+       "gravitate toward / to ~",
+       "被……吸引",
+       "〜に引き寄せられる"
+      ],
+      [
+       "gravitation (n.)",
+       "引力；倾向",
+       "引力；引き寄せられること"
+      ]
+     ],
+     "tip": {
+      "zh": "介词固定用 toward / to。",
+      "ja": "前置詞は toward / to が決まり。"
+     }
+    },
+    {
+     "w": "grievance",
+     "pos": "n.",
+     "ipa": "/ˈɡrivəns/",
+     "zh": "不满；申诉；投诉",
+     "ja": "不満；苦情；苦情申し立て",
+     "ex": "Employees can file a grievance with the human resources department in writing.",
+     "ex_zh": "员工可以书面向人力资源部提出申诉。",
+     "ex_ja": "従業員は人事部に書面で苦情を申し立てることができる。",
+     "parts": [
+      [
+       "griev",
+       "重负（经古法语 grever）",
+       "重荷（古フランス語 grever 経由）"
+      ],
+      [
+       "-ance",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 grevance，来自 grever“使负重 → 使痛苦”（拉丁语 gravare，gravis“重”）。",
+      "ja": "古フランス語 grevance。grever「重荷を負わせる → 苦しめる」（ラテン語 gravare、gravis「重い」）から。"
+     },
+     "forms": [
+      [
+       "file a grievance",
+       "提出申诉",
+       "苦情を申し立てる"
+      ],
+      [
+       "grievance procedure",
+       "申诉程序",
+       "苦情処理手続き"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7 人事规章：grievance ≈ formal complaint。",
+      "ja": "Part 7 の就業規則：grievance ≈ formal complaint。"
+     }
+    },
+    {
+     "w": "aggrieved",
+     "pos": "adj.",
+     "ipa": "/əˈɡrivd/",
+     "zh": "受委屈的；（法律）受侵害的",
+     "ja": "不当な扱いを受けた；（法律）被害を受けた",
+     "ex": "The contract states that the aggrieved party may seek compensation.",
+     "ex_zh": "合同规定，受损害的一方可以要求赔偿。",
+     "ex_ja": "契約書には、被害を受けた当事者は補償を求めることができると記されている。",
+     "parts": [
+      [
+       "ag-",
+       "向（ad-）",
+       "〜へ（ad-）"
+      ],
+      [
+       "griev",
+       "重负（经古法语 grever）",
+       "重荷（古フランス語 grever 経由）"
+      ],
+      [
+       "-ed",
+       "形容词（过去分词）",
+       "形容詞（過去分詞）"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 agrever“加重、使痛苦”（拉丁语 aggravare）。",
+      "ja": "古フランス語 agrever「重くする・苦しめる」（ラテン語 aggravare）。"
+     },
+     "forms": [
+      [
+       "the aggrieved party",
+       "受损害方",
+       "被害当事者"
+      ],
+      [
+       "feel aggrieved",
+       "感到委屈",
+       "不当だと感じる"
+      ]
+     ],
+     "tip": {
+      "zh": "合同条款常见 the aggrieved party（受损方），对应 the breaching party（违约方）。",
+      "ja": "契約書頻出：the aggrieved party（被害当事者）↔ the breaching party（違反当事者）。"
+     }
+    },
+    {
+     "w": "aggravate",
+     "pos": "v.",
+     "ipa": "/ˈæɡrəˌveɪt/",
+     "zh": "使恶化；加重",
+     "ja": "悪化させる；ひどくする",
+     "ex": "Cutting staff during the busy season would only aggravate the shipping delays.",
+     "ex_zh": "在旺季裁员只会让发货延误更加严重。",
+     "ex_ja": "繁忙期に人員を減らせば、出荷の遅れはいっそう悪化するだけだ。",
+     "parts": [
+      [
+       "ag-",
+       "向（ad-）",
+       "〜へ（ad-）"
+      ],
+      [
+       "grav",
+       "重（gravis）",
+       "重い（gravis）"
+      ],
+      [
+       "-ate",
+       "动词后缀",
+       "動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 aggravare“使更重”（ad- + gravis）。",
+      "ja": "ラテン語 aggravare「さらに重くする」（ad-＋gravis）。"
+     },
+     "forms": [
+      [
+       "aggravate the problem",
+       "使问题恶化",
+       "問題を悪化させる"
+      ],
+      [
+       "aggravation (n.)",
+       "恶化；恼火",
+       "悪化；いら立ち"
+      ]
+     ],
+     "tip": {
+      "zh": "同义替换：aggravate ≈ worsen / make worse。",
+      "ja": "言い換え：aggravate ≈ worsen / make worse。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "luc",
+   "title_zh": "词根 -luc- / -lumin- / -lustr-：光",
+   "title_ja": "語根 -luc- / -lumin- / -lustr-：光",
+   "words": [
+    {
+     "w": "illuminate",
+     "pos": "v.",
+     "ipa": "/ɪˈluməˌneɪt/",
+     "zh": "照亮；阐明",
+     "ja": "照らす；明らかにする",
+     "ex": "Soft LED lights illuminate the display cases at night.",
+     "ex_zh": "柔和的 LED 灯在夜间照亮展示柜。",
+     "ex_ja": "柔らかな LED 照明が夜間に陳列ケースを照らしている。",
+     "parts": [
+      [
+       "il-",
+       "向内（in-）",
+       "中へ（in-）"
+      ],
+      [
+       "lumin",
+       "光（lumen）",
+       "光（lumen）"
+      ],
+      [
+       "-ate",
+       "动词后缀",
+       "動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 illuminare（in- + lumen“光”）。",
+      "ja": "ラテン語 illuminare（in-＋lumen「光」）。"
+     },
+     "forms": [
+      [
+       "well-illuminated",
+       "照明充足的",
+       "明るく照らされた"
+      ],
+      [
+       "illuminating (adj.)",
+       "有启发的",
+       "わかりやすい；啓発的な"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1：The room is illuminated by ceiling lights.",
+      "ja": "Part 1：The room is illuminated by ceiling lights.（部屋は天井の照明で照らされている）"
+     }
+    },
+    {
+     "w": "illumination",
+     "pos": "n.",
+     "ipa": "/ɪˌluməˈneɪʃən/",
+     "zh": "照明；灯饰；阐明",
+     "ja": "照明；イルミネーション；解明",
+     "ex": "The city's winter illumination attracts thousands of tourists every December.",
+     "ex_zh": "该市的冬季灯饰每年 12 月吸引数千名游客。",
+     "ex_ja": "その市の冬のイルミネーションは毎年 12 月に何千人もの観光客を集める。",
+     "parts": [
+      [
+       "il-",
+       "向内（in-）",
+       "中へ（in-）"
+      ],
+      [
+       "lumin",
+       "光（lumen）",
+       "光（lumen）"
+      ],
+      [
+       "-ate",
+       "动词后缀",
+       "動詞を作る"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "illuminate + -ion。",
+      "ja": "illuminate＋-ion。"
+     },
+     "forms": [
+      [
+       "lighting (n.)",
+       "照明",
+       "照明"
+      ],
+      [
+       "holiday illuminations",
+       "节日灯饰",
+       "祝祭のイルミネーション"
+      ]
+     ]
+    },
+    {
+     "w": "lucid",
+     "pos": "adj.",
+     "ipa": "/ˈlusɪd/",
+     "zh": "清楚易懂的；清晰的",
+     "ja": "明快な；わかりやすい",
+     "ex": "The speaker gave a lucid explanation of the new tax rules.",
+     "ex_zh": "演讲者对新税规作了清楚易懂的说明。",
+     "ex_ja": "講演者は新しい税制について明快に説明した。",
+     "parts": [
+      [
+       "luc",
+       "光（lux, lucere）",
+       "光（lux, lucere）"
+      ],
+      [
+       "-id",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 lucidus“明亮的”（lucere“发光”）→ 思路清楚的。",
+      "ja": "ラテン語 lucidus「明るい」（lucere「輝く」）→ 筋道がはっきりした。"
+     },
+     "forms": [
+      [
+       "a lucid explanation",
+       "清晰的解释",
+       "明快な説明"
+      ],
+      [
+       "lucidly (adv.)",
+       "清楚地",
+       "明快に"
+      ]
+     ],
+     "tip": {
+      "zh": "同义替换：lucid ≈ clear / easy to understand。",
+      "ja": "言い換え：lucid ≈ clear / easy to understand。"
+     }
+    },
+    {
+     "w": "elucidate",
+     "pos": "v.",
+     "ipa": "/ɪˈlusɪˌdeɪt/",
+     "zh": "阐明；解释清楚",
+     "ja": "解明する；わかりやすく説明する",
+     "ex": "The memo elucidates the reasons for the change in shipping policy.",
+     "ex_zh": "这份备忘录阐明了更改配送政策的原因。",
+     "ex_ja": "その社内メモは配送方針を変更した理由を詳しく説明している。",
+     "parts": [
+      [
+       "e-",
+       "出（ex-）",
+       "外へ（ex-）"
+      ],
+      [
+       "luc",
+       "光（lux, lucere）",
+       "光（lux, lucere）"
+      ],
+      [
+       "-id",
+       "形容词后缀",
+       "形容詞を作る"
+      ],
+      [
+       "-ate",
+       "动词后缀",
+       "動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "后期拉丁语 elucidare“使明亮”（e- + lucidus）。",
+      "ja": "後期ラテン語 elucidare「明るくする」（e-＋lucidus）。"
+     },
+     "forms": [
+      [
+       "elucidate the reasons",
+       "阐明理由",
+       "理由を明らかにする"
+      ],
+      [
+       "clarify (v.)",
+       "澄清（近义）",
+       "明確にする（類義）"
+      ]
+     ]
+    },
+    {
+     "w": "translucent",
+     "pos": "adj.",
+     "ipa": "/trænsˈlusənt/",
+     "zh": "半透明的",
+     "ja": "半透明の",
+     "ex": "Translucent glass panels let natural light into the meeting rooms while keeping them private.",
+     "ex_zh": "半透明玻璃隔板让自然光进入会议室，同时保护了隐私。",
+     "ex_ja": "半透明のガラスパネルが、会議室のプライバシーを保ちつつ自然光を取り込んでいる。",
+     "parts": [
+      [
+       "trans-",
+       "穿过",
+       "通して"
+      ],
+      [
+       "luc",
+       "光（lux, lucere）",
+       "光（lux, lucere）"
+      ],
+      [
+       "-ent",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 translucere“光透过”（trans- + lucere）。",
+      "ja": "ラテン語 translucere「光が通り抜ける」（trans-＋lucere）。"
+     },
+     "forms": [
+      [
+       "transparent (adj.)",
+       "透明的",
+       "透明な"
+      ],
+      [
+       "opaque (adj.)",
+       "不透明的",
+       "不透明な"
+      ]
+     ],
+     "tip": {
+      "zh": "transparent（全透明）＞ translucent（半透明）＞ opaque（不透明）。",
+      "ja": "transparent（透明）＞ translucent（半透明）＞ opaque（不透明）。"
+     }
+    },
+    {
+     "w": "luminous",
+     "pos": "adj.",
+     "ipa": "/ˈlumənəs/",
+     "zh": "发光的；明亮的",
+     "ja": "光る；明るい",
+     "ex": "The emergency exit signs are painted with luminous paint so they can be seen in the dark.",
+     "ex_zh": "紧急出口标志涂有夜光漆，在黑暗中也能看见。",
+     "ex_ja": "非常口の表示は暗闇でも見えるよう、夜光塗料で塗られている。",
+     "parts": [
+      [
+       "lumin",
+       "光（lumen）",
+       "光（lumen）"
+      ],
+      [
+       "-ous",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 luminosus“充满光的”（lumen）。",
+      "ja": "ラテン語 luminosus「光に満ちた」（lumen）。"
+     },
+     "forms": [
+      [
+       "luminous paint",
+       "夜光漆",
+       "夜光塗料"
+      ],
+      [
+       "luminosity (n.)",
+       "亮度",
+       "明るさ；光度"
+      ]
+     ]
+    },
+    {
+     "w": "illustrate",
+     "pos": "v.",
+     "ipa": "/ˈɪləˌstreɪt/",
+     "zh": "说明；（用图）阐释；给……配插图",
+     "ja": "説明する；（図で）示す；挿絵を入れる",
+     "ex": "The chart illustrates how sales have changed over the past five years.",
+     "ex_zh": "这张图表说明了过去五年销售额的变化。",
+     "ex_ja": "このグラフは過去 5 年間の売上の推移を示している。",
+     "parts": [
+      [
+       "il-",
+       "向内（in-）",
+       "中へ（in-）"
+      ],
+      [
+       "lustr",
+       "照亮（lustrare）",
+       "照らす（lustrare）"
+      ],
+      [
+       "-ate",
+       "动词后缀",
+       "動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 illustrare“照亮 → 阐明”（in- + lustrare“照亮”，与 lux 有关）。",
+      "ja": "ラテン語 illustrare「照らす → 明らかにする」（in-＋lustrare「照らす」、lux と関連）。"
+     },
+     "forms": [
+      [
+       "as illustrated in Figure 2",
+       "如图 2 所示",
+       "図 2 に示すとおり"
+      ],
+      [
+       "illustrator (n.)",
+       "插画师",
+       "イラストレーター"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7 图表题：The graph illustrates ~（图表显示……）。",
+      "ja": "Part 7 の図表問題：The graph illustrates ~（グラフは〜を示す）。"
+     }
+    },
+    {
+     "w": "illustrious",
+     "pos": "adj.",
+     "ipa": "/ɪˈlʌstriəs/",
+     "zh": "杰出的；著名的",
+     "ja": "輝かしい；著名な",
+     "ex": "The award honors Dr. Hayashi's illustrious career in medical research.",
+     "ex_zh": "该奖表彰林博士在医学研究领域的杰出生涯。",
+     "ex_ja": "この賞は林博士の医学研究における輝かしい経歴をたたえるものだ。",
+     "parts": [
+      [
+       "il-",
+       "向内（in-）",
+       "中へ（in-）"
+      ],
+      [
+       "lustr",
+       "照亮（lustrare）",
+       "照らす（lustrare）"
+      ],
+      [
+       "-ious",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 illustris“明亮的 → 显赫的”。",
+      "ja": "ラテン語 illustris「明るい → 名高い」。"
+     },
+     "forms": [
+      [
+       "an illustrious career",
+       "辉煌的职业生涯",
+       "輝かしい経歴"
+      ],
+      [
+       "distinguished (adj.)",
+       "杰出的（近义）",
+       "著名な（類義）"
+      ]
+     ],
+     "tip": {
+      "zh": "退休、颁奖通知常见：an illustrious / distinguished career。",
+      "ja": "退職・表彰のお知らせで頻出：an illustrious / distinguished career。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "liber",
+   "title_zh": "词根 -liber-：自由的；使自由",
+   "title_ja": "語根 -liber-：自由な；自由にする",
+   "words": [
+    {
+     "w": "liberal",
+     "pos": "adj.",
+     "ipa": "/ˈlɪbərəl/",
+     "zh": "大方的；宽松的；（政治）自由派的",
+     "ja": "気前のよい；寛大な；（政治）リベラルな",
+     "ex": "The store's liberal return policy allows customers to return items within 90 days.",
+     "ex_zh": "这家店的退货政策很宽松，顾客 90 天内都可以退货。",
+     "ex_ja": "その店は返品規定が寛大で、90 日以内なら返品できる。",
+     "parts": [
+      [
+       "liber",
+       "自由的（liber）",
+       "自由な（liber）"
+      ],
+      [
+       "-al",
+       "……的",
+       "〜の"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 liberalis“适合自由人的 → 慷慨的”。",
+      "ja": "ラテン語 liberalis「自由人にふさわしい → 気前のよい」。"
+     },
+     "forms": [
+      [
+       "a liberal return policy",
+       "宽松的退货政策",
+       "寛大な返品規定"
+      ],
+      [
+       "liberal arts",
+       "人文学科；通识教育",
+       "教養科目"
+      ]
+     ],
+     "tip": {
+      "zh": "TOEIC 里 liberal 多指“大方、宽松”，不一定是政治含义。",
+      "ja": "TOEIC の liberal はたいてい「気前のよい・寛大な」で、政治的な意味とは限らない。"
+     }
+    },
+    {
+     "w": "liberally",
+     "pos": "adv.",
+     "ipa": "/ˈlɪbərəli/",
+     "zh": "大量地；慷慨地",
+     "ja": "たっぷりと；気前よく",
+     "ex": "Apply the cleaning solution liberally and wait five minutes before wiping.",
+     "ex_zh": "大量涂抹清洁剂，等五分钟再擦拭。",
+     "ex_ja": "洗浄液をたっぷり塗り、5 分待ってから拭き取ってください。",
+     "parts": [
+      [
+       "liber",
+       "自由的（liber）",
+       "自由な（liber）"
+      ],
+      [
+       "-al",
+       "……的",
+       "〜の"
+      ],
+      [
+       "-ly",
+       "副词后缀",
+       "副詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "liberal + -ly。",
+      "ja": "liberal＋-ly。"
+     },
+     "forms": [
+      [
+       "apply liberally",
+       "大量涂抹",
+       "たっぷり塗る"
+      ],
+      [
+       "generously (adv.)",
+       "大方地（近义）",
+       "気前よく（類義）"
+      ]
+     ],
+     "tip": {
+      "zh": "产品说明书常见 apply liberally / sparingly（大量 / 少量涂抹）。",
+      "ja": "製品の説明書で頻出：apply liberally / sparingly（たっぷり／少量塗る）。"
+     }
+    },
+    {
+     "w": "liberty",
+     "pos": "n.",
+     "ipa": "/ˈlɪbɚti/",
+     "zh": "自由；擅自（做某事）",
+     "ja": "自由；勝手（にすること）",
+     "ex": "I have taken the liberty of booking a meeting room for Thursday afternoon.",
+     "ex_zh": "我已冒昧预订了周四下午的会议室。",
+     "ex_ja": "勝手ながら、木曜午後の会議室を予約しておきました。",
+     "parts": [
+      [
+       "liber",
+       "自由的（liber）",
+       "自由な（liber）"
+      ],
+      [
+       "-ty",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 libertas“自由”。",
+      "ja": "ラテン語 libertas「自由」。"
+     },
+     "forms": [
+      [
+       "take the liberty of ~ing",
+       "冒昧……；擅自……",
+       "勝手ながら〜する"
+      ],
+      [
+       "be at liberty to do",
+       "可以自由做……",
+       "自由に〜できる"
+      ]
+     ],
+     "tip": {
+      "zh": "邮件高频句：I have taken the liberty of ~（我冒昧先做了……）。",
+      "ja": "メールの定番：I have taken the liberty of ~（勝手ながら〜しておきました）。"
+     }
+    },
+    {
+     "w": "liberate",
+     "pos": "v.",
+     "ipa": "/ˈlɪbəˌreɪt/",
+     "zh": "解放；使摆脱",
+     "ja": "解放する；解き放つ",
+     "ex": "The new software will liberate staff from hours of manual data entry.",
+     "ex_zh": "新软件将把员工从数小时的手工数据录入中解放出来。",
+     "ex_ja": "新しいソフトは、社員を何時間もの手作業のデータ入力から解放する。",
+     "parts": [
+      [
+       "liber",
+       "自由的（liber）",
+       "自由な（liber）"
+      ],
+      [
+       "-ate",
+       "动词后缀",
+       "動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 liberare“使自由”。",
+      "ja": "ラテン語 liberare「自由にする」。"
+     },
+     "forms": [
+      [
+       "liberate A from B",
+       "把 A 从 B 中解放",
+       "A を B から解放する"
+      ],
+      [
+       "liberation (n.)",
+       "解放",
+       "解放"
+      ]
+     ]
+    },
+    {
+     "w": "liberalize",
+     "pos": "v.",
+     "ipa": "/ˈlɪbərəˌlaɪz/",
+     "zh": "放宽（限制）；使自由化",
+     "ja": "（規制を）緩和する；自由化する",
+     "ex": "The government plans to liberalize regulations on foreign investment.",
+     "ex_zh": "政府计划放宽对外国投资的限制。",
+     "ex_ja": "政府は外国投資に関する規制を緩和する予定だ。",
+     "parts": [
+      [
+       "liber",
+       "自由的（liber）",
+       "自由な（liber）"
+      ],
+      [
+       "-al",
+       "……的",
+       "〜の"
+      ],
+      [
+       "-ize",
+       "使……化（动词后缀）",
+       "〜化する（動詞を作る）"
+      ]
+     ],
+     "note": {
+      "zh": "liberal + -ize“使……化”。",
+      "ja": "liberal＋-ize「〜化する」。"
+     },
+     "forms": [
+      [
+       "liberalize trade",
+       "贸易自由化",
+       "貿易を自由化する"
+      ],
+      [
+       "liberalization (n.)",
+       "自由化",
+       "自由化"
+      ]
+     ],
+     "tip": {
+      "zh": "同义替换：liberalize regulations ≈ relax / ease regulations。",
+      "ja": "言い換え：liberalize regulations ≈ relax / ease regulations。"
+     }
+    },
+    {
+     "w": "deliver",
+     "pos": "v.",
+     "ipa": "/dɪˈlɪvɚ/",
+     "zh": "递送；交付；发表（演讲）",
+     "ja": "配達する；届ける；（演説を）行う",
+     "ex": "The keynote speech will be delivered by the company's founder.",
+     "ex_zh": "主旨演讲将由公司创始人发表。",
+     "ex_ja": "基調講演は同社の創業者が行う。",
+     "parts": [
+      [
+       "de-",
+       "离开；彻底",
+       "離れて；完全に"
+      ],
+      [
+       "liber",
+       "自由的（liber）",
+       "自由な（liber）"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 delivrer，来自后期拉丁语 deliberare“使自由”→“放出、交出”→ 交付。⚠️ deliberate（深思熟虑的）来自 libra“天平”，不同源。",
+      "ja": "古フランス語 delivrer、後期ラテン語 deliberare「自由にする」→「放す・引き渡す」→ 届ける。⚠️ deliberate（熟考した）は libra「天秤」由来で別語源。"
+     },
+     "forms": [
+      [
+       "deliver a speech",
+       "发表演讲",
+       "スピーチをする"
+      ],
+      [
+       "deliver on a promise",
+       "兑现承诺",
+       "約束を果たす"
+      ]
+     ],
+     "tip": {
+      "zh": "deliver 不只是“送货”：deliver a speech / presentation（发表演讲）、deliver results（交出成果）。",
+      "ja": "deliver は「配達」だけでない：deliver a speech / presentation（講演する）、deliver results（成果を出す）。"
+     }
+    },
+    {
+     "w": "delivery",
+     "pos": "n.",
+     "ipa": "/dɪˈlɪvəri/",
+     "zh": "递送；交货；（演讲的）表达方式",
+     "ja": "配達；納品；（話し方の）伝え方",
+     "ex": "Free delivery is available on all orders over 50 dollars.",
+     "ex_zh": "所有满 50 美元的订单均可免费送货。",
+     "ex_ja": "50 ドル以上のご注文はすべて配送無料です。",
+     "parts": [
+      [
+       "de-",
+       "离开；彻底",
+       "離れて；完全に"
+      ],
+      [
+       "liber",
+       "自由的（liber）",
+       "自由な（liber）"
+      ],
+      [
+       "-y",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "deliver + -y。",
+      "ja": "deliver＋-y。"
+     },
+     "forms": [
+      [
+       "free delivery",
+       "免费送货",
+       "配送無料"
+      ],
+      [
+       "delivery date",
+       "交货日期",
+       "納期"
+      ],
+      [
+       "same-day delivery",
+       "当日送达",
+       "当日配達"
+      ]
+     ]
+    },
+    {
+     "w": "deliverable",
+     "pos": "n.",
+     "ipa": "/dɪˈlɪvərəbəl/",
+     "zh": "（项目）交付成果；交付物",
+     "ja": "（プロジェクトの）成果物",
+     "ex": "Each team must submit its deliverables to the client by the end of the month.",
+     "ex_zh": "每个团队必须在月底前向客户提交交付成果。",
+     "ex_ja": "各チームは月末までに成果物をクライアントに提出しなければならない。",
+     "parts": [
+      [
+       "de-",
+       "离开；彻底",
+       "離れて；完全に"
+      ],
+      [
+       "liber",
+       "自由的（liber）",
+       "自由な（liber）"
+      ],
+      [
+       "-able",
+       "可……的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "deliver + -able“可交付的”，商务里名词化为“交付成果”。",
+      "ja": "deliver＋-able「届けられる」。ビジネスでは名詞化して「成果物」。"
+     },
+     "forms": [
+      [
+       "project deliverables",
+       "项目交付物",
+       "プロジェクトの成果物"
+      ],
+      [
+       "milestone (n.)",
+       "里程碑",
+       "節目；マイルストーン"
+      ]
+     ],
+     "tip": {
+      "zh": "多用复数 deliverables。",
+      "ja": "ふつう複数形 deliverables で使う。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "grocery",
+   "title_zh": "主题：超市与食品杂货",
+   "title_ja": "テーマ：スーパーと食料品",
+   "words": [
+    {
+     "w": "grocery",
+     "pos": "n.",
+     "ipa": "/ˈɡroʊsəri/",
+     "zh": "食品杂货；食品杂货店",
+     "ja": "食料品；食料雑貨店",
+     "ex": "The grocery store on Elm Street is open until midnight.",
+     "ex_zh": "榆树街的食品杂货店营业到午夜。",
+     "ex_ja": "エルム通りの食料品店は午前 0 時まで営業している。",
+     "parts": [
+      [
+       "groc",
+       "大批（grossus）",
+       "大量（grossus）"
+      ],
+      [
+       "-ery",
+       "商品；店铺",
+       "商品；店"
+      ]
+     ],
+     "note": {
+      "zh": "grocer 来自古法语 grossier“批发商”（中世纪拉丁语 grossarius，grossus“大的”）：原指按大批量（gross）买卖的商人。",
+      "ja": "grocer は古フランス語 grossier「卸売商」（中世ラテン語 grossarius、grossus「大きい」）から。もとは大口（gross）で売買する商人。"
+     },
+     "forms": [
+      [
+       "groceries (n.)",
+       "（买来的）食品杂货",
+       "食料品（買ったもの）"
+      ],
+      [
+       "grocery shopping",
+       "买菜；采购食品",
+       "食料品の買い物"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1：She's carrying bags of groceries.",
+      "ja": "Part 1：She's carrying bags of groceries.（彼女は食料品の袋を持っている）"
+     }
+    },
+    {
+     "w": "produce",
+     "pos": "n.",
+     "ipa": "/ˈproʊdus/",
+     "zh": "农产品（尤指蔬菜水果）",
+     "ja": "農産物；青果",
+     "ex": "Fresh produce is delivered to our supermarkets every morning from local farms.",
+     "ex_zh": "新鲜蔬果每天早上从当地农场送到我们的超市。",
+     "ex_ja": "新鮮な青果が毎朝地元の農場から当社のスーパーに届けられる。",
+     "parts": [
+      [
+       "pro-",
+       "向前",
+       "前へ"
+      ],
+      [
+       "duce",
+       "引导（ducere）",
+       "導く（ducere）"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 producere“引出、生产”（pro- + ducere）；名词指“产出的东西 → 农产品”。",
+      "ja": "ラテン語 producere「前に導き出す・生み出す」（pro-＋ducere）。名詞は「生み出された物 → 農産物」。"
+     },
+     "forms": [
+      [
+       "the produce section",
+       "蔬果区",
+       "青果売り場"
+      ],
+      [
+       "produce (v.) /prəˈdus/",
+       "生产",
+       "生産する"
+      ]
+     ],
+     "tip": {
+      "zh": "⚠️ 重音：名词 PRO-duce（蔬果），动词 pro-DUCE（生产）。Part 4 听到 the produce aisle 指蔬果区。",
+      "ja": "⚠️ アクセント：名詞 PRO-duce（青果）、動詞 pro-DUCE（生産する）。Part 4 の the produce aisle は青果売り場。"
+     }
+    },
+    {
+     "w": "coupon",
+     "pos": "n.",
+     "ipa": "/ˈkupɑn/",
+     "zh": "优惠券；折价券",
+     "ja": "クーポン；割引券",
+     "ex": "Customers who present this coupon at checkout will receive 20 percent off.",
+     "ex_zh": "结账时出示这张优惠券的顾客可享受八折。",
+     "ex_ja": "レジでこのクーポンを提示したお客様は 20% 引きになります。",
+     "parts": [
+      [
+       "coup",
+       "切（couper）",
+       "切る（couper）"
+      ],
+      [
+       "-on",
+       "名词后缀（小的东西）",
+       "名詞を作る（小さい物）"
+      ]
+     ],
+     "note": {
+      "zh": "法语 coupon“切下的一小块”，来自 couper“切”——从整张纸上剪下来的券。",
+      "ja": "フランス語 coupon「切り取った一片」。couper「切る」から——紙から切り取る券。"
+     },
+     "forms": [
+      [
+       "redeem a coupon",
+       "使用优惠券",
+       "クーポンを使う"
+      ],
+      [
+       "discount code",
+       "折扣码",
+       "割引コード"
+      ]
+     ],
+     "tip": {
+      "zh": "发音 /ˈkupɑn/，第一个音节像 coo。",
+      "ja": "発音は /ˈkupɑn/（クーポン）、最初は coo の音。"
+     }
+    },
+    {
+     "w": "frozen",
+     "pos": "adj.",
+     "ipa": "/ˈfroʊzən/",
+     "zh": "冷冻的；冻结的",
+     "ja": "冷凍の；凍結された",
+     "ex": "Frozen foods are located in aisle 7, next to the dairy section.",
+     "ex_zh": "冷冻食品在 7 号通道，紧挨着乳制品区。",
+     "ex_ja": "冷凍食品は 7 番通路、乳製品売り場の隣にあります。",
+     "parts": [
+      [
+       "froz",
+       "冻（freeze）",
+       "凍る（freeze）"
+      ],
+      [
+       "-en",
+       "过去分词",
+       "過去分詞"
+      ]
+     ],
+     "note": {
+      "zh": "freeze 的过去分词，本族词（古英语 frēosan）。",
+      "ja": "freeze の過去分詞。本来語（古英語 frēosan）。"
+     },
+     "forms": [
+      [
+       "frozen foods",
+       "冷冻食品",
+       "冷凍食品"
+      ],
+      [
+       "a hiring freeze",
+       "冻结招聘",
+       "採用凍結"
+      ]
+     ],
+     "tip": {
+      "zh": "商务里 frozen 也可指“冻结”：frozen budget / prices。",
+      "ja": "ビジネスでは「凍結された」の意味も：frozen budget / prices。"
+     }
+    },
+    {
+     "w": "cart",
+     "pos": "n.",
+     "ipa": "/kɑrt/",
+     "zh": "购物车；手推车",
+     "ja": "ショッピングカート；手押し車",
+     "ex": "Please return your shopping cart to the designated area after use.",
+     "ex_zh": "使用后请将购物车放回指定区域。",
+     "ex_ja": "ご使用後はショッピングカートを所定の場所にお戻しください。",
+     "parts": [],
+     "note": {
+      "zh": "来自古诺尔斯语 kartr，本族词，没有可靠的词根拆分。",
+      "ja": "古ノルド語 kartr 由来の本来語で、信頼できる語根分解はない。"
+     },
+     "forms": [
+      [
+       "shopping cart",
+       "购物车",
+       "ショッピングカート"
+      ],
+      [
+       "add to cart",
+       "加入购物车",
+       "カートに入れる"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1：A man is pushing a cart.（男子在推手推车）",
+      "ja": "Part 1：A man is pushing a cart.（男性がカートを押している）"
+     }
+    },
+    {
+     "w": "expiration",
+     "pos": "n.",
+     "ipa": "/ˌɛkspəˈreɪʃən/",
+     "zh": "到期；失效",
+     "ja": "期限切れ；満了",
+     "ex": "Always check the expiration date before buying dairy products.",
+     "ex_zh": "购买乳制品前一定要查看保质期。",
+     "ex_ja": "乳製品を買う前には必ず賞味期限を確認しましょう。",
+     "parts": [
+      [
+       "ex-",
+       "出",
+       "外へ"
+      ],
+      [
+       "pir",
+       "呼吸（spirare）",
+       "呼吸する（spirare）"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 exspirare“呼出最后一口气 → 终止”（ex- + spirare“呼吸”），即已学词根 spir。",
+      "ja": "ラテン語 exspirare「息を吐き切る → 終わる」（ex-＋spirare「呼吸する」）。既習の語根 spir。"
+     },
+     "forms": [
+      [
+       "expiration date",
+       "有效期；保质期",
+       "有効期限；賞味期限"
+      ],
+      [
+       "expire (v.)",
+       "到期",
+       "期限が切れる"
+      ]
+     ],
+     "tip": {
+      "zh": "英式常说 expiry date，美式 expiration date；Part 7 会员卡、合同也用。",
+      "ja": "英式は expiry date、米式は expiration date。Part 7 では会員証や契約にも出る。"
+     }
+    },
+    {
+     "w": "deli",
+     "pos": "n.",
+     "ipa": "/ˈdɛli/",
+     "zh": "熟食店；熟食柜台",
+     "ja": "デリ；総菜売り場",
+     "ex": "The deli counter offers freshly made sandwiches and salads at lunchtime.",
+     "ex_zh": "熟食柜台午餐时间供应现做的三明治和沙拉。",
+     "ex_ja": "総菜カウンターでは昼食時に作りたてのサンドイッチやサラダを提供している。",
+     "parts": [],
+     "note": {
+      "zh": "delicatessen 的缩写，来自德语 Delikatessen（法语 délicatesse“美味”），没有可靠的词根拆分。",
+      "ja": "delicatessen の略。ドイツ語 Delikatessen（フランス語 délicatesse「美味」）から。信頼できる語根分解はない。"
+     },
+     "forms": [
+      [
+       "deli counter",
+       "熟食柜台",
+       "総菜カウンター"
+      ],
+      [
+       "delicatessen (n.)",
+       "熟食店（全称）",
+       "デリカテッセン（正式名）"
+      ]
+     ]
+    },
+    {
+     "w": "butcher",
+     "pos": "n.",
+     "ipa": "/ˈbʊtʃɚ/",
+     "zh": "肉店老板；屠夫；肉店",
+     "ja": "肉屋；精肉店",
+     "ex": "The butcher can cut the meat to any thickness you request.",
+     "ex_zh": "肉店师傅可以按你要求的厚度切肉。",
+     "ex_ja": "肉屋さんは希望の厚さに肉を切ってくれる。",
+     "parts": [],
+     "note": {
+      "zh": "来自古法语 bouchier“卖山羊肉的人”（bouc“公山羊”），没有可靠的词根拆分。",
+      "ja": "古フランス語 bouchier「ヤギ肉を売る人」（bouc「雄ヤギ」）から。信頼できる語根分解はない。"
+     },
+     "forms": [
+      [
+       "butcher shop",
+       "肉店",
+       "精肉店"
+      ],
+      [
+       "the butcher's",
+       "肉店（英式）",
+       "肉屋（英式）"
+      ]
+     ],
+     "tip": {
+      "zh": "发音 /ˈbʊtʃɚ/：u 读 /ʊ/（像 put），不是 /ʌ/。",
+      "ja": "発音 /ˈbʊtʃɚ/：u は /ʊ/（put と同じ）で /ʌ/ ではない。"
+     }
+    },
+    {
+     "w": "refrigerated",
+     "pos": "adj.",
+     "ipa": "/rɪˈfrɪdʒəˌreɪtɪd/",
+     "zh": "冷藏的",
+     "ja": "冷蔵の",
+     "ex": "Refrigerated items will be shipped in insulated boxes with ice packs.",
+     "ex_zh": "冷藏商品将装在带冰袋的保温箱里寄送。",
+     "ex_ja": "冷蔵商品は保冷剤入りの断熱ボックスで発送される。",
+     "parts": [
+      [
+       "re-",
+       "再；回",
+       "再び"
+      ],
+      [
+       "friger",
+       "冷（frigus）",
+       "冷たさ（frigus）"
+      ],
+      [
+       "-ate",
+       "动词后缀",
+       "動詞を作る"
+      ],
+      [
+       "-ed",
+       "形容词（过去分词）",
+       "形容詞（過去分詞）"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 refrigerare“使变冷”（re- + frigus“寒冷”）。fridge 是 refrigerator 的缩写。",
+      "ja": "ラテン語 refrigerare「冷やす」（re-＋frigus「寒さ」）。fridge は refrigerator の略。"
+     },
+     "forms": [
+      [
+       "refrigerate (v.)",
+       "冷藏",
+       "冷蔵する"
+      ],
+      [
+       "refrigerator (n.)",
+       "冰箱",
+       "冷蔵庫"
+      ],
+      [
+       "keep refrigerated",
+       "需冷藏",
+       "要冷蔵"
+      ]
+     ],
+     "tip": {
+      "zh": "包装标签：Keep refrigerated after opening.（开封后请冷藏）",
+      "ja": "ラベル表示：Keep refrigerated after opening.（開封後は要冷蔵）"
+     }
+    },
+    {
+     "w": "canned",
+     "pos": "adj.",
+     "ipa": "/kænd/",
+     "zh": "罐装的",
+     "ja": "缶詰の",
+     "ex": "The food bank is collecting canned goods for families in need.",
+     "ex_zh": "食物银行正在为有需要的家庭募集罐头食品。",
+     "ex_ja": "フードバンクは困っている家庭のために缶詰を集めている。",
+     "parts": [],
+     "note": {
+      "zh": "can（罐子，古英语 canne）+ -ed，本族词，没有可靠的词根拆分。",
+      "ja": "can（缶、古英語 canne）＋-ed。本来語で、信頼できる語根分解はない。"
+     },
+     "forms": [
+      [
+       "canned goods / food",
+       "罐头食品",
+       "缶詰食品"
+      ],
+      [
+       "canned beverages",
+       "罐装饮料",
+       "缶飲料"
+      ]
+     ],
+     "tip": {
+      "zh": "英式说 tinned；美式 canned。",
+      "ja": "英式は tinned、米式は canned。"
+     }
+    },
+    {
+     "w": "ripe",
+     "pos": "adj.",
+     "ipa": "/raɪp/",
+     "zh": "成熟的；时机成熟的",
+     "ja": "熟した；機が熟した",
+     "ex": "These avocados will be ripe in two or three days.",
+     "ex_zh": "这些牛油果两三天后就熟了。",
+     "ex_ja": "このアボカドは 2、3 日で食べごろになる。",
+     "parts": [],
+     "note": {
+      "zh": "古英语 ripe，本族词，没有可靠的词根拆分。",
+      "ja": "古英語 ripe の本来語で、信頼できる語根分解はない。"
+     },
+     "forms": [
+      [
+       "ripen (v.)",
+       "成熟；催熟",
+       "熟す"
+      ],
+      [
+       "the time is ripe for ~",
+       "……的时机成熟了",
+       "〜の機が熟している"
+      ]
+     ],
+     "tip": {
+      "zh": "引申：The market is ripe for a new product.（市场时机已成熟）",
+      "ja": "比喩：The market is ripe for a new product.（新製品の機は熟している）"
+     }
+    },
+    {
+     "w": "shopper",
+     "pos": "n.",
+     "ipa": "/ˈʃɑpɚ/",
+     "zh": "购物者；顾客",
+     "ja": "買い物客",
+     "ex": "Holiday shoppers crowded the mall on the first weekend of December.",
+     "ex_zh": "12 月第一个周末，节日购物的人挤满了商场。",
+     "ex_ja": "12 月最初の週末、ホリデーシーズンの買い物客でモールは混雑した。",
+     "parts": [
+      [
+       "shop",
+       "商店；购物",
+       "店；買い物"
+      ],
+      [
+       "-er",
+       "表示人（p 双写）",
+       "〜する人（p を重ねる）"
+      ]
+     ],
+     "note": {
+      "zh": "shop + -er“……的人”。",
+      "ja": "shop＋-er「〜する人」。"
+     },
+     "forms": [
+      [
+       "frequent shoppers",
+       "常客",
+       "よく来る買い物客"
+      ],
+      [
+       "shopping list",
+       "购物清单",
+       "買い物リスト"
+      ]
+     ]
+    },
+    {
+     "w": "nonperishable",
+     "pos": "adj.",
+     "ipa": "/nɑnˈpɛrɪʃəbəl/",
+     "zh": "不易腐烂的；耐储存的",
+     "ja": "日持ちする；腐りにくい",
+     "ex": "Volunteers are asked to bring nonperishable food items such as rice and pasta.",
+     "ex_zh": "请志愿者带来大米、意面等耐储存的食品。",
+     "ex_ja": "ボランティアの方は米やパスタなど日持ちする食品をお持ちください。",
+     "parts": [
+      [
+       "non-",
+       "不",
+       "〜でない"
+      ],
+      [
+       "per",
+       "彻底；穿过",
+       "通して；完全に"
+      ],
+      [
+       "ish",
+       "走（ire）→ 消亡",
+       "行く（ire）→ 滅びる"
+      ],
+      [
+       "-able",
+       "可……的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "perish 来自拉丁语 perire“消亡”（per- + ire“走”），加 non- 和 -able：不会坏掉的。",
+      "ja": "perish はラテン語 perire「滅びる」（per-＋ire「行く」）。non-＋-able で「傷まない」。"
+     },
+     "forms": [
+      [
+       "nonperishable items",
+       "耐储存食品",
+       "保存食品"
+      ],
+      [
+       "perishable (adj.)",
+       "易腐的",
+       "傷みやすい"
+      ]
+     ],
+     "tip": {
+      "zh": "捐赠通知常见：canned and nonperishable food。",
+      "ja": "寄付の案内で頻出：canned and nonperishable food。"
+     }
+    },
+    {
+     "w": "spoil",
+     "pos": "v.",
+     "ipa": "/spɔɪl/",
+     "zh": "（食物）变质；破坏",
+     "ja": "（食べ物が）傷む；台無しにする",
+     "ex": "Milk can spoil quickly if it is left out of the refrigerator.",
+     "ex_zh": "牛奶放在冰箱外很快就会变质。",
+     "ex_ja": "牛乳は冷蔵庫の外に置いておくとすぐに傷む。",
+     "parts": [],
+     "note": {
+      "zh": "来自拉丁语 spoliare“剥夺、掠夺”，意思转为“毁坏 → 变质”，没有可靠的词根拆分。",
+      "ja": "ラテン語 spoliare「はぎ取る・略奪する」から「台無しにする → 傷む」へ。信頼できる語根分解はない。"
+     },
+     "forms": [
+      [
+       "spoilage (n.)",
+       "变质；损耗",
+       "腐敗；損耗"
+      ],
+      [
+       "spoil the view",
+       "破坏景色",
+       "景観を損なう"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "itsupport",
+   "title_zh": "主题：IT 技术支持与故障排除",
+   "title_ja": "テーマ：IT サポートとトラブル対応",
+   "words": [
+    {
+     "w": "troubleshoot",
+     "pos": "v.",
+     "ipa": "/ˈtrʌbəlˌʃut/",
+     "zh": "排查（故障）；解决问题",
+     "ja": "トラブルを解決する；故障箇所を調べる",
+     "ex": "Our IT team will troubleshoot the printer problem this afternoon.",
+     "ex_zh": "IT 团队今天下午会排查打印机的故障。",
+     "ex_ja": "IT チームが今日の午後、プリンターの不具合を調べる。",
+     "parts": [
+      [
+       "trouble",
+       "故障；麻烦",
+       "故障；問題"
+      ],
+      [
+       "shoot",
+       "射击 → 处理",
+       "撃つ → 処理する"
+      ]
+     ],
+     "note": {
+      "zh": "复合词：troubleshooter 原指 19 世纪美国排除电报、电话线路故障的人。",
+      "ja": "複合語。troubleshooter はもともと 19 世紀米国で電信・電話線の故障を直す人。"
+     },
+     "forms": [
+      [
+       "troubleshooting guide",
+       "故障排除指南",
+       "トラブルシューティングガイド"
+      ],
+      [
+       "troubleshooter (n.)",
+       "故障排除员；调解人",
+       "問題解決係"
+      ]
+     ]
+    },
+    {
+     "w": "glitch",
+     "pos": "n.",
+     "ipa": "/ɡlɪtʃ/",
+     "zh": "小故障；小毛病",
+     "ja": "ちょっとした不具合",
+     "ex": "A technical glitch caused the online store to go offline for an hour.",
+     "ex_zh": "一个技术小故障导致网店停摆了一个小时。",
+     "ex_ja": "技術的な不具合でオンラインストアが 1 時間停止した。",
+     "parts": [],
+     "note": {
+      "zh": "20 世纪中期美国俚语，来源不明（可能与意第绪语 glitsh“滑”有关），没有可靠的词根拆分。",
+      "ja": "20 世紀半ばの米国の俗語。起源は不明（イディッシュ語 glitsh「滑る」との説も）。信頼できる語根分解はない。"
+     },
+     "forms": [
+      [
+       "a technical glitch",
+       "技术故障",
+       "技術的な不具合"
+      ],
+      [
+       "a minor glitch",
+       "小问题",
+       "小さな不具合"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7 同义替换：glitch ≈ technical problem / error。",
+      "ja": "Part 7 言い換え：glitch ≈ technical problem / error。"
+     }
+    },
+    {
+     "w": "malfunction",
+     "pos": "n./v.",
+     "ipa": "/mælˈfʌŋkʃən/",
+     "zh": "故障；失灵",
+     "ja": "故障（する）；誤作動（する）",
+     "ex": "If the scanner malfunctions, please contact the help desk immediately.",
+     "ex_zh": "如果扫描仪出故障，请立即联系服务台。",
+     "ex_ja": "スキャナーが故障したら、すぐにヘルプデスクに連絡してください。",
+     "parts": [
+      [
+       "mal-",
+       "坏",
+       "悪い"
+      ],
+      [
+       "funct",
+       "执行（fungi）",
+       "果たす（fungi）"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "mal-“坏”+ function（拉丁语 functio，fungi“执行”）。",
+      "ja": "mal-「悪い」＋function（ラテン語 functio、fungi「果たす」）。"
+     },
+     "forms": [
+      [
+       "equipment malfunction",
+       "设备故障",
+       "機器の故障"
+      ],
+      [
+       "function properly",
+       "正常运转",
+       "正常に動く"
+      ]
+     ],
+     "tip": {
+      "zh": "同义替换：malfunction ≈ break down / not work properly。",
+      "ja": "言い換え：malfunction ≈ break down / not work properly。"
+     }
+    },
+    {
+     "w": "restart",
+     "pos": "v./n.",
+     "ipa": "/riˈstɑrt/",
+     "zh": "重新启动；重启",
+     "ja": "再起動（する）；再開（する）",
+     "ex": "Please save your work and restart your computer to complete the update.",
+     "ex_zh": "请保存工作并重启电脑以完成更新。",
+     "ex_ja": "作業を保存し、パソコンを再起動して更新を完了してください。",
+     "parts": [
+      [
+       "re-",
+       "再",
+       "再び"
+      ],
+      [
+       "start",
+       "开始",
+       "始める"
+      ]
+     ],
+     "note": {
+      "zh": "re-“再”+ start（本族词）。",
+      "ja": "re-「再び」＋start（本来語）。"
+     },
+     "forms": [
+      [
+       "restart the system",
+       "重启系统",
+       "システムを再起動する"
+      ],
+      [
+       "reboot (v.)",
+       "重启（近义）",
+       "再起動する（類義）"
+      ]
+     ]
+    },
+    {
+     "w": "ticket",
+     "pos": "n.",
+     "ipa": "/ˈtɪkɪt/",
+     "zh": "（技术支持）工单；票",
+     "ja": "（サポートの）チケット；切符",
+     "ex": "Submit a support ticket and a technician will respond within 24 hours.",
+     "ex_zh": "提交支持工单后，技术人员会在 24 小时内回复。",
+     "ex_ja": "サポートチケットを送信すると、24 時間以内に技術者が対応します。",
+     "parts": [],
+     "note": {
+      "zh": "来自古法语 estiquet“标签、告示”，没有可靠的词根拆分。",
+      "ja": "古フランス語 estiquet「札・張り紙」から。信頼できる語根分解はない。"
+     },
+     "forms": [
+      [
+       "submit / open a ticket",
+       "提交工单",
+       "チケットを発行する"
+      ],
+      [
+       "ticket number",
+       "工单号",
+       "チケット番号"
+      ]
+     ],
+     "tip": {
+      "zh": "IT 语境里 ticket ≈ request（请求）：Your ticket has been closed. = 你的问题已处理完毕。",
+      "ja": "IT の文脈では ticket ≈ request：Your ticket has been closed.（お問い合わせは対応完了）"
+     }
+    },
+    {
+     "w": "firmware",
+     "pos": "n.",
+     "ipa": "/ˈfɝmˌwɛr/",
+     "zh": "固件",
+     "ja": "ファームウェア",
+     "ex": "Update the router's firmware to fix the security issue.",
+     "ex_zh": "请更新路由器固件以修复安全问题。",
+     "ex_ja": "セキュリティの問題を直すため、ルーターのファームウェアを更新してください。",
+     "parts": [
+      [
+       "firm",
+       "固定的；牢固的",
+       "固い"
+      ],
+      [
+       "ware",
+       "物品",
+       "製品；もの"
+      ]
+     ],
+     "note": {
+      "zh": "firm“固定的”+ ware，仿照 software / hardware 构成：写在硬件里、不常改的软件。",
+      "ja": "firm「固い」＋ware。software / hardware にならった造語：機器に組み込まれ、めったに変えないソフト。"
+     },
+     "forms": [
+      [
+       "firmware update",
+       "固件更新",
+       "ファームウェア更新"
+      ],
+      [
+       "software (n.)",
+       "软件",
+       "ソフトウェア"
+      ]
+     ]
+    },
+    {
+     "w": "patch",
+     "pos": "n./v.",
+     "ipa": "/pætʃ/",
+     "zh": "补丁（程序）；打补丁；修补",
+     "ja": "修正プログラム；パッチを当てる；継ぎ当て",
+     "ex": "The developers released a patch that fixes the login problem.",
+     "ex_zh": "开发人员发布了修复登录问题的补丁。",
+     "ex_ja": "開発者はログインの問題を修正するパッチを公開した。",
+     "parts": [],
+     "note": {
+      "zh": "中古英语 pacche“补丁”，来源不确定，没有可靠的词根拆分。",
+      "ja": "中英語 pacche「継ぎ布」。起源ははっきりせず、信頼できる語根分解はない。"
+     },
+     "forms": [
+      [
+       "security patch",
+       "安全补丁",
+       "セキュリティパッチ"
+      ],
+      [
+       "patch up",
+       "修补；和解",
+       "修繕する；仲直りする"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1 也可能是“一小块地”：a patch of grass。",
+      "ja": "Part 1 では「一区画」の意味も：a patch of grass（芝生の一画）。"
+     }
+    },
+    {
+     "w": "crash",
+     "pos": "v./n.",
+     "ipa": "/kræʃ/",
+     "zh": "（电脑）崩溃；死机；撞车",
+     "ja": "（PC が）クラッシュする；衝突",
+     "ex": "The program keeps crashing whenever I try to open large files.",
+     "ex_zh": "我每次打开大文件，程序都会崩溃。",
+     "ex_ja": "大きなファイルを開こうとするたびにプログラムが落ちてしまう。",
+     "parts": [],
+     "note": {
+      "zh": "拟声词（模仿撞击声），没有可靠的词根拆分。",
+      "ja": "擬音語（ぶつかる音をまねた語）で、信頼できる語根分解はない。"
+     },
+     "forms": [
+      [
+       "system crash",
+       "系统崩溃",
+       "システムクラッシュ"
+      ],
+      [
+       "a crash course",
+       "速成班",
+       "短期集中講座"
+      ]
+     ],
+     "tip": {
+      "zh": "a crash course 是“速成课程”，不是撞车。",
+      "ja": "a crash course は「集中講座」で衝突とは無関係。"
+     }
+    },
+    {
+     "w": "freeze",
+     "pos": "v.",
+     "ipa": "/friz/",
+     "zh": "（电脑）卡住；冻结",
+     "ja": "（画面が）固まる；凍結する",
+     "ex": "My screen freezes every time I join a video call.",
+     "ex_zh": "我每次加入视频通话，屏幕就卡住不动。",
+     "ex_ja": "ビデオ通話に参加するたびに画面が固まる。",
+     "parts": [],
+     "note": {
+      "zh": "古英语 frēosan，本族词，没有可靠的词根拆分。",
+      "ja": "古英語 frēosan の本来語で、信頼できる語根分解はない。"
+     },
+     "forms": [
+      [
+       "hiring freeze",
+       "冻结招聘",
+       "採用凍結"
+      ],
+      [
+       "freeze prices",
+       "冻结价格",
+       "価格を据え置く"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5 / 7：a hiring freeze（暂停招聘）、a price freeze（价格冻结）也常考。",
+      "ja": "Part 5 / 7：a hiring freeze（採用凍結）、a price freeze（価格凍結）も頻出。"
+     }
+    },
+    {
+     "w": "password",
+     "pos": "n.",
+     "ipa": "/ˈpæsˌwɝd/",
+     "zh": "密码",
+     "ja": "パスワード",
+     "ex": "For security reasons, you must change your password every 90 days.",
+     "ex_zh": "出于安全考虑，你必须每 90 天更改一次密码。",
+     "ex_ja": "セキュリティ上、パスワードは 90 日ごとに変更する必要がある。",
+     "parts": [
+      [
+       "pass",
+       "通过",
+       "通る"
+      ],
+      [
+       "word",
+       "词；口令",
+       "言葉；合言葉"
+      ]
+     ],
+     "note": {
+      "zh": "pass“通过”+ word：原指哨兵放行时的口令。",
+      "ja": "pass「通る」＋word：もとは番兵が通すための合言葉。"
+     },
+     "forms": [
+      [
+       "reset your password",
+       "重设密码",
+       "パスワードを再設定する"
+      ],
+      [
+       "password-protected",
+       "有密码保护的",
+       "パスワード保護された"
+      ]
+     ]
+    },
+    {
+     "w": "reset",
+     "pos": "v./n.",
+     "ipa": "/riˈsɛt/",
+     "zh": "重设；重置；复位",
+     "ja": "リセット（する）；再設定（する）",
+     "ex": "Click the link in the e-mail to reset your password.",
+     "ex_zh": "点击邮件中的链接即可重设密码。",
+     "ex_ja": "メールのリンクをクリックしてパスワードを再設定してください。",
+     "parts": [
+      [
+       "re-",
+       "再",
+       "再び"
+      ],
+      [
+       "set",
+       "设置",
+       "設定する"
+      ]
+     ],
+     "note": {
+      "zh": "re-“再”+ set（本族词）。",
+      "ja": "re-「再び」＋set（本来語）。"
+     },
+     "forms": [
+      [
+       "factory reset",
+       "恢复出厂设置",
+       "工場出荷時の状態に戻す"
+      ],
+      [
+       "reset button",
+       "复位键",
+       "リセットボタン"
+      ]
+     ],
+     "tip": {
+      "zh": "过去式、过去分词都是 reset（不变）。",
+      "ja": "過去形・過去分詞も reset のまま。"
+     }
+    },
+    {
+     "w": "diagnostic",
+     "pos": "adj./n.",
+     "ipa": "/ˌdaɪəɡˈnɑstɪk/",
+     "zh": "诊断的；诊断程序",
+     "ja": "診断の；診断プログラム",
+     "ex": "Run the diagnostic tool to find out why the laptop is overheating.",
+     "ex_zh": "运行诊断工具，找出笔记本电脑过热的原因。",
+     "ex_ja": "診断ツールを実行して、ノートパソコンが過熱する原因を調べてください。",
+     "parts": [
+      [
+       "dia-",
+       "穿过；彻底",
+       "通して；完全に"
+      ],
+      [
+       "gnos",
+       "知道（gignōskein）",
+       "知る（gignōskein）"
+      ],
+      [
+       "-tic",
+       "……的",
+       "〜の"
+      ]
+     ],
+     "note": {
+      "zh": "希腊语 diagnōstikos“能辨别的”（dia- + gignōskein“知道”），和已学的 cogn / gni 同源。",
+      "ja": "ギリシャ語 diagnōstikos「見分けられる」（dia-＋gignōskein「知る」）。既習の cogn / gni と同語源。"
+     },
+     "forms": [
+      [
+       "diagnostic test",
+       "诊断测试",
+       "診断テスト"
+      ],
+      [
+       "diagnosis (n.)",
+       "诊断",
+       "診断"
+      ]
+     ]
+    },
+    {
+     "w": "uninstall",
+     "pos": "v.",
+     "ipa": "/ˌʌnɪnˈstɔl/",
+     "zh": "卸载（软件）",
+     "ja": "アンインストールする",
+     "ex": "If the app keeps freezing, uninstall it and download the latest version.",
+     "ex_zh": "如果应用一直卡住，请卸载后下载最新版本。",
+     "ex_ja": "アプリが固まり続けるなら、アンインストールして最新版をダウンロードしてください。",
+     "parts": [
+      [
+       "un-",
+       "取消；相反",
+       "元に戻す"
+      ],
+      [
+       "in-",
+       "进入",
+       "中へ"
+      ],
+      [
+       "stall",
+       "位置；放置",
+       "場所；置く"
+      ]
+     ],
+     "note": {
+      "zh": "install 来自中世纪拉丁语 installare“安置到座位上”（in- + stallum“座位”），加 un-“取消”。",
+      "ja": "install は中世ラテン語 installare「席に据える」（in-＋stallum「席」）。un-「元に戻す」を付けた語。"
+     },
+     "forms": [
+      [
+       "install (v.)",
+       "安装",
+       "インストールする"
+      ],
+      [
+       "installation (n.)",
+       "安装；设施",
+       "設置；インストール"
+      ]
+     ]
+    },
+    {
+     "w": "intermittent",
+     "pos": "adj.",
+     "ipa": "/ˌɪntɚˈmɪtənt/",
+     "zh": "断断续续的；间歇的",
+     "ja": "断続的な；時々起こる",
+     "ex": "Users have reported intermittent problems with the Wi-Fi connection on the third floor.",
+     "ex_zh": "用户反映三楼的 Wi-Fi 连接时断时续。",
+     "ex_ja": "3 階の Wi-Fi 接続に断続的な問題があると利用者から報告がある。",
+     "parts": [
+      [
+       "inter-",
+       "在……之间",
+       "間に"
+      ],
+      [
+       "mitt",
+       "放；送（mittere）",
+       "送る；放つ（mittere）"
+      ],
+      [
+       "-ent",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 intermittere“中间放开 → 中断”（inter- + mittere），即已学词根 mit。",
+      "ja": "ラテン語 intermittere「間を空ける → 中断する」（inter-＋mittere）。既習の語根 mit。"
+     },
+     "forms": [
+      [
+       "intermittent rain",
+       "阵雨",
+       "断続的な雨"
+      ],
+      [
+       "intermittently (adv.)",
+       "断断续续地",
+       "断続的に"
+      ]
+     ],
+     "tip": {
+      "zh": "天气预报也常用：intermittent showers（间歇性阵雨）。",
+      "ja": "天気予報でも：intermittent showers（断続的なにわか雨）。"
+     }
+    },
+    {
+     "w": "workaround",
+     "pos": "n.",
+     "ipa": "/ˈwɝkəˌraʊnd/",
+     "zh": "变通办法；临时解决方案",
+     "ja": "回避策；暫定的な対処法",
+     "ex": "Until the bug is fixed, the IT team suggested a simple workaround.",
+     "ex_zh": "在漏洞修复之前，IT 团队建议了一个简单的变通办法。",
+     "ex_ja": "不具合が直るまでの間、IT チームは簡単な回避策を提案した。",
+     "parts": [
+      [
+       "work",
+       "工作；起作用",
+       "働く；機能する"
+      ],
+      [
+       "around",
+       "绕过",
+       "回り込んで"
+      ]
+     ],
+     "note": {
+      "zh": "由短语 work around（绕开问题去做）名词化而来。",
+      "ja": "句動詞 work around（問題を回避して進める）が名詞化した語。"
+     },
+     "forms": [
+      [
+       "temporary workaround",
+       "临时办法",
+       "一時的な回避策"
+      ],
+      [
+       "work around (phr. v.)",
+       "绕开；变通处理",
+       "回避する"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7 同义替换：workaround ≈ temporary solution。",
+      "ja": "Part 7 言い換え：workaround ≈ temporary solution。"
+     }
+    }
+   ]
+  }
+ ]
+}
