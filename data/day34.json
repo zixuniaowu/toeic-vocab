@@ -1,0 +1,2571 @@
+{
+ "day": 34,
+ "date": "2026-11-06",
+ "title_zh": "四大词根 + 线上研讨会与视频会议、厨房与烹饪",
+ "title_ja": "4つの語根＋ウェビナーとビデオ会議、キッチンと料理",
+ "intro_zh": "今天掌握 4 个高频词根（aud 听 / capit·chief 头 / cand 发光·白 / greg 群），再学线上研讨会与视频会议、厨房与烹饪的核心词——强化 Part 5 词性题（candid / candidly、audible / inaudible、capital / capitalize / capitalization）和固定搭配（capitalize on、announce one's candidacy、segregate A from B、lag behind、by invitation only），易混词（chef 与 chief 发音不同、virtually 多指“几乎”、record 名词与动词重音不同、screen 也指“筛选”、egregious 现为贬义），Part 1 场景（speaking into a microphone、chopping vegetables、wearing an apron、a chandelier hanging from the ceiling），以及 Part 7 的线上活动通知与节能告示（breakout sessions、watch the replay、replace incandescent bulbs）。",
+ "intro_ja": "今日は語根 4 つ（aud 聞く／capit・chief 頭／cand 輝く・白い／greg 群れ）と、ウェビナーとビデオ会議、キッチンと料理の重要語を学びます。Part 5 の品詞問題（candid / candidly、audible / inaudible、capital / capitalize / capitalization）と語法（capitalize on、announce one's candidacy、segregate A from B、lag behind、by invitation only）、紛らわしい語（chef と chief は発音が違う、virtually はたいてい「ほぼ」、record は名詞と動詞でアクセントが違う、screen は「選考する」の意味も、egregious は今は悪い意味）、Part 1 の場面（speaking into a microphone、chopping vegetables、wearing an apron、a chandelier hanging from the ceiling）、Part 7 のオンラインイベント案内と省エネのお知らせ（breakout sessions、watch the replay、replace incandescent bulbs）を強化します。",
+ "voice": "en-US-AriaNeural",
+ "roots": [
+  {
+   "root": "-aud- / -audi-",
+   "origin": "Latin audire",
+   "zh": "听",
+   "ja": "聞く",
+   "exp_zh": "来自拉丁语 audire（听）。能听见的 → audible，加 in-“不”→ inaudible；听的人 → audience（观众、受众）；听账的人 → auditor（审计员，古代账目是念出来让人听着核对的）；听讲的地方 → auditorium（礼堂）；与听觉有关 → auditory；audio（音频）原意就是“我听”；audio + visual → audiovisual（视听的）。⚠️ audacious（大胆的）来自 audere“敢”，与“听”无关。",
+   "exp_ja": "ラテン語 audire（聞く）から。聞こえる → audible、in-「〜でない」→ inaudible。聞く人たち → audience（観客・受け手）。帳簿を聞いて確かめる人 → auditor（監査人。昔は帳簿を読み上げて確認した）。聞く場所 → auditorium（講堂）。聴覚の → auditory。audio はもともと「私は聞く」。audio＋visual → audiovisual（視聴覚の）。⚠️ audacious（大胆な）は audere「あえてする」由来で「聞く」とは無関係。",
+   "examples": [
+    "audience",
+    "auditor",
+    "auditorium",
+    "audible",
+    "inaudible",
+    "audiovisual",
+    "auditory",
+    "audio"
+   ]
+  },
+  {
+   "root": "-capit- / -chief- / -chiev-",
+   "origin": "Latin caput, capitis",
+   "zh": "头；首领",
+   "ja": "頭；長",
+   "exp_zh": "来自拉丁语 caput（头）。头部的 → 首要的 → capital（资本、首都、大写字母），capitalize（利用；大写）、capitalization（市值）；首领 → captain（机长、队长）；经法语变成 chief（首席的），厨房之首 → chef；“小头”→ 段落标题 → chapter（章、分会）；“做到头”→ achieve（实现）→ achievement。⚠️ cap- 表“拿”（capture、capable）来自 capere，与“头”不同源。",
+   "exp_ja": "ラテン語 caput（頭）から。頭の → 最重要の → capital（資本・首都・大文字）、capitalize（活かす；大文字にする）、capitalization（時価総額）。長 → captain（機長・主将）。フランス語経由で chief（最高位の）、厨房の長 → chef。「小さな頭」→ 見出し → chapter（章・支部）。「頭（端）まで行く」→ achieve（達成する）→ achievement。⚠️「取る」の cap-（capture、capable）は capere 由来で「頭」とは別。",
+   "examples": [
+    "capital",
+    "capitalize",
+    "capitalization",
+    "captain",
+    "chapter",
+    "chief",
+    "achieve",
+    "achievement"
+   ]
+  },
+  {
+   "root": "-cand- / -chand-",
+   "origin": "Latin candere, candidus",
+   "zh": "发光；白",
+   "ja": "輝く；白い",
+   "exp_zh": "来自拉丁语 candere（发白光）和 candidus（白的）。发光的东西 → candle（蜡烛），经法语 → chandelier（吊灯，原为烛台）；开始发白光 → incandescent（白炽的）；白 → 纯净 → 坦诚 → candid / candidly / candor；古罗马竞选者穿白袍 → candidate（候选人）→ candidacy（参选）。",
+   "exp_ja": "ラテン語 candere（白く輝く）と candidus（白い）から。光るもの → candle（ろうそく）、フランス語経由で chandelier（シャンデリア、もとは燭台）。白く輝き始める → incandescent（白熱の）。白い → 汚れのない → 率直な → candid／candidly／candor。古代ローマの立候補者は白い衣を着た → candidate（候補者）→ candidacy（立候補）。",
+   "examples": [
+    "candidate",
+    "candidacy",
+    "candid",
+    "candidly",
+    "candor",
+    "candle",
+    "incandescent",
+    "chandelier"
+   ]
+  },
+  {
+   "root": "-greg-",
+   "origin": "Latin grex, gregis",
+   "zh": "群；聚集",
+   "ja": "群れ；集める",
+   "exp_zh": "来自拉丁语 grex（羊群）。加入群 → aggregate（总计的）/ aggregation（汇总）；聚成一群 → congregate（聚集）/ congregation（会众）；从群里分出 → segregate（分开）/ segregation（分离）；喜欢群体 → gregarious（爱交际的）；超出群体 → egregious（原为“出众的”，现指“极其糟糕的”）。",
+   "exp_ja": "ラテン語 grex（羊の群れ）から。群れに加える → aggregate（総計の）／aggregation（集約）。一つの群れにまとめる → congregate（集まる）／congregation（会衆）。群れから離す → segregate（分ける）／segregation（分別）。群れを好む → gregarious（社交的な）。群れから抜きん出る → egregious（もとは「抜群の」、今は「ひどい」）。",
+   "examples": [
+    "aggregate",
+    "aggregation",
+    "congregate",
+    "congregation",
+    "segregate",
+    "segregation",
+    "gregarious",
+    "egregious"
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "aud",
+   "title_zh": "词根 -aud- / -audi-：听",
+   "title_ja": "語根 -aud- / -audi-：聞く",
+   "words": [
+    {
+     "w": "audience",
+     "pos": "n.",
+     "ipa": "/ˈɔdiəns/",
+     "zh": "观众；听众；受众",
+     "ja": "観客；聴衆；（広告などの）受け手",
+     "ex": "The new advertising campaign is aimed at a younger audience.",
+     "ex_zh": "新的广告宣传活动面向更年轻的受众。",
+     "ex_ja": "新しい広告キャンペーンは若い層を対象にしている。",
+     "parts": [
+      [
+       "aud",
+       "听（audire）",
+       "聞く（audire）"
+      ],
+      [
+       "-ience",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 audientia“倾听”，来自 audire“听”。",
+      "ja": "ラテン語 audientia「聞くこと」。audire「聞く」から。"
+     },
+     "forms": [
+      [
+       "target audience",
+       "目标受众",
+       "ターゲット層"
+      ],
+      [
+       "a large audience",
+       "大批观众",
+       "大勢の観客"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7 同义替换：target audience ≈ intended customers / viewers。",
+      "ja": "Part 7 言い換え：target audience ≈ intended customers / viewers。"
+     }
+    },
+    {
+     "w": "auditor",
+     "pos": "n.",
+     "ipa": "/ˈɔdɪtɚ/",
+     "zh": "审计员；审计师",
+     "ja": "監査人；会計監査役",
+     "ex": "External auditors will review the company's accounts next week.",
+     "ex_zh": "外部审计师下周将审查公司的账目。",
+     "ex_ja": "来週、外部監査人が会社の帳簿を調べる。",
+     "parts": [
+      [
+       "aud",
+       "听（audire）",
+       "聞く（audire）"
+      ],
+      [
+       "-it",
+       "过去分词词干",
+       "過去分詞の語幹"
+      ],
+      [
+       "-or",
+       "表示人",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 auditor“听者”：古代账目是当众念出来、由人“听”来核查的。",
+      "ja": "ラテン語 auditor「聞く人」。昔は帳簿を読み上げ、それを「聞いて」確認した。"
+     },
+     "forms": [
+      [
+       "audit (n./v.)",
+       "审计",
+       "監査（する）"
+      ],
+      [
+       "internal auditor",
+       "内部审计员",
+       "内部監査人"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7：auditor 是“审计员”，不是“旁听生”的常用义。",
+      "ja": "Part 7 では auditor は「監査人」。「聴講生」の意味はまれ。"
+     }
+    },
+    {
+     "w": "auditorium",
+     "pos": "n.",
+     "ipa": "/ˌɔdɪˈtɔriəm/",
+     "zh": "礼堂；观众席",
+     "ja": "講堂；ホール；観客席",
+     "ex": "The awards ceremony will be held in the main auditorium at 3 P.M.",
+     "ex_zh": "颁奖典礼将于下午 3 点在主礼堂举行。",
+     "ex_ja": "表彰式は午後 3 時に大講堂で行われる。",
+     "parts": [
+      [
+       "aud",
+       "听（audire）",
+       "聞く（audire）"
+      ],
+      [
+       "-it",
+       "过去分词词干",
+       "過去分詞の語幹"
+      ],
+      [
+       "-orium",
+       "场所",
+       "場所"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 auditorium“听讲的地方”。",
+      "ja": "ラテン語 auditorium「聞く場所」。"
+     },
+     "forms": [
+      [
+       "main auditorium",
+       "主礼堂",
+       "大講堂"
+      ],
+      [
+       "lecture hall",
+       "讲堂（近义）",
+       "講義室（類義）"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 4 广播：Please proceed to the auditorium.（请前往礼堂）",
+      "ja": "Part 4 のアナウンス：Please proceed to the auditorium.（講堂へお進みください）"
+     }
+    },
+    {
+     "w": "audible",
+     "pos": "adj.",
+     "ipa": "/ˈɔdəbəl/",
+     "zh": "听得见的",
+     "ja": "聞こえる；聞き取れる",
+     "ex": "The fire alarm must be audible in every part of the building.",
+     "ex_zh": "火警警报必须在大楼的每个角落都听得见。",
+     "ex_ja": "火災報知器は建物のどこにいても聞こえなければならない。",
+     "parts": [
+      [
+       "aud",
+       "听（audire）",
+       "聞く（audire）"
+      ],
+      [
+       "-ible",
+       "可……的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "后期拉丁语 audibilis“能听见的”。",
+      "ja": "後期ラテン語 audibilis「聞くことができる」。"
+     },
+     "forms": [
+      [
+       "audibly (adv.)",
+       "听得见地",
+       "聞こえるように"
+      ],
+      [
+       "clearly audible",
+       "清晰可闻",
+       "はっきり聞こえる"
+      ]
+     ]
+    },
+    {
+     "w": "inaudible",
+     "pos": "adj.",
+     "ipa": "/ɪnˈɔdəbəl/",
+     "zh": "听不见的",
+     "ja": "聞き取れない；聞こえない",
+     "ex": "Part of the recording was inaudible because of background noise.",
+     "ex_zh": "因为背景噪音，录音有一部分听不清。",
+     "ex_ja": "雑音のせいで録音の一部が聞き取れなかった。",
+     "parts": [
+      [
+       "in-",
+       "不",
+       "〜でない"
+      ],
+      [
+       "aud",
+       "听（audire）",
+       "聞く（audire）"
+      ],
+      [
+       "-ible",
+       "可……的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "in-“不”+ audible。",
+      "ja": "in-「〜でない」＋audible。"
+     },
+     "forms": [
+      [
+       "inaudibly (adv.)",
+       "听不见地",
+       "聞こえないほど"
+      ],
+      [
+       "barely audible",
+       "几乎听不见",
+       "かろうじて聞こえる"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 3 问题点：The speaker's voice was inaudible ≈ could not be heard.",
+      "ja": "Part 3 の問題点：The speaker's voice was inaudible ≈ could not be heard。"
+     }
+    },
+    {
+     "w": "audiovisual",
+     "pos": "adj.",
+     "ipa": "/ˌɔdioʊˈvɪʒuəl/",
+     "zh": "视听的",
+     "ja": "視聴覚の",
+     "ex": "Please contact the audiovisual team if the projector does not work.",
+     "ex_zh": "如果投影仪不工作，请联系视听设备组。",
+     "ex_ja": "プロジェクターが動かない場合は、AV 担当チームに連絡してください。",
+     "parts": [
+      [
+       "audi(o)",
+       "听（audire）",
+       "聞く（audire）"
+      ],
+      [
+       "vis",
+       "看（videre）",
+       "見る（videre）"
+      ],
+      [
+       "-ual",
+       "……的",
+       "〜の"
+      ]
+     ],
+     "note": {
+      "zh": "audio“声音”+ visual“视觉的”（已学词根 vis）。",
+      "ja": "audio「音」＋visual「視覚の」（既習の語根 vis）。"
+     },
+     "forms": [
+      [
+       "audiovisual (AV) equipment",
+       "视听设备",
+       "AV 機器"
+      ],
+      [
+       "AV technician",
+       "视听技术员",
+       "AV 技術者"
+      ]
+     ],
+     "tip": {
+      "zh": "TOEIC 的 AV equipment = 投影仪、麦克风、音箱等。",
+      "ja": "TOEIC の AV equipment ＝ プロジェクター、マイク、スピーカーなど。"
+     }
+    },
+    {
+     "w": "auditory",
+     "pos": "adj.",
+     "ipa": "/ˈɔdɪˌtɔri/",
+     "zh": "听觉的",
+     "ja": "聴覚の",
+     "ex": "Some learners understand auditory information better than written text.",
+     "ex_zh": "有些学习者对听觉信息比对书面文字理解得更好。",
+     "ex_ja": "文字より耳からの情報のほうが理解しやすい学習者もいる。",
+     "parts": [
+      [
+       "aud",
+       "听（audire）",
+       "聞く（audire）"
+      ],
+      [
+       "-it",
+       "过去分词词干",
+       "過去分詞の語幹"
+      ],
+      [
+       "-ory",
+       "……的",
+       "〜の"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 auditorius“与听有关的”。",
+      "ja": "ラテン語 auditorius「聞くことに関する」。"
+     },
+     "forms": [
+      [
+       "auditory learner",
+       "听觉型学习者",
+       "聴覚型の学習者"
+      ],
+      [
+       "visual (adj.)",
+       "视觉的",
+       "視覚の"
+      ]
+     ]
+    },
+    {
+     "w": "audio",
+     "pos": "n./adj.",
+     "ipa": "/ˈɔdioʊ/",
+     "zh": "音频；声音的",
+     "ja": "音声；オーディオの",
+     "ex": "An audio guide is available at the museum entrance in six languages.",
+     "ex_zh": "博物馆入口提供六种语言的语音导览。",
+     "ex_ja": "美術館の入口で 6 か国語の音声ガイドを利用できる。",
+     "parts": [
+      [
+       "audi",
+       "听（audire）",
+       "聞く（audire）"
+      ],
+      [
+       "-o",
+       "（构词元音）",
+       "（結合母音）"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 audio“我听”（audire 的第一人称），20 世纪用作“音频”。",
+      "ja": "ラテン語 audio「私は聞く」（audire の一人称）。20 世紀に「音声」の意味で使われ始めた。"
+     },
+     "forms": [
+      [
+       "audio guide",
+       "语音导览",
+       "音声ガイド"
+      ],
+      [
+       "audio file",
+       "音频文件",
+       "音声ファイル"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1 / 4：audio equipment（音响设备）。",
+      "ja": "Part 1 / 4：audio equipment（音響機器）。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "capit",
+   "title_zh": "词根 -capit- / -chief- / -chiev-：头",
+   "title_ja": "語根 -capit- / -chief- / -chiev-：頭",
+   "words": [
+    {
+     "w": "capital",
+     "pos": "n./adj.",
+     "ipa": "/ˈkæpətəl/",
+     "zh": "资本；首都；大写字母；主要的",
+     "ja": "資本；首都；大文字；主要な",
+     "ex": "The company needs to raise more capital before it can expand overseas.",
+     "ex_zh": "公司需要筹集更多资本才能拓展海外。",
+     "ex_ja": "海外展開の前に、会社はさらに資本を調達する必要がある。",
+     "parts": [
+      [
+       "capit",
+       "头（caput）",
+       "頭（caput）"
+      ],
+      [
+       "-al",
+       "……的",
+       "〜の"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 capitalis“头部的 → 首要的”；“资本”原指本金（头款）。",
+      "ja": "ラテン語 capitalis「頭の → 最も重要な」。「資本」はもとは元金（頭金）。"
+     },
+     "forms": [
+      [
+       "raise capital",
+       "筹集资本",
+       "資本を調達する"
+      ],
+      [
+       "venture capital",
+       "风险投资",
+       "ベンチャーキャピタル"
+      ],
+      [
+       "capital letters",
+       "大写字母",
+       "大文字"
+      ]
+     ],
+     "tip": {
+      "zh": "多义词：资本 / 首都 / 大写，按上下文判断。",
+      "ja": "多義語：資本／首都／大文字。文脈で判断する。"
+     }
+    },
+    {
+     "w": "capitalize",
+     "pos": "v.",
+     "ipa": "/ˈkæpətəlˌaɪz/",
+     "zh": "利用；（字母）大写；为……提供资本",
+     "ja": "活用する；大文字で書く；資本を供給する",
+     "ex": "The firm hopes to capitalize on the growing demand for electric bicycles.",
+     "ex_zh": "公司希望利用电动自行车需求的增长。",
+     "ex_ja": "同社は電動自転車の需要拡大を活かしたいと考えている。",
+     "parts": [
+      [
+       "capit",
+       "头（caput）",
+       "頭（caput）"
+      ],
+      [
+       "-al",
+       "……的",
+       "〜の"
+      ],
+      [
+       "-ize",
+       "使……化（动词后缀）",
+       "〜化する（動詞を作る）"
+      ]
+     ],
+     "note": {
+      "zh": "capital + -ize。",
+      "ja": "capital＋-ize。"
+     },
+     "forms": [
+      [
+       "capitalize on ~",
+       "利用……",
+       "〜を活かす"
+      ],
+      [
+       "take advantage of ~",
+       "利用（近义）",
+       "〜を利用する（類義）"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5：capitalize 后接介词 on。capitalize on ≈ take advantage of。",
+      "ja": "Part 5：前置詞は on。capitalize on ≈ take advantage of。"
+     }
+    },
+    {
+     "w": "capitalization",
+     "pos": "n.",
+     "ipa": "/ˌkæpətələˈzeɪʃən/",
+     "zh": "市值；资本化；大写",
+     "ja": "時価総額；資本化；大文字使用",
+     "ex": "The company's market capitalization has doubled in three years.",
+     "ex_zh": "这家公司的市值三年内翻了一番。",
+     "ex_ja": "同社の時価総額は 3 年で倍増した。",
+     "parts": [
+      [
+       "capit",
+       "头（caput）",
+       "頭（caput）"
+      ],
+      [
+       "-al",
+       "……的",
+       "〜の"
+      ],
+      [
+       "-iz",
+       "动词后缀 -ize",
+       "動詞語尾 -ize"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "capitalize + -ation。",
+      "ja": "capitalize＋-ation。"
+     },
+     "forms": [
+      [
+       "market capitalization",
+       "市值",
+       "時価総額"
+      ],
+      [
+       "capitalization rules",
+       "大写规则",
+       "大文字の使い方"
+      ]
+     ]
+    },
+    {
+     "w": "captain",
+     "pos": "n.",
+     "ipa": "/ˈkæptən/",
+     "zh": "机长；船长；队长",
+     "ja": "機長；船長；主将",
+     "ex": "The captain announced that the flight would land 20 minutes early.",
+     "ex_zh": "机长宣布航班将提前 20 分钟降落。",
+     "ex_ja": "機長は、到着が 20 分早まるとアナウンスした。",
+     "parts": [
+      [
+       "capt",
+       "头（caput）",
+       "頭（caput）"
+      ],
+      [
+       "-ain",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "后期拉丁语 capitaneus“首领”，经古法语 capitaine。",
+      "ja": "後期ラテン語 capitaneus「長」。古フランス語 capitaine を経由。"
+     },
+     "forms": [
+      [
+       "team captain",
+       "队长",
+       "チームの主将"
+      ],
+      [
+       "This is your captain speaking.",
+       "这里是机长广播",
+       "機長からのご案内です"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 4 机内广播常用。",
+      "ja": "Part 4 の機内アナウンスで頻出。"
+     }
+    },
+    {
+     "w": "chapter",
+     "pos": "n.",
+     "ipa": "/ˈtʃæptɚ/",
+     "zh": "章；（协会的）分会",
+     "ja": "章；（団体の）支部",
+     "ex": "The local chapter of the association meets on the first Monday of every month.",
+     "ex_zh": "该协会的当地分会每月第一个周一开会。",
+     "ex_ja": "協会の地元支部は毎月第 1 月曜日に集まる。",
+     "parts": [
+      [
+       "chap",
+       "头（caput）",
+       "頭（caput）"
+      ],
+      [
+       "-ter",
+       "（来自 -itulum）",
+       "（-itulum から）"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 chapitre，来自拉丁语 capitulum“小头 → 段落的标题”。",
+      "ja": "古フランス語 chapitre。ラテン語 capitulum「小さな頭 → 段落の見出し」から。"
+     },
+     "forms": [
+      [
+       "the first chapter",
+       "第一章",
+       "第 1 章"
+      ],
+      [
+       "local chapter",
+       "当地分会",
+       "地元支部"
+      ]
+     ],
+     "tip": {
+      "zh": "TOEIC 里 chapter 常指协会的“分会、支部”。",
+      "ja": "TOEIC では chapter が団体の「支部」の意味でよく出る。"
+     }
+    },
+    {
+     "w": "chief",
+     "pos": "adj./n.",
+     "ipa": "/tʃif/",
+     "zh": "首要的；首席的；主管",
+     "ja": "主要な；最高位の；長",
+     "ex": "The chief financial officer will present the quarterly results.",
+     "ex_zh": "首席财务官将介绍季度业绩。",
+     "ex_ja": "最高財務責任者が四半期決算を発表する。",
+     "parts": [
+      [
+       "chief",
+       "头（caput，经古法语 chef）",
+       "頭（caput、古フランス語 chef 経由）"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 chef“头、首领”，来自拉丁语 caput。",
+      "ja": "古フランス語 chef「頭・長」。ラテン語 caput から。"
+     },
+     "forms": [
+      [
+       "chief executive officer (CEO)",
+       "首席执行官",
+       "最高経営責任者"
+      ],
+      [
+       "chiefly (adv.)",
+       "主要地",
+       "主に"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7 同义替换：chiefly ≈ mainly / primarily。",
+      "ja": "Part 7 言い換え：chiefly ≈ mainly / primarily。"
+     }
+    },
+    {
+     "w": "achieve",
+     "pos": "v.",
+     "ipa": "/əˈtʃiv/",
+     "zh": "实现；达到；取得",
+     "ja": "達成する；成し遂げる",
+     "ex": "The sales team achieved its annual target two months early.",
+     "ex_zh": "销售团队提前两个月完成了年度目标。",
+     "ex_ja": "営業チームは年間目標を 2 か月早く達成した。",
+     "parts": [
+      [
+       "a-",
+       "向（ad-）",
+       "〜へ（ad-）"
+      ],
+      [
+       "chiev",
+       "头（caput）→ 尽头",
+       "頭（caput）→ 終わり"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 achever“做到头 → 完成”（à chief）。",
+      "ja": "古フランス語 achever「頭（端）まで行く → 完了する」（à chief）。"
+     },
+     "forms": [
+      [
+       "achieve a goal",
+       "实现目标",
+       "目標を達成する"
+      ],
+      [
+       "achievable (adj.)",
+       "可实现的",
+       "達成可能な"
+      ]
+     ],
+     "tip": {
+      "zh": "同义替换：achieve ≈ reach / attain / accomplish。",
+      "ja": "言い換え：achieve ≈ reach / attain / accomplish。"
+     }
+    },
+    {
+     "w": "achievement",
+     "pos": "n.",
+     "ipa": "/əˈtʃivmənt/",
+     "zh": "成就；成绩；达成",
+     "ja": "業績；達成",
+     "ex": "The award recognizes outstanding achievement in customer service.",
+     "ex_zh": "该奖项表彰在客户服务方面的杰出成就。",
+     "ex_ja": "この賞は顧客サービスでの優れた業績をたたえるものだ。",
+     "parts": [
+      [
+       "a-",
+       "向（ad-）",
+       "〜へ（ad-）"
+      ],
+      [
+       "chiev",
+       "头（caput）→ 尽头",
+       "頭（caput）→ 終わり"
+      ],
+      [
+       "-ment",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "achieve + -ment。",
+      "ja": "achieve＋-ment。"
+     },
+     "forms": [
+      [
+       "lifetime achievement award",
+       "终身成就奖",
+       "功労賞"
+      ],
+      [
+       "a sense of achievement",
+       "成就感",
+       "達成感"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cand",
+   "title_zh": "词根 -cand- / -chand-：发光；白",
+   "title_ja": "語根 -cand- / -chand-：輝く；白い",
+   "words": [
+    {
+     "w": "candidate",
+     "pos": "n.",
+     "ipa": "/ˈkændɪˌdeɪt/",
+     "zh": "候选人；应聘者",
+     "ja": "候補者；応募者",
+     "ex": "We interviewed five candidates for the marketing manager position.",
+     "ex_zh": "我们为市场部经理一职面试了五位候选人。",
+     "ex_ja": "マーケティング部長のポストに 5 人の候補者を面接した。",
+     "parts": [
+      [
+       "cand",
+       "发光；白（candere）",
+       "輝く；白い（candere）"
+      ],
+      [
+       "-id",
+       "形容词后缀",
+       "形容詞を作る"
+      ],
+      [
+       "-ate",
+       "表示人",
+       "人を表す"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 candidatus“穿白衣的人”：古罗马竞选公职的人穿漂白的托加袍。",
+      "ja": "ラテン語 candidatus「白い服を着た人」。古代ローマで公職に立候補する人は白くした衣を着た。"
+     },
+     "forms": [
+      [
+       "qualified candidate",
+       "合格的候选人",
+       "有資格の候補者"
+      ],
+      [
+       "applicant (n.)",
+       "申请人（近义）",
+       "応募者（類義）"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7 同义替换：candidate ≈ applicant。",
+      "ja": "Part 7 言い換え：candidate ≈ applicant。"
+     }
+    },
+    {
+     "w": "candidacy",
+     "pos": "n.",
+     "ipa": "/ˈkændɪdəsi/",
+     "zh": "候选资格；参选",
+     "ja": "立候補；候補資格",
+     "ex": "The mayor announced her candidacy for a second term.",
+     "ex_zh": "市长宣布竞选连任。",
+     "ex_ja": "市長は 2 期目への立候補を表明した。",
+     "parts": [
+      [
+       "cand",
+       "发光；白（candere）",
+       "輝く；白い（candere）"
+      ],
+      [
+       "-id",
+       "形容词后缀",
+       "形容詞を作る"
+      ],
+      [
+       "-acy",
+       "名词后缀（状态）",
+       "名詞を作る（状態）"
+      ]
+     ],
+     "note": {
+      "zh": "candidate + -acy。",
+      "ja": "candidate＋-acy。"
+     },
+     "forms": [
+      [
+       "announce one's candidacy",
+       "宣布参选",
+       "立候補を表明する"
+      ],
+      [
+       "withdraw one's candidacy",
+       "退出竞选",
+       "立候補を取り下げる"
+      ]
+     ]
+    },
+    {
+     "w": "candid",
+     "pos": "adj.",
+     "ipa": "/ˈkændɪd/",
+     "zh": "坦率的；（照片）抓拍的",
+     "ja": "率直な；（写真が）自然な",
+     "ex": "Thank you for your candid feedback on the new design.",
+     "ex_zh": "感谢你对新设计的坦率意见。",
+     "ex_ja": "新しいデザインについて率直なご意見をありがとうございます。",
+     "parts": [
+      [
+       "cand",
+       "发光；白（candere）",
+       "輝く；白い（candere）"
+      ],
+      [
+       "-id",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 candidus“白的 → 纯洁的 → 坦诚的”。",
+      "ja": "ラテン語 candidus「白い → 汚れのない → 率直な」。"
+     },
+     "forms": [
+      [
+       "candid opinion",
+       "坦率的意见",
+       "率直な意見"
+      ],
+      [
+       "candid photo",
+       "抓拍照",
+       "自然な写真"
+      ]
+     ],
+     "tip": {
+      "zh": "同义替换：candid ≈ frank / honest / open。",
+      "ja": "言い換え：candid ≈ frank / honest / open。"
+     }
+    },
+    {
+     "w": "candidly",
+     "pos": "adv.",
+     "ipa": "/ˈkændɪdli/",
+     "zh": "坦率地",
+     "ja": "率直に",
+     "ex": "The CEO spoke candidly about the challenges facing the company.",
+     "ex_zh": "首席执行官坦率地谈到了公司面临的挑战。",
+     "ex_ja": "CEO は会社が直面する課題について率直に語った。",
+     "parts": [
+      [
+       "cand",
+       "发光；白（candere）",
+       "輝く；白い（candere）"
+      ],
+      [
+       "-id",
+       "形容词后缀",
+       "形容詞を作る"
+      ],
+      [
+       "-ly",
+       "副词后缀",
+       "副詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "candid + -ly。",
+      "ja": "candid＋-ly。"
+     },
+     "forms": [
+      [
+       "speak candidly",
+       "坦率地说",
+       "率直に話す"
+      ],
+      [
+       "frankly (adv.)",
+       "坦白地（近义）",
+       "率直に（類義）"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5 词性题：spoke ___ 空格选副词 candidly。",
+      "ja": "Part 5 品詞問題：spoke ___ の空所は副詞 candidly。"
+     }
+    },
+    {
+     "w": "candor",
+     "pos": "n.",
+     "ipa": "/ˈkændɚ/",
+     "zh": "坦率；直言",
+     "ja": "率直さ",
+     "ex": "Employees appreciated the manager's candor during the meeting.",
+     "ex_zh": "员工们很欣赏经理在会上的坦率。",
+     "ex_ja": "社員たちは会議でのマネージャーの率直さを評価した。",
+     "parts": [
+      [
+       "cand",
+       "发光；白（candere）",
+       "輝く；白い（candere）"
+      ],
+      [
+       "-or",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 candor“白、光亮 → 真诚”。",
+      "ja": "ラテン語 candor「白さ・輝き → 誠実さ」。"
+     },
+     "forms": [
+      [
+       "with candor",
+       "坦率地",
+       "率直に"
+      ],
+      [
+       "candour (n.)",
+       "英式拼写",
+       "英式つづり"
+      ]
+     ]
+    },
+    {
+     "w": "candle",
+     "pos": "n.",
+     "ipa": "/ˈkændəl/",
+     "zh": "蜡烛",
+     "ja": "ろうそく",
+     "ex": "Each table was decorated with flowers and a small candle.",
+     "ex_zh": "每张桌子都用鲜花和一支小蜡烛装饰。",
+     "ex_ja": "各テーブルは花と小さなろうそくで飾られていた。",
+     "parts": [
+      [
+       "cand",
+       "发光；白（candere）",
+       "輝く；白い（candere）"
+      ],
+      [
+       "-le",
+       "表示小东西",
+       "小さい物"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 candela，来自 candere“发光”。",
+      "ja": "ラテン語 candela。candere「輝く」から。"
+     },
+     "forms": [
+      [
+       "candlelight (n.)",
+       "烛光",
+       "ろうそくの明かり"
+      ],
+      [
+       "scented candle",
+       "香薰蜡烛",
+       "アロマキャンドル"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1：Candles have been placed on the tables.",
+      "ja": "Part 1：Candles have been placed on the tables.（テーブルにろうそくが置かれている）"
+     }
+    },
+    {
+     "w": "incandescent",
+     "pos": "adj.",
+     "ipa": "/ˌɪnkænˈdɛsənt/",
+     "zh": "白炽的；炽热的",
+     "ja": "白熱の；白熱電球の",
+     "ex": "The building replaced all its incandescent bulbs with LED lights to save energy.",
+     "ex_zh": "为节约能源，大楼把所有白炽灯泡换成了 LED 灯。",
+     "ex_ja": "省エネのため、ビルは白熱電球をすべて LED 照明に替えた。",
+     "parts": [
+      [
+       "in-",
+       "向内；加强",
+       "中へ；強調"
+      ],
+      [
+       "cand",
+       "发光；白（candere）",
+       "輝く；白い（candere）"
+      ],
+      [
+       "-esc",
+       "开始（……）",
+       "〜し始める"
+      ],
+      [
+       "-ent",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 incandescere“开始发白光”（in- + candescere）。",
+      "ja": "ラテン語 incandescere「白く輝き始める」（in-＋candescere）。"
+     },
+     "forms": [
+      [
+       "incandescent bulb",
+       "白炽灯泡",
+       "白熱電球"
+      ],
+      [
+       "LED lighting",
+       "LED 照明",
+       "LED 照明"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7 节能通知常见：replace incandescent bulbs with LEDs。",
+      "ja": "Part 7 の省エネのお知らせ：replace incandescent bulbs with LEDs。"
+     }
+    },
+    {
+     "w": "chandelier",
+     "pos": "n.",
+     "ipa": "/ˌʃændəˈlɪr/",
+     "zh": "枝形吊灯",
+     "ja": "シャンデリア",
+     "ex": "A crystal chandelier hangs above the hotel's main staircase.",
+     "ex_zh": "酒店主楼梯上方挂着一盏水晶吊灯。",
+     "ex_ja": "ホテルの大階段の上にクリスタルのシャンデリアが下がっている。",
+     "parts": [
+      [
+       "chand",
+       "蜡烛（candela）",
+       "ろうそく（candela）"
+      ],
+      [
+       "-el",
+       "表示小东西",
+       "小さい物"
+      ],
+      [
+       "-ier",
+       "表示器物",
+       "道具を表す"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 chandelier“烛台”，来自 chandelle“蜡烛”（拉丁语 candela）。",
+      "ja": "古フランス語 chandelier「燭台」。chandelle「ろうそく」（ラテン語 candela）から。"
+     },
+     "forms": [
+      [
+       "crystal chandelier",
+       "水晶吊灯",
+       "クリスタルのシャンデリア"
+      ],
+      [
+       "light fixture",
+       "灯具",
+       "照明器具"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1：A chandelier is hanging from the ceiling.",
+      "ja": "Part 1：A chandelier is hanging from the ceiling.（天井からシャンデリアが下がっている）"
+     }
+    }
+   ]
+  },
+  {
+   "id": "greg",
+   "title_zh": "词根 -greg-：群；聚集",
+   "title_ja": "語根 -greg-：群れ；集める",
+   "words": [
+    {
+     "w": "aggregate",
+     "pos": "adj./n.",
+     "ipa": "/ˈæɡrɪɡət/",
+     "zh": "总计的；合计；总数",
+     "ja": "総計の；合計",
+     "ex": "Aggregate sales across all regions rose by 8 percent.",
+     "ex_zh": "所有地区的总销售额增长了 8%。",
+     "ex_ja": "全地域の売上合計は 8% 増加した。",
+     "parts": [
+      [
+       "ag-",
+       "向（ad-）",
+       "〜へ（ad-）"
+      ],
+      [
+       "greg",
+       "群（grex）",
+       "群れ（grex）"
+      ],
+      [
+       "-ate",
+       "形容词 / 动词后缀",
+       "形容詞・動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 aggregare“加入羊群 → 汇集”（ad- + grex）。",
+      "ja": "ラテン語 aggregare「群れに加える → 集める」（ad-＋grex）。"
+     },
+     "forms": [
+      [
+       "in aggregate",
+       "总计",
+       "総計で"
+      ],
+      [
+       "aggregate data",
+       "汇总数据",
+       "集計データ"
+      ]
+     ],
+     "tip": {
+      "zh": "同义替换：aggregate ≈ total / combined。动词读 /ˈæɡrɪˌɡeɪt/。",
+      "ja": "言い換え：aggregate ≈ total / combined。動詞は /ˈæɡrɪˌɡeɪt/ と発音。"
+     }
+    },
+    {
+     "w": "aggregation",
+     "pos": "n.",
+     "ipa": "/ˌæɡrɪˈɡeɪʃən/",
+     "zh": "汇总；聚合",
+     "ja": "集約；集計",
+     "ex": "The app's main feature is the aggregation of news from many sources.",
+     "ex_zh": "这款应用的主要功能是汇总来自多个来源的新闻。",
+     "ex_ja": "このアプリの主な機能は、多くの情報源からニュースを集約することだ。",
+     "parts": [
+      [
+       "ag-",
+       "向（ad-）",
+       "〜へ（ad-）"
+      ],
+      [
+       "greg",
+       "群（grex）",
+       "群れ（grex）"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "aggregate + -ion。",
+      "ja": "aggregate＋-ion。"
+     },
+     "forms": [
+      [
+       "data aggregation",
+       "数据汇总",
+       "データ集約"
+      ],
+      [
+       "aggregator (n.)",
+       "聚合平台",
+       "アグリゲーター"
+      ]
+     ]
+    },
+    {
+     "w": "congregate",
+     "pos": "v.",
+     "ipa": "/ˈkɑŋɡrɪˌɡeɪt/",
+     "zh": "聚集；集合",
+     "ja": "集まる；群がる",
+     "ex": "Fans began to congregate outside the stadium hours before the game.",
+     "ex_zh": "比赛开始前几个小时，球迷就开始聚集在体育场外。",
+     "ex_ja": "試合の数時間前からファンがスタジアムの外に集まり始めた。",
+     "parts": [
+      [
+       "con-",
+       "一起",
+       "共に"
+      ],
+      [
+       "greg",
+       "群（grex）",
+       "群れ（grex）"
+      ],
+      [
+       "-ate",
+       "动词后缀",
+       "動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 congregare“聚成一群”（con- + grex）。",
+      "ja": "ラテン語 congregare「一つの群れにまとめる」（con-＋grex）。"
+     },
+     "forms": [
+      [
+       "congregate in / around ~",
+       "聚集在……",
+       "〜に集まる"
+      ],
+      [
+       "gather (v.)",
+       "聚集（近义）",
+       "集まる（類義）"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1 / 7 同义替换：congregate ≈ gather / assemble。",
+      "ja": "Part 1 / 7 言い換え：congregate ≈ gather / assemble。"
+     }
+    },
+    {
+     "w": "congregation",
+     "pos": "n.",
+     "ipa": "/ˌkɑŋɡrɪˈɡeɪʃən/",
+     "zh": "（教堂的）会众；集会",
+     "ja": "（教会の）会衆；集まり",
+     "ex": "The church congregation raised money to repair the community hall.",
+     "ex_zh": "教堂会众筹款修缮了社区礼堂。",
+     "ex_ja": "教会の信徒たちは公民館の修繕費を集めた。",
+     "parts": [
+      [
+       "con-",
+       "一起",
+       "共に"
+      ],
+      [
+       "greg",
+       "群（grex）",
+       "群れ（grex）"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "congregate + -ion。",
+      "ja": "congregate＋-ion。"
+     },
+     "forms": [
+      [
+       "the congregation",
+       "会众",
+       "会衆"
+      ],
+      [
+       "gathering (n.)",
+       "聚会（近义）",
+       "集まり（類義）"
+      ]
+     ]
+    },
+    {
+     "w": "segregate",
+     "pos": "v.",
+     "ipa": "/ˈsɛɡrɪˌɡeɪt/",
+     "zh": "分开；隔离",
+     "ja": "分ける；分離する",
+     "ex": "Please segregate recyclable materials from general waste.",
+     "ex_zh": "请把可回收物与普通垃圾分开。",
+     "ex_ja": "資源ごみは一般ごみと分けてください。",
+     "parts": [
+      [
+       "se-",
+       "分开",
+       "離して"
+      ],
+      [
+       "greg",
+       "群（grex）",
+       "群れ（grex）"
+      ],
+      [
+       "-ate",
+       "动词后缀",
+       "動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 segregare“从羊群中分出来”（se- + grex）。",
+      "ja": "ラテン語 segregare「群れから離す」（se-＋grex）。"
+     },
+     "forms": [
+      [
+       "segregate A from B",
+       "把 A 和 B 分开",
+       "A を B から分ける"
+      ],
+      [
+       "separate / sort (v.)",
+       "分开；分类（近义）",
+       "分ける；分別する（類義）"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7 垃圾分类通知：segregate ≈ separate / sort。",
+      "ja": "Part 7 のごみ分別のお知らせ：segregate ≈ separate / sort。"
+     }
+    },
+    {
+     "w": "segregation",
+     "pos": "n.",
+     "ipa": "/ˌsɛɡrɪˈɡeɪʃən/",
+     "zh": "分离；分开存放；隔离",
+     "ja": "分離；分別",
+     "ex": "Strict segregation of raw and cooked food is required in the kitchen.",
+     "ex_zh": "厨房里必须严格分开存放生食和熟食。",
+     "ex_ja": "厨房では生の食材と調理済みの食品を厳密に分けることが求められる。",
+     "parts": [
+      [
+       "se-",
+       "分开",
+       "離して"
+      ],
+      [
+       "greg",
+       "群（grex）",
+       "群れ（grex）"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "segregate + -ion。",
+      "ja": "segregate＋-ion。"
+     },
+     "forms": [
+      [
+       "waste segregation",
+       "垃圾分类",
+       "ごみの分別"
+      ],
+      [
+       "separation (n.)",
+       "分开（近义）",
+       "分離（類義）"
+      ]
+     ]
+    },
+    {
+     "w": "gregarious",
+     "pos": "adj.",
+     "ipa": "/ɡrɪˈɡɛriəs/",
+     "zh": "爱交际的；合群的",
+     "ja": "社交的な；人付き合いのよい",
+     "ex": "Her gregarious personality makes her ideal for a sales role.",
+     "ex_zh": "她爱交际的性格让她非常适合做销售。",
+     "ex_ja": "社交的な性格の彼女は営業職にぴったりだ。",
+     "parts": [
+      [
+       "greg",
+       "群（grex）",
+       "群れ（grex）"
+      ],
+      [
+       "-arious",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 gregarius“属于群体的”。",
+      "ja": "ラテン語 gregarius「群れに属する」。"
+     },
+     "forms": [
+      [
+       "outgoing (adj.)",
+       "外向的（近义）",
+       "外向的な（類義）"
+      ],
+      [
+       "sociable (adj.)",
+       "善于交际的（近义）",
+       "社交的な（類義）"
+      ]
+     ],
+     "tip": {
+      "zh": "求职 / 人物介绍：gregarious ≈ sociable / outgoing。",
+      "ja": "人物紹介で：gregarious ≈ sociable / outgoing。"
+     }
+    },
+    {
+     "w": "egregious",
+     "pos": "adj.",
+     "ipa": "/ɪˈɡridʒəs/",
+     "zh": "极其严重的；（错误）惊人的",
+     "ja": "甚だしい；ひどい",
+     "ex": "The report contained several egregious errors that had to be corrected.",
+     "ex_zh": "这份报告有几处严重错误，必须更正。",
+     "ex_ja": "その報告書には訂正が必要なひどい誤りがいくつかあった。",
+     "parts": [
+      [
+       "e-",
+       "出（ex-）",
+       "外へ（ex-）"
+      ],
+      [
+       "greg",
+       "群（grex）",
+       "群れ（grex）"
+      ],
+      [
+       "-ious",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 egregius“出众的、超出群体的”（原为褒义）→ 现代英语多指“坏得出奇”。",
+      "ja": "ラテン語 egregius「群れから抜きん出た」（もとは褒め言葉）→ 現代英語では「ひどく悪い」。"
+     },
+     "forms": [
+      [
+       "an egregious error",
+       "严重错误",
+       "ひどい誤り"
+      ],
+      [
+       "glaring (adj.)",
+       "明显的（近义）",
+       "目立つ（類義）"
+      ]
+     ],
+     "tip": {
+      "zh": "同义替换：egregious ≈ very bad / glaring。",
+      "ja": "言い換え：egregious ≈ very bad / glaring。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "webinar",
+   "title_zh": "主题：线上研讨会与视频会议",
+   "title_ja": "テーマ：ウェビナーとビデオ会議",
+   "words": [
+    {
+     "w": "webinar",
+     "pos": "n.",
+     "ipa": "/ˈwɛbɪˌnɑr/",
+     "zh": "网络研讨会；在线讲座",
+     "ja": "ウェビナー；オンラインセミナー",
+     "ex": "More than 300 people registered for the free webinar on digital marketing.",
+     "ex_zh": "300 多人报名参加了关于数字营销的免费网络研讨会。",
+     "ex_ja": "デジタルマーケティングの無料ウェビナーに 300 人以上が申し込んだ。",
+     "parts": [
+      [
+       "web",
+       "网络",
+       "ウェブ"
+      ],
+      [
+       "-inar",
+       "取自 seminar",
+       "seminar から"
+      ]
+     ],
+     "note": {
+      "zh": "web + seminar 的混合词（1990 年代）。",
+      "ja": "web と seminar を組み合わせた混成語（1990 年代）。"
+     },
+     "forms": [
+      [
+       "host a webinar",
+       "举办网络研讨会",
+       "ウェビナーを開催する"
+      ],
+      [
+       "seminar (n.)",
+       "研讨会",
+       "セミナー"
+      ]
+     ]
+    },
+    {
+     "w": "virtual",
+     "pos": "adj.",
+     "ipa": "/ˈvɝtʃuəl/",
+     "zh": "线上的；虚拟的；实际上的",
+     "ja": "オンラインの；仮想の；事実上の",
+     "ex": "This year's trade fair will be held as a virtual event.",
+     "ex_zh": "今年的贸易展将以线上形式举办。",
+     "ex_ja": "今年の見本市はオンラインで開催される。",
+     "parts": [
+      [
+       "virt",
+       "力量（virtus）",
+       "力（virtus）"
+      ],
+      [
+       "-ual",
+       "……的",
+       "〜の"
+      ]
+     ],
+     "note": {
+      "zh": "中世纪拉丁语 virtualis“有效力的”→“实际上起作用（虽非实物）”→ 虚拟的。",
+      "ja": "中世ラテン語 virtualis「効力を持つ」→「実体はないが事実上の」→ 仮想の。"
+     },
+     "forms": [
+      [
+       "virtual meeting",
+       "线上会议",
+       "オンライン会議"
+      ],
+      [
+       "virtually (adv.)",
+       "几乎；线上地",
+       "ほぼ；オンラインで"
+      ]
+     ],
+     "tip": {
+      "zh": "⚠️ virtually 常作“几乎”：virtually all ≈ almost all。",
+      "ja": "⚠️ virtually は「ほぼ」の意味が多い：virtually all ≈ almost all。"
+     }
+    },
+    {
+     "w": "participant",
+     "pos": "n.",
+     "ipa": "/pɑrˈtɪsəpənt/",
+     "zh": "参与者；参加者",
+     "ja": "参加者",
+     "ex": "Participants will receive a link to the session by e-mail.",
+     "ex_zh": "参加者将通过邮件收到会议链接。",
+     "ex_ja": "参加者にはセッションのリンクがメールで届く。",
+     "parts": [
+      [
+       "parti",
+       "部分（pars）",
+       "部分（pars）"
+      ],
+      [
+       "cip",
+       "拿（capere）",
+       "取る（capere）"
+      ],
+      [
+       "-ant",
+       "表示人",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 participare“分得一份”（pars + capere，已学词根 cap / cip）。",
+      "ja": "ラテン語 participare「一部を取る」（pars＋capere、既習の語根 cap / cip）。"
+     },
+     "forms": [
+      [
+       "participate in ~",
+       "参加……",
+       "〜に参加する"
+      ],
+      [
+       "participation (n.)",
+       "参与",
+       "参加"
+      ]
+     ],
+     "tip": {
+      "zh": "同义替换：participant ≈ attendee。",
+      "ja": "言い換え：participant ≈ attendee。"
+     }
+    },
+    {
+     "w": "panelist",
+     "pos": "n.",
+     "ipa": "/ˈpænəlɪst/",
+     "zh": "（小组讨论的）嘉宾；评审员",
+     "ja": "パネリスト；討論者",
+     "ex": "Each panelist will speak for ten minutes before the question-and-answer session.",
+     "ex_zh": "每位嘉宾先发言十分钟，然后进入问答环节。",
+     "ex_ja": "質疑応答の前に、各パネリストが 10 分ずつ話す。",
+     "parts": [
+      [
+       "panel",
+       "小组；面板",
+       "委員団；パネル"
+      ],
+      [
+       "-ist",
+       "表示人",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "panel（古法语 panel“一块布 → 名单 → 一组人”）+ -ist。",
+      "ja": "panel（古フランス語 panel「布切れ → 名簿 → 一団の人」）＋-ist。"
+     },
+     "forms": [
+      [
+       "panel discussion",
+       "小组讨论",
+       "パネルディスカッション"
+      ],
+      [
+       "a panel of experts",
+       "专家小组",
+       "専門家の委員団"
+      ]
+     ]
+    },
+    {
+     "w": "unmute",
+     "pos": "v.",
+     "ipa": "/ʌnˈmjut/",
+     "zh": "取消静音",
+     "ja": "ミュートを解除する",
+     "ex": "Please unmute your microphone when you want to ask a question.",
+     "ex_zh": "想提问时，请取消麦克风静音。",
+     "ex_ja": "質問したいときはマイクのミュートを解除してください。",
+     "parts": [
+      [
+       "un-",
+       "取消；相反",
+       "元に戻す"
+      ],
+      [
+       "mute",
+       "静音；无声的",
+       "消音；無言の"
+      ]
+     ],
+     "note": {
+      "zh": "un- + mute（拉丁语 mutus“沉默的”）。",
+      "ja": "un-＋mute（ラテン語 mutus「無言の」）。"
+     },
+     "forms": [
+      [
+       "mute (v.)",
+       "静音",
+       "ミュートにする"
+      ],
+      [
+       "be on mute",
+       "处于静音状态",
+       "ミュートになっている"
+      ]
+     ],
+     "tip": {
+      "zh": "视频会议常听：You're on mute.（你还在静音）",
+      "ja": "ビデオ会議の定番：You're on mute.（ミュートになっていますよ）"
+     }
+    },
+    {
+     "w": "lag",
+     "pos": "n./v.",
+     "ipa": "/læɡ/",
+     "zh": "延迟；滞后；落后",
+     "ja": "遅延；遅れる",
+     "ex": "There was a slight lag between the video and the audio during the call.",
+     "ex_zh": "通话中视频和声音之间有一点延迟。",
+     "ex_ja": "通話中、映像と音声の間に少し遅れがあった。",
+     "parts": [],
+     "note": {
+      "zh": "来源不确定（可能来自斯堪的纳维亚语），没有可靠的词根拆分。",
+      "ja": "起源ははっきりせず（北欧語由来説あり）、信頼できる語根分解はない。"
+     },
+     "forms": [
+      [
+       "time lag",
+       "时间差；滞后",
+       "時間のずれ"
+      ],
+      [
+       "lag behind ~",
+       "落后于……",
+       "〜に遅れをとる"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7：lag behind competitors（落后于竞争对手）。",
+      "ja": "Part 7：lag behind competitors（競合に遅れをとる）。"
+     }
+    },
+    {
+     "w": "breakout",
+     "pos": "adj./n.",
+     "ipa": "/ˈbreɪkˌaʊt/",
+     "zh": "分组的（会议）；突破性的",
+     "ja": "分科の；ブレイクの",
+     "ex": "After the keynote speech, participants will join breakout sessions of five or six people.",
+     "ex_zh": "主旨演讲结束后，参加者将进入五六人一组的分组讨论。",
+     "ex_ja": "基調講演の後、参加者は 5〜6 人の分科セッションに分かれる。",
+     "parts": [
+      [
+       "break",
+       "打破；分开",
+       "壊す；分かれる"
+      ],
+      [
+       "out",
+       "出",
+       "外へ"
+      ]
+     ],
+     "note": {
+      "zh": "由短语 break out 名词化而来。",
+      "ja": "句動詞 break out から名詞化した語。"
+     },
+     "forms": [
+      [
+       "breakout session / room",
+       "分组讨论（室）",
+       "分科会（ルーム）"
+      ],
+      [
+       "a breakout year",
+       "突破之年",
+       "飛躍の年"
+      ]
+     ],
+     "tip": {
+      "zh": "breakout session = 大会后分小组进行的讨论。",
+      "ja": "breakout session ＝ 全体会の後に小グループに分かれる会。"
+     }
+    },
+    {
+     "w": "livestream",
+     "pos": "v./n.",
+     "ipa": "/ˈlaɪvˌstrim/",
+     "zh": "直播",
+     "ja": "ライブ配信（する）",
+     "ex": "The product launch will be livestreamed on our official website.",
+     "ex_zh": "产品发布会将在我们的官网上直播。",
+     "ex_ja": "製品発表会は公式サイトでライブ配信される。",
+     "parts": [
+      [
+       "live",
+       "现场的；实时的",
+       "生の；リアルタイムの"
+      ],
+      [
+       "stream",
+       "流；串流",
+       "流れ；配信"
+      ]
+     ],
+     "note": {
+      "zh": "live + stream 的复合词。",
+      "ja": "live＋stream の複合語。"
+     },
+     "forms": [
+      [
+       "livestreaming (n.)",
+       "直播",
+       "ライブ配信"
+      ],
+      [
+       "on-demand (adj.)",
+       "点播的",
+       "オンデマンドの"
+      ]
+     ],
+     "hl": "livestreamed"
+    },
+    {
+     "w": "recording",
+     "pos": "n.",
+     "ipa": "/rɪˈkɔrdɪŋ/",
+     "zh": "录像；录音；记录",
+     "ja": "録画；録音",
+     "ex": "A recording of the webinar will be sent to all registered participants.",
+     "ex_zh": "网络研讨会的录像将发给所有报名的参加者。",
+     "ex_ja": "ウェビナーの録画は申し込んだ参加者全員に送られる。",
+     "parts": [
+      [
+       "re-",
+       "回",
+       "戻して"
+      ],
+      [
+       "cord",
+       "心（cor）",
+       "心（cor）"
+      ],
+      [
+       "-ing",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 recordari“记起（带回心中）”（已学词根 cord）。",
+      "ja": "ラテン語 recordari「思い出す（心に戻す）」（既習の語根 cord）。"
+     },
+     "forms": [
+      [
+       "record (v.) /rɪˈkɔrd/",
+       "录制",
+       "録画する"
+      ],
+      [
+       "record (n.) /ˈrɛkɚd/",
+       "记录",
+       "記録"
+      ]
+     ],
+     "tip": {
+      "zh": "⚠️ 重音：动词 re-CORD，名词 REC-ord。",
+      "ja": "⚠️ アクセント：動詞 re-CORD、名詞 REC-ord。"
+     }
+    },
+    {
+     "w": "replay",
+     "pos": "n.",
+     "ipa": "/ˈriˌpleɪ/",
+     "zh": "回放；重播",
+     "ja": "見逃し配信；再生",
+     "ex": "If you missed the live session, you can watch the replay at any time.",
+     "ex_zh": "如果错过了直播，可以随时观看回放。",
+     "ex_ja": "ライブを見逃した方は、いつでも見逃し配信を視聴できます。",
+     "parts": [
+      [
+       "re-",
+       "再",
+       "再び"
+      ],
+      [
+       "play",
+       "播放",
+       "再生する"
+      ]
+     ],
+     "note": {
+      "zh": "re- + play。",
+      "ja": "re-＋play。"
+     },
+     "forms": [
+      [
+       "watch the replay",
+       "看回放",
+       "見逃し配信を見る"
+      ],
+      [
+       "replay (v.) /riˈpleɪ/",
+       "重播",
+       "再生する"
+      ]
+     ]
+    },
+    {
+     "w": "platform",
+     "pos": "n.",
+     "ipa": "/ˈplætˌfɔrm/",
+     "zh": "平台；（车站）站台；讲台",
+     "ja": "プラットフォーム；（駅の）ホーム；演壇",
+     "ex": "The company switched to a new video conferencing platform last month.",
+     "ex_zh": "公司上个月换了一个新的视频会议平台。",
+     "ex_ja": "会社は先月、新しいビデオ会議ツールに切り替えた。",
+     "parts": [
+      [
+       "plat",
+       "平的",
+       "平らな"
+      ],
+      [
+       "form",
+       "形状（forma）",
+       "形（forma）"
+      ]
+     ],
+     "note": {
+      "zh": "中古法语 plateforme“平的形状”（已学词根 form）。",
+      "ja": "中期フランス語 plateforme「平らな形」（既習の語根 form）。"
+     },
+     "forms": [
+      [
+       "online platform",
+       "线上平台",
+       "オンラインプラットフォーム"
+      ],
+      [
+       "train platform",
+       "火车站台",
+       "駅のホーム"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1：People are waiting on the platform.（人们在站台候车）",
+      "ja": "Part 1：People are waiting on the platform.（人々がホームで待っている）"
+     }
+    },
+    {
+     "w": "invitation",
+     "pos": "n.",
+     "ipa": "/ˌɪnvɪˈteɪʃən/",
+     "zh": "邀请；请柬",
+     "ja": "招待；招待状",
+     "ex": "Click the link in the calendar invitation to join the meeting.",
+     "ex_zh": "点击日历邀请中的链接即可加入会议。",
+     "ex_ja": "カレンダーの招待にあるリンクをクリックして会議に参加してください。",
+     "parts": [],
+     "note": {
+      "zh": "拉丁语 invitare“邀请”，词源不明，没有可靠的词根拆分。",
+      "ja": "ラテン語 invitare「招く」。語源は不明で、信頼できる語根分解はない。"
+     },
+     "forms": [
+      [
+       "invite (v.)",
+       "邀请",
+       "招待する"
+      ],
+      [
+       "by invitation only",
+       "仅限受邀者",
+       "招待者のみ"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7：by invitation only（仅限受邀者参加）。",
+      "ja": "Part 7：by invitation only（招待者限定）。"
+     }
+    },
+    {
+     "w": "microphone",
+     "pos": "n.",
+     "ipa": "/ˈmaɪkrəˌfoʊn/",
+     "zh": "麦克风；话筒",
+     "ja": "マイク",
+     "ex": "The speaker adjusted the microphone before starting her presentation.",
+     "ex_zh": "演讲者在开始发言前调整了麦克风。",
+     "ex_ja": "講演者は発表を始める前にマイクを調整した。",
+     "parts": [
+      [
+       "micro-",
+       "小",
+       "小さい"
+      ],
+      [
+       "phon",
+       "声音（phōnē）",
+       "音（phōnē）"
+      ],
+      [
+       "-e",
+       "名词词尾",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "希腊语 mikros“小”+ phōnē“声音”：把小声音放大的装置。",
+      "ja": "ギリシャ語 mikros「小さい」＋phōnē「音」：小さな音を拾う装置。"
+     },
+     "forms": [
+      [
+       "mic (n.)",
+       "麦克风（口语）",
+       "マイク（口語）"
+      ],
+      [
+       "wireless microphone",
+       "无线麦克风",
+       "ワイヤレスマイク"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1：A woman is speaking into a microphone.",
+      "ja": "Part 1：A woman is speaking into a microphone.（女性がマイクに向かって話している）"
+     }
+    },
+    {
+     "w": "screen",
+     "pos": "n./v.",
+     "ipa": "/skrin/",
+     "zh": "屏幕；筛选；审查",
+     "ja": "画面；選考する；審査する",
+     "ex": "Please share your screen so everyone can see the sales figures.",
+     "ex_zh": "请共享你的屏幕，让大家都能看到销售数据。",
+     "ex_ja": "全員が売上の数字を見られるよう、画面を共有してください。",
+     "parts": [],
+     "note": {
+      "zh": "古法语 escren“屏风”，没有可靠的词根拆分。",
+      "ja": "古フランス語 escren「ついたて」から。信頼できる語根分解はない。"
+     },
+     "forms": [
+      [
+       "share your screen",
+       "共享屏幕",
+       "画面を共有する"
+      ],
+      [
+       "screen applicants",
+       "筛选应聘者",
+       "応募者を選考する"
+      ]
+     ],
+     "tip": {
+      "zh": "⚠️ 动词 screen = 筛选：All applicants will be screened.（所有申请人都会经过筛选）",
+      "ja": "⚠️ 動詞 screen ＝ 選考する：All applicants will be screened.（応募者は全員選考されます）"
+     }
+    }
+   ]
+  },
+  {
+   "id": "kitchen",
+   "title_zh": "主题：厨房与烹饪",
+   "title_ja": "テーマ：キッチンと料理",
+   "words": [
+    {
+     "w": "recipe",
+     "pos": "n.",
+     "ipa": "/ˈrɛsəpi/",
+     "zh": "食谱；配方；秘诀",
+     "ja": "レシピ；作り方；秘訣",
+     "ex": "The chef shared the recipe for her popular lemon cake.",
+     "ex_zh": "主厨分享了她那款畅销柠檬蛋糕的食谱。",
+     "ex_ja": "シェフは人気のレモンケーキのレシピを紹介した。",
+     "parts": [
+      [
+       "re-",
+       "回",
+       "戻して"
+      ],
+      [
+       "cip",
+       "拿（capere）",
+       "取る（capere）"
+      ],
+      [
+       "-e",
+       "命令式词尾",
+       "命令形の語尾"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 recipe“拿着！”（recipere 的命令式），医生写在处方开头 → 配方 → 食谱。",
+      "ja": "ラテン語 recipe「取れ！」（recipere の命令形）。医師が処方箋の冒頭に書いた → 調合法 → レシピ。"
+     },
+     "forms": [
+      [
+       "a recipe for success",
+       "成功的秘诀",
+       "成功の秘訣"
+      ],
+      [
+       "follow a recipe",
+       "按食谱做",
+       "レシピどおりに作る"
+      ]
+     ],
+     "tip": {
+      "zh": "发音 /ˈrɛsəpi/，三个音节，结尾 -pe 读 /pi/。",
+      "ja": "発音 /ˈrɛsəpi/（3 音節）、語末 -pe は /pi/。"
+     }
+    },
+    {
+     "w": "utensil",
+     "pos": "n.",
+     "ipa": "/juˈtɛnsəl/",
+     "zh": "器具；（厨房）用具",
+     "ja": "調理器具；用具",
+     "ex": "All kitchen utensils must be washed and dried before storage.",
+     "ex_zh": "所有厨具在收纳前必须洗净擦干。",
+     "ex_ja": "調理器具はすべて洗って乾かしてから収納しなければならない。",
+     "parts": [
+      [
+       "ut",
+       "使用（uti）",
+       "使う（uti）"
+      ],
+      [
+       "-ensil",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 utensilia“可用之物”，来自 uti“使用”（use 同源）。",
+      "ja": "ラテン語 utensilia「使う物」。uti「使う」から（use と同語源）。"
+     },
+     "forms": [
+      [
+       "kitchen utensils",
+       "厨具",
+       "調理器具"
+      ],
+      [
+       "cooking tools",
+       "烹饪工具（近义）",
+       "調理道具（類義）"
+      ]
+     ],
+     "tip": {
+      "zh": "重音在第二音节：u-TEN-sil。",
+      "ja": "アクセントは第 2 音節：u-TEN-sil。"
+     }
+    },
+    {
+     "w": "stove",
+     "pos": "n.",
+     "ipa": "/stoʊv/",
+     "zh": "炉灶；炉子",
+     "ja": "コンロ；レンジ",
+     "ex": "Never leave a pot on the stove unattended.",
+     "ex_zh": "锅放在炉子上时千万不要离开。",
+     "ex_ja": "コンロに鍋をかけたまま目を離さないでください。",
+     "parts": [],
+     "note": {
+      "zh": "来自中古荷兰语 / 低地德语 stove“暖房”，没有可靠的词根拆分。",
+      "ja": "中期オランダ語・低地ドイツ語 stove「暖かい部屋」から。信頼できる語根分解はない。"
+     },
+     "forms": [
+      [
+       "gas stove",
+       "燃气灶",
+       "ガスコンロ"
+      ],
+      [
+       "stovetop (n.)",
+       "灶台",
+       "コンロの上面"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1：A pot has been placed on the stove.",
+      "ja": "Part 1：A pot has been placed on the stove.（コンロに鍋が置かれている）"
+     }
+    },
+    {
+     "w": "oven",
+     "pos": "n.",
+     "ipa": "/ˈʌvən/",
+     "zh": "烤箱；烤炉",
+     "ja": "オーブン",
+     "ex": "Preheat the oven to 180 degrees before baking the bread.",
+     "ex_zh": "烤面包前先把烤箱预热到 180 度。",
+     "ex_ja": "パンを焼く前にオーブンを 180 度に予熱してください。",
+     "parts": [],
+     "note": {
+      "zh": "古英语 ofen，本族词，没有可靠的词根拆分。",
+      "ja": "古英語 ofen の本来語で、信頼できる語根分解はない。"
+     },
+     "forms": [
+      [
+       "microwave oven",
+       "微波炉",
+       "電子レンジ"
+      ],
+      [
+       "preheat the oven",
+       "预热烤箱",
+       "オーブンを予熱する"
+      ]
+     ],
+     "tip": {
+      "zh": "发音 /ˈʌvən/，o 读 /ʌ/（像 love），不是“欧文”。",
+      "ja": "発音 /ˈʌvən/。o は /ʌ/（love と同じ）で「オーブン」の音ではない。"
+     }
+    },
+    {
+     "w": "chef",
+     "pos": "n.",
+     "ipa": "/ʃɛf/",
+     "zh": "厨师；主厨",
+     "ja": "シェフ；料理長",
+     "ex": "The restaurant hired a new head chef from Paris.",
+     "ex_zh": "这家餐厅从巴黎请来了一位新主厨。",
+     "ex_ja": "そのレストランはパリから新しい料理長を迎えた。",
+     "parts": [
+      [
+       "chef",
+       "头（caput）→ 首领",
+       "頭（caput）→ 長"
+      ]
+     ],
+     "note": {
+      "zh": "法语 chef de cuisine“厨房之首”，来自拉丁语 caput“头”——与今天的 capit / chief 同源。",
+      "ja": "フランス語 chef de cuisine「厨房の長」。ラテン語 caput「頭」から——今日の capit / chief と同語源。"
+     },
+     "forms": [
+      [
+       "head chef",
+       "主厨",
+       "料理長"
+      ],
+      [
+       "pastry chef",
+       "西点师",
+       "パティシエ"
+      ]
+     ],
+     "tip": {
+      "zh": "发音 /ʃɛf/（ch 读 sh），chief 是 /tʃif/。",
+      "ja": "発音 /ʃɛf/（ch は sh の音）。chief は /tʃif/。"
+     }
+    },
+    {
+     "w": "dishwasher",
+     "pos": "n.",
+     "ipa": "/ˈdɪʃˌwɑʃɚ/",
+     "zh": "洗碗机；洗碗工",
+     "ja": "食器洗い機；皿洗い係",
+     "ex": "Please load the dishwasher before you leave the break room.",
+     "ex_zh": "离开休息室前请把碗碟放进洗碗机。",
+     "ex_ja": "休憩室を出る前に食器を食洗機に入れてください。",
+     "parts": [
+      [
+       "dish",
+       "盘子",
+       "皿"
+      ],
+      [
+       "wash",
+       "洗",
+       "洗う"
+      ],
+      [
+       "-er",
+       "表示人 / 机器",
+       "〜する人・機械"
+      ]
+     ],
+     "note": {
+      "zh": "dish + wash + -er 的复合词。",
+      "ja": "dish＋wash＋-er の複合語。"
+     },
+     "forms": [
+      [
+       "load / unload the dishwasher",
+       "装 / 取洗碗机",
+       "食洗機に入れる／出す"
+      ],
+      [
+       "dishwasher-safe",
+       "可用洗碗机清洗的",
+       "食洗機対応の"
+      ]
+     ],
+     "tip": {
+      "zh": "商品标签：dishwasher-safe（可机洗）。",
+      "ja": "商品ラベル：dishwasher-safe（食洗機対応）。"
+     }
+    },
+    {
+     "w": "cutlery",
+     "pos": "n.",
+     "ipa": "/ˈkʌtləri/",
+     "zh": "餐具（刀、叉、勺）",
+     "ja": "カトラリー（ナイフ・フォーク・スプーン）",
+     "ex": "Napkins and cutlery are available next to the cashier.",
+     "ex_zh": "收银台旁边有餐巾和餐具。",
+     "ex_ja": "ナプキンとカトラリーはレジの横にあります。",
+     "parts": [],
+     "note": {
+      "zh": "古法语 coutelerie“刀具业”（coutel“小刀”），没有可靠的词根拆分。",
+      "ja": "古フランス語 coutelerie「刃物業」（coutel「小刀」）から。信頼できる語根分解はない。"
+     },
+     "forms": [
+      [
+       "silverware (n.)",
+       "银餐具（美式）",
+       "銀食器（米式）"
+      ],
+      [
+       "utensils (n.)",
+       "餐具（美式）",
+       "食器（米式）"
+      ]
+     ],
+     "tip": {
+      "zh": "不可数名词：some cutlery，不说 a cutlery。",
+      "ja": "不可算名詞：some cutlery と言い、a cutlery とは言わない。"
+     }
+    },
+    {
+     "w": "simmer",
+     "pos": "v.",
+     "ipa": "/ˈsɪmɚ/",
+     "zh": "文火慢炖",
+     "ja": "とろ火で煮る",
+     "ex": "Let the soup simmer for twenty minutes, stirring occasionally.",
+     "ex_zh": "让汤小火慢炖二十分钟，期间偶尔搅拌。",
+     "ex_ja": "スープを時々かき混ぜながら 20 分ほどとろ火で煮る。",
+     "parts": [],
+     "note": {
+      "zh": "拟声词（模仿将沸未沸的声音），没有可靠的词根拆分。",
+      "ja": "擬音語（煮立つ寸前の音をまねた語）で、信頼できる語根分解はない。"
+     },
+     "forms": [
+      [
+       "bring to a boil",
+       "煮沸",
+       "沸騰させる"
+      ],
+      [
+       "simmer down",
+       "冷静下来",
+       "落ち着く"
+      ]
+     ]
+    },
+    {
+     "w": "chop",
+     "pos": "v.",
+     "ipa": "/tʃɑp/",
+     "zh": "切碎；砍",
+     "ja": "刻む；たたき切る",
+     "ex": "Chop the onions finely and add them to the pan.",
+     "ex_zh": "把洋葱切碎，放进平底锅里。",
+     "ex_ja": "玉ねぎをみじん切りにしてフライパンに入れる。",
+     "parts": [],
+     "note": {
+      "zh": "中古英语 choppen，没有可靠的词根拆分。",
+      "ja": "中英語 choppen から。信頼できる語根分解はない。"
+     },
+     "forms": [
+      [
+       "chopped (adj.)",
+       "切碎的",
+       "刻んだ"
+      ],
+      [
+       "cutting board",
+       "砧板",
+       "まな板"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1：A woman is chopping vegetables.",
+      "ja": "Part 1：A woman is chopping vegetables.（女性が野菜を刻んでいる）"
+     }
+    },
+    {
+     "w": "grill",
+     "pos": "v./n.",
+     "ipa": "/ɡrɪl/",
+     "zh": "烧烤；烤架",
+     "ja": "網焼きにする；グリル",
+     "ex": "The restaurant grills all its fish over charcoal.",
+     "ex_zh": "这家餐厅的鱼全部用炭火烤制。",
+     "ex_ja": "そのレストランは魚をすべて炭火で焼いている。",
+     "parts": [],
+     "note": {
+      "zh": "法语 gril“烤架”（拉丁语 craticula“小铁格”），没有可靠的词根拆分。",
+      "ja": "フランス語 gril「焼き網」（ラテン語 craticula「小さな格子」）から。信頼できる語根分解はない。"
+     },
+     "forms": [
+      [
+       "grilled (adj.)",
+       "烤的",
+       "網焼きの"
+      ],
+      [
+       "on the grill",
+       "在烤架上",
+       "グリルで"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1：Some food is being grilled outdoors.",
+      "ja": "Part 1：Some food is being grilled outdoors.（屋外で食べ物が焼かれている）"
+     }
+    },
+    {
+     "w": "apron",
+     "pos": "n.",
+     "ipa": "/ˈeɪprən/",
+     "zh": "围裙",
+     "ja": "エプロン",
+     "ex": "Kitchen staff must wear a clean apron and a hair cover at all times.",
+     "ex_zh": "厨房员工必须始终穿干净的围裙并戴发帽。",
+     "ex_ja": "厨房スタッフは常に清潔なエプロンと帽子を着用しなければならない。",
+     "parts": [],
+     "note": {
+      "zh": "原为 a napron，被误分成 an apron，没有可靠的词根拆分。",
+      "ja": "もとは a napron で、an apron と区切り直された語。信頼できる語根分解はない。"
+     },
+     "forms": [
+      [
+       "wear an apron",
+       "系围裙",
+       "エプロンを着ける"
+      ],
+      [
+       "hairnet (n.)",
+       "发网",
+       "ヘアネット"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1：The man is wearing an apron.",
+      "ja": "Part 1：The man is wearing an apron.（男性はエプロンを着けている）"
+     }
+    },
+    {
+     "w": "peel",
+     "pos": "v./n.",
+     "ipa": "/pil/",
+     "zh": "削皮；剥；果皮",
+     "ja": "皮をむく；はがれる；皮",
+     "ex": "Peel the potatoes and cut them into small cubes.",
+     "ex_zh": "把土豆削皮，切成小丁。",
+     "ex_ja": "じゃがいもの皮をむき、小さな角切りにする。",
+     "parts": [],
+     "note": {
+      "zh": "古英语 pilian，没有可靠的词根拆分。",
+      "ja": "古英語 pilian から。信頼できる語根分解はない。"
+     },
+     "forms": [
+      [
+       "peeler (n.)",
+       "削皮器",
+       "皮むき器"
+      ],
+      [
+       "peel off",
+       "剥落；脱掉",
+       "はがれる；脱ぐ"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1：Paint is peeling off the wall.（墙上的漆在剥落）",
+      "ja": "Part 1：Paint is peeling off the wall.（壁のペンキがはがれている）"
+     }
+    },
+    {
+     "w": "stir",
+     "pos": "v.",
+     "ipa": "/stɝ/",
+     "zh": "搅拌；激起",
+     "ja": "かき混ぜる；かき立てる",
+     "ex": "Stir the sauce gently until it thickens.",
+     "ex_zh": "轻轻搅拌酱汁，直到变稠。",
+     "ex_ja": "ソースにとろみがつくまでゆっくりかき混ぜる。",
+     "parts": [],
+     "note": {
+      "zh": "古英语 styrian“移动”，本族词，没有可靠的词根拆分。",
+      "ja": "古英語 styrian「動かす」の本来語で、信頼できる語根分解はない。"
+     },
+     "forms": [
+      [
+       "stir up interest",
+       "激起兴趣",
+       "関心をかき立てる"
+      ],
+      [
+       "stir-fry (v.)",
+       "翻炒",
+       "炒める"
+      ]
+     ]
+    },
+    {
+     "w": "kettle",
+     "pos": "n.",
+     "ipa": "/ˈkɛtəl/",
+     "zh": "水壶；烧水壶",
+     "ja": "やかん；電気ケトル",
+     "ex": "There is an electric kettle in the break room for making tea.",
+     "ex_zh": "休息室里有电水壶可以泡茶。",
+     "ex_ja": "休憩室にはお茶をいれるための電気ケトルがある。",
+     "parts": [],
+     "note": {
+      "zh": "古诺尔斯语 ketill（源自拉丁语 catillus“小碗”），没有可靠的词根拆分。",
+      "ja": "古ノルド語 ketill（ラテン語 catillus「小鉢」から）。信頼できる語根分解はない。"
+     },
+     "forms": [
+      [
+       "electric kettle",
+       "电水壶",
+       "電気ケトル"
+      ],
+      [
+       "put the kettle on",
+       "烧水（泡茶）",
+       "お湯を沸かす"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}
