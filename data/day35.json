@@ -1,0 +1,2552 @@
+{
+ "day": 35,
+ "date": "2026-11-07",
+ "title_zh": "四大词根 + 酒店入住与客房服务、博物馆与展览活动",
+ "title_ja": "4つの語根＋ホテルチェックインと客室サービス、博物館と展覧会",
+ "intro_zh": "今天掌握 4 个高频词根（temp·tempor 时间 / phon·phone 声音 / path 感受·痛苦 / brev·brief 短），再学酒店入住与客房服务、博物馆与展览活动的核心词——强化 Part 5 词性题（temporary / temporarily、brief / briefly / brevity、sympathetic / sympathetically）和固定搭配（on a temporary basis、sympathize with、in brief、debrief the team、amenities include、permanent collection），易混词（temper / temperament 与 temp 无关、pathos 与 pathogen、briefcase 与 brief case 写法、folio 在酒店指账单），Part 1 场景（standing in the lobby、wearing headphones、a mural on the wall、polishing a bronze statue），以及 Part 7 的酒店确认信与展览通知（no-show policy、late checkout、guided tour、membership discount）。",
+ "intro_ja": "今日は語根 4 つ（temp・tempor 時間／phon・phone 音／path 感情・苦しみ／brev・brief 短い）と、ホテルチェックインと客室サービス、博物館と展覧会の重要語を学びます。Part 5 の品詞問題（temporary / temporarily、brief / briefly / brevity、sympathetic / sympathetically）と語法（on a temporary basis、sympathize with、in brief、debrief the team、amenities include、permanent collection）、紛らわしい語（temper / temperament は temp と無関係、pathos と pathogen、briefcase の書き方、folio はホテルでは請求書）、Part 1 の場面（standing in the lobby、wearing headphones、a mural on the wall、polishing a bronze statue）、Part 7 のホテル確認メールと展覧会案内（no-show policy、late checkout、guided tour、membership discount）を強化します。",
+ "voice": "en-US-AriaNeural",
+ "roots": [
+  {
+   "root": "-temp- / -tempor-",
+   "origin": "Latin tempus, temporis",
+   "zh": "时间",
+   "ja": "時間",
+   "exp_zh": "来自拉丁语 tempus（时间）。与时间有关 → temporal（时间的；世俗的）；暂时的 → temporary / temporarily；同属一个时代 → contemporary（当代的；同时代的人）/ contemporaneous（同时发生的）；节奏、速度 → tempo；口语里“临时工”→ temp；测量冷热的“时间上的程度”引申 → temperature（温度）。⚠️ temper（脾气；回火）和 temperament（性情）来自 temperare“调和”，与“时间”不同源；template（模板）也无关。",
+   "exp_ja": "ラテン語 tempus（時間）から。時間に関する → temporal（時間の；世俗の）。一時的な → temporary／temporarily。同じ時代の → contemporary（現代の；同時代人）／contemporaneous（同時期の）。速さ・テンポ → tempo。口語で「臨時社員」→ temp。寒暖の度合い → temperature（温度）。⚠️ temper（気性；焼きを入れる）と temperament（気質）は temperare「調える」由来で「時間」とは別。template（型）も無関係。",
+   "examples": [
+    "temporary",
+    "contemporary",
+    "tempo",
+    "temporal",
+    "temporarily",
+    "contemporaneous",
+    "temp",
+    "temperature"
+   ]
+  },
+  {
+   "root": "-phon- / -phone-",
+   "origin": "Greek phōnē",
+   "zh": "声音；嗓音",
+   "ja": "音；声",
+   "exp_zh": "来自希腊语 phōnē（声音、嗓音）。远方的声音 → telephone（电话）；头上的扬声器 → headphone / earphones；智能电话 → smartphone；大声传声的喇叭 → megaphone；“一起发出的声音”→ symphony（交响乐；和谐）；与语音有关 → phonetic / phonetics（语音的 / 语音学）。复合时 -phone 常指“发声装置”。⚠️ -phony 也可表“某种声音状态”（cacophony 刺耳声、euphony 悦耳），但本课聚焦商务场景常用词。",
+   "exp_ja": "ギリシャ語 phōnē（音・声）から。遠い音 → telephone（電話）。頭につけるスピーカー → headphone／earphones。賢い電話 → smartphone。大きな声を伝えるラッパ → megaphone。「一緒に響く音」→ symphony（交響曲；調和）。音声に関する → phonetic／phonetics（音声の／音声学）。複合語の -phone は「音を出す装置」を指すことが多い。⚠️ -phony は「音の状態」（cacophony 不協和音、euphony 快い響き）も表すが、本課はビジネスで使う語に絞る。",
+   "examples": [
+    "telephone",
+    "headphone",
+    "earphones",
+    "symphony",
+    "phonetic",
+    "megaphone",
+    "phonetics",
+    "smartphone"
+   ]
+  },
+  {
+   "root": "-path-",
+   "origin": "Greek pathos",
+   "zh": "感受；痛苦；疾病",
+   "ja": "感情；苦しみ；病気",
+   "exp_zh": "来自希腊语 pathos（感受、痛苦）。共同感受 → sympathy / sympathetic / sympathize（同情；共鸣）；进入对方感受 → empathy（共情）；没有感受 → apathy（冷漠）；引人哀怜 → pathetic（可怜的；差劲的）；致病之物 → pathogen（病原体）；研究疾病 → pathology（病理学）。⚠️ path- 作“道路”时来自希腊语 pathos 的另一同源词 path（如 pathway、psychopath 的 -path 指“患者/受影响者”），词源相关但现代义项要分清：同情类 vs 疾病类。",
+   "exp_ja": "ギリシャ語 pathos（感情・苦しみ）から。共に感じる → sympathy／sympathetic／sympathize（同情；共感）。相手の感情に入る → empathy（共感）。感情がない → apathy（無関心）。哀れを誘う → pathetic（哀れな；ひどい）。病を起こすもの → pathogen（病原体）。病気を研究する学問 → pathology（病理学）。⚠️「道」の path（pathway など）や psychopath の -path「〜に侵された人」は同源だが、現代では「同情」系と「病気」系で意味が分かれる。",
+   "examples": [
+    "sympathy",
+    "sympathetic",
+    "sympathize",
+    "empathy",
+    "apathy",
+    "pathetic",
+    "pathogen",
+    "pathology"
+   ]
+  },
+  {
+   "root": "-brev- / -brief-",
+   "origin": "Latin brevis",
+   "zh": "短；简短",
+   "ja": "短い；簡潔",
+   "exp_zh": "来自拉丁语 brevis（短的）。简短的 → brief（简短的；简报）/ briefly（简短地）/ brevity（简洁）；使变短 → abbreviate（缩写）→ abbreviation（缩写形式）；装文件的短箱 → briefcase（公文包）；任务前后的简短说明 → briefing（简报会）/ debrief（任务后听取汇报）。⚠️ brief 作名词可指“案情摘要、律师委托”；in brief = 简言之。",
+   "exp_ja": "ラテン語 brevis（短い）から。短い → brief（短い；概要）／briefly（簡潔に）／brevity（簡潔さ）。短くする → abbreviate（省略する）→ abbreviation（略語）。書類を入れる短い箱 → briefcase（ブリーフケース）。作業前後の短い説明 → briefing（ブリーフィング）／debrief（事後報告を聞く）。⚠️ brief は名詞で「案件概要・依頼内容」の意味も。in brief＝要するに。",
+   "examples": [
+    "brief",
+    "briefly",
+    "brevity",
+    "abbreviate",
+    "abbreviation",
+    "briefcase",
+    "debrief",
+    "briefing"
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "temp",
+   "title_zh": "词根 -temp- / -tempor-：时间",
+   "title_ja": "語根 -temp- / -tempor-：時間",
+   "words": [
+    {
+     "w": "temporary",
+     "pos": "adj.",
+     "ipa": "/ˈtɛmpəˌrɛri/",
+     "zh": "临时的；暂时的",
+     "ja": "一時的な；仮の",
+     "ex": "The company hired three temporary workers for the holiday season.",
+     "ex_zh": "公司为节日旺季雇了三名临时工。",
+     "ex_ja": "繁忙期のため、会社は臨時スタッフを3人雇った。",
+     "parts": [
+      [
+       "tempor",
+       "时间（tempus）",
+       "時間（tempus）"
+      ],
+      [
+       "-ary",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 temporarius“一时的”。",
+      "ja": "ラテン語 temporarius「一時的な」。"
+     },
+     "forms": [
+      [
+       "temporary worker",
+       "临时工",
+       "臨時職員"
+      ],
+      [
+       "on a temporary basis",
+       "以临时方式",
+       "一時的に"
+      ],
+      [
+       "temporary (n.)",
+       "临时工（口语）",
+       "臨時（口語）"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5：temporary / temporarily 词性辨析常见。",
+      "ja": "Part 5：temporary / temporarily の品詞問題が定番。"
+     }
+    },
+    {
+     "w": "contemporary",
+     "pos": "adj./n.",
+     "ipa": "/kənˈtɛmpəˌrɛri/",
+     "zh": "当代的；同时代的；同时代的人",
+     "ja": "現代の；同時代の；同時代人",
+     "ex": "The museum's contemporary art wing opens next month.",
+     "ex_zh": "博物馆的当代艺术侧馆下月开放。",
+     "ex_ja": "博物館の現代美術棟が来月オープンする。",
+     "parts": [
+      [
+       "con-",
+       "共同",
+       "共に"
+      ],
+      [
+       "tempor",
+       "时间",
+       "時間"
+      ],
+      [
+       "-ary",
+       "形容词/名词后缀",
+       "形容詞・名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "con-“一起”+ tempus“时间”→ 同一时代。",
+      "ja": "con-「一緒に」＋tempus「時間」→ 同じ時代。"
+     },
+     "forms": [
+      [
+       "contemporary art",
+       "当代艺术",
+       "現代美術"
+      ],
+      [
+       "a contemporary of…",
+       "…的同时代人",
+       "〜の同時代人"
+      ],
+      [
+       "contemporary issues",
+       "当代议题",
+       "現代の課題"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7 展览介绍常出现 contemporary art。",
+      "ja": "Part 7 の展覧会案内で contemporary art がよく出る。"
+     }
+    },
+    {
+     "w": "tempo",
+     "pos": "n.",
+     "ipa": "/ˈtɛmpoʊ/",
+     "zh": "速度；节奏；进度",
+     "ja": "テンポ；速さ；進み具合",
+     "ex": "Please pick up the tempo so we can finish the agenda on time.",
+     "ex_zh": "请加快节奏，以便我们按时结束议程。",
+     "ex_ja": "時間内に議題を終えるよう、テンポを上げてください。",
+     "parts": [
+      [
+       "tempo",
+       "时间/节奏（意大利语）",
+       "時間・テンポ（イタリア語）"
+      ]
+     ],
+     "note": {
+      "zh": "经意大利语 tempo“时间、速度”进入英语。",
+      "ja": "イタリア語 tempo「時間・速さ」から英語へ。"
+     },
+     "forms": [
+      [
+       "pick up the tempo",
+       "加快节奏",
+       "テンポを上げる"
+      ],
+      [
+       "at a slow tempo",
+       "以慢速",
+       "ゆっくりしたテンポで"
+      ]
+     ]
+    },
+    {
+     "w": "temporal",
+     "pos": "adj.",
+     "ipa": "/ˈtɛmpərəl/",
+     "zh": "时间的；世俗的",
+     "ja": "時間の；世俗の",
+     "ex": "The report analyzes both temporal trends and geographic differences.",
+     "ex_zh": "报告分析了时间趋势和地域差异。",
+     "ex_ja": "報告書は時間的な傾向と地理的な差の両方を分析している。",
+     "parts": [
+      [
+       "tempor",
+       "时间",
+       "時間"
+      ],
+      [
+       "-al",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "temporal lobe（颞叶）也是“与时间/侧面相关”的解剖名。",
+      "ja": "temporal lobe（側頭葉）も解剖学名。"
+     },
+     "forms": [
+      [
+       "temporal trends",
+       "时间趋势",
+       "時間的傾向"
+      ],
+      [
+       "temporal vs. spatial",
+       "时间与空间的",
+       "時間対空間"
+      ]
+     ]
+    },
+    {
+     "w": "temporarily",
+     "pos": "adv.",
+     "ipa": "/ˌtɛmpəˈrɛrəli/",
+     "zh": "暂时地；临时地",
+     "ja": "一時的に；当分の間",
+     "ex": "The front desk is temporarily closed for system maintenance.",
+     "ex_zh": "前台因系统维护暂时关闭。",
+     "ex_ja": "システム保守のため、フロントは一時閉鎖している。",
+     "parts": [
+      [
+       "temporary",
+       "临时的",
+       "一時的な"
+      ],
+      [
+       "-ly",
+       "副词后缀",
+       "副詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "temporary + -ly。",
+      "ja": "temporary ＋ -ly。"
+     },
+     "forms": [
+      [
+       "temporarily unavailable",
+       "暂时无法使用",
+       "一時利用不可"
+      ],
+      [
+       "temporarily closed",
+       "暂时关闭",
+       "一時閉鎖"
+      ]
+     ],
+     "tip": {
+      "zh": "对照 temporary（形）/ temporarily（副）。",
+      "ja": "temporary（形）／temporarily（副）を対比して覚える。"
+     }
+    },
+    {
+     "w": "contemporaneous",
+     "pos": "adj.",
+     "ipa": "/kənˌtɛmpəˈreɪniəs/",
+     "zh": "同时发生的；同时期的",
+     "ja": "同時期の；同時代の",
+     "ex": "Two contemporaneous studies reached similar conclusions about customer loyalty.",
+     "ex_zh": "两项同时期的研究就客户忠诚度得出了相似结论。",
+     "ex_ja": "顧客ロイヤルティについて、同時期の2つの研究が似た結論に達した。",
+     "parts": [
+      [
+       "con-",
+       "共同",
+       "共に"
+      ],
+      [
+       "tempor",
+       "时间",
+       "時間"
+      ],
+      [
+       "-aneous",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "比 contemporary 更强调“同一时间发生”，偏书面。",
+      "ja": "contemporary より「同時に起きた」ニュアンスが強く、書き言葉寄り。"
+     },
+     "forms": [
+      [
+       "contemporaneous events",
+       "同时发生的事件",
+       "同時期の出来事"
+      ],
+      [
+       "contemporaneous records",
+       "同期记录",
+       "同時期の記録"
+      ]
+     ]
+    },
+    {
+     "w": "temp",
+     "pos": "n.",
+     "ipa": "/tɛmp/",
+     "zh": "临时工；临时雇员",
+     "ja": "臨時社員；派遣社員",
+     "ex": "We need two temps to cover the reception desk this week.",
+     "ex_zh": "本周前台需要两名临时工顶班。",
+     "ex_ja": "今週フロントをカバーするため、臨時スタッフが2人必要だ。",
+     "parts": [
+      [
+       "temp",
+       "temporary 的缩略",
+       "temporary の略"
+      ]
+     ],
+     "note": {
+      "zh": "口语缩略自 temporary (worker)；也可作动词“做临时工”。",
+      "ja": "口語で temporary (worker) の略。動詞で「臨時で働く」も。"
+     },
+     "forms": [
+      [
+       "hire a temp",
+       "雇临时工",
+       "臨時を雇う"
+      ],
+      [
+       "temp agency",
+       "临时工中介",
+       "人材派遣会社"
+      ]
+     ],
+     "tip": {
+      "zh": "TOEIC Part 7 招聘启事常见 temp / temporary staff。",
+      "ja": "TOEIC Part 7 の求人で temp / temporary staff が頻出。"
+     }
+    },
+    {
+     "w": "temperature",
+     "pos": "n.",
+     "ipa": "/ˈtɛmprətʃɚ/",
+     "zh": "温度；气温；体温",
+     "ja": "温度；気温；体温",
+     "ex": "Please keep the meeting room temperature at about 22 degrees Celsius.",
+     "ex_zh": "请将会议室温度保持在约 22 摄氏度。",
+     "ex_ja": "会議室の温度は約22度に保ってください。",
+     "parts": [
+      [
+       "temper",
+       "调和/适度（此处经法语）",
+       "調える（フランス語経由）"
+      ],
+      [
+       "-ature",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "词源经拉丁 temperare“调节”，现代拼写含 temp-，常与“时间”词根一起记，但严格说更近“调和”。课内归入时间组便于对比。",
+      "ja": "語源は temperare「調える」。綴りに temp- を含むため時間語根と並べて学ぶが、厳密には「調和」寄り。"
+     },
+     "forms": [
+      [
+       "room temperature",
+       "室温",
+       "室温"
+      ],
+      [
+       "body temperature",
+       "体温",
+       "体温"
+      ],
+      [
+       "temperature control",
+       "温控",
+       "温度管理"
+      ]
+     ],
+     "tip": {
+      "zh": "⚠️ 勿与 temper（脾气）混淆。",
+      "ja": "⚠️ temper（気性）と混同しない。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "phon",
+   "title_zh": "词根 -phon- / -phone-：声音",
+   "title_ja": "語根 -phon- / -phone-：音",
+   "words": [
+    {
+     "w": "telephone",
+     "pos": "n./v.",
+     "ipa": "/ˈtɛləˌfoʊn/",
+     "zh": "电话；打电话",
+     "ja": "電話；電話する",
+     "ex": "Customers can telephone the call center between 9 a.m. and 6 p.m.",
+     "ex_zh": "客户可在上午 9 点至下午 6 点致电呼叫中心。",
+     "ex_ja": "お客様は午前9時から午後6時までコールセンターに電話できる。",
+     "parts": [
+      [
+       "tele-",
+       "远",
+       "遠い"
+      ],
+      [
+       "phone",
+       "声音",
+       "音"
+      ]
+     ],
+     "note": {
+      "zh": "tele-“远”+ phōnē“声音”。",
+      "ja": "tele-「遠い」＋phōnē「音」。"
+     },
+     "forms": [
+      [
+       "telephone number",
+       "电话号码",
+       "電話番号"
+      ],
+      [
+       "by telephone",
+       "通过电话",
+       "電話で"
+      ],
+      [
+       "telephone (v.)",
+       "打电话",
+       "電話する"
+      ]
+     ]
+    },
+    {
+     "w": "headphone",
+     "pos": "n.",
+     "ipa": "/ˈhɛdˌfoʊn/",
+     "zh": "耳机（头戴式）",
+     "ja": "ヘッドホン",
+     "ex": "Please use a headphone when you join the online meeting in the open office.",
+     "ex_zh": "在开放式办公室参加线上会议时请使用耳机。",
+     "ex_ja": "オープンスペースでオンライン会議に入るときはヘッドホンを使ってください。",
+     "parts": [
+      [
+       "head",
+       "头",
+       "頭"
+      ],
+      [
+       "phone",
+       "发声装置",
+       "音の装置"
+      ]
+     ],
+     "note": {
+      "zh": "常用复数 headphones；单数也可见于产品说明。",
+      "ja": "通例は複数 headphones。製品説明では単数も。"
+     },
+     "forms": [
+      [
+       "a pair of headphones",
+       "一副耳机",
+       "ヘッドホン一式"
+      ],
+      [
+       "noise-canceling headphones",
+       "降噪耳机",
+       "ノイズキャンセリングヘッドホン"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1：wearing headphones / a headset。",
+      "ja": "Part 1：wearing headphones / a headset。"
+     }
+    },
+    {
+     "w": "earphones",
+     "pos": "n.",
+     "ipa": "/ˈɪrˌfoʊnz/",
+     "zh": "耳机（入耳式）；耳塞式耳机",
+     "ja": "イヤホン",
+     "ex": "Free earphones are available at the museum's audio-guide desk.",
+     "ex_zh": "博物馆语音导览台提供免费耳机。",
+     "ex_ja": "博物館の音声ガイド窓口でイヤホンを無料貸出している。",
+     "parts": [
+      [
+       "ear",
+       "耳朵",
+       "耳"
+      ],
+      [
+       "phone",
+       "发声装置",
+       "音の装置"
+      ]
+     ],
+     "note": {
+      "zh": "通常用复数；较 headphone 更偏入耳式。",
+      "ja": "通常は複数。headphone より耳に入れるタイプ寄り。"
+     },
+     "forms": [
+      [
+       "wired earphones",
+       "有线耳机",
+       "有線イヤホン"
+      ],
+      [
+       "wireless earphones",
+       "无线耳机",
+       "ワイヤレスイヤホン"
+      ]
+     ]
+    },
+    {
+     "w": "symphony",
+     "pos": "n.",
+     "ipa": "/ˈsɪmfəni/",
+     "zh": "交响乐；和谐；协调",
+     "ja": "交響曲；調和",
+     "ex": "The charity gala will feature a short symphony performed by a local orchestra.",
+     "ex_zh": "慈善晚会将有当地管弦乐队演奏一首短交响曲。",
+     "ex_ja": "チャリティー・ガラでは地元オーケストラが短い交響曲を演奏する。",
+     "parts": [
+      [
+       "sym-",
+       "一起",
+       "共に"
+      ],
+      [
+       "phon",
+       "声音",
+       "音"
+      ],
+      [
+       "-y",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "sym-“一起”+ phōnē → 共同发声；也可喻“协调一致”。",
+      "ja": "sym-「一緒に」＋phōnē → 共に鳴る。比喩で「調和」も。"
+     },
+     "forms": [
+      [
+       "symphony orchestra",
+       "交响乐团",
+       "交響楽団"
+      ],
+      [
+       "in symphony with…",
+       "与…协调",
+       "〜と調和して"
+      ]
+     ]
+    },
+    {
+     "w": "phonetic",
+     "pos": "adj.",
+     "ipa": "/fəˈnɛtɪk/",
+     "zh": "语音的；语音学的",
+     "ja": "音声の；音声学の",
+     "ex": "Each vocabulary entry includes a phonetic transcription in IPA.",
+     "ex_zh": "每个词汇条目都包含 IPA 音标转写。",
+     "ex_ja": "各語彙項目には IPA の音声表記が付いている。",
+     "parts": [
+      [
+       "phon",
+       "声音",
+       "音"
+      ],
+      [
+       "-etic",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "phonetic alphabet / phonetic transcription 常考搭配。",
+      "ja": "phonetic alphabet / phonetic transcription が定番コロケーション。"
+     },
+     "forms": [
+      [
+       "phonetic transcription",
+       "音标转写",
+       "音声表記"
+      ],
+      [
+       "phonetic alphabet",
+       "音标字母",
+       "音声字母"
+      ]
+     ]
+    },
+    {
+     "w": "megaphone",
+     "pos": "n.",
+     "ipa": "/ˈmɛɡəˌfoʊn/",
+     "zh": "扩音器；喇叭筒",
+     "ja": "メガホン；拡声器",
+     "ex": "The tour guide used a megaphone so the large group could hear the instructions.",
+     "ex_zh": "导游使用扩音器，好让大团游客听清指示。",
+     "ex_ja": "ガイドは大きな団体にも指示が聞こえるようメガホンを使った。",
+     "parts": [
+      [
+       "mega-",
+       "大",
+       "大きい"
+      ],
+      [
+       "phone",
+       "声音",
+       "音"
+      ]
+     ],
+     "note": {
+      "zh": "mega-“大”+ phone。",
+      "ja": "mega-「大きい」＋phone。"
+     },
+     "forms": [
+      [
+       "speak through a megaphone",
+       "通过扩音器讲话",
+       "メガホンで話す"
+      ],
+      [
+       "electric megaphone",
+       "电动扩音器",
+       "電動メガホン"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1：holding / speaking into a megaphone。",
+      "ja": "Part 1：holding / speaking into a megaphone。"
+     }
+    },
+    {
+     "w": "phonetics",
+     "pos": "n.",
+     "ipa": "/fəˈnɛtɪks/",
+     "zh": "语音学",
+     "ja": "音声学",
+     "ex": "A short course in phonetics can improve your listening score quickly.",
+     "ex_zh": "短期语音学课程能较快提高听力分数。",
+     "ex_ja": "短い音声学の講座でリスニング得点を早く伸ばせる。",
+     "parts": [
+      [
+       "phonetic",
+       "语音的",
+       "音声の"
+      ],
+      [
+       "-s",
+       "学科名",
+       "学問名"
+      ]
+     ],
+     "note": {
+      "zh": "作学科名时通常视为单数概念。",
+      "ja": "学問名としては単数扱いが多い。"
+     },
+     "forms": [
+      [
+       "applied phonetics",
+       "应用语音学",
+       "応用音声学"
+      ],
+      [
+       "English phonetics",
+       "英语语音学",
+       "英語音声学"
+      ]
+     ]
+    },
+    {
+     "w": "smartphone",
+     "pos": "n.",
+     "ipa": "/ˈsmɑrtˌfoʊn/",
+     "zh": "智能手机",
+     "ja": "スマートフォン",
+     "ex": "Guests can open their room doors with a smartphone app.",
+     "ex_zh": "住客可用智能手机应用打开房门。",
+     "ex_ja": "宿泊客はスマートフォンのアプリで部屋の扉を開けられる。",
+     "parts": [
+      [
+       "smart",
+       "智能的",
+       "スマートな"
+      ],
+      [
+       "phone",
+       "电话",
+       "電話"
+      ]
+     ],
+     "note": {
+      "zh": "smart + telephone 的缩合。",
+      "ja": "smart ＋ telephone の複合。"
+     },
+     "forms": [
+      [
+       "smartphone app",
+       "手机应用",
+       "スマホアプリ"
+      ],
+      [
+       "smartphone-friendly",
+       "适合手机的",
+       "スマホ対応"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7：hotel / museum apps、QR codes 常与 smartphone 同现。",
+      "ja": "Part 7：ホテル・博物館アプリや QR と共起しやすい。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "path",
+   "title_zh": "词根 -path-：感受；痛苦",
+   "title_ja": "語根 -path-：感情；苦しみ",
+   "words": [
+    {
+     "w": "sympathy",
+     "pos": "n.",
+     "ipa": "/ˈsɪmpəθi/",
+     "zh": "同情；慰问；共鸣",
+     "ja": "同情；お悔やみ；共感",
+     "ex": "We expressed our sympathy to the team after the project was canceled.",
+     "ex_zh": "项目取消后，我们向团队表达了同情与安慰。",
+     "ex_ja": "プロジェクト中止後、チームに同情の意を伝えた。",
+     "parts": [
+      [
+       "sym-",
+       "共同",
+       "共に"
+      ],
+      [
+       "path",
+       "感受",
+       "感情"
+      ],
+      [
+       "-y",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "sym-“一起”+ pathos“感受”。",
+      "ja": "sym-「一緒に」＋pathos「感情」。"
+     },
+     "forms": [
+      [
+       "express sympathy",
+       "表达同情",
+       "同情を表す"
+      ],
+      [
+       "sympathy for…",
+       "对…的同情",
+       "〜への同情"
+      ],
+      [
+       "in sympathy with…",
+       "赞成；支持",
+       "〜に賛同して"
+      ]
+     ]
+    },
+    {
+     "w": "sympathetic",
+     "pos": "adj.",
+     "ipa": "/ˌsɪmpəˈθɛtɪk/",
+     "zh": "同情的；有同情心的；赞同的",
+     "ja": "同情的な；理解のある；賛同する",
+     "ex": "The manager was sympathetic to staff concerns about overtime.",
+     "ex_zh": "经理对员工关于加班的担忧表示理解。",
+     "ex_ja": "マネージャーは残業への職員の懸念に理解を示した。",
+     "parts": [
+      [
+       "sympathy",
+       "同情",
+       "同情"
+      ],
+      [
+       "-etic",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "be sympathetic to/toward… 对…表示理解。",
+      "ja": "be sympathetic to/toward… で「〜に理解がある」。"
+     },
+     "forms": [
+      [
+       "a sympathetic listener",
+       "善于倾听的人",
+       "共感的な聞き手"
+      ],
+      [
+       "sympathetic to…",
+       "对…表示理解",
+       "〜に理解がある"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5：sympathetic / sympathetically。",
+      "ja": "Part 5：sympathetic / sympathetically。"
+     }
+    },
+    {
+     "w": "sympathize",
+     "pos": "v.",
+     "ipa": "/ˈsɪmpəˌθaɪz/",
+     "zh": "同情；体谅；共鸣",
+     "ja": "同情する；共感する",
+     "ex": "I sympathize with clients who are frustrated by shipping delays.",
+     "ex_zh": "我理解因运输延误而沮丧的客户。",
+     "ex_ja": "配送遅延に不満な顧客には共感する。",
+     "parts": [
+      [
+       "sympathy",
+       "同情",
+       "同情"
+      ],
+      [
+       "-ize",
+       "动词后缀",
+       "動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "sympathize with someone / something。英式也可拼 sympathise。",
+      "ja": "sympathize with 〜。英では sympathise とも。"
+     },
+     "forms": [
+      [
+       "sympathize with…",
+       "同情…",
+       "〜に同情する"
+      ],
+      [
+       "sympathize (BrE: sympathise)",
+       "同情（英式拼写）",
+       "同情する（英綴り）"
+      ]
+     ]
+    },
+    {
+     "w": "empathy",
+     "pos": "n.",
+     "ipa": "/ˈɛmpəθi/",
+     "zh": "共情；同感；换位思考",
+     "ja": "共感；感情移入",
+     "ex": "Customer-service training emphasizes empathy as well as product knowledge.",
+     "ex_zh": "客服培训强调共情能力与产品知识并重。",
+     "ex_ja": "カスタマーサービス研修では、商品知識と同様に共感力を重視する。",
+     "parts": [
+      [
+       "em-",
+       "进入",
+       "中へ"
+      ],
+      [
+       "path",
+       "感受",
+       "感情"
+      ],
+      [
+       "-y",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "与 sympathy（同情、可怜对方）相比，empathy 更强调理解对方感受。",
+      "ja": "sympathy（哀れみ・同情）より、相手の感情を理解するニュアンスが強い。"
+     },
+     "forms": [
+      [
+       "show empathy",
+       "表现共情",
+       "共感を示す"
+      ],
+      [
+       "empathy for customers",
+       "对客户的共情",
+       "顧客への共感"
+      ]
+     ],
+     "tip": {
+      "zh": "易混：empathy ≈ 理解感受；sympathy ≈ 同情慰问。",
+      "ja": "混同注意：empathy≈感情理解、sympathy≈同情・お悔やみ。"
+     }
+    },
+    {
+     "w": "apathy",
+     "pos": "n.",
+     "ipa": "/ˈæpəθi/",
+     "zh": "冷漠；漠不关心",
+     "ja": "無関心；冷淡",
+     "ex": "Voter apathy remains a concern ahead of the local election.",
+     "ex_zh": "地方选举临近，选民冷漠仍令人担忧。",
+     "ex_ja": "地方選を控え、有権者の無関心が懸念されている。",
+     "parts": [
+      [
+       "a-",
+       "无；不",
+       "無い"
+      ],
+      [
+       "path",
+       "感受",
+       "感情"
+      ],
+      [
+       "-y",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "a-“无”+ pathos → 没有感受。",
+      "ja": "a-「無い」＋pathos → 感情がない。"
+     },
+     "forms": [
+      [
+       "voter apathy",
+       "选民冷漠",
+       "有権者の無関心"
+      ],
+      [
+       "public apathy",
+       "公众冷漠",
+       "世間の無関心"
+      ]
+     ]
+    },
+    {
+     "w": "pathetic",
+     "pos": "adj.",
+     "ipa": "/pəˈθɛtɪk/",
+     "zh": "可怜的；差劲的；令人同情的",
+     "ja": "哀れな；惨めな；同情を誘う",
+     "ex": "The first draft was so incomplete that the editor called it pathetic.",
+     "ex_zh": "初稿极不完整，编辑称其糟糕透顶。",
+     "ex_ja": "初稿があまりに未完成で、編集者はひどい出来だと評した。",
+     "parts": [
+      [
+       "path",
+       "感受/痛苦",
+       "感情・苦しみ"
+      ],
+      [
+       "-etic",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "原义“引起同情的”，口语常贬义“差劲的”。",
+      "ja": "原義は「同情を誘う」。口語では「ひどい」と貶める用法が多い。"
+     },
+     "forms": [
+      [
+       "a pathetic excuse",
+       "蹩脚的借口",
+       "哀れな言い訳"
+      ],
+      [
+       "pathetic performance",
+       "糟糕的表现",
+       "ひどい成績"
+      ]
+     ]
+    },
+    {
+     "w": "pathogen",
+     "pos": "n.",
+     "ipa": "/ˈpæθədʒən/",
+     "zh": "病原体；致病菌",
+     "ja": "病原体；病原菌",
+     "ex": "Hotels increased cleaning protocols to reduce the spread of pathogens.",
+     "ex_zh": "酒店加强清洁流程以减少病原体传播。",
+     "ex_ja": "ホテルは病原体の拡散を抑えるため清掃手順を強化した。",
+     "parts": [
+      [
+       "patho-",
+       "疾病/痛苦",
+       "病気・苦しみ"
+      ],
+      [
+       "-gen",
+       "产生",
+       "生じさせる"
+      ]
+     ],
+     "note": {
+      "zh": "pathos + -gen“产生”→ 产生疾病之物。",
+      "ja": "pathos ＋ -gen「生じさせる」→ 病気を起こすもの。"
+     },
+     "forms": [
+      [
+       "foodborne pathogen",
+       "食源性病原体",
+       "食品由来の病原体"
+      ],
+      [
+       "kill pathogens",
+       "杀灭病原体",
+       "病原体を死滅させる"
+      ]
+     ],
+     "tip": {
+      "zh": "健康/公共卫生类 Part 7 偶见。",
+      "ja": "健康・公衆衛生系の Part 7 で時々出る。"
+     }
+    },
+    {
+     "w": "pathology",
+     "pos": "n.",
+     "ipa": "/pəˈθɑlədʒi/",
+     "zh": "病理学；病理；异常状态",
+     "ja": "病理学；病理；異常",
+     "ex": "The lab sent the tissue samples to the pathology department.",
+     "ex_zh": "实验室把组织样本送到了病理科。",
+     "ex_ja": "検査室は組織サンプルを病理部門へ送った。",
+     "parts": [
+      [
+       "patho-",
+       "疾病",
+       "病気"
+      ],
+      [
+       "-logy",
+       "学科",
+       "学問"
+      ]
+     ],
+     "note": {
+      "zh": "也可喻指“某种不良状态的研究/表现”（如 the pathology of bureaucracy）。",
+      "ja": "比喩で「〜の病理」（官僚制の病理など）にも使う。"
+     },
+     "forms": [
+      [
+       "pathology report",
+       "病理报告",
+       "病理報告書"
+      ],
+      [
+       "plant pathology",
+       "植物病理学",
+       "植物病理学"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "brev",
+   "title_zh": "词根 -brev- / -brief-：短",
+   "title_ja": "語根 -brev- / -brief-：短い",
+   "words": [
+    {
+     "w": "brief",
+     "pos": "adj./n./v.",
+     "ipa": "/brif/",
+     "zh": "简短的；简报；向…简要介绍",
+     "ja": "短い；概要；簡潔に説明する",
+     "ex": "Please keep your presentation brief—we only have ten minutes.",
+     "ex_zh": "请把汇报说短些——我们只有十分钟。",
+     "ex_ja": "発表は短めにお願いします。10分しかありません。",
+     "parts": [
+      [
+       "brief",
+       "短（brevis）",
+       "短い（brevis）"
+      ]
+     ],
+     "note": {
+      "zh": "作名词：简报、案情摘要；作动词：brief someone on…。",
+      "ja": "名詞：概要・依頼内容。動詞：brief someone on…。"
+     },
+     "forms": [
+      [
+       "in brief",
+       "简言之",
+       "要するに"
+      ],
+      [
+       "a brief meeting",
+       "简短会议",
+       "短い会議"
+      ],
+      [
+       "brief someone on…",
+       "向某人简要说明…",
+       "〜に概要を説明する"
+      ]
+     ],
+     "tip": {
+      "zh": "一词多性：adj./n./v. 都要会。",
+      "ja": "品詞が広い：形・名・動を押さえる。"
+     }
+    },
+    {
+     "w": "briefly",
+     "pos": "adv.",
+     "ipa": "/ˈbrifli/",
+     "zh": "简短地；短暂地",
+     "ja": "簡潔に；短時間",
+     "ex": "The CEO briefly outlined the new travel policy.",
+     "ex_zh": "首席执行官简要概述了新的差旅政策。",
+     "ex_ja": "CEOは新しい出張規定を簡潔に説明した。",
+     "parts": [
+      [
+       "brief",
+       "短的",
+       "短い"
+      ],
+      [
+       "-ly",
+       "副词后缀",
+       "副詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "brief + -ly。",
+      "ja": "brief ＋ -ly。"
+     },
+     "forms": [
+      [
+       "speak briefly",
+       "简短发言",
+       "簡潔に話す"
+      ],
+      [
+       "briefly described",
+       "被简要描述",
+       "簡潔に述べられた"
+      ]
+     ]
+    },
+    {
+     "w": "brevity",
+     "pos": "n.",
+     "ipa": "/ˈbrɛvəti/",
+     "zh": "简洁；简短；短暂",
+     "ja": "簡潔さ；短さ",
+     "ex": "Busy executives appreciate brevity in email subject lines.",
+     "ex_zh": "忙碌的高管欣赏邮件主题行的简洁。",
+     "ex_ja": "多忙な役員はメール件名の簡潔さを好む。",
+     "parts": [
+      [
+       "brev",
+       "短",
+       "短い"
+      ],
+      [
+       "-ity",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "Brevity is the soul of wit.（简洁是智慧的灵魂。）",
+      "ja": "Brevity is the soul of wit.（簡潔は知恵の神髄）。"
+     },
+     "forms": [
+      [
+       "brevity of life",
+       "生命短暂",
+       "人生の短さ"
+      ],
+      [
+       "value brevity",
+       "重视简洁",
+       "簡潔さを重んじる"
+      ]
+     ]
+    },
+    {
+     "w": "abbreviate",
+     "pos": "v.",
+     "ipa": "/əˈbriviˌeɪt/",
+     "zh": "缩写；缩短",
+     "ja": "省略する；短縮する",
+     "ex": "You may abbreviate department names in the internal directory.",
+     "ex_zh": "在内部通讯录中可以缩写部门名称。",
+     "ex_ja": "社内名簿では部署名を略してよい。",
+     "parts": [
+      [
+       "ab-",
+       "加强/离开",
+       "強め・離れて"
+      ],
+      [
+       "brevi",
+       "短",
+       "短い"
+      ],
+      [
+       "-ate",
+       "动词后缀",
+       "動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "ab- + brevis → 使变短。",
+      "ja": "ab- ＋ brevis → 短くする。"
+     },
+     "forms": [
+      [
+       "abbreviate a word",
+       "缩写一个词",
+       "語を略す"
+      ],
+      [
+       "abbreviated form",
+       "缩写形式",
+       "略語形"
+      ]
+     ]
+    },
+    {
+     "w": "abbreviation",
+     "pos": "n.",
+     "ipa": "/əˌbriviˈeɪʃən/",
+     "zh": "缩写；缩略语",
+     "ja": "略語；省略",
+     "ex": "CEO is a common abbreviation for chief executive officer.",
+     "ex_zh": "CEO 是 chief executive officer 的常用缩写。",
+     "ex_ja": "CEO は chief executive officer の一般的な略語だ。",
+     "parts": [
+      [
+       "abbreviate",
+       "缩写",
+       "省略する"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "与 acronym（首字母缩略词，常可当词读）略有区别，考试多笼统使用。",
+      "ja": "acronym（頭字語）と区別されることもあるが、試験では広く略語扱い。"
+     },
+     "forms": [
+      [
+       "common abbreviation",
+       "常用缩写",
+       "一般的な略語"
+      ],
+      [
+       "list of abbreviations",
+       "缩写表",
+       "略語一覧"
+      ]
+     ]
+    },
+    {
+     "w": "briefcase",
+     "pos": "n.",
+     "ipa": "/ˈbrifˌkeɪs/",
+     "zh": "公文包；手提包",
+     "ja": "ブリーフケース；書類かばん",
+     "ex": "He left his briefcase in the taxi after the client meeting.",
+     "ex_zh": "客户会议后他把公文包落在出租车上了。",
+     "ex_ja": "顧客との打ち合わせ後、タクシーにブリーフケースを忘れた。",
+     "parts": [
+      [
+       "brief",
+       "文件/简报",
+       "書類・概要"
+      ],
+      [
+       "case",
+       "盒子；箱",
+       "入れ物"
+      ]
+     ],
+     "note": {
+      "zh": "原指装 brief（法律文件）的箱子。写作一个词 briefcase。",
+      "ja": "もともと brief（法律書類）を入れる箱。一語で briefcase。"
+     },
+     "forms": [
+      [
+       "leather briefcase",
+       "皮革公文包",
+       "革のブリーフケース"
+      ],
+      [
+       "open a briefcase",
+       "打开公文包",
+       "ブリーフケースを開ける"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1：carrying / opening a briefcase。",
+      "ja": "Part 1：carrying / opening a briefcase。"
+     }
+    },
+    {
+     "w": "debrief",
+     "pos": "v./n.",
+     "ipa": "/diˈbrif/",
+     "zh": "听取汇报；任务后简报",
+     "ja": "事後報告を聞く；デブリーフ",
+     "ex": "The project lead will debrief the team after the product launch.",
+     "ex_zh": "产品发布后，项目负责人将向团队做任务后总结。",
+     "ex_ja": "製品発売後、プロジェクトリーダーがチームをデブリーフする。",
+     "parts": [
+      [
+       "de-",
+       "向下/除去/事后",
+       "下へ・取り除く・事後"
+      ],
+      [
+       "brief",
+       "简报",
+       "概要説明"
+      ]
+     ],
+     "note": {
+      "zh": "与 briefing（事前简报）相对：debrief 多为事后回顾。",
+      "ja": "briefing（事前）に対し、debrief は事後の振り返りが多い。"
+     },
+     "forms": [
+      [
+       "debrief the staff",
+       "向员工听取汇报",
+       "職員から事後報告を聞く"
+      ],
+      [
+       "a post-event debrief",
+       "活动后总结会",
+       "イベント後のデブリーフ"
+      ]
+     ]
+    },
+    {
+     "w": "briefing",
+     "pos": "n.",
+     "ipa": "/ˈbrifɪŋ/",
+     "zh": "简报会；情况介绍",
+     "ja": "ブリーフィング；説明会",
+     "ex": "A security briefing will be held for all new hotel staff on Monday.",
+     "ex_zh": "周一将为所有酒店新员工举行安全简报会。",
+     "ex_ja": "月曜日にホテルの全新人職員向けに保安ブリーフィングがある。",
+     "parts": [
+      [
+       "brief",
+       "简要说明",
+       "簡潔に説明する"
+      ],
+      [
+       "-ing",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "give / hold / attend a briefing。",
+      "ja": "give / hold / attend a briefing。"
+     },
+     "forms": [
+      [
+       "press briefing",
+       "新闻发布会（简报）",
+       "記者会見（ブリーフィング）"
+      ],
+      [
+       "safety briefing",
+       "安全说明会",
+       "安全説明"
+      ],
+      [
+       "morning briefing",
+       "晨会简报",
+       "朝のブリーフィング"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7：agenda 上常见 briefing session。",
+      "ja": "Part 7：議題に briefing session がよく出る。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "hotel",
+   "title_zh": "主题：酒店入住与客房服务",
+   "title_ja": "テーマ：ホテルチェックインと客室サービス",
+   "words": [
+    {
+     "w": "lobby",
+     "pos": "n.",
+     "ipa": "/ˈlɑbi/",
+     "zh": "大堂；大厅",
+     "ja": "ロビー；玄関ホール",
+     "ex": "Please wait in the lobby; your room will be ready in twenty minutes.",
+     "ex_zh": "请在大堂等候；您的房间将在二十分钟后准备好。",
+     "ex_ja": "ロビーでお待ちください。お部屋は20分後に準備できます。",
+     "parts": [
+      [
+       "lobby",
+       "厅/廊（中古拉丁）",
+       "広間（中世ラテン語）"
+      ]
+     ],
+     "note": {
+      "zh": "也可作动词“游说”（lobby the government），酒店语境用名词义。",
+      "ja": "動詞で「陳情する」もあるが、ホテルでは名詞「ロビー」。"
+     },
+     "forms": [
+      [
+       "hotel lobby",
+       "酒店大堂",
+       "ホテルのロビー"
+      ],
+      [
+       "lobby lounge",
+       "大堂酒廊",
+       "ロビーラウンジ"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1：people sitting / waiting in the lobby。",
+      "ja": "Part 1：people sitting / waiting in the lobby。"
+     }
+    },
+    {
+     "w": "amenities",
+     "pos": "n.",
+     "ipa": "/əˈmɛnətiz/",
+     "zh": "设施；便利设施；（客房）配备",
+     "ja": "アメニティ；設備；便利施設",
+     "ex": "All suites include premium amenities such as a minibar and a bathrobe.",
+     "ex_zh": "所有套房配备迷你吧、浴衣等高级便利设施。",
+     "ex_ja": "全スイートにミニバーやバスローブなどの高級アメニティが付く。",
+     "parts": [
+      [
+       "amenity",
+       "宜人；便利",
+       "快適さ・便利"
+      ],
+      [
+       "-s",
+       "复数",
+       "複数"
+      ]
+     ],
+     "note": {
+      "zh": "常作复数；酒店广告：amenities include…。",
+      "ja": "通例複数。ホテル広告：amenities include…。"
+     },
+     "forms": [
+      [
+       "hotel amenities",
+       "酒店设施",
+       "ホテルの設備"
+      ],
+      [
+       "room amenities",
+       "客房用品",
+       "客室アメニティ"
+      ],
+      [
+       "amenities include…",
+       "设施包括…",
+       "設備には〜が含まれる"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7 酒店简介高频。",
+      "ja": "Part 7 のホテル紹介で高頻度。"
+     }
+    },
+    {
+     "w": "minibar",
+     "pos": "n.",
+     "ipa": "/ˈmɪniˌbɑr/",
+     "zh": "迷你吧；房内小冰箱",
+     "ja": "ミニバー",
+     "ex": "Items taken from the minibar will be charged to your room folio.",
+     "ex_zh": "从迷你吧取用的物品将计入您的客房账单。",
+     "ex_ja": "ミニバーの利用分は客室の請求書に加算される。",
+     "parts": [
+      [
+       "mini-",
+       "小",
+       "小さい"
+      ],
+      [
+       "bar",
+       "吧台/酒吧",
+       "バー"
+      ]
+     ],
+     "note": {
+      "zh": "mini + bar；账单常写 minibar charges。",
+      "ja": "mini ＋ bar。請求では minibar charges。"
+     },
+     "forms": [
+      [
+       "minibar charges",
+       "迷你吧消费",
+       "ミニバー料金"
+      ],
+      [
+       "restock the minibar",
+       "给迷你吧补货",
+       "ミニバーを補充する"
+      ]
+     ]
+    },
+    {
+     "w": "housekeeper",
+     "pos": "n.",
+     "ipa": "/ˈhaʊsˌkipɚ/",
+     "zh": "客房服务员；管家",
+     "ja": "ハウスキーパー；客室係",
+     "ex": "If you need extra towels, please call the housekeeper.",
+     "ex_zh": "如需额外毛巾，请呼叫客房服务员。",
+     "ex_ja": "タオルが追加で必要ならハウスキーパーを呼んでください。",
+     "parts": [
+      [
+       "house",
+       "房屋",
+       "家"
+      ],
+      [
+       "keeper",
+       "看管者",
+       "番人"
+      ]
+     ],
+     "note": {
+      "zh": "hotel housekeeper ≈ 客房清洁与补给人员；executive housekeeper 为客房部主管。",
+      "ja": "hotel housekeeper は客室清掃・備品担当。executive housekeeper は部門長。"
+     },
+     "forms": [
+      [
+       "call the housekeeper",
+       "呼叫客房服务",
+       "ハウスキーパーを呼ぶ"
+      ],
+      [
+       "executive housekeeper",
+       "客房部主管",
+       "ハウスキーピング部長"
+      ]
+     ]
+    },
+    {
+     "w": "spa",
+     "pos": "n.",
+     "ipa": "/spɑ/",
+     "zh": "水疗中心；温泉疗养地",
+     "ja": "スパ；温泉保養施設",
+     "ex": "Hotel guests receive a 20 percent discount at the on-site spa.",
+     "ex_zh": "酒店住客在店内水疗中心可享八折。",
+     "ex_ja": "宿泊客は館内スパが20パーセント割引になる。",
+     "parts": [],
+     "note": {
+      "zh": "得名于比利时温泉小镇 Spa；可靠词源拆解有限，故不造假词根。",
+      "ja": "ベルギーの温泉地 Spa に由来。無理な語根分解はしない。"
+     },
+     "forms": [
+      [
+       "spa treatment",
+       "水疗护理",
+       "スパトリートメント"
+      ],
+      [
+       "day spa",
+       "日间水疗",
+       "デイスパ"
+      ],
+      [
+       "spa package",
+       "水疗套餐",
+       "スパパッケージ"
+      ]
+     ]
+    },
+    {
+     "w": "bathrobe",
+     "pos": "n.",
+     "ipa": "/ˈbæθˌroʊb/",
+     "zh": "浴衣；浴袍",
+     "ja": "バスローブ；浴衣",
+     "ex": "A clean bathrobe and slippers are provided in every bathroom.",
+     "ex_zh": "每间浴室都提供干净的浴袍和拖鞋。",
+     "ex_ja": "どの浴室にも清潔なバスローブとスリッパが用意されている。",
+     "parts": [
+      [
+       "bath",
+       "沐浴",
+       "入浴"
+      ],
+      [
+       "robe",
+       "长袍",
+       "ローブ"
+      ]
+     ],
+     "note": {
+      "zh": "bath + robe。",
+      "ja": "bath ＋ robe。"
+     },
+     "forms": [
+      [
+       "cotton bathrobe",
+       "棉质浴袍",
+       "綿のバスローブ"
+      ],
+      [
+       "hang up the bathrobe",
+       "挂好浴袍",
+       "バスローブをかける"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1：a bathrobe hanging on a hook。",
+      "ja": "Part 1：a bathrobe hanging on a hook。"
+     }
+    },
+    {
+     "w": "toiletries",
+     "pos": "n.",
+     "ipa": "/ˈtɔɪlətriz/",
+     "zh": "洗漱用品；盥洗用品",
+     "ja": "洗面用具；アメニティグッズ",
+     "ex": "Complimentary toiletries are restocked daily by housekeeping.",
+     "ex_zh": "客房部每天补充免费洗漱用品。",
+     "ex_ja": "無料の洗面用具はハウスキーピングが毎日補充する。",
+     "parts": [
+      [
+       "toilet",
+       "盥洗/卫生间相关",
+       "洗面・トイレ関連"
+      ],
+      [
+       "-ry",
+       "集合名词",
+       "集合名詞"
+      ],
+      [
+       "-s",
+       "复数",
+       "複数"
+      ]
+     ],
+     "note": {
+      "zh": "通常复数；含洗发水、皂类、牙刷等。",
+      "ja": "通例複数。シャンプー・石鹸・歯ブラシなど。"
+     },
+     "forms": [
+      [
+       "travel toiletries",
+       "旅行洗漱包",
+       "旅行用洗面用具"
+      ],
+      [
+       "toiletry bag",
+       "洗漱包",
+       "洗面用具入れ"
+      ]
+     ]
+    },
+    {
+     "w": "laundry",
+     "pos": "n.",
+     "ipa": "/ˈlɔndri/",
+     "zh": "洗衣；待洗衣物；洗衣店",
+     "ja": "洗濯；洗濯物；クリーニング店",
+     "ex": "Same-day laundry service is available for suits and shirts.",
+     "ex_zh": "西装和衬衫可提供当日洗衣服务。",
+     "ex_ja": "スーツとシャツは当日洗濯サービスが利用できる。",
+     "parts": [
+      [
+       "laundr",
+       "洗（古法语）",
+       "洗う（古フランス語）"
+      ],
+      [
+       "-y",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "send out the laundry；laundry detergent 洗衣粉。",
+      "ja": "send out the laundry。laundry detergent は洗剤。"
+     },
+     "forms": [
+      [
+       "laundry service",
+       "洗衣服务",
+       "洗濯サービス"
+      ],
+      [
+       "do the laundry",
+       "洗衣服",
+       "洗濯をする"
+      ],
+      [
+       "laundry bag",
+       "洗衣袋",
+       "ランドリーバッグ"
+      ]
+     ]
+    },
+    {
+     "w": "overbooking",
+     "pos": "n.",
+     "ipa": "/ˈoʊvɚˌbʊkɪŋ/",
+     "zh": "超额预订；超售",
+     "ja": "オーバーブッキング；過剰予約",
+     "ex": "Overbooking may occur during peak season, so arrive early to check in.",
+     "ex_zh": "旺季可能出现超额预订，请尽早办理入住。",
+     "ex_ja": "繁忙期はオーバーブッキングがあり得るので、早めにチェックインを。",
+     "parts": [
+      [
+       "over-",
+       "过度",
+       "過度に"
+      ],
+      [
+       "book",
+       "预订",
+       "予約する"
+      ],
+      [
+       "-ing",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "动词 overbook；名词 overbooking。航空与酒店皆常用。",
+      "ja": "動詞 overbook、名詞 overbooking。航空・ホテル双方で使う。"
+     },
+     "forms": [
+      [
+       "overbooking policy",
+       "超售政策",
+       "オーバーブッキング方針"
+      ],
+      [
+       "due to overbooking",
+       "由于超额预订",
+       "オーバーブッキングのため"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7 投诉信 / 确认信常见。",
+      "ja": "Part 7 の苦情・確認メールで定番。"
+     }
+    },
+    {
+     "w": "no-show",
+     "pos": "n.",
+     "ipa": "/ˈnoʊˌʃoʊ/",
+     "zh": "预订未到者；爽约",
+     "ja": "ノーショー；予約して来ないこと",
+     "ex": "A credit card is required to reduce no-shows for guaranteed reservations.",
+     "ex_zh": "为保证类预订减少爽约，需提供信用卡。",
+     "ex_ja": "保証付き予約のノーショーを減らすためクレジットカードが必要だ。",
+     "parts": [
+      [
+       "no",
+       "不",
+       "ない"
+      ],
+      [
+       "show",
+       "出现",
+       "現れる"
+      ]
+     ],
+     "note": {
+      "zh": "连字符常见；也可作形容词 no-show guest。",
+      "ja": "ハイフン付きが一般的。形容詞的に no-show guest も。"
+     },
+     "forms": [
+      [
+       "no-show fee",
+       "爽约费",
+       "ノーショー料金"
+      ],
+      [
+       "no-show rate",
+       "爽约率",
+       "ノーショー率"
+      ]
+     ]
+    },
+    {
+     "w": "folio",
+     "pos": "n.",
+     "ipa": "/ˈfoʊlioʊ/",
+     "zh": "（酒店）账单；对开页",
+     "ja": "（ホテルの）請求明細；folio",
+     "ex": "Please review your folio at the front desk before checkout.",
+     "ex_zh": "退房前请在前台核对您的账单明细。",
+     "ex_ja": "チェックアウト前にフロントで請求明細を確認してください。",
+     "parts": [],
+     "note": {
+      "zh": "印刷业指对开纸；酒店业专指客房消费明细单。词源复杂，不硬拆。",
+      "ja": "印刷では二つ折り紙。ホテルでは客室利用明細。無理に分解しない。"
+     },
+     "forms": [
+      [
+       "guest folio",
+       "住客账单",
+       "ゲストの請求明細"
+      ],
+      [
+       "room folio",
+       "客房账单",
+       "客室フォーリオ"
+      ]
+     ],
+     "tip": {
+      "zh": "酒店语境 ≠ 普通“文件夹”。",
+      "ja": "ホテル語では一般の「フォルダ」ではない。"
+     }
+    },
+    {
+     "w": "incidentals",
+     "pos": "n.",
+     "ipa": "/ˌɪnsəˈdɛntəlz/",
+     "zh": "杂费；附带费用",
+     "ja": "雑費；付帯費用",
+     "ex": "A deposit covers incidentals such as phone calls and minibar items.",
+     "ex_zh": "押金用于支付电话、迷你吧等杂费。",
+     "ex_ja": "デポジットは電話やミニバーなどの雑費に充てられる。",
+     "parts": [
+      [
+       "incidental",
+       "附带的",
+       "付随の"
+      ],
+      [
+       "-s",
+       "复数名词",
+       "複数名詞"
+      ]
+     ],
+     "note": {
+      "zh": "酒店结账用语：incidental charges。",
+      "ja": "ホテル精算用語：incidental charges。"
+     },
+     "forms": [
+      [
+       "incidental charges",
+       "杂项费用",
+       "雑費"
+      ],
+      [
+       "pay for incidentals",
+       "支付杂费",
+       "雑費を払う"
+      ]
+     ]
+    },
+    {
+     "w": "cloakroom",
+     "pos": "n.",
+     "ipa": "/ˈkloʊkˌrum/",
+     "zh": "衣帽间；行李寄存处",
+     "ja": "クローク；手荷物預かり",
+     "ex": "Large bags must be left in the cloakroom before entering the gallery.",
+     "ex_zh": "大手提包须寄存在衣帽间后方可进入展厅。",
+     "ex_ja": "大きなバッグはギャラリー入場前にクロークへ預けること。",
+     "parts": [
+      [
+       "cloak",
+       "斗篷；外套",
+       "クローク；外套"
+      ],
+      [
+       "room",
+       "房间",
+       "部屋"
+      ]
+     ],
+     "note": {
+      "zh": "英美皆用；美式也说 checkroom / coat check。",
+      "ja": "英米とも用いる。米では checkroom / coat check も。"
+     },
+     "forms": [
+      [
+       "cloakroom attendant",
+       "衣帽间服务员",
+       "クローク係"
+      ],
+      [
+       "leave coats in the cloakroom",
+       "把外套寄存在衣帽间",
+       "コートをクロークに預ける"
+      ]
+     ]
+    },
+    {
+     "w": "sauna",
+     "pos": "n.",
+     "ipa": "/ˈsɔnə/",
+     "zh": "桑拿；桑拿浴室",
+     "ja": "サウナ",
+     "ex": "The fitness center and sauna are open until 10 p.m. for hotel guests.",
+     "ex_zh": "健身中心与桑拿对住客开放至晚上 10 点。",
+     "ex_ja": "フィットネスセンターとサウナは宿泊客向けに夜10時まで開いている。",
+     "parts": [],
+     "note": {
+      "zh": "借自芬兰语；无拉丁/希腊词根可拆，故 parts 留空。",
+      "ja": "フィンランド語からの借用語。分解できるラテン・ギリシャ語根はない。"
+     },
+     "forms": [
+      [
+       "dry sauna",
+       "干桑拿",
+       "ドライサウナ"
+      ],
+      [
+       "sauna session",
+       "桑拿时段",
+       "サウナの利用"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "museum",
+   "title_zh": "主题：博物馆与展览活动",
+   "title_ja": "テーマ：博物館と展覧会",
+   "words": [
+    {
+     "w": "museum",
+     "pos": "n.",
+     "ipa": "/mjuˈziəm/",
+     "zh": "博物馆；展览馆",
+     "ja": "博物館；ミュージアム",
+     "ex": "The city museum is free for residents on the first Sunday of each month.",
+     "ex_zh": "市立博物馆每月第一个周日对居民免费开放。",
+     "ex_ja": "市立博物館は毎月第1日曜に住民は無料だ。",
+     "parts": [
+      [
+       "muse",
+       "缪斯",
+       "ミューズ"
+      ],
+      [
+       "-um",
+       "场所名词后缀",
+       "場所を表す"
+      ]
+     ],
+     "note": {
+      "zh": "原与缪斯神殿相关；复数 museums。",
+      "ja": "もとミューズの神殿に関連。複数 museums。"
+     },
+     "forms": [
+      [
+       "art museum",
+       "艺术博物馆",
+       "美術館"
+      ],
+      [
+       "museum ticket",
+       "博物馆门票",
+       "博物館のチケット"
+      ],
+      [
+       "museum shop",
+       "博物馆商店",
+       "ミュージアムショップ"
+      ]
+     ]
+    },
+    {
+     "w": "gallery",
+     "pos": "n.",
+     "ipa": "/ˈɡæləri/",
+     "zh": "美术馆；展厅；画廊",
+     "ja": "ギャラリー；展示室；画廊",
+     "ex": "A photography gallery on the second floor features local artists.",
+     "ex_zh": "二楼摄影展厅展出本地艺术家作品。",
+     "ex_ja": "2階の写真ギャラリーでは地元作家の作品を展示している。",
+     "parts": [
+      [
+       "gallery",
+       "长廊/展廊",
+       "回廊・展示廊"
+      ]
+     ],
+     "note": {
+      "zh": "也可指剧院顶层楼座；本课用“展厅/画廊”义。",
+      "ja": "劇場の最上階席の意味もあるが、本課は展示室・画廊。"
+     },
+     "forms": [
+      [
+       "art gallery",
+       "画廊",
+       "画廊"
+      ],
+      [
+       "gallery opening",
+       "画廊开幕展",
+       "ギャラリーのオープニング"
+      ],
+      [
+       "walk through the gallery",
+       "穿过展厅",
+       "ギャラリーを歩く"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1：people viewing paintings in a gallery。",
+      "ja": "Part 1：people viewing paintings in a gallery。"
+     }
+    },
+    {
+     "w": "sculpture",
+     "pos": "n.",
+     "ipa": "/ˈskʌlptʃɚ/",
+     "zh": "雕塑；雕像",
+     "ja": "彫刻；彫像",
+     "ex": "Visitors are asked not to touch the outdoor sculptures in the courtyard.",
+     "ex_zh": "请勿触摸庭院中的室外雕塑。",
+     "ex_ja": "中庭の屋外彫刻には触れないでください。",
+     "parts": [
+      [
+       "sculpt",
+       "雕刻",
+       "彫る"
+      ],
+      [
+       "-ure",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "sculptor 雕塑家；sculpt (v.) 雕刻。",
+      "ja": "sculptor は彫刻家。sculpt（動）は彫る。"
+     },
+     "forms": [
+      [
+       "bronze sculpture",
+       "青铜雕塑",
+       "青銅彫刻"
+      ],
+      [
+       "sculpture garden",
+       "雕塑园",
+       "彫刻庭園"
+      ]
+     ]
+    },
+    {
+     "w": "collection",
+     "pos": "n.",
+     "ipa": "/kəˈlɛkʃən/",
+     "zh": "收藏；藏品；系列",
+     "ja": "コレクション；収蔵品；収集",
+     "ex": "The permanent collection includes ceramics from the 18th century.",
+     "ex_zh": "永久藏品包括 18 世纪的陶瓷。",
+     "ex_ja": "常設コレクションには18世紀の陶磁器が含まれる。",
+     "parts": [
+      [
+       "collect",
+       "收集",
+       "集める"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "permanent / private / special collection 常见搭配。",
+      "ja": "permanent / private / special collection が定番。"
+     },
+     "forms": [
+      [
+       "permanent collection",
+       "永久收藏/常设展",
+       "常設コレクション"
+      ],
+      [
+       "art collection",
+       "艺术收藏",
+       "美術コレクション"
+      ],
+      [
+       "build a collection",
+       "建立收藏",
+       "コレクションを築く"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7：permanent vs. temporary exhibition。",
+      "ja": "Part 7：常設と企画展の対比。"
+     }
+    },
+    {
+     "w": "installation",
+     "pos": "n.",
+     "ipa": "/ˌɪnstəˈleɪʃən/",
+     "zh": "装置艺术；安装；就任",
+     "ja": "インスタレーション；設置；就任",
+     "ex": "The new light installation in the lobby attracts many visitors.",
+     "ex_zh": "大堂的新灯光装置艺术吸引了许多访客。",
+     "ex_ja": "ロビーの新しい光のインスタレーションは多くの来場者を集める。",
+     "parts": [
+      [
+       "install",
+       "安装；安置",
+       "設置する"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "艺术语境：installation art；也可指设备安装或官员就任。",
+      "ja": "美術では installation art。設備の設置や就任の意味も。"
+     },
+     "forms": [
+      [
+       "art installation",
+       "艺术装置",
+       "美術インスタレーション"
+      ],
+      [
+       "installation guide",
+       "安装指南",
+       "設置ガイド"
+      ]
+     ]
+    },
+    {
+     "w": "guidebook",
+     "pos": "n.",
+     "ipa": "/ˈɡaɪdˌbʊk/",
+     "zh": "指南手册；旅游指南",
+     "ja": "ガイドブック；案内書",
+     "ex": "Pick up a free guidebook at the information desk near the entrance.",
+     "ex_zh": "请在入口附近的服务台领取免费导览手册。",
+     "ex_ja": "入口近くの案内デスクで無料ガイドブックを受け取ってください。",
+     "parts": [
+      [
+       "guide",
+       "指引",
+       "案内"
+      ],
+      [
+       "book",
+       "书",
+       "本"
+      ]
+     ],
+     "note": {
+      "zh": "guide + book。",
+      "ja": "guide ＋ book。"
+     },
+     "forms": [
+      [
+       "travel guidebook",
+       "旅游指南",
+       "旅行ガイドブック"
+      ],
+      [
+       "museum guidebook",
+       "博物馆导览",
+       "博物館ガイドブック"
+      ]
+     ]
+    },
+    {
+     "w": "painting",
+     "pos": "n.",
+     "ipa": "/ˈpeɪntɪŋ/",
+     "zh": "画；绘画；油漆工作",
+     "ja": "絵；絵画；塗装",
+     "ex": "The highlight of the tour is a 17th-century oil painting.",
+     "ex_zh": "导览的亮点是一幅 17 世纪油画。",
+     "ex_ja": "ツアーの見どころは17世紀の油絵だ。",
+     "parts": [
+      [
+       "paint",
+       "画；涂",
+       "描く・塗る"
+      ],
+      [
+       "-ing",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "oil / watercolor painting；也可指粉刷工作。",
+      "ja": "oil / watercolor painting。壁の塗装の意味も。"
+     },
+     "forms": [
+      [
+       "oil painting",
+       "油画",
+       "油絵"
+      ],
+      [
+       "landscape painting",
+       "风景画",
+       "風景画"
+      ],
+      [
+       "painting exhibition",
+       "画展",
+       "絵画展"
+      ]
+     ]
+    },
+    {
+     "w": "mural",
+     "pos": "n.",
+     "ipa": "/ˈmjʊrəl/",
+     "zh": "壁画；壁饰",
+     "ja": "壁画；ミューラル",
+     "ex": "A colorful mural covers the entire wall of the children's gallery.",
+     "ex_zh": "一幅彩色壁画覆盖了儿童展厅的整面墙。",
+     "ex_ja": "子どもギャラリーの壁一面を色鮮やかな壁画が覆っている。",
+     "parts": [
+      [
+       "mur",
+       "墙（拉丁 murus）",
+       "壁（ラテン murus）"
+      ],
+      [
+       "-al",
+       "形容词/名词化",
+       "形容詞・名詞化"
+      ]
+     ],
+     "note": {
+      "zh": "与 wall 相关；mural painting 壁画。",
+      "ja": "壁に関する語。mural painting は壁画。"
+     },
+     "forms": [
+      [
+       "wall mural",
+       "墙面壁画",
+       "壁の壁画"
+      ],
+      [
+       "paint a mural",
+       "画壁画",
+       "壁画を描く"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1：a mural on the wall。",
+      "ja": "Part 1：a mural on the wall。"
+     }
+    },
+    {
+     "w": "mosaic",
+     "pos": "n.",
+     "ipa": "/moʊˈzeɪɪk/",
+     "zh": "马赛克；镶嵌图案",
+     "ja": "モザイク；寄せ木模様",
+     "ex": "The floor mosaic was restored after three years of careful work.",
+     "ex_zh": "经过三年细致修复，地面马赛克得以复原。",
+     "ex_ja": "3年の丁寧な作業の末、床のモザイクが修復された。",
+     "parts": [],
+     "note": {
+      "zh": "经拉丁/希腊传入；与 Moses 民间词源说不可靠，故不硬拆。",
+      "ja": "ラテン・ギリシャ経由。Moses 民間語源は不確実なため分解しない。"
+     },
+     "forms": [
+      [
+       "floor mosaic",
+       "地面马赛克",
+       "床のモザイク"
+      ],
+      [
+       "mosaic tiles",
+       "马赛克瓷砖",
+       "モザイクタイル"
+      ]
+     ]
+    },
+    {
+     "w": "replica",
+     "pos": "n.",
+     "ipa": "/ˈrɛplɪkə/",
+     "zh": "复制品；仿制品",
+     "ja": "レプリカ；複製",
+     "ex": "The gift shop sells small replicas of the museum's most famous statue.",
+     "ex_zh": "礼品店出售馆内最著名雕像的小型复制品。",
+     "ex_ja": "ミュージアムショップでは館内の有名彫刻の小型レプリカを売っている。",
+     "parts": [
+      [
+       "re-",
+       "再次",
+       "再び"
+      ],
+      [
+       "plic",
+       "折叠/复制相关",
+       "折る・写す"
+      ],
+      [
+       "-a",
+       "名词词尾",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "强调“复制品”，不等于原作 original。",
+      "ja": "「複製」であり original（オリジナル）ではない。"
+     },
+     "forms": [
+      [
+       "exact replica",
+       "精确复制品",
+       "正確なレプリカ"
+      ],
+      [
+       "scale replica",
+       "比例模型复制品",
+       "縮尺レプリカ"
+      ]
+     ]
+    },
+    {
+     "w": "membership",
+     "pos": "n.",
+     "ipa": "/ˈmɛmbɚˌʃɪp/",
+     "zh": "会员资格；会籍",
+     "ja": "会員資格；メンバーシップ",
+     "ex": "Annual membership includes free admission and guest passes.",
+     "ex_zh": "年度会员资格含免费入场与嘉宾通行证。",
+     "ex_ja": "年間会員には無料入場とゲストパスが含まれる。",
+     "parts": [
+      [
+       "member",
+       "成员",
+       "会員"
+      ],
+      [
+       "-ship",
+       "身份/状态",
+       "資格・状態"
+      ]
+     ],
+     "note": {
+      "zh": "museum membership / membership fee / membership card。",
+      "ja": "museum membership／membership fee／membership card。"
+     },
+     "forms": [
+      [
+       "membership card",
+       "会员卡",
+       "会員証"
+      ],
+      [
+       "membership fee",
+       "会费",
+       "会費"
+      ],
+      [
+       "apply for membership",
+       "申请入会",
+       "会員に申し込む"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7 会员招募信高频。",
+      "ja": "Part 7 の会員募集で高頻度。"
+     }
+    },
+    {
+     "w": "restoration",
+     "pos": "n.",
+     "ipa": "/ˌrɛstəˈreɪʃən/",
+     "zh": "修复；恢复；复原",
+     "ja": "修復；復元；回復",
+     "ex": "The restoration of the ancient vase took specialists nearly a year.",
+     "ex_zh": "修复这件古代花瓶花了专家近一年时间。",
+     "ex_ja": "古代の壺の修復に専門家は約1年を要した。",
+     "parts": [
+      [
+       "restore",
+       "修复；恢复",
+       "修復する・戻す"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "art restoration；也可指政权复辟等，本课用文物修复义。",
+      "ja": "art restoration。政権復元の意味もあるが、本課は文化財修復。"
+     },
+     "forms": [
+      [
+       "under restoration",
+       "修复中",
+       "修復中"
+      ],
+      [
+       "restoration project",
+       "修复项目",
+       "修復プロジェクト"
+      ],
+      [
+       "restoration work",
+       "修复工作",
+       "修復作業"
+      ]
+     ]
+    },
+    {
+     "w": "marble",
+     "pos": "n.",
+     "ipa": "/ˈmɑrbəl/",
+     "zh": "大理石；（玩具）弹珠",
+     "ja": "大理石；ビー玉",
+     "ex": "The entrance hall is paved with white marble from Italy.",
+     "ex_zh": "入口大厅铺着来自意大利的白色大理石。",
+     "ex_ja": "玄関ホールはイタリア産の白い大理石で敷かれている。",
+     "parts": [],
+     "note": {
+      "zh": "建筑材料义为主；复数 marbles 也可指弹珠游戏。词源较杂，不硬拆。",
+      "ja": "建材の意味が主。複数 marbles はビー玉。語源が複雑なため分解しない。"
+     },
+     "forms": [
+      [
+       "marble floor",
+       "大理石地面",
+       "大理石の床"
+      ],
+      [
+       "marble statue",
+       "大理石雕像",
+       "大理石像"
+      ],
+      [
+       "white marble",
+       "白色大理石",
+       "白い大理石"
+      ]
+     ]
+    },
+    {
+     "w": "bronze",
+     "pos": "n./adj.",
+     "ipa": "/brɑnz/",
+     "zh": "青铜；青铜色的；铜牌",
+     "ja": "青銅；青銅の；銅メダル",
+     "ex": "A bronze plaque near the door lists the museum's founding donors.",
+     "ex_zh": "门旁的青铜牌匾列出了博物馆的创始捐赠人。",
+     "ex_ja": "扉近くの青銅の銘板に創設時の寄付者名が刻まれている。",
+     "parts": [],
+     "note": {
+      "zh": "金属名；体育语境 bronze medal。不造假拉丁词根。",
+      "ja": "金属名。スポーツでは bronze medal。偽のラテン語根は作らない。"
+     },
+     "forms": [
+      [
+       "bronze statue",
+       "铜像",
+       "青銅像"
+      ],
+      [
+       "bronze medal",
+       "铜牌",
+       "銅メダル"
+      ],
+      [
+       "cast in bronze",
+       "铸成青铜",
+       "青銅で鋳造する"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1：a bronze statue / plaque。",
+      "ja": "Part 1：a bronze statue / plaque。"
+     }
+    }
+   ]
+  }
+ ]
+}
