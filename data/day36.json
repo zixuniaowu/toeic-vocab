@@ -1,0 +1,2662 @@
+{
+ "day": 36,
+ "date": "2026-11-08",
+ "title_zh": "四大词根 + 家电与保修售后、车站·机场·店内广播",
+ "title_ja": "4つの語根＋家電と保証・アフターサービス、駅・空港・店内アナウンス",
+ "intro_zh": "今天掌握 4 个高频词根（firm 坚固·确定 / fess 承认·宣称 / mut 改变·交换 / vol 意愿），再学家电与保修售后、车站·机场·店内广播的核心词——强化 Part 5 词性题（professional / professionally / professionalism、voluntary / voluntarily、mutual / mutually、firm / firmly）和固定搭配（confirm a reservation、at a mutually convenient time、of one's own volition、volunteer to do、under warranty、proof of purchase），易混词（confirm 与 affirm、mute 与 mut-、volume 与 vol-、regret to do 与 regret doing、resume 与 résumé），Part 1 场景（vacuuming the carpet、heating food in a microwave、looking at a departure board），以及 Part 4 广播套话（please be advised、final call、will be arriving shortly、do not leave your belongings unattended、service will resume）。",
+ "intro_ja": "今日は語根 4 つ（firm 固い・確か／fess 認める・公言する／mut 変える・交換する／vol 意志）と、家電と保証・アフターサービス、駅・空港・店内アナウンスの重要語を学びます。Part 5 の品詞問題（professional / professionally / professionalism、voluntary / voluntarily、mutual / mutually、firm / firmly）と語法（confirm a reservation、at a mutually convenient time、of one's own volition、volunteer to do、under warranty、proof of purchase）、紛らわしい語（confirm と affirm、mute と mut-、volume と vol-、regret to do と regret doing、resume と résumé）、Part 1 の場面（vacuuming the carpet、heating food in a microwave、looking at a departure board）、Part 4 の放送の決まり文句（please be advised、final call、will be arriving shortly、do not leave your belongings unattended、service will resume）を強化します。",
+ "voice": "en-US-AriaNeural",
+ "roots": [
+  {
+   "root": "-firm-",
+   "origin": "Latin firmus, firmare",
+   "zh": "坚固；确定",
+   "ja": "固い；確かな",
+   "exp_zh": "来自拉丁语 firmus（坚固的、稳固的）。使之确定 → confirm（确认）/ confirmed / unconfirmed；向外表明“是这样” → affirm（断言）/ reaffirm（重申）/ affirmative（肯定的）；稳固地 → firmly。名词 firm“公司”源自签字确认的商号，也是同一个词。⚠️ farm（农场）与 firm 不同源。",
+   "exp_ja": "ラテン語 firmus（固い・しっかりした）から。確かにする → confirm（確認する）／confirmed／unconfirmed。「そうだ」と表明する → affirm（断言する）／reaffirm（再確認する）／affirmative（肯定の）。しっかりと → firmly。名詞 firm「会社」も署名で確定した商号に由来する同じ語。⚠️ farm（農場）は別語源。",
+   "examples": [
+    "firm",
+    "confirm",
+    "confirmed",
+    "unconfirmed",
+    "affirm",
+    "reaffirm",
+    "affirmative",
+    "firmly"
+   ]
+  },
+  {
+   "root": "-fess- / -fes-",
+   "origin": "Latin fateri, fessus",
+   "zh": "承认；宣称",
+   "ja": "認める；公言する",
+   "exp_zh": "来自拉丁语 fateri（承认、说出）及其过去分词 fessus。公开宣称 → profess（声称）/ profession（公开宣誓从事的职业）/ professional / professionally / professionalism；公开讲授的人 → professor（教授）；完全承认 → confess（坦白）/ confession。⚠️ festival、feast 来自 festus“节日”，与 fess 不同源。",
+   "exp_ja": "ラテン語 fateri（認める・言う）とその過去分詞 fessus から。公言する → profess（公言する）／profession（公に誓って就く職業）／professional／professionally／professionalism。公に講じる人 → professor（教授）。すっかり認める → confess（白状する）／confession。⚠️ festival や feast は festus「祭り」由来で別語源。",
+   "examples": [
+    "profession",
+    "professional",
+    "professionally",
+    "professionalism",
+    "professor",
+    "confess",
+    "confession",
+    "profess"
+   ]
+  },
+  {
+   "root": "-mut-",
+   "origin": "Latin mutare, mutuus",
+   "zh": "改变；交换",
+   "ja": "変える；交換する",
+   "exp_zh": "来自拉丁语 mutare（改变、交换）。完全交换 → commute（通勤：以月票替换车费）/ commutation（通勤补贴）；彼此交换 → mutual（相互的）/ mutually；能变 → mutable，不能变 → immutable；变化本身 → mutation（突变）；彻底变形 → transmute。⚠️ mute（沉默的）来自 mutus，与“改变”不同源。",
+   "exp_ja": "ラテン語 mutare（変える・交換する）から。すっかり交換する → commute（通勤：定期券で運賃を置き換える）／commutation（通勤手当）。互いに交換 → mutual（相互の）／mutually。変えられる → mutable、変えられない → immutable。変化そのもの → mutation（突然変異）。姿を変える → transmute。⚠️ mute（無言の）は mutus 由来で別。",
+   "examples": [
+    "commute",
+    "commutation",
+    "mutual",
+    "mutually",
+    "mutable",
+    "immutable",
+    "mutation",
+    "transmute"
+   ]
+  },
+  {
+   "root": "-vol-",
+   "origin": "Latin velle, volo",
+   "zh": "意愿；希望",
+   "ja": "意志；望む",
+   "exp_zh": "来自拉丁语 velle / volo（愿意、想要）。出于意愿的 → voluntary（自愿的）/ voluntarily / involuntary（非自愿的）；自愿的人 → volunteer / volunteerism；意志本身 → volition；愿人好 → benevolence（善意），愿人坏 → malevolent（恶意的）。⚠️ volume、revolve、involve 属于 volv-“卷、转”（第 9 天）；voltage 来自人名 Volta，都与“意愿”无关。",
+   "exp_ja": "ラテン語 velle／volo（望む）から。意志による → voluntary（自発的な）／voluntarily／involuntary（不本意の）。自ら申し出る人 → volunteer／volunteerism。意志そのもの → volition。人の幸せを願う → benevolence（善意）、不幸を願う → malevolent（悪意ある）。⚠️ volume・revolve・involve は volv-「巻く・回る」（Day 9）、voltage は人名 Volta 由来で、どれも「意志」とは無関係。",
+   "examples": [
+    "voluntary",
+    "voluntarily",
+    "involuntary",
+    "volunteer",
+    "volunteerism",
+    "volition",
+    "benevolence",
+    "malevolent"
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "firm",
+   "title_zh": "词根 -firm-：坚固；确定",
+   "title_ja": "語根 -firm-：固い；確かな",
+   "words": [
+    {
+     "w": "firm",
+     "pos": "n./adj.",
+     "ipa": "/fɝm/",
+     "zh": "公司；事务所；坚定的；稳固的",
+     "ja": "会社；事務所；確固とした；しっかりした",
+     "ex": "She joined a small accounting firm in Osaka after graduation.",
+     "ex_zh": "她毕业后加入了大阪的一家小型会计师事务所。",
+     "ex_ja": "彼女は卒業後、大阪の小さな会計事務所に入った。",
+     "parts": [
+      [
+       "firm",
+       "坚固（firmus）",
+       "固い（firmus）"
+      ]
+     ],
+     "note": {
+      "zh": "形容词义来自拉丁 firmus“坚固的”；名词“公司”原指签名确认的商号，二者同源。",
+      "ja": "形容詞はラテン語 firmus「固い」から。名詞「会社」は署名で確定した商号に由来し、同じ語源。"
+     },
+     "forms": [
+      [
+       "law firm",
+       "律师事务所",
+       "法律事務所"
+      ],
+      [
+       "a firm offer",
+       "确定报价",
+       "確定オファー"
+      ],
+      [
+       "firm (adj.)",
+       "坚定的",
+       "しっかりした"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7：firm 多作“公司/事务所”，别只记“坚固”。",
+      "ja": "Part 7：firm は「会社・事務所」の意味が多い。「固い」だけで覚えない。"
+     }
+    },
+    {
+     "w": "confirm",
+     "pos": "v.",
+     "ipa": "/kənˈfɝm/",
+     "zh": "确认；证实；批准",
+     "ja": "確認する；裏付ける；承認する",
+     "ex": "Please confirm your attendance by replying to this e-mail.",
+     "ex_zh": "请回复此邮件确认您是否出席。",
+     "ex_ja": "このメールに返信して出席をご確認ください。",
+     "parts": [
+      [
+       "con-",
+       "完全（加强）",
+       "完全に（強め）"
+      ],
+      [
+       "firm",
+       "坚固/确定（firmus）",
+       "固い・確かな（firmus）"
+      ]
+     ],
+     "note": {
+      "zh": "con- 加强 + firmare“使坚固”→ 使确定。",
+      "ja": "con-（強め）＋ firmare「固める」→ 確かにする。"
+     },
+     "forms": [
+      [
+       "confirm a reservation",
+       "确认预订",
+       "予約を確認する"
+      ],
+      [
+       "confirm that…",
+       "确认…",
+       "〜であることを確認する"
+      ],
+      [
+       "confirmation (n.)",
+       "确认（函）",
+       "確認（書）"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5：confirm（动）/ confirmation（名）词性题常见。",
+      "ja": "Part 5：confirm（動）／confirmation（名）の品詞問題が定番。"
+     }
+    },
+    {
+     "w": "confirmed",
+     "pos": "adj.",
+     "ipa": "/kənˈfɝmd/",
+     "zh": "已确认的；确定的",
+     "ja": "確認済みの；確定した",
+     "ex": "Only confirmed bookings will receive a parking pass.",
+     "ex_zh": "只有已确认的预订才会获得停车证。",
+     "ex_ja": "確定済みの予約にのみ駐車券が発行される。",
+     "parts": [
+      [
+       "confirm",
+       "确认",
+       "確認する"
+      ],
+      [
+       "-ed",
+       "形容词（过去分词）",
+       "形容詞（過去分詞）"
+      ]
+     ],
+     "note": {
+      "zh": "过去分词作形容词：a confirmed reservation。",
+      "ja": "過去分詞の形容詞用法：a confirmed reservation。"
+     },
+     "forms": [
+      [
+       "confirmed reservation",
+       "已确认的预订",
+       "確定した予約"
+      ],
+      [
+       "a confirmed date",
+       "已定日期",
+       "確定日"
+      ]
+     ]
+    },
+    {
+     "w": "unconfirmed",
+     "pos": "adj.",
+     "ipa": "/ˌʌnkənˈfɝmd/",
+     "zh": "未经证实的；未确认的",
+     "ja": "未確認の；裏付けのない",
+     "ex": "The report is based on unconfirmed figures, so please treat it as a draft.",
+     "ex_zh": "该报告基于未经确认的数据，请当作草稿看待。",
+     "ex_ja": "報告書は未確認の数値に基づいているので、草案として扱ってください。",
+     "parts": [
+      [
+       "un-",
+       "不",
+       "〜でない"
+      ],
+      [
+       "confirm",
+       "确认",
+       "確認する"
+      ],
+      [
+       "-ed",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "un- + confirmed。",
+      "ja": "un- ＋ confirmed。"
+     },
+     "forms": [
+      [
+       "unconfirmed reports",
+       "未经证实的报道",
+       "未確認の報道"
+      ],
+      [
+       "remain unconfirmed",
+       "仍未确认",
+       "未確認のままである"
+      ]
+     ]
+    },
+    {
+     "w": "affirm",
+     "pos": "v.",
+     "ipa": "/əˈfɝm/",
+     "zh": "断言；肯定；重申支持",
+     "ja": "断言する；肯定する；支持を表明する",
+     "ex": "The CEO affirmed that no jobs would be cut during the merger.",
+     "ex_zh": "首席执行官断言合并期间不会裁员。",
+     "ex_ja": "CEOは合併中に人員削減はないと断言した。",
+     "parts": [
+      [
+       "af-（ad-）",
+       "向；使",
+       "〜へ"
+      ],
+      [
+       "firm",
+       "坚固/确定（firmus）",
+       "固い・確かな（firmus）"
+      ]
+     ],
+     "note": {
+      "zh": "ad-（同化为 af-）+ firmare → 使之确定。",
+      "ja": "ad-（af- に同化）＋ firmare → 確かなものにする。"
+     },
+     "forms": [
+      [
+       "affirm a commitment",
+       "重申承诺",
+       "約束を明言する"
+      ],
+      [
+       "affirmation (n.)",
+       "断言；肯定",
+       "断言；肯定"
+      ]
+     ],
+     "tip": {
+      "zh": "别和 confirm 混：confirm = 核实；affirm = 公开肯定地表态。",
+      "ja": "confirm＝確認、affirm＝はっきり肯定・表明する。"
+     }
+    },
+    {
+     "w": "reaffirm",
+     "pos": "v.",
+     "ipa": "/ˌriəˈfɝm/",
+     "zh": "重申；再次确认",
+     "ja": "再確認する；改めて表明する",
+     "ex": "The board reaffirmed its support for the new store in Fukuoka.",
+     "ex_zh": "董事会重申支持在福冈开设新店。",
+     "ex_ja": "取締役会は福岡の新店舗への支持を改めて表明した。",
+     "parts": [
+      [
+       "re-",
+       "再次",
+       "再び"
+      ],
+      [
+       "af-（ad-）",
+       "向",
+       "〜へ"
+      ],
+      [
+       "firm",
+       "坚固/确定（firmus）",
+       "固い・確かな（firmus）"
+      ]
+     ],
+     "note": {
+      "zh": "re- + affirm。",
+      "ja": "re- ＋ affirm。"
+     },
+     "forms": [
+      [
+       "reaffirm a commitment",
+       "重申承诺",
+       "約束を再確認する"
+      ],
+      [
+       "reaffirm support",
+       "重申支持",
+       "支持を改めて表明する"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7 新闻稿常见 reaffirmed its commitment to…。",
+      "ja": "Part 7 のプレスリリースで reaffirmed its commitment to… が頻出。"
+     }
+    },
+    {
+     "w": "affirmative",
+     "pos": "adj./n.",
+     "ipa": "/əˈfɝmətɪv/",
+     "zh": "肯定的；赞成的；肯定回答",
+     "ja": "肯定の；賛成の；肯定（の答え）",
+     "ex": "Most staff gave an affirmative answer when asked about flexible hours.",
+     "ex_zh": "被问到弹性工作时间时，大多数员工给出了肯定回答。",
+     "ex_ja": "フレックス制について尋ねると、ほとんどの社員が肯定的に答えた。",
+     "parts": [
+      [
+       "affirm",
+       "肯定",
+       "肯定する"
+      ],
+      [
+       "-ative",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "affirm + -ative；反义 negative。",
+      "ja": "affirm ＋ -ative。反対語は negative。"
+     },
+     "forms": [
+      [
+       "an affirmative answer",
+       "肯定回答",
+       "肯定の返事"
+      ],
+      [
+       "in the affirmative",
+       "以肯定方式",
+       "肯定的に"
+      ]
+     ]
+    },
+    {
+     "w": "firmly",
+     "pos": "adv.",
+     "ipa": "/ˈfɝmli/",
+     "zh": "坚定地；牢固地",
+     "ja": "しっかりと；断固として",
+     "ex": "Make sure the shelves are firmly attached to the wall.",
+     "ex_zh": "请确保搁架牢牢固定在墙上。",
+     "ex_ja": "棚が壁にしっかり固定されているか確認してください。",
+     "parts": [
+      [
+       "firm",
+       "坚固/确定（firmus）",
+       "固い・確かな（firmus）"
+      ],
+      [
+       "-ly",
+       "副词后缀",
+       "副詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "firm + -ly。",
+      "ja": "firm ＋ -ly。"
+     },
+     "forms": [
+      [
+       "firmly believe",
+       "坚信",
+       "固く信じる"
+      ],
+      [
+       "firmly attached",
+       "牢固地固定",
+       "しっかり固定された"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5：修饰动词/过去分词选副词 firmly。",
+      "ja": "Part 5：動詞・過去分詞を修飾するのは副詞 firmly。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "fess",
+   "title_zh": "词根 -fess- / -fes-：承认；宣称",
+   "title_ja": "語根 -fess- / -fes-：認める；公言する",
+   "words": [
+    {
+     "w": "profession",
+     "pos": "n.",
+     "ipa": "/prəˈfɛʃən/",
+     "zh": "职业；专业；同行",
+     "ja": "職業；専門職；同業者",
+     "ex": "Nursing is a profession that requires both skill and patience.",
+     "ex_zh": "护理是一个需要技能和耐心的职业。",
+     "ex_ja": "看護は技術と忍耐の両方が求められる職業だ。",
+     "parts": [
+      [
+       "pro-",
+       "向前；公开",
+       "前へ・公に"
+      ],
+      [
+       "fess",
+       "承认；宣称（fateri）",
+       "認める・公言する（fateri）"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁 profiteri“公开宣称”→ 公开宣誓从事的行业。",
+      "ja": "ラテン語 profiteri「公言する」→ 公に誓って就く仕事。"
+     },
+     "forms": [
+      [
+       "by profession",
+       "就职业而言",
+       "職業は"
+      ],
+      [
+       "the medical profession",
+       "医疗行业",
+       "医療界"
+      ]
+     ]
+    },
+    {
+     "w": "professional",
+     "pos": "adj./n.",
+     "ipa": "/prəˈfɛʃənəl/",
+     "zh": "专业的；职业的；专业人士",
+     "ja": "プロの；専門的な；専門家",
+     "ex": "We hired a professional photographer for the product launch.",
+     "ex_zh": "我们为产品发布会请了一位专业摄影师。",
+     "ex_ja": "製品発表会のためにプロのカメラマンを雇った。",
+     "parts": [
+      [
+       "profession",
+       "职业",
+       "職業"
+      ],
+      [
+       "-al",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "profession + -al。",
+      "ja": "profession ＋ -al。"
+     },
+     "forms": [
+      [
+       "professional development",
+       "职业发展",
+       "能力開発"
+      ],
+      [
+       "a healthcare professional",
+       "医疗专业人员",
+       "医療の専門家"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7 招聘：professional development / professional experience。",
+      "ja": "Part 7 求人：professional development / experience。"
+     }
+    },
+    {
+     "w": "professionally",
+     "pos": "adv.",
+     "ipa": "/prəˈfɛʃənəli/",
+     "zh": "专业地；职业上",
+     "ja": "専門的に；プロとして",
+     "ex": "All of our brochures are professionally designed and printed.",
+     "ex_zh": "我们所有的宣传册都由专业人员设计和印刷。",
+     "ex_ja": "当社のパンフレットはすべてプロがデザイン・印刷している。",
+     "parts": [
+      [
+       "professional",
+       "专业的",
+       "専門的な"
+      ],
+      [
+       "-ly",
+       "副词后缀",
+       "副詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "professional + -ly。",
+      "ja": "professional ＋ -ly。"
+     },
+     "forms": [
+      [
+       "professionally trained",
+       "受过专业训练的",
+       "専門訓練を受けた"
+      ],
+      [
+       "dress professionally",
+       "穿着得体",
+       "きちんとした服装をする"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5：professional / professionally / professionalism 三选一。",
+      "ja": "Part 5：professional / professionally / professionalism の選択。"
+     }
+    },
+    {
+     "w": "professionalism",
+     "pos": "n.",
+     "ipa": "/prəˈfɛʃənəˌlɪzəm/",
+     "zh": "专业精神；职业素养",
+     "ja": "プロ意識；職業意識",
+     "ex": "The client praised the team's professionalism throughout the project.",
+     "ex_zh": "客户称赞团队在整个项目中的专业素养。",
+     "ex_ja": "顧客はプロジェクト全体を通じたチームのプロ意識を称賛した。",
+     "parts": [
+      [
+       "professional",
+       "专业的",
+       "専門的な"
+      ],
+      [
+       "-ism",
+       "名词后缀（态度/主义）",
+       "名詞を作る（姿勢）"
+      ]
+     ],
+     "note": {
+      "zh": "professional + -ism。",
+      "ja": "professional ＋ -ism。"
+     },
+     "forms": [
+      [
+       "show professionalism",
+       "表现出专业素养",
+       "プロ意識を示す"
+      ],
+      [
+       "a high level of professionalism",
+       "高度的专业精神",
+       "高いプロ意識"
+      ]
+     ]
+    },
+    {
+     "w": "professor",
+     "pos": "n.",
+     "ipa": "/prəˈfɛsɚ/",
+     "zh": "教授",
+     "ja": "教授",
+     "ex": "Professor Tanaka will give the keynote speech at the conference.",
+     "ex_zh": "田中教授将在大会上做主旨演讲。",
+     "ex_ja": "田中教授が会議で基調講演を行う。",
+     "parts": [
+      [
+       "pro-",
+       "公开",
+       "公に"
+      ],
+      [
+       "fess",
+       "承认；宣称（fateri）",
+       "認める・公言する（fateri）"
+      ],
+      [
+       "-or",
+       "表示人",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "原指“公开宣讲（学问）的人”。",
+      "ja": "もとは「公に（学問を）講じる人」。"
+     },
+     "forms": [
+      [
+       "assistant professor",
+       "助理教授",
+       "助教"
+      ],
+      [
+       "professor of economics",
+       "经济学教授",
+       "経済学教授"
+      ]
+     ]
+    },
+    {
+     "w": "confess",
+     "pos": "v.",
+     "ipa": "/kənˈfɛs/",
+     "zh": "承认；坦白",
+     "ja": "認める；告白する",
+     "ex": "I must confess that I forgot to send the invoice yesterday.",
+     "ex_zh": "我得承认，昨天我忘了寄发票。",
+     "ex_ja": "実は昨日、請求書を送り忘れたことを白状します。",
+     "parts": [
+      [
+       "con-",
+       "完全（加强）",
+       "完全に（強め）"
+      ],
+      [
+       "fess",
+       "承认；宣称（fateri）",
+       "認める・公言する（fateri）"
+      ]
+     ],
+     "note": {
+      "zh": "con- 加强 + fateri“承认”。",
+      "ja": "con-（強め）＋ fateri「認める」。"
+     },
+     "forms": [
+      [
+       "confess to…",
+       "承认…",
+       "〜を認める"
+      ],
+      [
+       "I must confess…",
+       "我得承认…",
+       "正直に言うと…"
+      ]
+     ]
+    },
+    {
+     "w": "confession",
+     "pos": "n.",
+     "ipa": "/kənˈfɛʃən/",
+     "zh": "承认；坦白；自白",
+     "ja": "告白；自白；白状",
+     "ex": "His confession that the data was incomplete surprised the committee.",
+     "ex_zh": "他承认数据不完整，令委员会感到意外。",
+     "ex_ja": "データが不完全だったという彼の告白に委員会は驚いた。",
+     "parts": [
+      [
+       "confess",
+       "承认",
+       "認める"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "confess + -ion。",
+      "ja": "confess ＋ -ion。"
+     },
+     "forms": [
+      [
+       "make a confession",
+       "坦白",
+       "告白する"
+      ],
+      [
+       "a public confession",
+       "公开承认",
+       "公の告白"
+      ]
+     ]
+    },
+    {
+     "w": "profess",
+     "pos": "v.",
+     "ipa": "/prəˈfɛs/",
+     "zh": "声称；表明；自称",
+     "ja": "公言する；表明する；（〜と）称する",
+     "ex": "The company professes a strong commitment to customer privacy.",
+     "ex_zh": "公司声称高度重视客户隐私。",
+     "ex_ja": "同社は顧客のプライバシーを重視すると公言している。",
+     "parts": [
+      [
+       "pro-",
+       "公开",
+       "公に"
+      ],
+      [
+       "fess",
+       "承认；宣称（fateri）",
+       "認める・公言する（fateri）"
+      ]
+     ],
+     "note": {
+      "zh": "pro- + fateri → 公开宣称；常带“自称（未必属实）”的语气。",
+      "ja": "pro- ＋ fateri → 公に述べる。「自称する（本当とは限らない）」の含みも。"
+     },
+     "forms": [
+      [
+       "profess an interest in…",
+       "表示对…有兴趣",
+       "〜に関心があると述べる"
+      ],
+      [
+       "professed (adj.)",
+       "自称的；公开表明的",
+       "公言された"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mut",
+   "title_zh": "词根 -mut-：改变；交换",
+   "title_ja": "語根 -mut-：変える；交換する",
+   "words": [
+    {
+     "w": "commute",
+     "pos": "v./n.",
+     "ipa": "/kəˈmjut/",
+     "zh": "通勤；通勤路程",
+     "ja": "通勤する；通勤",
+     "ex": "Many employees commute to the office by train for over an hour.",
+     "ex_zh": "许多员工乘电车通勤超过一小时。",
+     "ex_ja": "多くの社員が1時間以上かけて電車で通勤している。",
+     "parts": [
+      [
+       "com-",
+       "完全",
+       "完全に"
+      ],
+      [
+       "mut",
+       "改变；交换（mutare）",
+       "変える・交換する（mutare）"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁 commutare“交换”→（以月票替换车费）→ 通勤。",
+      "ja": "ラテン語 commutare「交換する」→（定期券で運賃を置き換える）→ 通勤。"
+     },
+     "forms": [
+      [
+       "a long commute",
+       "通勤时间长",
+       "長い通勤"
+      ],
+      [
+       "commute to work",
+       "通勤上班",
+       "通勤する"
+      ],
+      [
+       "commuter (n.)",
+       "通勤者",
+       "通勤者"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 3/4：daily commute、commuting time 常见。",
+      "ja": "Part 3/4：daily commute、commuting time がよく出る。"
+     }
+    },
+    {
+     "w": "commutation",
+     "pos": "n.",
+     "ipa": "/ˌkɑmjəˈteɪʃən/",
+     "zh": "通勤（交通）；减刑；交换",
+     "ja": "通勤；減刑；交換",
+     "ex": "The company pays a monthly commutation allowance for train passes.",
+     "ex_zh": "公司每月为电车月票支付通勤补贴。",
+     "ex_ja": "会社は定期券のために毎月通勤手当を支給している。",
+     "parts": [
+      [
+       "commute",
+       "交换；通勤",
+       "交換・通勤"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "commute + -ation；美式 commutation ticket = 月票。",
+      "ja": "commute ＋ -ation。米語 commutation ticket は定期券。"
+     },
+     "forms": [
+      [
+       "commutation allowance",
+       "通勤补贴",
+       "通勤手当"
+      ],
+      [
+       "commutation ticket",
+       "月票；定期票",
+       "定期券"
+      ]
+     ],
+     "tip": {
+      "zh": "日企英文规章常把“通勤手当”写成 commutation allowance。",
+      "ja": "日本企業の英文規程では通勤手当を commutation allowance と書くことが多い。"
+     }
+    },
+    {
+     "w": "mutual",
+     "pos": "adj.",
+     "ipa": "/ˈmjutʃuəl/",
+     "zh": "相互的；共同的",
+     "ja": "相互の；共通の",
+     "ex": "The two companies signed the deal for their mutual benefit.",
+     "ex_zh": "两家公司为了互惠互利签署了协议。",
+     "ex_ja": "両社は相互の利益のために契約を結んだ。",
+     "parts": [
+      [
+       "mut",
+       "交换",
+       "交換する"
+      ],
+      [
+       "-ual",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁 mutuus“互相借贷的、交换的”。",
+      "ja": "ラテン語 mutuus「互いに貸し借りする」。"
+     },
+     "forms": [
+      [
+       "mutual benefit",
+       "互惠",
+       "相互の利益"
+      ],
+      [
+       "a mutual friend",
+       "共同的朋友",
+       "共通の友人"
+      ],
+      [
+       "by mutual agreement",
+       "经双方同意",
+       "双方合意により"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7 合同：by mutual agreement / mutual consent。",
+      "ja": "Part 7 契約：by mutual agreement / mutual consent。"
+     }
+    },
+    {
+     "w": "mutually",
+     "pos": "adv.",
+     "ipa": "/ˈmjutʃuəli/",
+     "zh": "相互地；彼此",
+     "ja": "相互に；互いに",
+     "ex": "Let's find a mutually convenient time for the call.",
+     "ex_zh": "我们找一个双方都方便的时间通话吧。",
+     "ex_ja": "お互いに都合のよい通話時間を探しましょう。",
+     "parts": [
+      [
+       "mutual",
+       "相互的",
+       "相互の"
+      ],
+      [
+       "-ly",
+       "副词后缀",
+       "副詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "mutual + -ly。",
+      "ja": "mutual ＋ -ly。"
+     },
+     "forms": [
+      [
+       "mutually convenient",
+       "双方都方便的",
+       "お互いに都合のよい"
+      ],
+      [
+       "mutually beneficial",
+       "互惠的",
+       "相互に有益な"
+      ]
+     ],
+     "tip": {
+      "zh": "约时间邮件高频：at a mutually convenient time。",
+      "ja": "日程調整メールの定番：at a mutually convenient time。"
+     }
+    },
+    {
+     "w": "mutable",
+     "pos": "adj.",
+     "ipa": "/ˈmjutəbəl/",
+     "zh": "易变的；可变的",
+     "ja": "変わりやすい；可変の",
+     "ex": "Fashion trends are highly mutable, so we restock in small batches.",
+     "ex_zh": "时尚潮流变化很快，所以我们小批量补货。",
+     "ex_ja": "流行は変わりやすいので、少量ずつ入荷している。",
+     "parts": [
+      [
+       "mut",
+       "改变",
+       "変える"
+      ],
+      [
+       "-able",
+       "能…的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁 mutabilis“可改变的”。",
+      "ja": "ラテン語 mutabilis「変えられる」。"
+     },
+     "forms": [
+      [
+       "mutable plans",
+       "易变的计划",
+       "変わりやすい計画"
+      ],
+      [
+       "mutability (n.)",
+       "易变性",
+       "変わりやすさ"
+      ]
+     ]
+    },
+    {
+     "w": "immutable",
+     "pos": "adj.",
+     "ipa": "/ɪˈmjutəbəl/",
+     "zh": "不可改变的；永恒的",
+     "ja": "不変の；変えられない",
+     "ex": "Once submitted, the order record is immutable and cannot be edited.",
+     "ex_zh": "订单记录一经提交就不可更改，也无法编辑。",
+     "ex_ja": "注文記録は一度送信すると変更できず、編集もできない。",
+     "parts": [
+      [
+       "im-（in-）",
+       "不",
+       "〜でない"
+      ],
+      [
+       "mut",
+       "改变",
+       "変える"
+      ],
+      [
+       "-able",
+       "能…的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "in-（同化为 im-）+ mutabilis。",
+      "ja": "in-（im- に同化）＋ mutabilis。"
+     },
+     "forms": [
+      [
+       "immutable rule",
+       "不可变的规则",
+       "不変のルール"
+      ],
+      [
+       "immutable record",
+       "不可更改的记录",
+       "改ざんできない記録"
+      ]
+     ]
+    },
+    {
+     "w": "mutation",
+     "pos": "n.",
+     "ipa": "/mjuˈteɪʃən/",
+     "zh": "变化；变异；突变",
+     "ja": "変化；変異；突然変異",
+     "ex": "The lab is studying a mutation that makes the crop resistant to drought.",
+     "ex_zh": "实验室正在研究一种使作物抗旱的突变。",
+     "ex_ja": "研究所は作物に干ばつ耐性を与える突然変異を研究している。",
+     "parts": [
+      [
+       "mut",
+       "改变",
+       "変える"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁 mutatio“变化”。",
+      "ja": "ラテン語 mutatio「変化」。"
+     },
+     "forms": [
+      [
+       "genetic mutation",
+       "基因突变",
+       "遺伝子の突然変異"
+      ],
+      [
+       "mutate (v.)",
+       "变异",
+       "変異する"
+      ]
+     ]
+    },
+    {
+     "w": "transmute",
+     "pos": "v.",
+     "ipa": "/trænzˈmjut/",
+     "zh": "使变形；转化",
+     "ja": "変化させる；変える",
+     "ex": "The designer transmuted old factory space into a bright café.",
+     "ex_zh": "设计师把旧厂房改造成了明亮的咖啡馆。",
+     "ex_ja": "デザイナーは古い工場の空間を明るいカフェに変えた。",
+     "parts": [
+      [
+       "trans-",
+       "转变；越过",
+       "変わって・越えて"
+      ],
+      [
+       "mut",
+       "改变",
+       "変える"
+      ],
+      [
+       "-e",
+       "词尾",
+       "語尾"
+      ]
+     ],
+     "note": {
+      "zh": "trans- + mutare → 彻底改变形态；书面语。",
+      "ja": "trans- ＋ mutare → 姿を変える。書き言葉。"
+     },
+     "forms": [
+      [
+       "transmute A into B",
+       "把 A 转化为 B",
+       "A を B に変える"
+      ],
+      [
+       "transmutation (n.)",
+       "转化",
+       "変換"
+      ]
+     ],
+     "tip": {
+      "zh": "⚠️ mute（沉默的）来自拉丁 mutus，与 mut-“改变”不同源。",
+      "ja": "⚠️ mute（無言の）はラテン語 mutus 由来で、mut-「変える」とは別。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "vol",
+   "title_zh": "词根 -vol-：意愿",
+   "title_ja": "語根 -vol-：意志",
+   "words": [
+    {
+     "w": "voluntary",
+     "pos": "adj.",
+     "ipa": "/ˈvɑlənˌtɛri/",
+     "zh": "自愿的；义务的；志愿的",
+     "ja": "自発的な；任意の；ボランティアの",
+     "ex": "Attendance at the Saturday workshop is voluntary.",
+     "ex_zh": "周六研讨会自愿参加。",
+     "ex_ja": "土曜日のワークショップへの参加は任意だ。",
+     "parts": [
+      [
+       "vol",
+       "意愿（velle / volo）",
+       "意志（velle／volo）"
+      ],
+      [
+       "-untary",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁 voluntarius“出于意愿的”。",
+      "ja": "ラテン語 voluntarius「意志による」。"
+     },
+     "forms": [
+      [
+       "voluntary basis",
+       "自愿原则",
+       "任意参加"
+      ],
+      [
+       "voluntary retirement",
+       "自愿退休",
+       "希望退職"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7：voluntary = optional（非强制），同义替换常考。",
+      "ja": "Part 7：voluntary ＝ optional（任意）の言い換えが頻出。"
+     }
+    },
+    {
+     "w": "voluntarily",
+     "pos": "adv.",
+     "ipa": "/ˌvɑlənˈtɛrəli/",
+     "zh": "自愿地；主动地",
+     "ja": "自発的に；自ら進んで",
+     "ex": "Several staff members voluntarily stayed late to finish the inventory.",
+     "ex_zh": "几位员工主动留下加班完成盘点。",
+     "ex_ja": "何人かの社員が自ら残って棚卸しを終えた。",
+     "parts": [
+      [
+       "voluntary",
+       "自愿的",
+       "自発的な"
+      ],
+      [
+       "-ly",
+       "副词后缀",
+       "副詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "voluntary + -ly。",
+      "ja": "voluntary ＋ -ly。"
+     },
+     "forms": [
+      [
+       "voluntarily recall",
+       "主动召回",
+       "自主回収する"
+      ],
+      [
+       "leave voluntarily",
+       "自愿离职",
+       "自主退職する"
+      ]
+     ],
+     "tip": {
+      "zh": "新闻：The company voluntarily recalled… 主动召回。",
+      "ja": "ニュース：The company voluntarily recalled…（自主回収）。"
+     }
+    },
+    {
+     "w": "involuntary",
+     "pos": "adj.",
+     "ipa": "/ɪnˈvɑlənˌtɛri/",
+     "zh": "非自愿的；不由自主的",
+     "ja": "不本意の；無意識の",
+     "ex": "Passengers who face involuntary denied boarding will receive compensation.",
+     "ex_zh": "被迫拒绝登机的乘客将获得赔偿。",
+     "ex_ja": "不本意に搭乗を拒否された乗客には補償が支払われる。",
+     "parts": [
+      [
+       "in-",
+       "不",
+       "〜でない"
+      ],
+      [
+       "vol",
+       "意愿（velle / volo）",
+       "意志（velle／volo）"
+      ],
+      [
+       "-untary",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "in- + voluntary。",
+      "ja": "in- ＋ voluntary。"
+     },
+     "forms": [
+      [
+       "involuntary denied boarding",
+       "非自愿拒绝登机",
+       "非自発的搭乗拒否"
+      ],
+      [
+       "involuntary reaction",
+       "不由自主的反应",
+       "無意識の反応"
+      ]
+     ]
+    },
+    {
+     "w": "volunteer",
+     "pos": "n./v.",
+     "ipa": "/ˌvɑlənˈtɪr/",
+     "zh": "志愿者；自愿做",
+     "ja": "ボランティア；自ら申し出る",
+     "ex": "We need ten volunteers to help at the registration desk.",
+     "ex_zh": "我们需要十名志愿者在登记台帮忙。",
+     "ex_ja": "受付を手伝うボランティアが10人必要だ。",
+     "parts": [
+      [
+       "vol",
+       "意愿（velle / volo）",
+       "意志（velle／volo）"
+      ],
+      [
+       "-unteer",
+       "表示人（经法语 volontaire）",
+       "人を表す（仏語 volontaire 経由）"
+      ]
+     ],
+     "note": {
+      "zh": "经法语 volontaire 来自拉丁 voluntarius。",
+      "ja": "フランス語 volontaire を経てラテン語 voluntarius から。"
+     },
+     "forms": [
+      [
+       "volunteer to do…",
+       "主动提出做…",
+       "〜を買って出る"
+      ],
+      [
+       "volunteer for…",
+       "自愿参加…",
+       "〜に志願する"
+      ],
+      [
+       "volunteer work",
+       "志愿工作",
+       "ボランティア活動"
+      ]
+     ],
+     "tip": {
+      "zh": "动词用法：volunteer to + 动词原形。",
+      "ja": "動詞：volunteer to ＋ 原形。"
+     }
+    },
+    {
+     "w": "volunteerism",
+     "pos": "n.",
+     "ipa": "/ˌvɑlənˈtɪrˌɪzəm/",
+     "zh": "志愿服务精神；志愿活动",
+     "ja": "ボランティア活動；ボランティア精神",
+     "ex": "The city award recognizes local businesses that promote volunteerism.",
+     "ex_zh": "市里的奖项表彰推动志愿服务的本地企业。",
+     "ex_ja": "市の賞はボランティア活動を推進する地元企業をたたえる。",
+     "parts": [
+      [
+       "volunteer",
+       "志愿者",
+       "ボランティア"
+      ],
+      [
+       "-ism",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "volunteer + -ism。",
+      "ja": "volunteer ＋ -ism。"
+     },
+     "forms": [
+      [
+       "corporate volunteerism",
+       "企业志愿服务",
+       "企業ボランティア"
+      ],
+      [
+       "promote volunteerism",
+       "推广志愿服务",
+       "ボランティア活動を推進する"
+      ]
+     ]
+    },
+    {
+     "w": "volition",
+     "pos": "n.",
+     "ipa": "/voʊˈlɪʃən/",
+     "zh": "意志；自愿",
+     "ja": "意志；自由意思",
+     "ex": "She left the company of her own volition to start a bakery.",
+     "ex_zh": "她出于自己的意愿离开公司，开了一家面包店。",
+     "ex_ja": "彼女は自らの意思で会社を辞め、パン屋を始めた。",
+     "parts": [
+      [
+       "vol",
+       "意愿（velle / volo）",
+       "意志（velle／volo）"
+      ],
+      [
+       "-ition",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "中世拉丁 volitio“意愿”。",
+      "ja": "中世ラテン語 volitio「意志」。"
+     },
+     "forms": [
+      [
+       "of one's own volition",
+       "出于自愿",
+       "自らの意思で"
+      ],
+      [
+       "volitional (adj.)",
+       "意志的；自愿的",
+       "意志による"
+      ]
+     ]
+    },
+    {
+     "w": "benevolence",
+     "pos": "n.",
+     "ipa": "/bəˈnɛvələns/",
+     "zh": "仁慈；善意；捐助",
+     "ja": "慈悲；善意；慈善",
+     "ex": "The new library was built thanks to the benevolence of a local donor.",
+     "ex_zh": "新图书馆的建成要感谢一位本地捐赠人的善举。",
+     "ex_ja": "新しい図書館は地元の寄付者の善意によって建てられた。",
+     "parts": [
+      [
+       "bene-",
+       "好",
+       "良い"
+      ],
+      [
+       "vol",
+       "意愿（velle / volo）",
+       "意志（velle／volo）"
+      ],
+      [
+       "-ence",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "bene“好”+ volo“愿意”→ 愿人好。形容词 benevolent 已在之前学过。",
+      "ja": "bene「良く」＋ volo「望む」→ 人の幸せを願う。形容詞 benevolent は既習。"
+     },
+     "forms": [
+      [
+       "act of benevolence",
+       "善举",
+       "慈善行為"
+      ],
+      [
+       "benevolent (adj.)",
+       "仁慈的",
+       "慈悲深い"
+      ]
+     ]
+    },
+    {
+     "w": "malevolent",
+     "pos": "adj.",
+     "ipa": "/məˈlɛvələnt/",
+     "zh": "恶意的；恶毒的",
+     "ja": "悪意のある",
+     "ex": "The IT team blocked a malevolent program hidden in an e-mail attachment.",
+     "ex_zh": "IT 团队拦截了一个藏在邮件附件中的恶意程序。",
+     "ex_ja": "IT チームはメール添付に隠された悪意あるプログラムを遮断した。",
+     "parts": [
+      [
+       "male-",
+       "坏",
+       "悪い"
+      ],
+      [
+       "vol",
+       "意愿（velle / volo）",
+       "意志（velle／volo）"
+      ],
+      [
+       "-ent",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "male“坏”+ volo → 愿人坏；与 benevolent 相对。IT 里更常用 malicious。",
+      "ja": "male「悪く」＋ volo → 人の不幸を願う。benevolent の反対。IT では malicious がより一般的。"
+     },
+     "forms": [
+      [
+       "malevolent intent",
+       "恶意",
+       "悪意"
+      ],
+      [
+       "malevolence (n.)",
+       "恶意",
+       "悪意"
+      ]
+     ],
+     "tip": {
+      "zh": "⚠️ volume（体积）、revolve（旋转）属于 volv-“卷”，与 vol-“意愿”无关。",
+      "ja": "⚠️ volume（量）や revolve（回転）は volv-「巻く」で、vol-「意志」とは無関係。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "appliance",
+   "title_zh": "主题：家电与保修售后",
+   "title_ja": "テーマ：家電と保証・アフターサービス",
+   "words": [
+    {
+     "w": "refrigerator",
+     "pos": "n.",
+     "ipa": "/rɪˈfrɪdʒəˌreɪtɚ/",
+     "zh": "冰箱",
+     "ja": "冷蔵庫",
+     "ex": "Please label your lunch before putting it in the office refrigerator.",
+     "ex_zh": "放进办公室冰箱前请在午餐上贴标签。",
+     "ex_ja": "オフィスの冷蔵庫に入れる前に、お弁当に名前を書いてください。",
+     "parts": [
+      [
+       "re-",
+       "再；回",
+       "再び"
+      ],
+      [
+       "frig",
+       "冷（frigus）",
+       "冷たい（frigus）"
+      ],
+      [
+       "-er-ate",
+       "动词后缀",
+       "動詞を作る"
+      ],
+      [
+       "-or",
+       "表示器物",
+       "道具を表す"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁 refrigerare“使变冷”；口语 fridge。",
+      "ja": "ラテン語 refrigerare「冷やす」。口語は fridge。"
+     },
+     "forms": [
+      [
+       "fridge (口语)",
+       "冰箱",
+       "冷蔵庫（口語）"
+      ],
+      [
+       "refrigerate (v.)",
+       "冷藏",
+       "冷蔵する"
+      ],
+      [
+       "Keep refrigerated.",
+       "请冷藏",
+       "要冷蔵"
+      ]
+     ],
+     "tip": {
+      "zh": "食品标签：Keep refrigerated after opening.",
+      "ja": "食品表示：Keep refrigerated after opening.（開封後要冷蔵）"
+     }
+    },
+    {
+     "w": "microwave",
+     "pos": "n./v.",
+     "ipa": "/ˈmaɪkroʊˌweɪv/",
+     "zh": "微波炉；用微波炉加热",
+     "ja": "電子レンジ；レンジで温める",
+     "ex": "The microwave in the break room is out of order until Friday.",
+     "ex_zh": "休息室的微波炉在周五前无法使用。",
+     "ex_ja": "休憩室の電子レンジは金曜日まで故障中だ。",
+     "parts": [
+      [
+       "micro-",
+       "微小",
+       "小さい"
+      ],
+      [
+       "wave",
+       "波",
+       "波"
+      ]
+     ],
+     "note": {
+      "zh": "micro- + wave；microwave oven 的简称。",
+      "ja": "micro- ＋ wave。microwave oven の略。"
+     },
+     "forms": [
+      [
+       "microwave oven",
+       "微波炉",
+       "電子レンジ"
+      ],
+      [
+       "microwave-safe",
+       "可用于微波炉的",
+       "電子レンジ対応の"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1：heating food in a microwave。",
+      "ja": "Part 1：heating food in a microwave。"
+     }
+    },
+    {
+     "w": "vacuum cleaner",
+     "pos": "n.",
+     "ipa": "/ˈvækjum ˌklinɚ/",
+     "zh": "吸尘器",
+     "ja": "掃除機",
+     "ex": "The new cordless vacuum cleaner weighs only 1.5 kilograms.",
+     "ex_zh": "新款无线吸尘器只有 1.5 公斤重。",
+     "ex_ja": "新しいコードレス掃除機の重さはわずか1.5キロだ。",
+     "parts": [
+      [
+       "vacu",
+       "空（vacuus）",
+       "空の（vacuus）"
+      ],
+      [
+       "-um",
+       "名词词尾",
+       "名詞語尾"
+      ],
+      [
+       "cleaner",
+       "清洁器",
+       "掃除するもの"
+      ]
+     ],
+     "note": {
+      "zh": "vacuum 来自拉丁 vacuus“空的”（vac- 词根第 20 天学过）。",
+      "ja": "vacuum はラテン語 vacuus「空の」から（vac- は Day 20 で既習）。"
+     },
+     "forms": [
+      [
+       "vacuum (v.)",
+       "用吸尘器打扫",
+       "掃除機をかける"
+      ],
+      [
+       "robot vacuum",
+       "扫地机器人",
+       "ロボット掃除機"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1：A man is vacuuming the carpet.",
+      "ja": "Part 1：A man is vacuuming the carpet."
+     }
+    },
+    {
+     "w": "washing machine",
+     "pos": "n.",
+     "ipa": "/ˈwɑʃɪŋ məˌʃin/",
+     "zh": "洗衣机",
+     "ja": "洗濯機",
+     "ex": "Each apartment comes with a washing machine and a dryer.",
+     "ex_zh": "每套公寓都配有洗衣机和烘干机。",
+     "ex_ja": "各部屋には洗濯機と乾燥機が付いている。",
+     "parts": [],
+     "note": {
+      "zh": "复合名词 washing + machine，没有可靠的词根拆分（本族词 wash）。",
+      "ja": "複合語 washing ＋ machine。wash は本来の英語で、信頼できる語根分解はない。"
+     },
+     "forms": [
+      [
+       "front-loading washing machine",
+       "滚筒洗衣机",
+       "ドラム式洗濯機"
+      ],
+      [
+       "load the washing machine",
+       "把衣物放进洗衣机",
+       "洗濯機に入れる"
+      ]
+     ]
+    },
+    {
+     "w": "dryer",
+     "pos": "n.",
+     "ipa": "/ˈdraɪɚ/",
+     "zh": "烘干机；吹风机",
+     "ja": "乾燥機；ドライヤー",
+     "ex": "Please do not overload the dryer, or the clothes will not dry evenly.",
+     "ex_zh": "烘干机请勿装太满，否则衣服干得不均匀。",
+     "ex_ja": "乾燥機に詰め込みすぎると、衣類が均一に乾きません。",
+     "parts": [
+      [
+       "dry",
+       "干",
+       "乾いた"
+      ],
+      [
+       "-er",
+       "表示器物",
+       "道具を表す"
+      ]
+     ],
+     "note": {
+      "zh": "本族词 dry + -er；也拼 drier。",
+      "ja": "本来の英語 dry ＋ -er。drier とも綴る。"
+     },
+     "forms": [
+      [
+       "clothes dryer",
+       "干衣机",
+       "衣類乾燥機"
+      ],
+      [
+       "hair dryer",
+       "吹风机",
+       "ヘアドライヤー"
+      ]
+     ]
+    },
+    {
+     "w": "defective",
+     "pos": "adj.",
+     "ipa": "/dɪˈfɛktɪv/",
+     "zh": "有缺陷的；有毛病的",
+     "ja": "欠陥のある；不良の",
+     "ex": "Defective items can be returned within 30 days for a full refund.",
+     "ex_zh": "有缺陷的商品可在 30 天内退货并全额退款。",
+     "ex_ja": "不良品は30日以内なら全額返金で返品できる。",
+     "parts": [
+      [
+       "de-",
+       "离开；缺",
+       "離れて・欠けて"
+      ],
+      [
+       "fect",
+       "做（facere）",
+       "作る（facere）"
+      ],
+      [
+       "-ive",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "来自 defect“缺陷”（de- + facere“做”→ 做得不足）；fac/fec 词根第 7 天学过。",
+      "ja": "defect「欠陥」から（de- ＋ facere「作る」→ 作りが足りない）。fac/fec は Day 7 で既習。"
+     },
+     "forms": [
+      [
+       "defective product",
+       "次品",
+       "不良品"
+      ],
+      [
+       "defect (n.)",
+       "缺陷",
+       "欠陥"
+      ],
+      [
+       "replace a defective part",
+       "更换故障零件",
+       "不良部品を交換する"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7 投诉信：The unit I received was defective.",
+      "ja": "Part 7 苦情：The unit I received was defective."
+     }
+    },
+    {
+     "w": "serial number",
+     "pos": "n.",
+     "ipa": "/ˈsɪriəl ˌnʌmbɚ/",
+     "zh": "序列号；产品编号",
+     "ja": "シリアル番号；製造番号",
+     "ex": "Please include the serial number when you register your product online.",
+     "ex_zh": "在线注册产品时请填写序列号。",
+     "ex_ja": "オンラインで製品登録する際はシリアル番号を記入してください。",
+     "parts": [
+      [
+       "seri",
+       "系列（series）",
+       "連なり（series）"
+      ],
+      [
+       "-al",
+       "形容词后缀",
+       "形容詞を作る"
+      ],
+      [
+       "number",
+       "号码",
+       "番号"
+      ]
+     ],
+     "note": {
+      "zh": "serial 来自 series“连续”。",
+      "ja": "serial は series「連続」から。"
+     },
+     "forms": [
+      [
+       "serial number",
+       "序列号",
+       "シリアル番号"
+      ],
+      [
+       "model number",
+       "型号",
+       "型番"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7：保修申请表常要求 serial number 和 proof of purchase。",
+      "ja": "Part 7：保証申請では serial number と proof of purchase がよく求められる。"
+     }
+    },
+    {
+     "w": "extended warranty",
+     "pos": "n.",
+     "ipa": "/ɪkˈstɛndɪd ˈwɔrənti/",
+     "zh": "延长保修",
+     "ja": "延長保証",
+     "ex": "For an extra $49, you can purchase a three-year extended warranty.",
+     "ex_zh": "多付 49 美元即可购买三年延长保修。",
+     "ex_ja": "49ドル追加で3年間の延長保証を購入できる。",
+     "parts": [
+      [
+       "ex-",
+       "向外",
+       "外へ"
+      ],
+      [
+       "tend",
+       "伸展",
+       "伸ばす"
+      ],
+      [
+       "-ed",
+       "形容词",
+       "形容詞"
+      ],
+      [
+       "warranty",
+       "保证（经古法语）",
+       "保証（古仏語経由）"
+      ]
+     ],
+     "note": {
+      "zh": "extended 来自 tend 词根“伸展”（第 6 天）；warranty 与 guarantee 同源于古法语。",
+      "ja": "extended は tend「伸ばす」（Day 6）。warranty は guarantee と同じ古フランス語由来。"
+     },
+     "forms": [
+      [
+       "under warranty",
+       "在保修期内",
+       "保証期間中"
+      ],
+      [
+       "warranty expires",
+       "保修到期",
+       "保証が切れる"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7：The repair is covered under warranty.",
+      "ja": "Part 7：The repair is covered under warranty."
+     }
+    },
+    {
+     "w": "voltage",
+     "pos": "n.",
+     "ipa": "/ˈvoʊltɪdʒ/",
+     "zh": "电压",
+     "ja": "電圧",
+     "ex": "Check the voltage before using the hair dryer overseas.",
+     "ex_zh": "在国外使用吹风机前请检查电压。",
+     "ex_ja": "海外でドライヤーを使う前に電圧を確認してください。",
+     "parts": [
+      [
+       "volt",
+       "伏特（Volta 人名）",
+       "ボルト（人名 Volta）"
+      ],
+      [
+       "-age",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "得名于物理学家 Volta；与 vol-“意愿”无关。",
+      "ja": "物理学者ボルタ（Volta）に由来。vol-「意志」とは無関係。"
+     },
+     "forms": [
+      [
+       "high voltage",
+       "高压",
+       "高電圧"
+      ],
+      [
+       "voltage converter",
+       "变压器",
+       "変圧器"
+      ]
+     ],
+     "tip": {
+      "zh": "⚠️ 拼写 voltage，不是 voltege。",
+      "ja": "⚠️ 綴りは voltage。"
+     }
+    },
+    {
+     "w": "remote control",
+     "pos": "n.",
+     "ipa": "/rɪˈmoʊt kənˈtroʊl/",
+     "zh": "遥控器；遥控",
+     "ja": "リモコン；遠隔操作",
+     "ex": "The air conditioner can be operated with a remote control or a smartphone.",
+     "ex_zh": "空调可以用遥控器或智能手机操作。",
+     "ex_ja": "エアコンはリモコンでもスマートフォンでも操作できる。",
+     "parts": [
+      [
+       "re-",
+       "往后",
+       "後ろへ"
+      ],
+      [
+       "mot",
+       "移动（movere）",
+       "動く（movere）"
+      ],
+      [
+       "-e",
+       "词尾",
+       "語尾"
+      ],
+      [
+       "control",
+       "控制",
+       "制御"
+      ]
+     ],
+     "note": {
+      "zh": "remote 来自拉丁 removere“移开”→ 远的；mov/mot 第 8 天学过。",
+      "ja": "remote はラテン語 removere「遠ざける」→「遠い」。mov/mot は Day 8 で既習。"
+     },
+     "forms": [
+      [
+       "remote (口语)",
+       "遥控器",
+       "リモコン（口語）"
+      ],
+      [
+       "by remote control",
+       "通过遥控",
+       "遠隔操作で"
+      ]
+     ]
+    },
+    {
+     "w": "power cord",
+     "pos": "n.",
+     "ipa": "/ˈpaʊɚ ˌkɔrd/",
+     "zh": "电源线",
+     "ja": "電源コード",
+     "ex": "Unplug the power cord before cleaning the coffee maker.",
+     "ex_zh": "清洁咖啡机前请拔掉电源线。",
+     "ex_ja": "コーヒーメーカーを掃除する前に電源コードを抜いてください。",
+     "parts": [],
+     "note": {
+      "zh": "复合名词 power + cord，没有可靠的词根拆分。",
+      "ja": "複合語 power ＋ cord。信頼できる語根分解はない。"
+     },
+     "forms": [
+      [
+       "unplug the power cord",
+       "拔掉电源线",
+       "電源コードを抜く"
+      ],
+      [
+       "extension cord",
+       "延长线",
+       "延長コード"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1：A cord is plugged into an outlet.",
+      "ja": "Part 1：A cord is plugged into an outlet."
+     }
+    },
+    {
+     "w": "adapter",
+     "pos": "n.",
+     "ipa": "/əˈdæptɚ/",
+     "zh": "适配器；转换插头",
+     "ja": "アダプター；変換プラグ",
+     "ex": "Travelers to the UK should bring a plug adapter.",
+     "ex_zh": "去英国的旅客应带上转换插头。",
+     "ex_ja": "イギリスへ行く旅行者は変換プラグを持参すべきだ。",
+     "parts": [
+      [
+       "ad-",
+       "向",
+       "〜へ"
+      ],
+      [
+       "apt",
+       "合适",
+       "適した"
+      ],
+      [
+       "-er",
+       "表示器物",
+       "道具を表す"
+      ]
+     ],
+     "note": {
+      "zh": "来自 adapt（ad- + aptus“合适的”）；也拼 adaptor。",
+      "ja": "adapt（ad- ＋ aptus「適した」）から。adaptor とも綴る。"
+     },
+     "forms": [
+      [
+       "plug adapter",
+       "转换插头",
+       "変換プラグ"
+      ],
+      [
+       "AC adapter",
+       "电源适配器",
+       "AC アダプター"
+      ]
+     ]
+    },
+    {
+     "w": "humidifier",
+     "pos": "n.",
+     "ipa": "/hjuˈmɪdəˌfaɪɚ/",
+     "zh": "加湿器",
+     "ja": "加湿器",
+     "ex": "A humidifier was placed in each meeting room for the dry winter months.",
+     "ex_zh": "为了干燥的冬季，每间会议室都放了加湿器。",
+     "ex_ja": "乾燥する冬に備えて、各会議室に加湿器が置かれた。",
+     "parts": [
+      [
+       "humid",
+       "潮湿",
+       "湿った"
+      ],
+      [
+       "-ify",
+       "使…",
+       "〜にする"
+      ],
+      [
+       "-er",
+       "表示器物",
+       "道具を表す"
+      ]
+     ],
+     "note": {
+      "zh": "humid“潮湿的”+ -ify + -er。反义 dehumidifier 除湿机。",
+      "ja": "humid「湿った」＋ -ify ＋ -er。反対は dehumidifier（除湿機）。"
+     },
+     "forms": [
+      [
+       "dehumidifier",
+       "除湿机",
+       "除湿機"
+      ],
+      [
+       "humidity (n.)",
+       "湿度",
+       "湿度"
+      ]
+     ]
+    },
+    {
+     "w": "proof of purchase",
+     "pos": "n.",
+     "ipa": "/ˈpruf əv ˈpɝtʃəs/",
+     "zh": "购买凭证",
+     "ja": "購入証明",
+     "ex": "Repairs are free if you can show proof of purchase.",
+     "ex_zh": "若能出示购买凭证，可免费维修。",
+     "ex_ja": "購入証明を提示すれば修理は無料だ。",
+     "parts": [],
+     "note": {
+      "zh": "短语：proof“证明”+ of + purchase“购买”，作为整体记，不硬拆词根。",
+      "ja": "句：proof「証明」＋ of ＋ purchase「購入」。まとまりで覚える。"
+     },
+     "forms": [
+      [
+       "a receipt as proof of purchase",
+       "以收据作为购买凭证",
+       "購入証明としてのレシート"
+      ],
+      [
+       "proof of address",
+       "地址证明",
+       "住所証明"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7：退货/保修条件 must be accompanied by proof of purchase。",
+      "ja": "Part 7：返品・保証の条件で must be accompanied by proof of purchase。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "announce",
+   "title_zh": "主题：车站·机场·店内广播",
+   "title_ja": "テーマ：駅・空港・店内アナウンス",
+   "words": [
+    {
+     "w": "public address",
+     "pos": "n.",
+     "ipa": "/ˈpʌblɪk əˈdrɛs/",
+     "zh": "（公共）广播系统",
+     "ja": "館内放送（設備）",
+     "ex": "The fire drill will be announced over the public address system.",
+     "ex_zh": "消防演习将通过公共广播系统通知。",
+     "ex_ja": "避難訓練は館内放送で知らせる。",
+     "parts": [],
+     "note": {
+      "zh": "短语；常缩写 PA（PA system）。pop/publ 词根第 32 天学过，这里按整体记。",
+      "ja": "句。PA（PA system）と略す。pop/publ は Day 32 で既習、ここではまとまりで覚える。"
+     },
+     "forms": [
+      [
+       "public address system",
+       "公共广播系统",
+       "館内放送設備"
+      ],
+      [
+       "PA announcement",
+       "广播通知",
+       "館内アナウンス"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 4 开头常见：over the public address system。",
+      "ja": "Part 4 の冒頭：over the public address system。"
+     }
+    },
+    {
+     "w": "lost and found",
+     "pos": "n.",
+     "ipa": "/ˌlɔst ən ˈfaʊnd/",
+     "zh": "失物招领处",
+     "ja": "遺失物取扱所",
+     "ex": "Unclaimed items are kept at the lost and found for two weeks.",
+     "ex_zh": "无人认领的物品在失物招领处保存两周。",
+     "ex_ja": "持ち主が現れない物は遺失物取扱所で2週間保管される。",
+     "parts": [],
+     "note": {
+      "zh": "固定短语，没有可靠的词根拆分。英式也说 lost property。",
+      "ja": "決まった句で、語根分解はない。英では lost property とも。"
+     },
+     "forms": [
+      [
+       "lost-and-found office",
+       "失物招领处",
+       "遺失物取扱所"
+      ],
+      [
+       "lost property",
+       "失物（英式）",
+       "遺失物（英）"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 4：Please claim it at the lost and found on the first floor.",
+      "ja": "Part 4：Please claim it at the lost and found on the first floor."
+     }
+    },
+    {
+     "w": "shortly",
+     "pos": "adv.",
+     "ipa": "/ˈʃɔrtli/",
+     "zh": "不久；马上；简短地",
+     "ja": "まもなく；すぐに；手短に",
+     "ex": "The train to Kyoto will be arriving shortly on Platform 3.",
+     "ex_zh": "开往京都的列车即将抵达 3 号站台。",
+     "ex_ja": "京都行きの電車はまもなく3番線に到着します。",
+     "parts": [
+      [
+       "short",
+       "短",
+       "短い"
+      ],
+      [
+       "-ly",
+       "副词后缀",
+       "副詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "本族词 short + -ly。",
+      "ja": "本来の英語 short ＋ -ly。"
+     },
+     "forms": [
+      [
+       "shortly after…",
+       "…之后不久",
+       "〜の直後に"
+      ],
+      [
+       "shortly before…",
+       "…之前不久",
+       "〜の少し前に"
+      ]
+     ],
+     "tip": {
+      "zh": "⚠️ shortly ≠ “短地”，多指“很快”：will begin shortly。",
+      "ja": "⚠️ shortly は「まもなく」：will begin shortly。"
+     }
+    },
+    {
+     "w": "momentarily",
+     "pos": "adv.",
+     "ipa": "/ˌmoʊmənˈtɛrəli/",
+     "zh": "马上（美）；片刻地",
+     "ja": "まもなく（米）；一瞬",
+     "ex": "The doors will open momentarily; please stand clear.",
+     "ex_zh": "车门即将打开，请站开。",
+     "ex_ja": "まもなくドアが開きます。離れてお待ちください。",
+     "parts": [
+      [
+       "mo-",
+       "移动（movere 的缩略）",
+       "動く（movere 短縮）"
+      ],
+      [
+       "-ment",
+       "名词后缀",
+       "名詞を作る"
+      ],
+      [
+       "-ary",
+       "形容词后缀",
+       "形容詞を作る"
+      ],
+      [
+       "-ly",
+       "副词后缀",
+       "副詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "moment 来自拉丁 momentum（movimentum“移动”的缩略）。美式多指“马上”，英式多指“片刻”。",
+      "ja": "moment はラテン語 momentum（movimentum「動き」の短縮）から。米「まもなく」、英「一瞬」。"
+     },
+     "forms": [
+      [
+       "momentary (adj.)",
+       "短暂的",
+       "一瞬の"
+      ],
+      [
+       "be back momentarily",
+       "马上回来",
+       "すぐ戻る"
+      ]
+     ]
+    },
+    {
+     "w": "regret",
+     "pos": "v./n.",
+     "ipa": "/rɪˈɡrɛt/",
+     "zh": "遗憾；后悔；抱歉",
+     "ja": "残念に思う；後悔；遺憾",
+     "ex": "We regret to announce that Flight 210 has been canceled.",
+     "ex_zh": "我们遗憾地宣布，210 航班已取消。",
+     "ex_ja": "残念ながら210便は欠航となりました。",
+     "parts": [],
+     "note": {
+      "zh": "来源于古法语 regreter，词源不明确，没有可靠的词根拆分。",
+      "ja": "古フランス語 regreter から。語源は不確かで、信頼できる語根分解はない。"
+     },
+     "forms": [
+      [
+       "regret to inform you that…",
+       "遗憾地通知您…",
+       "残念ながら〜をお知らせします"
+      ],
+      [
+       "regret doing",
+       "后悔做了",
+       "〜したことを後悔する"
+      ],
+      [
+       "regrettably (adv.)",
+       "遗憾地",
+       "残念ながら"
+      ]
+     ],
+     "tip": {
+      "zh": "⚠️ regret to do（遗憾地要做）vs. regret doing（后悔做过）。",
+      "ja": "⚠️ regret to do（残念ながら〜する）と regret doing（〜したことを後悔）。"
+     }
+    },
+    {
+     "w": "stay tuned",
+     "pos": "phr.",
+     "ipa": "/ˌsteɪ ˈtund/",
+     "zh": "请继续收听/关注",
+     "ja": "チャンネルはそのまま；引き続きご注目を",
+     "ex": "Stay tuned for the traffic report after the news.",
+     "ex_zh": "新闻之后是交通报道，请继续收听。",
+     "ex_ja": "ニュースの後は交通情報です。チャンネルはそのままで。",
+     "parts": [],
+     "note": {
+      "zh": "tune 原指调准频率；短语整体记，不拆词根。",
+      "ja": "tune は周波数を合わせること。句として覚える。"
+     },
+     "forms": [
+      [
+       "stay tuned for…",
+       "敬请关注…",
+       "〜にご期待ください"
+      ],
+      [
+       "tune in (to…)",
+       "收听；收看",
+       "（〜を）視聴する"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 4 广播/播客结尾高频。",
+      "ja": "Part 4 のラジオ・ポッドキャストの締めくくりで頻出。"
+     }
+    },
+    {
+     "w": "final call",
+     "pos": "n.",
+     "ipa": "/ˌfaɪnəl ˈkɔl/",
+     "zh": "最后一次登机广播；最后召集",
+     "ja": "最終案内；最終搭乗案内",
+     "ex": "This is the final call for passengers on Flight 88 to Singapore.",
+     "ex_zh": "这是飞往新加坡的 88 航班的最后一次登机广播。",
+     "ex_ja": "シンガポール行き88便のご搭乗の最終案内です。",
+     "parts": [
+      [
+       "fin",
+       "结束",
+       "終わり"
+      ],
+      [
+       "-al",
+       "形容词后缀",
+       "形容詞を作る"
+      ],
+      [
+       "call",
+       "呼叫",
+       "呼ぶ"
+      ]
+     ],
+     "note": {
+      "zh": "final 来自 fin- 词根“结束”（第 9 天）。",
+      "ja": "final は fin-「終わり」（Day 9）から。"
+     },
+     "forms": [
+      [
+       "last call",
+       "最后召唤；最后点单",
+       "ラストオーダー；最終案内"
+      ],
+      [
+       "final boarding call",
+       "最后登机广播",
+       "最終搭乗案内"
+      ]
+     ]
+    },
+    {
+     "w": "please be advised",
+     "pos": "phr.",
+     "ipa": "/pliz bi ədˈvaɪzd/",
+     "zh": "特此通知；请注意",
+     "ja": "ご承知おきください；お知らせします",
+     "ex": "Please be advised that the east exit will be closed for cleaning.",
+     "ex_zh": "特此通知，东出口因清扫将关闭。",
+     "ex_ja": "東口は清掃のため閉鎖されますのでご了承ください。",
+     "parts": [
+      [
+       "ad-",
+       "向",
+       "〜へ"
+      ],
+      [
+       "vis",
+       "看",
+       "見る"
+      ],
+      [
+       "-e",
+       "词尾",
+       "語尾"
+      ]
+     ],
+     "note": {
+      "zh": "advise 来自 ad- + visum“看”（vis 词根第 5 天）；此处整体作通知套话。",
+      "ja": "advise は ad- ＋ visum「見る」（vis は Day 5）。ここでは通知の決まり文句。"
+     },
+     "forms": [
+      [
+       "Please be advised that…",
+       "特此通知…",
+       "〜ですのでご了承ください"
+      ],
+      [
+       "be advised to do",
+       "被建议做",
+       "〜するよう勧められる"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 4/7 通知开头套话，后面才是重点信息。",
+      "ja": "Part 4/7 の通知の決まり文句。要点はその後に来る。"
+     }
+    },
+    {
+     "w": "concourse",
+     "pos": "n.",
+     "ipa": "/ˈkɑnkɔrs/",
+     "zh": "（车站/机场）大厅；中央广场",
+     "ja": "コンコース；中央通路",
+     "ex": "Food stalls are located on the lower level of the main concourse.",
+     "ex_zh": "小吃摊位于主大厅的下层。",
+     "ex_ja": "軽食の売店はメインコンコースの下の階にある。",
+     "parts": [
+      [
+       "con-",
+       "一起",
+       "共に"
+      ],
+      [
+       "cours",
+       "跑（currere）",
+       "走る（currere）"
+      ],
+      [
+       "-e",
+       "词尾",
+       "語尾"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁 concursus“一起跑来、汇聚”→ 人群汇聚的大厅。",
+      "ja": "ラテン語 concursus「共に走り集まる」→ 人が集まる広間。"
+     },
+     "forms": [
+      [
+       "main concourse",
+       "主大厅",
+       "メインコンコース"
+      ],
+      [
+       "Concourse B",
+       "B 区候机大厅",
+       "B コンコース"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 4 机场广播：Gate 12 in Concourse B。",
+      "ja": "Part 4 空港放送：Gate 12 in Concourse B。"
+     }
+    },
+    {
+     "w": "departure board",
+     "pos": "n.",
+     "ipa": "/dɪˈpɑrtʃɚ ˌbɔrd/",
+     "zh": "出发信息屏",
+     "ja": "出発案内板",
+     "ex": "Please check the departure board for the latest gate information.",
+     "ex_zh": "请查看出发信息屏了解最新登机口信息。",
+     "ex_ja": "最新の搭乗口情報は出発案内板でご確認ください。",
+     "parts": [
+      [
+       "de-",
+       "离开",
+       "離れて"
+      ],
+      [
+       "part",
+       "分开",
+       "分ける"
+      ],
+      [
+       "-ure",
+       "名词后缀",
+       "名詞を作る"
+      ],
+      [
+       "board",
+       "板",
+       "板"
+      ]
+     ],
+     "note": {
+      "zh": "departure 来自 depart（de- + partire“分开”）。",
+      "ja": "departure は depart（de- ＋ partire「分ける」）から。"
+     },
+     "forms": [
+      [
+       "arrivals board",
+       "到达信息屏",
+       "到着案内板"
+      ],
+      [
+       "departure time",
+       "出发时间",
+       "出発時刻"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 1：People are looking at a departure board.",
+      "ja": "Part 1：People are looking at a departure board."
+     }
+    },
+    {
+     "w": "unattended",
+     "pos": "adj.",
+     "ipa": "/ˌʌnəˈtɛndɪd/",
+     "zh": "无人看管的",
+     "ja": "放置された；無人の",
+     "ex": "Unattended bags may be removed by security staff.",
+     "ex_zh": "无人看管的行李可能会被安保人员移走。",
+     "ex_ja": "放置された荷物は警備員が撤去することがあります。",
+     "parts": [
+      [
+       "un-",
+       "不",
+       "〜でない"
+      ],
+      [
+       "at-（ad-）",
+       "向",
+       "〜へ"
+      ],
+      [
+       "tend",
+       "伸向；照看",
+       "伸ばす・世話する"
+      ],
+      [
+       "-ed",
+       "形容词",
+       "形容詞"
+      ]
+     ],
+     "note": {
+      "zh": "attend 来自 ad- + tendere“伸向”（tend 词根第 6 天）。",
+      "ja": "attend は ad- ＋ tendere「〜に向ける」（tend は Day 6）。"
+     },
+     "forms": [
+      [
+       "leave … unattended",
+       "把…放着无人看管",
+       "〜を放置する"
+      ],
+      [
+       "unattended baggage",
+       "无人看管的行李",
+       "放置手荷物"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 4 安全广播必考：Do not leave your belongings unattended.",
+      "ja": "Part 4 の安全放送の定番：Do not leave your belongings unattended."
+     }
+    },
+    {
+     "w": "belongings",
+     "pos": "n.",
+     "ipa": "/bɪˈlɔŋɪŋz/",
+     "zh": "随身物品；财物",
+     "ja": "所持品；持ち物",
+     "ex": "Please take all your belongings with you when leaving the train.",
+     "ex_zh": "下车时请带好所有随身物品。",
+     "ex_ja": "お降りの際はお忘れ物のないようご注意ください。",
+     "parts": [],
+     "note": {
+      "zh": "本族词 belong + -ing + -s，没有拉丁/希腊词根可拆。",
+      "ja": "本来の英語 belong ＋ -ing ＋ -s。ラテン・ギリシャ語根はない。"
+     },
+     "forms": [
+      [
+       "personal belongings",
+       "个人物品",
+       "身の回り品"
+      ],
+      [
+       "belong to…",
+       "属于…",
+       "〜のものである"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 4：Please make sure you have all your belongings.",
+      "ja": "Part 4：Please make sure you have all your belongings."
+     }
+    },
+    {
+     "w": "promptly",
+     "pos": "adv.",
+     "ipa": "/ˈprɑmptli/",
+     "zh": "准时地；迅速地",
+     "ja": "時間どおりに；迅速に",
+     "ex": "The tour will depart promptly at 9 a.m. from the main entrance.",
+     "ex_zh": "旅行团将于上午 9 点准时从正门出发。",
+     "ex_ja": "ツアーは午前9時ちょうどに正面玄関から出発します。",
+     "parts": [
+      [
+       "pro-",
+       "向前",
+       "前へ"
+      ],
+      [
+       "mpt（emere）",
+       "取出",
+       "取り出す"
+      ],
+      [
+       "-ly",
+       "副词后缀",
+       "副詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "prompt 来自拉丁 promptus“取出备用的、现成的”（pro- + emere）。",
+      "ja": "prompt はラテン語 promptus「取り出された、準備のできた」（pro- ＋ emere）から。"
+     },
+     "forms": [
+      [
+       "promptly at 9",
+       "9 点整",
+       "9時ちょうどに"
+      ],
+      [
+       "respond promptly",
+       "迅速回复",
+       "迅速に返答する"
+      ],
+      [
+       "prompt (adj.)",
+       "迅速的",
+       "迅速な"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5：promptly at + 时刻 ＝ 准时。",
+      "ja": "Part 5：promptly at ＋ 時刻 ＝ 時間ちょうどに。"
+     }
+    },
+    {
+     "w": "resume",
+     "pos": "v.",
+     "ipa": "/rɪˈzum/",
+     "zh": "恢复；继续",
+     "ja": "再開する；再び始める",
+     "ex": "Normal train service is expected to resume at around 6 p.m.",
+     "ex_zh": "预计正常列车服务将于下午 6 点左右恢复。",
+     "ex_ja": "通常の運行は午後6時ごろ再開する見込みです。",
+     "parts": [
+      [
+       "re-",
+       "再次",
+       "再び"
+      ],
+      [
+       "sum",
+       "拿取（sumere）",
+       "取る（sumere）"
+      ]
+     ],
+     "note": {
+      "zh": "re- + sumere“拿起”→ 重新开始；sum 词根第 15 天学过。",
+      "ja": "re- ＋ sumere「取る」→ 再び始める。sum は Day 15 で既習。"
+     },
+     "forms": [
+      [
+       "resume operations",
+       "恢复运营",
+       "運転を再開する"
+      ],
+      [
+       "resumption (n.)",
+       "恢复",
+       "再開"
+      ],
+      [
+       "résumé (n.)",
+       "简历",
+       "履歴書"
+      ]
+     ],
+     "tip": {
+      "zh": "⚠️ résumé /ˈrɛzəˌmeɪ/（简历）拼写相同、读音不同。",
+      "ja": "⚠️ résumé /ˈrɛzəˌmeɪ/（履歴書）は綴りが同じで発音が違う。"
+     }
+    }
+   ]
+  }
+ ]
+}

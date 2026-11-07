@@ -2098,3 +2098,63 @@ membership
 restoration
 marble
 bronze
+firm
+confirm
+confirmed
+unconfirmed
+affirm
+reaffirm
+affirmative
+firmly
+profession
+professional
+professionally
+professionalism
+professor
+confess
+confession
+profess
+commute
+commutation
+mutual
+mutually
+mutable
+immutable
+mutation
+transmute
+voluntary
+voluntarily
+involuntary
+volunteer
+volunteerism
+volition
+benevolence
+malevolent
+refrigerator
+microwave
+vacuum cleaner
+washing machine
+dryer
+defective
+serial number
+extended warranty
+voltage
+remote control
+power cord
+adapter
+humidifier
+proof of purchase
+public address
+lost and found
+shortly
+momentarily
+regret
+stay tuned
+final call
+please be advised
+concourse
+departure board
+unattended
+belongings
+promptly
+resume
