@@ -1,0 +1,2812 @@
+{
+ "day": 37,
+ "date": "2026-11-09",
+ "title_zh": "四大词根 + 税务申报与会计、慈善募捐与公益",
+ "title_ja": "4つの語根＋税務申告と会計、慈善・寄付と公益活動",
+ "intro_zh": "今天掌握 4 个高频词根（act 做·行动 / migr 迁移 / urb 城市 / text 编织·文本），再学税务申报与会计、慈善募捐与公益的核心词——强化 Part 5 词性题（activate / activation、proactive / proactively、migrate / migration、taxable / taxation、charity / charitable）和固定搭配（react to、interact with、immigrate to / emigrate from、be exempt from、be dependent on、tax bracket、solicit donations），易混词（urban 与 urbane、context 与 pretext、withhold 与 withholding、dependent 与 independent），Part 1 场景（a worker filling out a form、people lining up at an immigration counter），以及 Part 4 公告（no solicitation、tax filing deadline、data migration this weekend）。",
+ "intro_ja": "今日は語根 4 つ（act 行う・動く／migr 移る／urb 都市／text 織る・文章）と、税務申告と会計、慈善・寄付と公益活動の重要語を学びます。Part 5 の品詞問題（activate / activation、proactive / proactively、migrate / migration、taxable / taxation、charity / charitable）と語法（react to、interact with、immigrate to / emigrate from、be exempt from、be dependent on、tax bracket、solicit donations）、紛らわしい語（urban と urbane、context と pretext、withhold と withholding、dependent と independent）、Part 1 の場面（a worker filling out a form、people lining up at an immigration counter）、Part 4 のお知らせ（no solicitation、tax filing deadline、data migration this weekend）を強化します。",
+ "voice": "en-US-AriaNeural",
+ "roots": [
+  {
+   "root": "-act- / -ag-",
+   "origin": "Latin agere, actus",
+   "zh": "做；行动",
+   "ja": "行う；動く",
+   "exp_zh": "来自拉丁语 agere（做、推动）及其过去分词 actus。启动 → activate / deactivate；反过来做 → react / reaction；相互作用 → interact / interaction；先行动 → proactive；不活动 → inactive。⚠️ act 的核心是“做”，别和 action 的 -tion 后缀混在一起拆。",
+   "exp_ja": "ラテン語 agere（行う・動かす）とその過去分詞 actus から。作動させる → activate／deactivate；逆に行う → react／reaction；互いに作用 → interact／interaction；先に動く → proactive；活動しない → inactive。⚠️ act の核心は「行う」。",
+   "examples": [
+    "activate",
+    "deactivate",
+    "react",
+    "reaction",
+    "interact",
+    "interaction",
+    "proactive",
+    "inactive"
+   ]
+  },
+  {
+   "root": "-migr-",
+   "origin": "Latin migrare",
+   "zh": "迁移；移动",
+   "ja": "移る；移動する",
+   "exp_zh": "来自拉丁语 migrare（迁移）。迁往 → migrate / migration；迁移的人 → migrant；迁入 → immigrate / immigration / immigrant（im- = in-）；迁出 → emigrate / emigrant（e- = ex-）。⚠️ immigrate to 指移入，emigrate from 指移出。",
+   "exp_ja": "ラテン語 migrare（移る）から。移る → migrate／migration；移動する人 → migrant；入ってくる → immigrate／immigration／immigrant（im- = in-）；出ていく → emigrate／emigrant（e- = ex-）。⚠️ immigrate to は入る側、emigrate from は出る側。",
+   "examples": [
+    "migrate",
+    "migration",
+    "migrant",
+    "immigrate",
+    "immigration",
+    "immigrant",
+    "emigrate",
+    "emigrant"
+   ]
+  },
+  {
+   "root": "-urb-",
+   "origin": "Latin urbs",
+   "zh": "城市",
+   "ja": "都市",
+   "exp_zh": "来自拉丁语 urbs（城市）。城市的 → urban；靠近城市（sub- 靠近）→ suburb / suburban / suburbia；城市之间（inter-）→ interurban；使城市化 → urbanize / urbanization；有城里人风度 → urbane。⚠️ urbane（文雅）与 urban（城市的）形近义异。",
+   "exp_ja": "ラテン語 urbs（都市）から。都市の → urban；都市の近く（sub- 近く）→ suburb／suburban／suburbia；都市間（inter-）→ interurban；都市化する → urbanize／urbanization；都会人らしい → urbane。⚠️ urbane（洗練された）と urban（都市の）は紛らわしい。",
+   "examples": [
+    "urban",
+    "suburb",
+    "suburban",
+    "urbanization",
+    "urbanize",
+    "interurban",
+    "urbane",
+    "suburbia"
+   ]
+  },
+  {
+   "root": "-text-",
+   "origin": "Latin texere, textus",
+   "zh": "编织；文本",
+   "ja": "織る；文章",
+   "exp_zh": "来自拉丁语 texere（编织），过去分词 textus（织成物 → 文章）。文章 → text / textual；交织在一起的前后文 → context / contextual；织物的质感 → texture / textured；事先织在前面的说辞 → pretext；文字之下的意思 → subtext。⚠️ textile（纺织品）同源，已学。",
+   "exp_ja": "ラテン語 texere（織る）、過去分詞 textus（織られたもの → 文章）から。文章 → text／textual；織り合わさった前後の文 → context／contextual；織物の質感 → texture／textured；前に織りつけた言い分 → pretext；文章の下の意味 → subtext。⚠️ textile（織物）も同源（学習済み）。",
+   "examples": [
+    "text",
+    "textual",
+    "context",
+    "contextual",
+    "texture",
+    "textured",
+    "pretext",
+    "subtext"
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "act",
+   "title_zh": "词根 -act- / -ag-：做；行动",
+   "title_ja": "語根 -act- / -ag-：行う；動く",
+   "words": [
+    {
+     "w": "activate",
+     "pos": "v.",
+     "ipa": "/ˈæktɪˌveɪt/",
+     "zh": "启用；激活；使开始运作",
+     "ja": "有効にする；起動する；作動させる",
+     "ex": "Please activate your account within 24 hours of receiving this e-mail.",
+     "ex_zh": "请在收到此邮件后 24 小时内激活您的账户。",
+     "ex_ja": "このメールを受け取ってから 24 時間以内にアカウントを有効にしてください。",
+     "parts": [
+      [
+       "act",
+       "做；行动（actus）",
+       "行う（actus）"
+      ],
+      [
+       "-ate",
+       "动词后缀",
+       "動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "act“做”+ -ate 变动词 → 使行动起来 → 启用。",
+      "ja": "act「行う」＋ -ate（動詞化）→ 動かす → 有効にする。"
+     },
+     "forms": [
+      [
+       "activate a card",
+       "激活卡片",
+       "カードを有効にする"
+      ],
+      [
+       "activation (n.)",
+       "激活",
+       "有効化"
+      ],
+      [
+       "active (adj.)",
+       "活跃的",
+       "活発な"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5：activate（动）/ activation（名）词性题常见。",
+      "ja": "Part 5：activate（動）／activation（名）の品詞問題が定番。"
+     }
+    },
+    {
+     "w": "deactivate",
+     "pos": "v.",
+     "ipa": "/diˈæktɪˌveɪt/",
+     "zh": "停用；使失效；注销",
+     "ja": "無効にする；停止する",
+     "ex": "Customers may deactivate the service at any time without a fee.",
+     "ex_zh": "客户可随时停用该服务，无需付费。",
+     "ex_ja": "お客様は手数料なしでいつでもサービスを停止できます。",
+     "parts": [
+      [
+       "de-",
+       "取消；去除",
+       "取り消す"
+      ],
+      [
+       "act",
+       "行动（actus）",
+       "行う（actus）"
+      ],
+      [
+       "-ate",
+       "动词后缀",
+       "動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "de-（取消）+ activate → 使不再运作。",
+      "ja": "de-（取り消し）＋ activate → 作動しなくする。"
+     },
+     "forms": [
+      [
+       "deactivate an account",
+       "停用账户",
+       "アカウントを無効にする"
+      ],
+      [
+       "deactivation (n.)",
+       "停用",
+       "無効化"
+      ],
+      [
+       "reactivate (v.)",
+       "重新启用",
+       "再び有効にする"
+      ]
+     ]
+    },
+    {
+     "w": "react",
+     "pos": "v.",
+     "ipa": "/riˈækt/",
+     "zh": "反应；回应；作出反应",
+     "ja": "反応する；対応する",
+     "ex": "Investors reacted calmly to the announcement of the merger.",
+     "ex_zh": "投资者对合并的公告反应平静。",
+     "ex_ja": "投資家は合併の発表に冷静に反応した。",
+     "parts": [
+      [
+       "re-",
+       "回；反",
+       "返す・反対に"
+      ],
+      [
+       "act",
+       "行动（actus）",
+       "行う（actus）"
+      ]
+     ],
+     "note": {
+      "zh": "re-（回）+ act（行动）→ 对刺激作出回应。",
+      "ja": "re-（返す）＋ act（行う）→ 刺激に対して動き返す。"
+     },
+     "forms": [
+      [
+       "react to",
+       "对……作出反应",
+       "〜に反応する"
+      ],
+      [
+       "react quickly",
+       "迅速反应",
+       "素早く対応する"
+      ],
+      [
+       "reactive (adj.)",
+       "被动反应的",
+       "受け身の・反応的な"
+      ]
+     ],
+     "tip": {
+      "zh": "react 后接 to，不直接接宾语。",
+      "ja": "react の後ろは to。直接目的語は取らない。"
+     }
+    },
+    {
+     "w": "reaction",
+     "pos": "n.",
+     "ipa": "/riˈækʃən/",
+     "zh": "反应；反响；回应",
+     "ja": "反応；反響",
+     "ex": "The initial reaction to the new logo was overwhelmingly positive.",
+     "ex_zh": "新标志最初得到的反响是压倒性的好评。",
+     "ex_ja": "新しいロゴへの最初の反応は圧倒的に好意的だった。",
+     "parts": [
+      [
+       "react",
+       "作出反应",
+       "反応する"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "react 加 -ion 变名词。",
+      "ja": "react に -ion を付けて名詞に。"
+     },
+     "forms": [
+      [
+       "reaction to",
+       "对……的反应",
+       "〜への反応"
+      ],
+      [
+       "customer reaction",
+       "客户反响",
+       "顧客の反応"
+      ],
+      [
+       "a quick reaction",
+       "快速反应",
+       "素早い反応"
+      ]
+     ]
+    },
+    {
+     "w": "interact",
+     "pos": "v.",
+     "ipa": "/ˌɪntɚˈækt/",
+     "zh": "互动；相互作用；交流",
+     "ja": "交流する；相互に作用する",
+     "ex": "Staff members interact with customers directly at the front desk.",
+     "ex_zh": "工作人员在前台直接与客户互动。",
+     "ex_ja": "スタッフは受付で顧客と直接やり取りする。",
+     "parts": [
+      [
+       "inter-",
+       "在……之间；相互",
+       "〜の間・相互に"
+      ],
+      [
+       "act",
+       "行动（actus）",
+       "行う（actus）"
+      ]
+     ],
+     "note": {
+      "zh": "inter-（相互）+ act（行动）→ 彼此作用。",
+      "ja": "inter-（相互に）＋ act（行う）→ 互いに働きかける。"
+     },
+     "forms": [
+      [
+       "interact with",
+       "与……互动",
+       "〜と交流する"
+      ],
+      [
+       "interaction (n.)",
+       "互动",
+       "交流・相互作用"
+      ],
+      [
+       "interactive (adj.)",
+       "交互式的",
+       "双方向の"
+      ]
+     ],
+     "tip": {
+      "zh": "interact with 是固定搭配；interaction 常作不可数名词。",
+      "ja": "interact with が決まった形。interaction は不可算で使われることが多い。"
+     }
+    },
+    {
+     "w": "interaction",
+     "pos": "n.",
+     "ipa": "/ˌɪntɚˈækʃən/",
+     "zh": "互动；交流；相互作用",
+     "ja": "交流；やり取り；相互作用",
+     "ex": "Regular interaction between departments improves overall efficiency.",
+     "ex_zh": "部门之间的定期交流提高了整体效率。",
+     "ex_ja": "部署間の定期的なやり取りが全体の効率を高める。",
+     "parts": [
+      [
+       "inter-",
+       "相互",
+       "相互に"
+      ],
+      [
+       "act",
+       "行动（actus）",
+       "行う（actus）"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "interact 的名词形式。",
+      "ja": "interact の名詞形。"
+     },
+     "forms": [
+      [
+       "customer interaction",
+       "客户互动",
+       "顧客とのやり取り"
+      ],
+      [
+       "social interaction",
+       "社交互动",
+       "社会的交流"
+      ],
+      [
+       "interact (v.)",
+       "互动",
+       "交流する"
+      ]
+     ]
+    },
+    {
+     "w": "proactive",
+     "pos": "adj.",
+     "ipa": "/proʊˈæktɪv/",
+     "zh": "积极主动的；先发制人的",
+     "ja": "積極的な；先を見越した",
+     "ex": "We need a proactive approach to preventing customer complaints.",
+     "ex_zh": "我们需要以主动的方式来预防客户投诉。",
+     "ex_ja": "顧客の苦情を防ぐには、先手を打つ取り組みが必要だ。",
+     "parts": [
+      [
+       "pro-",
+       "向前；预先",
+       "前へ・前もって"
+      ],
+      [
+       "act",
+       "行动（actus）",
+       "行う（actus）"
+      ],
+      [
+       "-ive",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "pro-（预先）+ act + -ive → 事先就行动的。",
+      "ja": "pro-（前もって）＋ act ＋ -ive → 先に動く。"
+     },
+     "forms": [
+      [
+       "a proactive approach",
+       "主动的方法",
+       "先を見越した取り組み"
+      ],
+      [
+       "proactively (adv.)",
+       "主动地",
+       "積極的に"
+      ],
+      [
+       "reactive (adj.)",
+       "被动应对的",
+       "受け身の"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5：proactive / proactively 词性辨析。",
+      "ja": "Part 5：proactive／proactively の品詞の見分け。"
+     }
+    },
+    {
+     "w": "inactive",
+     "pos": "adj.",
+     "ipa": "/ɪnˈæktɪv/",
+     "zh": "不活跃的；闲置的；未启用的",
+     "ja": "活動していない；休眠中の",
+     "ex": "Inactive accounts will be closed after twelve months.",
+     "ex_zh": "闲置账户将在十二个月后被关闭。",
+     "ex_ja": "利用のないアカウントは 12 か月後に閉鎖されます。",
+     "parts": [
+      [
+       "in-",
+       "不；无",
+       "〜でない"
+      ],
+      [
+       "act",
+       "行动（actus）",
+       "行う（actus）"
+      ],
+      [
+       "-ive",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "in-（不）+ active → 不活跃。",
+      "ja": "in-（否定）＋ active → 活動していない。"
+     },
+     "forms": [
+      [
+       "an inactive account",
+       "闲置账户",
+       "休眠アカウント"
+      ],
+      [
+       "inactivity (n.)",
+       "不活动",
+       "活動のなさ"
+      ],
+      [
+       "active (adj.)",
+       "活跃的",
+       "活発な"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "migr",
+   "title_zh": "词根 -migr-：迁移",
+   "title_ja": "語根 -migr-：移る",
+   "words": [
+    {
+     "w": "migrate",
+     "pos": "v.",
+     "ipa": "/ˈmaɪˌɡreɪt/",
+     "zh": "迁移；迁徙；迁移（数据）",
+     "ja": "移住する；移動する；移行する",
+     "ex": "The IT team will migrate all files to the new server this weekend.",
+     "ex_zh": "IT 团队本周末会把所有文件迁移到新服务器。",
+     "ex_ja": "IT チームは今週末、すべてのファイルを新サーバーへ移行する。",
+     "parts": [
+      [
+       "migr",
+       "移动（migrare）",
+       "移る（migrare）"
+      ],
+      [
+       "-ate",
+       "动词后缀",
+       "動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "来自拉丁语 migrare“迁移”。",
+      "ja": "ラテン語 migrare「移る」から。"
+     },
+     "forms": [
+      [
+       "migrate to",
+       "迁移到",
+       "〜へ移行する"
+      ],
+      [
+       "migrate data",
+       "迁移数据",
+       "データを移行する"
+      ],
+      [
+       "migration (n.)",
+       "迁移",
+       "移行"
+      ]
+     ]
+    },
+    {
+     "w": "migration",
+     "pos": "n.",
+     "ipa": "/maɪˈɡreɪʃən/",
+     "zh": "迁移；移居；（系统）迁移",
+     "ja": "移住；移動；移行",
+     "ex": "The data migration is scheduled to finish by Friday evening.",
+     "ex_zh": "数据迁移预计在周五晚上之前完成。",
+     "ex_ja": "データの移行は金曜の夕方までに完了する予定だ。",
+     "parts": [
+      [
+       "migr",
+       "移动",
+       "移る"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "migrate 的名词形式。",
+      "ja": "migrate の名詞形。"
+     },
+     "forms": [
+      [
+       "data migration",
+       "数据迁移",
+       "データ移行"
+      ],
+      [
+       "mass migration",
+       "大规模迁移",
+       "大規模な移動"
+      ],
+      [
+       "migrate (v.)",
+       "迁移",
+       "移行する"
+      ]
+     ]
+    },
+    {
+     "w": "migrant",
+     "pos": "n./adj.",
+     "ipa": "/ˈmaɪɡrənt/",
+     "zh": "移居者；流动工人；迁徙的",
+     "ja": "移住者；出稼ぎ労働者；移動する",
+     "ex": "Many migrant workers take seasonal jobs in the farming industry.",
+     "ex_zh": "许多流动工人在农业领域做季节性工作。",
+     "ex_ja": "多くの出稼ぎ労働者が農業で季節労働に就いている。",
+     "parts": [
+      [
+       "migr",
+       "移动",
+       "移る"
+      ],
+      [
+       "-ant",
+       "表示人/物",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "migr + -ant → 移动的人。",
+      "ja": "migr ＋ -ant → 移動する人。"
+     },
+     "forms": [
+      [
+       "migrant worker",
+       "流动工人",
+       "出稼ぎ労働者"
+      ],
+      [
+       "migrant labor",
+       "流动劳动力",
+       "移動労働"
+      ],
+      [
+       "migratory (adj.)",
+       "迁徙的",
+       "移動性の"
+      ]
+     ]
+    },
+    {
+     "w": "immigrate",
+     "pos": "v.",
+     "ipa": "/ˈɪməˌɡreɪt/",
+     "zh": "移入；移民（入境）",
+     "ja": "移住してくる；入国して定住する",
+     "ex": "Her parents immigrated to Canada in the early 1990s.",
+     "ex_zh": "她的父母在 1990 年代初移民到了加拿大。",
+     "ex_ja": "彼女の両親は 1990 年代初めにカナダへ移住した。",
+     "parts": [
+      [
+       "im-",
+       "进入（in-）",
+       "中へ"
+      ],
+      [
+       "migr",
+       "移动",
+       "移る"
+      ],
+      [
+       "-ate",
+       "动词后缀",
+       "動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "im-（进入）+ migrate → 迁入。",
+      "ja": "im-（中へ）＋ migrate → 移り入る。"
+     },
+     "forms": [
+      [
+       "immigrate to",
+       "移民到",
+       "〜へ移住する"
+      ],
+      [
+       "immigrant (n.)",
+       "移民",
+       "移民"
+      ],
+      [
+       "emigrate from",
+       "从……移出",
+       "〜から移住する"
+      ]
+     ],
+     "tip": {
+      "zh": "immigrate to 指移入；emigrate from 指移出。",
+      "ja": "immigrate to は入る側、emigrate from は出る側。"
+     }
+    },
+    {
+     "w": "immigration",
+     "pos": "n.",
+     "ipa": "/ˌɪməˈɡreɪʃən/",
+     "zh": "移民；入境管理；出入境检查",
+     "ja": "移民；入国管理；入管",
+     "ex": "Passengers must go through immigration before collecting their baggage.",
+     "ex_zh": "乘客须先通过入境检查再提取行李。",
+     "ex_ja": "乗客は手荷物を受け取る前に入国審査を通らなければならない。",
+     "parts": [
+      [
+       "im-",
+       "进入",
+       "中へ"
+      ],
+      [
+       "migr",
+       "移动",
+       "移る"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "immigrate 的名词形式。",
+      "ja": "immigrate の名詞形。"
+     },
+     "forms": [
+      [
+       "immigration officer",
+       "入境官员",
+       "入国審査官"
+      ],
+      [
+       "go through immigration",
+       "通过入境检查",
+       "入国審査を受ける"
+      ],
+      [
+       "immigrate (v.)",
+       "移民",
+       "移住する"
+      ]
+     ]
+    },
+    {
+     "w": "immigrant",
+     "pos": "n.",
+     "ipa": "/ˈɪməɡrənt/",
+     "zh": "移民（入境者）",
+     "ja": "移民（入国者）",
+     "ex": "The restaurant was founded by an immigrant from Vietnam.",
+     "ex_zh": "这家餐厅由一位越南移民创办。",
+     "ex_ja": "そのレストランはベトナムからの移民が創業した。",
+     "parts": [
+      [
+       "im-",
+       "进入",
+       "中へ"
+      ],
+      [
+       "migr",
+       "移动",
+       "移る"
+      ],
+      [
+       "-ant",
+       "表示人",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "immigrate 的人称名词。",
+      "ja": "immigrate の人を表す名詞。"
+     },
+     "forms": [
+      [
+       "immigrant community",
+       "移民社区",
+       "移民コミュニティ"
+      ],
+      [
+       "immigrant workers",
+       "移民工人",
+       "移民労働者"
+      ],
+      [
+       "emigrant (n.)",
+       "移出者",
+       "国外移住者"
+      ]
+     ]
+    },
+    {
+     "w": "emigrate",
+     "pos": "v.",
+     "ipa": "/ˈɛməˌɡreɪt/",
+     "zh": "移居国外；移出",
+     "ja": "国外へ移住する",
+     "ex": "Thousands of engineers emigrated in search of better pay.",
+     "ex_zh": "成千上万的工程师为了更高的薪水移居国外。",
+     "ex_ja": "何千人ものエンジニアがより良い給与を求めて国外へ移住した。",
+     "parts": [
+      [
+       "e-",
+       "向外（ex-）",
+       "外へ"
+      ],
+      [
+       "migr",
+       "移动",
+       "移る"
+      ],
+      [
+       "-ate",
+       "动词后缀",
+       "動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "e-（向外）+ migrate → 迁出。",
+      "ja": "e-（外へ）＋ migrate → 移り出る。"
+     },
+     "forms": [
+      [
+       "emigrate from",
+       "从……移出",
+       "〜から出国して移住する"
+      ],
+      [
+       "emigration (n.)",
+       "移出",
+       "出国移住"
+      ],
+      [
+       "immigrate (v.)",
+       "移入",
+       "移住してくる"
+      ]
+     ]
+    },
+    {
+     "w": "emigrant",
+     "pos": "n.",
+     "ipa": "/ˈɛməɡrənt/",
+     "zh": "移居国外者；侨民",
+     "ja": "国外移住者",
+     "ex": "The museum tells the story of Japanese emigrants to Brazil.",
+     "ex_zh": "这座博物馆讲述了前往巴西的日本移民的故事。",
+     "ex_ja": "その博物館は、ブラジルへ渡った日本人移民の物語を伝えている。",
+     "parts": [
+      [
+       "e-",
+       "向外",
+       "外へ"
+      ],
+      [
+       "migr",
+       "移动",
+       "移る"
+      ],
+      [
+       "-ant",
+       "表示人",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "emigrate 的人称名词。",
+      "ja": "emigrate の人を表す名詞。"
+     },
+     "forms": [
+      [
+       "emigrant ship",
+       "移民船",
+       "移民船"
+      ],
+      [
+       "emigrate (v.)",
+       "移出",
+       "国外へ移住する"
+      ],
+      [
+       "immigrant (n.)",
+       "移入的移民",
+       "移民"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "urb",
+   "title_zh": "词根 -urb-：城市",
+   "title_ja": "語根 -urb-：都市",
+   "words": [
+    {
+     "w": "urban",
+     "pos": "adj.",
+     "ipa": "/ˈɝbən/",
+     "zh": "城市的；都市的",
+     "ja": "都市の；都会の",
+     "ex": "The company plans to open ten stores in urban areas next year.",
+     "ex_zh": "公司计划明年在城市地区开设十家门店。",
+     "ex_ja": "同社は来年、都市部に 10 店舗を出す計画だ。",
+     "parts": [
+      [
+       "urb",
+       "城市（urbs）",
+       "都市（urbs）"
+      ],
+      [
+       "-an",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "来自拉丁语 urbs“城市”。",
+      "ja": "ラテン語 urbs「都市」から。"
+     },
+     "forms": [
+      [
+       "urban area",
+       "城市地区",
+       "都市部"
+      ],
+      [
+       "urban planning",
+       "城市规划",
+       "都市計画"
+      ],
+      [
+       "rural (adj.)",
+       "乡村的",
+       "田舎の"
+      ]
+     ],
+     "tip": {
+      "zh": "urban 与 rural 常成对出现。",
+      "ja": "urban と rural はよく対で出る。"
+     }
+    },
+    {
+     "w": "suburb",
+     "pos": "n.",
+     "ipa": "/ˈsʌbɝb/",
+     "zh": "郊区；市郊",
+     "ja": "郊外；ベッドタウン",
+     "ex": "Many commuters live in a suburb of Tokyo and take the train to work.",
+     "ex_zh": "许多通勤者住在东京郊区，乘电车上班。",
+     "ex_ja": "多くの通勤者は東京の郊外に住み、電車で通勤している。",
+     "parts": [
+      [
+       "sub-",
+       "在……下；靠近",
+       "下・近く"
+      ],
+      [
+       "urb",
+       "城市",
+       "都市"
+      ]
+     ],
+     "note": {
+      "zh": "sub-（靠近）+ urb（城市）→ 城市边缘。",
+      "ja": "sub-（近く）＋ urb（都市）→ 都市の周辺。"
+     },
+     "forms": [
+      [
+       "in the suburbs",
+       "在郊区",
+       "郊外で"
+      ],
+      [
+       "suburban (adj.)",
+       "郊区的",
+       "郊外の"
+      ],
+      [
+       "suburbia (n.)",
+       "郊区生活",
+       "郊外の暮らし"
+      ]
+     ]
+    },
+    {
+     "w": "suburban",
+     "pos": "adj.",
+     "ipa": "/səˈbɝbən/",
+     "zh": "郊区的；近郊的",
+     "ja": "郊外の；近郊の",
+     "ex": "The new shopping center is designed for suburban families.",
+     "ex_zh": "新购物中心是为郊区家庭设计的。",
+     "ex_ja": "新しいショッピングセンターは郊外の家族向けに設計されている。",
+     "parts": [
+      [
+       "sub-",
+       "靠近",
+       "近く"
+      ],
+      [
+       "urb",
+       "城市",
+       "都市"
+      ],
+      [
+       "-an",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "suburb 的形容词形式。",
+      "ja": "suburb の形容詞形。"
+     },
+     "forms": [
+      [
+       "suburban area",
+       "郊区",
+       "郊外地域"
+      ],
+      [
+       "suburban railway",
+       "市郊铁路",
+       "郊外鉄道"
+      ],
+      [
+       "suburb (n.)",
+       "郊区",
+       "郊外"
+      ]
+     ]
+    },
+    {
+     "w": "urbanization",
+     "pos": "n.",
+     "ipa": "/ˌɝbənɪˈzeɪʃən/",
+     "zh": "城市化；都市化",
+     "ja": "都市化",
+     "ex": "Rapid urbanization has increased demand for public transportation.",
+     "ex_zh": "快速的城市化增加了对公共交通的需求。",
+     "ex_ja": "急速な都市化により、公共交通の需要が高まっている。",
+     "parts": [
+      [
+       "urban",
+       "城市的",
+       "都市の"
+      ],
+      [
+       "-ize",
+       "使……化",
+       "〜化する"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "urban + -ize（化）+ -ation（名词）。",
+      "ja": "urban ＋ -ize（〜化）＋ -ation（名詞）。"
+     },
+     "forms": [
+      [
+       "rapid urbanization",
+       "快速城市化",
+       "急速な都市化"
+      ],
+      [
+       "urbanize (v.)",
+       "使城市化",
+       "都市化する"
+      ],
+      [
+       "urbanized (adj.)",
+       "城市化的",
+       "都市化された"
+      ]
+     ]
+    },
+    {
+     "w": "urbanize",
+     "pos": "v.",
+     "ipa": "/ˈɝbəˌnaɪz/",
+     "zh": "使城市化；使都市化",
+     "ja": "都市化する",
+     "ex": "Farmland near the station was urbanized within a decade.",
+     "ex_zh": "车站附近的农田在十年内被城市化了。",
+     "ex_ja": "駅近くの農地は 10 年足らずで都市化された。",
+     "parts": [
+      [
+       "urban",
+       "城市的",
+       "都市の"
+      ],
+      [
+       "-ize",
+       "使……化",
+       "〜化する"
+      ]
+     ],
+     "note": {
+      "zh": "urban + -ize → 使成为城市。",
+      "ja": "urban ＋ -ize → 都市にする。"
+     },
+     "forms": [
+      [
+       "urbanized area",
+       "城市化地区",
+       "都市化地域"
+      ],
+      [
+       "urbanization (n.)",
+       "城市化",
+       "都市化"
+      ],
+      [
+       "urban (adj.)",
+       "城市的",
+       "都市の"
+      ]
+     ]
+    },
+    {
+     "w": "interurban",
+     "pos": "adj.",
+     "ipa": "/ˌɪntɚˈɝbən/",
+     "zh": "城市之间的；城际的",
+     "ja": "都市間の",
+     "ex": "The interurban bus connects the two cities every thirty minutes.",
+     "ex_zh": "城际巴士每三十分钟连接两座城市一次。",
+     "ex_ja": "都市間バスは 30 分おきに二つの都市を結んでいる。",
+     "parts": [
+      [
+       "inter-",
+       "在……之间",
+       "〜の間"
+      ],
+      [
+       "urb",
+       "城市",
+       "都市"
+      ],
+      [
+       "-an",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "inter-（之间）+ urban → 城市之间。",
+      "ja": "inter-（間）＋ urban → 都市と都市の間。"
+     },
+     "forms": [
+      [
+       "interurban bus",
+       "城际巴士",
+       "都市間バス"
+      ],
+      [
+       "interurban rail",
+       "城际铁路",
+       "都市間鉄道"
+      ],
+      [
+       "urban (adj.)",
+       "城市的",
+       "都市の"
+      ]
+     ]
+    },
+    {
+     "w": "urbane",
+     "pos": "adj.",
+     "ipa": "/ɝˈbeɪn/",
+     "zh": "文雅的；彬彬有礼的；老练的",
+     "ja": "洗練された；都会的で上品な",
+     "ex": "The urbane host welcomed each guest with a warm handshake.",
+     "ex_zh": "文雅的主人以热情的握手迎接每位宾客。",
+     "ex_ja": "洗練された主催者は、温かい握手で一人ひとりの客を迎えた。",
+     "parts": [
+      [
+       "urb",
+       "城市（urbs）",
+       "都市（urbs）"
+      ],
+      [
+       "-ane",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "urbs“城市”→ 有城里人的风度。⚠️ 与 urban 拼写相近但意思不同，别混淆。",
+      "ja": "urbs「都市」→ 都会人らしい物腰。⚠️ urban と綴りが近いが意味は違う。"
+     },
+     "forms": [
+      [
+       "an urbane manner",
+       "优雅的举止",
+       "洗練された物腰"
+      ],
+      [
+       "urbanity (n.)",
+       "文雅",
+       "洗練"
+      ],
+      [
+       "urban (adj.)",
+       "城市的",
+       "都市の"
+      ]
+     ],
+     "tip": {
+      "zh": "urbane 是“文雅”，urban 才是“城市的”。",
+      "ja": "urbane は「洗練された」、urban が「都市の」。"
+     }
+    },
+    {
+     "w": "suburbia",
+     "pos": "n.",
+     "ipa": "/səˈbɝbiə/",
+     "zh": "郊区；郊区居民及其生活方式",
+     "ja": "郊外（の生活・住民）",
+     "ex": "The brand's advertising targets families in suburbia.",
+     "ex_zh": "该品牌的广告面向郊区的家庭。",
+     "ex_ja": "そのブランドの広告は、郊外の家族を対象にしている。",
+     "parts": [
+      [
+       "sub-",
+       "靠近",
+       "近く"
+      ],
+      [
+       "urb",
+       "城市",
+       "都市"
+      ],
+      [
+       "-ia",
+       "表示地区/状态",
+       "地域・状態を表す"
+      ]
+     ],
+     "note": {
+      "zh": "suburb + -ia → 郊区这一地带及生活。",
+      "ja": "suburb ＋ -ia → 郊外という地域・暮らし。"
+     },
+     "forms": [
+      [
+       "life in suburbia",
+       "郊区生活",
+       "郊外の暮らし"
+      ],
+      [
+       "suburb (n.)",
+       "郊区",
+       "郊外"
+      ],
+      [
+       "suburban (adj.)",
+       "郊区的",
+       "郊外の"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "text",
+   "title_zh": "词根 -text-：编织；文本",
+   "title_ja": "語根 -text-：織る；文章",
+   "words": [
+    {
+     "w": "text",
+     "pos": "n./v.",
+     "ipa": "/tɛkst/",
+     "zh": "文本；正文；短信；发短信",
+     "ja": "文章；本文；テキスト；テキストメッセージ（を送る）",
+     "ex": "Please send me the final text of the brochure by noon.",
+     "ex_zh": "请在中午前把宣传册的最终文本发给我。",
+     "ex_ja": "パンフレットの最終原稿を正午までに送ってください。",
+     "parts": [
+      [
+       "text",
+       "编织（texere）",
+       "織る（texere）"
+      ]
+     ],
+     "note": {
+      "zh": "来自拉丁语 texere“编织”，文字像织成的布。",
+      "ja": "ラテン語 texere「織る」から。文章は織物のようにつづられる。"
+     },
+     "forms": [
+      [
+       "text message",
+       "短信",
+       "テキストメッセージ"
+      ],
+      [
+       "body text",
+       "正文",
+       "本文"
+      ],
+      [
+       "textual (adj.)",
+       "文本的",
+       "文章の"
+      ]
+     ]
+    },
+    {
+     "w": "textual",
+     "pos": "adj.",
+     "ipa": "/ˈtɛkstʃuəl/",
+     "zh": "文本的；原文的",
+     "ja": "文章の；テキストの",
+     "ex": "The editor made several textual corrections before printing.",
+     "ex_zh": "编辑在印刷前做了几处文本修改。",
+     "ex_ja": "編集者は印刷前に何か所か本文の修正を行った。",
+     "parts": [
+      [
+       "text",
+       "文本",
+       "文章"
+      ],
+      [
+       "-ual",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "text + -ual → 与文本有关的。",
+      "ja": "text ＋ -ual → 文章に関する。"
+     },
+     "forms": [
+      [
+       "textual error",
+       "文字错误",
+       "文章の誤り"
+      ],
+      [
+       "textual analysis",
+       "文本分析",
+       "テキスト分析"
+      ],
+      [
+       "text (n.)",
+       "文本",
+       "文章"
+      ]
+     ]
+    },
+    {
+     "w": "context",
+     "pos": "n.",
+     "ipa": "/ˈkɑntɛkst/",
+     "zh": "上下文；背景；来龙去脉",
+     "ja": "文脈；背景；状況",
+     "ex": "Without more context, it is hard to understand the customer's request.",
+     "ex_zh": "没有更多背景信息，很难理解客户的要求。",
+     "ex_ja": "もっと背景がないと、顧客の要望は理解しにくい。",
+     "parts": [
+      [
+       "con-",
+       "一起",
+       "共に"
+      ],
+      [
+       "text",
+       "编织",
+       "織る"
+      ]
+     ],
+     "note": {
+      "zh": "con-（一起）+ text（编织）→ 交织在一起的前后文。",
+      "ja": "con-（共に）＋ text（織る）→ 織り合わさった前後の文。"
+     },
+     "forms": [
+      [
+       "in this context",
+       "在这种背景下",
+       "この文脈では"
+      ],
+      [
+       "out of context",
+       "断章取义",
+       "文脈を無視して"
+      ],
+      [
+       "contextual (adj.)",
+       "上下文的",
+       "文脈上の"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 7 同义词题：靠 context 判断词义。",
+      "ja": "Part 7 の同義語問題は context で意味を判断する。"
+     }
+    },
+    {
+     "w": "contextual",
+     "pos": "adj.",
+     "ipa": "/kənˈtɛkstʃuəl/",
+     "zh": "上下文的；与背景相关的",
+     "ja": "文脈上の；状況に応じた",
+     "ex": "The tool provides contextual help while you fill in the form.",
+     "ex_zh": "该工具在您填写表格时提供与情境相关的帮助。",
+     "ex_ja": "このツールは、フォーム入力中に状況に応じたヘルプを表示する。",
+     "parts": [
+      [
+       "con-",
+       "一起",
+       "共に"
+      ],
+      [
+       "text",
+       "编织",
+       "織る"
+      ],
+      [
+       "-ual",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "context 的形容词形式。",
+      "ja": "context の形容詞形。"
+     },
+     "forms": [
+      [
+       "contextual clues",
+       "上下文线索",
+       "文脈上の手がかり"
+      ],
+      [
+       "contextual help",
+       "情境帮助",
+       "状況別ヘルプ"
+      ],
+      [
+       "context (n.)",
+       "上下文",
+       "文脈"
+      ]
+     ]
+    },
+    {
+     "w": "texture",
+     "pos": "n.",
+     "ipa": "/ˈtɛkstʃɚ/",
+     "zh": "质地；手感；口感",
+     "ja": "質感；手触り；食感",
+     "ex": "The fabric has a soft texture that customers love.",
+     "ex_zh": "这种面料质地柔软，深受顾客喜爱。",
+     "ex_ja": "その生地は柔らかな手触りで、顧客に好評だ。",
+     "parts": [
+      [
+       "text",
+       "编织",
+       "織る"
+      ],
+      [
+       "-ure",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "来自织物的“编织状态”→ 质地。",
+      "ja": "織物の「織り方」→ 質感。"
+     },
+     "forms": [
+      [
+       "a smooth texture",
+       "光滑的质地",
+       "なめらかな質感"
+      ],
+      [
+       "fabric texture",
+       "布料质地",
+       "生地の質感"
+      ],
+      [
+       "textured (adj.)",
+       "有质感的",
+       "質感のある"
+      ]
+     ]
+    },
+    {
+     "w": "textured",
+     "pos": "adj.",
+     "ipa": "/ˈtɛkstʃɚd/",
+     "zh": "有纹理的；有质感的",
+     "ja": "質感のある；凹凸のある",
+     "ex": "The walls are covered with textured wallpaper in the lobby.",
+     "ex_zh": "大堂的墙面贴着有纹理的壁纸。",
+     "ex_ja": "ロビーの壁は凹凸のある壁紙で覆われている。",
+     "parts": [
+      [
+       "text",
+       "编织",
+       "織る"
+      ],
+      [
+       "-ure",
+       "名词后缀",
+       "名詞を作る"
+      ],
+      [
+       "-ed",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "texture 加 -ed 作形容词。",
+      "ja": "texture に -ed で形容詞に。"
+     },
+     "forms": [
+      [
+       "textured paint",
+       "带纹理的涂料",
+       "質感のある塗料"
+      ],
+      [
+       "texture (n.)",
+       "质地",
+       "質感"
+      ],
+      [
+       "smooth (adj.)",
+       "光滑的",
+       "なめらかな"
+      ]
+     ]
+    },
+    {
+     "w": "pretext",
+     "pos": "n.",
+     "ipa": "/ˈpriˌtɛkst/",
+     "zh": "借口；托词",
+     "ja": "口実；言い訳",
+     "ex": "He used a scheduling conflict as a pretext to avoid the meeting.",
+     "ex_zh": "他以日程冲突为借口躲避会议。",
+     "ex_ja": "彼は日程の重複を口実に会議を避けた。",
+     "parts": [
+      [
+       "pre-",
+       "在前",
+       "前に"
+      ],
+      [
+       "text",
+       "编织",
+       "織る"
+      ]
+     ],
+     "note": {
+      "zh": "pre-（在前）+ text（编织）→ 事先织在前面遮掩真相的“说辞”。",
+      "ja": "pre-（前）＋ text（織る）→ 本当の理由の前に織りつけた「言い分」。"
+     },
+     "forms": [
+      [
+       "on the pretext of",
+       "以……为借口",
+       "〜を口実に"
+      ],
+      [
+       "under false pretenses",
+       "以欺骗手段",
+       "偽って"
+      ],
+      [
+       "excuse (n.)",
+       "借口",
+       "言い訳"
+      ]
+     ]
+    },
+    {
+     "w": "subtext",
+     "pos": "n.",
+     "ipa": "/ˈsʌbˌtɛkst/",
+     "zh": "潜台词；言外之意",
+     "ja": "言外の意味；裏の意味",
+     "ex": "Read the e-mail carefully; the subtext suggests the client is unhappy.",
+     "ex_zh": "请仔细读这封邮件，言外之意是客户不满意。",
+     "ex_ja": "そのメールをよく読んで。言外に顧客が不満であることがうかがえる。",
+     "parts": [
+      [
+       "sub-",
+       "在下面",
+       "下に"
+      ],
+      [
+       "text",
+       "文本",
+       "文章"
+      ]
+     ],
+     "note": {
+      "zh": "sub-（下面）+ text → 文字背后的意思。",
+      "ja": "sub-（下）＋ text → 文章の下にある意味。"
+     },
+     "forms": [
+      [
+       "hidden subtext",
+       "隐含的意思",
+       "隠れた含み"
+      ],
+      [
+       "read between the lines",
+       "读出言外之意",
+       "行間を読む"
+      ],
+      [
+       "text (n.)",
+       "文本",
+       "文章"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tax",
+   "title_zh": "主题：税务申报与会计",
+   "title_ja": "テーマ：税務申告と会計",
+   "words": [
+    {
+     "w": "taxable",
+     "pos": "adj.",
+     "ipa": "/ˈtæksəbəl/",
+     "zh": "应纳税的；须征税的",
+     "ja": "課税対象の；課税される",
+     "ex": "Bonuses are treated as taxable income in most cases.",
+     "ex_zh": "奖金在大多数情况下被视为应税收入。",
+     "ex_ja": "ボーナスはたいてい課税所得として扱われる。",
+     "parts": [
+      [
+       "tax",
+       "税",
+       "税"
+      ],
+      [
+       "-able",
+       "可……的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "tax + -able → 可被征税的。",
+      "ja": "tax ＋ -able → 課税できる。"
+     },
+     "forms": [
+      [
+       "taxable income",
+       "应税收入",
+       "課税所得"
+      ],
+      [
+       "tax-free (adj.)",
+       "免税的",
+       "非課税の"
+      ],
+      [
+       "taxation (n.)",
+       "征税",
+       "課税"
+      ]
+     ]
+    },
+    {
+     "w": "taxation",
+     "pos": "n.",
+     "ipa": "/tækˈseɪʃən/",
+     "zh": "征税；税制；税收",
+     "ja": "課税；税制",
+     "ex": "Changes in taxation will affect small businesses next year.",
+     "ex_zh": "税制变化将在明年影响小企业。",
+     "ex_ja": "税制の変更は来年、中小企業に影響を与える。",
+     "parts": [
+      [
+       "tax",
+       "税",
+       "税"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "tax 的名词形式，表示“征税这件事”。",
+      "ja": "tax の名詞形で「課税すること」。"
+     },
+     "forms": [
+      [
+       "double taxation",
+       "双重征税",
+       "二重課税"
+      ],
+      [
+       "taxation system",
+       "税收制度",
+       "税制"
+      ],
+      [
+       "taxable (adj.)",
+       "应税的",
+       "課税対象の"
+      ]
+     ]
+    },
+    {
+     "w": "withholding",
+     "pos": "n.",
+     "ipa": "/wɪðˈhoʊldɪŋ/",
+     "zh": "预扣；代扣（税款）",
+     "ja": "源泉徴収；差し引き",
+     "ex": "Withholding is deducted from each paycheck automatically.",
+     "ex_zh": "预扣税款会自动从每份工资中扣除。",
+     "ex_ja": "源泉徴収は毎回の給与から自動的に差し引かれる。",
+     "parts": [
+      [
+       "with-",
+       "向后；扣住",
+       "後ろへ・引き留める"
+      ],
+      [
+       "hold",
+       "握住",
+       "保つ"
+      ],
+      [
+       "-ing",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "with-（回/留）+ hold（握住）→ 扣留在手里。",
+      "ja": "with-（引き留める）＋ hold（持つ）→ 手元に留める。"
+     },
+     "forms": [
+      [
+       "withholding tax",
+       "预扣税",
+       "源泉所得税"
+      ],
+      [
+       "withhold (v.)",
+       "扣留",
+       "差し引く・保留する"
+      ],
+      [
+       "tax withheld",
+       "已扣税款",
+       "源泉徴収額"
+      ]
+     ]
+    },
+    {
+     "w": "withhold",
+     "pos": "v.",
+     "ipa": "/wɪðˈhoʊld/",
+     "zh": "扣留；代扣；拒绝给予",
+     "ja": "差し引く；保留する；与えない",
+     "ex": "The payroll office will withhold income tax from your salary.",
+     "ex_zh": "工资部门会从您的薪水中代扣所得税。",
+     "ex_ja": "給与課は給与から所得税を源泉徴収する。",
+     "parts": [
+      [
+       "with-",
+       "向后；扣住",
+       "後ろへ・引き留める"
+      ],
+      [
+       "hold",
+       "握住",
+       "保つ"
+      ]
+     ],
+     "note": {
+      "zh": "with-（扣住）+ hold → 扣留。",
+      "ja": "with-（引き留める）＋ hold → 手元に留める。"
+     },
+     "forms": [
+      [
+       "withhold payment",
+       "暂扣付款",
+       "支払いを保留する"
+      ],
+      [
+       "withhold tax",
+       "代扣税款",
+       "税を源泉徴収する"
+      ],
+      [
+       "withholding (n.)",
+       "预扣",
+       "源泉徴収"
+      ]
+     ]
+    },
+    {
+     "w": "filing",
+     "pos": "n.",
+     "ipa": "/ˈfaɪlɪŋ/",
+     "zh": "提交；申报；归档",
+     "ja": "提出；申告；ファイリング",
+     "ex": "The deadline for tax filing is the end of March.",
+     "ex_zh": "报税的截止日期是三月底。",
+     "ex_ja": "納税申告の期限は 3 月末だ。",
+     "parts": [
+      [
+       "file",
+       "提交；归档",
+       "提出する・綴じる"
+      ],
+      [
+       "-ing",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "file 的动名词，指“提交/归档”这一动作。",
+      "ja": "file の動名詞で「提出・ファイリング」という行為。"
+     },
+     "forms": [
+      [
+       "tax filing",
+       "报税",
+       "納税申告"
+      ],
+      [
+       "filing deadline",
+       "申报截止日",
+       "申告期限"
+      ],
+      [
+       "file a return",
+       "提交纳税申报表",
+       "申告書を提出する"
+      ]
+     ]
+    },
+    {
+     "w": "exemption",
+     "pos": "n.",
+     "ipa": "/ɪɡˈzɛmpʃən/",
+     "zh": "免税；豁免；免除",
+     "ja": "免除；控除；非課税",
+     "ex": "The charity qualifies for a tax exemption under local law.",
+     "ex_zh": "这家慈善机构依据当地法律有资格享受免税。",
+     "ex_ja": "その慈善団体は地方の法律により免税の資格を得ている。",
+     "parts": [
+      [
+       "ex-",
+       "向外",
+       "外へ"
+      ],
+      [
+       "empt",
+       "取（emere）",
+       "取る（emere）"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "ex-（出）+ emere（取）→ 取出在外 → 免除。",
+      "ja": "ex-（外）＋ emere（取る）→ 取り出す → 免除。"
+     },
+     "forms": [
+      [
+       "tax exemption",
+       "免税",
+       "税の免除"
+      ],
+      [
+       "be exempt from",
+       "免于",
+       "〜を免除される"
+      ],
+      [
+       "exempt (adj.)",
+       "被豁免的",
+       "免除された"
+      ]
+     ]
+    },
+    {
+     "w": "bracket",
+     "pos": "n.",
+     "ipa": "/ˈbrækɪt/",
+     "zh": "档次；等级段；括号",
+     "ja": "区分；階層；かっこ",
+     "ex": "Her income puts her in a higher tax bracket this year.",
+     "ex_zh": "她今年的收入使她进入了更高的税率档次。",
+     "ex_ja": "彼女は今年の収入で、より高い税率区分に入った。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，当作整词记。",
+      "ja": "信頼できる語根分解はないので、一語として覚える。"
+     },
+     "forms": [
+      [
+       "tax bracket",
+       "税率档次",
+       "税率区分"
+      ],
+      [
+       "income bracket",
+       "收入档次",
+       "所得層"
+      ],
+      [
+       "age bracket",
+       "年龄段",
+       "年齢層"
+      ]
+     ]
+    },
+    {
+     "w": "dependent",
+     "pos": "n./adj.",
+     "ipa": "/dɪˈpɛndənt/",
+     "zh": "受抚养人；依赖的；取决于",
+     "ja": "扶養家族；頼っている；〜次第の",
+     "ex": "You may list your children as dependents on the form.",
+     "ex_zh": "您可以在表格上把孩子列为受抚养人。",
+     "ex_ja": "書類には子どもを扶養家族として記入できます。",
+     "parts": [
+      [
+       "de-",
+       "向下",
+       "下へ"
+      ],
+      [
+       "pend",
+       "悬挂（pendere）",
+       "ぶら下がる（pendere）"
+      ],
+      [
+       "-ent",
+       "形容词/名词后缀",
+       "形容詞・名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "de-（向下）+ pend（悬挂）→ 挂靠着别人 → 依赖。",
+      "ja": "de-（下）＋ pend（ぶら下がる）→ 人にぶら下がる → 頼る。"
+     },
+     "forms": [
+      [
+       "be dependent on",
+       "依赖",
+       "〜に頼っている"
+      ],
+      [
+       "dependent on",
+       "取决于",
+       "〜次第で"
+      ],
+      [
+       "independent (adj.)",
+       "独立的",
+       "独立した"
+      ]
+     ],
+     "tip": {
+      "zh": "dependent（形）后接 on；独立是 independent。",
+      "ja": "dependent は on を伴う。「独立した」は independent。"
+     }
+    },
+    {
+     "w": "accountant",
+     "pos": "n.",
+     "ipa": "/əˈkaʊntənt/",
+     "zh": "会计师；会计",
+     "ja": "会計士；経理担当者",
+     "ex": "Our accountant reviews the tax documents every quarter.",
+     "ex_zh": "我们的会计师每季度审核一次税务文件。",
+     "ex_ja": "当社の会計士は四半期ごとに税務書類を確認する。",
+     "parts": [
+      [
+       "ac-",
+       "向（ad-）",
+       "〜へ"
+      ],
+      [
+       "count",
+       "计算",
+       "数える"
+      ],
+      [
+       "-ant",
+       "表示人",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "account（核算）+ -ant → 做核算的人。",
+      "ja": "account（会計する）＋ -ant → 会計をする人。"
+     },
+     "forms": [
+      [
+       "certified accountant",
+       "注册会计师",
+       "公認会計士"
+      ],
+      [
+       "accounting (n.)",
+       "会计；会计学",
+       "会計"
+      ],
+      [
+       "account for",
+       "占……；说明",
+       "〜を占める・説明する"
+      ]
+     ]
+    },
+    {
+     "w": "income",
+     "pos": "n.",
+     "ipa": "/ˈɪnˌkʌm/",
+     "zh": "收入；所得",
+     "ja": "収入；所得",
+     "ex": "Her annual income increased after the promotion.",
+     "ex_zh": "晋升后她的年收入增加了。",
+     "ex_ja": "昇進後、彼女の年収は増えた。",
+     "parts": [
+      [
+       "in",
+       "进来",
+       "入ってくる"
+      ],
+      [
+       "come",
+       "来",
+       "来る"
+      ]
+     ],
+     "note": {
+      "zh": "in（进来）+ come（来）→ 进账的钱。",
+      "ja": "in（入る）＋ come（来る）→ 入ってくるお金。"
+     },
+     "forms": [
+      [
+       "annual income",
+       "年收入",
+       "年収"
+      ],
+      [
+       "income tax",
+       "所得税",
+       "所得税"
+      ],
+      [
+       "disposable income",
+       "可支配收入",
+       "可処分所得"
+      ]
+     ]
+    },
+    {
+     "w": "bookkeeping",
+     "pos": "n.",
+     "ipa": "/ˈbʊkˌkipɪŋ/",
+     "zh": "记账；簿记",
+     "ja": "簿記；帳簿付け",
+     "ex": "Good bookkeeping makes tax season far less stressful.",
+     "ex_zh": "良好的记账让报税季轻松得多。",
+     "ex_ja": "きちんとした帳簿付けをしておけば、確定申告の時期はずっと楽になる。",
+     "parts": [
+      [
+       "book",
+       "账簿",
+       "帳簿"
+      ],
+      [
+       "keep",
+       "保管",
+       "つける"
+      ],
+      [
+       "-ing",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "book（账簿）+ keep（记）+ -ing → 记账。",
+      "ja": "book（帳簿）＋ keep（つける）＋ -ing → 帳簿付け。"
+     },
+     "forms": [
+      [
+       "bookkeeper (n.)",
+       "记账员",
+       "簿記係"
+      ],
+      [
+       "keep the books",
+       "记账",
+       "帳簿をつける"
+      ],
+      [
+       "double-entry bookkeeping",
+       "复式记账",
+       "複式簿記"
+      ]
+     ]
+    },
+    {
+     "w": "ledger",
+     "pos": "n.",
+     "ipa": "/ˈlɛdʒɚ/",
+     "zh": "总账；分类账",
+     "ja": "元帳；帳簿",
+     "ex": "Every payment must be recorded in the general ledger.",
+     "ex_zh": "每一笔付款都必须记入总账。",
+     "ex_ja": "すべての支払いは総勘定元帳に記録しなければならない。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，当作整词记。",
+      "ja": "信頼できる語根分解はないので、一語として覚える。"
+     },
+     "forms": [
+      [
+       "general ledger",
+       "总账",
+       "総勘定元帳"
+      ],
+      [
+       "ledger entry",
+       "分类账条目",
+       "元帳の記入"
+      ],
+      [
+       "accounts ledger",
+       "账目分类账",
+       "勘定元帳"
+      ]
+     ]
+    },
+    {
+     "w": "declaration",
+     "pos": "n.",
+     "ipa": "/ˌdɛkləˈreɪʃən/",
+     "zh": "申报；声明；报关单",
+     "ja": "申告；宣言；申告書",
+     "ex": "Travelers must fill out a customs declaration before landing.",
+     "ex_zh": "旅客须在降落前填写海关申报单。",
+     "ex_ja": "旅行者は着陸前に税関申告書に記入しなければならない。",
+     "parts": [
+      [
+       "de-",
+       "完全",
+       "完全に"
+      ],
+      [
+       "clar",
+       "清楚（clarus）",
+       "明らか（clarus）"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "de-（完全）+ clarus（清楚）→ 讲清楚 → 声明。",
+      "ja": "de-（完全に）＋ clarus（明らか）→ はっきり述べる → 宣言。"
+     },
+     "forms": [
+      [
+       "customs declaration",
+       "海关申报",
+       "税関申告"
+      ],
+      [
+       "tax declaration",
+       "纳税申报",
+       "納税申告"
+      ],
+      [
+       "declare (v.)",
+       "申报",
+       "申告する"
+      ]
+     ]
+    },
+    {
+     "w": "loophole",
+     "pos": "n.",
+     "ipa": "/ˈluːpˌhoʊl/",
+     "zh": "漏洞；空子",
+     "ja": "抜け穴",
+     "ex": "The new rule closes a loophole that allowed companies to avoid tax.",
+     "ex_zh": "新规定堵上了让公司避税的漏洞。",
+     "ex_ja": "新しい規則は、企業が納税を免れる抜け穴をふさぐ。",
+     "parts": [
+      [
+       "loop",
+       "环；孔",
+       "輪・小窓"
+      ],
+      [
+       "hole",
+       "洞",
+       "穴"
+      ]
+     ],
+     "note": {
+      "zh": "loop（城墙上的射击孔）+ hole → 墙上的小孔 → 钻空子的漏洞。",
+      "ja": "loop（城壁の小窓）＋ hole → 壁の小さな穴 → 抜け穴。"
+     },
+     "forms": [
+      [
+       "close a loophole",
+       "堵住漏洞",
+       "抜け穴をふさぐ"
+      ],
+      [
+       "a legal loophole",
+       "法律漏洞",
+       "法の抜け穴"
+      ],
+      [
+       "tax loophole",
+       "税务漏洞",
+       "税の抜け穴"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "charity",
+   "title_zh": "主题：慈善募捐与公益",
+   "title_ja": "テーマ：慈善・寄付と公益活動",
+   "words": [
+    {
+     "w": "donate",
+     "pos": "v.",
+     "ipa": "/ˈdoʊˌneɪt/",
+     "zh": "捐赠；捐献",
+     "ja": "寄付する；提供する",
+     "ex": "The company donated ten percent of its profits to local schools.",
+     "ex_zh": "公司把利润的百分之十捐给了当地学校。",
+     "ex_ja": "同社は利益の 10 パーセントを地元の学校に寄付した。",
+     "parts": [
+      [
+       "don",
+       "给予（donare）",
+       "与える（donare）"
+      ],
+      [
+       "-ate",
+       "动词后缀",
+       "動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "来自拉丁语 donare“给予”。",
+      "ja": "ラテン語 donare「与える」から。"
+     },
+     "forms": [
+      [
+       "donate to",
+       "捐给",
+       "〜に寄付する"
+      ],
+      [
+       "donate money",
+       "捐款",
+       "お金を寄付する"
+      ],
+      [
+       "donation (n.)",
+       "捐赠",
+       "寄付"
+      ]
+     ]
+    },
+    {
+     "w": "donor",
+     "pos": "n.",
+     "ipa": "/ˈdoʊnɚ/",
+     "zh": "捐赠者；捐款人；献血者",
+     "ja": "寄付者；提供者；ドナー",
+     "ex": "An anonymous donor gave the library a generous gift.",
+     "ex_zh": "一位匿名捐赠者向图书馆赠送了一份厚礼。",
+     "ex_ja": "匿名の寄付者が図書館に多額の寄付をした。",
+     "parts": [
+      [
+       "don",
+       "给予",
+       "与える"
+      ],
+      [
+       "-or",
+       "表示人",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "don（给）+ -or → 给予的人。",
+      "ja": "don（与える）＋ -or → 与える人。"
+     },
+     "forms": [
+      [
+       "anonymous donor",
+       "匿名捐赠者",
+       "匿名の寄付者"
+      ],
+      [
+       "blood donor",
+       "献血者",
+       "献血者"
+      ],
+      [
+       "donate (v.)",
+       "捐赠",
+       "寄付する"
+      ]
+     ]
+    },
+    {
+     "w": "charity",
+     "pos": "n.",
+     "ipa": "/ˈtʃɛrəti/",
+     "zh": "慈善；慈善机构；施舍",
+     "ja": "慈善；慈善団体",
+     "ex": "All proceeds from the concert will go to charity.",
+     "ex_zh": "音乐会的全部收益将捐给慈善事业。",
+     "ex_ja": "コンサートの収益はすべて慈善活動に寄付される。",
+     "parts": [],
+     "note": {
+      "zh": "来自拉丁语 caritas“爱；珍视”，没有可靠的词根拆分需要记忆。",
+      "ja": "ラテン語 caritas「愛・慈しみ」由来。分解して覚えるより一語で。"
+     },
+     "forms": [
+      [
+       "a charity event",
+       "慈善活动",
+       "チャリティーイベント"
+      ],
+      [
+       "give to charity",
+       "捐给慈善",
+       "慈善に寄付する"
+      ],
+      [
+       "charitable (adj.)",
+       "慈善的",
+       "慈善の"
+      ]
+     ]
+    },
+    {
+     "w": "charitable",
+     "pos": "adj.",
+     "ipa": "/ˈtʃɛrətəbəl/",
+     "zh": "慈善的；仁慈的",
+     "ja": "慈善の；情け深い",
+     "ex": "The firm set up a charitable fund for flood victims.",
+     "ex_zh": "公司为洪灾受害者设立了一项慈善基金。",
+     "ex_ja": "同社は洪水の被災者のための慈善基金を設立した。",
+     "parts": [
+      [
+       "charit",
+       "慈善（caritas）",
+       "慈善（caritas）"
+      ],
+      [
+       "-able",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "charity 的形容词形式。",
+      "ja": "charity の形容詞形。"
+     },
+     "forms": [
+      [
+       "charitable organization",
+       "慈善组织",
+       "慈善団体"
+      ],
+      [
+       "charitable donation",
+       "慈善捐赠",
+       "慈善寄付"
+      ],
+      [
+       "charity (n.)",
+       "慈善",
+       "慈善"
+      ]
+     ]
+    },
+    {
+     "w": "philanthropy",
+     "pos": "n.",
+     "ipa": "/fɪˈlænθrəpi/",
+     "zh": "慈善事业；博爱",
+     "ja": "慈善事業；博愛",
+     "ex": "Her philanthropy has funded dozens of scholarships.",
+     "ex_zh": "她的慈善事业资助了几十项奖学金。",
+     "ex_ja": "彼女の慈善活動は数十件の奨学金を支えてきた。",
+     "parts": [
+      [
+       "phil",
+       "爱（philos）",
+       "愛する（philos）"
+      ],
+      [
+       "anthrop",
+       "人（anthropos）",
+       "人（anthropos）"
+      ],
+      [
+       "-y",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "phil（爱）+ anthrop（人）→ 爱人类 → 慈善事业。",
+      "ja": "phil（愛）＋ anthrop（人）→ 人を愛する → 慈善。"
+     },
+     "forms": [
+      [
+       "philanthropist (n.)",
+       "慈善家",
+       "慈善家"
+      ],
+      [
+       "philanthropic (adj.)",
+       "慈善的",
+       "慈善の"
+      ],
+      [
+       "corporate philanthropy",
+       "企业慈善",
+       "企業の慈善活動"
+      ]
+     ]
+    },
+    {
+     "w": "philanthropist",
+     "pos": "n.",
+     "ipa": "/fɪˈlænθrəpɪst/",
+     "zh": "慈善家",
+     "ja": "慈善家",
+     "ex": "The philanthropist pledged a large sum to the hospital.",
+     "ex_zh": "这位慈善家向医院承诺捐出一大笔钱。",
+     "ex_ja": "その慈善家は病院に多額の寄付を約束した。",
+     "parts": [
+      [
+       "phil",
+       "爱",
+       "愛する"
+      ],
+      [
+       "anthrop",
+       "人",
+       "人"
+      ],
+      [
+       "-ist",
+       "表示人",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "philanthropy 的人称名词。",
+      "ja": "philanthropy の人を表す名詞。"
+     },
+     "forms": [
+      [
+       "a wealthy philanthropist",
+       "富有的慈善家",
+       "裕福な慈善家"
+      ],
+      [
+       "philanthropy (n.)",
+       "慈善事业",
+       "慈善事業"
+      ],
+      [
+       "philanthropic (adj.)",
+       "慈善的",
+       "慈善の"
+      ]
+     ]
+    },
+    {
+     "w": "fundraising",
+     "pos": "n.",
+     "ipa": "/ˈfʌndˌreɪzɪŋ/",
+     "zh": "筹款；募捐",
+     "ja": "資金集め；募金活動",
+     "ex": "The fundraising campaign exceeded its goal in just two weeks.",
+     "ex_zh": "筹款活动仅用两周就超过了目标。",
+     "ex_ja": "募金キャンペーンはわずか 2 週間で目標を上回った。",
+     "parts": [
+      [
+       "fund",
+       "资金",
+       "資金"
+      ],
+      [
+       "raise",
+       "筹集",
+       "集める"
+      ],
+      [
+       "-ing",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "fund（资金）+ raise（筹集）+ -ing。",
+      "ja": "fund（資金）＋ raise（集める）＋ -ing。"
+     },
+     "forms": [
+      [
+       "fundraising event",
+       "筹款活动",
+       "資金集めのイベント"
+      ],
+      [
+       "raise funds",
+       "筹集资金",
+       "資金を集める"
+      ],
+      [
+       "fundraiser (n.)",
+       "筹款活动",
+       "募金イベント"
+      ]
+     ]
+    },
+    {
+     "w": "endowment",
+     "pos": "n.",
+     "ipa": "/ɪnˈdaʊmənt/",
+     "zh": "捐赠基金；捐赠；天赋",
+     "ja": "基金；寄付金；基本財産",
+     "ex": "The university uses its endowment to support research projects.",
+     "ex_zh": "大学用捐赠基金来支持研究项目。",
+     "ex_ja": "その大学は基金を研究プロジェクトの支援に使っている。",
+     "parts": [
+      [
+       "en-",
+       "使；放入",
+       "〜にする・中へ"
+      ],
+      [
+       "dow",
+       "给予（dotare）",
+       "与える（dotare）"
+      ],
+      [
+       "-ment",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "en-（放入）+ dow（赋予）+ -ment → 赋予的财产。",
+      "ja": "en-（中へ）＋ dow（与える）＋ -ment → 与えられた財産。"
+     },
+     "forms": [
+      [
+       "endowment fund",
+       "捐赠基金",
+       "基金"
+      ],
+      [
+       "endow (v.)",
+       "捐赠；赋予",
+       "寄付する・授ける"
+      ],
+      [
+       "be endowed with",
+       "被赋予",
+       "〜に恵まれる"
+      ]
+     ]
+    },
+    {
+     "w": "grant",
+     "pos": "n./v.",
+     "ipa": "/ɡrænt/",
+     "zh": "拨款；补助金；授予；准许",
+     "ja": "助成金；補助金；与える；認める",
+     "ex": "The foundation awarded a research grant to the young scientist.",
+     "ex_zh": "基金会向这位年轻科学家颁发了一笔研究经费。",
+     "ex_ja": "財団はその若手科学者に研究助成金を授与した。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，当作整词记。",
+      "ja": "信頼できる語根分解はないので、一語として覚える。"
+     },
+     "forms": [
+      [
+       "research grant",
+       "研究经费",
+       "研究助成金"
+      ],
+      [
+       "grant permission",
+       "准许",
+       "許可を与える"
+      ],
+      [
+       "take for granted",
+       "视为理所当然",
+       "当然と思う"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5：grant 可作动词“授予”，也作名词“补助金”。",
+      "ja": "Part 5：grant は動詞「与える」にも名詞「助成金」にもなる。"
+     }
+    },
+    {
+     "w": "auction",
+     "pos": "n./v.",
+     "ipa": "/ˈɔkʃən/",
+     "zh": "拍卖；拍卖出售",
+     "ja": "競売；オークション；競売にかける",
+     "ex": "The painting will be sold at auction next Saturday.",
+     "ex_zh": "这幅画将于下周六拍卖。",
+     "ex_ja": "その絵は来週の土曜日にオークションで売却される。",
+     "parts": [
+      [
+       "auct",
+       "增加（augere）",
+       "増やす（augere）"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 auctio“增价”，竞价越出越高。",
+      "ja": "ラテン語 auctio「競り上げ」から。値が上がっていく。"
+     },
+     "forms": [
+      [
+       "a charity auction",
+       "慈善拍卖",
+       "チャリティーオークション"
+      ],
+      [
+       "auction off",
+       "拍卖掉",
+       "競売にかけて売る"
+      ],
+      [
+       "auctioneer (n.)",
+       "拍卖师",
+       "競売人"
+      ]
+     ]
+    },
+    {
+     "w": "humanitarian",
+     "pos": "adj./n.",
+     "ipa": "/hjuˌmænɪˈtɛriən/",
+     "zh": "人道主义的；人道主义者",
+     "ja": "人道的な；人道主義者",
+     "ex": "The organization provides humanitarian aid to disaster areas.",
+     "ex_zh": "该组织向灾区提供人道主义援助。",
+     "ex_ja": "その団体は被災地に人道支援を行っている。",
+     "parts": [
+      [
+       "human",
+       "人",
+       "人"
+      ],
+      [
+       "-itarian",
+       "信奉……的",
+       "〜を信奉する"
+      ]
+     ],
+     "note": {
+      "zh": "human（人）+ -itarian → 重视人的。",
+      "ja": "human（人）＋ -itarian → 人を重んじる。"
+     },
+     "forms": [
+      [
+       "humanitarian aid",
+       "人道援助",
+       "人道支援"
+      ],
+      [
+       "humanitarian crisis",
+       "人道主义危机",
+       "人道危機"
+      ],
+      [
+       "humane (adj.)",
+       "人道的",
+       "人道的な"
+      ]
+     ]
+    },
+    {
+     "w": "shelter",
+     "pos": "n./v.",
+     "ipa": "/ˈʃɛltɚ/",
+     "zh": "收容所；庇护所；避难；庇护",
+     "ja": "避難所；シェルター；避難させる",
+     "ex": "The charity runs a shelter for homeless families downtown.",
+     "ex_zh": "该慈善机构在市中心开设了一处无家可归家庭的收容所。",
+     "ex_ja": "その慈善団体は市の中心部でホームレスの家族向けシェルターを運営している。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，当作整词记。",
+      "ja": "信頼できる語根分解はないので、一語として覚える。"
+     },
+     "forms": [
+      [
+       "emergency shelter",
+       "紧急避难所",
+       "緊急避難所"
+      ],
+      [
+       "shelter from",
+       "躲避……",
+       "〜から避難する"
+      ],
+      [
+       "sheltered (adj.)",
+       "受庇护的",
+       "守られた"
+      ]
+     ]
+    },
+    {
+     "w": "solicit",
+     "pos": "v.",
+     "ipa": "/səˈlɪsɪt/",
+     "zh": "征求；募集；恳求",
+     "ja": "求める；募る；勧誘する",
+     "ex": "The committee is soliciting donations for the new community center.",
+     "ex_zh": "委员会正在为新社区中心募集捐款。",
+     "ex_ja": "委員会は新しいコミュニティセンターのための寄付を募っている。",
+     "parts": [
+      [
+       "soli-",
+       "整个；全部（sollus）",
+       "すっかり（sollus）"
+      ],
+      [
+       "cit",
+       "推动；唤起（citare）",
+       "動かす（citare）"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 sollicitare“彻底推动”→ 恳求；拆分较勉强，作整词记。",
+      "ja": "ラテン語 sollicitare「強く動かす」→ 懇願する。分解は無理があるので一語で。"
+     },
+     "forms": [
+      [
+       "solicit donations",
+       "募集捐款",
+       "寄付を募る"
+      ],
+      [
+       "solicit feedback",
+       "征求反馈",
+       "意見を求める"
+      ],
+      [
+       "solicitation (n.)",
+       "征求；招揽",
+       "勧誘"
+      ]
+     ]
+    },
+    {
+     "w": "solicitation",
+     "pos": "n.",
+     "ipa": "/səˌlɪsɪˈteɪʃən/",
+     "zh": "征求；募捐；招揽",
+     "ja": "懇願；勧誘；募金の依頼",
+     "ex": "No solicitation is allowed in the lobby without permission.",
+     "ex_zh": "未经许可，大堂内不得进行募捐或推销。",
+     "ex_ja": "許可なくロビーで勧誘や募金を行うことは禁止されている。",
+     "parts": [
+      [
+       "solicit",
+       "征求",
+       "求める"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "solicit 的名词形式。",
+      "ja": "solicit の名詞形。"
+     },
+     "forms": [
+      [
+       "no solicitation",
+       "禁止推销/募捐",
+       "勧誘お断り"
+      ],
+      [
+       "charitable solicitation",
+       "慈善募捐",
+       "慈善の募金依頼"
+      ],
+      [
+       "solicit (v.)",
+       "征求",
+       "求める"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}
