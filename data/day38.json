@@ -1,0 +1,2178 @@
+{
+ "day": 38,
+ "date": "2026-11-10",
+ "title_zh": "四大词根 + 网络安全与数据隐私、医疗健康与药品",
+ "title_ja": "4つの語根＋サイバーセキュリティとデータ保護、医療・健康と薬",
+ "intro_zh": "今天掌握 4 个词根（us/ut 使用 / numer 数 / cycl 环·周期 / arch 统治·起初），再学网络安全与数据隐私、医疗健康与药品的核心词——强化 Part 5 词性题（utilize / utilization、vulnerable / vulnerability、authenticate / authentication）和固定搭配（be vulnerable to、be allergic to、a number of 与 the number of、safeguard against），以及易混词（numeral 与 numeric、hierarchy 与 hierarchical、cycle 与 cyclical）。",
+ "intro_ja": "今日は語根 4 つ（us/ut 使う／numer 数／cycl 輪・周期／arch 支配・初め）と、サイバーセキュリティとデータ保護、医療・健康と薬の重要語を学びます。Part 5 の品詞問題（utilize／utilization、vulnerable／vulnerability、authenticate／authentication）と語法（be vulnerable to、be allergic to、a number of と the number of、safeguard against）、紛らわしい語（numeral と numeric、hierarchy と hierarchical、cycle と cyclical）を押さえます。",
+ "voice": "en-US-AriaNeural",
+ "roots": [
+  {
+   "root": "-us- / -ut-",
+   "origin": "Latin uti, usus",
+   "zh": "使用",
+   "ja": "使う",
+   "exp_zh": "来自拉丁语 uti（使用）及其过去分词 usus。使用量 → usage；可使用 → usable；有效利用 → utilize；用错 → misuse / abuse；再次使用 → reusable。⚠️ usher（引座员）和 usual（通常的）不要硬套“使用”：usual 与“习惯使用”有关，usher 来自“门”，需单独记。",
+   "exp_ja": "ラテン語 uti（使う）とその過去分詞 usus から。使用量 → usage；使える → usable；活用する → utilize；誤用 → misuse／abuse；再利用 → reusable。⚠️ usher（案内係）は「門」由来で別語源。",
+   "examples": [
+    "usage",
+    "usable",
+    "utilize",
+    "utilization",
+    "misuse",
+    "reusable",
+    "abuse",
+    "overuse"
+   ]
+  },
+  {
+   "root": "-numer-",
+   "origin": "Latin numerus",
+   "zh": "数",
+   "ja": "数",
+   "exp_zh": "来自拉丁语 numerus（数）。数 → number；数量上超过 → outnumber；数字 → numeral / numeric；列举 → enumerate；数不清 → innumerable。⚠️ numerous 是“众多的”，常见于 numerous + 复数名词。",
+   "exp_ja": "ラテン語 numerus（数）から。数 → number；数で上回る → outnumber；数字 → numeral／numeric；列挙 → enumerate；数えきれない → innumerable。",
+   "examples": [
+    "number",
+    "outnumber",
+    "numeral",
+    "numerical",
+    "enumerate",
+    "innumerable",
+    "numeric"
+   ]
+  },
+  {
+   "root": "-cycl-",
+   "origin": "Greek kyklos",
+   "zh": "圆；环；周期",
+   "ja": "円；輪；周期",
+   "exp_zh": "来自希腊语 kyklos（圆、环）。周期 → cycle / cyclical；两轮 → bicycle；有发动机的 → motorcycle；骑车的人 → cyclist；全面教育的环 → encyclopedia。⚠️ cycl 里的 c 在 cycle、cyclical 中都读 /s/，不要读成 /k/。",
+   "exp_ja": "ギリシャ語 kyklos（円・輪）から。周期 → cycle／cyclical；二輪 → bicycle；原動機付き → motorcycle；乗る人 → cyclist；百科事典 → encyclopedia。⚠️ cycl の c は /s/ と読む。",
+   "examples": [
+    "cycle",
+    "cyclical",
+    "bicycle",
+    "motorcycle",
+    "cyclist",
+    "encyclopedia",
+    "lifecycle",
+    "cycling"
+   ]
+  },
+  {
+   "root": "-arch-",
+   "origin": "Greek archos, arkhe",
+   "zh": "首领；统治；起初",
+   "ja": "首長；支配；初め",
+   "exp_zh": "来自希腊语 archos（首领、统治者）和 arkhe（起初）。主要建造者 → architecture；神圣统治 → hierarchy / hierarchical；一人统治 → monarchy；没有统治 → anarchy；起初 → archaic；官府文书 → archival。⚠️ arch 还可以是“拱门”，与此词根不同；archive 也在先前日子出现过。",
+   "exp_ja": "ギリシャ語 archos（首長・支配者）と arkhe（初め）から。棟梁 → architecture；聖なる支配 → hierarchy／hierarchical；一人の支配 → monarchy；支配なし → anarchy；古い → archaic；文書庫 → archival。⚠️ arch（アーチ）は別語。",
+   "examples": [
+    "architecture",
+    "hierarchy",
+    "hierarchical",
+    "monarchy",
+    "archaic",
+    "anarchy",
+    "archival"
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "us",
+   "title_zh": "词根 -us- / -ut-：使用",
+   "title_ja": "語根 -us- / -ut-：使う",
+   "words": [
+    {
+     "w": "usage",
+     "pos": "n.",
+     "ipa": "/ˈjusɪdʒ/",
+     "zh": "使用；用量；用法",
+     "ja": "使用；使用量；用法",
+     "ex": "Data usage on the company plan is capped at ten gigabytes per month.",
+     "ex_zh": "公司套餐的流量使用上限为每月 10 GB。",
+     "ex_ja": "会社のプランのデータ使用量は月 10 ギガバイトが上限です。",
+     "parts": [
+      [
+       "us",
+       "使用（usus）",
+       "使う（usus）"
+      ],
+      [
+       "-age",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "us“使用”+ -age 变名词 → 使用（量）。",
+      "ja": "us「使う」＋ -age（名詞化）→ 使用（量）。"
+     },
+     "forms": [
+      [
+       "water usage",
+       "用水量",
+       "水の使用量"
+      ],
+      [
+       "usage fee",
+       "使用费",
+       "使用料"
+      ]
+     ]
+    },
+    {
+     "w": "usable",
+     "pos": "adj.",
+     "ipa": "/ˈjuzəbəl/",
+     "zh": "可用的；能使用的",
+     "ja": "使用できる；使える",
+     "ex": "Only usable coupons will be accepted at the register.",
+     "ex_zh": "收银台只接受仍可使用的优惠券。",
+     "ex_ja": "レジでは使用可能なクーポンのみ受け付けます。",
+     "parts": [
+      [
+       "us",
+       "使用",
+       "使う"
+      ],
+      [
+       "-able",
+       "可……的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "us“使用”+ -able“能……的”→ 能使用的。",
+      "ja": "us「使う」＋ -able「〜できる」→ 使える。"
+     },
+     "forms": [
+      [
+       "usable space",
+       "可用空间",
+       "使えるスペース"
+      ],
+      [
+       "use (v.)",
+       "使用",
+       "使う"
+      ]
+     ]
+    },
+    {
+     "w": "utilize",
+     "pos": "v.",
+     "ipa": "/ˈjutəˌlaɪz/",
+     "zh": "利用；使用（强调有效利用）",
+     "ja": "活用する；利用する",
+     "ex": "Employees are encouraged to utilize the new online booking system.",
+     "ex_zh": "公司鼓励员工使用新的在线预订系统。",
+     "ex_ja": "従業員は新しいオンライン予約システムの活用を奨励されています。",
+     "parts": [
+      [
+       "ut",
+       "使用（utor）",
+       "使う（utor）"
+      ],
+      [
+       "-ize",
+       "使成为",
+       "〜にする"
+      ]
+     ],
+     "note": {
+      "zh": "ut 是 us 的变体（拉丁语 uti“使用”）+ -ize 变动词。",
+      "ja": "ut は us の変形（ラテン語 uti「使う」）＋ -ize（動詞化）。"
+     },
+     "forms": [
+      [
+       "utilize resources",
+       "利用资源",
+       "資源を活用する"
+      ],
+      [
+       "utility (n.)",
+       "效用；公用事业",
+       "有用性；公共事業"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5：utilize（动）/ utilization（名）注意词性。",
+      "ja": "Part 5：utilize（動）／utilization（名）の品詞に注意。"
+     }
+    },
+    {
+     "w": "utilization",
+     "pos": "n.",
+     "ipa": "/ˌjutələˈzeɪʃən/",
+     "zh": "利用；利用率",
+     "ja": "活用；利用率",
+     "ex": "Better utilization of floor space reduced our rent costs.",
+     "ex_zh": "更好地利用楼面空间降低了我们的租金成本。",
+     "ex_ja": "フロアスペースをより有効に活用したことで、賃料コストが下がりました。",
+     "parts": [
+      [
+       "ut",
+       "使用",
+       "使う"
+      ],
+      [
+       "-ize",
+       "动词后缀",
+       "動詞を作る"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "utilize + -ation 变名词。",
+      "ja": "utilize ＋ -ation（名詞化）。"
+     },
+     "forms": [
+      [
+       "capacity utilization",
+       "产能利用率",
+       "設備稼働率"
+      ],
+      [
+       "utilize (v.)",
+       "利用",
+       "活用する"
+      ]
+     ]
+    },
+    {
+     "w": "misuse",
+     "pos": "n./v.",
+     "ipa": "/mɪsˈjus/",
+     "zh": "误用；滥用",
+     "ja": "誤用（する）；乱用（する）",
+     "ex": "Any misuse of company equipment may result in disciplinary action.",
+     "ex_zh": "任何滥用公司设备的行为都可能受到纪律处分。",
+     "ex_ja": "会社の備品を不適切に使用した場合は、懲戒処分の対象となることがあります。",
+     "parts": [
+      [
+       "mis-",
+       "错误地",
+       "誤って"
+      ],
+      [
+       "use",
+       "使用",
+       "使う"
+      ]
+     ],
+     "note": {
+      "zh": "mis-“错”+ use“使用”→ 用错、滥用。名词读 /s/，动词读 /z/。",
+      "ja": "mis-「誤り」＋ use「使う」。名詞は /s/、動詞は /z/。"
+     },
+     "forms": [
+      [
+       "misuse of funds",
+       "挪用资金",
+       "資金の不正使用"
+      ],
+      [
+       "misuse (n.)",
+       "滥用",
+       "乱用"
+      ]
+     ]
+    },
+    {
+     "w": "reusable",
+     "pos": "adj.",
+     "ipa": "/riˈjuzəbəl/",
+     "zh": "可重复使用的",
+     "ja": "再利用できる",
+     "ex": "Customers are asked to bring reusable bags to the store.",
+     "ex_zh": "请顾客自带可重复使用的购物袋到店。",
+     "ex_ja": "お客様には再利用できる袋をお持ちいただくようお願いしています。",
+     "parts": [
+      [
+       "re-",
+       "再次",
+       "再び"
+      ],
+      [
+       "us",
+       "使用",
+       "使う"
+      ],
+      [
+       "-able",
+       "可……的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "re-“再”+ us“用”+ -able“能……的”。",
+      "ja": "re-「再び」＋ us「使う」＋ -able「〜できる」。"
+     },
+     "forms": [
+      [
+       "reusable container",
+       "可重复使用容器",
+       "再利用可能な容器"
+      ],
+      [
+       "reuse (v.)",
+       "再利用",
+       "再利用する"
+      ]
+     ]
+    },
+    {
+     "w": "abuse",
+     "pos": "n./v.",
+     "ipa": "/əˈbjus/",
+     "zh": "滥用；虐待",
+     "ja": "乱用（する）；虐待（する）",
+     "ex": "The audit uncovered abuse of the travel expense policy.",
+     "ex_zh": "审计发现差旅费用制度被滥用。",
+     "ex_ja": "監査で出張経費規定の乱用が発覚しました。",
+     "parts": [
+      [
+       "ab-",
+       "偏离",
+       "離れて"
+      ],
+      [
+       "us",
+       "使用",
+       "使う"
+      ],
+      [
+       "e",
+       "词尾",
+       "語尾"
+      ]
+     ],
+     "note": {
+      "zh": "ab-“偏离”+ use“用”→ 用得不当。名词 /s/，动词 /z/。",
+      "ja": "ab-「逸脱」＋ use「使う」→ 不適切に使う。名詞 /s/、動詞 /z/。"
+     },
+     "forms": [
+      [
+       "abuse of power",
+       "滥用职权",
+       "権力の乱用"
+      ],
+      [
+       "abusive (adj.)",
+       "辱骂的；滥用的",
+       "乱暴な"
+      ]
+     ]
+    },
+    {
+     "w": "overuse",
+     "pos": "n./v.",
+     "ipa": "/ˌoʊvɚˈjus/",
+     "zh": "过度使用",
+     "ja": "使いすぎ（る）",
+     "ex": "Overuse of the copier has shortened its service life.",
+     "ex_zh": "复印机使用过度缩短了它的使用寿命。",
+     "ex_ja": "コピー機の使いすぎで、寿命が短くなりました。",
+     "parts": [
+      [
+       "over-",
+       "过度",
+       "過度に"
+      ],
+      [
+       "use",
+       "使用",
+       "使う"
+      ]
+     ],
+     "note": {
+      "zh": "over-“过度”+ use“使用”。名词 /s/，动词 /z/。",
+      "ja": "over-「過度」＋ use「使う」。名詞 /s/、動詞 /z/。"
+     },
+     "forms": [
+      [
+       "overuse of energy",
+       "过度用能",
+       "エネルギーの使いすぎ"
+      ],
+      [
+       "underuse (v.)",
+       "利用不足",
+       "活用不足"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "numer",
+   "title_zh": "词根 -numer-：数",
+   "title_ja": "語根 -numer-：数",
+   "words": [
+    {
+     "w": "number",
+     "pos": "n./v.",
+     "ipa": "/ˈnʌmbɚ/",
+     "zh": "数字；数量；编号",
+     "ja": "数；番号；数える",
+     "ex": "Please write your reference number on the back of the check.",
+     "ex_zh": "请把您的参考编号写在支票背面。",
+     "ex_ja": "小切手の裏に参照番号をご記入ください。",
+     "parts": [
+      [
+       "numer",
+       "数（numerus）",
+       "数（numerus）"
+      ]
+     ],
+     "note": {
+      "zh": "来自拉丁语 numerus“数”，经古法语 nombre 变为 number。",
+      "ja": "ラテン語 numerus「数」が古フランス語 nombre を経て number に。"
+     },
+     "forms": [
+      [
+       "a number of",
+       "若干；许多",
+       "いくつかの"
+      ],
+      [
+       "the number of",
+       "……的数量",
+       "〜の数"
+      ]
+     ],
+     "tip": {
+      "zh": "Part 5：a number of + 复数；the number of + 单数动词。",
+      "ja": "Part 5：a number of ＋ 複数（複数扱い）／the number of ＋ 単数扱い。"
+     }
+    },
+    {
+     "w": "outnumber",
+     "pos": "v.",
+     "ipa": "/aʊtˈnʌmbɚ/",
+     "zh": "在数量上超过",
+     "ja": "数で上回る",
+     "ex": "Female applicants now outnumber male applicants for the position.",
+     "ex_zh": "这个职位的女性应聘者现在多于男性。",
+     "ex_ja": "このポジションでは、女性の応募者が男性を上回っています。",
+     "parts": [
+      [
+       "out-",
+       "超过",
+       "〜を上回る"
+      ],
+      [
+       "number",
+       "数；计数",
+       "数える"
+      ]
+     ],
+     "note": {
+      "zh": "out-“超过”+ number 当动词“计数”→ 数量上压倒。",
+      "ja": "out-「上回る」＋ number（動詞）→ 数で圧倒する。"
+     },
+     "forms": [
+      [
+       "be outnumbered by",
+       "数量上被……超过",
+       "数で〜に負ける"
+      ],
+      [
+       "number (n.)",
+       "数量",
+       "数"
+      ]
+     ]
+    },
+    {
+     "w": "numeral",
+     "pos": "n.",
+     "ipa": "/ˈnumɚəl/",
+     "zh": "数字（符号）",
+     "ja": "数字；数詞",
+     "ex": "The clock face shows Roman numerals instead of ordinary numbers.",
+     "ex_zh": "钟面上用的是罗马数字而不是普通数字。",
+     "ex_ja": "時計の文字盤にはふつうの数字ではなくローマ数字が使われています。",
+     "parts": [
+      [
+       "numer",
+       "数",
+       "数"
+      ],
+      [
+       "-al",
+       "名词/形容词后缀",
+       "名詞・形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "numer“数”+ -al → 数字。",
+      "ja": "numer「数」＋ -al → 数字。"
+     },
+     "forms": [
+      [
+       "Roman numeral",
+       "罗马数字",
+       "ローマ数字"
+      ],
+      [
+       "Arabic numeral",
+       "阿拉伯数字",
+       "アラビア数字"
+      ]
+     ]
+    },
+    {
+     "w": "numerical",
+     "pos": "adj.",
+     "ipa": "/nuˈmɛrɪkəl/",
+     "zh": "数字的；用数字表示的",
+     "ja": "数の；数値の",
+     "ex": "Please file the invoices in numerical order by account number.",
+     "ex_zh": "请按账户编号的数字顺序归档发票。",
+     "ex_ja": "請求書は口座番号の数字順にファイルしてください。",
+     "parts": [
+      [
+       "numer",
+       "数",
+       "数"
+      ],
+      [
+       "-ical",
+       "……的",
+       "〜の"
+      ]
+     ],
+     "note": {
+      "zh": "numer“数”+ -ical 形容词后缀。",
+      "ja": "numer「数」＋ -ical（形容詞化）。"
+     },
+     "forms": [
+      [
+       "numerical order",
+       "数字顺序",
+       "番号順"
+      ],
+      [
+       "numerically (adv.)",
+       "在数字上",
+       "数の上で"
+      ]
+     ]
+    },
+    {
+     "w": "enumerate",
+     "pos": "v.",
+     "ipa": "/ɪˈnumɚˌeɪt/",
+     "zh": "列举；逐一数出",
+     "ja": "列挙する；数え上げる",
+     "ex": "The contract enumerates each of the services the vendor must provide.",
+     "ex_zh": "合同逐项列出了供应商必须提供的各项服务。",
+     "ex_ja": "契約書には、業者が提供しなければならない各サービスが列挙されています。",
+     "parts": [
+      [
+       "e-",
+       "出",
+       "外へ"
+      ],
+      [
+       "numer",
+       "数",
+       "数"
+      ],
+      [
+       "-ate",
+       "动词后缀",
+       "動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "e-“出”+ numer“数”+ -ate → 一个个数出来 → 列举。",
+      "ja": "e-「外へ」＋ numer「数」＋ -ate → 一つずつ数え出す → 列挙。"
+     },
+     "forms": [
+      [
+       "enumeration (n.)",
+       "列举",
+       "列挙"
+      ],
+      [
+       "enumerate the items",
+       "逐项列出",
+       "項目を列挙する"
+      ]
+     ]
+    },
+    {
+     "w": "innumerable",
+     "pos": "adj.",
+     "ipa": "/ɪˈnumɚəbəl/",
+     "zh": "无数的；数不清的",
+     "ja": "数えきれない",
+     "ex": "The new software has fixed innumerable small errors in our records.",
+     "ex_zh": "新软件修复了我们记录中无数的小错误。",
+     "ex_ja": "新しいソフトは、記録中の数えきれないほどの小さな誤りを修正しました。",
+     "parts": [
+      [
+       "in-",
+       "不",
+       "〜ない"
+      ],
+      [
+       "numer",
+       "数",
+       "数"
+      ],
+      [
+       "-able",
+       "可……的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "in-“不”+ numer“数”+ -able“能……的”→ 数不过来。",
+      "ja": "in-「否定」＋ numer「数」＋ -able「〜できる」→ 数えられない。"
+     },
+     "forms": [
+      [
+       "innumerable times",
+       "无数次",
+       "数えきれないほど"
+      ],
+      [
+       "numerous (adj.)",
+       "众多的",
+       "多数の"
+      ]
+     ]
+    },
+    {
+     "w": "numeric",
+     "pos": "adj.",
+     "ipa": "/nuˈmɛrɪk/",
+     "zh": "数字的；数值的",
+     "ja": "数字の；数値の",
+     "ex": "The password must contain at least one numeric character.",
+     "ex_zh": "密码必须至少包含一个数字字符。",
+     "ex_ja": "パスワードには少なくとも 1 つの数字を含める必要があります。",
+     "parts": [
+      [
+       "numer",
+       "数",
+       "数"
+      ],
+      [
+       "-ic",
+       "……的",
+       "〜の"
+      ]
+     ],
+     "note": {
+      "zh": "numer“数”+ -ic 形容词后缀；与 numerical 同义，多用于计算机语境。",
+      "ja": "numer「数」＋ -ic（形容詞化）。numerical とほぼ同義で、IT でよく使われる。"
+     },
+     "forms": [
+      [
+       "numeric keypad",
+       "数字键盘",
+       "テンキー"
+      ],
+      [
+       "alphanumeric (adj.)",
+       "字母数字混合的",
+       "英数字の"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cycl",
+   "title_zh": "词根 -cycl-：环；周期",
+   "title_ja": "語根 -cycl-：輪；周期",
+   "words": [
+    {
+     "w": "cycle",
+     "pos": "n./v.",
+     "ipa": "/ˈsaɪkəl/",
+     "zh": "周期；循环；自行车",
+     "ja": "周期；循環；自転車で走る",
+     "ex": "The review cycle for each department takes about six weeks.",
+     "ex_zh": "每个部门的评审周期大约需要六周。",
+     "ex_ja": "各部署の審査サイクルには約 6 週間かかります。",
+     "parts": [
+      [
+       "cycl",
+       "圆；环（kyklos）",
+       "円；輪（kyklos）"
+      ]
+     ],
+     "note": {
+      "zh": "来自希腊语 kyklos“圆、环”。",
+      "ja": "ギリシャ語 kyklos「円・輪」から。"
+     },
+     "forms": [
+      [
+       "product cycle",
+       "产品周期",
+       "製品サイクル"
+      ],
+      [
+       "billing cycle",
+       "账单周期",
+       "請求サイクル"
+      ]
+     ]
+    },
+    {
+     "w": "cyclical",
+     "pos": "adj.",
+     "ipa": "/ˈsɪklɪkəl/",
+     "zh": "周期性的；循环的",
+     "ja": "周期的な；循環する",
+     "ex": "Demand for heating oil is cyclical and peaks every winter.",
+     "ex_zh": "取暖油的需求有周期性，每年冬天达到高峰。",
+     "ex_ja": "暖房用灯油の需要は周期的で、毎冬ピークを迎えます。",
+     "parts": [
+      [
+       "cycl",
+       "环",
+       "輪"
+      ],
+      [
+       "-ical",
+       "……的",
+       "〜の"
+      ]
+     ],
+     "note": {
+      "zh": "cycl“环”+ -ical 形容词后缀。注意读音 /ˈsɪklɪkəl/ 的 c 读 /s/。",
+      "ja": "cycl「輪」＋ -ical（形容詞化）。"
+     },
+     "forms": [
+      [
+       "cyclical demand",
+       "周期性需求",
+       "周期的な需要"
+      ],
+      [
+       "cyclic (adj.)",
+       "循环的",
+       "循環の"
+      ]
+     ]
+    },
+    {
+     "w": "bicycle",
+     "pos": "n.",
+     "ipa": "/ˈbaɪˌsɪkəl/",
+     "zh": "自行车",
+     "ja": "自転車",
+     "ex": "Employees who commute by bicycle can use the secure parking room.",
+     "ex_zh": "骑自行车通勤的员工可以使用带门禁的停车间。",
+     "ex_ja": "自転車で通勤する従業員は、施錠された駐輪室を利用できます。",
+     "parts": [
+      [
+       "bi-",
+       "二",
+       "二つの"
+      ],
+      [
+       "cycl",
+       "轮",
+       "輪"
+      ],
+      [
+       "-e",
+       "词尾",
+       "語尾"
+      ]
+     ],
+     "note": {
+      "zh": "bi-“二”+ cycle“轮”→ 两个轮子。",
+      "ja": "bi-「二」＋ cycle「輪」→ 二輪。"
+     },
+     "forms": [
+      [
+       "bicycle lane",
+       "自行车道",
+       "自転車レーン"
+      ],
+      [
+       "bike (n.)",
+       "自行车（口语）",
+       "バイク／自転車"
+      ]
+     ]
+    },
+    {
+     "w": "motorcycle",
+     "pos": "n.",
+     "ipa": "/ˈmoʊtɚˌsaɪkəl/",
+     "zh": "摩托车",
+     "ja": "オートバイ",
+     "ex": "Motorcycles must be parked in the designated area near the entrance.",
+     "ex_zh": "摩托车必须停在入口附近的指定区域。",
+     "ex_ja": "オートバイは入口近くの指定場所に駐車してください。",
+     "parts": [
+      [
+       "motor",
+       "发动机；动力",
+       "原動機"
+      ],
+      [
+       "cycl",
+       "轮",
+       "輪"
+      ]
+     ],
+     "note": {
+      "zh": "motor“发动机”+ cycle“轮”→ 有发动机的二轮车。",
+      "ja": "motor「原動機」＋ cycle「輪」→ 原動機付き二輪車。"
+     },
+     "forms": [
+      [
+       "motorcycle helmet",
+       "摩托车头盔",
+       "バイク用ヘルメット"
+      ],
+      [
+       "motorbike (n.)",
+       "摩托车（英式）",
+       "オートバイ"
+      ]
+     ]
+    },
+    {
+     "w": "cyclist",
+     "pos": "n.",
+     "ipa": "/ˈsaɪklɪst/",
+     "zh": "骑自行车的人",
+     "ja": "自転車に乗る人",
+     "ex": "Cyclists are advised to wear helmets on the riverside path.",
+     "ex_zh": "建议骑行者在河边道路上佩戴头盔。",
+     "ex_ja": "川沿いの道では、自転車に乗る方はヘルメットの着用をお勧めします。",
+     "parts": [
+      [
+       "cycl",
+       "轮",
+       "輪"
+      ],
+      [
+       "-ist",
+       "……者",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "cycle + -ist 表示人。",
+      "ja": "cycle ＋ -ist（人）。"
+     },
+     "forms": [
+      [
+       "a keen cyclist",
+       "热衷骑行的人",
+       "熱心なサイクリスト"
+      ],
+      [
+       "cycling (n.)",
+       "骑行运动",
+       "サイクリング"
+      ]
+     ]
+    },
+    {
+     "w": "encyclopedia",
+     "pos": "n.",
+     "ipa": "/ɪnˌsaɪkləˈpidiə/",
+     "zh": "百科全书",
+     "ja": "百科事典",
+     "ex": "The library's online encyclopedia is free for all card holders.",
+     "ex_zh": "图书馆的在线百科全书对所有持证读者免费。",
+     "ex_ja": "図書館のオンライン百科事典は、カード会員なら無料です。",
+     "parts": [
+      [
+       "en-",
+       "在……中",
+       "〜の中に"
+      ],
+      [
+       "cycl",
+       "圆；环",
+       "円"
+      ],
+      [
+       "paedia",
+       "教育",
+       "教育"
+      ]
+     ],
+     "note": {
+      "zh": "希腊语 enkyklios paideia“完整的教育循环”→ 百科全书。",
+      "ja": "ギリシャ語 enkyklios paideia「円環的な教育」→ 百科事典。"
+     },
+     "forms": [
+      [
+       "online encyclopedia",
+       "在线百科",
+       "オンライン百科事典"
+      ],
+      [
+       "encyclopedic (adj.)",
+       "包罗万象的",
+       "百科全書的な"
+      ]
+     ]
+    },
+    {
+     "w": "lifecycle",
+     "pos": "n.",
+     "ipa": "/ˈlaɪfˌsaɪkəl/",
+     "zh": "生命周期",
+     "ja": "ライフサイクル；製品寿命",
+     "ex": "We track the lifecycle of every product from design to disposal.",
+     "ex_zh": "我们跟踪每件产品从设计到报废的整个生命周期。",
+     "ex_ja": "私たちはすべての製品について、設計から廃棄までのライフサイクルを追跡しています。",
+     "parts": [
+      [
+       "life",
+       "生命",
+       "生命"
+      ],
+      [
+       "cycl",
+       "环",
+       "輪"
+      ],
+      [
+       "-e",
+       "词尾",
+       "語尾"
+      ]
+     ],
+     "note": {
+      "zh": "life“生命”+ cycle“循环”。也可分写为 life cycle。",
+      "ja": "life「生命」＋ cycle「循環」。life cycle と分けて書くこともある。"
+     },
+     "forms": [
+      [
+       "product lifecycle",
+       "产品生命周期",
+       "製品ライフサイクル"
+      ],
+      [
+       "life cycle",
+       "生命周期（分写）",
+       "ライフサイクル（分かち書き）"
+      ]
+     ]
+    },
+    {
+     "w": "cycling",
+     "pos": "n.",
+     "ipa": "/ˈsaɪklɪŋ/",
+     "zh": "骑行；自行车运动",
+     "ja": "サイクリング；自転車に乗ること",
+     "ex": "Cycling to work saves money on fuel and parking.",
+     "ex_zh": "骑车上班可以节省油费和停车费。",
+     "ex_ja": "自転車通勤は、ガソリン代と駐車場代の節約になります。",
+     "parts": [
+      [
+       "cycl",
+       "轮；骑车",
+       "輪"
+      ],
+      [
+       "-ing",
+       "动名词后缀",
+       "〜すること"
+      ]
+     ],
+     "note": {
+      "zh": "cycle 当动词“骑车”+ -ing → 骑行。",
+      "ja": "cycle（動詞「自転車に乗る」）＋ -ing → サイクリング。"
+     },
+     "forms": [
+      [
+       "cycling event",
+       "骑行活动",
+       "サイクリングイベント"
+      ],
+      [
+       "cycle to work",
+       "骑车上班",
+       "自転車で通勤する"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "arch",
+   "title_zh": "词根 -arch-：首领；统治；起初",
+   "title_ja": "語根 -arch-：首長；支配；初め",
+   "words": [
+    {
+     "w": "architecture",
+     "pos": "n.",
+     "ipa": "/ˈɑrkəˌtɛktʃɚ/",
+     "zh": "建筑；建筑学；架构",
+     "ja": "建築；建築学；構造",
+     "ex": "The firm specializes in sustainable architecture for public buildings.",
+     "ex_zh": "这家事务所专注于公共建筑的可持续建筑设计。",
+     "ex_ja": "その事務所は、公共建築のサステナブルな設計を専門としています。",
+     "parts": [
+      [
+       "arch",
+       "首领；主要（archos）",
+       "首位の（archos）"
+      ],
+      [
+       "tect",
+       "建造（tekton）",
+       "建てる（tekton）"
+      ],
+      [
+       "-ure",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "希腊语 arkhitekton“主要建造者”→ 建筑。",
+      "ja": "ギリシャ語 arkhitekton「棟梁」→ 建築。"
+     },
+     "forms": [
+      [
+       "software architecture",
+       "软件架构",
+       "ソフトウェアアーキテクチャ"
+      ],
+      [
+       "architect (n.)",
+       "建筑师",
+       "建築家"
+      ]
+     ]
+    },
+    {
+     "w": "hierarchy",
+     "pos": "n.",
+     "ipa": "/ˈhaɪəˌrɑrki/",
+     "zh": "等级制度；层级",
+     "ja": "階層；序列",
+     "ex": "Our company has a flat hierarchy with only three management levels.",
+     "ex_zh": "我们公司层级扁平，只有三个管理级别。",
+     "ex_ja": "当社は階層がフラットで、管理職のレベルは 3 つだけです。",
+     "parts": [
+      [
+       "hier",
+       "神圣的（hieros）",
+       "神聖な（hieros）"
+      ],
+      [
+       "arch",
+       "统治（archos）",
+       "支配（archos）"
+      ],
+      [
+       "-y",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "希腊语 hierarkhia“神圣的统治”→ 等级制度。",
+      "ja": "ギリシャ語 hierarkhia「聖なる支配」→ 階層制。"
+     },
+     "forms": [
+      [
+       "management hierarchy",
+       "管理层级",
+       "経営の階層"
+      ],
+      [
+       "hierarchical (adj.)",
+       "等级的",
+       "階層的な"
+      ]
+     ]
+    },
+    {
+     "w": "hierarchical",
+     "pos": "adj.",
+     "ipa": "/ˌhaɪəˈrɑrkɪkəl/",
+     "zh": "分等级的；层级式的",
+     "ja": "階層的な；階層制の",
+     "ex": "Some employees prefer a hierarchical structure with clear reporting lines.",
+     "ex_zh": "一些员工更喜欢汇报线清晰的层级式结构。",
+     "ex_ja": "明確な報告ラインのある階層的な組織を好む従業員もいます。",
+     "parts": [
+      [
+       "hier",
+       "神圣",
+       "神聖な"
+      ],
+      [
+       "arch",
+       "统治",
+       "支配"
+      ],
+      [
+       "-ical",
+       "……的",
+       "〜の"
+      ]
+     ],
+     "note": {
+      "zh": "hierarchy 的形容词形式。",
+      "ja": "hierarchy の形容詞形。"
+     },
+     "forms": [
+      [
+       "hierarchical structure",
+       "层级结构",
+       "階層構造"
+      ],
+      [
+       "hierarchy (n.)",
+       "层级",
+       "階層"
+      ]
+     ]
+    },
+    {
+     "w": "monarchy",
+     "pos": "n.",
+     "ipa": "/ˈmɑnɚki/",
+     "zh": "君主制；君主国",
+     "ja": "君主制；君主国",
+     "ex": "The tour includes a visit to the palace of the royal monarchy.",
+     "ex_zh": "行程包括参观君主制王室的宫殿。",
+     "ex_ja": "ツアーには、王室の宮殿の見学が含まれています。",
+     "parts": [
+      [
+       "mon(o)-",
+       "单独",
+       "ひとつの"
+      ],
+      [
+       "arch",
+       "统治",
+       "支配"
+      ],
+      [
+       "-y",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "mono“单个”+ arch“统治”→ 一人统治 → 君主制。",
+      "ja": "mono「一つ」＋ arch「支配」→ 一人の支配 → 君主制。"
+     },
+     "forms": [
+      [
+       "constitutional monarchy",
+       "君主立宪制",
+       "立憲君主制"
+      ],
+      [
+       "monarch (n.)",
+       "君主",
+       "君主"
+      ]
+     ]
+    },
+    {
+     "w": "archaic",
+     "pos": "adj.",
+     "ipa": "/ɑrˈkeɪɪk/",
+     "zh": "陈旧的；古老的",
+     "ja": "古めかしい；時代遅れの",
+     "ex": "The archaic filing system made it difficult to find records quickly.",
+     "ex_zh": "陈旧的归档系统让快速查找记录变得很困难。",
+     "ex_ja": "時代遅れのファイリングシステムのせいで、記録をすばやく探すのが困難でした。",
+     "parts": [
+      [
+       "arch",
+       "起初；古老（arkhe）",
+       "初め；古い（arkhe）"
+      ],
+      [
+       "-aic",
+       "……的",
+       "〜の"
+      ]
+     ],
+     "note": {
+      "zh": "希腊语 arkhe“起初”→ 古老的。注意与 arch（统治）同形，但意义不同。",
+      "ja": "ギリシャ語 arkhe「初め」→ 古い。arch「支配」と形は同じだが意味は別。"
+     },
+     "forms": [
+      [
+       "archaic system",
+       "过时的系统",
+       "時代遅れのシステム"
+      ],
+      [
+       "outdated (adj.)",
+       "过时的",
+       "時代遅れの"
+      ]
+     ]
+    },
+    {
+     "w": "anarchy",
+     "pos": "n.",
+     "ipa": "/ˈænɚki/",
+     "zh": "无政府状态；混乱",
+     "ja": "無政府状態；大混乱",
+     "ex": "Without clear rules, the new office fell into anarchy within weeks.",
+     "ex_zh": "没有明确的规则，新办公室几周内就陷入了混乱。",
+     "ex_ja": "明確なルールがないため、新しいオフィスは数週間で大混乱に陥りました。",
+     "parts": [
+      [
+       "an-",
+       "没有",
+       "〜がない"
+      ],
+      [
+       "arch",
+       "统治",
+       "支配"
+      ],
+      [
+       "-y",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "an-“无”+ arch“统治”→ 无人统治 → 无政府状态。",
+      "ja": "an-「無」＋ arch「支配」→ 支配者なし → 無政府状態。"
+     },
+     "forms": [
+      [
+       "anarchist (n.)",
+       "无政府主义者",
+       "無政府主義者"
+      ],
+      [
+       "chaos (n.)",
+       "混乱",
+       "混乱"
+      ]
+     ]
+    },
+    {
+     "w": "archival",
+     "pos": "adj.",
+     "ipa": "/ɑrˈkaɪvəl/",
+     "zh": "档案的；存档的",
+     "ja": "保管記録の；アーカイブの",
+     "ex": "Archival photos of the factory are displayed in the main lobby.",
+     "ex_zh": "工厂的档案照片陈列在大厅里。",
+     "ex_ja": "工場の記録写真が正面ロビーに展示されています。",
+     "parts": [
+      [
+       "arch",
+       "起初；官府（arkheion）",
+       "役所（arkheion）"
+      ],
+      [
+       "-al",
+       "……的",
+       "〜の"
+      ]
+     ],
+     "note": {
+      "zh": "来自希腊语 arkheion“官府、档案处”，与 archive 同源。",
+      "ja": "ギリシャ語 arkheion「役所・文書庫」。archive と同源。"
+     },
+     "forms": [
+      [
+       "archival footage",
+       "档案影像",
+       "アーカイブ映像"
+      ],
+      [
+       "archive (n.)",
+       "档案",
+       "記録保管所"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "security",
+   "title_zh": "主题：网络安全与数据隐私",
+   "title_ja": "テーマ：サイバーセキュリティとデータ保護",
+   "words": [
+    {
+     "w": "cybersecurity",
+     "pos": "n.",
+     "ipa": "/ˌsaɪbɚsɪˈkjʊrɪti/",
+     "zh": "网络安全",
+     "ja": "サイバーセキュリティ",
+     "ex": "The company hired a consultant to review its cybersecurity measures.",
+     "ex_zh": "公司聘请了一名顾问来审查其网络安全措施。",
+     "ex_ja": "会社はサイバーセキュリティ対策を見直すためにコンサルタントを雇いました。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，作为整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚えます。"
+     },
+     "forms": [
+      [
+       "cybersecurity team",
+       "网络安全团队",
+       "サイバーセキュリティチーム"
+      ],
+      [
+       "security (n.)",
+       "安全",
+       "安全"
+      ]
+     ]
+    },
+    {
+     "w": "safeguard",
+     "pos": "n./v.",
+     "ipa": "/ˈseɪfˌgɑrd/",
+     "zh": "保障；保护措施；保护",
+     "ja": "保護（手段）；守る",
+     "ex": "We use encryption to safeguard customer information.",
+     "ex_zh": "我们使用加密来保护客户信息。",
+     "ex_ja": "当社は顧客情報を守るために暗号化を使用しています。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，作为整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚えます。"
+     },
+     "forms": [
+      [
+       "safeguard against",
+       "防范",
+       "〜から守る"
+      ],
+      [
+       "safeguards (n.)",
+       "保护措施",
+       "保護措置"
+      ]
+     ]
+    },
+    {
+     "w": "vulnerability",
+     "pos": "n.",
+     "ipa": "/ˌvʌlnɚəˈbɪlɪti/",
+     "zh": "弱点；漏洞；易受攻击性",
+     "ja": "脆弱性；弱点",
+     "ex": "The test revealed a serious vulnerability in the payment system.",
+     "ex_zh": "测试发现支付系统存在严重漏洞。",
+     "ex_ja": "テストにより、決済システムの重大な脆弱性が見つかりました。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，作为整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚えます。"
+     },
+     "forms": [
+      [
+       "security vulnerability",
+       "安全漏洞",
+       "セキュリティ上の脆弱性"
+      ],
+      [
+       "vulnerable (adj.)",
+       "脆弱的",
+       "脆弱な"
+      ]
+     ]
+    },
+    {
+     "w": "vulnerable",
+     "pos": "adj.",
+     "ipa": "/ˈvʌlnɚəbəl/",
+     "zh": "易受攻击的；脆弱的",
+     "ja": "攻撃を受けやすい；脆弱な",
+     "ex": "Older software is more vulnerable to cyberattacks.",
+     "ex_zh": "旧版软件更容易受到网络攻击。",
+     "ex_ja": "古いソフトウェアはサイバー攻撃を受けやすくなります。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，作为整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚えます。"
+     },
+     "forms": [
+      [
+       "vulnerable to",
+       "易受……影响",
+       "〜に弱い"
+      ],
+      [
+       "vulnerability (n.)",
+       "弱点",
+       "脆弱性"
+      ]
+     ],
+     "tip": {
+      "zh": "搭配 be vulnerable to + 名词。",
+      "ja": "be vulnerable to ＋ 名詞 の形で使う。"
+     }
+    },
+    {
+     "w": "intrusion",
+     "pos": "n.",
+     "ipa": "/ɪnˈtruʒən/",
+     "zh": "入侵；闯入",
+     "ja": "侵入；邪魔",
+     "ex": "The system sent an alert as soon as it detected an intrusion.",
+     "ex_zh": "系统一检测到入侵就发出了警报。",
+     "ex_ja": "システムは侵入を検知するとすぐに警告を出しました。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，作为整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚えます。"
+     },
+     "forms": [
+      [
+       "intrusion detection",
+       "入侵检测",
+       "不正侵入検知"
+      ],
+      [
+       "intrude (v.)",
+       "侵入",
+       "侵入する"
+      ]
+     ]
+    },
+    {
+     "w": "authenticate",
+     "pos": "v.",
+     "ipa": "/ɔˈθɛntəˌkeɪt/",
+     "zh": "验证；认证",
+     "ja": "認証する；本物と証明する",
+     "ex": "Users must authenticate with a code sent to their phones.",
+     "ex_zh": "用户必须使用发送到手机的验证码进行身份验证。",
+     "ex_ja": "ユーザーは携帯電話に送られるコードで認証する必要があります。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，作为整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚えます。"
+     },
+     "forms": [
+      [
+       "authentication (n.)",
+       "认证",
+       "認証"
+      ],
+      [
+       "two-step authentication",
+       "两步验证",
+       "二段階認証"
+      ]
+     ]
+    },
+    {
+     "w": "encrypt",
+     "pos": "v.",
+     "ipa": "/ɪnˈkrɪpt/",
+     "zh": "加密",
+     "ja": "暗号化する",
+     "ex": "All stored payment data is encrypted for protection.",
+     "ex_zh": "所有存储的付款数据都经过加密保护。",
+     "ex_ja": "保存されているすべての支払いデータは保護のために暗号化されています。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，作为整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚えます。"
+     },
+     "forms": [
+      [
+       "encrypted file",
+       "加密文件",
+       "暗号化されたファイル"
+      ],
+      [
+       "encryption (n.)",
+       "加密",
+       "暗号化"
+      ]
+     ]
+    },
+    {
+     "w": "decrypt",
+     "pos": "v.",
+     "ipa": "/diˈkrɪpt/",
+     "zh": "解密",
+     "ja": "復号する；暗号を解く",
+     "ex": "Only authorized staff have the key needed to decrypt the files.",
+     "ex_zh": "只有授权员工才有解密这些文件所需的密钥。",
+     "ex_ja": "許可された職員だけがファイルの復号に必要な鍵を持っています。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，作为整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚えます。"
+     },
+     "forms": [
+      [
+       "decryption key",
+       "解密密钥",
+       "復号キー"
+      ],
+      [
+       "decode (v.)",
+       "解码",
+       "解読する"
+      ]
+     ]
+    },
+    {
+     "w": "leakage",
+     "pos": "n.",
+     "ipa": "/ˈlikɪdʒ/",
+     "zh": "泄漏；渗漏",
+     "ja": "漏えい；漏れ",
+     "ex": "The new policy aims to prevent data leakage through personal devices.",
+     "ex_zh": "新政策旨在防止数据通过个人设备泄漏。",
+     "ex_ja": "新しい方針は、個人端末からのデータ漏えいを防ぐことを目的としています。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，作为整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚えます。"
+     },
+     "forms": [
+      [
+       "data leakage",
+       "数据泄漏",
+       "データ漏えい"
+      ],
+      [
+       "leak (v.)",
+       "泄漏",
+       "漏らす"
+      ]
+     ]
+    },
+    {
+     "w": "anonymity",
+     "pos": "n.",
+     "ipa": "/ˌænəˈnɪmɪti/",
+     "zh": "匿名；匿名性",
+     "ja": "匿名性",
+     "ex": "Survey participants are guaranteed complete anonymity.",
+     "ex_zh": "调查参与者的匿名性得到充分保证。",
+     "ex_ja": "アンケート参加者の匿名性は完全に保証されます。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，作为整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚えます。"
+     },
+     "forms": [
+      [
+       "maintain anonymity",
+       "保持匿名",
+       "匿名を保つ"
+      ],
+      [
+       "anonymous (adj.)",
+       "匿名的",
+       "匿名の"
+      ]
+     ]
+    },
+    {
+     "w": "privacy",
+     "pos": "n.",
+     "ipa": "/ˈpraɪvəsi/",
+     "zh": "隐私；私密",
+     "ja": "プライバシー",
+     "ex": "Our privacy policy explains how we handle personal data.",
+     "ex_zh": "我们的隐私政策说明了我们如何处理个人数据。",
+     "ex_ja": "当社のプライバシーポリシーは、個人データの取り扱い方法を説明しています。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，作为整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚えます。"
+     },
+     "forms": [
+      [
+       "privacy policy",
+       "隐私政策",
+       "プライバシーポリシー"
+      ],
+      [
+       "invasion of privacy",
+       "侵犯隐私",
+       "プライバシーの侵害"
+      ]
+     ]
+    },
+    {
+     "w": "hacker",
+     "pos": "n.",
+     "ipa": "/ˈhækɚ/",
+     "zh": "黑客；入侵者",
+     "ja": "ハッカー",
+     "ex": "A hacker gained access to the database through a stolen password.",
+     "ex_zh": "一名黑客通过被盗的密码进入了数据库。",
+     "ex_ja": "ハッカーは盗まれたパスワードを使ってデータベースに侵入しました。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，作为整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚えます。"
+     },
+     "forms": [
+      [
+       "hack into",
+       "入侵",
+       "〜に不正侵入する"
+      ],
+      [
+       "hacking (n.)",
+       "黑客行为",
+       "ハッキング"
+      ]
+     ]
+    },
+    {
+     "w": "malicious",
+     "pos": "adj.",
+     "ipa": "/məˈlɪʃəs/",
+     "zh": "恶意的",
+     "ja": "悪意のある",
+     "ex": "Do not open attachments that may contain malicious software.",
+     "ex_zh": "请勿打开可能含有恶意软件的附件。",
+     "ex_ja": "悪意のあるソフトウェアが含まれている可能性のある添付ファイルは開かないでください。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，作为整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚えます。"
+     },
+     "forms": [
+      [
+       "malicious software",
+       "恶意软件",
+       "悪意のあるソフトウェア"
+      ],
+      [
+       "malice (n.)",
+       "恶意",
+       "悪意"
+      ]
+     ]
+    },
+    {
+     "w": "legitimate",
+     "pos": "adj.",
+     "ipa": "/lɪˈdʒɪtəmɪt/",
+     "zh": "合法的；正当的；真实的",
+     "ja": "合法の；正当な；本物の",
+     "ex": "Please make sure the e-mail comes from a legitimate sender.",
+     "ex_zh": "请确认这封邮件来自正规的发件人。",
+     "ex_ja": "そのメールが正規の送信者から届いたものか確認してください。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，作为整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚えます。"
+     },
+     "forms": [
+      [
+       "legitimate business",
+       "正当业务",
+       "正当な事業"
+      ],
+      [
+       "legitimately (adv.)",
+       "合法地",
+       "合法的に"
+      ]
+     ]
+    },
+    {
+     "w": "biometrics",
+     "pos": "n.",
+     "ipa": "/ˌbaɪoʊˈmɛtrɪks/",
+     "zh": "生物识别技术",
+     "ja": "生体認証",
+     "ex": "The building uses biometrics, such as fingerprints, for entry.",
+     "ex_zh": "大楼使用指纹等生物识别技术进行出入管理。",
+     "ex_ja": "そのビルでは、指紋などの生体認証で入退室を管理しています。",
+     "parts": [
+      [
+       "bio",
+       "生命（bios）",
+       "生命（bios）"
+      ],
+      [
+       "metr",
+       "测量（metron）",
+       "測定（metron）"
+      ],
+      [
+       "-ics",
+       "学科/技术",
+       "〜学・技術"
+      ]
+     ],
+     "note": {
+      "zh": "bio“生命”+ metr“测量”→ 测量生物特征。",
+      "ja": "bio「生命」＋ metr「測る」→ 生体の測定。"
+     },
+     "forms": [
+      [
+       "biometric scan",
+       "生物特征扫描",
+       "生体スキャン"
+      ],
+      [
+       "biometric (adj.)",
+       "生物识别的",
+       "生体の"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "medical",
+   "title_zh": "主题：医疗健康与药品",
+   "title_ja": "テーマ：医療・健康と薬",
+   "words": [
+    {
+     "w": "pharmacist",
+     "pos": "n.",
+     "ipa": "/ˈfɑrməsɪst/",
+     "zh": "药剂师",
+     "ja": "薬剤師",
+     "ex": "Ask the pharmacist if the medicine is safe to take with food.",
+     "ex_zh": "请询问药剂师这种药能否随餐服用。",
+     "ex_ja": "その薬を食事と一緒に飲んで大丈夫か、薬剤師に尋ねてください。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，作为整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚えます。"
+     },
+     "forms": [
+      [
+       "pharmacy (n.)",
+       "药房",
+       "薬局"
+      ],
+      [
+       "consult a pharmacist",
+       "咨询药剂师",
+       "薬剤師に相談する"
+      ]
+     ]
+    },
+    {
+     "w": "immunization",
+     "pos": "n.",
+     "ipa": "/ˌɪmjənəˈzeɪʃən/",
+     "zh": "免疫接种",
+     "ja": "予防接種",
+     "ex": "The clinic offers free immunization for all staff in October.",
+     "ex_zh": "诊所十月为全体员工提供免费的免疫接种。",
+     "ex_ja": "クリニックは 10 月に全従業員へ無料の予防接種を行います。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，作为整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚えます。"
+     },
+     "forms": [
+      [
+       "immunization record",
+       "接种记录",
+       "予防接種記録"
+      ],
+      [
+       "immune (adj.)",
+       "免疫的",
+       "免疫のある"
+      ]
+     ]
+    },
+    {
+     "w": "allergic",
+     "pos": "adj.",
+     "ipa": "/əˈlɝdʒɪk/",
+     "zh": "过敏的",
+     "ja": "アレルギーのある",
+     "ex": "Please tell the server if you are allergic to any ingredients.",
+     "ex_zh": "如果您对任何食材过敏，请告诉服务员。",
+     "ex_ja": "アレルギーのある食材があれば、スタッフにお知らせください。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，作为整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚えます。"
+     },
+     "forms": [
+      [
+       "allergic to",
+       "对……过敏",
+       "〜にアレルギーがある"
+      ],
+      [
+       "allergy (n.)",
+       "过敏",
+       "アレルギー"
+      ]
+     ],
+     "tip": {
+      "zh": "搭配 be allergic to + 名词。",
+      "ja": "be allergic to ＋ 名詞 の形で使う。"
+     }
+    },
+    {
+     "w": "specialist",
+     "pos": "n.",
+     "ipa": "/ˈspɛʃəlɪst/",
+     "zh": "专家；专科医生",
+     "ja": "専門家；専門医",
+     "ex": "The doctor referred her to a specialist for further tests.",
+     "ex_zh": "医生把她转诊给专科医生做进一步检查。",
+     "ex_ja": "医師は彼女を、さらなる検査のために専門医に紹介しました。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，作为整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚えます。"
+     },
+     "forms": [
+      [
+       "refer to a specialist",
+       "转诊专科",
+       "専門医に紹介する"
+      ],
+      [
+       "specialize in",
+       "专攻",
+       "〜を専門にする"
+      ]
+     ]
+    },
+    {
+     "w": "checkup",
+     "pos": "n.",
+     "ipa": "/ˈtʃɛkˌʌp/",
+     "zh": "体检；检查",
+     "ja": "健康診断；検査",
+     "ex": "All employees must schedule an annual medical checkup.",
+     "ex_zh": "所有员工都必须安排每年一次的体检。",
+     "ex_ja": "全従業員は年に一度、健康診断の予約を入れなければなりません。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，作为整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚えます。"
+     },
+     "forms": [
+      [
+       "annual checkup",
+       "年度体检",
+       "年に一度の健診"
+      ],
+      [
+       "dental checkup",
+       "牙科检查",
+       "歯科検診"
+      ]
+     ]
+    },
+    {
+     "w": "nurse",
+     "pos": "n.",
+     "ipa": "/nɝs/",
+     "zh": "护士",
+     "ja": "看護師",
+     "ex": "A nurse is on duty in the office from nine to five.",
+     "ex_zh": "办公室里有一名护士从九点到五点值班。",
+     "ex_ja": "オフィスには 9 時から 5 時まで看護師が常駐しています。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，作为整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚えます。"
+     },
+     "forms": [
+      [
+       "head nurse",
+       "护士长",
+       "看護師長"
+      ],
+      [
+       "nursing (n.)",
+       "护理",
+       "看護"
+      ]
+     ]
+    },
+    {
+     "w": "therapist",
+     "pos": "n.",
+     "ipa": "/ˈθɛrəpɪst/",
+     "zh": "治疗师；理疗师",
+     "ja": "セラピスト；療法士",
+     "ex": "The company pays for sessions with a physical therapist.",
+     "ex_zh": "公司为员工支付理疗师的治疗费用。",
+     "ex_ja": "会社は理学療法士による施術の費用を負担します。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，作为整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚えます。"
+     },
+     "forms": [
+      [
+       "physical therapist",
+       "物理治疗师",
+       "理学療法士"
+      ],
+      [
+       "therapy (n.)",
+       "疗法",
+       "療法"
+      ]
+     ]
+    },
+    {
+     "w": "ailment",
+     "pos": "n.",
+     "ipa": "/ˈeɪlmənt/",
+     "zh": "小病；不适",
+     "ja": "軽い病気；不調",
+     "ex": "Minor ailments such as colds should not keep you from reporting an absence.",
+     "ex_zh": "感冒之类的小病不应妨碍您报告缺勤。",
+     "ex_ja": "風邪などの軽い不調でも、欠勤の連絡を怠らないでください。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，作为整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚えます。"
+     },
+     "forms": [
+      [
+       "minor ailment",
+       "小病",
+       "軽い病気"
+      ],
+      [
+       "ail (v.)",
+       "使痛苦",
+       "悩ませる"
+      ]
+     ]
+    },
+    {
+     "w": "dizzy",
+     "pos": "adj.",
+     "ipa": "/ˈdɪzi/",
+     "zh": "头晕的；眩晕的",
+     "ja": "めまいがする",
+     "ex": "Employees who feel dizzy should stop work and sit down.",
+     "ex_zh": "感到头晕的员工应停止工作并坐下。",
+     "ex_ja": "めまいを感じた従業員は、作業をやめて座ってください。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，作为整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚えます。"
+     },
+     "forms": [
+      [
+       "feel dizzy",
+       "感到头晕",
+       "めまいがする"
+      ],
+      [
+       "dizziness (n.)",
+       "眩晕",
+       "めまい"
+      ]
+     ]
+    },
+    {
+     "w": "fatigue",
+     "pos": "n.",
+     "ipa": "/fəˈtig/",
+     "zh": "疲劳；疲倦",
+     "ja": "疲労",
+     "ex": "Long shifts without breaks can lead to fatigue and mistakes.",
+     "ex_zh": "长时间不休息的班次会导致疲劳和失误。",
+     "ex_ja": "休憩なしの長時間勤務は、疲労やミスにつながります。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，作为整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚えます。"
+     },
+     "forms": [
+      [
+       "driver fatigue",
+       "驾驶疲劳",
+       "運転疲労"
+      ],
+      [
+       "fatigued (adj.)",
+       "疲倦的",
+       "疲れた"
+      ]
+     ]
+    },
+    {
+     "w": "infection",
+     "pos": "n.",
+     "ipa": "/ɪnˈfɛkʃən/",
+     "zh": "感染",
+     "ja": "感染（症）",
+     "ex": "Washing hands often helps prevent the spread of infection.",
+     "ex_zh": "勤洗手有助于预防感染扩散。",
+     "ex_ja": "こまめな手洗いは感染の拡大防止に役立ちます。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，作为整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚えます。"
+     },
+     "forms": [
+      [
+       "prevent infection",
+       "预防感染",
+       "感染を防ぐ"
+      ],
+      [
+       "infect (v.)",
+       "感染",
+       "感染させる"
+      ]
+     ]
+    },
+    {
+     "w": "pharmaceutical",
+     "pos": "adj.",
+     "ipa": "/ˌfɑrməˈsutɪkəl/",
+     "zh": "制药的；药物的",
+     "ja": "製薬の；薬剤の",
+     "ex": "She works in sales for a large pharmaceutical company.",
+     "ex_zh": "她在一家大型制药公司做销售。",
+     "ex_ja": "彼女は大手製薬会社で営業をしています。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，作为整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚えます。"
+     },
+     "forms": [
+      [
+       "pharmaceutical industry",
+       "制药行业",
+       "製薬業界"
+      ],
+      [
+       "pharmaceuticals (n.)",
+       "药品",
+       "医薬品"
+      ]
+     ]
+    },
+    {
+     "w": "injection",
+     "pos": "n.",
+     "ipa": "/ɪnˈdʒɛkʃən/",
+     "zh": "注射；注入",
+     "ja": "注射；注入",
+     "ex": "The nurse gave the patient an injection to ease the pain.",
+     "ex_zh": "护士给病人打了一针来缓解疼痛。",
+     "ex_ja": "看護師は痛みを和らげるために患者に注射をしました。",
+     "parts": [
+      [
+       "in-",
+       "向内",
+       "中へ"
+      ],
+      [
+       "ject",
+       "投、扔（jacere）",
+       "投げる（jacere）"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "in-“向内”+ ject“投”→ 把药投进体内 → 注射。",
+      "ja": "in-「中へ」＋ ject「投げる」→ 体内へ入れる → 注射。"
+     },
+     "forms": [
+      [
+       "flu injection",
+       "流感疫苗注射",
+       "インフルエンザの注射"
+      ],
+      [
+       "inject (v.)",
+       "注射",
+       "注射する"
+      ]
+     ]
+    },
+    {
+     "w": "ointment",
+     "pos": "n.",
+     "ipa": "/ˈɔɪntmənt/",
+     "zh": "软膏；药膏",
+     "ja": "軟膏",
+     "ex": "Apply the ointment to the affected area twice a day.",
+     "ex_zh": "请每天两次将药膏涂在患处。",
+     "ex_ja": "軟膏は 1 日 2 回、患部に塗ってください。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，作为整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚えます。"
+     },
+     "forms": [
+      [
+       "apply ointment",
+       "涂药膏",
+       "軟膏を塗る"
+      ],
+      [
+       "antibiotic ointment",
+       "抗生素药膏",
+       "抗生物質の軟膏"
+      ]
+     ]
+    },
+    {
+     "w": "bandage",
+     "pos": "n./v.",
+     "ipa": "/ˈbændɪdʒ/",
+     "zh": "绷带；包扎",
+     "ja": "包帯（を巻く）",
+     "ex": "The first-aid kit contains scissors, tape, and a roll of bandage.",
+     "ex_zh": "急救箱里有剪刀、胶带和一卷绷带。",
+     "ex_ja": "救急箱にはハサミ、テープ、包帯が一巻入っています。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，作为整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚えます。"
+     },
+     "forms": [
+      [
+       "first-aid kit",
+       "急救箱",
+       "救急箱"
+      ],
+      [
+       "bandage a wound",
+       "包扎伤口",
+       "傷に包帯を巻く"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}
