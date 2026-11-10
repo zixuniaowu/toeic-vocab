@@ -1,0 +1,2292 @@
+{
+ "day": 39,
+ "date": "2026-11-11",
+ "title_zh": "四大词根 + 职场合规与卫生法务、酒店场地与制造车间",
+ "title_ja": "4つの語根＋職場のコンプライアンス・衛生・法務、ホテル会場と工場",
+ "intro_zh": "今天掌握 4 个词根（ced/cess 走 / cept 拿 / mit 送 / leg·lect 选·读·法），再学职场合规与卫生法务、酒店场地与制造车间的核心词——强化 Part 5 固定搭配（be susceptible to、be receptive to、in compliance with、in anticipation of）和易混词（illegible 与 illegal、successive 与 successful、exception 与 exceptional、precedent 与 precedence）。",
+ "intro_ja": "今日は語根 4 つ（ced/cess 行く／cept 取る／mit 送る／leg・lect 選ぶ・読む・法）と、職場のコンプライアンス・衛生・法務、ホテル会場と工場の重要語を学びます。Part 5 の語法（be susceptible to、be receptive to、in compliance with、in anticipation of）と紛らわしい語（illegible と illegal、successive と successful、exception と exceptional）を押さえます。",
+ "voice": "en-US-AriaNeural",
+ "roots": [
+  {
+   "root": "-ced- / -cess-",
+   "origin": "Latin cedere, cessus",
+   "zh": "走；前进",
+   "ja": "行く；進む",
+   "exp_zh": "来自拉丁语 cedere（走、让步）及其分词 cessus。走在前面 → precedent；走到跟前 → accessible；接着走来 → successive；退回去 → recede。⚠️ 注意 proceed（继续）、exceed（超过）、succeed（成功）三个词的 -ceed 拼写，和 -cede 拼写不同。",
+   "exp_ja": "ラテン語 cedere（行く・譲る）とその分詞 cessus から。先に行く → precedent；近づく → accessible；続く → successive；退く → recede。⚠️ proceed／exceed／succeed は -ceed、precede／recede は -cede と綴りが違う。",
+   "examples": [
+    "precedent",
+    "precedence",
+    "unprecedented",
+    "recede",
+    "accessible",
+    "successive",
+    "succession",
+    "predecessor",
+    "cease"
+   ]
+  },
+  {
+   "root": "-cept- / -ceive- / -cip-",
+   "origin": "Latin capere, captus",
+   "zh": "拿；取",
+   "ja": "取る",
+   "exp_zh": "来自拉丁语 capere（拿、取）。往里拿 → receive / acceptance；拿在手下 → susceptible；先拿到 → anticipation；拦在半路 → intercept。⚠️ -ceive 动词与 -ception 名词是一对：deceive → deception，perceive → perception。",
+   "exp_ja": "ラテン語 capere（取る）から。受け取る → receive／acceptance；下に取る → susceptible；先取り → anticipation；途中で取る → intercept。⚠️ -ceive の動詞と -ception の名詞が対：deceive → deception。",
+   "examples": [
+    "susceptible",
+    "anticipation",
+    "perceptive",
+    "receptive",
+    "intercept",
+    "deceive",
+    "concept",
+    "acceptance",
+    "exception"
+   ]
+  },
+  {
+   "root": "-mit- / -miss-",
+   "origin": "Latin mittere, missus",
+   "zh": "送；发",
+   "ja": "送る",
+   "exp_zh": "来自拉丁语 mittere（送）及其分词 missus。往下送 → submission；送回 → remit；送出 → emit；送进来 → admit；送漏 → omission。⚠️ 双写规则：commit → committed / commitment，admit → admitted，但 remit → remittance。",
+   "exp_ja": "ラテン語 mittere（送る）とその分詞 missus から。下に送る → submission；送り返す → remit；送り出す → emit；入れる → admit；抜ける → omission。⚠️ commit → committed／commitment、admit → admitted と t が重なる。",
+   "examples": [
+    "submission",
+    "commit",
+    "remit",
+    "emit",
+    "admit",
+    "omission",
+    "permissible",
+    "transmittal"
+   ]
+  },
+  {
+   "root": "-leg- / -lect-",
+   "origin": "Latin legere, lectus; lex, legis",
+   "zh": "选；读；法",
+   "ja": "選ぶ；読む；法",
+   "exp_zh": "来自拉丁语 legere（选、读）与 lex, legis（法）。挑出来 → selective / elective；读 → legible；法律 → legal / legislature。⚠️ 两条线要分开记：legible 是“读”，legal 是“法”；negligent 的 leg 是“留心、挑选”。",
+   "exp_ja": "ラテン語 legere（選ぶ・読む）と lex, legis（法）から。選ぶ → selective／elective；読む → legible；法 → legal／legislature。⚠️ legible は「読む」、legal は「法」と別系統。",
+   "examples": [
+    "selective",
+    "elective",
+    "negligent",
+    "intellect",
+    "illegible",
+    "legislature",
+    "legacy",
+    "illegal"
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "ced",
+   "title_zh": "词根 -ced-/-cess-：走",
+   "title_ja": "語根 -ced-/-cess-：行く",
+   "words": [
+    {
+     "w": "precedent",
+     "pos": "n.",
+     "ipa": "/ˈprɛsɪdənt/",
+     "zh": "先例；判例",
+     "ja": "前例；判例",
+     "ex": "The court's decision set a precedent for similar cases.",
+     "ex_zh": "法院的裁决为类似案件开了先例。",
+     "ex_ja": "裁判所の判断は、同様の事例の先例となった。",
+     "parts": [
+      [
+       "pre-",
+       "在前",
+       "前に"
+      ],
+      [
+       "ced",
+       "走",
+       "行く"
+      ],
+      [
+       "-ent",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "pre“在前”+ ced“走”→ 走在前面的事例 → 先例。",
+      "ja": "pre「前に」＋ ced「行く」→ 先に行った事例 → 前例。"
+     },
+     "forms": [
+      [
+       "set a precedent",
+       "开先例",
+       "前例を作る"
+      ],
+      [
+       "without precedent",
+       "史无前例",
+       "前例のない"
+      ]
+     ],
+     "tip": {
+      "zh": "名词重音在第一音节 /ˈprɛ/；动词 precede 重音在第二音节。",
+      "ja": "名詞は第1音節にアクセント、動詞 precede は第2音節。"
+     }
+    },
+    {
+     "w": "precedence",
+     "pos": "n.",
+     "ipa": "/ˈprɛsɪdəns/",
+     "zh": "优先权；优先",
+     "ja": "優先；優先権",
+     "ex": "Safety must take precedence over speed on the production line.",
+     "ex_zh": "在生产线上，安全必须优先于速度。",
+     "ex_ja": "生産ラインでは、スピードより安全が優先されなければならない。",
+     "parts": [
+      [
+       "pre-",
+       "在前",
+       "前に"
+      ],
+      [
+       "ced",
+       "走",
+       "行く"
+      ],
+      [
+       "-ence",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "pre + ced + -ence：走在前面 → 优先。",
+      "ja": "pre＋ced＋-ence：先に行く → 優先。"
+     },
+     "forms": [
+      [
+       "take precedence over",
+       "优先于",
+       "〜より優先する"
+      ],
+      [
+       "order of precedence",
+       "优先顺序",
+       "優先順位"
+      ]
+     ]
+    },
+    {
+     "w": "unprecedented",
+     "pos": "adj.",
+     "ipa": "/ʌnˈprɛsɪˌdɛntɪd/",
+     "zh": "史无前例的",
+     "ja": "前例のない",
+     "ex": "The company reported unprecedented growth in online sales this year.",
+     "ex_zh": "公司报告今年网络销售出现了史无前例的增长。",
+     "ex_ja": "同社は今年、オンライン販売で前例のない成長を報告した。",
+     "parts": [
+      [
+       "un-",
+       "没有",
+       "〜がない"
+      ],
+      [
+       "pre-",
+       "在前",
+       "前に"
+      ],
+      [
+       "ced",
+       "走",
+       "行く"
+      ],
+      [
+       "-ented",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "un“没有”+ precedent“先例”+ -ed → 没有先例的。",
+      "ja": "un「ない」＋ precedent「前例」＋ -ed → 前例のない。"
+     },
+     "forms": [
+      [
+       "unprecedented demand",
+       "空前的需求",
+       "前例のない需要"
+      ],
+      [
+       "on an unprecedented scale",
+       "规模空前",
+       "前例のない規模で"
+      ]
+     ]
+    },
+    {
+     "w": "recede",
+     "pos": "v.",
+     "ipa": "/rɪˈsid/",
+     "zh": "退去；减退；后退",
+     "ja": "後退する；引く；弱まる",
+     "ex": "Floodwaters began to recede early on Thursday morning.",
+     "ex_zh": "洪水在周四清晨开始退去。",
+     "ex_ja": "洪水の水は木曜日の早朝に引き始めた。",
+     "parts": [
+      [
+       "re-",
+       "向后",
+       "後ろへ"
+      ],
+      [
+       "cede",
+       "走",
+       "行く"
+      ]
+     ],
+     "note": {
+      "zh": "re“向后”+ cede“走”→ 往后退。",
+      "ja": "re「後ろへ」＋ cede「行く」→ 後退する。"
+     },
+     "forms": [
+      [
+       "receding hairline",
+       "发际线后退",
+       "後退する生え際"
+      ],
+      [
+       "recession (n.)",
+       "衰退",
+       "景気後退"
+      ]
+     ],
+     "tip": {
+      "zh": "recede 与 secede（脱离）、concede（让步）拼写相近，注意区分。",
+      "ja": "recede は secede（脱退）や concede（譲歩）と綴りが似ているので注意。"
+     }
+    },
+    {
+     "w": "accessible",
+     "pos": "adj.",
+     "ipa": "/əkˈsɛsəbəl/",
+     "zh": "可进入的；易使用的；可获得的",
+     "ja": "利用しやすい；アクセス可能な",
+     "ex": "The new office is accessible by train and by bus.",
+     "ex_zh": "新办公室乘火车和公交车都能到达。",
+     "ex_ja": "新しいオフィスは電車でもバスでも行ける。",
+     "parts": [
+      [
+       "ac-",
+       "向",
+       "〜へ"
+      ],
+      [
+       "cess",
+       "走",
+       "行く"
+      ],
+      [
+       "-ible",
+       "可…的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "ac(ad)“向”+ cess“走”+ -ible“可…的”→ 能走到的。",
+      "ja": "ac(ad)「〜へ」＋ cess「行く」＋ -ible「できる」→ 行き着ける。"
+     },
+     "forms": [
+      [
+       "accessibility (n.)",
+       "可达性；无障碍",
+       "アクセスのしやすさ"
+      ],
+      [
+       "wheelchair accessible",
+       "可供轮椅通行",
+       "車いす対応の"
+      ]
+     ]
+    },
+    {
+     "w": "successive",
+     "pos": "adj.",
+     "ipa": "/səkˈsɛsɪv/",
+     "zh": "连续的；接连的",
+     "ja": "連続した",
+     "ex": "The firm posted record profits for the third successive quarter.",
+     "ex_zh": "公司连续第三个季度公布创纪录的利润。",
+     "ex_ja": "同社は3四半期連続で過去最高益を発表した。",
+     "parts": [
+      [
+       "suc-",
+       "在下面；接着",
+       "下に；次に"
+      ],
+      [
+       "cess",
+       "走",
+       "行く"
+      ],
+      [
+       "-ive",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "suc(sub)+ cess“走”→ 一个接一个走来 → 连续的。",
+      "ja": "suc(sub)＋ cess「行く」→ 次々と続く。"
+     },
+     "forms": [
+      [
+       "successive years",
+       "连续几年",
+       "連続する数年"
+      ],
+      [
+       "succession (n.)",
+       "连续；继任",
+       "連続；継承"
+      ]
+     ],
+     "tip": {
+      "zh": "successive 强调“一个接一个”，不要和 successful（成功的）混淆。",
+      "ja": "successive は「連続した」で、successful（成功した）と混同しない。"
+     }
+    },
+    {
+     "w": "succession",
+     "pos": "n.",
+     "ipa": "/səkˈsɛʃən/",
+     "zh": "连续；继任；继承",
+     "ja": "連続；継承",
+     "ex": "The board is planning for the succession of the current CEO.",
+     "ex_zh": "董事会正在为现任首席执行官的继任做计划。",
+     "ex_ja": "取締役会は現CEOの後継者について計画している。",
+     "parts": [
+      [
+       "suc-",
+       "在下面；接着",
+       "下に；次に"
+      ],
+      [
+       "cess",
+       "走",
+       "行く"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "同 successive：接着走来 → 连续、继任。",
+      "ja": "successive と同じ：次に続く → 連続・継承。"
+     },
+     "forms": [
+      [
+       "in succession",
+       "接连地",
+       "続けて"
+      ],
+      [
+       "succession plan",
+       "继任计划",
+       "後継者計画"
+      ]
+     ]
+    },
+    {
+     "w": "predecessor",
+     "pos": "n.",
+     "ipa": "/ˈprɛdɪˌsɛsɚ/",
+     "zh": "前任；前身",
+     "ja": "前任者；前身",
+     "ex": "My predecessor left detailed notes about every client account.",
+     "ex_zh": "我的前任留下了每个客户账户的详细记录。",
+     "ex_ja": "前任者は、すべての顧客口座について詳しいメモを残してくれた。",
+     "parts": [
+      [
+       "pre-",
+       "在前",
+       "前に"
+      ],
+      [
+       "de-",
+       "离开",
+       "離れて"
+      ],
+      [
+       "cess",
+       "走",
+       "行く"
+      ],
+      [
+       "-or",
+       "做…的人",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "pre + de“离开”+ cess“走”+ -or“人”→ 先走的人 → 前任。",
+      "ja": "pre＋de「離れて」＋ cess「行く」＋ -or「人」→ 先に去った人 → 前任者。"
+     },
+     "forms": [
+      [
+       "successor (n.)",
+       "继任者",
+       "後任者"
+      ],
+      [
+       "predecessor model",
+       "前代机型",
+       "旧型モデル"
+      ]
+     ]
+    },
+    {
+     "w": "cease",
+     "pos": "v.",
+     "ipa": "/sis/",
+     "zh": "停止；终止",
+     "ja": "やめる；終わる",
+     "ex": "The factory will cease operations at the end of the month.",
+     "ex_zh": "工厂将于月底停止运营。",
+     "ex_ja": "その工場は月末で操業を停止する。",
+     "parts": [
+      [
+       "ceas(e)",
+       "停止（cessare）",
+       "止まる（cessare）"
+      ]
+     ],
+     "note": {
+      "zh": "来自拉丁语 cessare“停止”，与 ced/cess“走”同族，意为“走到头”。",
+      "ja": "ラテン語 cessare「止まる」から。ced/cess「行く」と同族で「歩みを止める」。"
+     },
+     "forms": [
+      [
+       "cease to exist",
+       "不再存在",
+       "存在しなくなる"
+      ],
+      [
+       "cease-fire",
+       "停火",
+       "停戦"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cept",
+   "title_zh": "词根 -cept-：拿",
+   "title_ja": "語根 -cept-：取る",
+   "words": [
+    {
+     "w": "susceptible",
+     "pos": "adj.",
+     "ipa": "/səˈsɛptəbəl/",
+     "zh": "易受影响的；易感染的",
+     "ja": "影響を受けやすい；かかりやすい",
+     "ex": "Older systems are more susceptible to security breaches.",
+     "ex_zh": "较旧的系统更容易受到安全漏洞的影响。",
+     "ex_ja": "古いシステムほどセキュリティ侵害を受けやすい。",
+     "parts": [
+      [
+       "sus-",
+       "在下面",
+       "下に"
+      ],
+      [
+       "cept",
+       "拿；取",
+       "取る"
+      ],
+      [
+       "-ible",
+       "可…的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "sus(sub)“在下”+ cept“拿”+ -ible → 能被拿住的 → 易受影响的。",
+      "ja": "sus(sub)「下」＋ cept「取る」＋ -ible → 影響を受けやすい。"
+     },
+     "forms": [
+      [
+       "susceptible to",
+       "易受…影响",
+       "〜の影響を受けやすい"
+      ],
+      [
+       "susceptibility (n.)",
+       "敏感性",
+       "感受性"
+      ]
+     ],
+     "tip": {
+      "zh": "固定搭配 be susceptible to + 名词。",
+      "ja": "be susceptible to ＋名詞の形で使う。"
+     }
+    },
+    {
+     "w": "anticipation",
+     "pos": "n.",
+     "ipa": "/ænˌtɪsɪˈpeɪʃən/",
+     "zh": "预期；期待",
+     "ja": "予想；期待",
+     "ex": "In anticipation of heavy demand, the store hired extra staff.",
+     "ex_zh": "预计需求旺盛，商店增加了人手。",
+     "ex_ja": "需要の増加を見込んで、その店は追加の人員を雇った。",
+     "parts": [
+      [
+       "anti-",
+       "预先",
+       "前もって"
+      ],
+      [
+       "cip",
+       "拿；取",
+       "取る"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "anti(ante)“预先”+ cip(cept)“拿”→ 提前拿到心里 → 预期。",
+      "ja": "anti(ante)「前もって」＋ cip(cept)「取る」→ 先取り → 予想。"
+     },
+     "forms": [
+      [
+       "in anticipation of",
+       "预计…",
+       "〜を見越して"
+      ],
+      [
+       "anticipate (v.)",
+       "预计",
+       "予想する"
+      ]
+     ]
+    },
+    {
+     "w": "perceptive",
+     "pos": "adj.",
+     "ipa": "/pɚˈsɛptɪv/",
+     "zh": "敏锐的；有洞察力的",
+     "ja": "洞察力のある；鋭い",
+     "ex": "Her perceptive comments helped the team improve the design.",
+     "ex_zh": "她敏锐的意见帮助团队改进了设计。",
+     "ex_ja": "彼女の鋭いコメントは、チームがデザインを改善するのに役立った。",
+     "parts": [
+      [
+       "per-",
+       "彻底",
+       "完全に"
+      ],
+      [
+       "cept",
+       "拿；取",
+       "取る"
+      ],
+      [
+       "-ive",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "per“彻底”+ cept“拿”→ 完全抓住 → 敏锐的。",
+      "ja": "per「完全に」＋ cept「取る」→ 的確にとらえる → 鋭い。"
+     },
+     "forms": [
+      [
+       "perception (n.)",
+       "认知；看法",
+       "認識"
+      ],
+      [
+       "perceptive remark",
+       "有见地的评论",
+       "鋭い指摘"
+      ]
+     ]
+    },
+    {
+     "w": "receptive",
+     "pos": "adj.",
+     "ipa": "/rɪˈsɛptɪv/",
+     "zh": "乐于接受的",
+     "ja": "受け入れる姿勢のある",
+     "ex": "The manager was receptive to suggestions from the staff.",
+     "ex_zh": "经理乐于接受员工的建议。",
+     "ex_ja": "部長はスタッフの提案に前向きだった。",
+     "parts": [
+      [
+       "re-",
+       "回",
+       "戻して"
+      ],
+      [
+       "cept",
+       "拿；取",
+       "取る"
+      ],
+      [
+       "-ive",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "re“回”+ cept“拿”→ 愿意拿进来 → 乐于接受的。",
+      "ja": "re「戻して」＋ cept「取る」→ 受け取る気がある。"
+     },
+     "forms": [
+      [
+       "receptive to",
+       "乐于接受",
+       "〜に前向きな"
+      ],
+      [
+       "reception (n.)",
+       "接待；接收",
+       "受付；歓迎会"
+      ]
+     ],
+     "tip": {
+      "zh": "固定搭配 be receptive to。",
+      "ja": "be receptive to の形で出題されやすい。"
+     }
+    },
+    {
+     "w": "intercept",
+     "pos": "v.",
+     "ipa": "/ˌɪntɚˈsɛpt/",
+     "zh": "拦截；截获",
+     "ja": "傍受する；途中で止める",
+     "ex": "Security software can intercept suspicious email attachments.",
+     "ex_zh": "安全软件可以拦截可疑的电子邮件附件。",
+     "ex_ja": "セキュリティソフトは、怪しいメールの添付ファイルを途中で止めることができる。",
+     "parts": [
+      [
+       "inter-",
+       "在…之间",
+       "間に"
+      ],
+      [
+       "cept",
+       "拿；取",
+       "取る"
+      ]
+     ],
+     "note": {
+      "zh": "inter“之间”+ cept“拿”→ 在半路拿走 → 拦截。",
+      "ja": "inter「間に」＋ cept「取る」→ 途中で取る → 傍受する。"
+     },
+     "forms": [
+      [
+       "interception (n.)",
+       "拦截",
+       "傍受；妨害"
+      ],
+      [
+       "intercept a message",
+       "截获信息",
+       "メッセージを傍受する"
+      ]
+     ]
+    },
+    {
+     "w": "deceive",
+     "pos": "v.",
+     "ipa": "/dɪˈsiv/",
+     "zh": "欺骗；蒙骗",
+     "ja": "だます",
+     "ex": "The advertisement was designed to deceive customers about the price.",
+     "ex_zh": "这则广告旨在就价格欺骗顾客。",
+     "ex_ja": "その広告は、価格について顧客をだますように作られていた。",
+     "parts": [
+      [
+       "de-",
+       "向下；离开",
+       "下へ；離れて"
+      ],
+      [
+       "ceive(cept)",
+       "拿；取",
+       "取る"
+      ]
+     ],
+     "note": {
+      "zh": "de + ceive（同 cept“拿”）→ 把人拿走（骗到手）→ 欺骗。",
+      "ja": "de＋ceive（cept「取る」）→ 人を取り込む → だます。"
+     },
+     "forms": [
+      [
+       "deceptive (adj.)",
+       "欺骗性的",
+       "人を欺く"
+      ],
+      [
+       "deception (n.)",
+       "欺骗",
+       "欺瞞"
+      ]
+     ]
+    },
+    {
+     "w": "concept",
+     "pos": "n.",
+     "ipa": "/ˈkɑnsɛpt/",
+     "zh": "概念；构想",
+     "ja": "概念；構想",
+     "ex": "The designer presented a new concept for the store layout.",
+     "ex_zh": "设计师提出了商店布局的新构想。",
+     "ex_ja": "デザイナーは店舗レイアウトの新しい構想を発表した。",
+     "parts": [
+      [
+       "con-",
+       "一起",
+       "共に"
+      ],
+      [
+       "cept",
+       "拿；取",
+       "取る"
+      ]
+     ],
+     "note": {
+      "zh": "con“一起”+ cept“拿”→ 把想法拿到一起 → 概念。",
+      "ja": "con「共に」＋ cept「取る」→ 考えをまとめる → 概念。"
+     },
+     "forms": [
+      [
+       "concept store",
+       "概念店",
+       "コンセプトストア"
+      ],
+      [
+       "conceptual (adj.)",
+       "概念上的",
+       "概念的な"
+      ]
+     ]
+    },
+    {
+     "w": "acceptance",
+     "pos": "n.",
+     "ipa": "/əkˈsɛptəns/",
+     "zh": "接受；认可；录用",
+     "ja": "受け入れ；承認",
+     "ex": "The acceptance of the contract was confirmed by email.",
+     "ex_zh": "合同的接受已通过电子邮件确认。",
+     "ex_ja": "契約の承諾はメールで確認された。",
+     "parts": [
+      [
+       "ac-",
+       "向",
+       "〜へ"
+      ],
+      [
+       "cept",
+       "拿；取",
+       "取る"
+      ],
+      [
+       "-ance",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "ac(ad)“向”+ cept“拿”+ -ance → 接受。",
+      "ja": "ac(ad)「〜へ」＋ cept「取る」＋ -ance → 受け入れ。"
+     },
+     "forms": [
+      [
+       "letter of acceptance",
+       "录用通知",
+       "合格・採用通知"
+      ],
+      [
+       "acceptance rate",
+       "录取率；接受率",
+       "受け入れ率"
+      ]
+     ]
+    },
+    {
+     "w": "exception",
+     "pos": "n.",
+     "ipa": "/ɪkˈsɛpʃən/",
+     "zh": "例外；异议",
+     "ja": "例外",
+     "ex": "Employees may make an exception only with written approval.",
+     "ex_zh": "只有经书面批准，员工才可以做例外处理。",
+     "ex_ja": "従業員は、書面による承認がある場合に限り例外を認められる。",
+     "parts": [
+      [
+       "ex-",
+       "向外",
+       "外へ"
+      ],
+      [
+       "cept",
+       "拿；取",
+       "取る"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "ex“向外”+ cept“拿”→ 拿出来单独处理 → 例外。",
+      "ja": "ex「外へ」＋ cept「取る」→ 外に取り出す → 例外。"
+     },
+     "forms": [
+      [
+       "with the exception of",
+       "除…之外",
+       "〜を除いて"
+      ],
+      [
+       "exceptional (adj.)",
+       "卓越的；例外的",
+       "並外れた"
+      ]
+     ],
+     "tip": {
+      "zh": "exception 与 except（除了）形近；exceptional 是“杰出的”。",
+      "ja": "exception は except（〜を除いて）と形が近い。exceptional は「卓越した」。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "mit",
+   "title_zh": "词根 -mit-/-miss-：送",
+   "title_ja": "語根 -mit-/-miss-：送る",
+   "words": [
+    {
+     "w": "submission",
+     "pos": "n.",
+     "ipa": "/səbˈmɪʃən/",
+     "zh": "提交；呈递",
+     "ja": "提出",
+     "ex": "The deadline for submission of proposals is Friday at noon.",
+     "ex_zh": "提案提交的截止时间是周五中午。",
+     "ex_ja": "提案書の提出期限は金曜日の正午だ。",
+     "parts": [
+      [
+       "sub-",
+       "在下面",
+       "下に"
+      ],
+      [
+       "miss",
+       "送",
+       "送る"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "sub“下”+ miss“送”→ 递上去 → 提交。",
+      "ja": "sub「下」＋ miss「送る」→ 差し出す → 提出。"
+     },
+     "forms": [
+      [
+       "submit (v.)",
+       "提交",
+       "提出する"
+      ],
+      [
+       "online submission",
+       "在线提交",
+       "オンライン提出"
+      ]
+     ]
+    },
+    {
+     "w": "commit",
+     "pos": "v.",
+     "ipa": "/kəˈmɪt/",
+     "zh": "承诺；致力；犯（错）",
+     "ja": "約束する；専念する",
+     "ex": "The company has committed to reducing its energy use by 20 percent.",
+     "ex_zh": "公司已承诺将能源使用量降低 20%。",
+     "ex_ja": "同社はエネルギー使用量を20%削減すると約束した。",
+     "parts": [
+      [
+       "com-",
+       "一起",
+       "共に"
+      ],
+      [
+       "mit",
+       "送",
+       "送る"
+      ]
+     ],
+     "note": {
+      "zh": "com“一起”+ mit“送”→ 把自己送进去 → 承诺、投入。",
+      "ja": "com「共に」＋ mit「送る」→ 自分を送り込む → 約束する。"
+     },
+     "forms": [
+      [
+       "commit to",
+       "承诺；致力于",
+       "〜に尽力する"
+      ],
+      [
+       "commitment (n.)",
+       "承诺；投入",
+       "公約；献身"
+      ]
+     ],
+     "tip": {
+      "zh": "commit to 后接名词或 V-ing，to 是介词。",
+      "ja": "commit to の後ろは名詞か V-ing（to は前置詞）。"
+     }
+    },
+    {
+     "w": "remit",
+     "pos": "v.",
+     "ipa": "/rɪˈmɪt/",
+     "zh": "汇款；缴付",
+     "ja": "送金する；支払う",
+     "ex": "Please remit the full payment within thirty days of the invoice date.",
+     "ex_zh": "请在发票日期起三十天内全额付款。",
+     "ex_ja": "請求書の日付から30日以内に全額をお支払いください。",
+     "parts": [
+      [
+       "re-",
+       "回",
+       "戻して"
+      ],
+      [
+       "mit",
+       "送",
+       "送る"
+      ]
+     ],
+     "note": {
+      "zh": "re“回”+ mit“送”→ 送回去（款项）→ 汇款。",
+      "ja": "re「戻して」＋ mit「送る」→ 送り返す → 送金する。"
+     },
+     "forms": [
+      [
+       "remittance (n.)",
+       "汇款",
+       "送金"
+      ],
+      [
+       "remit payment",
+       "付款",
+       "支払う"
+      ]
+     ]
+    },
+    {
+     "w": "emit",
+     "pos": "v.",
+     "ipa": "/ɪˈmɪt/",
+     "zh": "排放；发出",
+     "ja": "排出する；放つ",
+     "ex": "The new engine emits far less carbon dioxide than the old one.",
+     "ex_zh": "新发动机排放的二氧化碳比旧的少得多。",
+     "ex_ja": "新しいエンジンは旧型よりはるかに二酸化炭素の排出が少ない。",
+     "parts": [
+      [
+       "e-(ex-)",
+       "向外",
+       "外へ"
+      ],
+      [
+       "mit",
+       "送",
+       "送る"
+      ]
+     ],
+     "note": {
+      "zh": "e(ex)“向外”+ mit“送”→ 送出去 → 排放。",
+      "ja": "e(ex)「外へ」＋ mit「送る」→ 送り出す → 排出する。"
+     },
+     "forms": [
+      [
+       "emission (n.)",
+       "排放",
+       "排出"
+      ],
+      [
+       "emission standards",
+       "排放标准",
+       "排出基準"
+      ]
+     ]
+    },
+    {
+     "w": "admit",
+     "pos": "v.",
+     "ipa": "/ədˈmɪt/",
+     "zh": "承认；准许进入",
+     "ja": "認める；入場を許可する",
+     "ex": "The manager admitted that the schedule had been unrealistic.",
+     "ex_zh": "经理承认日程安排不切实际。",
+     "ex_ja": "部長は、日程が非現実的だったことを認めた。",
+     "parts": [
+      [
+       "ad-",
+       "向",
+       "〜へ"
+      ],
+      [
+       "mit",
+       "送",
+       "送る"
+      ]
+     ],
+     "note": {
+      "zh": "ad“向”+ mit“送”→ 让…进来 → 准许；承认。",
+      "ja": "ad「〜へ」＋ mit「送る」→ 中に入れる → 認める。"
+     },
+     "forms": [
+      [
+       "admission (n.)",
+       "入场；承认",
+       "入場；入学"
+      ],
+      [
+       "admit to",
+       "承认",
+       "〜を認める"
+      ]
+     ]
+    },
+    {
+     "w": "omission",
+     "pos": "n.",
+     "ipa": "/oʊˈmɪʃən/",
+     "zh": "遗漏；省略",
+     "ja": "省略；遺漏",
+     "ex": "An omission in the contract led to a dispute over fees.",
+     "ex_zh": "合同中的一处遗漏引发了费用纠纷。",
+     "ex_ja": "契約書の記載漏れが、手数料をめぐる争いにつながった。",
+     "parts": [
+      [
+       "o-(ob-)",
+       "离开",
+       "離れて"
+      ],
+      [
+       "miss",
+       "送",
+       "送る"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "o(ob)+ miss“送”→ 送走了 → 漏掉。",
+      "ja": "o(ob)＋ miss「送る」→ 送り出して抜ける → 省略。"
+     },
+     "forms": [
+      [
+       "omit (v.)",
+       "省略；遗漏",
+       "省く"
+      ],
+      [
+       "error of omission",
+       "遗漏错误",
+       "記載漏れ"
+      ]
+     ]
+    },
+    {
+     "w": "permissible",
+     "pos": "adj.",
+     "ipa": "/pɚˈmɪsəbəl/",
+     "zh": "允许的；可容许的",
+     "ja": "許される；許容できる",
+     "ex": "Personal phone calls are permissible only during breaks.",
+     "ex_zh": "个人电话只允许在休息时间打。",
+     "ex_ja": "私用電話は休憩時間中にのみ許可されている。",
+     "parts": [
+      [
+       "per-",
+       "通过",
+       "通して"
+      ],
+      [
+       "miss",
+       "送",
+       "送る"
+      ],
+      [
+       "-ible",
+       "可…的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "per“通过”+ miss“送”+ -ible → 可放行的 → 允许的。",
+      "ja": "per「通して」＋ miss「送る」＋ -ible → 通してよい → 許される。"
+     },
+     "forms": [
+      [
+       "permit (v.)",
+       "允许",
+       "許可する"
+      ],
+      [
+       "permissible level",
+       "容许水平",
+       "許容レベル"
+      ]
+     ]
+    },
+    {
+     "w": "transmittal",
+     "pos": "n.",
+     "ipa": "/trænsˈmɪtəl/",
+     "zh": "传送；转交（文件）",
+     "ja": "送付；送達",
+     "ex": "A transmittal letter accompanied the signed contract.",
+     "ex_zh": "随已签署的合同附有一封转交函。",
+     "ex_ja": "署名済みの契約書には送付状が添えられていた。",
+     "parts": [
+      [
+       "trans-",
+       "穿过",
+       "越えて"
+      ],
+      [
+       "mit",
+       "送",
+       "送る"
+      ],
+      [
+       "-al",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "trans“穿过”+ mit“送”+ -al → 送过去 → 传送。",
+      "ja": "trans「越えて」＋ mit「送る」＋ -al → 送付。"
+     },
+     "forms": [
+      [
+       "transmit (v.)",
+       "传送",
+       "送信する"
+      ],
+      [
+       "transmittal letter",
+       "转交函",
+       "送付状"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "leg",
+   "title_zh": "词根 -leg-/-lect-：选·读·法",
+   "title_ja": "語根 -leg-/-lect-：選ぶ・読む・法",
+   "words": [
+    {
+     "w": "selective",
+     "pos": "adj.",
+     "ipa": "/səˈlɛktɪv/",
+     "zh": "有选择的；挑剔的",
+     "ja": "選択的な；えり好みする",
+     "ex": "The university is highly selective about which students it admits.",
+     "ex_zh": "这所大学在录取学生方面非常严格。",
+     "ex_ja": "その大学は入学させる学生を厳しく選抜している。",
+     "parts": [
+      [
+       "se-",
+       "分开",
+       "分けて"
+      ],
+      [
+       "lect",
+       "选；拾",
+       "選ぶ"
+      ],
+      [
+       "-ive",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "se“分开”+ lect“选”→ 挑出来 → 有选择的。",
+      "ja": "se「分けて」＋ lect「選ぶ」→ より分ける → 選択的。"
+     },
+     "forms": [
+      [
+       "selection (n.)",
+       "选择；精选品",
+       "選択"
+      ],
+      [
+       "selective about",
+       "对…挑剔",
+       "〜にこだわる"
+      ]
+     ]
+    },
+    {
+     "w": "elective",
+     "pos": "adj./n.",
+     "ipa": "/ɪˈlɛktɪv/",
+     "zh": "选修的；选修课",
+     "ja": "選択科目の；選択科目",
+     "ex": "Employees can take an elective course in project management.",
+     "ex_zh": "员工可以选修一门项目管理课程。",
+     "ex_ja": "従業員はプロジェクト管理の選択科目を受講できる。",
+     "parts": [
+      [
+       "e-(ex-)",
+       "向外",
+       "外へ"
+      ],
+      [
+       "lect",
+       "选；拾",
+       "選ぶ"
+      ],
+      [
+       "-ive",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "e(ex)“出”+ lect“选”→ 挑出来的 → 可选的。",
+      "ja": "e(ex)「外へ」＋ lect「選ぶ」→ 選び出す → 任意の。"
+     },
+     "forms": [
+      [
+       "elective surgery",
+       "择期手术",
+       "待機手術"
+      ],
+      [
+       "elect (v.)",
+       "选举；选择",
+       "選ぶ"
+      ]
+     ]
+    },
+    {
+     "w": "negligent",
+     "pos": "adj.",
+     "ipa": "/ˈnɛɡlɪdʒənt/",
+     "zh": "疏忽的；玩忽职守的",
+     "ja": "怠慢な；不注意な",
+     "ex": "The company was found negligent in maintaining the equipment.",
+     "ex_zh": "公司被认定在设备维护上存在疏忽。",
+     "ex_ja": "その会社は設備の保守で過失があったと認定された。",
+     "parts": [
+      [
+       "neg-",
+       "不",
+       "〜ない"
+      ],
+      [
+       "leg(lig)",
+       "选；收集",
+       "選ぶ；集める"
+      ],
+      [
+       "-ent",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "neg“不”+ leg“选；留心”→ 不留心 → 疏忽的。",
+      "ja": "neg「ない」＋ leg「選ぶ・気を配る」→ 気を配らない → 怠慢な。"
+     },
+     "forms": [
+      [
+       "negligence (n.)",
+       "疏忽；过失",
+       "過失"
+      ],
+      [
+       "negligent of",
+       "疏于…",
+       "〜をおろそかにする"
+      ]
+     ]
+    },
+    {
+     "w": "intellect",
+     "pos": "n.",
+     "ipa": "/ˈɪntəˌlɛkt/",
+     "zh": "智力；才智",
+     "ja": "知性；知力",
+     "ex": "Her sharp intellect and calm manner impressed the interviewers.",
+     "ex_zh": "她敏锐的头脑和沉着的举止给面试官留下了深刻印象。",
+     "ex_ja": "彼女の鋭い知性と落ち着いた態度は面接官に好印象を与えた。",
+     "parts": [
+      [
+       "intel-(inter-)",
+       "在…之间",
+       "間に"
+      ],
+      [
+       "lect",
+       "选；读",
+       "選ぶ；読む"
+      ]
+     ],
+     "note": {
+      "zh": "intel(inter)“之间”+ lect“选”→ 在事物间做选择、辨别 → 智力。",
+      "ja": "intel(inter)「間」＋ lect「選ぶ」→ 見分ける力 → 知力。"
+     },
+     "forms": [
+      [
+       "intellectual (adj.)",
+       "智力的；知识分子",
+       "知的な"
+      ],
+      [
+       "intellectual property",
+       "知识产权",
+       "知的財産"
+      ]
+     ]
+    },
+    {
+     "w": "illegible",
+     "pos": "adj.",
+     "ipa": "/ɪˈlɛdʒəbəl/",
+     "zh": "难以辨认的；字迹不清的",
+     "ja": "判読できない",
+     "ex": "The signature on the form was illegible, so we had to call the sender.",
+     "ex_zh": "表格上的签名无法辨认，所以我们只好打电话给寄件人。",
+     "ex_ja": "書類の署名が判読できなかったので、送り主に電話しなければならなかった。",
+     "parts": [
+      [
+       "il-",
+       "不",
+       "〜ない"
+      ],
+      [
+       "leg",
+       "读",
+       "読む"
+      ],
+      [
+       "-ible",
+       "可…的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "il(in)“不”+ leg“读”+ -ible“可…的”→ 不能读的。",
+      "ja": "il(in)「ない」＋ leg「読む」＋ -ible → 読めない。"
+     },
+     "forms": [
+      [
+       "legible (adj.)",
+       "清晰可辨的",
+       "読みやすい"
+      ],
+      [
+       "illegible handwriting",
+       "字迹潦草",
+       "判読不能な筆跡"
+      ]
+     ],
+     "tip": {
+      "zh": "illegible（字迹不清）≠ illegal（违法的），发音也不同。",
+      "ja": "illegible（判読不能）と illegal（違法）は別語。"
+     }
+    },
+    {
+     "w": "legislature",
+     "pos": "n.",
+     "ipa": "/ˈlɛdʒɪsˌleɪtʃɚ/",
+     "zh": "立法机构；议会",
+     "ja": "立法府；議会",
+     "ex": "The state legislature passed a new law on data protection.",
+     "ex_zh": "州议会通过了一项新的数据保护法。",
+     "ex_ja": "州議会はデータ保護に関する新しい法律を可決した。",
+     "parts": [
+      [
+       "leg",
+       "法律",
+       "法"
+      ],
+      [
+       "-is-",
+       "连接成分",
+       "つなぎ"
+      ],
+      [
+       "lat",
+       "带来；提出",
+       "持ってくる"
+      ],
+      [
+       "-ure",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "leg“法律”+ lat“提出”+ -ure → 提出法律的机构 → 立法机构。",
+      "ja": "leg「法」＋ lat「持ち出す」＋ -ure → 法を提出する機関 → 立法府。"
+     },
+     "forms": [
+      [
+       "legislation (n.)",
+       "立法；法规",
+       "立法；法律"
+      ],
+      [
+       "legislative (adj.)",
+       "立法的",
+       "立法の"
+      ]
+     ]
+    },
+    {
+     "w": "legacy",
+     "pos": "n.",
+     "ipa": "/ˈlɛɡəsi/",
+     "zh": "遗产；遗留（系统）",
+     "ja": "遺産；従来の",
+     "ex": "The founder's legacy is still visible in the company's values.",
+     "ex_zh": "创始人的遗产至今仍体现在公司的价值观中。",
+     "ex_ja": "創業者の遺産は、今も会社の価値観に表れている。",
+     "parts": [
+      [
+       "leg",
+       "委派；托付（legare）",
+       "託す"
+      ],
+      [
+       "-acy",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "来自拉丁语 legare“委托”，传下来的东西 → 遗产。",
+      "ja": "ラテン語 legare「託す」から。受け継がれたもの → 遺産。"
+     },
+     "forms": [
+      [
+       "legacy system",
+       "遗留系统",
+       "旧システム"
+      ],
+      [
+       "leave a legacy",
+       "留下遗产",
+       "遺産を残す"
+      ]
+     ]
+    },
+    {
+     "w": "illegal",
+     "pos": "adj.",
+     "ipa": "/ɪˈligəl/",
+     "zh": "非法的；违法的",
+     "ja": "違法の",
+     "ex": "It is illegal to share customers' personal data without their consent.",
+     "ex_zh": "未经客户同意就分享其个人数据是违法的。",
+     "ex_ja": "顧客の同意なしに個人データを共有するのは違法だ。",
+     "parts": [
+      [
+       "il-",
+       "不",
+       "〜ない"
+      ],
+      [
+       "leg",
+       "法律",
+       "法"
+      ],
+      [
+       "-al",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "il(in)“不”+ leg“法”+ -al → 不合法的。",
+      "ja": "il(in)「ない」＋ leg「法」＋ -al → 違法の。"
+     },
+     "forms": [
+      [
+       "legal (adj.)",
+       "合法的；法律的",
+       "合法の"
+      ],
+      [
+       "illegally (adv.)",
+       "非法地",
+       "違法に"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "compliance",
+   "title_zh": "主题：职场合规、卫生与法务",
+   "title_ja": "テーマ：職場のコンプライアンス・衛生・法務",
+   "words": [
+    {
+     "w": "compliance",
+     "pos": "n.",
+     "ipa": "/kəmˈplaɪəns/",
+     "zh": "遵守；合规",
+     "ja": "遵守；コンプライアンス",
+     "ex": "The audit checks compliance with all safety regulations.",
+     "ex_zh": "审计检查是否遵守所有安全法规。",
+     "ex_ja": "監査ではすべての安全規則の遵守状況を確認する。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚えます。"
+     },
+     "forms": [
+      [
+       "in compliance with",
+       "遵照",
+       "〜に従って"
+      ],
+      [
+       "comply (v.)",
+       "遵守",
+       "従う"
+      ]
+     ],
+     "tip": {
+      "zh": "固定搭配 in compliance with / comply with。",
+      "ja": "in compliance with／comply with の形で覚える。"
+     }
+    },
+    {
+     "w": "citation",
+     "pos": "n.",
+     "ipa": "/saɪˈteɪʃən/",
+     "zh": "引用；传票；罚单",
+     "ja": "引用；違反通知",
+     "ex": "The inspector issued a citation for blocked fire exits.",
+     "ex_zh": "检查员因消防出口被堵塞开出了违规通知。",
+     "ex_ja": "検査官は、非常口がふさがれていたため違反通知を出した。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚えます。"
+     },
+     "forms": [
+      [
+       "cite (v.)",
+       "引用；传唤",
+       "引用する"
+      ],
+      [
+       "issue a citation",
+       "开罚单",
+       "違反通知を出す"
+      ]
+     ]
+    },
+    {
+     "w": "sanitation",
+     "pos": "n.",
+     "ipa": "/ˌsænɪˈteɪʃən/",
+     "zh": "环境卫生；卫生设施",
+     "ja": "衛生設備；公衆衛生",
+     "ex": "Proper sanitation is essential in any food-processing plant.",
+     "ex_zh": "适当的卫生措施对任何食品加工厂都至关重要。",
+     "ex_ja": "食品加工工場では、適切な衛生管理が不可欠だ。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚えます。"
+     },
+     "forms": [
+      [
+       "sanitary (adj.)",
+       "卫生的",
+       "衛生的な"
+      ],
+      [
+       "sanitation worker",
+       "环卫工人",
+       "清掃作業員"
+      ]
+     ]
+    },
+    {
+     "w": "hygiene",
+     "pos": "n.",
+     "ipa": "/ˈhaɪdʒin/",
+     "zh": "卫生；保健",
+     "ja": "衛生",
+     "ex": "Staff must follow strict hygiene rules when handling food.",
+     "ex_zh": "员工在处理食物时必须遵守严格的卫生规定。",
+     "ex_ja": "スタッフは食品を扱う際、厳しい衛生規則を守らなければならない。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚えます。"
+     },
+     "forms": [
+      [
+       "personal hygiene",
+       "个人卫生",
+       "個人衛生"
+      ],
+      [
+       "hygienic (adj.)",
+       "卫生的",
+       "衛生的な"
+      ]
+     ]
+    },
+    {
+     "w": "quarantine",
+     "pos": "n.",
+     "ipa": "/ˈkwɔrənˌtin/",
+     "zh": "隔离；检疫",
+     "ja": "隔離；検疫",
+     "ex": "Imported animals must spend two weeks in quarantine.",
+     "ex_zh": "进口动物必须隔离两周。",
+     "ex_ja": "輸入された動物は2週間検疫を受けなければならない。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚えます。"
+     },
+     "forms": [
+      [
+       "in quarantine",
+       "在隔离中",
+       "隔離中で"
+      ],
+      [
+       "quarantine period",
+       "隔离期",
+       "隔離期間"
+      ]
+     ]
+    },
+    {
+     "w": "helmet",
+     "pos": "n.",
+     "ipa": "/ˈhɛlmət/",
+     "zh": "头盔；安全帽",
+     "ja": "ヘルメット",
+     "ex": "All visitors to the construction site must wear a helmet.",
+     "ex_zh": "所有参观施工现场的访客都必须戴安全帽。",
+     "ex_ja": "工事現場への訪問者は全員ヘルメットを着用しなければならない。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚えます。"
+     },
+     "forms": [
+      [
+       "safety helmet",
+       "安全帽",
+       "安全ヘルメット"
+      ],
+      [
+       "wear a helmet",
+       "戴头盔",
+       "ヘルメットをかぶる"
+      ]
+     ]
+    },
+    {
+     "w": "headcount",
+     "pos": "n.",
+     "ipa": "/ˈhɛdˌkaʊnt/",
+     "zh": "员工人数；人头数",
+     "ja": "従業員数；頭数",
+     "ex": "The department plans to increase its headcount by five next year.",
+     "ex_zh": "该部门计划明年增加五名员工编制。",
+     "ex_ja": "その部署は来年、人員を5人増やす予定だ。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚えます。"
+     },
+     "forms": [
+      [
+       "reduce headcount",
+       "缩减人员",
+       "人員を削減する"
+      ],
+      [
+       "headcount freeze",
+       "冻结招聘",
+       "採用凍結"
+      ]
+     ]
+    },
+    {
+     "w": "furlough",
+     "pos": "n.",
+     "ipa": "/ˈfɝloʊ/",
+     "zh": "临时休假；无薪休假",
+     "ja": "一時帰休；休暇",
+     "ex": "Some workers were placed on furlough during the slow season.",
+     "ex_zh": "淡季期间，部分工人被安排临时休假。",
+     "ex_ja": "閑散期には、一部の従業員が一時帰休となった。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚えます。"
+     },
+     "forms": [
+      [
+       "on furlough",
+       "暂时停工休假",
+       "一時帰休中で"
+      ],
+      [
+       "furloughed (adj.)",
+       "被暂时停职的",
+       "一時帰休中の"
+      ]
+     ]
+    },
+    {
+     "w": "indemnity",
+     "pos": "n.",
+     "ipa": "/ɪnˈdɛmnɪti/",
+     "zh": "赔偿；免责",
+     "ja": "補償；免責",
+     "ex": "The contract includes an indemnity clause that protects the supplier.",
+     "ex_zh": "合同包含保护供应商的赔偿条款。",
+     "ex_ja": "契約には、供給業者を守る補償条項が含まれている。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚えます。"
+     },
+     "forms": [
+      [
+       "indemnify (v.)",
+       "赔偿；使免受损失",
+       "補償する"
+      ],
+      [
+       "indemnity clause",
+       "赔偿条款",
+       "補償条項"
+      ]
+     ]
+    },
+    {
+     "w": "subpoena",
+     "pos": "n.",
+     "ipa": "/səˈpinə/",
+     "zh": "传票",
+     "ja": "召喚状",
+     "ex": "The company received a subpoena to hand over its financial records.",
+     "ex_zh": "公司收到了要求交出财务记录的传票。",
+     "ex_ja": "会社は財務記録を提出するよう求める召喚状を受け取った。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚えます。"
+     },
+     "forms": [
+      [
+       "issue a subpoena",
+       "发出传票",
+       "召喚状を出す"
+      ],
+      [
+       "comply with a subpoena",
+       "遵守传票",
+       "召喚に応じる"
+      ]
+     ]
+    },
+    {
+     "w": "therapy",
+     "pos": "n.",
+     "ipa": "/ˈθɛrəpi/",
+     "zh": "治疗；疗法",
+     "ja": "治療；療法",
+     "ex": "The clinic offers physical therapy for workers with back injuries.",
+     "ex_zh": "诊所为腰部受伤的工人提供物理治疗。",
+     "ex_ja": "そのクリニックは腰を痛めた労働者に理学療法を提供している。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚えます。"
+     },
+     "forms": [
+      [
+       "physical therapy",
+       "物理治疗",
+       "理学療法"
+      ],
+      [
+       "therapist (n.)",
+       "治疗师",
+       "療法士"
+      ]
+     ]
+    },
+    {
+     "w": "surgeon",
+     "pos": "n.",
+     "ipa": "/ˈsɝdʒən/",
+     "zh": "外科医生",
+     "ja": "外科医",
+     "ex": "The surgeon explained the procedure to the patient before the operation.",
+     "ex_zh": "手术前，外科医生向患者讲解了手术过程。",
+     "ex_ja": "外科医は手術の前に患者に手順を説明した。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚えます。"
+     },
+     "forms": [
+      [
+       "surgery (n.)",
+       "手术",
+       "手術"
+      ],
+      [
+       "plastic surgeon",
+       "整形外科医生",
+       "形成外科医"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "hotel",
+   "title_zh": "主题：酒店场地与制造车间",
+   "title_ja": "テーマ：ホテル会場と工場",
+   "words": [
+    {
+     "w": "atrium",
+     "pos": "n.",
+     "ipa": "/ˈeɪtriəm/",
+     "zh": "中庭；共享大厅",
+     "ja": "アトリウム；吹き抜け",
+     "ex": "The reception will be held in the glass atrium on the ground floor.",
+     "ex_zh": "招待会将在一楼的玻璃中庭举行。",
+     "ex_ja": "レセプションは1階のガラス張りのアトリウムで行われる。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚えます。"
+     },
+     "forms": [
+      [
+       "hotel atrium",
+       "酒店中庭",
+       "ホテルのアトリウム"
+      ],
+      [
+       "atrium lobby",
+       "中庭大厅",
+       "アトリウムロビー"
+      ]
+     ]
+    },
+    {
+     "w": "foyer",
+     "pos": "n.",
+     "ipa": "/ˈfɔɪɚ/",
+     "zh": "门厅；入口大厅",
+     "ja": "ロビー；玄関ホール",
+     "ex": "Guests may leave their coats in the foyer.",
+     "ex_zh": "客人可以把外套放在门厅。",
+     "ex_ja": "お客様はコートをロビーに預けることができます。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚えます。"
+     },
+     "forms": [
+      [
+       "theater foyer",
+       "剧院大厅",
+       "劇場のロビー"
+      ],
+      [
+       "entrance foyer",
+       "入口门厅",
+       "入口ホール"
+      ]
+     ]
+    },
+    {
+     "w": "mezzanine",
+     "pos": "n.",
+     "ipa": "/ˈmɛzəˌnin/",
+     "zh": "夹层；中层楼面",
+     "ja": "中二階",
+     "ex": "The conference rooms are on the mezzanine level above the lobby.",
+     "ex_zh": "会议室在大厅上方的夹层楼面。",
+     "ex_ja": "会議室はロビーの上の中二階にある。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚えます。"
+     },
+     "forms": [
+      [
+       "mezzanine level",
+       "夹层楼面",
+       "中二階"
+      ],
+      [
+       "mezzanine floor",
+       "夹层",
+       "ロフト階"
+      ]
+     ]
+    },
+    {
+     "w": "bellhop",
+     "pos": "n.",
+     "ipa": "/ˈbɛlˌhɑp/",
+     "zh": "酒店行李员",
+     "ja": "ベルボーイ",
+     "ex": "A bellhop carried our luggage to the room.",
+     "ex_zh": "一位行李员把我们的行李送到了房间。",
+     "ex_ja": "ベルボーイが私たちの荷物を部屋まで運んでくれた。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚えます。"
+     },
+     "forms": [
+      [
+       "bellhop service",
+       "行李员服务",
+       "ベルボーイのサービス"
+      ],
+      [
+       "tip the bellhop",
+       "给行李员小费",
+       "ベルボーイにチップを渡す"
+      ]
+     ]
+    },
+    {
+     "w": "overbook",
+     "pos": "v.",
+     "ipa": "/ˌoʊvɚˈbʊk/",
+     "zh": "超额预订",
+     "ja": "過剰予約する",
+     "ex": "The hotel overbooked the weekend, so some guests were moved elsewhere.",
+     "ex_zh": "酒店周末超额预订，部分客人被转到了别处。",
+     "ex_ja": "そのホテルは週末を過剰予約したため、一部の客は別の宿に移された。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚えます。"
+     },
+     "forms": [
+      [
+       "overbooked (adj.)",
+       "订满超额的",
+       "予約過多の"
+      ],
+      [
+       "overbooking (n.)",
+       "超额预订",
+       "オーバーブッキング"
+      ]
+     ]
+    },
+    {
+     "w": "turndown",
+     "pos": "n.",
+     "ipa": "/ˈtɝnˌdaʊn/",
+     "zh": "夜间开夜床服务；拒绝",
+     "ja": "ターンダウン（就寝準備）；拒否",
+     "ex": "The hotel offers a turndown service every evening.",
+     "ex_zh": "酒店每天晚上提供开夜床服务。",
+     "ex_ja": "そのホテルは毎晩ターンダウンサービスを提供している。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚えます。"
+     },
+     "forms": [
+      [
+       "turndown service",
+       "开夜床服务",
+       "ターンダウンサービス"
+      ],
+      [
+       "turn down (v.)",
+       "拒绝；调小",
+       "断る；下げる"
+      ]
+     ],
+     "tip": {
+      "zh": "turn down 是动词短语，turndown 是名词。",
+      "ja": "turn down は句動詞、turndown は名詞。"
+     }
+    },
+    {
+     "w": "rehearse",
+     "pos": "v.",
+     "ipa": "/rɪˈhɝs/",
+     "zh": "排练；预演",
+     "ja": "リハーサルをする；予行演習する",
+     "ex": "The team rehearsed the presentation twice before the client meeting.",
+     "ex_zh": "团队在客户会议前把演示排练了两遍。",
+     "ex_ja": "チームは顧客との会議の前にプレゼンを2回リハーサルした。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚えます。"
+     },
+     "forms": [
+      [
+       "rehearsal (n.)",
+       "排练",
+       "リハーサル"
+      ],
+      [
+       "rehearse a speech",
+       "排练演讲",
+       "スピーチを練習する"
+      ]
+     ]
+    },
+    {
+     "w": "fabricate",
+     "pos": "v.",
+     "ipa": "/ˈfæbrɪˌkeɪt/",
+     "zh": "制造；捏造",
+     "ja": "製造する；でっち上げる",
+     "ex": "The plant fabricates steel parts for the automotive industry.",
+     "ex_zh": "该工厂为汽车行业制造钢制零件。",
+     "ex_ja": "その工場は自動車産業向けの鋼製部品を製造している。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚えます。"
+     },
+     "forms": [
+      [
+       "fabrication (n.)",
+       "制造；捏造",
+       "製造；捏造"
+      ],
+      [
+       "fabricate evidence",
+       "捏造证据",
+       "証拠を捏造する"
+      ]
+     ],
+     "tip": {
+      "zh": "fabricate 有“制造”和“捏造”两个义项，看上下文。",
+      "ja": "fabricate は「製造する」と「でっち上げる」の2義。"
+     }
+    },
+    {
+     "w": "mold",
+     "pos": "n./v.",
+     "ipa": "/moʊld/",
+     "zh": "模具；铸模；霉菌",
+     "ja": "型；カビ",
+     "ex": "The factory uses a steel mold to shape the plastic casings.",
+     "ex_zh": "工厂用钢模给塑料外壳成型。",
+     "ex_ja": "工場は鋼鉄の型でプラスチックの筐体を成形している。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚えます。"
+     },
+     "forms": [
+      [
+       "injection mold",
+       "注塑模具",
+       "射出成形用の型"
+      ],
+      [
+       "mold growth",
+       "霉菌滋生",
+       "カビの発生"
+      ]
+     ]
+    },
+    {
+     "w": "welding",
+     "pos": "n.",
+     "ipa": "/ˈwɛldɪŋ/",
+     "zh": "焊接",
+     "ja": "溶接",
+     "ex": "Protective goggles are required during welding.",
+     "ex_zh": "焊接时必须佩戴防护眼镜。",
+     "ex_ja": "溶接中は保護ゴーグルの着用が必要だ。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚えます。"
+     },
+     "forms": [
+      [
+       "weld (v.)",
+       "焊接",
+       "溶接する"
+      ],
+      [
+       "welder (n.)",
+       "焊工",
+       "溶接工"
+      ]
+     ]
+    },
+    {
+     "w": "lathe",
+     "pos": "n.",
+     "ipa": "/leɪð/",
+     "zh": "车床",
+     "ja": "旋盤",
+     "ex": "Only trained operators may use the lathe.",
+     "ex_zh": "只有受过培训的操作员才能使用车床。",
+     "ex_ja": "訓練を受けた作業員だけが旋盤を使用できる。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚えます。"
+     },
+     "forms": [
+      [
+       "metal lathe",
+       "金属车床",
+       "金属旋盤"
+      ],
+      [
+       "lathe operator",
+       "车床操作员",
+       "旋盤工"
+      ]
+     ]
+    },
+    {
+     "w": "ambulance",
+     "pos": "n.",
+     "ipa": "/ˈæmbjələns/",
+     "zh": "救护车",
+     "ja": "救急車",
+     "ex": "An ambulance arrived at the factory within ten minutes.",
+     "ex_zh": "救护车十分钟内就赶到了工厂。",
+     "ex_ja": "救急車は10分以内に工場に到着した。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚えます。"
+     },
+     "forms": [
+      [
+       "call an ambulance",
+       "叫救护车",
+       "救急車を呼ぶ"
+      ],
+      [
+       "ambulance crew",
+       "救护人员",
+       "救急隊員"
+      ]
+     ]
+    },
+    {
+     "w": "reservoir",
+     "pos": "n.",
+     "ipa": "/ˈrɛzɚˌvwɑr/",
+     "zh": "水库；蓄水池；储备",
+     "ja": "貯水池；蓄え",
+     "ex": "The city built a new reservoir to secure its water supply.",
+     "ex_zh": "该市修建了一座新水库来保障供水。",
+     "ex_ja": "市は水の供給を確保するため、新しい貯水池を造った。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚えます。"
+     },
+     "forms": [
+      [
+       "water reservoir",
+       "水库",
+       "貯水池"
+      ],
+      [
+       "reservoir of talent",
+       "人才储备",
+       "人材の蓄え"
+      ]
+     ]
+    },
+    {
+     "w": "icebreaker",
+     "pos": "n.",
+     "ipa": "/ˈaɪsˌbreɪkɚ/",
+     "zh": "破冰活动；破冰船",
+     "ja": "アイスブレイク；砕氷船",
+     "ex": "The workshop began with a short icebreaker so participants could meet.",
+     "ex_zh": "研讨会以一个简短的破冰活动开场，让参与者互相认识。",
+     "ex_ja": "ワークショップは、参加者が知り合えるよう短いアイスブレイクで始まった。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚えます。"
+     },
+     "forms": [
+      [
+       "icebreaker activity",
+       "破冰活动",
+       "アイスブレイクの活動"
+      ],
+      [
+       "break the ice",
+       "打破僵局",
+       "場をなごませる"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}
