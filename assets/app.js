@@ -32,6 +32,37 @@
     draw(); hooks.push(draw);
   });
 
+  /* ---------- exam sprint self-tests (Part 5 / 6 / 7): tap a choice -> key + explanation; picks saved per page ---------- */
+  var XT={zh:{sc:function(a,b,c){return '已答 '+b+'/'+c+' · 答对 '+a;}},ja:{sc:function(a,b,c){return '回答 '+b+'/'+c+' · 正解 '+a;}}};
+  var xpage=location.pathname.split('/').pop()||'index.html', XK='tv.x.'+xpage, xp=LS.get(XK,{});
+  function xmark(q,k){
+    var a=q.dataset.ans;
+    [].forEach.call(q.querySelectorAll('.xo'),function(o){ o.classList.remove('ok','ng','pick');
+      if(!k) return; if(o.dataset.k===a) o.classList.add('ok'); if(o.dataset.k===k){ o.classList.add('pick'); if(k!==a) o.classList.add('ng'); } });
+    q.classList.toggle('done',!!k); q.classList.toggle('right',!!k&&k===a); q.classList.toggle('wrong',!!k&&k!==a);
+    var d=q.querySelector('details.xans'); if(d&&k) d.open=true;
+  }
+  var xsecs=[].slice.call(document.querySelectorAll('.xsec'));
+  function xscore(){ xsecs.forEach(function(sec){ var qs=sec.querySelectorAll('.xq'), n=0, r=0;
+      [].forEach.call(qs,function(q){ if(q.classList.contains('done')){n++; if(q.classList.contains('right')) r++;} });
+      var el=sec.querySelector('.xscore'); if(el) el.textContent=XT[lang()].sc(r,n,qs.length); }); }
+  [].forEach.call(document.querySelectorAll('.xq'),function(q){ if(xp[q.dataset.qid]) xmark(q,xp[q.dataset.qid]); });
+  document.addEventListener('click',function(ev){
+    var o=ev.target.closest&&ev.target.closest('button.xo');
+    if(o){ var q=o.closest('.xq'); if(q.classList.contains('done')) return;
+      xp[q.dataset.qid]=o.dataset.k; LS.set(XK,xp); xmark(q,o.dataset.k); xscore(); return; }
+    var r=ev.target.closest&&ev.target.closest('button.xreset');
+    if(r){ var sec=r.closest('.xsec'); [].forEach.call(sec.querySelectorAll('.xq'),function(q){ delete xp[q.dataset.qid]; xmark(q,null);
+        var d=q.querySelector('details.xans'); if(d) d.open=false; }); LS.set(XK,xp); xscore(); sec.scrollIntoView({behavior:'smooth',block:'start'}); }
+  });
+  if(xsecs.length){ xscore(); hooks.push(xscore); }
+  [].forEach.call(document.querySelectorAll('.xcd[data-exam]'),function(el){
+    var p=el.dataset.exam.split('-'), ex=new Date(+p[0],+p[1]-1,+p[2]), now=new Date(), t=new Date(now.getFullYear(),now.getMonth(),now.getDate());
+    var d=Math.round((ex-t)/864e5);
+    function draw(){ el.textContent= d>0 ? (lang()==='ja'?'試験まであと '+d+' 日':'距考试还有 '+d+' 天') : d===0 ? (lang()==='ja'?'今日が試験、がんばって！':'今天考试，加油！') : (lang()==='ja'?'試験おつかれさまでした':'考试辛苦了'); }
+    draw(); hooks.push(draw);
+  });
+
   var wd=document.getElementById('wdata'); if(!wd) return;
   var DATA=JSON.parse(wd.textContent), DAY=DATA.day, WORDS=DATA.words;
   var cards=[].slice.call(document.querySelectorAll('li.wd'));

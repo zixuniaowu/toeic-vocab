@@ -99,3 +99,8 @@ python3 -m venv /tmp/wp && /tmp/wp/bin/pip install edge-tts cmudict   # cmudict 
 - 水平：TOEIC 550–650 → 目标 800（IP テスト）。词汇选 600–850 分段的高频词。
 - 例句自然、贴近 TOEIC（邮件、通知、会议、合同、出差等场景），中文为简体，日文为自然的日语。
 - 词源必须可靠：拿不准就写“没有可靠的词根拆分 / 本族词”，并在 `exp_zh` 里提示形近但不同源的陷阱（例：attain ≠ tain，tentative ≠ ten，opportunity ≠ port“搬运”）。
+
+## 考前冲刺（2026-11-17 TOEIC IP）
+
+`data/exam_sprint.json` 由 `scripts/make_exam_sprint.py` 生成（题目来自 `/workspace/ets950/build/test{1,2,3}_site.json`，答案与 toeic800 播客 ep8–ep33、ep51–ep57 交叉核对；Test 2 的 Part 7 原文 / 题目 / 解析取自顺序精讲 ep17–ep25）。
+`build_day.py` 会把 `exam_sprint.json["days"]["N"]` 自动合并进 dayN.html（可选字段 `grammar` = Part 5、`part6`、`reading` = Part 7，显示在视频和单词之前，点选项看答案），并生成 `exam-sprint.html`（6 天计划）和 `exam-warmup.html`（11/10 热身）。没有这些字段的日子页面不变。每日例行照常只写 60 个单词即可。

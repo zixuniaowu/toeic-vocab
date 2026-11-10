@@ -14,7 +14,9 @@ What it does (in order):
   3. generate missing pronunciation MP3s with edge-tts (en-US-AriaNeural, the same voice as
      the toeic800 podcast site): audio/dayN/<slug>.mp3 (word) and <slug>_ex.mp3 (example)
   4. render dayN.html (static HTML, works without JS except the study helpers), index.html,
-     data/days.json, used_words.txt
+     data/days.json, used_words.txt; optional exam-sprint self-tests: data/exam_sprint.json["days"]["N"]
+     (Part 5 "grammar", "part6", Part 7 "reading") is merged into dayN.html, and exam-sprint.html +
+     exam-warmup.html are rendered (regenerate the JSON with scripts/make_exam_sprint.py)
   5. final checks: no Hangul in any output, every referenced MP3 exists
 """
 import argparse, asyncio, html, json, re, sys
@@ -288,6 +290,154 @@ def footer(v):
                                "単語・例文はオリジナル · 音声は AI 合成（Microsoft Edge TTS）· 学習専用"))
 
 
+# ------------------------------------------------------------------ exam sprint (optional grammar / Part 6 / reading)
+# Optional day fields "grammar" (Part 5 items), "part6" and "reading" (sets with passages) render as self-test
+# sections above the video and the 60 words. data/exam_sprint.json["days"]["N"] is merged in automatically
+# (fields already present in dayN.json win). Days without these fields render exactly as before.
+SPRINT_FILE = DATA / "exam_sprint.json"
+BLANK = re.compile(r"-{3,}\s*(\(\d+\))?")
+
+
+def load_sprint():
+    if SPRINT_FILE.exists():
+        return json.loads(SPRINT_FILE.read_text(encoding="utf-8"))
+    return None
+
+
+def merge_sprint(n, day, sp):
+    d = (sp or {}).get("days", {}).get(str(n))
+    if not d:
+        return day
+    out = dict(day)
+    for k in ("grammar", "part6", "reading", "focus_zh", "focus_ja"):
+        if d.get(k) and not out.get(k):
+            out[k] = d[k]
+    return out
+
+
+def has_exam(day):
+    return bool(day.get("grammar") or day.get("part6") or day.get("reading"))
+
+
+def xtext(s):
+    """Escape test text; mark blanks; keep line breaks."""
+    t = E(s)
+    t = BLANK.sub(lambda m: f'<span class="xblank">{m.group(1) or ""}</span>', t)
+    return t.replace("\n", "<br>")
+
+
+def x_block(b):
+    t = b.get("t")
+    if t == "title":
+        return f'<div class="xd-title">{xtext(b["x"])}</div>'
+    if t == "meta":
+        rows = "".join(f"<tr><th>{xtext(r[0])}</th><td>{xtext(r[1]) if len(r) > 1 else ''}</td></tr>" for r in b["rows"])
+        return f'<table class="xd-meta">{rows}</table>'
+    if t == "msg":
+        return f'<div class="xd-msg"><div class="xd-who"><b>{xtext(b.get("who", ""))}</b> <span>{xtext(b.get("time", ""))}</span></div><div>{xtext(b["x"])}</div></div>'
+    if t == "sign":
+        return f'<div class="xd-sign">{xtext(b["x"])}</div>'
+    if t == "list":
+        return '<ul class="xd-list">' + "".join(f"<li>{xtext(i)}</li>" for i in b["items"]) + "</ul>"
+    if t == "table":
+        head = "".join(f"<th>{xtext(c)}</th>" for c in b.get("cols", []))
+        body = "".join("<tr>" + "".join(f"<td>{xtext(c)}</td>" for c in r) + "</tr>" for r in b.get("rows", []))
+        cap = f'<caption>{xtext(b["cap"])}</caption>' if b.get("cap") else ""
+        return f'<div class="xd-tw"><table class="xd-table">{cap}<thead><tr>{head}</tr></thead><tbody>{body}</tbody></table></div>'
+    return f'<p>{xtext(b.get("x", ""))}</p>'
+
+
+def x_docs(s):
+    docs = []
+    for d in s.get("docs") or []:
+        docs.append("".join(x_block(b) for b in d))
+    for d in s.get("text_docs") or []:
+        docs.append("".join(f"<p>{xtext(par)}</p>" for par in re.split(r"\n\s*\n", d) if par.strip()))
+    many = len(docs) > 1
+    out = []
+    for i, d in enumerate(docs, 1):
+        tag = f'<div class="xd-n">{bi(f"文章 {i}", f"文書 {i}")}</div>' if many else ""
+        out.append(f'<div class="xdoc">{tag}{d}</div>')
+    return '<div class="xdocs">' + "".join(out) + "</div>"
+
+
+def x_question(q, label, topic=None, stem=True):
+    ans = q["answer"]
+    qid = re.sub(r"[^A-Za-z0-9]+", "-", label).strip("-")
+    head = f'<span class="xlab">{E(label)}</span>'
+    if topic:
+        head += f'<span class="xtag">{bi(E(topic[0]), E(topic[1]))}</span>'
+    st = f'<div class="xstem">{xtext(q["q"])}</div>' if stem and q.get("q") else ""
+    opts = "".join(f'<button type="button" class="xo" data-k="{k}"><b>({k})</b> {xtext(o)}</button>'
+                   for k, o in zip("ABCD", q["options"]))
+    right = q["options"]["ABCD".index(ans)]
+    body = f'<div class="xkey">✅ {bi("正确答案", "正解")} <b>({ans}) {xtext(right)}</b></div>'
+    if q.get("tip_zh"):
+        body += f'<div class="xtip">💡 {bi(E(q["tip_zh"]), E(q.get("tip_ja") or q["tip_zh"]))}</div>'
+    if q.get("exp_zh"):
+        body += '<div class="xexp">' + bi(E(q["exp_zh"]), E(q.get("exp_ja") or q["exp_zh"])) + "</div>"
+    if q.get("vocab_zh"):
+        body += '<div class="xvoc">📖 ' + bi(E(q["vocab_zh"]), E(q.get("vocab_ja") or q["vocab_zh"])) + "</div>"
+    return (f'<div class="xq" id="x-{qid}" data-qid="{qid}" data-ans="{ans}"><div class="xqh">{head}</div>{st}'
+            f'<div class="xopts">{opts}</div><details class="xans"><summary>{bi("👆 点选项作答，或点这里看答案", "👆 選択肢をタップ、またはここで答えを見る")}</summary>'
+            f'<div class="xbody">{body}</div></details></div>')
+
+
+def x_set(s, part):
+    kind = ""
+    nd = len(s.get("docs") or []) + len(s.get("text_docs") or [])
+    if part == 7:
+        kind = {1: ("单篇", "シングル"), 2: ("双篇", "ダブル"), 3: ("三篇", "トリプル")}.get(nd, ("多篇", "マルチ"))
+        kind = f'<span class="xtag">{bi(*kind)}</span>'
+    qs = "".join(x_question(q, q["label"], stem=True) for q in s["questions"])
+    return (f'<article class="xset" id="x-{E(s["id"])}"><div class="xsh"><span class="xlab">{E(s["label"])}</span>{kind}</div>'
+            f'<p class="xintro">{E(s["intro"])}</p>{x_docs(s)}<div class="xqs">{qs}</div></article>')
+
+
+def x_section(sid, h_zh, h_ja, note_zh, note_ja, inner, nq):
+    return (f'<section class="card xsec" id="{sid}" data-sec="{sid}"><h2>{bi(h_zh, h_ja)} <small>{bi(f"{nq} 题", f"{nq} 問")}</small></h2>'
+            f'<p class="xnote">{bi(note_zh, note_ja)}</p>{inner}'
+            f'<div class="xbar"><span class="xscore"></span><button type="button" class="tb xreset">{bi("🔄 清空重做", "🔄 リセット")}</button></div></section>')
+
+
+def render_exam(day, prefix=""):
+    """Self-test sections (Part 5 grammar, Part 6, Part 7 reading). Returns a list of HTML strings."""
+    out = []
+    g = day.get("grammar") or []
+    if g:
+        inner = '<div class="xqs">' + "".join(
+            x_question(q, q["label"], (q.get("topic_zh"), q.get("topic_ja")) if q.get("topic_zh") else None) for q in g) + "</div>"
+        out.append(x_section(f"{prefix}grammar", "✏️ 语法真题 · Part 5", "✏️ 文法の本番問題 · Part 5",
+                             "先做题，再背单词。每题约 20 秒；点选项立即看答案、提示和解析。",
+                             "単語の前にまず解きましょう。1問約20秒。選択肢をタップすると正解・ヒント・解説が出ます。", inner, len(g)))
+    p6 = day.get("part6") or []
+    if p6:
+        inner = "".join(x_set(s, 6) for s in p6)
+        n6 = sum(len(s["questions"]) for s in p6)
+        out.append(x_section(f"{prefix}part6", "🧩 Part 6 真题复习", "🧩 Part 6 本番問題の復習",
+                             "先读整篇，空格的线索在前后句：语法题先找谓语，词汇题看上下文，句子插入看前后句的指代。",
+                             "まず全体を読みましょう。ヒントは前後の文にあります。文法は述語を探し、語彙は文脈、文挿入は前後の指示語を確認。", inner, n6))
+    rd = day.get("reading") or []
+    if rd:
+        inner = "".join(x_set(s, 7) for s in rd)
+        n7 = sum(len(s["questions"]) for s in rd)
+        out.append(x_section(f"{prefix}reading", f"📖 阅读训练 · Part 7（{len(rd)} 组）", f"📖 読解トレーニング · Part 7（{len(rd)} セット）",
+                             "先看题目再回原文找依据，每题约 1 分钟。多篇题要把日期、人名、数字在几篇之间对起来。",
+                             "先に設問を読んでから本文で根拠を探しましょう。1問約1分。複数文書は日付・人名・数字を照合。", inner, n7))
+    return out
+
+
+def exam_toc(day):
+    t = []
+    if day.get("grammar"):
+        t.append(f'<a href="#grammar">{bi("✏️ 语法真题", "✏️ 文法")} <small>{len(day["grammar"])}</small></a>')
+    if day.get("part6"):
+        t.append(f'<a href="#part6">{bi("🧩 Part 6", "🧩 Part 6")} <small>{sum(len(s["questions"]) for s in day["part6"])}</small></a>')
+    if day.get("reading"):
+        t.append(f'<a href="#reading">{bi("📖 阅读训练", "📖 読解")} <small>{sum(len(s["questions"]) for s in day["reading"])}</small></a>')
+    return "".join(t)
+
+
 def render_word(n, i, w):
     s = slug(w["w"])
     a = f"audio/day{n}/{s}.mp3"
@@ -335,6 +485,11 @@ def render_day(n, day, prev_day, next_day, v):
     out.append(f'<div class="meta">' + bi(f"{len(ws)} 词 · {fmt_date(day['date'], 'zh')}", f"{len(ws)} 語 · {fmt_date(day['date'], 'ja')}") + "</div>")
     if day.get("intro_zh"):
         out.append('<p class="intro">' + bi(E(day["intro_zh"]), E(day.get("intro_ja") or day["intro_zh"])) + "</p>")
+    if has_exam(day):  # exam sprint: self-test before the words
+        out.append('<div class="xban">' + bi(f"🎯 考前冲刺：先做下面的真题，再背 {len(ws)} 个单词" + (f"（今日重点：{E(day['focus_zh'])}）" if day.get("focus_zh") else ""),
+                                            f"🎯 試験直前対策：まず下の本番問題、それから {len(ws)} 語" + (f"（今日のポイント：{E(day['focus_ja'])}）" if day.get("focus_ja") else ""))
+                   + f' · <a href="exam-sprint.html">{bi("冲刺计划", "対策プラン")}</a></div>')
+        out += render_exam(day)
     # explanation video: media/dayN.mp4 on Pages (made by make_day_video.py)
     vurl = f"{VIDEO_BASE}/day{n}.mp4"
     out.append('<section class="card" id="video"><h2>' + bi("🎬 讲解视频", "🎬 解説動画") + "</h2>")
@@ -362,7 +517,7 @@ def render_day(n, day, prev_day, next_day, v):
         out.append(f"""<div class="root"><div class="rh"><span class="rname">{E(r['root'])}</span><span class="rmean pair"><span class="cz">{E(r['zh'])}</span><span class="cj" lang="ja">{E(r['ja'])}</span></span><span class="rorig">{E(r.get('origin',''))}</span></div>
  {bi(E(r['exp_zh']), E(r['exp_ja']), 'p', 'rexp')}<div class="rxs">{''.join(ex)}</div></div>""")
     out.append("</section>")
-    toc = "".join(f'<a href="#g-{E(g["id"])}">{bi(E(g["title_zh"]), E(g["title_ja"]))} <small>{len(g["words"])}</small></a>' for g in day["groups"])
+    toc = exam_toc(day) + "".join(f'<a href="#g-{E(g["id"])}">{bi(E(g["title_zh"]), E(g["title_ja"]))} <small>{len(g["words"])}</small></a>' for g in day["groups"])
     out.append(f'<nav class="toc stoc card"><div class="lbl">' + bi("📑 本课目录", "📑 目次") + f'</div>{toc}<a href="#quiz">' + bi("📝 小测验", "📝 ミニテスト") + '</a></nav>')
     out.append("</div></aside>")
     # toolbar
@@ -393,7 +548,7 @@ def render_day(n, day, prev_day, next_day, v):
     return "\n".join(out)
 
 
-def render_index(days, v):
+def render_index(days, v, sp=None):
     out = [HEAD.format(title=E(SITE_TITLE), desc=E(SITE_SUB_ZH), v=v, body="home")]
     out.append(f"""<header class="hero"><div class="wrap"><div class="herotop">{LANGSW}</div>
 <h1>{E(SITE_TITLE)}</h1>
@@ -401,6 +556,10 @@ def render_index(days, v):
 <p class="sub2">{bi(E(SITE_SUB_ZH), 'TOEIC 550〜650 → 800 を目指す人のための単語帳。IPA・つづり・音声・語源・中日の意味つき。')}</p>
 </div></header>
 <main class="wrap"><ul class="list">""")
+    if sp and sp.get("days"):
+        b = sprint_banner(sp)
+        if b:
+            out.append(f"  <li>{b}</li>")
     newest = days[-1][0] if days else None
     for n, d in reversed(days):
         cnt = len(words_of(d))
@@ -419,6 +578,89 @@ def render_index(days, v):
     out.append("</main>")
     out.append(footer(v))
     return "\n".join(out)
+
+
+# ------------------------------------------------------------------ exam sprint pages (exam-sprint.html, exam-warmup.html)
+
+
+def _bar(v, title):
+    return [HEAD.format(title=E(title), desc=E(title), v=v, body="dayp xpage"),
+            f'<header class="bar"><div class="wrap barin"><a href="index.html">← {E(SITE_TITLE)}</a>{LANGSW}</div></header>',
+            '<main class="wrap">']
+
+
+def _days_left(sp):
+    import datetime as dt
+    from zoneinfo import ZoneInfo
+    today = dt.datetime.now(ZoneInfo("Asia/Tokyo")).date()
+    return (dt.date.fromisoformat(sp["exam_date"]) - today).days
+
+
+def render_plan(sp, nums, v):
+    ed = sp["exam_date"]
+    out = _bar(v, f"考前冲刺计划 · {ed} TOEIC IP | {SITE_TITLE}")
+    out.append('<h1 class="title">' + bi("🎯 考前冲刺计划", "🎯 試験直前対策プラン") + "</h1>")
+    out.append('<div class="meta">' + bi(f"考试：{fmt_date(ed, 'zh')} · {E(sp['exam_zh'])}", f"試験：{fmt_date(ed, 'ja')} · {E(sp['exam_ja'])}") + "</div>")
+    out.append('<section class="card"><h2>' + bi("每天怎么做", "毎日の進め方") + "</h2><ol class=\"xsteps\">"
+               + "<li>" + bi("✏️ 先做 15 道 Part 5 语法真题（约 5–8 分钟），点选项立刻看答案和解析。", "✏️ まず Part 5 の文法問題15問（約5〜8分）。選択肢をタップすると正解と解説が出ます。") + "</li>"
+               + "<li>" + bi("📖 再做 3 组 Part 7 阅读（约 12 题，按每题 1 分钟计时）。先看题目，再回原文找依据。", "📖 次に Part 7 の読解3セット（約12問、1問1分で計時）。設問を先に読み、本文で根拠を探します。") + "</li>"
+               + "<li>" + bi("📚 最后背当天 60 个单词；时间不够时，单词可以以后补。", "📚 最後にその日の60語。時間がなければ単語は後回しで構いません。") + "</li>"
+               + "<li>" + bi("🎧 听力 Part 1–4 题型已经全部讲完：这周抽一次用 IP 模式完整做一遍模拟考，查漏补缺。", "🎧 リスニング Part 1〜4 は解説済み。今週一度 IP モードで模試を通して解き、弱点を確認しましょう。")
+               + ' <a href="https://zixuniaowu.github.io/toeic-ip-mock/">📝 IP 模拟考试</a></li></ol>'
+               + '<p class="xnote">' + bi("三套真题的 Part 5 共 90 题，6 天每天 15 题，正好全部再做一遍；阅读优先安排还没练过的篇目。", "3セットの Part 5 全90問を6日間で毎日15問、ちょうど一巡します。読解はまだ練習していないセットを優先。") + "</p></section>")
+    out.append('<section class="card"><h2>' + bi("🌙 今晚的热身（11/10）", "🌙 今夜のウォームアップ（11/10）") + "</h2><p>"
+               + bi("Test 1 Part 6 八道题（刚在第 58–59 期讲过）+ 两组熟悉的 Part 7。", "Test 1 Part 6 の8問（第58〜59回で解説済み）＋ おなじみの Part 7 の2セット。")
+               + '</p><a class="btn" href="exam-warmup.html">' + bi("开始热身练习 →", "ウォームアップを始める →") + "</a></section>")
+    out.append('<section class="card"><h2>' + bi("📅 6 天安排", "📅 6日間の予定") + '</h2><ol class="xplan">')
+    for n_s, d in sorted(sp["days"].items(), key=lambda x: int(x[0])):
+        n = int(n_s)
+        gl = " · ".join(q["label"].replace("Test ", "T").replace(" · ", " ") for q in d["grammar"])
+        p6 = d.get("part6") or []
+        rl = " · ".join(f'{E(r["label"])}（{len(r["questions"])}）' for r in d["reading"])
+        rq = sum(len(r["questions"]) for r in d["reading"])
+        link = (f'<a class="btn sm" href="day{n}.html">' + bi("打开 →", "開く →") + "</a>") if n in nums else \
+            ('<span class="xsoon">' + bi("当天早上发布", "当日の朝に公開") + "</span>")
+        p6h = ""
+        if p6:
+            p6h = "<div><b>" + bi("Part 6 复习", "Part 6 復習") + f"</b> {E(' · '.join(s['label'] for s in p6))}（{sum(len(s['questions']) for s in p6)}）</div>"
+        out.append(f'<li class="xpd"><div class="xpdh"><span class="num">{n}<small>Day</small></span><div><b>{bi(fmt_date(d["date"], "zh"), fmt_date(d["date"], "ja"))}</b>'
+                   f'<div class="meta">{bi(E(d["focus_zh"]), E(d["focus_ja"]))}</div></div>{link}</div>'
+                   f'<div class="xpdb"><div><b>{bi("语法 Part 5", "文法 Part 5")}</b>（{len(d["grammar"])}）<span class="xids">{E(gl)}</span></div>{p6h}'
+                   f'<div><b>{bi("阅读 Part 7", "読解 Part 7")}</b>（{rq}）{rl}</div></div></li>')
+    out.append("</ol></section>")
+    out.append(f'<div class="xban">{bi("📅 考试当天 11/17：不做新题，提前检查电脑和网络环境，前一晚早点休息。加油！", "📅 試験当日 11/17：新しい問題はやらず、PC とネット環境を事前に確認し、前の晩は早めに休みましょう。がんばって！")}</div>')
+    out.append("</main>")
+    out.append(footer(v))
+    return "\n".join(out)
+
+
+def render_warmup(sp, v):
+    w = sp["warmup"]
+    out = _bar(v, f"今晚热身 · Part 6 + Part 7 | {SITE_TITLE}")
+    out.append('<h1 class="title">' + bi("🌙 今晚热身：Part 6 + Part 7", "🌙 今夜のウォームアップ：Part 6 + Part 7") + "</h1>")
+    n6 = sum(len(s["questions"]) for s in w["part6"]); n7 = sum(len(s["questions"]) for s in w["reading"])
+    out.append('<div class="meta">' + bi(f"{fmt_date(w['date'], 'zh')} · {n6 + n7} 题（约 20 分钟）", f"{fmt_date(w['date'], 'ja')} · {n6 + n7} 問（約20分）")
+               + f' · <a href="exam-sprint.html">{bi("冲刺计划", "対策プラン")}</a></div>')
+    out.append('<p class="intro">' + bi("先做 Test 1 Part 6 的两篇（第 58–59 期刚讲过，检验是否还记得线索），再做两组熟悉的 Part 7。明天开始每天的单词页会带 15 道语法 + 3 组阅读。",
+                                        "まず Test 1 Part 6 の2つの文章（第58〜59回で解説済み。ヒントを覚えているか確認）、次におなじみの Part 7 を2セット。明日から毎日の単語ページに文法15問＋読解3セットが付きます。") + "</p>")
+    out += render_exam({"part6": w["part6"], "reading": w["reading"]})
+    out.append('<div class="nav"><a href="exam-sprint.html">← ' + bi("冲刺计划", "対策プラン") + '</a><a href="index.html">' + bi("全部日期", "一覧へ") + " →</a></div>")
+    out.append("</main>")
+    out.append(footer(v))
+    return "\n".join(out)
+
+
+def sprint_banner(sp):
+    left = _days_left(sp)
+    if left < 0:
+        return ""
+    cd = bi(f"距考试还有 {left} 天", f"試験まであと {left} 日") if left else bi("今天考试，加油！", "今日が試験、がんばって！")
+    return (f'<div class="ep xhome"><div class="num">🎯<small>{E(sp["exam_date"][5:].replace("-", "/"))}</small></div>'
+            f'<div><h2><a href="exam-sprint.html">{bi("考前冲刺：语法真题 + 阅读训练", "試験直前対策：文法の本番問題 + 読解")}</a></h2>'
+            f'<div class="meta"><span class="xcd" data-exam="{E(sp["exam_date"])}">{cd}</span> · {bi("Day 39–44 每天 15 道 Part 5 + 3 组 Part 7", "Day 39〜44 毎日 Part 5 15問 + Part 7 3セット")}</div>'
+            f'<div class="xhl"><a class="btn sm" href="exam-sprint.html">{bi("📅 6 天计划", "📅 6日間プラン")}</a>'
+            f'<a class="btn sm" href="exam-warmup.html">{bi("🌙 今晚热身", "🌙 今夜のウォームアップ")}</a></div></div></div>')
+
 
 # ------------------------------------------------------------------ main
 
@@ -467,12 +709,17 @@ def main():
     import datetime as dt
     v = dt.datetime.now().strftime("%Y%m%d%H%M")
     ordered = [(n, days[n]) for n in nums]
+    sp = load_sprint()
     for n in nums:  # re-render all days so prev/next links stay correct
         i = nums.index(n)
         prev_day = nums[i - 1] if i > 0 else None
         next_day = nums[i + 1] if i + 1 < len(nums) else None
-        (ROOT / f"day{n}.html").write_text(render_day(n, days[n], prev_day, next_day, v), encoding="utf-8")
-    (ROOT / "index.html").write_text(render_index(ordered, v), encoding="utf-8")
+        (ROOT / f"day{n}.html").write_text(render_day(n, merge_sprint(n, days[n], sp), prev_day, next_day, v), encoding="utf-8")
+    (ROOT / "index.html").write_text(render_index(ordered, v, sp), encoding="utf-8")
+    if sp:
+        (ROOT / "exam-sprint.html").write_text(render_plan(sp, nums, v), encoding="utf-8")
+        if sp.get("warmup"):
+            (ROOT / "exam-warmup.html").write_text(render_warmup(sp, v), encoding="utf-8")
     manifest = [{"day": n, "date": d["date"], "title_zh": d["title_zh"], "title_ja": d["title_ja"],
                  "words": len(words_of(d)), "roots": [r["root"] for r in d.get("roots", [])]} for n, d in ordered]
     (DATA / "days.json").write_text(json.dumps(manifest, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
@@ -482,7 +729,7 @@ def main():
     (ROOT / "used_words.txt").write_text("\n".join(used) + "\n", encoding="utf-8")
     # final checks
     problems = []
-    for p in [ROOT / "index.html", *ROOT.glob("day*.html"), *(ROOT / "assets").glob("*"), *DATA.glob("*.json"), ROOT / "used_words.txt"]:
+    for p in [ROOT / "index.html", *ROOT.glob("day*.html"), *ROOT.glob("exam-*.html"), *(ROOT / "assets").glob("*"), *DATA.glob("*.json"), ROOT / "used_words.txt"]:
         if p.is_file() and HANGUL.search(p.read_text(encoding="utf-8", errors="ignore")):
             problems.append(f"Hangul in {p.relative_to(ROOT)}")
     for n in nums:
