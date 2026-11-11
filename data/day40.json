@@ -1,0 +1,2311 @@
+{
+ "day": 40,
+ "date": "2026-11-12",
+ "title_zh": "四大词根 + 市场行情涨跌、能源环保与供应",
+ "title_ja": "4つの語根＋市況の上げ下げ、エネルギー・環境・供給",
+ "intro_zh": "今天掌握 4 个词根（spect 看 / vert·vers 转 / tract 拉 / not 标记·知道），再学市场行情涨跌、能源环保与供应的核心词——Part 5 和 Part 7 常考 downturn、surge、plunge 这类描述数据走势的词，以及 detract from、revert to、aversion to 等固定搭配。",
+ "intro_ja": "今日は語根 4 つ（spect 見る／vert・vers 向く／tract 引く／not 印・知る）と、市況の上げ下げ、エネルギー・環境・供給の重要語を学びます。Part 5・7 頻出の downturn, surge, plunge など数値の動きを表す語と、detract from, revert to, aversion to などの語法を押さえます。",
+ "voice": "en-US-AriaNeural",
+ "roots": [
+  {
+   "root": "-spect- / -spic-",
+   "origin": "Latin specere, spectus",
+   "zh": "看",
+   "ja": "見る",
+   "exp_zh": "来自拉丁语 specere（看）。往里看 → inspect；回头看 → retrospect；向前看 → prospect；从下面偷看 → suspect。⚠️ respect（尊敬）、inspect（检查）拼写相近，别混淆。",
+   "exp_ja": "ラテン語 specere（見る）から。中を見る → inspect；振り返る → retrospect；先を見る → prospect；下から見る → suspect。⚠️ respective（それぞれの）と respectful（敬意ある）を混同しない。",
+   "examples": [
+    "inspect",
+    "retrospect",
+    "respective",
+    "conspicuous",
+    "inconspicuous",
+    "spectrum",
+    "specify",
+    "spectacle",
+    "prospect",
+    "suspect"
+   ]
+  },
+  {
+   "root": "-vert- / -vers-",
+   "origin": "Latin vertere, versus",
+   "zh": "转",
+   "ja": "向く；回る",
+   "exp_zh": "来自拉丁语 vertere（转）。转回去 → revert；转开 → avert；彼此转向 → converse；转向对立 → controversy。⚠️ avert（避免）≠ avoid（避开），不同词源。",
+   "exp_ja": "ラテン語 vertere（回す・向く）から。元へ向く → revert；そらす → avert；互いに向く → converse；対立して向く → controversy。⚠️ avert と avoid は別語源。",
+   "examples": [
+    "revert",
+    "subvert",
+    "converse",
+    "controversy",
+    "inadvertent",
+    "aversion",
+    "avert",
+    "reversal",
+    "reversible"
+   ]
+  },
+  {
+   "root": "-tract-",
+   "origin": "Latin trahere, tractus",
+   "zh": "拉；拖",
+   "ja": "引く",
+   "exp_zh": "来自拉丁语 trahere（拉）。往下拉 → subtract；拉走价值 → detract；向前拉长 → protract；拉紧 → contraction。常见的 attract、extract、contract 也同源。",
+   "exp_ja": "ラテン語 trahere（引く）から。下へ引く → subtract；価値を引き離す → detract；前へ引き延ばす → protract；引き締める → contraction。attract, extract, contract も同系。",
+   "examples": [
+    "subtract",
+    "detract",
+    "protract",
+    "contraction",
+    "traction",
+    "tractor"
+   ]
+  },
+  {
+   "root": "-not-",
+   "origin": "Latin nota, notare",
+   "zh": "标记；知道",
+   "ja": "印；知る",
+   "exp_zh": "来自拉丁语 nota（记号）和 notare（做标记）；notion、notorious 一系与拉丁语 noscere（知道）相关。标出来 → denote；一起标出 → connote；在旁做记号 → annotate；人人知道 → notorious。",
+   "exp_ja": "ラテン語 nota（印）・notare（印を付ける）から。notion, notorious は noscere（知る）とも関連。はっきり示す → denote；付随して示す → connote；書き込む → annotate；広く知られる → notorious。",
+   "examples": [
+    "notion",
+    "notable",
+    "denote",
+    "connote",
+    "annotate",
+    "notorious",
+    "notation"
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "spect",
+   "title_zh": "词根 -spect-：看",
+   "title_ja": "語根 -spect-：見る",
+   "words": [
+    {
+     "w": "inspect",
+     "pos": "v.",
+     "ipa": "/ɪnˈspɛkt/",
+     "zh": "检查；视察",
+     "ja": "検査する；視察する",
+     "ex": "An officer will inspect the warehouse before the license is renewed.",
+     "ex_zh": "执照续期前，一名官员会检查仓库。",
+     "ex_ja": "免許が更新される前に、担当官が倉庫を検査する。",
+     "parts": [
+      [
+       "in-",
+       "向内",
+       "中を"
+      ],
+      [
+       "spect",
+       "看",
+       "見る"
+      ]
+     ],
+     "note": {
+      "zh": "in“向内”+ spect“看”→ 仔细往里看 → 检查。",
+      "ja": "in「中を」＋ spect「見る」→ 中をよく見る → 検査する。"
+     },
+     "forms": [
+      [
+       "inspection (n.)",
+       "检查",
+       "検査"
+      ],
+      [
+       "inspector (n.)",
+       "检查员",
+       "検査官"
+      ]
+     ]
+    },
+    {
+     "w": "retrospect",
+     "pos": "n.",
+     "ipa": "/ˈrɛtrəˌspɛkt/",
+     "zh": "回顾；事后回想",
+     "ja": "回顧；後から振り返ること",
+     "ex": "In retrospect, we should have tested the software for another week.",
+     "ex_zh": "事后看来，我们本该把软件再测试一周。",
+     "ex_ja": "振り返ってみると、そのソフトをもう1週間テストすべきだった。",
+     "parts": [
+      [
+       "retro-",
+       "向后",
+       "後ろへ"
+      ],
+      [
+       "spect",
+       "看",
+       "見る"
+      ]
+     ],
+     "note": {
+      "zh": "retro“向后”+ spect“看”→ 回头看 → 回顾。",
+      "ja": "retro「後ろへ」＋ spect「見る」→ 振り返る。"
+     },
+     "forms": [
+      [
+       "in retrospect",
+       "事后回想",
+       "振り返ってみると"
+      ],
+      [
+       "retrospective (adj./n.)",
+       "回顾的；回顾展",
+       "回顧の；回顧展"
+      ]
+     ]
+    },
+    {
+     "w": "respective",
+     "pos": "adj.",
+     "ipa": "/rɪˈspɛktɪv/",
+     "zh": "各自的",
+     "ja": "それぞれの",
+     "ex": "The two managers presented their respective budgets at the meeting.",
+     "ex_zh": "两位经理在会上分别汇报了各自的预算。",
+     "ex_ja": "2人のマネージャーは会議でそれぞれの予算を発表した。",
+     "parts": [
+      [
+       "re-",
+       "回头",
+       "後ろへ"
+      ],
+      [
+       "spect",
+       "看",
+       "見る"
+      ],
+      [
+       "-ive",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "re“回头”+ spect“看”→ 分别看各自 → 各自的。",
+      "ja": "re「後ろへ」＋ spect「見る」→ それぞれを見る → 各自の。"
+     },
+     "forms": [
+      [
+       "respectively (adv.)",
+       "分别地",
+       "それぞれ"
+      ],
+      [
+       "in their respective fields",
+       "在各自领域",
+       "それぞれの分野で"
+      ]
+     ],
+     "tip": {
+      "zh": "后面接复数名词：their respective offices。别和 respectful（恭敬的）混淆。",
+      "ja": "複数名詞が続く：their respective offices。respectful（敬意を示す）と混同しない。"
+     }
+    },
+    {
+     "w": "conspicuous",
+     "pos": "adj.",
+     "ipa": "/kənˈspɪkjuəs/",
+     "zh": "显眼的；明显的",
+     "ja": "目立つ；顕著な",
+     "ex": "The sign was placed in a conspicuous spot near the entrance.",
+     "ex_zh": "标牌被放在入口附近显眼的位置。",
+     "ex_ja": "看板は入口近くの目立つ場所に設置された。",
+     "parts": [
+      [
+       "con-",
+       "完全",
+       "完全に"
+      ],
+      [
+       "spic",
+       "看",
+       "見る"
+      ],
+      [
+       "-ous",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "con“完全”+ spic（同 spect，“看”）→ 一眼就看到 → 显眼的。",
+      "ja": "con「完全に」＋ spic（spect と同系、「見る」）→ すぐ目に入る → 目立つ。"
+     },
+     "forms": [
+      [
+       "conspicuously (adv.)",
+       "显眼地",
+       "目立って"
+      ],
+      [
+       "be conspicuous by one's absence",
+       "缺席引人注目",
+       "いないことで目立つ"
+      ]
+     ]
+    },
+    {
+     "w": "inconspicuous",
+     "pos": "adj.",
+     "ipa": "/ˌɪnkənˈspɪkjuəs/",
+     "zh": "不显眼的",
+     "ja": "目立たない",
+     "ex": "Please keep the security cameras as inconspicuous as possible.",
+     "ex_zh": "请让监控摄像头尽量不显眼。",
+     "ex_ja": "防犯カメラはできるだけ目立たないようにしてください。",
+     "parts": [
+      [
+       "in-",
+       "不",
+       "否定"
+      ],
+      [
+       "con-",
+       "完全",
+       "完全に"
+      ],
+      [
+       "spic",
+       "看",
+       "見る"
+      ],
+      [
+       "-ous",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "in“不”+ conspicuous（显眼的）→ 不显眼的。",
+      "ja": "in「否定」＋ conspicuous（目立つ）→ 目立たない。"
+     },
+     "forms": [
+      [
+       "inconspicuously (adv.)",
+       "不引人注意地",
+       "目立たずに"
+      ],
+      [
+       "conspicuous (adj.)",
+       "显眼的",
+       "目立つ"
+      ]
+     ]
+    },
+    {
+     "w": "spectrum",
+     "pos": "n.",
+     "ipa": "/ˈspɛktrəm/",
+     "zh": "范围；光谱",
+     "ja": "範囲；スペクトル",
+     "ex": "The survey covered a broad spectrum of customer opinions.",
+     "ex_zh": "这项调查涵盖了广泛的客户意见。",
+     "ex_ja": "その調査は幅広い顧客の意見を網羅していた。",
+     "parts": [
+      [
+       "spec",
+       "看",
+       "見る"
+      ],
+      [
+       "-trum",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 spectrum 原指“景象、显现之物”，与 spec“看”同源；现在多用来指“范围”。",
+      "ja": "ラテン語 spectrum は「姿・現れ」の意で spec「見る」と同源。現在は「範囲」の意でよく使う。"
+     },
+     "forms": [
+      [
+       "a broad spectrum of",
+       "广泛的一系列",
+       "幅広い〜"
+      ],
+      [
+       "the political spectrum",
+       "政治光谱",
+       "政治的立場の幅"
+      ]
+     ]
+    },
+    {
+     "w": "specify",
+     "pos": "v.",
+     "ipa": "/ˈspɛsəˌfaɪ/",
+     "zh": "具体说明；指定",
+     "ja": "明記する；指定する",
+     "ex": "The contract specifies the date by which payment must be made.",
+     "ex_zh": "合同规定了必须付款的日期。",
+     "ex_ja": "契約書には支払期限が明記されている。",
+     "parts": [
+      [
+       "spec",
+       "种类；样子",
+       "種類；様子"
+      ],
+      [
+       "-ify",
+       "使成为",
+       "〜にする"
+      ]
+     ],
+     "note": {
+      "zh": "spec 源自拉丁语 species“种类、样子”（与“看”同源），-ify“使成为”→ 把细节讲明确 → 具体说明。",
+      "ja": "spec はラテン語 species「種類・姿」（「見る」と同源）、-ify「〜にする」→ 詳細を明確にする。"
+     },
+     "forms": [
+      [
+       "specification (n.)",
+       "规格；说明书",
+       "仕様；明細"
+      ],
+      [
+       "unless otherwise specified",
+       "除非另有说明",
+       "特に指定がない限り"
+      ]
+     ]
+    },
+    {
+     "w": "spectacle",
+     "pos": "n.",
+     "ipa": "/ˈspɛktəkəl/",
+     "zh": "壮观景象；场面",
+     "ja": "壮観；見世物",
+     "ex": "The fireworks display was a spectacle that drew thousands of visitors.",
+     "ex_zh": "烟花表演场面壮观，吸引了数千名游客。",
+     "ex_ja": "花火大会は壮観で、何千人もの観光客を引きつけた。",
+     "parts": [
+      [
+       "spect",
+       "看",
+       "見る"
+      ],
+      [
+       "-acle",
+       "表示“物”",
+       "〜するもの"
+      ]
+     ],
+     "note": {
+      "zh": "spect“看”→ 值得看的东西 → 景象。",
+      "ja": "spect「見る」→ 見るべきもの → 壮観な光景。"
+     },
+     "forms": [
+      [
+       "spectacular (adj.)",
+       "壮观的",
+       "壮観な"
+      ],
+      [
+       "make a spectacle of oneself",
+       "出洋相",
+       "人前で恥をさらす"
+      ]
+     ]
+    },
+    {
+     "w": "prospect",
+     "pos": "n.",
+     "ipa": "/ˈprɑˌspɛkt/",
+     "zh": "前景；可能性",
+     "ja": "見込み；可能性",
+     "ex": "The prospect of a merger made investors nervous.",
+     "ex_zh": "合并的可能性让投资者感到不安。",
+     "ex_ja": "合併の可能性に投資家は不安を感じた。",
+     "parts": [
+      [
+       "pro-",
+       "向前",
+       "前へ"
+      ],
+      [
+       "spect",
+       "看",
+       "見る"
+      ]
+     ],
+     "note": {
+      "zh": "pro“向前”+ spect“看”→ 向前看 → 前景。",
+      "ja": "pro「前へ」＋ spect「見る」→ 先を見る → 見通し。"
+     },
+     "forms": [
+      [
+       "job prospects",
+       "就业前景",
+       "就職の見通し"
+      ],
+      [
+       "prospective (adj.)",
+       "预期的；潜在的",
+       "見込みのある"
+      ]
+     ],
+     "tip": {
+      "zh": "名词重音在第一音节：/ˈprɑspɛkt/。",
+      "ja": "名詞は第1音節にアクセント。"
+     }
+    },
+    {
+     "w": "suspect",
+     "pos": "v.",
+     "ipa": "/səˈspɛkt/",
+     "zh": "怀疑；猜想",
+     "ja": "疑う；〜ではないかと思う",
+     "ex": "We suspect that the delay was caused by a shipping error.",
+     "ex_zh": "我们怀疑延误是由发货错误造成的。",
+     "ex_ja": "遅延は配送ミスが原因ではないかと私たちは疑っている。",
+     "parts": [
+      [
+       "sub-",
+       "在下",
+       "下から"
+      ],
+      [
+       "spect",
+       "看",
+       "見る"
+      ]
+     ],
+     "note": {
+      "zh": "sub“在下”+ spect“看”→ 从下面偷偷看 → 起疑心。",
+      "ja": "sub「下から」＋ spect「見る」→ こっそり見る → 疑う。"
+     },
+     "forms": [
+      [
+       "suspicious (adj.)",
+       "可疑的",
+       "疑わしい"
+      ],
+      [
+       "suspect (n.)",
+       "嫌疑人",
+       "容疑者"
+      ]
+     ],
+     "tip": {
+      "zh": "动词重音在第二音节 /səˈspɛkt/，名词重音在第一音节。",
+      "ja": "動詞は第2音節、名詞は第1音節にアクセント。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "vert",
+   "title_zh": "词根 -vert-/-vers-：转",
+   "title_ja": "語根 -vert-/-vers-：向く",
+   "words": [
+    {
+     "w": "revert",
+     "pos": "v.",
+     "ipa": "/rɪˈvɝt/",
+     "zh": "恢复；回到（原状）",
+     "ja": "元に戻る",
+     "ex": "If the update fails, the system will revert to the previous version.",
+     "ex_zh": "如果更新失败，系统会恢复到之前的版本。",
+     "ex_ja": "更新に失敗すると、システムは前のバージョンに戻る。",
+     "parts": [
+      [
+       "re-",
+       "回",
+       "戻る"
+      ],
+      [
+       "vert",
+       "转",
+       "向く"
+      ]
+     ],
+     "note": {
+      "zh": "re“回”+ vert“转”→ 转回去 → 恢复。",
+      "ja": "re「戻る」＋ vert「向く」→ 向き直る → 元に戻る。"
+     },
+     "forms": [
+      [
+       "revert to",
+       "回到",
+       "〜に戻る"
+      ],
+      [
+       "reversion (n.)",
+       "恢复",
+       "復帰"
+      ]
+     ],
+     "tip": {
+      "zh": "固定搭配 revert to。",
+      "ja": "revert to の形で使う。"
+     }
+    },
+    {
+     "w": "subvert",
+     "pos": "v.",
+     "ipa": "/səbˈvɝt/",
+     "zh": "颠覆；破坏",
+     "ja": "覆す；破壊する",
+     "ex": "Rumors online can subvert public trust in a brand.",
+     "ex_zh": "网上的谣言会破坏公众对品牌的信任。",
+     "ex_ja": "ネット上のうわさはブランドへの信頼を損なうことがある。",
+     "parts": [
+      [
+       "sub-",
+       "在下",
+       "下から"
+      ],
+      [
+       "vert",
+       "转",
+       "向く"
+      ]
+     ],
+     "note": {
+      "zh": "sub“在下”+ vert“转”→ 从下面翻转 → 颠覆。",
+      "ja": "sub「下から」＋ vert「向く・回す」→ 下からひっくり返す → 覆す。"
+     },
+     "forms": [
+      [
+       "subversion (n.)",
+       "颠覆",
+       "転覆"
+      ],
+      [
+       "subversive (adj.)",
+       "颠覆性的",
+       "破壊的な"
+      ]
+     ]
+    },
+    {
+     "w": "converse",
+     "pos": "v.",
+     "ipa": "/kənˈvɝs/",
+     "zh": "交谈",
+     "ja": "会話する",
+     "ex": "The two executives conversed briefly before the presentation.",
+     "ex_zh": "两位高管在演示前简短交谈了几句。",
+     "ex_ja": "2人の役員は発表の前に少し言葉を交わした。",
+     "parts": [
+      [
+       "con-",
+       "一起",
+       "共に"
+      ],
+      [
+       "vers",
+       "转",
+       "向く"
+      ]
+     ],
+     "note": {
+      "zh": "con“一起”+ vers“转”→ 彼此转向对方 → 交谈。",
+      "ja": "con「共に」＋ vers「向く」→ 互いに向き合う → 会話する。"
+     },
+     "forms": [
+      [
+       "conversation (n.)",
+       "对话",
+       "会話"
+      ],
+      [
+       "converse (n.)",
+       "相反的事",
+       "逆"
+      ]
+     ],
+     "tip": {
+      "zh": "名词 converse 重音在第一音节，意为“相反的事”。",
+      "ja": "名詞 converse は第1音節にアクセントで「逆のこと」。"
+     }
+    },
+    {
+     "w": "controversy",
+     "pos": "n.",
+     "ipa": "/ˈkɑntrəˌvɝsi/",
+     "zh": "争议；争论",
+     "ja": "論争",
+     "ex": "The new pricing policy caused a controversy among customers.",
+     "ex_zh": "新的定价政策在客户中引发了争议。",
+     "ex_ja": "新しい価格方針は顧客の間で論争を呼んだ。",
+     "parts": [
+      [
+       "contra-",
+       "相对",
+       "反対に"
+      ],
+      [
+       "vers",
+       "转",
+       "向く"
+      ],
+      [
+       "-y",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "contra“相对”+ vers“转”→ 面对面转向对立 → 争论。",
+      "ja": "contra「反対」＋ vers「向く」→ 対立して向き合う → 論争。"
+     },
+     "forms": [
+      [
+       "controversial (adj.)",
+       "有争议的",
+       "議論を呼ぶ"
+      ],
+      [
+       "spark controversy",
+       "引发争议",
+       "論争を巻き起こす"
+      ]
+     ]
+    },
+    {
+     "w": "inadvertent",
+     "pos": "adj.",
+     "ipa": "/ˌɪnədˈvɝtənt/",
+     "zh": "无意的；疏忽造成的",
+     "ja": "不注意による",
+     "ex": "The inadvertent deletion of the file cost us a full day.",
+     "ex_zh": "文件被不小心删除，让我们损失了一整天。",
+     "ex_ja": "ファイルを誤って消してしまい、丸一日を失った。",
+     "parts": [
+      [
+       "in-",
+       "不",
+       "否定"
+      ],
+      [
+       "ad-",
+       "朝向",
+       "〜へ"
+      ],
+      [
+       "vert",
+       "转",
+       "向く"
+      ],
+      [
+       "-ent",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "in“不”+ ad“朝向”+ vert“转”→ 没有转心留意 → 疏忽的。",
+      "ja": "in「否定」＋ ad「〜へ」＋ vert「向ける」→ 注意を向けていない → 不注意の。"
+     },
+     "forms": [
+      [
+       "inadvertently (adv.)",
+       "无意中",
+       "うっかり"
+      ],
+      [
+       "advertent (adj.)",
+       "留意的",
+       "注意深い"
+      ]
+     ]
+    },
+    {
+     "w": "aversion",
+     "pos": "n.",
+     "ipa": "/əˈvɝʒən/",
+     "zh": "厌恶；反感",
+     "ja": "嫌悪；反感",
+     "ex": "Many investors have an aversion to risk.",
+     "ex_zh": "许多投资者厌恶风险。",
+     "ex_ja": "多くの投資家はリスクを嫌う。",
+     "parts": [
+      [
+       "a-",
+       "离开",
+       "離れて"
+      ],
+      [
+       "vers",
+       "转",
+       "向く"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "a（ab，“离开”）+ vers“转”→ 转身避开 → 反感。",
+      "ja": "a（ab「離れて」）＋ vers「向く」→ 顔をそむける → 反感。"
+     },
+     "forms": [
+      [
+       "aversion to",
+       "对…的厌恶",
+       "〜への嫌悪"
+      ],
+      [
+       "risk aversion",
+       "风险厌恶",
+       "リスク回避"
+      ]
+     ],
+     "tip": {
+      "zh": "搭配介词 to。",
+      "ja": "前置詞は to。"
+     }
+    },
+    {
+     "w": "avert",
+     "pos": "v.",
+     "ipa": "/əˈvɝt/",
+     "zh": "避免；防止",
+     "ja": "避ける；防ぐ",
+     "ex": "Quick action by the staff averted a serious accident.",
+     "ex_zh": "员工的迅速行动避免了一起严重事故。",
+     "ex_ja": "スタッフの迅速な行動が重大な事故を防いだ。",
+     "parts": [
+      [
+       "a-",
+       "离开",
+       "離れて"
+      ],
+      [
+       "vert",
+       "转",
+       "向く"
+      ]
+     ],
+     "note": {
+      "zh": "a（ab，“离开”）+ vert“转”→ 把…转开 → 避免。",
+      "ja": "a（ab「離れて」）＋ vert「向ける」→ そらす → 避ける。"
+     },
+     "forms": [
+      [
+       "avert a crisis",
+       "避免危机",
+       "危機を回避する"
+      ],
+      [
+       "avoid (v.)",
+       "避开（不同源）",
+       "避ける（別語源）"
+      ]
+     ],
+     "tip": {
+      "zh": "avert 的宾语是坏事：avert a strike（避免罢工）。",
+      "ja": "目的語は悪いこと：avert a strike（ストを回避）。"
+     }
+    },
+    {
+     "w": "reversal",
+     "pos": "n.",
+     "ipa": "/rɪˈvɝsəl/",
+     "zh": "逆转；撤销",
+     "ja": "逆転；撤回",
+     "ex": "The board announced a reversal of its earlier decision.",
+     "ex_zh": "董事会宣布撤销先前的决定。",
+     "ex_ja": "取締役会は先の決定の撤回を発表した。",
+     "parts": [
+      [
+       "re-",
+       "回",
+       "戻る"
+      ],
+      [
+       "vers",
+       "转",
+       "向く"
+      ],
+      [
+       "-al",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "re“回”+ vers“转”→ 转回来 → 逆转。",
+      "ja": "re「戻る」＋ vers「向く」→ 向きが逆になる → 逆転。"
+     },
+     "forms": [
+      [
+       "a reversal of policy",
+       "政策逆转",
+       "方針の転換"
+      ],
+      [
+       "reverse (v.)",
+       "使逆转",
+       "逆にする"
+      ]
+     ]
+    },
+    {
+     "w": "reversible",
+     "pos": "adj.",
+     "ipa": "/rɪˈvɝsəbəl/",
+     "zh": "可逆的；可双面穿的",
+     "ja": "元に戻せる；リバーシブルの",
+     "ex": "The jacket is reversible, so you can wear it two ways.",
+     "ex_zh": "这件夹克可以双面穿，所以有两种穿法。",
+     "ex_ja": "このジャケットはリバーシブルなので、2通りに着られる。",
+     "parts": [
+      [
+       "re-",
+       "回",
+       "戻る"
+      ],
+      [
+       "vers",
+       "转",
+       "向く"
+      ],
+      [
+       "-ible",
+       "可…的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "re“回”+ vers“转”+ -ible“可…的”→ 能翻转的。",
+      "ja": "re「戻る」＋ vers「向く」＋ -ible「〜できる」→ ひっくり返せる。"
+     },
+     "forms": [
+      [
+       "irreversible (adj.)",
+       "不可逆的",
+       "元に戻せない"
+      ],
+      [
+       "reversible decision",
+       "可撤销的决定",
+       "取り消せる決定"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tract",
+   "title_zh": "词根 -tract-：拉",
+   "title_ja": "語根 -tract-：引く",
+   "words": [
+    {
+     "w": "subtract",
+     "pos": "v.",
+     "ipa": "/səbˈtrækt/",
+     "zh": "减去；扣除",
+     "ja": "引く；差し引く",
+     "ex": "Subtract the discount from the total to find the final price.",
+     "ex_zh": "从总价中减去折扣就能得到最终价格。",
+     "ex_ja": "合計から割引額を引いて最終価格を求めてください。",
+     "parts": [
+      [
+       "sub-",
+       "在下",
+       "下へ"
+      ],
+      [
+       "tract",
+       "拉",
+       "引く"
+      ]
+     ],
+     "note": {
+      "zh": "sub“在下”+ tract“拉”→ 往下拉走 → 减去。",
+      "ja": "sub「下へ」＋ tract「引く」→ 引き下げる → 引き算する。"
+     },
+     "forms": [
+      [
+       "subtraction (n.)",
+       "减法",
+       "引き算"
+      ],
+      [
+       "add and subtract",
+       "加减",
+       "足し引きする"
+      ]
+     ]
+    },
+    {
+     "w": "detract",
+     "pos": "v.",
+     "ipa": "/dɪˈtrækt/",
+     "zh": "减损；贬低",
+     "ja": "損なう；(価値を)下げる",
+     "ex": "Spelling errors detract from the quality of the report.",
+     "ex_zh": "拼写错误会降低报告的质量。",
+     "ex_ja": "スペルミスは報告書の質を下げてしまう。",
+     "parts": [
+      [
+       "de-",
+       "向下；离开",
+       "下へ；離れて"
+      ],
+      [
+       "tract",
+       "拉",
+       "引く"
+      ]
+     ],
+     "note": {
+      "zh": "de“离开”+ tract“拉”→ 把价值拉走 → 减损。",
+      "ja": "de「離れて」＋ tract「引く」→ 価値を引き離す → 損なう。"
+     },
+     "forms": [
+      [
+       "detract from",
+       "减损…",
+       "〜を損なう"
+      ],
+      [
+       "detractor (n.)",
+       "贬低者",
+       "中傷する人"
+      ]
+     ],
+     "tip": {
+      "zh": "固定搭配 detract from。",
+      "ja": "detract from の形で使う。"
+     }
+    },
+    {
+     "w": "protract",
+     "pos": "v.",
+     "ipa": "/proʊˈtrækt/",
+     "zh": "拖长；延长",
+     "ja": "長引かせる",
+     "ex": "Do not protract the meeting with unrelated topics.",
+     "ex_zh": "不要用无关话题拖长会议。",
+     "ex_ja": "関係のない話題で会議を長引かせないでください。",
+     "parts": [
+      [
+       "pro-",
+       "向前",
+       "前へ"
+      ],
+      [
+       "tract",
+       "拉",
+       "引く"
+      ]
+     ],
+     "note": {
+      "zh": "pro“向前”+ tract“拉”→ 往前拉长 → 拖延。",
+      "ja": "pro「前へ」＋ tract「引く」→ 前へ引き延ばす → 長引かせる。"
+     },
+     "forms": [
+      [
+       "protracted (adj.)",
+       "旷日持久的",
+       "長引いた"
+      ],
+      [
+       "a protracted dispute",
+       "持久的纠纷",
+       "長期化した紛争"
+      ]
+     ]
+    },
+    {
+     "w": "contraction",
+     "pos": "n.",
+     "ipa": "/kənˈtrækʃən/",
+     "zh": "收缩；缩减",
+     "ja": "収縮；縮小",
+     "ex": "The industry saw a sharp contraction in demand last quarter.",
+     "ex_zh": "该行业上个季度需求急剧萎缩。",
+     "ex_ja": "その業界は前四半期に需要が急激に縮小した。",
+     "parts": [
+      [
+       "con-",
+       "一起",
+       "共に"
+      ],
+      [
+       "tract",
+       "拉",
+       "引く"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "con“一起”+ tract“拉”→ 向中间拉紧 → 收缩。",
+      "ja": "con「共に」＋ tract「引く」→ 中へ引き締める → 収縮。"
+     },
+     "forms": [
+      [
+       "contract (v.)",
+       "收缩；签约",
+       "縮む；契約する"
+      ],
+      [
+       "economic contraction",
+       "经济萎缩",
+       "経済の縮小"
+      ]
+     ]
+    },
+    {
+     "w": "traction",
+     "pos": "n.",
+     "ipa": "/ˈtrækʃən/",
+     "zh": "牵引力；(逐渐)获得支持",
+     "ja": "牽引力；(支持の)広がり",
+     "ex": "The new app is slowly gaining traction among small businesses.",
+     "ex_zh": "这款新应用在小企业中正逐渐受到欢迎。",
+     "ex_ja": "その新しいアプリは中小企業の間で徐々に支持を広げている。",
+     "parts": [
+      [
+       "tract",
+       "拉",
+       "引く"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "tract“拉”→ 拉力 → 引申为“势头”。",
+      "ja": "tract「引く」→ 引く力 → 転じて「勢い・支持」。"
+     },
+     "forms": [
+      [
+       "gain traction",
+       "获得关注",
+       "支持を得る"
+      ],
+      [
+       "lose traction",
+       "失去势头",
+       "勢いを失う"
+      ]
+     ]
+    },
+    {
+     "w": "tractor",
+     "pos": "n.",
+     "ipa": "/ˈtræktɚ/",
+     "zh": "拖拉机",
+     "ja": "トラクター",
+     "ex": "The farm bought a new tractor to speed up the harvest.",
+     "ex_zh": "农场买了一台新拖拉机来加快收割。",
+     "ex_ja": "農場は収穫を早めるために新しいトラクターを購入した。",
+     "parts": [
+      [
+       "tract",
+       "拉",
+       "引く"
+      ],
+      [
+       "-or",
+       "表示物或人",
+       "〜するもの"
+      ]
+     ],
+     "note": {
+      "zh": "tract“拉”+ -or → 拉东西的机器 → 拖拉机。",
+      "ja": "tract「引く」＋ -or → 引っ張る機械 → トラクター。"
+     },
+     "forms": [
+      [
+       "tractor-trailer",
+       "牵引挂车",
+       "トレーラートラック"
+      ],
+      [
+       "attract (v.)",
+       "吸引",
+       "引きつける"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "not",
+   "title_zh": "词根 -not-：标记·知道",
+   "title_ja": "語根 -not-：印・知る",
+   "words": [
+    {
+     "w": "notion",
+     "pos": "n.",
+     "ipa": "/ˈnoʊʃən/",
+     "zh": "观念；想法",
+     "ja": "考え；概念",
+     "ex": "The notion that customers prefer lower prices is not always true.",
+     "ex_zh": "客户更喜欢低价这一观念并不总是对的。",
+     "ex_ja": "顧客が低価格を好むという考えは必ずしも正しくない。",
+     "parts": [
+      [
+       "not",
+       "知道",
+       "知る"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "not“知道”→ 知道的东西 → 观念。",
+      "ja": "not「知る」→ 知っていること → 考え。"
+     },
+     "forms": [
+      [
+       "the notion that",
+       "…的想法",
+       "〜という考え"
+      ],
+      [
+       "have no notion of",
+       "毫不知道",
+       "〜が全く分からない"
+      ]
+     ]
+    },
+    {
+     "w": "notable",
+     "pos": "adj.",
+     "ipa": "/ˈnoʊtəbəl/",
+     "zh": "显著的；值得注意的",
+     "ja": "注目すべき；著名な",
+     "ex": "The company made notable progress in overseas sales.",
+     "ex_zh": "公司在海外销售方面取得了显著进展。",
+     "ex_ja": "その会社は海外販売で顕著な進展を遂げた。",
+     "parts": [
+      [
+       "not",
+       "标记；知道",
+       "印；知る"
+      ],
+      [
+       "-able",
+       "可…的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "not“标记”+ -able“可…的”→ 值得标记的 → 显著的。",
+      "ja": "not「印」＋ -able「〜できる」→ 印をつける価値がある → 注目すべき。"
+     },
+     "forms": [
+      [
+       "notably (adv.)",
+       "尤其",
+       "特に"
+      ],
+      [
+       "a notable exception",
+       "一个明显的例外",
+       "注目すべき例外"
+      ]
+     ]
+    },
+    {
+     "w": "denote",
+     "pos": "v.",
+     "ipa": "/dɪˈnoʊt/",
+     "zh": "表示；意味着",
+     "ja": "示す；意味する",
+     "ex": "The red label denotes items that must be shipped immediately.",
+     "ex_zh": "红色标签表示必须立即发货的物品。",
+     "ex_ja": "赤いラベルはすぐに発送すべき品を示す。",
+     "parts": [
+      [
+       "de-",
+       "完全",
+       "完全に"
+      ],
+      [
+       "note",
+       "标记",
+       "印をつける"
+      ]
+     ],
+     "note": {
+      "zh": "de“完全”+ note“标记”→ 标明 → 表示。",
+      "ja": "de「完全に」＋ note「印をつける」→ はっきり示す。"
+     },
+     "forms": [
+      [
+       "denotation (n.)",
+       "本义",
+       "明示的意味"
+      ],
+      [
+       "connote (v.)",
+       "暗示",
+       "暗示する"
+      ]
+     ]
+    },
+    {
+     "w": "connote",
+     "pos": "v.",
+     "ipa": "/kəˈnoʊt/",
+     "zh": "暗示；意味着",
+     "ja": "暗示する；含意する",
+     "ex": "The word “cheap” can connote low quality to some buyers.",
+     "ex_zh": "对一些买家来说，“cheap”一词可能暗含质量低。",
+     "ex_ja": "「cheap」という語は、買い手によっては低品質を連想させる。",
+     "parts": [
+      [
+       "con-",
+       "一起",
+       "共に"
+      ],
+      [
+       "note",
+       "标记",
+       "印をつける"
+      ]
+     ],
+     "note": {
+      "zh": "con“一起”+ note“标记”→ 附带标出 → 暗示。",
+      "ja": "con「共に」＋ note「印をつける」→ 付随して示す → 含意する。"
+     },
+     "forms": [
+      [
+       "connotation (n.)",
+       "言外之意",
+       "含意"
+      ],
+      [
+       "negative connotation",
+       "负面含义",
+       "否定的な含み"
+      ]
+     ]
+    },
+    {
+     "w": "annotate",
+     "pos": "v.",
+     "ipa": "/ˈænəˌteɪt/",
+     "zh": "注释；加批注",
+     "ja": "注釈をつける",
+     "ex": "Please annotate the draft with your comments before Friday.",
+     "ex_zh": "请在周五前在草稿上加上你的批注。",
+     "ex_ja": "金曜日までに草稿にコメントを書き込んでください。",
+     "parts": [
+      [
+       "an-",
+       "向（ad-）",
+       "〜へ"
+      ],
+      [
+       "not",
+       "标记",
+       "印をつける"
+      ],
+      [
+       "-ate",
+       "动词后缀",
+       "動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "an（ad，“向”）+ not“标记”+ -ate → 在文本旁做标记 → 注释。",
+      "ja": "an（ad「〜へ」）＋ not「印」＋ -ate → 文に印を付ける → 注釈する。"
+     },
+     "forms": [
+      [
+       "annotation (n.)",
+       "注释",
+       "注釈"
+      ],
+      [
+       "annotated (adj.)",
+       "带注释的",
+       "注釈付きの"
+      ]
+     ]
+    },
+    {
+     "w": "notorious",
+     "pos": "adj.",
+     "ipa": "/noʊˈtɔriəs/",
+     "zh": "臭名昭著的",
+     "ja": "悪名高い",
+     "ex": "The road is notorious for heavy traffic during rush hour.",
+     "ex_zh": "这条路因高峰时段严重拥堵而臭名昭著。",
+     "ex_ja": "その道路はラッシュ時の渋滞がひどいことで悪名高い。",
+     "parts": [
+      [
+       "not",
+       "知道",
+       "知る"
+      ],
+      [
+       "-ious",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "not“知道”→ 人尽皆知（多指坏名声）。",
+      "ja": "not「知る」→ 広く知られている（多くは悪い意味）。"
+     },
+     "forms": [
+      [
+       "notoriously (adv.)",
+       "众所周知地",
+       "悪名高く"
+      ],
+      [
+       "notorious for",
+       "因…而闻名（贬义）",
+       "〜で悪名高い"
+      ]
+     ],
+     "tip": {
+      "zh": "be notorious for 是贬义；褒义用 famous for。",
+      "ja": "be notorious for は悪い意味、良い意味は famous for。"
+     }
+    },
+    {
+     "w": "notation",
+     "pos": "n.",
+     "ipa": "/noʊˈteɪʃən/",
+     "zh": "符号；记法",
+     "ja": "表記法；記号",
+     "ex": "Engineers use a special notation to describe each part.",
+     "ex_zh": "工程师用一种特殊的符号来描述每个零件。",
+     "ex_ja": "技術者は各部品を表すために特別な記号を使う。",
+     "parts": [
+      [
+       "not",
+       "标记",
+       "印をつける"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "not“标记”+ -ation → 标记的方式 → 符号、记法。",
+      "ja": "not「印」＋ -ation → 印の付け方 → 表記法。"
+     },
+     "forms": [
+      [
+       "musical notation",
+       "乐谱记号",
+       "楽譜の記号"
+      ],
+      [
+       "note (v.)",
+       "记下",
+       "書き留める"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "market",
+   "title_zh": "主题：市场行情涨跌",
+   "title_ja": "テーマ：市況の上げ下げ",
+   "words": [
+    {
+     "w": "downturn",
+     "pos": "n.",
+     "ipa": "/ˈdaʊnˌtɝn/",
+     "zh": "(经济)下滑；衰退",
+     "ja": "(景気の)下降；後退",
+     "ex": "The economic downturn forced the firm to postpone hiring.",
+     "ex_zh": "经济下滑迫使公司推迟招聘。",
+     "ex_ja": "景気の後退により、会社は採用を延期せざるを得なかった。",
+     "parts": [
+      [
+       "down",
+       "向下",
+       "下"
+      ],
+      [
+       "turn",
+       "转",
+       "向く"
+      ]
+     ],
+     "note": {
+      "zh": "down“向下”+ turn“转”→ 向下转 → 下滑。",
+      "ja": "down「下」＋ turn「向く」→ 下向きになる → 後退。"
+     },
+     "forms": [
+      [
+       "an economic downturn",
+       "经济下滑",
+       "景気後退"
+      ],
+      [
+       "upturn (n.)",
+       "好转",
+       "上向き"
+      ]
+     ]
+    },
+    {
+     "w": "upturn",
+     "pos": "n.",
+     "ipa": "/ˈʌpˌtɝn/",
+     "zh": "好转；回升",
+     "ja": "上向き；好転",
+     "ex": "Analysts expect an upturn in consumer spending this winter.",
+     "ex_zh": "分析师预计今年冬天消费支出会回升。",
+     "ex_ja": "アナリストは今冬、個人消費が上向くと予想している。",
+     "parts": [
+      [
+       "up",
+       "向上",
+       "上"
+      ],
+      [
+       "turn",
+       "转",
+       "向く"
+      ]
+     ],
+     "note": {
+      "zh": "up“向上”+ turn“转”→ 向上转 → 好转。",
+      "ja": "up「上」＋ turn「向く」→ 上向きになる → 好転。"
+     },
+     "forms": [
+      [
+       "an upturn in sales",
+       "销售回升",
+       "売上の回復"
+      ],
+      [
+       "downturn (n.)",
+       "下滑",
+       "後退"
+      ]
+     ]
+    },
+    {
+     "w": "rebound",
+     "pos": "v.",
+     "ipa": "/rɪˈbaʊnd/",
+     "zh": "反弹；回升",
+     "ja": "反発する；持ち直す",
+     "ex": "Share prices rebounded after the positive earnings report.",
+     "ex_zh": "利好的财报发布后股价反弹。",
+     "ex_ja": "好決算の発表後、株価は反発した。",
+     "parts": [
+      [
+       "re-",
+       "回",
+       "戻る"
+      ],
+      [
+       "bound",
+       "弹",
+       "跳ねる"
+      ]
+     ],
+     "note": {
+      "zh": "re“回”+ bound“弹”→ 弹回来 → 反弹。",
+      "ja": "re「戻る」＋ bound「跳ねる」→ 跳ね返る → 反発する。"
+     },
+     "forms": [
+      [
+       "rebound from",
+       "从…中回升",
+       "〜から持ち直す"
+      ],
+      [
+       "a rebound in demand",
+       "需求反弹",
+       "需要の持ち直し"
+      ]
+     ]
+    },
+    {
+     "w": "slump",
+     "pos": "n.",
+     "ipa": "/slʌmp/",
+     "zh": "萧条；暴跌",
+     "ja": "不振；急落",
+     "ex": "The retailer is struggling to recover from a long sales slump.",
+     "ex_zh": "这家零售商正努力走出长期的销售低迷。",
+     "ex_ja": "その小売業者は長引く売上不振からの回復に苦労している。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，请当作整体记忆。",
+      "ja": "信頼できる語根分解はないので、まとめて覚えましょう。"
+     },
+     "forms": [
+      [
+       "a slump in sales",
+       "销售低迷",
+       "売上の落ち込み"
+      ],
+      [
+       "slump (v.)",
+       "骤降",
+       "急落する"
+      ]
+     ]
+    },
+    {
+     "w": "plunge",
+     "pos": "v.",
+     "ipa": "/plʌndʒ/",
+     "zh": "骤降；猛跌",
+     "ja": "急落する",
+     "ex": "Oil prices plunged by ten percent in a single day.",
+     "ex_zh": "油价一天之内暴跌了百分之十。",
+     "ex_ja": "原油価格は1日で10パーセントも急落した。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，请当作整体记忆。",
+      "ja": "信頼できる語根分解はないので、まとめて覚えましょう。"
+     },
+     "forms": [
+      [
+       "plunge in value",
+       "价值骤降",
+       "価値が急落する"
+      ],
+      [
+       "a sharp plunge",
+       "急剧下跌",
+       "急激な下落"
+      ]
+     ]
+    },
+    {
+     "w": "surge",
+     "pos": "n./v.",
+     "ipa": "/sɝdʒ/",
+     "zh": "激增；急升",
+     "ja": "急増；急上昇する",
+     "ex": "There was a surge in online orders during the holiday season.",
+     "ex_zh": "假日期间网上订单激增。",
+     "ex_ja": "休暇シーズンにはオンライン注文が急増した。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，请当作整体记忆。",
+      "ja": "信頼できる語根分解はないので、まとめて覚えましょう。"
+     },
+     "forms": [
+      [
+       "a surge in demand",
+       "需求激增",
+       "需要の急増"
+      ],
+      [
+       "surge to",
+       "飙升至",
+       "〜まで急上昇する"
+      ]
+     ]
+    },
+    {
+     "w": "soar",
+     "pos": "v.",
+     "ipa": "/sɔr/",
+     "zh": "猛增；高飞",
+     "ja": "急上昇する",
+     "ex": "Housing costs have soared over the past five years.",
+     "ex_zh": "过去五年里住房成本大幅飙升。",
+     "ex_ja": "住宅費はこの5年間で急騰した。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，请当作整体记忆。",
+      "ja": "信頼できる語根分解はないので、まとめて覚えましょう。"
+     },
+     "forms": [
+      [
+       "soaring prices",
+       "飙升的价格",
+       "高騰する物価"
+      ],
+      [
+       "soar to a record",
+       "升至纪录高位",
+       "過去最高に急上昇する"
+      ]
+     ]
+    },
+    {
+     "w": "plummet",
+     "pos": "v.",
+     "ipa": "/ˈplʌmɪt/",
+     "zh": "暴跌；骤降",
+     "ja": "急落する",
+     "ex": "Profits plummeted when the main supplier closed its factory.",
+     "ex_zh": "主要供应商关闭工厂后，利润暴跌。",
+     "ex_ja": "主要仕入先が工場を閉鎖すると、利益は急落した。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，请当作整体记忆。",
+      "ja": "信頼できる語根分解はないので、まとめて覚えましょう。"
+     },
+     "forms": [
+      [
+       "plummet to",
+       "暴跌至",
+       "〜まで急落する"
+      ],
+      [
+       "plummeting sales",
+       "暴跌的销量",
+       "急落する売上"
+      ]
+     ]
+    },
+    {
+     "w": "stagnant",
+     "pos": "adj.",
+     "ipa": "/ˈstægnənt/",
+     "zh": "停滞的；不景气的",
+     "ja": "停滞した",
+     "ex": "Wages have remained stagnant for several years.",
+     "ex_zh": "工资已经多年停滞不涨。",
+     "ex_ja": "賃金は数年間停滞したままだ。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，请当作整体记忆。",
+      "ja": "信頼できる語根分解はないので、まとめて覚えましょう。"
+     },
+     "forms": [
+      [
+       "stagnant sales",
+       "停滞的销售",
+       "伸び悩む売上"
+      ],
+      [
+       "stagnation (n.)",
+       "停滞",
+       "停滞"
+      ]
+     ]
+    },
+    {
+     "w": "sluggish",
+     "pos": "adj.",
+     "ipa": "/ˈslʌgɪʃ/",
+     "zh": "萧条的；缓慢的",
+     "ja": "不振の；緩慢な",
+     "ex": "Retail sales were sluggish in the first half of the year.",
+     "ex_zh": "上半年零售额表现低迷。",
+     "ex_ja": "上半期の小売売上は低調だった。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，请当作整体记忆。",
+      "ja": "信頼できる語根分解はないので、まとめて覚えましょう。"
+     },
+     "forms": [
+      [
+       "a sluggish economy",
+       "低迷的经济",
+       "停滞した経済"
+      ],
+      [
+       "sluggish growth",
+       "增长缓慢",
+       "緩やかな成長"
+      ]
+     ]
+    },
+    {
+     "w": "buoyant",
+     "pos": "adj.",
+     "ipa": "/ˈbɔɪənt/",
+     "zh": "兴旺的；看涨的",
+     "ja": "好調な；上向きの",
+     "ex": "The housing market remains buoyant despite higher interest rates.",
+     "ex_zh": "尽管利率上升，房地产市场依然兴旺。",
+     "ex_ja": "金利が上がっても住宅市場は好調を保っている。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，请当作整体记忆。",
+      "ja": "信頼できる語根分解はないので、まとめて覚えましょう。"
+     },
+     "forms": [
+      [
+       "a buoyant market",
+       "行情看涨的市场",
+       "活況の市場"
+      ],
+      [
+       "buoyancy (n.)",
+       "浮力；活跃",
+       "浮力；好調"
+      ]
+     ]
+    },
+    {
+     "w": "robust",
+     "pos": "adj.",
+     "ipa": "/roʊˈbʌst/",
+     "zh": "强劲的；稳健的",
+     "ja": "力強い；堅調な",
+     "ex": "The company reported robust growth in the third quarter.",
+     "ex_zh": "公司报告第三季度增长强劲。",
+     "ex_ja": "同社は第3四半期に力強い成長を報告した。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，请当作整体记忆。",
+      "ja": "信頼できる語根分解はないので、まとめて覚えましょう。"
+     },
+     "forms": [
+      [
+       "robust demand",
+       "强劲的需求",
+       "旺盛な需要"
+      ],
+      [
+       "a robust economy",
+       "稳健的经济",
+       "堅調な経済"
+      ]
+     ]
+    },
+    {
+     "w": "volatile",
+     "pos": "adj.",
+     "ipa": "/ˈvɑlətəl/",
+     "zh": "不稳定的；易变的",
+     "ja": "不安定な；変動しやすい",
+     "ex": "Prices in the energy market are highly volatile this year.",
+     "ex_zh": "今年能源市场的价格非常不稳定。",
+     "ex_ja": "今年はエネルギー市場の価格が非常に不安定だ。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，请当作整体记忆。",
+      "ja": "信頼できる語根分解はないので、まとめて覚えましょう。"
+     },
+     "forms": [
+      [
+       "a volatile market",
+       "动荡的市场",
+       "不安定な市場"
+      ],
+      [
+       "volatility (n.)",
+       "波动性",
+       "変動性"
+      ]
+     ]
+    },
+    {
+     "w": "plateau",
+     "pos": "n./v.",
+     "ipa": "/plæˈtoʊ/",
+     "zh": "平稳期；停滞",
+     "ja": "横ばい；高原",
+     "ex": "Sales have reached a plateau after months of steady growth.",
+     "ex_zh": "在几个月的稳步增长之后，销售额进入了平稳期。",
+     "ex_ja": "数カ月の着実な成長のあと、売上は横ばいになった。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，请当作整体记忆。",
+      "ja": "信頼できる語根分解はないので、まとめて覚えましょう。"
+     },
+     "forms": [
+      [
+       "reach a plateau",
+       "进入平稳期",
+       "横ばいに達する"
+      ],
+      [
+       "level off",
+       "趋于平稳",
+       "横ばいになる"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "energy",
+   "title_zh": "主题：能源、环保与供应",
+   "title_ja": "テーマ：エネルギー・環境・供給",
+   "words": [
+    {
+     "w": "brownout",
+     "pos": "n.",
+     "ipa": "/ˈbraʊnˌaʊt/",
+     "zh": "电压不足；限电",
+     "ja": "電圧低下；節電のための減電",
+     "ex": "A brownout in the district dimmed lights across the factory floor.",
+     "ex_zh": "该地区电压不足，整个车间的灯光都变暗了。",
+     "ex_ja": "地域の電圧低下で、工場全体の照明が暗くなった。",
+     "parts": [
+      [
+       "brown",
+       "褐色；昏暗",
+       "茶色；薄暗い"
+      ],
+      [
+       "out",
+       "停",
+       "停止"
+      ]
+     ],
+     "note": {
+      "zh": "brown“昏暗”+ out → 灯光变暗但没完全断电 → 电压不足；blackout 才是全部停电。",
+      "ja": "brown「薄暗い」＋ out → 完全には切れず暗くなる → 電圧低下。完全停電は blackout。"
+     },
+     "forms": [
+      [
+       "blackout (n.)",
+       "全面停电",
+       "停電"
+      ],
+      [
+       "power outage",
+       "停电",
+       "停電"
+      ]
+     ]
+    },
+    {
+     "w": "substation",
+     "pos": "n.",
+     "ipa": "/ˈsʌbˌsteɪʃən/",
+     "zh": "变电站",
+     "ja": "変電所",
+     "ex": "A new substation will bring stable power to the industrial park.",
+     "ex_zh": "一座新变电站将为工业园区提供稳定的电力。",
+     "ex_ja": "新しい変電所が工業団地に安定した電力を供給する。",
+     "parts": [
+      [
+       "sub-",
+       "在下；次级",
+       "下の；副の"
+      ],
+      [
+       "station",
+       "站",
+       "所"
+      ]
+     ],
+     "note": {
+      "zh": "sub“次级”+ station“站”→ 次级站点 → 变电站（把高压电降压后送出）。",
+      "ja": "sub「副の」＋ station「所」→ 補助的な施設 → 変電所。"
+     },
+     "forms": [
+      [
+       "power substation",
+       "变电站",
+       "変電所"
+      ],
+      [
+       "station (n.)",
+       "站",
+       "駅；所"
+      ]
+     ]
+    },
+    {
+     "w": "hydroelectric",
+     "pos": "adj.",
+     "ipa": "/ˌhaɪdroʊɪˈlɛktrɪk/",
+     "zh": "水力发电的",
+     "ja": "水力発電の",
+     "ex": "The town gets most of its power from a hydroelectric dam.",
+     "ex_zh": "这座城镇大部分电力来自一座水电站大坝。",
+     "ex_ja": "その町の電力の大半は水力発電ダムから来ている。",
+     "parts": [
+      [
+       "hydro-",
+       "水",
+       "水"
+      ],
+      [
+       "electric",
+       "电的",
+       "電気の"
+      ]
+     ],
+     "note": {
+      "zh": "hydro“水”+ electric“电的”→ 水力发电的。",
+      "ja": "hydro「水」＋ electric「電気の」→ 水力発電の。"
+     },
+     "forms": [
+      [
+       "hydroelectric power",
+       "水力发电",
+       "水力発電"
+      ],
+      [
+       "hydropower (n.)",
+       "水力",
+       "水力"
+      ]
+     ]
+    },
+    {
+     "w": "geothermal",
+     "pos": "adj.",
+     "ipa": "/ˌdʒioʊˈθɝməl/",
+     "zh": "地热的",
+     "ja": "地熱の",
+     "ex": "Iceland produces much of its heating from geothermal energy.",
+     "ex_zh": "冰岛的大部分供暖来自地热能源。",
+     "ex_ja": "アイスランドは暖房の多くを地熱エネルギーでまかなっている。",
+     "parts": [
+      [
+       "geo-",
+       "地",
+       "地"
+      ],
+      [
+       "therm",
+       "热",
+       "熱"
+      ],
+      [
+       "-al",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "geo“地”+ therm“热”+ -al → 地热的。",
+      "ja": "geo「地」＋ therm「熱」＋ -al → 地熱の。"
+     },
+     "forms": [
+      [
+       "geothermal energy",
+       "地热能",
+       "地熱エネルギー"
+      ],
+      [
+       "thermometer (n.)",
+       "温度计",
+       "温度計"
+      ]
+     ]
+    },
+    {
+     "w": "biofuel",
+     "pos": "n.",
+     "ipa": "/ˈbaɪoʊˌfjuəl/",
+     "zh": "生物燃料",
+     "ja": "バイオ燃料",
+     "ex": "The airline is testing a biofuel made from used cooking oil.",
+     "ex_zh": "这家航空公司正在测试一种用废食用油制成的生物燃料。",
+     "ex_ja": "その航空会社は廃食用油から作ったバイオ燃料を試験している。",
+     "parts": [
+      [
+       "bio-",
+       "生命",
+       "生命"
+      ],
+      [
+       "fuel",
+       "燃料",
+       "燃料"
+      ]
+     ],
+     "note": {
+      "zh": "bio“生命”+ fuel“燃料”→ 用生物材料制成的燃料。",
+      "ja": "bio「生命」＋ fuel「燃料」→ 生物由来の燃料。"
+     },
+     "forms": [
+      [
+       "biofuel production",
+       "生物燃料生产",
+       "バイオ燃料の生産"
+      ],
+      [
+       "biodegradable (adj.)",
+       "可生物降解的",
+       "生分解性の"
+      ]
+     ]
+    },
+    {
+     "w": "kilowatt",
+     "pos": "n.",
+     "ipa": "/ˈkɪləˌwɑt/",
+     "zh": "千瓦",
+     "ja": "キロワット",
+     "ex": "The plant generates two hundred kilowatts of electricity.",
+     "ex_zh": "这座工厂发电两百千瓦。",
+     "ex_ja": "その工場は200キロワットの電力を発電している。",
+     "parts": [
+      [
+       "kilo-",
+       "千",
+       "千"
+      ],
+      [
+       "watt",
+       "瓦（功率单位）",
+       "ワット(電力の単位)"
+      ]
+     ],
+     "note": {
+      "zh": "kilo“千”+ watt“瓦”→ 一千瓦；watt 源自人名 James Watt。",
+      "ja": "kilo「千」＋ watt「ワット」→ 1000ワット。watt は人名 James Watt に由来。"
+     },
+     "forms": [
+      [
+       "kilowatt-hour",
+       "千瓦时（度）",
+       "キロワット時"
+      ],
+      [
+       "kilometer (n.)",
+       "千米",
+       "キロメートル"
+      ]
+     ]
+    },
+    {
+     "w": "sewage",
+     "pos": "n.",
+     "ipa": "/ˈsuɪdʒ/",
+     "zh": "污水；污物",
+     "ja": "下水；汚水",
+     "ex": "The city plans to upgrade its sewage treatment plant next year.",
+     "ex_zh": "该市计划明年升级污水处理厂。",
+     "ex_ja": "市は来年、下水処理場を改修する予定だ。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，请当作整体记忆。",
+      "ja": "信頼できる語根分解はないので、まとめて覚えましょう。"
+     },
+     "forms": [
+      [
+       "sewage treatment",
+       "污水处理",
+       "下水処理"
+      ],
+      [
+       "sewer (n.)",
+       "下水道",
+       "下水道"
+      ]
+     ],
+     "tip": {
+      "zh": "不可数名词，没有复数。",
+      "ja": "不可算名詞で複数形はない。"
+     }
+    },
+    {
+     "w": "compost",
+     "pos": "n./v.",
+     "ipa": "/ˈkɑmˌpoʊst/",
+     "zh": "堆肥；制成堆肥",
+     "ja": "堆肥；堆肥にする",
+     "ex": "The cafeteria turns food waste into compost for the garden.",
+     "ex_zh": "食堂把厨余垃圾做成堆肥用于花园。",
+     "ex_ja": "食堂は生ごみを庭用の堆肥にしている。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，请当作整体记忆。",
+      "ja": "信頼できる語根分解はないので、まとめて覚えましょう。"
+     },
+     "forms": [
+      [
+       "compost bin",
+       "堆肥箱",
+       "コンポスト容器"
+      ],
+      [
+       "compostable (adj.)",
+       "可堆肥化的",
+       "堆肥化できる"
+      ]
+     ]
+    },
+    {
+     "w": "scarcity",
+     "pos": "n.",
+     "ipa": "/ˈskɛrsəti/",
+     "zh": "稀缺；不足",
+     "ja": "不足；希少性",
+     "ex": "A scarcity of skilled workers has slowed the project.",
+     "ex_zh": "熟练工人的短缺拖慢了项目进度。",
+     "ex_ja": "熟練労働者の不足がプロジェクトを遅らせている。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，请当作整体记忆。",
+      "ja": "信頼できる語根分解はないので、まとめて覚えましょう。"
+     },
+     "forms": [
+      [
+       "a scarcity of",
+       "…的不足",
+       "〜の不足"
+      ],
+      [
+       "scarce (adj.)",
+       "稀少的",
+       "乏しい"
+      ]
+     ],
+     "tip": {
+      "zh": "a scarcity of 后接名词。",
+      "ja": "a scarcity of の後に名詞が続く。"
+     }
+    },
+    {
+     "w": "ration",
+     "pos": "v.",
+     "ipa": "/ˈræʃən/",
+     "zh": "定量供应；配给",
+     "ja": "配給する；制限して使う",
+     "ex": "The city had to ration water during the long dry season.",
+     "ex_zh": "漫长的旱季里，该市不得不限量供水。",
+     "ex_ja": "長い乾季の間、市は水を配給制にしなければならなかった。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，请当作整体记忆。",
+      "ja": "信頼できる語根分解はないので、まとめて覚えましょう。"
+     },
+     "forms": [
+      [
+       "water rationing",
+       "限水",
+       "給水制限"
+      ],
+      [
+       "ration out",
+       "分配",
+       "配分する"
+      ]
+     ]
+    },
+    {
+     "w": "dwindle",
+     "pos": "v.",
+     "ipa": "/ˈdwɪndəl/",
+     "zh": "逐渐减少",
+     "ja": "次第に減る",
+     "ex": "Our supply of spare parts has dwindled to almost nothing.",
+     "ex_zh": "我们的备用零件库存已减少到几乎没有。",
+     "ex_ja": "予備部品の在庫はほとんどなくなるまで減ってしまった。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，请当作整体记忆。",
+      "ja": "信頼できる語根分解はないので、まとめて覚えましょう。"
+     },
+     "forms": [
+      [
+       "dwindle to",
+       "减少到",
+       "〜まで減る"
+      ],
+      [
+       "dwindling supplies",
+       "日益减少的供应",
+       "減りゆく供給"
+      ]
+     ]
+    },
+    {
+     "w": "taper",
+     "pos": "v.",
+     "ipa": "/ˈteɪpɚ/",
+     "zh": "逐渐减少；渐细",
+     "ja": "次第に減る；先細りになる",
+     "ex": "Production will taper off as the season comes to an end.",
+     "ex_zh": "随着季节结束，产量将逐步减少。",
+     "ex_ja": "シーズンの終わりとともに生産は徐々に減っていく。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，请当作整体记忆。",
+      "ja": "信頼できる語根分解はないので、まとめて覚えましょう。"
+     },
+     "forms": [
+      [
+       "taper off",
+       "逐渐减少",
+       "徐々に減る"
+      ],
+      [
+       "taper down",
+       "逐步缩减",
+       "徐々に縮小する"
+      ]
+     ],
+     "tip": {
+      "zh": "常用 taper off。",
+      "ja": "taper off の形でよく使う。"
+     }
+    },
+    {
+     "w": "peak",
+     "pos": "n./v.",
+     "ipa": "/pik/",
+     "zh": "顶峰；达到顶点",
+     "ja": "ピーク；頂点に達する",
+     "ex": "Electricity demand peaks between six and eight in the evening.",
+     "ex_zh": "用电需求在傍晚六点到八点之间达到高峰。",
+     "ex_ja": "電力需要は夕方6時から8時の間にピークを迎える。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，请当作整体记忆。",
+      "ja": "信頼できる語根分解はないので、まとめて覚えましょう。"
+     },
+     "forms": [
+      [
+       "peak season",
+       "旺季",
+       "繁忙期"
+      ],
+      [
+       "peak hours",
+       "高峰时段",
+       "ピーク時間帯"
+      ]
+     ]
+    },
+    {
+     "w": "trough",
+     "pos": "n.",
+     "ipa": "/trɔf/",
+     "zh": "低谷；槽",
+     "ja": "底；谷間",
+     "ex": "Sales reached a trough in February before starting to recover.",
+     "ex_zh": "销售额在二月触底，随后开始回升。",
+     "ex_ja": "売上は2月に底を打ち、その後回復し始めた。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，请当作整体记忆。",
+      "ja": "信頼できる語根分解はないので、まとめて覚えましょう。"
+     },
+     "forms": [
+      [
+       "peaks and troughs",
+       "高峰与低谷",
+       "浮き沈み"
+      ],
+      [
+       "hit a trough",
+       "触底",
+       "底を打つ"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}
