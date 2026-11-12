@@ -1,0 +1,2148 @@
+{
+ "day": 41,
+ "date": "2026-11-13",
+ "title_zh": "四大词根 + 人事招聘离职、财务债务与结算",
+ "title_ja": "4つの語根＋採用・人事・退職、財務・債務と決済",
+ "intro_zh": "今天的词根是 -fer-（带）、-duc-（引导）、-pon-/-pos-（放置）、-cept-/-cap-（拿）；主题是人事招聘离职，以及财务、债务与结算。",
+ "intro_ja": "今日の語根は -fer-（運ぶ）、-duc-（導く）、-pon-/-pos-（置く）、-cept-/-cap-（取る）。テーマは採用・人事・退職と、財務・債務・決済。",
+ "voice": "en-US-AriaNeural",
+ "roots": [
+  {
+   "root": "-fer-",
+   "origin": "Latin ferre",
+   "zh": "带；搬",
+   "ja": "運ぶ；もたらす",
+   "exp_zh": "来自拉丁语 ferre（带来）。带进去 → infer；带下去 → deference；在下面承担 → suffer；不断带来后代 → proliferate。⚠️ fertile（肥沃）来自 fer“产出”。",
+   "exp_ja": "ラテン語 ferre（運ぶ）から。中へ運ぶ → infer；下へ譲る → deference；下で担う → suffer；子孫を次々もたらす → proliferate。⚠️ fertile（肥沃な）は fer「産み出す」から。",
+   "examples": [
+    "infer",
+    "deference",
+    "suffer",
+    "proliferate",
+    "fertile"
+   ]
+  },
+  {
+   "root": "-duc-",
+   "origin": "Latin ducere",
+   "zh": "引导",
+   "ja": "導く",
+   "exp_zh": "来自拉丁语 ducere（引导）。向下引出 → deduce；向外引出 → educate；引离 → abduct；引水 → aqueduct。⚠️ duct（管道）同源，但 produce、reduce 昨日已学过。",
+   "exp_ja": "ラテン語 ducere（導く）から。下へ導く → deduce；外へ導く → educate；連れ去る → abduct；水を導く → aqueduct。",
+   "examples": [
+    "deduce",
+    "educate",
+    "abduct",
+    "viaduct",
+    "aqueduct",
+    "seduce"
+   ]
+  },
+  {
+   "root": "-pon- / -pos-",
+   "origin": "Latin ponere, positus",
+   "zh": "放置",
+   "ja": "置く",
+   "exp_zh": "来自拉丁语 ponere（放）。放到前面 → proponent；放到对面 → opponent；放到旁边 → juxtapose；放到下面 → depose。⚠️ preposterous = pre（前）+ post（后），不是 pos。",
+   "exp_ja": "ラテン語 ponere（置く）から。前に置く → proponent；向かいに置く → opponent；隣に置く → juxtapose；下に置く → depose。⚠️ preposterous は pre（前）＋ post（後ろ）で、pos ではない。",
+   "examples": [
+    "proponent",
+    "opponent",
+    "exponent",
+    "juxtapose",
+    "composure",
+    "disposition",
+    "repository",
+    "preposterous",
+    "transpose",
+    "depose"
+   ]
+  },
+  {
+   "root": "-cept- / -cap- / -capt-",
+   "origin": "Latin capere, captus",
+   "zh": "拿；抓",
+   "ja": "取る；つかむ",
+   "exp_zh": "来自拉丁语 capere（拿、抓）。事先拿定 → preconception；开始拿起 → inception；抓住人心 → captivate；再抓回 → recapture。⚠️ participate = part + cip（拿一份）。",
+   "exp_ja": "ラテン語 capere（取る・つかむ）から。前もって取る → preconception；取り上げ始める → inception；心をつかむ → captivate；取り戻す → recapture。⚠️ participate は part＋cip（一部を取る）。",
+   "examples": [
+    "preconception",
+    "inception",
+    "captivate",
+    "captive",
+    "recapture",
+    "participate"
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "fer",
+   "title_zh": "词根 -fer-：带",
+   "title_ja": "語根 -fer-：運ぶ",
+   "words": [
+    {
+     "w": "infer",
+     "pos": "v.",
+     "ipa": "/ɪnˈfɝ/",
+     "zh": "推断；推论",
+     "ja": "推論する；推測する",
+     "ex": "From the sales figures, we can infer that demand is rising.",
+     "ex_zh": "从销售数字可以推断需求正在上升。",
+     "ex_ja": "売上の数字から、需要が高まっていると推測できる。",
+     "parts": [
+      [
+       "in-",
+       "向内",
+       "中へ"
+      ],
+      [
+       "fer",
+       "带；搬",
+       "運ぶ"
+      ]
+     ],
+     "note": {
+      "zh": "in“向内”+ fer“带”→ 把结论带入 → 推断。",
+      "ja": "in「中へ」＋ fer「運ぶ」→ 結論を導き入れる → 推論する。"
+     },
+     "forms": [
+      [
+       "inference (n.)",
+       "推论",
+       "推論"
+      ],
+      [
+       "infer from",
+       "根据…推断",
+       "〜から推論する"
+      ]
+     ],
+     "tip": {
+      "zh": "infer 是“推断”，imply 是“暗示”，主语不同：听的人 infer，说的人 imply。",
+      "ja": "infer は聞き手が推論、imply は話し手がほのめかす。"
+     }
+    },
+    {
+     "w": "deference",
+     "pos": "n.",
+     "ipa": "/ˈdɛfərəns/",
+     "zh": "尊重；服从",
+     "ja": "敬意；服従",
+     "ex": "The board changed the schedule out of deference to the senior partners.",
+     "ex_zh": "出于对资深合伙人的尊重，董事会修改了日程。",
+     "ex_ja": "役員会は上級パートナーへの敬意から日程を変更した。",
+     "parts": [
+      [
+       "de-",
+       "向下",
+       "下へ"
+      ],
+      [
+       "fer",
+       "带；搬",
+       "運ぶ"
+      ],
+      [
+       "-ence",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "de“向下”+ fer“带”→ 把意见让下去 → 顺从、尊重。",
+      "ja": "de「下へ」＋ fer「運ぶ」→ 相手に譲る → 敬意・服従。"
+     },
+     "forms": [
+      [
+       "in deference to",
+       "出于尊重",
+       "〜に敬意を表して"
+      ],
+      [
+       "deferential (adj.)",
+       "恭敬的",
+       "敬意を表する"
+      ]
+     ]
+    },
+    {
+     "w": "suffer",
+     "pos": "v.",
+     "ipa": "/ˈsʌfɚ/",
+     "zh": "遭受；受苦",
+     "ja": "苦しむ；被害を受ける",
+     "ex": "Several suppliers suffered heavy losses during the port strike.",
+     "ex_zh": "港口罢工期间，好几家供应商遭受了重大损失。",
+     "ex_ja": "港湾ストの間、数社のサプライヤーが大きな損失を被った。",
+     "parts": [
+      [
+       "suf-",
+       "在下面",
+       "下で"
+      ],
+      [
+       "fer",
+       "带；搬",
+       "運ぶ"
+      ]
+     ],
+     "note": {
+      "zh": "suf（sub 的变体，“在下面”）+ fer“带”→ 把重担扛在下面 → 承受、受苦。",
+      "ja": "suf（sub の変形「下で」）＋ fer「運ぶ」→ 重荷を下で担う → 苦しむ。"
+     },
+     "forms": [
+      [
+       "suffer from",
+       "患；遭受",
+       "〜に苦しむ"
+      ],
+      [
+       "sufferer (n.)",
+       "受害者",
+       "苦しむ人"
+      ]
+     ]
+    },
+    {
+     "w": "proliferate",
+     "pos": "v.",
+     "ipa": "/prəˈlɪfəˌreɪt/",
+     "zh": "激增；扩散",
+     "ja": "急増する；拡散する",
+     "ex": "Online booking platforms have proliferated across the travel industry.",
+     "ex_zh": "在线预订平台在整个旅游业中迅速增多。",
+     "ex_ja": "オンライン予約プラットフォームが旅行業界全体で急増した。",
+     "parts": [
+      [
+       "proli-",
+       "后代",
+       "子孫"
+      ],
+      [
+       "fer",
+       "带；生",
+       "運ぶ；生む"
+      ],
+      [
+       "-ate",
+       "动词后缀",
+       "動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "proli（后代）+ fer（带来）→ 不断带来后代 → 繁殖、激增。",
+      "ja": "proli（子孫）＋ fer（もたらす）→ 子孫を次々生む → 増殖・急増する。"
+     },
+     "forms": [
+      [
+       "proliferation (n.)",
+       "激增；扩散",
+       "急増；拡散"
+      ],
+      [
+       "nuclear proliferation",
+       "核扩散",
+       "核拡散"
+      ]
+     ]
+    },
+    {
+     "w": "fertile",
+     "pos": "adj.",
+     "ipa": "/ˈfɝtəl/",
+     "zh": "肥沃的；富有成效的",
+     "ja": "肥沃な；実り多い",
+     "ex": "The region's fertile soil makes it ideal for large-scale farming.",
+     "ex_zh": "该地区肥沃的土壤使它非常适合大规模农业。",
+     "ex_ja": "その地域の肥沃な土壌は大規模農業に最適だ。",
+     "parts": [
+      [
+       "fer",
+       "带；产出",
+       "もたらす"
+      ],
+      [
+       "-ile",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "fer“带来、产出”+ -ile → 能产出的 → 肥沃的。",
+      "ja": "fer「もたらす」＋ -ile → 産み出せる → 肥沃な。"
+     },
+     "forms": [
+      [
+       "fertilizer (n.)",
+       "肥料",
+       "肥料"
+      ],
+      [
+       "fertile ground",
+       "沃土；有利条件",
+       "好条件の土壌"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "duc",
+   "title_zh": "词根 -duc-：引导",
+   "title_ja": "語根 -duc-：導く",
+   "words": [
+    {
+     "w": "deduce",
+     "pos": "v.",
+     "ipa": "/dɪˈdus/",
+     "zh": "推论；演绎",
+     "ja": "推論する；演繹する",
+     "ex": "The auditor deduced from the receipts that the costs had been inflated.",
+     "ex_zh": "审计员从收据中推断出成本被虚报了。",
+     "ex_ja": "監査人は領収書から、費用が水増しされていたと推論した。",
+     "parts": [
+      [
+       "de-",
+       "向下",
+       "下へ"
+      ],
+      [
+       "duc",
+       "引导",
+       "導く"
+      ],
+      [
+       "-e",
+       "词尾",
+       "語尾"
+      ]
+     ],
+     "note": {
+      "zh": "de“向下”+ duc“引导”→ 从前提一步步引出 → 推论。",
+      "ja": "de「下へ」＋ duc「導く」→ 前提から導き出す → 推論する。"
+     },
+     "forms": [
+      [
+       "deduction (n.)",
+       "推论；扣除",
+       "推論；控除"
+      ],
+      [
+       "deduce that",
+       "推断出",
+       "〜と推論する"
+      ]
+     ]
+    },
+    {
+     "w": "educate",
+     "pos": "v.",
+     "ipa": "/ˈɛdʒəˌkeɪt/",
+     "zh": "教育；培养",
+     "ja": "教育する",
+     "ex": "The campaign aims to educate consumers about energy-saving appliances.",
+     "ex_zh": "这项活动旨在让消费者了解节能电器。",
+     "ex_ja": "そのキャンペーンは省エネ家電について消費者を教育することを目指している。",
+     "parts": [
+      [
+       "e-",
+       "向外",
+       "外へ"
+      ],
+      [
+       "duc",
+       "引导",
+       "導く"
+      ],
+      [
+       "-ate",
+       "动词后缀",
+       "動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "e（ex，“向外”）+ duc“引导”→ 把潜能引出来 → 教育。",
+      "ja": "e（ex「外へ」）＋ duc「導く」→ 能力を引き出す → 教育する。"
+     },
+     "forms": [
+      [
+       "education (n.)",
+       "教育",
+       "教育"
+      ],
+      [
+       "educational (adj.)",
+       "教育性的",
+       "教育的な"
+      ]
+     ]
+    },
+    {
+     "w": "abduct",
+     "pos": "v.",
+     "ipa": "/æbˈdʌkt/",
+     "zh": "绑架；诱拐",
+     "ja": "誘拐する；拉致する",
+     "ex": "The novel's plot begins when an executive is abducted outside the hotel.",
+     "ex_zh": "小说的情节始于一名高管在酒店外被绑架。",
+     "ex_ja": "小説の筋は、役員がホテルの外で誘拐されるところから始まる。",
+     "parts": [
+      [
+       "ab-",
+       "离开",
+       "離れて"
+      ],
+      [
+       "duc",
+       "引导",
+       "導く"
+      ]
+     ],
+     "note": {
+      "zh": "ab“离开”+ duc“引导”→ 强行带走 → 绑架。",
+      "ja": "ab「離れて」＋ duc「導く」→ 連れ去る → 誘拐する。"
+     },
+     "forms": [
+      [
+       "abduction (n.)",
+       "绑架",
+       "誘拐"
+      ],
+      [
+       "abductor (n.)",
+       "绑架者",
+       "誘拐犯"
+      ]
+     ]
+    },
+    {
+     "w": "viaduct",
+     "pos": "n.",
+     "ipa": "/ˈvaɪəˌdʌkt/",
+     "zh": "高架桥",
+     "ja": "高架橋",
+     "ex": "The city will repair the railway viaduct before next winter.",
+     "ex_zh": "市政府将在明年冬天之前修缮铁路高架桥。",
+     "ex_ja": "市は来年の冬までに鉄道の高架橋を補修する。",
+     "parts": [
+      [
+       "via",
+       "道路",
+       "道"
+      ],
+      [
+       "duc",
+       "引导",
+       "導く"
+      ]
+     ],
+     "note": {
+      "zh": "via“道路”+ duc“引导”→ 引导道路跨过 → 高架桥。",
+      "ja": "via「道」＋ duc「導く」→ 道を渡す → 高架橋。"
+     },
+     "forms": [
+      [
+       "railway viaduct",
+       "铁路高架桥",
+       "鉄道高架橋"
+      ],
+      [
+       "aqueduct (n.)",
+       "引水渠",
+       "水道橋"
+      ]
+     ]
+    },
+    {
+     "w": "aqueduct",
+     "pos": "n.",
+     "ipa": "/ˈækwəˌdʌkt/",
+     "zh": "引水渠；水道桥",
+     "ja": "水道橋；導水路",
+     "ex": "An ancient aqueduct once carried water to the growing town.",
+     "ex_zh": "一条古代引水渠曾把水送到不断发展的城镇。",
+     "ex_ja": "古代の水道橋がかつて発展する町に水を運んでいた。",
+     "parts": [
+      [
+       "aqua",
+       "水",
+       "水"
+      ],
+      [
+       "duc",
+       "引导",
+       "導く"
+      ]
+     ],
+     "note": {
+      "zh": "aqua“水”+ duc“引导”→ 引水之渠。",
+      "ja": "aqua「水」＋ duc「導く」→ 水を導く水路。"
+     },
+     "forms": [
+      [
+       "Roman aqueduct",
+       "罗马水道桥",
+       "ローマ水道橋"
+      ],
+      [
+       "aquatic (adj.)",
+       "水生的",
+       "水生の"
+      ]
+     ]
+    },
+    {
+     "w": "seduce",
+     "pos": "v.",
+     "ipa": "/sɪˈdus/",
+     "zh": "引诱；吸引",
+     "ja": "誘惑する；引き込む",
+     "ex": "Generous signing bonuses seduced several engineers away from our rival.",
+     "ex_zh": "丰厚的签约奖金把几名工程师从我们的对手那里吸引走了。",
+     "ex_ja": "高額な契約金に誘われて、数人の技術者がライバル社へ移った。",
+     "parts": [
+      [
+       "se-",
+       "分开",
+       "離して"
+      ],
+      [
+       "duc",
+       "引导",
+       "導く"
+      ],
+      [
+       "-e",
+       "词尾",
+       "語尾"
+      ]
+     ],
+     "note": {
+      "zh": "se“分开”+ duc“引导”→ 把人引到别处 → 诱惑。",
+      "ja": "se「離して」＋ duc「導く」→ 別の方へ導く → 誘惑する。"
+     },
+     "forms": [
+      [
+       "seduction (n.)",
+       "诱惑",
+       "誘惑"
+      ],
+      [
+       "seductive (adj.)",
+       "诱人的",
+       "魅力的な"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pos",
+   "title_zh": "词根 -pon-/-pos-：放置",
+   "title_ja": "語根 -pon-/-pos-：置く",
+   "words": [
+    {
+     "w": "proponent",
+     "pos": "n.",
+     "ipa": "/prəˈpoʊnənt/",
+     "zh": "支持者；倡导者",
+     "ja": "支持者；提唱者",
+     "ex": "She is a leading proponent of flexible working hours.",
+     "ex_zh": "她是弹性工作时间的主要倡导者。",
+     "ex_ja": "彼女はフレックスタイム制の有力な提唱者だ。",
+     "parts": [
+      [
+       "pro-",
+       "向前",
+       "前へ"
+      ],
+      [
+       "pon",
+       "放置",
+       "置く"
+      ],
+      [
+       "-ent",
+       "…的人",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "pro“向前”+ pon“放置”→ 把主张摆到前面的人 → 支持者。",
+      "ja": "pro「前へ」＋ pon「置く」→ 主張を前に出す人 → 支持者。"
+     },
+     "forms": [
+      [
+       "proponent of",
+       "…的支持者",
+       "〜の支持者"
+      ],
+      [
+       "opponent (n.)",
+       "反对者",
+       "反対者"
+      ]
+     ]
+    },
+    {
+     "w": "opponent",
+     "pos": "n.",
+     "ipa": "/əˈpoʊnənt/",
+     "zh": "对手；反对者",
+     "ja": "相手；反対者",
+     "ex": "Our main opponent in the bid is a much larger firm.",
+     "ex_zh": "我们在这次投标中的主要对手是一家大得多的公司。",
+     "ex_ja": "この入札での主な競争相手ははるかに大きな会社だ。",
+     "parts": [
+      [
+       "op-",
+       "对着",
+       "向かって"
+      ],
+      [
+       "pon",
+       "放置",
+       "置く"
+      ],
+      [
+       "-ent",
+       "…的人",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "op（ob，“对着”）+ pon“放置”→ 把立场摆在对面的人 → 对手。",
+      "ja": "op（ob「向かって」）＋ pon「置く」→ 向かいに立つ人 → 相手・反対者。"
+     },
+     "forms": [
+      [
+       "oppose (v.)",
+       "反对",
+       "反対する"
+      ],
+      [
+       "political opponent",
+       "政治对手",
+       "政敵"
+      ]
+     ]
+    },
+    {
+     "w": "exponent",
+     "pos": "n.",
+     "ipa": "/ɪkˈspoʊnənt/",
+     "zh": "倡导者；代表人物；指数",
+     "ja": "提唱者；代表的人物；指数",
+     "ex": "He is a well-known exponent of lean manufacturing.",
+     "ex_zh": "他是精益生产的知名倡导者。",
+     "ex_ja": "彼はリーン生産方式の著名な提唱者だ。",
+     "parts": [
+      [
+       "ex-",
+       "向外",
+       "外へ"
+      ],
+      [
+       "pon",
+       "放置",
+       "置く"
+      ],
+      [
+       "-ent",
+       "…的人",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "ex“向外”+ pon“放置”→ 把观点摆出来的人 → 倡导者。",
+      "ja": "ex「外へ」＋ pon「置く」→ 考えを示す人 → 提唱者。"
+     },
+     "forms": [
+      [
+       "expound (v.)",
+       "详细阐述",
+       "詳しく説明する"
+      ],
+      [
+       "leading exponent",
+       "主要倡导者",
+       "代表的な提唱者"
+      ]
+     ]
+    },
+    {
+     "w": "juxtapose",
+     "pos": "v.",
+     "ipa": "/ˈdʒʌkstəˌpoʊz/",
+     "zh": "并列；并置",
+     "ja": "並べて置く；対比する",
+     "ex": "The exhibit juxtaposes old factory photos with modern robotics.",
+     "ex_zh": "展览把旧工厂的照片与现代机器人技术并置展出。",
+     "ex_ja": "その展示は古い工場の写真と現代のロボット技術を並べて見せている。",
+     "parts": [
+      [
+       "juxta-",
+       "紧挨着",
+       "すぐ隣に"
+      ],
+      [
+       "pose",
+       "放置",
+       "置く"
+      ]
+     ],
+     "note": {
+      "zh": "juxta“紧挨”+ pose“放置”→ 紧挨着放 → 并列对比。",
+      "ja": "juxta「すぐ隣」＋ pose「置く」→ 隣り合わせに置く → 対比する。"
+     },
+     "forms": [
+      [
+       "juxtaposition (n.)",
+       "并列",
+       "並置"
+      ],
+      [
+       "juxtapose A with B",
+       "把A与B并置",
+       "AをBと並べる"
+      ]
+     ]
+    },
+    {
+     "w": "composure",
+     "pos": "n.",
+     "ipa": "/kəmˈpoʊʒɚ/",
+     "zh": "镇定；沉着",
+     "ja": "冷静さ；落ち着き",
+     "ex": "The spokesperson kept her composure during the tense press conference.",
+     "ex_zh": "发言人在紧张的记者会上保持了镇定。",
+     "ex_ja": "広報担当者は緊迫した記者会見でも冷静さを保った。",
+     "parts": [
+      [
+       "com-",
+       "一起",
+       "共に"
+      ],
+      [
+       "pos",
+       "放置",
+       "置く"
+      ],
+      [
+       "-ure",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "com“一起”+ pos“放置”→ 把心绪摆放整齐 → 镇定。",
+      "ja": "com「共に」＋ pos「置く」→ 心を整えて置く → 冷静さ。"
+     },
+     "forms": [
+      [
+       "compose oneself",
+       "使自己镇定",
+       "気持ちを落ち着ける"
+      ],
+      [
+       "lose one's composure",
+       "失去镇定",
+       "平静を失う"
+      ]
+     ],
+     "tip": {
+      "zh": "别和 composition（作品；构成）混淆。",
+      "ja": "composition（作品；構成）と混同しない。"
+     }
+    },
+    {
+     "w": "disposition",
+     "pos": "n.",
+     "ipa": "/ˌdɪspəˈzɪʃən/",
+     "zh": "性情；处置；布置",
+     "ja": "気質；処分；配置",
+     "ex": "The manager's calm disposition helped the team through the crisis.",
+     "ex_zh": "经理沉稳的性情帮助团队度过了危机。",
+     "ex_ja": "部長の穏やかな気質のおかげで、チームは危機を乗り越えた。",
+     "parts": [
+      [
+       "dis-",
+       "分开",
+       "別々に"
+      ],
+      [
+       "pos",
+       "放置",
+       "置く"
+      ],
+      [
+       "-ition",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "dis“分开”+ pos“放置”→ 各归其位的安排 → 性情、处置。",
+      "ja": "dis「別々に」＋ pos「置く」→ それぞれ配置する → 気質・処分。"
+     },
+     "forms": [
+      [
+       "dispose of",
+       "处理；丢弃",
+       "処分する"
+      ],
+      [
+       "disposable (adj.)",
+       "一次性的",
+       "使い捨ての"
+      ]
+     ]
+    },
+    {
+     "w": "repository",
+     "pos": "n.",
+     "ipa": "/rɪˈpɑzəˌtɔri/",
+     "zh": "存放处；知识库",
+     "ja": "保管場所；リポジトリ",
+     "ex": "All project files are stored in a shared online repository.",
+     "ex_zh": "所有项目文件都存放在共享的在线资料库里。",
+     "ex_ja": "プロジェクトのファイルはすべて共有オンラインリポジトリに保存されている。",
+     "parts": [
+      [
+       "re-",
+       "回；后",
+       "後ろへ"
+      ],
+      [
+       "pos",
+       "放置",
+       "置く"
+      ],
+      [
+       "-itory",
+       "场所后缀",
+       "場所を表す"
+      ]
+     ],
+     "note": {
+      "zh": "re“回、后”+ pos“放置”→ 把东西放回去存好的地方 → 存放处。",
+      "ja": "re「後ろへ」＋ pos「置く」＋ -itory → しまっておく場所 → 保管場所。"
+     },
+     "forms": [
+      [
+       "data repository",
+       "数据存储库",
+       "データの保管庫"
+      ],
+      [
+       "code repository",
+       "代码库",
+       "コードリポジトリ"
+      ]
+     ]
+    },
+    {
+     "w": "preposterous",
+     "pos": "adj.",
+     "ipa": "/prɪˈpɑstərəs/",
+     "zh": "荒谬的；离谱的",
+     "ja": "ばかげた；途方もない",
+     "ex": "The client's demand for a full refund after two years is preposterous.",
+     "ex_zh": "客户在两年后要求全额退款，简直荒谬。",
+     "ex_ja": "2年後に全額返金を求める顧客の要求はばかげている。",
+     "parts": [
+      [
+       "pre-",
+       "在前",
+       "前"
+      ],
+      [
+       "post",
+       "在后",
+       "後ろ"
+      ],
+      [
+       "-erous",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "pre“前”+ post“后”→ 把前后颠倒 → 本末倒置、荒谬。",
+      "ja": "pre「前」＋ post「後ろ」→ 前後が逆 → 本末転倒・ばかげた。"
+     },
+     "forms": [
+      [
+       "preposterously (adv.)",
+       "荒谬地",
+       "ばかげたことに"
+      ],
+      [
+       "a preposterous idea",
+       "荒唐的想法",
+       "途方もない考え"
+      ]
+     ]
+    },
+    {
+     "w": "transpose",
+     "pos": "v.",
+     "ipa": "/trænˈspoʊz/",
+     "zh": "调换；变换位置",
+     "ja": "入れ替える；置き換える",
+     "ex": "The clerk transposed two digits when entering the account number.",
+     "ex_zh": "职员输入账号时把两个数字弄颠倒了。",
+     "ex_ja": "事務員は口座番号を入力する際に2桁を入れ替えてしまった。",
+     "parts": [
+      [
+       "trans-",
+       "跨越",
+       "越えて"
+      ],
+      [
+       "pose",
+       "放置",
+       "置く"
+      ]
+     ],
+     "note": {
+      "zh": "trans“跨越”+ pose“放置”→ 换到对面去放 → 调换。",
+      "ja": "trans「越えて」＋ pose「置く」→ 位置を移して置く → 入れ替える。"
+     },
+     "forms": [
+      [
+       "transposition (n.)",
+       "换位",
+       "入れ替え"
+      ],
+      [
+       "transposed digits",
+       "颠倒的数字",
+       "入れ替わった数字"
+      ]
+     ]
+    },
+    {
+     "w": "depose",
+     "pos": "v.",
+     "ipa": "/dɪˈpoʊz/",
+     "zh": "罢免；废黜",
+     "ja": "罷免する；退位させる",
+     "ex": "The shareholders voted to depose the chairman after the scandal.",
+     "ex_zh": "丑闻之后，股东投票罢免了董事长。",
+     "ex_ja": "不祥事の後、株主は会長を罷免する投票を行った。",
+     "parts": [
+      [
+       "de-",
+       "向下",
+       "下へ"
+      ],
+      [
+       "pose",
+       "放置",
+       "置く"
+      ]
+     ],
+     "note": {
+      "zh": "de“向下”+ pose“放置”→ 把人放下台 → 罢免。",
+      "ja": "de「下へ」＋ pose「置く」→ 地位から下ろす → 罷免する。"
+     },
+     "forms": [
+      [
+       "deposition (n.)",
+       "罢免；证词",
+       "罷免；証言"
+      ],
+      [
+       "deposed leader",
+       "被罢免的领导人",
+       "罷免された指導者"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cept",
+   "title_zh": "词根 -cept-/-cap-：拿",
+   "title_ja": "語根 -cept-/-cap-：取る",
+   "words": [
+    {
+     "w": "preconception",
+     "pos": "n.",
+     "ipa": "/ˌprikənˈsɛpʃən/",
+     "zh": "先入之见；成见",
+     "ja": "先入観；偏見",
+     "ex": "Interviewers should avoid preconceptions about a candidate's age.",
+     "ex_zh": "面试官应避免对应聘者年龄抱有成见。",
+     "ex_ja": "面接官は応募者の年齢に対する先入観を避けるべきだ。",
+     "parts": [
+      [
+       "pre-",
+       "预先",
+       "前もって"
+      ],
+      [
+       "con-",
+       "一起",
+       "共に"
+      ],
+      [
+       "cept",
+       "拿；取",
+       "取る"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "pre“预先”+ con“一起”+ cept“拿取”→ 事先就拿定的想法 → 先入之见。",
+      "ja": "pre「前もって」＋ con「共に」＋ cept「取る」→ 前もって持った考え → 先入観。"
+     },
+     "forms": [
+      [
+       "preconceived (adj.)",
+       "先入为主的",
+       "先入観の"
+      ],
+      [
+       "preconceived notion",
+       "先入之见",
+       "先入観"
+      ]
+     ]
+    },
+    {
+     "w": "inception",
+     "pos": "n.",
+     "ipa": "/ɪnˈsɛpʃən/",
+     "zh": "开端；创立",
+     "ja": "始まり；創設",
+     "ex": "Since its inception in 1998, the foundation has funded 300 projects.",
+     "ex_zh": "自1998年成立以来，该基金会已资助了300个项目。",
+     "ex_ja": "1998年の設立以来、その財団は300件のプロジェクトに資金を提供してきた。",
+     "parts": [
+      [
+       "in-",
+       "向内",
+       "中へ"
+      ],
+      [
+       "cept",
+       "拿；取",
+       "取る"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "in“向内”+ cept“拿取”→ 把事情拿起来开始 → 开端。",
+      "ja": "in「中へ」＋ cept「取る」→ 事を取り上げて始める → 開始。"
+     },
+     "forms": [
+      [
+       "since its inception",
+       "自创立以来",
+       "設立以来"
+      ],
+      [
+       "incept (v.)",
+       "开始（罕用）",
+       "始める（まれ）"
+      ]
+     ]
+    },
+    {
+     "w": "captivate",
+     "pos": "v.",
+     "ipa": "/ˈkæptəˌveɪt/",
+     "zh": "吸引；迷住",
+     "ja": "魅了する；心を奪う",
+     "ex": "The product demo captivated the audience from the first minute.",
+     "ex_zh": "产品演示从第一分钟起就吸引住了观众。",
+     "ex_ja": "製品デモは最初の1分から観客を魅了した。",
+     "parts": [
+      [
+       "capt",
+       "抓住",
+       "つかむ"
+      ],
+      [
+       "-ivate",
+       "动词后缀",
+       "動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "capt“抓住”→ 抓住人心 → 吸引。",
+      "ja": "capt「つかむ」→ 心をつかむ → 魅了する。"
+     },
+     "forms": [
+      [
+       "captivating (adj.)",
+       "迷人的",
+       "魅力的な"
+      ],
+      [
+       "captivated by",
+       "被…迷住",
+       "〜に魅了される"
+      ]
+     ]
+    },
+    {
+     "w": "captive",
+     "pos": "adj.",
+     "ipa": "/ˈkæptɪv/",
+     "zh": "被俘的；受困的",
+     "ja": "捕らわれた；逃げられない",
+     "ex": "The company has a captive audience of travelers waiting at the gate.",
+     "ex_zh": "公司面对的是一群在登机口等候、无处可去的旅客。",
+     "ex_ja": "同社の前には、搭乗口で待つ逃げ場のない旅行客という聴衆がいる。",
+     "parts": [
+      [
+       "capt",
+       "抓住",
+       "つかむ"
+      ],
+      [
+       "-ive",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "capt“抓住”→ 被抓住的 → 被困的。",
+      "ja": "capt「つかむ」→ つかまれた → 捕らわれた。"
+     },
+     "forms": [
+      [
+       "captive market",
+       "受限市场",
+       "囲い込み市場"
+      ],
+      [
+       "captivity (n.)",
+       "囚禁",
+       "監禁"
+      ]
+     ]
+    },
+    {
+     "w": "recapture",
+     "pos": "v.",
+     "ipa": "/riˈkæptʃɚ/",
+     "zh": "夺回；重现",
+     "ja": "取り戻す；再現する",
+     "ex": "The retailer launched a new line to recapture its younger customers.",
+     "ex_zh": "零售商推出新系列，想重新赢回年轻顾客。",
+     "ex_ja": "その小売業者は若い顧客を取り戻すために新シリーズを発売した。",
+     "parts": [
+      [
+       "re-",
+       "再",
+       "再び"
+      ],
+      [
+       "capt",
+       "抓住",
+       "つかむ"
+      ],
+      [
+       "-ure",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "re“再”+ capture“抓住”→ 再抓回来 → 夺回。",
+      "ja": "re「再び」＋ capture「つかむ」→ 取り戻す。"
+     },
+     "forms": [
+      [
+       "recapture market share",
+       "夺回市场份额",
+       "市場シェアを取り戻す"
+      ],
+      [
+       "capture (v.)",
+       "捕获",
+       "捉える"
+      ]
+     ]
+    },
+    {
+     "w": "participate",
+     "pos": "v.",
+     "ipa": "/pɑrˈtɪsəˌpeɪt/",
+     "zh": "参加；参与",
+     "ja": "参加する",
+     "ex": "All staff are encouraged to participate in the safety workshop.",
+     "ex_zh": "鼓励全体员工参加安全研讨会。",
+     "ex_ja": "全社員が安全ワークショップに参加することが奨励されている。",
+     "parts": [
+      [
+       "parti-",
+       "部分",
+       "部分"
+      ],
+      [
+       "cip",
+       "拿；取",
+       "取る"
+      ],
+      [
+       "-ate",
+       "动词后缀",
+       "動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "parti（部分）+ cip（拿取）→ 拿一份 → 参与。",
+      "ja": "parti（部分）＋ cip（取る）→ 一部を取る → 参加する。"
+     },
+     "forms": [
+      [
+       "participate in",
+       "参加",
+       "〜に参加する"
+      ],
+      [
+       "participant (n.)",
+       "参加者",
+       "参加者"
+      ]
+     ],
+     "tip": {
+      "zh": "participate 后接 in，不能直接接宾语：participate in the event。",
+      "ja": "participate の後は in：participate in the event。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "hr",
+   "title_zh": "主题：人事招聘与离职",
+   "title_ja": "テーマ：採用・人事・退職",
+   "words": [
+    {
+     "w": "incumbent",
+     "pos": "n.",
+     "ipa": "/ɪnˈkʌmbənt/",
+     "zh": "现任者；在位者",
+     "ja": "現職者",
+     "ex": "The incumbent will remain in the role until a successor is named.",
+     "ex_zh": "在继任者确定之前，现任者将留任。",
+     "ex_ja": "後任が決まるまで、現職者がその職にとどまる。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚える。"
+     },
+     "forms": [
+      [
+       "incumbent employee",
+       "现任员工",
+       "現職の従業員"
+      ],
+      [
+       "incumbent on",
+       "是…的责任",
+       "〜の責務である"
+      ]
+     ]
+    },
+    {
+     "w": "recruiter",
+     "pos": "n.",
+     "ipa": "/rɪˈkrutɚ/",
+     "zh": "招聘人员",
+     "ja": "採用担当者；リクルーター",
+     "ex": "A recruiter contacted her about an opening in the finance team.",
+     "ex_zh": "一名招聘专员就财务团队的一个空缺联系了她。",
+     "ex_ja": "採用担当者が財務チームの欠員について彼女に連絡した。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚える。"
+     },
+     "forms": [
+      [
+       "recruit (v.)",
+       "招募",
+       "採用する"
+      ],
+      [
+       "recruitment (n.)",
+       "招聘",
+       "採用活動"
+      ]
+     ]
+    },
+    {
+     "w": "headhunt",
+     "pos": "v.",
+     "ipa": "/ˈhɛdˌhʌnt/",
+     "zh": "猎头；挖角",
+     "ja": "引き抜く；ヘッドハンティングする",
+     "ex": "The bank headhunted three senior analysts from its competitor.",
+     "ex_zh": "这家银行从竞争对手那里挖来了三位资深分析师。",
+     "ex_ja": "その銀行は競合他社から上級アナリスト3人を引き抜いた。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚える。"
+     },
+     "forms": [
+      [
+       "headhunter (n.)",
+       "猎头",
+       "ヘッドハンター"
+      ],
+      [
+       "be headhunted",
+       "被猎头挖角",
+       "引き抜かれる"
+      ]
+     ]
+    },
+    {
+     "w": "attrition",
+     "pos": "n.",
+     "ipa": "/əˈtrɪʃən/",
+     "zh": "自然减员；损耗",
+     "ja": "自然減；消耗",
+     "ex": "The company reduced staff through attrition rather than layoffs.",
+     "ex_zh": "公司通过自然减员而不是裁员来缩减人手。",
+     "ex_ja": "同社は解雇ではなく自然減で人員を減らした。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚える。"
+     },
+     "forms": [
+      [
+       "attrition rate",
+       "流失率",
+       "離職率"
+      ],
+      [
+       "through attrition",
+       "通过自然减员",
+       "自然減によって"
+      ]
+     ]
+    },
+    {
+     "w": "apprenticeship",
+     "pos": "n.",
+     "ipa": "/əˈprɛntɪsˌʃɪp/",
+     "zh": "学徒期；学徒制",
+     "ja": "見習い期間；徒弟制度",
+     "ex": "He completed a three-year apprenticeship at a local engineering firm.",
+     "ex_zh": "他在当地一家工程公司完成了三年学徒期。",
+     "ex_ja": "彼は地元の技術会社で3年間の見習い期間を終えた。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚える。"
+     },
+     "forms": [
+      [
+       "apprentice (n.)",
+       "学徒",
+       "見習い"
+      ],
+      [
+       "serve an apprenticeship",
+       "当学徒",
+       "見習いとして働く"
+      ]
+     ]
+    },
+    {
+     "w": "reassign",
+     "pos": "v.",
+     "ipa": "/ˌriəˈsaɪn/",
+     "zh": "重新分配；调任",
+     "ja": "再配置する；配置転換する",
+     "ex": "Several engineers were reassigned to the new Osaka project.",
+     "ex_zh": "几名工程师被调到了大阪的新项目。",
+     "ex_ja": "数名の技術者が大阪の新規プロジェクトに配置転換された。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚える。"
+     },
+     "forms": [
+      [
+       "reassignment (n.)",
+       "调任",
+       "配置転換"
+      ],
+      [
+       "reassign to",
+       "调往",
+       "〜へ異動させる"
+      ]
+     ]
+    },
+    {
+     "w": "redundancy",
+     "pos": "n.",
+     "ipa": "/rɪˈdʌndənsi/",
+     "zh": "裁员；冗余",
+     "ja": "人員削減；冗長",
+     "ex": "The merger led to 200 redundancies in the head office.",
+     "ex_zh": "合并导致总部裁员200人。",
+     "ex_ja": "合併により本社で200人の人員削減が行われた。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚える。"
+     },
+     "forms": [
+      [
+       "redundant (adj.)",
+       "被裁的；多余的",
+       "余剰の"
+      ],
+      [
+       "redundancy pay",
+       "遣散费",
+       "解雇手当"
+      ]
+     ],
+     "tip": {
+      "zh": "英式用法 redundancy 指因岗位多余而被裁；英文文章中常见。",
+      "ja": "英国式では職が不要になっての解雇を指す。"
+     }
+    },
+    {
+     "w": "downsizing",
+     "pos": "n.",
+     "ipa": "/ˈdaʊnˌsaɪzɪŋ/",
+     "zh": "缩编；精简",
+     "ja": "人員・規模の縮小",
+     "ex": "Downsizing at the plant left many workers looking for new jobs.",
+     "ex_zh": "工厂缩编让许多工人开始找新工作。",
+     "ex_ja": "工場の規模縮小で、多くの従業員が新しい仕事を探すことになった。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚える。"
+     },
+     "forms": [
+      [
+       "downsize (v.)",
+       "精简",
+       "縮小する"
+      ],
+      [
+       "corporate downsizing",
+       "企业精简",
+       "企業の人員削減"
+      ]
+     ]
+    },
+    {
+     "w": "vested",
+     "pos": "adj.",
+     "ipa": "/ˈvɛstɪd/",
+     "zh": "既得的；已归属的",
+     "ja": "既得の；確定した",
+     "ex": "Employees become fully vested in the pension plan after five years.",
+     "ex_zh": "员工在五年后便完全拥有养老金计划的既得权益。",
+     "ex_ja": "従業員は5年後に年金制度の権利が完全に確定する。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚える。"
+     },
+     "forms": [
+      [
+       "vested interest",
+       "既得利益",
+       "既得権益"
+      ],
+      [
+       "vesting (n.)",
+       "权益归属",
+       "権利確定"
+      ]
+     ]
+    },
+    {
+     "w": "unemployment",
+     "pos": "n.",
+     "ipa": "/ˌʌnɪmˈplɔɪmənt/",
+     "zh": "失业；失业率",
+     "ja": "失業；失業率",
+     "ex": "The unemployment rate fell to its lowest level in a decade.",
+     "ex_zh": "失业率降至十年来最低水平。",
+     "ex_ja": "失業率は10年ぶりの低水準に下がった。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚える。"
+     },
+     "forms": [
+      [
+       "unemployment benefits",
+       "失业救济金",
+       "失業給付"
+      ],
+      [
+       "unemployed (adj.)",
+       "失业的",
+       "失業中の"
+      ]
+     ]
+    },
+    {
+     "w": "mentee",
+     "pos": "n.",
+     "ipa": "/mɛnˈti/",
+     "zh": "被指导的新人",
+     "ja": "指導を受ける人",
+     "ex": "Each mentee meets with a senior manager once a month.",
+     "ex_zh": "每位被指导的新人每月与一名资深经理会面一次。",
+     "ex_ja": "指導を受ける社員は、月に一度上級管理職と面談する。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚える。"
+     },
+     "forms": [
+      [
+       "mentor (n.)",
+       "导师",
+       "指導者"
+      ],
+      [
+       "mentorship (n.)",
+       "师徒指导",
+       "メンター制度"
+      ]
+     ]
+    },
+    {
+     "w": "probationary",
+     "pos": "adj.",
+     "ipa": "/proʊˈbeɪʃəˌnɛri/",
+     "zh": "试用期的",
+     "ja": "試用期間の",
+     "ex": "All new employees must pass a three-month probationary period.",
+     "ex_zh": "所有新员工都必须通过三个月的试用期。",
+     "ex_ja": "新入社員は全員3か月の試用期間を通過しなければならない。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚える。"
+     },
+     "forms": [
+      [
+       "probationary period",
+       "试用期",
+       "試用期間"
+      ],
+      [
+       "probation (n.)",
+       "试用；缓刑",
+       "試用；保護観察"
+      ]
+     ]
+    },
+    {
+     "w": "shortlisted",
+     "pos": "adj.",
+     "ipa": "/ˈʃɔrtˌlɪstɪd/",
+     "zh": "入围的；进入候选名单的",
+     "ja": "最終候補に残った",
+     "ex": "Only four of the 80 applicants were shortlisted for an interview.",
+     "ex_zh": "80名申请人中只有四人进入面试候选名单。",
+     "ex_ja": "80人の応募者のうち、面接の最終候補に残ったのは4人だけだった。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚える。"
+     },
+     "forms": [
+      [
+       "shortlist (n./v.)",
+       "候选名单；列入名单",
+       "最終候補者名簿；絞り込む"
+      ],
+      [
+       "be shortlisted for",
+       "入围…",
+       "〜の最終候補に残る"
+      ]
+     ]
+    },
+    {
+     "w": "understaffed",
+     "pos": "adj.",
+     "ipa": "/ˌʌndɚˈstæft/",
+     "zh": "人手不足的",
+     "ja": "人手不足の",
+     "ex": "The call center has been understaffed since the holiday season.",
+     "ex_zh": "呼叫中心自假期以来一直人手不足。",
+     "ex_ja": "コールセンターは休暇シーズン以来、人手不足が続いている。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚える。"
+     },
+     "forms": [
+      [
+       "understaffing (n.)",
+       "人手不足",
+       "人員不足"
+      ],
+      [
+       "overstaffed (adj.)",
+       "人员过剩的",
+       "人員過剰の"
+      ]
+     ]
+    },
+    {
+     "w": "demotion",
+     "pos": "n.",
+     "ipa": "/dɪˈmoʊʃən/",
+     "zh": "降职",
+     "ja": "降格",
+     "ex": "He accepted a demotion rather than leave the company.",
+     "ex_zh": "他接受了降职，而没有离开公司。",
+     "ex_ja": "彼は会社を辞めずに降格を受け入れた。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚える。"
+     },
+     "forms": [
+      [
+       "demote (v.)",
+       "降职",
+       "降格させる"
+      ],
+      [
+       "promotion (n.)",
+       "晋升",
+       "昇進"
+      ]
+     ]
+    },
+    {
+     "w": "disciplinary",
+     "pos": "adj.",
+     "ipa": "/ˈdɪsəˌplɪˌnɛri/",
+     "zh": "纪律的；惩戒的",
+     "ja": "懲戒の；規律上の",
+     "ex": "The company took disciplinary action against the employee who leaked the data.",
+     "ex_zh": "公司对泄露数据的员工采取了纪律处分。",
+     "ex_ja": "会社はデータを漏らした従業員に懲戒処分を行った。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚える。"
+     },
+     "forms": [
+      [
+       "disciplinary action",
+       "纪律处分",
+       "懲戒処分"
+      ],
+      [
+       "discipline (n.)",
+       "纪律",
+       "規律"
+      ]
+     ]
+    },
+    {
+     "w": "appraise",
+     "pos": "v.",
+     "ipa": "/əˈpreɪz/",
+     "zh": "评估；评价",
+     "ja": "評価する；査定する",
+     "ex": "A surveyor will appraise the building before the sale is finalized.",
+     "ex_zh": "在出售敲定之前，测量师将对这栋楼进行估价。",
+     "ex_ja": "売却が確定する前に、鑑定士がその建物を査定する。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚える。"
+     },
+     "forms": [
+      [
+       "appraisal (n.)",
+       "评估；考核",
+       "評価；査定"
+      ],
+      [
+       "performance appraisal",
+       "绩效考核",
+       "人事考課"
+      ]
+     ],
+     "tip": {
+      "zh": "appraise（评估）≠ apprise（通知），拼写相近。",
+      "ja": "appraise（評価する）と apprise（知らせる）は綴りが似ているので注意。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "fin",
+   "title_zh": "主题：财务、债务与结算",
+   "title_ja": "テーマ：財務・債務・決済",
+   "words": [
+    {
+     "w": "amortize",
+     "pos": "v.",
+     "ipa": "/ˈæmɚˌtaɪz/",
+     "zh": "分期摊销；分期偿还",
+     "ja": "償却する；分割返済する",
+     "ex": "The loan will be amortized over a period of ten years.",
+     "ex_zh": "这笔贷款将在十年内分期偿还。",
+     "ex_ja": "そのローンは10年かけて分割返済される。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚える。"
+     },
+     "forms": [
+      [
+       "amortization (n.)",
+       "摊销",
+       "償却"
+      ],
+      [
+       "amortization schedule",
+       "还款计划表",
+       "償還予定表"
+      ]
+     ]
+    },
+    {
+     "w": "depreciate",
+     "pos": "v.",
+     "ipa": "/dɪˈpriʃiˌeɪt/",
+     "zh": "贬值；折旧",
+     "ja": "価値が下がる；減価償却する",
+     "ex": "Company vehicles depreciate quickly during the first three years.",
+     "ex_zh": "公司车辆在头三年贬值很快。",
+     "ex_ja": "社用車は最初の3年間で急速に価値が下がる。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚える。"
+     },
+     "forms": [
+      [
+       "depreciation (n.)",
+       "折旧；贬值",
+       "減価償却；値下がり"
+      ],
+      [
+       "appreciate (v.)",
+       "升值",
+       "値上がりする"
+      ]
+     ]
+    },
+    {
+     "w": "solvency",
+     "pos": "n.",
+     "ipa": "/ˈsɑlvənsi/",
+     "zh": "偿付能力",
+     "ja": "支払い能力",
+     "ex": "Analysts questioned the firm's long-term solvency after the losses.",
+     "ex_zh": "亏损之后，分析师对这家公司的长期偿付能力提出了质疑。",
+     "ex_ja": "損失の後、アナリストは同社の長期的な支払い能力に疑問を呈した。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚える。"
+     },
+     "forms": [
+      [
+       "solvent (adj.)",
+       "有偿付能力的",
+       "支払い能力のある"
+      ],
+      [
+       "insolvency (n.)",
+       "无力偿债",
+       "支払い不能"
+      ]
+     ]
+    },
+    {
+     "w": "arrears",
+     "pos": "n.",
+     "ipa": "/əˈrɪrz/",
+     "zh": "拖欠款；逾期未付",
+     "ja": "滞納金；未払い",
+     "ex": "The tenant fell into arrears on rent after losing his job.",
+     "ex_zh": "租户失业后拖欠了房租。",
+     "ex_ja": "借り主は失業後、家賃を滞納した。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚える。"
+     },
+     "forms": [
+      [
+       "in arrears",
+       "拖欠",
+       "滞納して"
+      ],
+      [
+       "rent arrears",
+       "拖欠租金",
+       "家賃の滞納"
+      ]
+     ]
+    },
+    {
+     "w": "escrow",
+     "pos": "n.",
+     "ipa": "/ˈɛskroʊ/",
+     "zh": "第三方托管（款）",
+     "ja": "エスクロー；第三者預託",
+     "ex": "The buyer's deposit will be held in escrow until the sale closes.",
+     "ex_zh": "买方的定金将由第三方托管，直到交易完成。",
+     "ex_ja": "買い手の手付金は、売買が完了するまでエスクローで保管される。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚える。"
+     },
+     "forms": [
+      [
+       "in escrow",
+       "托管中",
+       "第三者預託中"
+      ],
+      [
+       "escrow account",
+       "托管账户",
+       "エスクロー口座"
+      ]
+     ]
+    },
+    {
+     "w": "retainer",
+     "pos": "n.",
+     "ipa": "/rɪˈteɪnɚ/",
+     "zh": "聘用费；预付定金",
+     "ja": "顧問料；着手金",
+     "ex": "The law firm receives a monthly retainer to advise the company.",
+     "ex_zh": "律所每月收取聘用费，为公司提供咨询。",
+     "ex_ja": "その法律事務所は会社に助言するため、毎月顧問料を受け取る。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚える。"
+     },
+     "forms": [
+      [
+       "retainer fee",
+       "聘用费",
+       "顧問料"
+      ],
+      [
+       "on retainer",
+       "按月签约聘用",
+       "顧問契約で"
+      ]
+     ]
+    },
+    {
+     "w": "prorate",
+     "pos": "v.",
+     "ipa": "/proʊˈreɪt/",
+     "zh": "按比例分摊",
+     "ja": "日割り・比例配分する",
+     "ex": "The gym will prorate your fee if you join in the middle of the month.",
+     "ex_zh": "如果您在月中入会，健身房会按比例收取费用。",
+     "ex_ja": "月の途中で入会する場合、ジムは会費を日割りで計算する。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚える。"
+     },
+     "forms": [
+      [
+       "prorated (adj.)",
+       "按比例计算的",
+       "日割りの"
+      ],
+      [
+       "pro rata",
+       "按比例",
+       "比例配分で"
+      ]
+     ]
+    },
+    {
+     "w": "overdraft",
+     "pos": "n.",
+     "ipa": "/ˈoʊvɚˌdræft/",
+     "zh": "透支",
+     "ja": "当座貸越",
+     "ex": "The bank charges a fee whenever an account goes into overdraft.",
+     "ex_zh": "账户一旦透支，银行就收取费用。",
+     "ex_ja": "口座が当座貸越になるたびに、銀行は手数料を課す。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚える。"
+     },
+     "forms": [
+      [
+       "overdraft fee",
+       "透支费",
+       "当座貸越手数料"
+      ],
+      [
+       "overdraft protection",
+       "透支保护",
+       "当座貸越保護"
+      ]
+     ]
+    },
+    {
+     "w": "bankruptcy",
+     "pos": "n.",
+     "ipa": "/ˈbæŋkˌrʌpsi/",
+     "zh": "破产",
+     "ja": "破産",
+     "ex": "The retailer filed for bankruptcy after three years of losses.",
+     "ex_zh": "这家零售商在连续三年亏损后申请了破产。",
+     "ex_ja": "その小売業者は3年連続の赤字の後、破産を申請した。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚える。"
+     },
+     "forms": [
+      [
+       "file for bankruptcy",
+       "申请破产",
+       "破産を申請する"
+      ],
+      [
+       "bankrupt (adj.)",
+       "破产的",
+       "破産した"
+      ]
+     ]
+    },
+    {
+     "w": "debtor",
+     "pos": "n.",
+     "ipa": "/ˈdɛtɚ/",
+     "zh": "债务人",
+     "ja": "債務者",
+     "ex": "The court ordered the debtor to repay the loan in installments.",
+     "ex_zh": "法院命令债务人分期偿还贷款。",
+     "ex_ja": "裁判所は債務者に、ローンを分割で返済するよう命じた。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚える。"
+     },
+     "forms": [
+      [
+       "creditor (n.)",
+       "债权人",
+       "債権者"
+      ],
+      [
+       "debt (n.)",
+       "债务",
+       "債務"
+      ]
+     ],
+     "tip": {
+      "zh": "debtor 里的 b 不发音：/ˈdɛtɚ/。",
+      "ja": "debtor の b は発音しない：/ˈdɛtɚ/。"
+     }
+    },
+    {
+     "w": "lien",
+     "pos": "n.",
+     "ipa": "/lin/",
+     "zh": "留置权；抵押权",
+     "ja": "先取特権；担保権",
+     "ex": "The bank placed a lien on the property until the loan is repaid.",
+     "ex_zh": "在贷款还清之前，银行对该房产设置了留置权。",
+     "ex_ja": "銀行はローンが返済されるまで、その不動産に担保権を設定した。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚える。"
+     },
+     "forms": [
+      [
+       "place a lien on",
+       "对…设定留置权",
+       "〜に担保権を設定する"
+      ],
+      [
+       "tax lien",
+       "税务留置权",
+       "税金の先取特権"
+      ]
+     ]
+    },
+    {
+     "w": "lessee",
+     "pos": "n.",
+     "ipa": "/lɛˈsi/",
+     "zh": "承租人",
+     "ja": "賃借人",
+     "ex": "The lessee is responsible for maintenance of the equipment.",
+     "ex_zh": "承租人负责设备的维护。",
+     "ex_ja": "賃借人が設備の保守に責任を負う。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚える。"
+     },
+     "forms": [
+      [
+       "lessor (n.)",
+       "出租人",
+       "賃貸人"
+      ],
+      [
+       "lease (n./v.)",
+       "租约；租赁",
+       "賃貸借；賃借する"
+      ]
+     ]
+    },
+    {
+     "w": "lessor",
+     "pos": "n.",
+     "ipa": "/ˈlɛsɔr/",
+     "zh": "出租人",
+     "ja": "賃貸人",
+     "ex": "The lessor must give 60 days' notice before raising the rent.",
+     "ex_zh": "出租人在涨租前必须提前60天通知。",
+     "ex_ja": "賃貸人は家賃を上げる前に60日前の通知をしなければならない。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚える。"
+     },
+     "forms": [
+      [
+       "lessee (n.)",
+       "承租人",
+       "賃借人"
+      ],
+      [
+       "lease agreement",
+       "租赁合同",
+       "賃貸借契約"
+      ]
+     ]
+    },
+    {
+     "w": "bond",
+     "pos": "n.",
+     "ipa": "/bɑnd/",
+     "zh": "债券；纽带",
+     "ja": "債券；絆",
+     "ex": "The city issued bonds to fund the new transit line.",
+     "ex_zh": "市政府发行债券为新的交通线路筹资。",
+     "ex_ja": "市は新しい交通路線の資金調達のため債券を発行した。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚える。"
+     },
+     "forms": [
+      [
+       "government bond",
+       "政府债券",
+       "国債"
+      ],
+      [
+       "bondholder (n.)",
+       "债券持有人",
+       "債券保有者"
+      ]
+     ]
+    },
+    {
+     "w": "liquidate",
+     "pos": "v.",
+     "ipa": "/ˈlɪkwɪˌdeɪt/",
+     "zh": "清算；变现",
+     "ja": "清算する；現金化する",
+     "ex": "The company had to liquidate its assets to pay off creditors.",
+     "ex_zh": "公司不得不变卖资产来偿还债权人。",
+     "ex_ja": "同社は債権者に支払うため資産を清算しなければならなかった。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚える。"
+     },
+     "forms": [
+      [
+       "liquidation (n.)",
+       "清算",
+       "清算"
+      ],
+      [
+       "go into liquidation",
+       "进入清算",
+       "清算に入る"
+      ]
+     ]
+    },
+    {
+     "w": "fiduciary",
+     "pos": "adj.",
+     "ipa": "/fɪˈduʃiˌɛri/",
+     "zh": "受托的；信托的",
+     "ja": "受託者の；信託の",
+     "ex": "Fund managers have a fiduciary duty to act in their clients' interests.",
+     "ex_zh": "基金经理负有以客户利益为重的受托责任。",
+     "ex_ja": "ファンドマネージャーには顧客の利益のために行動する受託者責任がある。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚える。"
+     },
+     "forms": [
+      [
+       "fiduciary duty",
+       "受托责任",
+       "受託者責任"
+      ],
+      [
+       "fiduciary (n.)",
+       "受托人",
+       "受託者"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}
