@@ -1,0 +1,2263 @@
+{
+ "day": 42,
+ "date": "2026-11-14",
+ "title_zh": "四大词根 + 法律法规合规、客户服务与投诉处理",
+ "title_ja": "4つの語根＋法律・規制・コンプライアンス、顧客対応とクレーム処理",
+ "intro_zh": "今天的词根是 -scrib-（写）、-tract-（拉）、-vert-/-vers-（转）、-mit-/-miss-（送）；主题是法律法规与合规，以及客户服务与投诉处理。",
+ "intro_ja": "今日の語根は -scrib-（書く）、-tract-（引く）、-vert-/-vers-（回す）、-mit-/-miss-（送る）。テーマは法律・規制・コンプライアンスと、顧客対応・クレーム処理。",
+ "voice": "en-US-AriaNeural",
+ "roots": [
+  {
+   "root": "-scrib- / -script-",
+   "origin": "Latin scribere, scriptus",
+   "zh": "写",
+   "ja": "書く",
+   "exp_zh": "来自拉丁语 scribere（写）。在下面写名 → subscribe；跨越写成另一种形式 → transcribe；刻写上去 → inscribe。⚠️ describe、prescribe 等已学过。",
+   "exp_ja": "ラテン語 scribere（書く）から。下に署名 → subscribe；別の形に書き写す → transcribe；刻み込む → inscribe。⚠️ describe・prescribe などは既習。",
+   "examples": [
+    "subscribe",
+    "transcribe",
+    "inscribe",
+    "scribble",
+    "conscript"
+   ]
+  },
+  {
+   "root": "-tract-",
+   "origin": "Latin trahere, tractus",
+   "zh": "拉；拖",
+   "ja": "引く",
+   "exp_zh": "来自拉丁语 trahere（拉）。拉在一起 → contract；拉向自己 → attract；能被拉动 → tractable。⚠️ tractor、distract 等已学过。",
+   "exp_ja": "ラテン語 trahere（引く）から。引き合わせる → contract；引き寄せる → attract；引き回せる → tractable。⚠️ tractor・distract などは既習。",
+   "examples": [
+    "contract",
+    "attract",
+    "tractable",
+    "intractable"
+   ]
+  },
+  {
+   "root": "-vert- / -vers-",
+   "origin": "Latin vertere, versus",
+   "zh": "转",
+   "ja": "回す；向ける",
+   "exp_zh": "来自拉丁语 vertere（转）。向内转 → introvert；向外转 → extrovert；转换 → convert；翻转 → invert。⚠️ diverge 来自 vergere“倾斜”，不是 vert。",
+   "exp_ja": "ラテン語 vertere（回す）から。内に向く → introvert；外に向く → extrovert；変える → convert；裏返す → invert。⚠️ diverge は vergere「傾く」で vert ではない。",
+   "examples": [
+    "invert",
+    "introvert",
+    "extrovert",
+    "convert",
+    "versed",
+    "vertical",
+    "vertigo",
+    "universal"
+   ]
+  },
+  {
+   "root": "-mit- / -miss-",
+   "origin": "Latin mittere, missus",
+   "zh": "送；派",
+   "ja": "送る",
+   "exp_zh": "来自拉丁语 mittere（送）。送到下面 → submit；被派出去 → mission；送通过 → permission；向前送出 → promise。⚠️ commit、emit 等已学过。",
+   "exp_ja": "ラテン語 mittere（送る）から。下へ差し出す → submit；送り出される → mission；通す → permission；前へ送る → promise。⚠️ commit・emit などは既習。",
+   "examples": [
+    "submit",
+    "mission",
+    "permission",
+    "promise",
+    "missile"
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "scrib",
+   "title_zh": "词根 -scrib-：写",
+   "title_ja": "語根 -scrib-：書く",
+   "words": [
+    {
+     "w": "subscribe",
+     "pos": "v.",
+     "ipa": "/səbˈskraɪb/",
+     "zh": "订阅；订购；同意",
+     "ja": "購読する；申し込む；賛同する",
+     "ex": "Employees can subscribe to the weekly newsletter on the intranet.",
+     "ex_zh": "员工可以在内网订阅每周通讯。",
+     "ex_ja": "従業員は社内ネットで週刊ニュースレターを購読できる。",
+     "parts": [
+      [
+       "sub-",
+       "在下",
+       "下に"
+      ],
+      [
+       "scrib",
+       "写",
+       "書く"
+      ]
+     ],
+     "note": {
+      "zh": "sub“在下”+ scrib“写”→ 在文件下面签名 → 订阅、同意。",
+      "ja": "sub「下」＋ scrib「書く」→ 文書の下に署名する → 申し込む・賛同する。"
+     },
+     "forms": [
+      [
+       "subscription (n.)",
+       "订阅",
+       "購読"
+      ],
+      [
+       "subscribe to",
+       "订阅…",
+       "〜を購読する"
+      ]
+     ],
+     "tip": {
+      "zh": "后面接 to：subscribe to a service。",
+      "ja": "後ろは to：subscribe to a service。"
+     }
+    },
+    {
+     "w": "transcribe",
+     "pos": "v.",
+     "ipa": "/trænˈskraɪb/",
+     "zh": "抄写；转录",
+     "ja": "書き写す；文字に起こす",
+     "ex": "The assistant will transcribe the recorded meeting by Friday.",
+     "ex_zh": "助理会在周五前把会议录音转录成文字。",
+     "ex_ja": "アシスタントは金曜までに会議の録音を文字に起こす。",
+     "parts": [
+      [
+       "trans-",
+       "跨越",
+       "越えて"
+      ],
+      [
+       "scrib",
+       "写",
+       "書く"
+      ]
+     ],
+     "note": {
+      "zh": "trans“转换”+ scrib“写”→ 转写成文字。",
+      "ja": "trans「移す」＋ scrib「書く」→ 別の形に書き写す。"
+     },
+     "forms": [
+      [
+       "transcript (n.)",
+       "文字记录",
+       "書き起こし"
+      ],
+      [
+       "transcription (n.)",
+       "转录",
+       "文字起こし"
+      ]
+     ]
+    },
+    {
+     "w": "inscribe",
+     "pos": "v.",
+     "ipa": "/ɪnˈskraɪb/",
+     "zh": "刻上；题写",
+     "ja": "刻む；書き込む",
+     "ex": "The company will inscribe each trophy with the winner's name.",
+     "ex_zh": "公司会在每个奖杯上刻上获奖者的名字。",
+     "ex_ja": "会社は各トロフィーに受賞者の名前を刻む。",
+     "parts": [
+      [
+       "in-",
+       "在…上",
+       "中・上に"
+      ],
+      [
+       "scrib",
+       "写",
+       "書く"
+      ]
+     ],
+     "note": {
+      "zh": "in“在上面”+ scrib“写”→ 刻写上去。",
+      "ja": "in「上に」＋ scrib「書く」→ 刻み込む。"
+     },
+     "forms": [
+      [
+       "inscription (n.)",
+       "铭文",
+       "銘"
+      ],
+      [
+       "be inscribed with",
+       "刻有…",
+       "〜が刻まれている"
+      ]
+     ]
+    },
+    {
+     "w": "scribble",
+     "pos": "v.",
+     "ipa": "/ˈskrɪbəl/",
+     "zh": "潦草地写；乱涂",
+     "ja": "走り書きする；殴り書きする",
+     "ex": "She scribbled the client's phone number on a notepad.",
+     "ex_zh": "她把客户的电话号码潦草地记在便签上。",
+     "ex_ja": "彼女は顧客の電話番号をメモ帳に走り書きした。",
+     "parts": [
+      [
+       "scrib",
+       "写",
+       "書く"
+      ],
+      [
+       "-ble",
+       "反复动作",
+       "反復を表す"
+      ]
+     ],
+     "note": {
+      "zh": "来自 scrib“写”，-ble 表示反复的小动作 → 草草地写。",
+      "ja": "scrib「書く」＋ -ble（反復）→ 急いで書き散らす。"
+     },
+     "forms": [
+      [
+       "scribble down",
+       "草草记下",
+       "走り書きする"
+      ],
+      [
+       "scribbled note",
+       "潦草的便条",
+       "走り書きのメモ"
+      ]
+     ]
+    },
+    {
+     "w": "conscript",
+     "pos": "v.",
+     "ipa": "/kənˈskrɪpt/",
+     "zh": "征召；强制征用",
+     "ja": "徴兵する；動員する",
+     "ex": "The firm had to conscript staff from other departments to meet the deadline.",
+     "ex_zh": "公司不得不从其他部门抽调员工以赶上截止日期。",
+     "ex_ja": "会社は締め切りに間に合わせるため、他部署から人員を動員せざるを得なかった。",
+     "parts": [
+      [
+       "con-",
+       "共同",
+       "共に"
+      ],
+      [
+       "script",
+       "写",
+       "書く"
+      ]
+     ],
+     "note": {
+      "zh": "con“一起”+ script“写”→ 名字被写进名册 → 征召。",
+      "ja": "con「共に」＋ script「書く」→ 名簿に書き込む → 徴集する。"
+     },
+     "forms": [
+      [
+       "conscription (n.)",
+       "征兵",
+       "徴兵"
+      ],
+      [
+       "conscript into",
+       "被征召加入…",
+       "〜に動員する"
+      ]
+     ],
+     "tip": {
+      "zh": "现代商务里多用于比喻“被临时拉来帮忙”。",
+      "ja": "ビジネスでは「急きょ駆り出す」の比喩で使うことが多い。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "tract",
+   "title_zh": "词根 -tract-：拉",
+   "title_ja": "語根 -tract-：引く",
+   "words": [
+    {
+     "w": "contract",
+     "pos": "n./v.",
+     "ipa": "/ˈkɑntrækt/",
+     "zh": "合同；签约；收缩",
+     "ja": "契約；契約する；収縮する",
+     "ex": "The two companies signed a three-year contract on Monday.",
+     "ex_zh": "两家公司周一签订了一份为期三年的合同。",
+     "ex_ja": "両社は月曜日に3年契約を結んだ。",
+     "parts": [
+      [
+       "con-",
+       "共同",
+       "共に"
+      ],
+      [
+       "tract",
+       "拉",
+       "引く"
+      ]
+     ],
+     "note": {
+      "zh": "con“一起”+ tract“拉”→ 把双方拉在一起 → 合同。",
+      "ja": "con「共に」＋ tract「引く」→ 双方を引き寄せる → 契約。"
+     },
+     "forms": [
+      [
+       "contractor (n.)",
+       "承包商",
+       "請負業者"
+      ],
+      [
+       "breach of contract",
+       "违约",
+       "契約違反"
+      ]
+     ],
+     "tip": {
+      "zh": "名词重音在前 CON-tract；动词“收缩”重音在后 con-TRACT。",
+      "ja": "名詞は前にアクセント、動詞「収縮する」は後ろ。"
+     }
+    },
+    {
+     "w": "attract",
+     "pos": "v.",
+     "ipa": "/əˈtrækt/",
+     "zh": "吸引",
+     "ja": "引きつける",
+     "ex": "The new product line attracted many first-time buyers.",
+     "ex_zh": "新产品线吸引了许多首次购买的客户。",
+     "ex_ja": "新製品ラインは多くの初めての購入者を引きつけた。",
+     "parts": [
+      [
+       "at-",
+       "向…",
+       "〜へ"
+      ],
+      [
+       "tract",
+       "拉",
+       "引く"
+      ]
+     ],
+     "note": {
+      "zh": "at（ad）“向”+ tract“拉”→ 拉向自己 → 吸引。",
+      "ja": "at（ad）「〜へ」＋ tract「引く」→ 自分へ引く。"
+     },
+     "forms": [
+      [
+       "attractive (a.)",
+       "有吸引力的",
+       "魅力的な"
+      ],
+      [
+       "attract investors",
+       "吸引投资者",
+       "投資家を引きつける"
+      ]
+     ]
+    },
+    {
+     "w": "tractable",
+     "pos": "adj.",
+     "ipa": "/ˈtræktəbəl/",
+     "zh": "易处理的；温顺的",
+     "ja": "扱いやすい；従順な",
+     "ex": "The budget problem proved more tractable than we had feared.",
+     "ex_zh": "预算问题比我们担心的更容易解决。",
+     "ex_ja": "予算の問題は思ったより扱いやすいことが分かった。",
+     "parts": [
+      [
+       "tract",
+       "拉",
+       "引く"
+      ],
+      [
+       "-able",
+       "能…的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "tract“拉”+ -able“能…的”→ 能被拉动的 → 易处理的。",
+      "ja": "tract「引く」＋ -able（〜できる）→ 引き回せる → 扱いやすい。"
+     },
+     "forms": [
+      [
+       "tractability (n.)",
+       "易处理性",
+       "扱いやすさ"
+      ],
+      [
+       "tractable problem",
+       "好解决的问题",
+       "扱いやすい問題"
+      ]
+     ]
+    },
+    {
+     "w": "intractable",
+     "pos": "adj.",
+     "ipa": "/ɪnˈtræktəbəl/",
+     "zh": "难处理的；棘手的",
+     "ja": "手に負えない；扱いにくい",
+     "ex": "The two sides reached an intractable deadlock over pricing.",
+     "ex_zh": "双方在价格上陷入了难以解开的僵局。",
+     "ex_ja": "両者は価格をめぐって解決困難な膠着状態に陥った。",
+     "parts": [
+      [
+       "in-",
+       "不",
+       "否定"
+      ],
+      [
+       "tract",
+       "拉",
+       "引く"
+      ],
+      [
+       "-able",
+       "能…的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "in“不”+ tractable“易处理的”→ 难处理的。",
+      "ja": "in（否定）＋ tractable → 扱いにくい。"
+     },
+     "forms": [
+      [
+       "intractable dispute",
+       "棘手的纠纷",
+       "解決困難な紛争"
+      ],
+      [
+       "intractability (n.)",
+       "难处理",
+       "扱いにくさ"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "vert",
+   "title_zh": "词根 -vert-：转",
+   "title_ja": "語根 -vert-：回す",
+   "words": [
+    {
+     "w": "invert",
+     "pos": "v.",
+     "ipa": "/ɪnˈvɝt/",
+     "zh": "倒置；颠倒",
+     "ja": "逆さにする；逆転させる",
+     "ex": "The report shows how the usual price pattern was inverted this quarter.",
+     "ex_zh": "报告显示本季度通常的价格走势被颠倒了。",
+     "ex_ja": "報告書は今四半期、通常の価格パターンが逆転したことを示している。",
+     "parts": [
+      [
+       "in-",
+       "向内",
+       "中へ"
+      ],
+      [
+       "vert",
+       "转",
+       "向ける"
+      ]
+     ],
+     "note": {
+      "zh": "in“向内”+ vert“转”→ 翻转过来 → 倒置。",
+      "ja": "in「中へ」＋ vert「回す」→ 裏返す → 逆さにする。"
+     },
+     "forms": [
+      [
+       "inversion (n.)",
+       "倒置",
+       "逆転"
+      ],
+      [
+       "inverted",
+       "倒置的",
+       "逆さの"
+      ]
+     ]
+    },
+    {
+     "w": "introvert",
+     "pos": "n.",
+     "ipa": "/ˈɪntrəvɝt/",
+     "zh": "内向的人",
+     "ja": "内向的な人",
+     "ex": "Many introverts prefer written updates to long meetings.",
+     "ex_zh": "许多内向的人更喜欢书面汇报而不是冗长的会议。",
+     "ex_ja": "内向的な人の多くは、長い会議より書面での報告を好む。",
+     "parts": [
+      [
+       "intro-",
+       "向内",
+       "内側へ"
+      ],
+      [
+       "vert",
+       "转",
+       "向ける"
+      ]
+     ],
+     "note": {
+      "zh": "intro“向内”+ vert“转”→ 把心转向内 → 内向者。",
+      "ja": "intro「内へ」＋ vert「向ける」→ 心が内に向く人。"
+     },
+     "forms": [
+      [
+       "introverted (a.)",
+       "内向的",
+       "内向的な"
+      ],
+      [
+       "extrovert (n.)",
+       "外向的人",
+       "外向的な人"
+      ]
+     ]
+    },
+    {
+     "w": "extrovert",
+     "pos": "n.",
+     "ipa": "/ˈɛkstrəvɝt/",
+     "zh": "外向的人",
+     "ja": "外向的な人",
+     "ex": "An extrovert is often a good fit for client-facing roles.",
+     "ex_zh": "外向的人往往适合面向客户的岗位。",
+     "ex_ja": "外向的な人は顧客対応の職務に向いていることが多い。",
+     "parts": [
+      [
+       "extro-",
+       "向外",
+       "外へ"
+      ],
+      [
+       "vert",
+       "转",
+       "向ける"
+      ]
+     ],
+     "note": {
+      "zh": "extro“向外”+ vert“转”→ 心转向外 → 外向者。",
+      "ja": "extro「外へ」＋ vert「向ける」→ 外に向く人。"
+     },
+     "forms": [
+      [
+       "extroverted (a.)",
+       "外向的",
+       "外向的な"
+      ],
+      [
+       "introvert (n.)",
+       "内向的人",
+       "内向的な人"
+      ]
+     ]
+    },
+    {
+     "w": "convert",
+     "pos": "v.",
+     "ipa": "/kənˈvɝt/",
+     "zh": "转换；改变信仰",
+     "ja": "変換する；転換する",
+     "ex": "We plan to convert the spare room into a meeting space.",
+     "ex_zh": "我们打算把空房间改成会议室。",
+     "ex_ja": "空き部屋を会議スペースに改装する予定だ。",
+     "parts": [
+      [
+       "con-",
+       "完全",
+       "すっかり"
+      ],
+      [
+       "vert",
+       "转",
+       "向ける"
+      ]
+     ],
+     "note": {
+      "zh": "con“完全”+ vert“转”→ 整个转变 → 转换。",
+      "ja": "con「すっかり」＋ vert「変える」→ 完全に転じる。"
+     },
+     "forms": [
+      [
+       "conversion (n.)",
+       "转换",
+       "変換"
+      ],
+      [
+       "convert A into B",
+       "把A转换成B",
+       "AをBに変える"
+      ]
+     ]
+    },
+    {
+     "w": "versed",
+     "pos": "adj.",
+     "ipa": "/vɝst/",
+     "zh": "精通的；熟练的",
+     "ja": "精通した；熟達した",
+     "ex": "Candidates should be well versed in spreadsheet software.",
+     "ex_zh": "应聘者应当精通电子表格软件。",
+     "ex_ja": "応募者は表計算ソフトに精通していることが望ましい。",
+     "parts": [
+      [
+       "vers",
+       "转",
+       "回す"
+      ],
+      [
+       "-ed",
+       "形容词",
+       "形容詞化"
+      ]
+     ],
+     "note": {
+      "zh": "来自拉丁语 versari“反复打交道”，经常接触 → 熟练。",
+      "ja": "ラテン語 versari「繰り返し関わる」から。何度も関わって → 熟達。"
+     },
+     "forms": [
+      [
+       "well versed in",
+       "精通…",
+       "〜に精通した"
+      ],
+      [
+       "versed in",
+       "熟悉…",
+       "〜に通じた"
+      ]
+     ],
+     "tip": {
+      "zh": "固定搭配 versed in。",
+      "ja": "versed in の形で使う。"
+     }
+    },
+    {
+     "w": "vertical",
+     "pos": "adj.",
+     "ipa": "/ˈvɝtɪkəl/",
+     "zh": "垂直的；纵向的",
+     "ja": "垂直の；縦の",
+     "ex": "The chart uses a vertical axis to show monthly revenue.",
+     "ex_zh": "图表用纵轴显示每月收入。",
+     "ex_ja": "グラフは縦軸で月ごとの売上を示している。",
+     "parts": [
+      [
+       "vert",
+       "转",
+       "回る"
+      ],
+      [
+       "-ical",
+       "形容词",
+       "形容詞化"
+      ]
+     ],
+     "note": {
+      "zh": "vert“转”→ 转到顶点的方向 → 垂直。",
+      "ja": "vert「回る」→ 頂点の方向 → 垂直の。"
+     },
+     "forms": [
+      [
+       "vertically (adv.)",
+       "垂直地",
+       "垂直に"
+      ],
+      [
+       "vertical integration",
+       "垂直整合",
+       "垂直統合"
+      ]
+     ]
+    },
+    {
+     "w": "vertigo",
+     "pos": "n.",
+     "ipa": "/ˈvɝtɪgoʊ/",
+     "zh": "眩晕",
+     "ja": "めまい",
+     "ex": "Heights can cause vertigo for some construction workers.",
+     "ex_zh": "高处会让一些建筑工人头晕。",
+     "ex_ja": "高所は一部の建設作業員にめまいを起こすことがある。",
+     "parts": [
+      [
+       "vert",
+       "转",
+       "回る"
+      ]
+     ],
+     "note": {
+      "zh": "来自 vert“转”，天旋地转的感觉 → 眩晕。",
+      "ja": "vert「回る」から。天地が回る感覚 → めまい。"
+     },
+     "forms": [
+      [
+       "suffer from vertigo",
+       "患眩晕",
+       "めまいに悩む"
+      ],
+      [
+       "sudden vertigo",
+       "突发眩晕",
+       "突然のめまい"
+      ]
+     ]
+    },
+    {
+     "w": "universal",
+     "pos": "adj.",
+     "ipa": "/ˌjunəˈvɝsəl/",
+     "zh": "普遍的；通用的",
+     "ja": "普遍的な；万能の",
+     "ex": "The company offers universal access to training materials.",
+     "ex_zh": "公司向所有人开放培训资料。",
+     "ex_ja": "会社は研修資料へ誰でもアクセスできるようにしている。",
+     "parts": [
+      [
+       "uni-",
+       "一",
+       "一つ"
+      ],
+      [
+       "vers",
+       "转",
+       "向ける"
+      ],
+      [
+       "-al",
+       "形容词",
+       "形容詞化"
+      ]
+     ],
+     "note": {
+      "zh": "uni“一”+ vers“转”→ 转向同一个 → 全体的、通用的。",
+      "ja": "uni「一つ」＋ vers「向く」→ ひとつに向かう → 普遍的。"
+     },
+     "forms": [
+      [
+       "universally (adv.)",
+       "普遍地",
+       "普遍的に"
+      ],
+      [
+       "universal remote",
+       "通用遥控器",
+       "汎用リモコン"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mit",
+   "title_zh": "词根 -mit-：送",
+   "title_ja": "語根 -mit-：送る",
+   "words": [
+    {
+     "w": "submit",
+     "pos": "v.",
+     "ipa": "/səbˈmɪt/",
+     "zh": "提交；服从",
+     "ja": "提出する；服従する",
+     "ex": "Please submit your expense report by the end of the month.",
+     "ex_zh": "请在月底前提交费用报告。",
+     "ex_ja": "経費報告書は月末までに提出してください。",
+     "parts": [
+      [
+       "sub-",
+       "在下",
+       "下に"
+      ],
+      [
+       "mit",
+       "送",
+       "送る"
+      ]
+     ],
+     "note": {
+      "zh": "sub“下”+ mit“送”→ 送到上级手下 → 提交。",
+      "ja": "sub「下」＋ mit「送る」→ 上へ差し出す → 提出する。"
+     },
+     "forms": [
+      [
+       "submission (n.)",
+       "提交",
+       "提出"
+      ],
+      [
+       "submit to",
+       "提交给…",
+       "〜に提出する"
+      ]
+     ]
+    },
+    {
+     "w": "mission",
+     "pos": "n.",
+     "ipa": "/ˈmɪʃən/",
+     "zh": "使命；任务",
+     "ja": "使命；任務",
+     "ex": "Our mission is to make healthcare affordable for everyone.",
+     "ex_zh": "我们的使命是让每个人都能负担得起医疗。",
+     "ex_ja": "当社の使命は、誰もが医療を受けやすくすることだ。",
+     "parts": [
+      [
+       "miss",
+       "送",
+       "送る"
+      ],
+      [
+       "-ion",
+       "名词",
+       "名詞化"
+      ]
+     ],
+     "note": {
+      "zh": "miss“送”+ -ion → 被派出去的事 → 任务。",
+      "ja": "miss「送る」＋ -ion → 送り出されること → 任務。"
+     },
+     "forms": [
+      [
+       "mission statement",
+       "企业使命宣言",
+       "企業理念"
+      ],
+      [
+       "trade mission",
+       "贸易代表团",
+       "貿易使節団"
+      ]
+     ]
+    },
+    {
+     "w": "permission",
+     "pos": "n.",
+     "ipa": "/pɚˈmɪʃən/",
+     "zh": "许可；批准",
+     "ja": "許可",
+     "ex": "You need written permission to use the company logo.",
+     "ex_zh": "使用公司标志需要书面许可。",
+     "ex_ja": "会社のロゴを使うには書面の許可が必要だ。",
+     "parts": [
+      [
+       "per-",
+       "通过",
+       "通して"
+      ],
+      [
+       "miss",
+       "送",
+       "送る"
+      ],
+      [
+       "-ion",
+       "名词",
+       "名詞化"
+      ]
+     ],
+     "note": {
+      "zh": "per“通过”+ miss“送”→ 放行通过 → 许可。",
+      "ja": "per「通して」＋ miss「送る」→ 通す → 許可。"
+     },
+     "forms": [
+      [
+       "permit (v.)",
+       "允许",
+       "許可する"
+      ],
+      [
+       "ask for permission",
+       "请求许可",
+       "許可を求める"
+      ]
+     ]
+    },
+    {
+     "w": "promise",
+     "pos": "n./v.",
+     "ipa": "/ˈprɑmɪs/",
+     "zh": "承诺；保证",
+     "ja": "約束；約束する",
+     "ex": "The vendor promised to deliver the parts by Thursday.",
+     "ex_zh": "供应商承诺周四前交付零件。",
+     "ex_ja": "業者は木曜日までに部品を届けると約束した。",
+     "parts": [
+      [
+       "pro-",
+       "向前",
+       "前へ"
+      ],
+      [
+       "mise",
+       "送",
+       "送る"
+      ]
+     ],
+     "note": {
+      "zh": "pro“向前”+ mis“送”→ 把话送出去 → 承诺。",
+      "ja": "pro「前へ」＋ mis「送る」→ 言葉を送り出す → 約束。"
+     },
+     "forms": [
+      [
+       "promising (a.)",
+       "有前途的",
+       "有望な"
+      ],
+      [
+       "keep a promise",
+       "信守承诺",
+       "約束を守る"
+      ]
+     ]
+    },
+    {
+     "w": "missile",
+     "pos": "n.",
+     "ipa": "/ˈmɪsəl/",
+     "zh": "导弹；投射物",
+     "ja": "ミサイル；飛び道具",
+     "ex": "The defense contractor won a large order for guided missiles.",
+     "ex_zh": "这家国防承包商赢得了一大笔导弹订单。",
+     "ex_ja": "その防衛関連企業は誘導ミサイルの大型受注を獲得した。",
+     "parts": [
+      [
+       "miss",
+       "送",
+       "送る"
+      ],
+      [
+       "-ile",
+       "…的东西",
+       "〜するもの"
+      ]
+     ],
+     "note": {
+      "zh": "miss“送”→ 被发射出去的东西 → 导弹。",
+      "ja": "miss「送る」→ 放たれるもの → ミサイル。"
+     },
+     "forms": [
+      [
+       "guided missile",
+       "制导导弹",
+       "誘導ミサイル"
+      ],
+      [
+       "missile defense",
+       "导弹防御",
+       "ミサイル防衛"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "legal",
+   "title_zh": "主题：法律法规与合规",
+   "title_ja": "テーマ：法律・規制・コンプライアンス",
+   "words": [
+    {
+     "w": "statute",
+     "pos": "n.",
+     "ipa": "/ˈstætʃut/",
+     "zh": "成文法；法令",
+     "ja": "制定法；法令",
+     "ex": "The statute requires companies to keep records for seven years.",
+     "ex_zh": "该法令要求公司保存记录七年。",
+     "ex_ja": "その法律は企業に記録を7年間保管するよう義務づけている。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚える。"
+     },
+     "forms": [
+      [
+       "statutory (a.)",
+       "法定的",
+       "法定の"
+      ],
+      [
+       "under the statute",
+       "依据法令",
+       "法令に基づき"
+      ]
+     ]
+    },
+    {
+     "w": "amend",
+     "pos": "v.",
+     "ipa": "/əˈmɛnd/",
+     "zh": "修订；修改",
+     "ja": "修正する",
+     "ex": "The board voted to amend the company's bylaws.",
+     "ex_zh": "董事会投票决定修订公司章程。",
+     "ex_ja": "取締役会は会社の定款を修正することを決議した。",
+     "parts": [
+      [
+       "a-",
+       "离开",
+       "離れて"
+      ],
+      [
+       "mend",
+       "缺点",
+       "欠点"
+      ]
+     ],
+     "note": {
+      "zh": "来自拉丁语 e-mendare“去掉缺点”，改掉错处 → 修订。",
+      "ja": "ラテン語 e-mendare「欠点を取り除く」から。誤りを直す → 修正する。"
+     },
+     "forms": [
+      [
+       "amendment (n.)",
+       "修正案",
+       "修正"
+      ],
+      [
+       "amend a contract",
+       "修改合同",
+       "契約を修正する"
+      ]
+     ],
+     "tip": {
+      "zh": "amend 是“修订文件”；mend 是“修补物品”。",
+      "ja": "amend は文書の修正、mend は物の修繕。"
+     }
+    },
+    {
+     "w": "notary",
+     "pos": "n.",
+     "ipa": "/ˈnoʊtəri/",
+     "zh": "公证人",
+     "ja": "公証人",
+     "ex": "A notary must witness the signing of the agreement.",
+     "ex_zh": "协议签署必须有公证人见证。",
+     "ex_ja": "契約の署名には公証人の立ち会いが必要だ。",
+     "parts": [
+      [
+       "not",
+       "记录",
+       "記す"
+      ],
+      [
+       "-ary",
+       "…的人",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "来自拉丁语 notare“记下”，做记录的人 → 公证人。",
+      "ja": "ラテン語 notare「書き留める」から。記録する人 → 公証人。"
+     },
+     "forms": [
+      [
+       "notary public",
+       "公证人",
+       "公証人"
+      ],
+      [
+       "notarize (v.)",
+       "公证",
+       "公証する"
+      ]
+     ]
+    },
+    {
+     "w": "infringe",
+     "pos": "v.",
+     "ipa": "/ɪnˈfrɪndʒ/",
+     "zh": "侵犯；违反",
+     "ja": "侵害する；違反する",
+     "ex": "The competitor's logo may infringe our trademark.",
+     "ex_zh": "竞争对手的标志可能侵犯我们的商标。",
+     "ex_ja": "競合他社のロゴは当社の商標を侵害している可能性がある。",
+     "parts": [
+      [
+       "in-",
+       "向内",
+       "中へ"
+      ],
+      [
+       "fring",
+       "打破",
+       "砕く"
+      ]
+     ],
+     "note": {
+      "zh": "in + fring“打破”→ 打破界限闯进去 → 侵犯。",
+      "ja": "in ＋ fring「砕く」→ 境界を破って入る → 侵害する。"
+     },
+     "forms": [
+      [
+       "infringement (n.)",
+       "侵权",
+       "侵害"
+      ],
+      [
+       "infringe on",
+       "侵犯…",
+       "〜を侵害する"
+      ]
+     ]
+    },
+    {
+     "w": "void",
+     "pos": "adj.",
+     "ipa": "/vɔɪd/",
+     "zh": "无效的；空的",
+     "ja": "無効の；空の",
+     "ex": "The contract is void if either party fails to sign it.",
+     "ex_zh": "如果任何一方没有签字，合同即无效。",
+     "ex_ja": "どちらかが署名しなければ、契約は無効となる。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚える。"
+     },
+     "forms": [
+      [
+       "null and void",
+       "无效",
+       "無効"
+      ],
+      [
+       "void (v.)",
+       "使无效",
+       "無効にする"
+      ]
+     ]
+    },
+    {
+     "w": "render",
+     "pos": "v.",
+     "ipa": "/ˈrɛndɚ/",
+     "zh": "使成为；提供；判定",
+     "ja": "〜にする；提供する；下す",
+     "ex": "The ruling rendered the old agreement invalid.",
+     "ex_zh": "这一裁决使旧协议失效。",
+     "ex_ja": "その判決により、古い契約は無効になった。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚える。"
+     },
+     "forms": [
+      [
+       "render a decision",
+       "作出裁决",
+       "判断を下す"
+      ],
+      [
+       "services rendered",
+       "已提供的服务",
+       "提供済みのサービス"
+      ]
+     ]
+    },
+    {
+     "w": "settle",
+     "pos": "v.",
+     "ipa": "/ˈsɛtəl/",
+     "zh": "解决；和解；结清",
+     "ja": "解決する；和解する；清算する",
+     "ex": "The two firms agreed to settle the dispute out of court.",
+     "ex_zh": "两家公司同意庭外和解。",
+     "ex_ja": "両社は紛争を法廷外で和解することで合意した。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚える。"
+     },
+     "forms": [
+      [
+       "settlement (n.)",
+       "和解；结算",
+       "和解；決済"
+      ],
+      [
+       "settle an account",
+       "结清账款",
+       "勘定を清算する"
+      ]
+     ]
+    },
+    {
+     "w": "counsel",
+     "pos": "n.",
+     "ipa": "/ˈkaʊnsəl/",
+     "zh": "法律顾问；建议",
+     "ja": "弁護人；助言",
+     "ex": "Please send the draft to our legal counsel for review.",
+     "ex_zh": "请把草稿发给我们的法律顾问审阅。",
+     "ex_ja": "草案を当社の法律顧問に送って確認してもらってください。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚える。"
+     },
+     "forms": [
+      [
+       "legal counsel",
+       "法律顾问",
+       "法律顧問"
+      ],
+      [
+       "general counsel",
+       "总法律顾问",
+       "法務責任者"
+      ]
+     ]
+    },
+    {
+     "w": "testify",
+     "pos": "v.",
+     "ipa": "/ˈtɛstəˌfaɪ/",
+     "zh": "作证",
+     "ja": "証言する",
+     "ex": "The accountant was asked to testify at the hearing.",
+     "ex_zh": "会计师被要求在听证会上作证。",
+     "ex_ja": "会計士は公聴会で証言するよう求められた。",
+     "parts": [
+      [
+       "test",
+       "见证",
+       "証人"
+      ],
+      [
+       "-ify",
+       "使…",
+       "〜にする"
+      ]
+     ],
+     "note": {
+      "zh": "test“见证人”+ -ify“做”→ 作见证 → 作证。",
+      "ja": "test「証人」＋ -ify（する）→ 証言する。"
+     },
+     "forms": [
+      [
+       "testimony (n.)",
+       "证词",
+       "証言"
+      ],
+      [
+       "testify against",
+       "作证指控",
+       "〜に不利な証言をする"
+      ]
+     ]
+    },
+    {
+     "w": "witness",
+     "pos": "n./v.",
+     "ipa": "/ˈwɪtnɪs/",
+     "zh": "目击者；见证",
+     "ja": "目撃者；証人；目撃する",
+     "ex": "Two employees signed the form as witnesses.",
+     "ex_zh": "两名员工作为见证人在表格上签了字。",
+     "ex_ja": "2人の従業員が証人として書類に署名した。",
+     "parts": [
+      [
+       "wit",
+       "知道",
+       "知る"
+      ],
+      [
+       "-ness",
+       "状态",
+       "状態"
+      ]
+     ],
+     "note": {
+      "zh": "wit“知道”+ -ness → 知情的人 → 见证人。",
+      "ja": "wit「知る」＋ -ness → 知っている人 → 証人。"
+     },
+     "forms": [
+      [
+       "eyewitness (n.)",
+       "目击证人",
+       "目撃者"
+      ],
+      [
+       "witness statement",
+       "证人陈述",
+       "証人の供述"
+      ]
+     ]
+    },
+    {
+     "w": "forfeit",
+     "pos": "v.",
+     "ipa": "/ˈfɔrfɪt/",
+     "zh": "丧失；被没收",
+     "ja": "失う；没収される",
+     "ex": "Guests who cancel late will forfeit their deposit.",
+     "ex_zh": "晚取消的客人将丧失押金。",
+     "ex_ja": "直前にキャンセルした宿泊客は保証金を失う。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚える。"
+     },
+     "forms": [
+      [
+       "forfeiture (n.)",
+       "没收；丧失",
+       "没収"
+      ],
+      [
+       "forfeit a deposit",
+       "丧失押金",
+       "保証金を失う"
+      ]
+     ]
+    },
+    {
+     "w": "sanction",
+     "pos": "n./v.",
+     "ipa": "/ˈsæŋkʃən/",
+     "zh": "制裁；批准",
+     "ja": "制裁；認可",
+     "ex": "The regulator imposed heavy sanctions on the bank.",
+     "ex_zh": "监管机构对这家银行实施了严厉制裁。",
+     "ex_ja": "規制当局はその銀行に厳しい制裁を科した。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚える。"
+     },
+     "forms": [
+      [
+       "impose sanctions",
+       "实施制裁",
+       "制裁を科す"
+      ],
+      [
+       "sanction (v.)",
+       "批准",
+       "承認する"
+      ]
+     ],
+     "tip": {
+      "zh": "sanction 同时有“制裁”和“批准”两个相反意思。",
+      "ja": "sanction は「制裁」と「承認」の正反対の意味を持つ。"
+     }
+    },
+    {
+     "w": "abide",
+     "pos": "v.",
+     "ipa": "/əˈbaɪd/",
+     "zh": "遵守；忍受",
+     "ja": "従う；耐える",
+     "ex": "All vendors must abide by the safety regulations.",
+     "ex_zh": "所有供应商都必须遵守安全规定。",
+     "ex_ja": "すべての業者は安全規則を守らなければならない。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚える。"
+     },
+     "forms": [
+      [
+       "abide by",
+       "遵守…",
+       "〜に従う"
+      ],
+      [
+       "law-abiding (a.)",
+       "守法的",
+       "法を守る"
+      ]
+     ]
+    },
+    {
+     "w": "trademark",
+     "pos": "n.",
+     "ipa": "/ˈtreɪdˌmɑrk/",
+     "zh": "商标",
+     "ja": "商標",
+     "ex": "The company registered its new slogan as a trademark.",
+     "ex_zh": "公司把新口号注册成了商标。",
+     "ex_ja": "会社は新しいスローガンを商標登録した。",
+     "parts": [
+      [
+       "trade",
+       "贸易",
+       "取引"
+      ],
+      [
+       "mark",
+       "标记",
+       "印"
+      ]
+     ],
+     "note": {
+      "zh": "trade“商业”+ mark“标记” → 商业标记 → 商标。",
+      "ja": "trade「取引」＋ mark「印」→ 商標。"
+     },
+     "forms": [
+      [
+       "registered trademark",
+       "注册商标",
+       "登録商標"
+      ],
+      [
+       "trademark infringement",
+       "商标侵权",
+       "商標権侵害"
+      ]
+     ]
+    },
+    {
+     "w": "copyright",
+     "pos": "n.",
+     "ipa": "/ˈkɑpiˌraɪt/",
+     "zh": "版权；著作权",
+     "ja": "著作権",
+     "ex": "The photographer holds the copyright to all the images.",
+     "ex_zh": "这位摄影师拥有所有图片的版权。",
+     "ex_ja": "その写真家はすべての画像の著作権を持っている。",
+     "parts": [
+      [
+       "copy",
+       "复制",
+       "複製"
+      ],
+      [
+       "right",
+       "权利",
+       "権利"
+      ]
+     ],
+     "note": {
+      "zh": "copy“复制”+ right“权利”→ 复制的权利 → 版权。",
+      "ja": "copy「複製」＋ right「権利」→ 著作権。"
+     },
+     "forms": [
+      [
+       "copyright law",
+       "著作权法",
+       "著作権法"
+      ],
+      [
+       "copyrighted (a.)",
+       "受版权保护的",
+       "著作権で保護された"
+      ]
+     ]
+    },
+    {
+     "w": "proprietary",
+     "pos": "adj.",
+     "ipa": "/prəˈpraɪəˌtɛri/",
+     "zh": "专有的；所有权的",
+     "ja": "独占的；所有者の",
+     "ex": "The software uses proprietary technology developed in-house.",
+     "ex_zh": "该软件使用公司自行开发的专有技术。",
+     "ex_ja": "そのソフトは社内で開発した独自技術を使っている。",
+     "parts": [
+      [
+       "propri",
+       "自己的",
+       "自分の"
+      ],
+      [
+       "-ary",
+       "形容词",
+       "形容詞化"
+      ]
+     ],
+     "note": {
+      "zh": "来自拉丁语 proprius“自己的”，属于自己的 → 专有的。",
+      "ja": "ラテン語 proprius「自分の」から。自分のもの → 専有の。"
+     },
+     "forms": [
+      [
+       "proprietary information",
+       "专有信息",
+       "専有情報"
+      ],
+      [
+       "proprietor (n.)",
+       "所有人",
+       "所有者"
+      ]
+     ]
+    },
+    {
+     "w": "repeal",
+     "pos": "v.",
+     "ipa": "/rɪˈpil/",
+     "zh": "废除；撤销",
+     "ja": "廃止する；撤回する",
+     "ex": "The city council voted to repeal the outdated parking rule.",
+     "ex_zh": "市议会投票废除了过时的停车规定。",
+     "ex_ja": "市議会は時代遅れの駐車規則を廃止することを決議した。",
+     "parts": [
+      [
+       "re-",
+       "回",
+       "戻す"
+      ],
+      [
+       "peal",
+       "召唤",
+       "呼ぶ"
+      ]
+     ],
+     "note": {
+      "zh": "re“回”+ 古法语 apeler“召唤”→ 召回 → 撤销。",
+      "ja": "re「戻す」＋ 古フランス語 apeler「呼ぶ」→ 呼び戻す → 撤回。"
+     },
+     "forms": [
+      [
+       "repeal of the law",
+       "废除法律",
+       "法律の廃止"
+      ],
+      [
+       "repealed (a.)",
+       "已废除的",
+       "廃止された"
+      ]
+     ]
+    },
+    {
+     "w": "annul",
+     "pos": "v.",
+     "ipa": "/əˈnʌl/",
+     "zh": "宣告无效；取消",
+     "ja": "無効にする；取り消す",
+     "ex": "The court may annul the agreement if fraud is proven.",
+     "ex_zh": "若欺诈成立，法院可以宣告该协议无效。",
+     "ex_ja": "詐欺が証明されれば、裁判所は契約を無効にできる。",
+     "parts": [
+      [
+       "an-",
+       "向…",
+       "〜へ"
+      ],
+      [
+       "nul",
+       "无",
+       "無"
+      ]
+     ],
+     "note": {
+      "zh": "an（ad）+ nul“无”→ 使变成无 → 宣告无效。",
+      "ja": "an（ad）＋ nul「無」→ 無にする → 無効にする。"
+     },
+     "forms": [
+      [
+       "annulment (n.)",
+       "无效宣告",
+       "無効"
+      ],
+      [
+       "null (a.)",
+       "无效的",
+       "無効の"
+      ]
+     ]
+    },
+    {
+     "w": "accountable",
+     "pos": "adj.",
+     "ipa": "/əˈkaʊntəbəl/",
+     "zh": "负有责任的",
+     "ja": "責任がある",
+     "ex": "Managers are accountable for the results of their teams.",
+     "ex_zh": "经理要对团队的成果负责。",
+     "ex_ja": "管理職はチームの成果に責任を負う。",
+     "parts": [
+      [
+       "account",
+       "账；说明",
+       "勘定；説明"
+      ],
+      [
+       "-able",
+       "能…的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "account“说明”+ -able → 需要给出说明的 → 负责的。",
+      "ja": "account「説明」＋ -able → 説明を求められる → 責任がある。"
+     },
+     "forms": [
+      [
+       "accountability (n.)",
+       "责任",
+       "説明責任"
+      ],
+      [
+       "be accountable for",
+       "对…负责",
+       "〜に責任がある"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "svc",
+   "title_zh": "主题：客户服务与投诉处理",
+   "title_ja": "テーマ：顧客対応とクレーム処理",
+   "words": [
+    {
+     "w": "escalate",
+     "pos": "v.",
+     "ipa": "/ˈɛskəˌleɪt/",
+     "zh": "升级；上报",
+     "ja": "段階的に引き上げる；上へ回す",
+     "ex": "Unresolved complaints will be escalated to a senior manager.",
+     "ex_zh": "未解决的投诉会被上报给高级经理。",
+     "ex_ja": "未解決の苦情は上級管理職に回される。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚える。"
+     },
+     "forms": [
+      [
+       "escalation (n.)",
+       "升级",
+       "エスカレーション"
+      ],
+      [
+       "escalate an issue",
+       "上报问题",
+       "問題を上に回す"
+      ]
+     ]
+    },
+    {
+     "w": "dissatisfied",
+     "pos": "adj.",
+     "ipa": "/dɪsˈsætɪsˌfaɪd/",
+     "zh": "不满意的",
+     "ja": "不満な",
+     "ex": "Dissatisfied customers can request a full refund within 30 days.",
+     "ex_zh": "不满意的顾客可在30天内申请全额退款。",
+     "ex_ja": "不満のある顧客は30日以内に全額返金を請求できる。",
+     "parts": [
+      [
+       "dis-",
+       "不",
+       "否定"
+      ],
+      [
+       "satisf",
+       "满足",
+       "満たす"
+      ],
+      [
+       "-ied",
+       "形容词",
+       "形容詞化"
+      ]
+     ],
+     "note": {
+      "zh": "dis“不”+ satisfied“满意的”→ 不满意的。",
+      "ja": "dis（否定）＋ satisfied → 不満足な。"
+     },
+     "forms": [
+      [
+       "be dissatisfied with",
+       "对…不满",
+       "〜に不満だ"
+      ],
+      [
+       "dissatisfaction (n.)",
+       "不满",
+       "不満"
+      ]
+     ]
+    },
+    {
+     "w": "redress",
+     "pos": "v./n.",
+     "ipa": "/rɪˈdrɛs/",
+     "zh": "纠正；补救",
+     "ja": "是正する；救済",
+     "ex": "The company promised to redress the error immediately.",
+     "ex_zh": "公司承诺立即纠正这一错误。",
+     "ex_ja": "会社はその誤りをただちに是正すると約束した。",
+     "parts": [
+      [
+       "re-",
+       "再",
+       "再び"
+      ],
+      [
+       "dress",
+       "整理",
+       "整える"
+      ]
+     ],
+     "note": {
+      "zh": "re“再”+ dress“整理”→ 重新摆正 → 纠正。",
+      "ja": "re「再び」＋ dress「整える」→ 正しい状態に戻す。"
+     },
+     "forms": [
+      [
+       "seek redress",
+       "寻求补救",
+       "救済を求める"
+      ],
+      [
+       "redress a grievance",
+       "解决不满",
+       "不満を解消する"
+      ]
+     ]
+    },
+    {
+     "w": "remedy",
+     "pos": "n./v.",
+     "ipa": "/ˈrɛmədi/",
+     "zh": "补救办法；纠正",
+     "ja": "救済策；是正する",
+     "ex": "The best remedy for late deliveries is a second supplier.",
+     "ex_zh": "解决延迟交货的最佳办法是增加第二家供应商。",
+     "ex_ja": "配送遅延の最善の対策は2社目の供給元を持つことだ。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚える。"
+     },
+     "forms": [
+      [
+       "legal remedy",
+       "法律救济",
+       "法的救済"
+      ],
+      [
+       "remedial (a.)",
+       "补救的",
+       "是正の"
+      ]
+     ]
+    },
+    {
+     "w": "oversight",
+     "pos": "n.",
+     "ipa": "/ˈoʊvɚˌsaɪt/",
+     "zh": "疏忽；监督",
+     "ja": "見落とし；監督",
+     "ex": "The missing signature was an oversight on our part.",
+     "ex_zh": "缺少签名是我们的疏忽。",
+     "ex_ja": "署名がなかったのは当方の見落としです。",
+     "parts": [
+      [
+       "over",
+       "在上",
+       "上から"
+      ],
+      [
+       "sight",
+       "看",
+       "見る"
+      ]
+     ],
+     "note": {
+      "zh": "over + sight“看”：从上面看 → 监督；看漏 → 疏忽。",
+      "ja": "over ＋ sight「見る」：上から見る → 監督；見過ごす → 見落とし。"
+     },
+     "forms": [
+      [
+       "regulatory oversight",
+       "监管",
+       "規制当局の監督"
+      ],
+      [
+       "due to an oversight",
+       "由于疏忽",
+       "見落としのため"
+      ]
+     ],
+     "tip": {
+      "zh": "oversight 有“监督”和“疏忽”两义，看上下文。",
+      "ja": "oversight は「監督」と「見落とし」の2義。"
+     }
+    },
+    {
+     "w": "complain",
+     "pos": "v.",
+     "ipa": "/kəmˈpleɪn/",
+     "zh": "抱怨；投诉",
+     "ja": "苦情を言う",
+     "ex": "Several guests complained about the noise at night.",
+     "ex_zh": "几位客人投诉夜间的噪音。",
+     "ex_ja": "数人の宿泊客が夜間の騒音について苦情を言った。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚える。"
+     },
+     "forms": [
+      [
+       "complaint (n.)",
+       "投诉",
+       "苦情"
+      ],
+      [
+       "complain about",
+       "抱怨…",
+       "〜について不満を言う"
+      ]
+     ]
+    },
+    {
+     "w": "apology",
+     "pos": "n.",
+     "ipa": "/əˈpɑlədʒi/",
+     "zh": "道歉",
+     "ja": "謝罪",
+     "ex": "We sent a written apology to the customer.",
+     "ex_zh": "我们给顾客发了书面道歉信。",
+     "ex_ja": "顧客へ謝罪文を送った。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚える。"
+     },
+     "forms": [
+      [
+       "apologize (v.)",
+       "道歉",
+       "謝る"
+      ],
+      [
+       "owe an apology",
+       "欠一个道歉",
+       "謝罪すべきだ"
+      ]
+     ]
+    },
+    {
+     "w": "courtesy",
+     "pos": "n.",
+     "ipa": "/ˈkɝtəsi/",
+     "zh": "礼貌；好意",
+     "ja": "礼儀；厚意",
+     "ex": "The hotel offers a courtesy shuttle to the airport.",
+     "ex_zh": "酒店提供免费的机场接送服务。",
+     "ex_ja": "ホテルは空港まで無料の送迎バスを運行している。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚える。"
+     },
+     "forms": [
+      [
+       "courtesy of",
+       "由…提供",
+       "〜の提供による"
+      ],
+      [
+       "courtesy call",
+       "礼节性拜访",
+       "表敬訪問"
+      ]
+     ]
+    },
+    {
+     "w": "assure",
+     "pos": "v.",
+     "ipa": "/əˈʃʊr/",
+     "zh": "向…保证；使放心",
+     "ja": "保証する；安心させる",
+     "ex": "The manager assured us that the repair would be finished today.",
+     "ex_zh": "经理向我们保证修理今天就能完成。",
+     "ex_ja": "部長は修理が今日中に終わると私たちに請け合った。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚える。"
+     },
+     "forms": [
+      [
+       "assurance (n.)",
+       "保证",
+       "保証"
+      ],
+      [
+       "assure A of B",
+       "向A保证B",
+       "AにBを保証する"
+      ]
+     ]
+    },
+    {
+     "w": "reassure",
+     "pos": "v.",
+     "ipa": "/ˌriəˈʃʊr/",
+     "zh": "使放心",
+     "ja": "安心させる",
+     "ex": "The clear update reassured investors about the schedule.",
+     "ex_zh": "清晰的进展说明让投资者对日程放心了。",
+     "ex_ja": "明確な進捗報告は、投資家をスケジュールについて安心させた。",
+     "parts": [
+      [
+       "re-",
+       "再",
+       "再び"
+      ],
+      [
+       "assure",
+       "保证",
+       "保証する"
+      ]
+     ],
+     "note": {
+      "zh": "re“再”+ assure“保证”→ 再次保证 → 使放心。",
+      "ja": "re「再び」＋ assure → 重ねて保証する → 安心させる。"
+     },
+     "forms": [
+      [
+       "reassuring (a.)",
+       "令人放心的",
+       "安心させる"
+      ],
+      [
+       "reassurance (n.)",
+       "安慰；保证",
+       "安心"
+      ]
+     ]
+    },
+    {
+     "w": "turnaround",
+     "pos": "n.",
+     "ipa": "/ˈtɝnəˌraʊnd/",
+     "zh": "周转时间；好转",
+     "ja": "処理期間；好転",
+     "ex": "Our standard turnaround for repairs is five business days.",
+     "ex_zh": "我们的标准维修周转时间是五个工作日。",
+     "ex_ja": "当社の標準修理期間は5営業日だ。",
+     "parts": [
+      [
+       "turn",
+       "转",
+       "回る"
+      ],
+      [
+       "around",
+       "一圈",
+       "ぐるりと"
+      ]
+     ],
+     "note": {
+      "zh": "turn + around：转一圈回来 → 周转；扭转局面。",
+      "ja": "turn ＋ around：一巡して戻る → 処理期間；好転。"
+     },
+     "forms": [
+      [
+       "quick turnaround",
+       "快速周转",
+       "迅速な対応"
+      ],
+      [
+       "turnaround time",
+       "周转时间",
+       "処理時間"
+      ]
+     ]
+    },
+    {
+     "w": "helpdesk",
+     "pos": "n.",
+     "ipa": "/ˈhɛlpˌdɛsk/",
+     "zh": "服务台",
+     "ja": "ヘルプデスク",
+     "ex": "Contact the IT helpdesk if you cannot log in.",
+     "ex_zh": "如果无法登录，请联系IT服务台。",
+     "ex_ja": "ログインできない場合はITヘルプデスクに連絡してください。",
+     "parts": [
+      [
+       "help",
+       "帮助",
+       "助け"
+      ],
+      [
+       "desk",
+       "柜台",
+       "机"
+      ]
+     ],
+     "note": {
+      "zh": "help + desk → 提供帮助的柜台 → 服务台。",
+      "ja": "help ＋ desk → 助けを提供する窓口。"
+     },
+     "forms": [
+      [
+       "helpdesk ticket",
+       "服务工单",
+       "ヘルプデスクの案件"
+      ],
+      [
+       "call the helpdesk",
+       "联系服务台",
+       "ヘルプデスクに連絡する"
+      ]
+     ]
+    },
+    {
+     "w": "unresolved",
+     "pos": "adj.",
+     "ipa": "/ˌʌnrɪˈzɑlvd/",
+     "zh": "未解决的",
+     "ja": "未解決の",
+     "ex": "Several unresolved issues remain on the project list.",
+     "ex_zh": "项目清单上仍有几个未解决的问题。",
+     "ex_ja": "プロジェクト一覧にはまだ未解決の問題がいくつか残っている。",
+     "parts": [
+      [
+       "un-",
+       "不",
+       "否定"
+      ],
+      [
+       "resolve",
+       "解决",
+       "解決する"
+      ],
+      [
+       "-ed",
+       "形容词",
+       "形容詞化"
+      ]
+     ],
+     "note": {
+      "zh": "un“不”+ resolved“已解决的”→ 未解决的。",
+      "ja": "un（否定）＋ resolved → 未解決の。"
+     },
+     "forms": [
+      [
+       "remain unresolved",
+       "仍未解决",
+       "未解決のままだ"
+      ],
+      [
+       "unresolved complaint",
+       "未解决的投诉",
+       "未解決の苦情"
+      ]
+     ]
+    },
+    {
+     "w": "delayed",
+     "pos": "adj.",
+     "ipa": "/dɪˈleɪd/",
+     "zh": "延误的",
+     "ja": "遅れた",
+     "ex": "Passengers on the delayed flight received meal vouchers.",
+     "ex_zh": "延误航班上的乘客领到了餐券。",
+     "ex_ja": "遅延した便の乗客には食事券が配られた。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚える。"
+     },
+     "forms": [
+      [
+       "delay (v./n.)",
+       "延误",
+       "遅れ"
+      ],
+      [
+       "delayed shipment",
+       "延迟的货物",
+       "遅れた出荷"
+      ]
+     ]
+    },
+    {
+     "w": "discrepancy",
+     "pos": "n.",
+     "ipa": "/dɪˈskrɛpənsi/",
+     "zh": "不一致；差异",
+     "ja": "食い違い；不一致",
+     "ex": "We found a discrepancy between the invoice and the order.",
+     "ex_zh": "我们发现发票与订单不一致。",
+     "ex_ja": "請求書と注文書に食い違いが見つかった。",
+     "parts": [
+      [
+       "dis-",
+       "分开",
+       "離れて"
+      ],
+      [
+       "crep",
+       "发出声响",
+       "音を立てる"
+      ]
+     ],
+     "note": {
+      "zh": "dis“分开”+ crep“声响”→ 声音不合 → 不一致。",
+      "ja": "dis「離れて」＋ crep「音」→ 音が合わない → 不一致。"
+     },
+     "forms": [
+      [
+       "discrepancy between",
+       "…之间的差异",
+       "〜間の食い違い"
+      ],
+      [
+       "resolve a discrepancy",
+       "解决差异",
+       "食い違いを解消する"
+      ]
+     ]
+    },
+    {
+     "w": "misplaced",
+     "pos": "adj.",
+     "ipa": "/mɪsˈpleɪst/",
+     "zh": "放错地方的；遗失的",
+     "ja": "置き忘れた；見当違いの",
+     "ex": "The customer reported a misplaced package at the front desk.",
+     "ex_zh": "顾客报告前台有一个放错位置的包裹。",
+     "ex_ja": "顧客は、受付で荷物が置き間違えられていたと報告した。",
+     "parts": [
+      [
+       "mis-",
+       "错误",
+       "誤って"
+      ],
+      [
+       "place",
+       "放",
+       "置く"
+      ],
+      [
+       "-ed",
+       "形容词",
+       "形容詞化"
+      ]
+     ],
+     "note": {
+      "zh": "mis“错”+ placed“放置”→ 放错了的。",
+      "ja": "mis（誤り）＋ placed → 置き間違えた。"
+     },
+     "forms": [
+      [
+       "misplace (v.)",
+       "放错",
+       "置き間違える"
+      ],
+      [
+       "misplaced trust",
+       "错付的信任",
+       "見当違いの信頼"
+      ]
+     ]
+    },
+    {
+     "w": "mishandle",
+     "pos": "v.",
+     "ipa": "/mɪsˈhændəl/",
+     "zh": "处理不当",
+     "ja": "不適切に扱う",
+     "ex": "Staff mishandled the refund request and angered the customer.",
+     "ex_zh": "员工处理退款申请不当，激怒了顾客。",
+     "ex_ja": "スタッフが返金依頼を不適切に扱い、顧客を怒らせた。",
+     "parts": [
+      [
+       "mis-",
+       "错误",
+       "誤って"
+      ],
+      [
+       "handle",
+       "处理",
+       "扱う"
+      ]
+     ],
+     "note": {
+      "zh": "mis“错”+ handle“处理”→ 处理不当。",
+      "ja": "mis（誤り）＋ handle → 扱いを誤る。"
+     },
+     "forms": [
+      [
+       "mishandling (n.)",
+       "处理不当",
+       "不手際"
+      ],
+      [
+       "mishandled case",
+       "处理不当的案件",
+       "不手際のあった案件"
+      ]
+     ]
+    },
+    {
+     "w": "loyal",
+     "pos": "adj.",
+     "ipa": "/ˈlɔɪəl/",
+     "zh": "忠诚的",
+     "ja": "忠実な",
+     "ex": "The store rewards loyal customers with exclusive discounts.",
+     "ex_zh": "这家店用专属折扣回馈忠实顾客。",
+     "ex_ja": "その店は常連客に限定割引で報いている。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚える。"
+     },
+     "forms": [
+      [
+       "loyalty (n.)",
+       "忠诚度",
+       "忠誠心"
+      ],
+      [
+       "loyalty program",
+       "会员积分计划",
+       "ポイント制度"
+      ]
+     ]
+    },
+    {
+     "w": "churn",
+     "pos": "n./v.",
+     "ipa": "/tʃɝn/",
+     "zh": "客户流失率；搅动",
+     "ja": "解約率；かき混ぜる",
+     "ex": "The new support team helped reduce customer churn.",
+     "ex_zh": "新的支持团队帮助降低了客户流失率。",
+     "ex_ja": "新しいサポートチームのおかげで顧客の解約率が下がった。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚える。"
+     },
+     "forms": [
+      [
+       "churn rate",
+       "流失率",
+       "解約率"
+      ],
+      [
+       "churn out",
+       "大量生产",
+       "量産する"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}
