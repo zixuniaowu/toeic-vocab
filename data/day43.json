@@ -1,0 +1,2313 @@
+{
+ "day": 43,
+ "date": "2026-11-15",
+ "title_zh": "四大词根 + 展会与促销推广、房地产买卖与租住",
+ "title_ja": "4つの語根＋展示会と販促、不動産の売買と賃貸",
+ "intro_zh": "今天的词根是 -ject-（投）、-pend-/-pens-（悬挂；称量）、-sist-（站立）、-fac-/-fic-（做）；主题是展会与促销推广，以及房地产买卖与租住。",
+ "intro_ja": "今日の語根は -ject-（投げる）、-pend-・-pens-（吊るす・量る）、-sist-（立つ）、-fac-・-fic-（作る）。テーマは展示会と販促、不動産の売買と賃貸。",
+ "voice": "en-US-AriaNeural",
+ "roots": [
+  {
+   "root": "-ject-",
+   "origin": "Latin jacere, jectus",
+   "zh": "投；扔",
+   "ja": "投げる",
+   "exp_zh": "来自拉丁语 jacere（投）。对着扔 → object；回头扔 → reject；向下扔 → dejected。⚠️ project、inject、eject 已学过。",
+   "exp_ja": "ラテン語 jacere（投げる）から。向かって投げる → object；投げ返す → reject；下へ投げる → dejected。⚠️ project・inject・eject は既習。",
+   "examples": [
+    "object",
+    "subject",
+    "objection",
+    "rejection",
+    "dejected",
+    "conjecture",
+    "trajectory"
+   ]
+  },
+  {
+   "root": "-pend- / -pens-",
+   "origin": "Latin pendere, pensus",
+   "zh": "悬挂；称量；付出",
+   "ja": "吊るす；量る",
+   "exp_zh": "来自拉丁语 pendere（悬挂；称重）。挂在后面 → appendix；分开称好 → dispense；垂直垂下 → perpendicular。⚠️ depend、suspend、expense 已学过。",
+   "exp_ja": "ラテン語 pendere（吊るす・量る）から。後ろに付く → appendix；分けて量る → dispense；垂れ下がる → perpendicular。⚠️ depend・suspend・expense は既習。",
+   "examples": [
+    "pendant",
+    "dispense",
+    "appendix",
+    "suspense",
+    "spending",
+    "dispensable",
+    "perpendicular"
+   ]
+  },
+  {
+   "root": "-sist-",
+   "origin": "Latin sistere",
+   "zh": "站立",
+   "ja": "立つ",
+   "exp_zh": "来自拉丁语 sistere（使站住）。站定不动 → insist；站在一起 → consist；站出来 → exist。⚠️ assist、resist 等已学过。",
+   "exp_ja": "ラテン語 sistere（立たせる）から。動かず立つ → insist；一緒に立つ → consist；外に立つ → exist。⚠️ assist・resist などは既習。",
+   "examples": [
+    "insist",
+    "consist",
+    "persistent",
+    "resistant",
+    "coexist",
+    "exist",
+    "insistent"
+   ]
+  },
+  {
+   "root": "-fac- / -fic- / -fact-",
+   "origin": "Latin facere, factus",
+   "zh": "做；制造",
+   "ja": "作る；行う",
+   "exp_zh": "来自拉丁语 facere（做）。造成结果的东西 → factor；制造的地方 → factory；做得不够 → deficient。⚠️ fiction 来自 fingere“塑造”，不属于此词根。",
+   "exp_ja": "ラテン語 facere（作る）から。結果を生む物 → factor；作る場所 → factory；作り足りない → deficient。⚠️ fiction は fingere「形作る」由来で別語根。",
+   "examples": [
+    "factor",
+    "factory",
+    "deficient",
+    "faction"
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "ject",
+   "title_zh": "词根 -ject-：投",
+   "title_ja": "語根 -ject-：投げる",
+   "words": [
+    {
+     "w": "object",
+     "pos": "v.",
+     "ipa": "/əbˈdʒɛkt/",
+     "zh": "反对；提出异议",
+     "ja": "反対する；異議を唱える",
+     "ex": "Several board members objected to the proposed merger.",
+     "ex_zh": "几位董事对拟议的合并提出了异议。",
+     "ex_ja": "数名の取締役が提案された合併に異議を唱えた。",
+     "parts": [
+      [
+       "ob-",
+       "对着",
+       "向かって"
+      ],
+      [
+       "ject",
+       "投；扔",
+       "投げる"
+      ]
+     ],
+     "note": {
+      "zh": "ob“对着”+ ject“投”→ 把话扔向对方 → 反对。作动词重音在后。",
+      "ja": "ob「向かって」＋ ject「投げる」→ 反論をぶつける → 反対する。動詞は後ろにアクセント。"
+     },
+     "forms": [
+      [
+       "object to",
+       "反对…",
+       "〜に反対する"
+      ],
+      [
+       "objector (n.)",
+       "反对者",
+       "反対者"
+      ]
+     ]
+    },
+    {
+     "w": "subject",
+     "pos": "adj.",
+     "ipa": "/ˈsʌbdʒɪkt/",
+     "zh": "受…支配的；以…为条件的",
+     "ja": "〜を受けやすい；〜次第の",
+     "ex": "All prices are subject to change without notice.",
+     "ex_zh": "所有价格如有变动，恕不另行通知。",
+     "ex_ja": "価格はすべて予告なく変更されることがあります。",
+     "parts": [
+      [
+       "sub-",
+       "在下",
+       "下に"
+      ],
+      [
+       "ject",
+       "投；扔",
+       "投げる"
+      ]
+     ],
+     "note": {
+      "zh": "sub“在下”+ ject“投”→ 被扔到下面 → 受制于。常考 be subject to。",
+      "ja": "sub「下」＋ ject「投げる」→ 下に置かれる → 〜を受ける。be subject to が頻出。"
+     },
+     "forms": [
+      [
+       "be subject to",
+       "受…约束；取决于",
+       "〜の対象となる"
+      ],
+      [
+       "subject matter",
+       "主题",
+       "主題"
+      ]
+     ]
+    },
+    {
+     "w": "objection",
+     "pos": "n.",
+     "ipa": "/əbˈdʒɛkʃən/",
+     "zh": "异议；反对",
+     "ja": "異議；反対",
+     "ex": "The client raised no objection to the revised schedule.",
+     "ex_zh": "客户对修改后的日程没有提出异议。",
+     "ex_ja": "顧客は変更後のスケジュールに異議を唱えなかった。",
+     "parts": [
+      [
+       "ob-",
+       "对着",
+       "向かって"
+      ],
+      [
+       "ject",
+       "投；扔",
+       "投げる"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "object 的名词形式，意为“提出的反对”。",
+      "ja": "object の名詞形で「出された反対」。"
+     },
+     "forms": [
+      [
+       "raise an objection",
+       "提出异议",
+       "異議を唱える"
+      ],
+      [
+       "objection to",
+       "对…的异议",
+       "〜への異議"
+      ]
+     ]
+    },
+    {
+     "w": "rejection",
+     "pos": "n.",
+     "ipa": "/rɪˈdʒɛkʃən/",
+     "zh": "拒绝；退回",
+     "ja": "拒絶；不採用",
+     "ex": "The rejection of the bid surprised the entire sales team.",
+     "ex_zh": "投标被拒让整个销售团队感到意外。",
+     "ex_ja": "入札が却下されたことは営業チーム全員を驚かせた。",
+     "parts": [
+      [
+       "re-",
+       "回",
+       "戻して"
+      ],
+      [
+       "ject",
+       "投；扔",
+       "投げる"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "re“回”+ ject“投”→ 扔回去 → 拒绝。",
+      "ja": "re「戻す」＋ ject「投げる」→ 投げ返す → 拒絶。"
+     },
+     "forms": [
+      [
+       "reject (v.)",
+       "拒绝",
+       "却下する"
+      ],
+      [
+       "rejection letter",
+       "拒绝信",
+       "不採用通知"
+      ]
+     ]
+    },
+    {
+     "w": "dejected",
+     "pos": "adj.",
+     "ipa": "/dɪˈdʒɛktɪd/",
+     "zh": "沮丧的；灰心的",
+     "ja": "落胆した；しょげた",
+     "ex": "The team looked dejected after losing the contract.",
+     "ex_zh": "丢掉合同后，团队显得很沮丧。",
+     "ex_ja": "契約を失って、チームは落胆した様子だった。",
+     "parts": [
+      [
+       "de-",
+       "向下",
+       "下へ"
+      ],
+      [
+       "ject",
+       "投；扔",
+       "投げる"
+      ],
+      [
+       "-ed",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "de“向下”+ ject“投”→ 被扔到低处 → 情绪低落。",
+      "ja": "de「下へ」＋ ject「投げる」→ 気持ちが落ち込む。"
+     },
+     "forms": [
+      [
+       "dejection (n.)",
+       "沮丧",
+       "落胆"
+      ],
+      [
+       "feel dejected",
+       "感到沮丧",
+       "落ち込む"
+      ]
+     ]
+    },
+    {
+     "w": "conjecture",
+     "pos": "n.",
+     "ipa": "/kənˈdʒɛktʃɚ/",
+     "zh": "推测；猜想",
+     "ja": "推測；憶測",
+     "ex": "The report is based on conjecture rather than hard data.",
+     "ex_zh": "这份报告基于推测而不是确凿的数据。",
+     "ex_ja": "その報告は確かなデータではなく憶測に基づいている。",
+     "parts": [
+      [
+       "con-",
+       "一起",
+       "共に"
+      ],
+      [
+       "ject",
+       "投；扔",
+       "投げる"
+      ],
+      [
+       "-ure",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "con“一起”+ ject“投”→ 把想法堆在一起扔出来 → 推测。",
+      "ja": "con「共に」＋ ject「投げる」→ 考えを投げ出す → 推測。"
+     },
+     "forms": [
+      [
+       "pure conjecture",
+       "纯属猜测",
+       "単なる憶測"
+      ],
+      [
+       "conjecture (v.)",
+       "推测",
+       "推測する"
+      ]
+     ]
+    },
+    {
+     "w": "trajectory",
+     "pos": "n.",
+     "ipa": "/trəˈdʒɛktəri/",
+     "zh": "轨迹；发展轨道",
+     "ja": "軌道；成り行き",
+     "ex": "The company's growth trajectory remains strong this year.",
+     "ex_zh": "公司今年的增长轨迹依然强劲。",
+     "ex_ja": "同社の今年の成長の軌跡は引き続き力強い。",
+     "parts": [
+      [
+       "tra-",
+       "越过",
+       "越えて"
+      ],
+      [
+       "ject",
+       "投；扔",
+       "投げる"
+      ],
+      [
+       "-ory",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "tra（=trans）“越过”+ ject“投”→ 抛出后划过的路线 → 轨迹。",
+      "ja": "tra（=trans）「越えて」＋ ject「投げる」→ 投げた物が描く道 → 軌道。"
+     },
+     "forms": [
+      [
+       "growth trajectory",
+       "增长轨迹",
+       "成長の軌道"
+      ],
+      [
+       "career trajectory",
+       "职业发展轨迹",
+       "キャリアの軌跡"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pend",
+   "title_zh": "词根 -pend- / -pens-：悬挂；称量",
+   "title_ja": "語根 -pend-・-pens-：吊るす・量る",
+   "words": [
+    {
+     "w": "pendant",
+     "pos": "n.",
+     "ipa": "/ˈpɛndənt/",
+     "zh": "吊坠；挂饰",
+     "ja": "ペンダント；吊り飾り",
+     "ex": "The store sells silver pendants made by local artists.",
+     "ex_zh": "这家店出售当地艺术家制作的银吊坠。",
+     "ex_ja": "その店は地元の芸術家が作った銀のペンダントを販売している。",
+     "parts": [
+      [
+       "pend",
+       "悬挂；称量",
+       "吊るす；量る"
+      ],
+      [
+       "-ant",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "pend“悬挂”+ -ant → 挂着的东西 → 吊坠。",
+      "ja": "pend「吊るす」＋ -ant → 吊るされた物 → ペンダント。"
+     },
+     "forms": [
+      [
+       "pendant light",
+       "吊灯",
+       "吊り下げ照明"
+      ],
+      [
+       "pendulum (n.)",
+       "钟摆",
+       "振り子"
+      ]
+     ]
+    },
+    {
+     "w": "dispense",
+     "pos": "v.",
+     "ipa": "/dɪˈspɛns/",
+     "zh": "分发；配药；免除",
+     "ja": "分配する；調剤する",
+     "ex": "The machine dispenses free samples of hand cream.",
+     "ex_zh": "这台机器会分发免费的护手霜试用装。",
+     "ex_ja": "その機械は無料のハンドクリームの試供品を出す。",
+     "parts": [
+      [
+       "dis-",
+       "分开",
+       "分けて"
+      ],
+      [
+       "pens",
+       "称量；付出",
+       "量る"
+      ]
+     ],
+     "note": {
+      "zh": "dis“分开”+ pens（pend 的变体）“称量”→ 称好分出去 → 分发、配药。",
+      "ja": "dis「分ける」＋ pens（pend の変形）「量る」→ 量って分ける → 分配する。"
+     },
+     "forms": [
+      [
+       "dispenser (n.)",
+       "分发器",
+       "ディスペンサー"
+      ],
+      [
+       "dispense with",
+       "省去；不用",
+       "〜なしで済ます"
+      ]
+     ]
+    },
+    {
+     "w": "appendix",
+     "pos": "n.",
+     "ipa": "/əˈpɛndɪks/",
+     "zh": "附录；阑尾",
+     "ja": "付録；虫垂",
+     "ex": "Detailed sales figures are listed in the appendix.",
+     "ex_zh": "详细的销售数字列在附录中。",
+     "ex_ja": "詳しい売上の数字は付録に載っている。",
+     "parts": [
+      [
+       "ap-",
+       "附加",
+       "付け加えて"
+      ],
+      [
+       "pend",
+       "悬挂",
+       "吊るす"
+      ],
+      [
+       "-ix",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "ap（=ad）“附加”+ pend“悬挂”→ 挂在后面的部分 → 附录。复数 appendices。",
+      "ja": "ap（=ad）「付け加える」＋ pend「吊るす」→ 後ろに付く部分 → 付録。複数形は appendices。"
+     },
+     "forms": [
+      [
+       "see the appendix",
+       "参见附录",
+       "付録を参照"
+      ],
+      [
+       "appendices (n.)",
+       "附录（复数）",
+       "付録（複数）"
+      ]
+     ]
+    },
+    {
+     "w": "suspense",
+     "pos": "n.",
+     "ipa": "/səˈspɛns/",
+     "zh": "悬念；悬而未决",
+     "ja": "サスペンス；宙ぶらりん",
+     "ex": "The announcement kept employees in suspense for weeks.",
+     "ex_zh": "这个公告让员工们悬着心等了好几周。",
+     "ex_ja": "その発表で従業員は何週間も落ち着かない状態だった。",
+     "parts": [
+      [
+       "sus-",
+       "在下",
+       "下に"
+      ],
+      [
+       "pens",
+       "悬挂",
+       "吊るす"
+      ]
+     ],
+     "note": {
+      "zh": "sus（=sub）“在下”+ pens“悬挂”→ 吊在半空 → 悬而未决。",
+      "ja": "sus（=sub）「下」＋ pens「吊るす」→ 宙づり → 未決の不安。"
+     },
+     "forms": [
+      [
+       "in suspense",
+       "悬着心",
+       "はらはらして"
+      ],
+      [
+       "suspend (v.)",
+       "暂停；悬挂",
+       "一時停止する"
+      ]
+     ]
+    },
+    {
+     "w": "spending",
+     "pos": "n.",
+     "ipa": "/ˈspɛndɪŋ/",
+     "zh": "支出；开销",
+     "ja": "支出；消費",
+     "ex": "Government spending on public transport rose last year.",
+     "ex_zh": "政府去年在公共交通上的支出增加了。",
+     "ex_ja": "昨年、公共交通への政府支出は増加した。",
+     "parts": [
+      [
+       "spend",
+       "花费",
+       "費やす"
+      ],
+      [
+       "-ing",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "spend 经古英语借自拉丁语 dispendere（称量付出），与 pend 同源。",
+      "ja": "spend は古英語を経てラテン語 dispendere（量って支払う）から。pend と同源。"
+     },
+     "forms": [
+      [
+       "consumer spending",
+       "消费者支出",
+       "個人消費"
+      ],
+      [
+       "spending cuts",
+       "削减开支",
+       "支出削減"
+      ]
+     ]
+    },
+    {
+     "w": "dispensable",
+     "pos": "adj.",
+     "ipa": "/dɪˈspɛnsəbəl/",
+     "zh": "可有可无的；非必要的",
+     "ja": "なくてもよい；不可欠でない",
+     "ex": "Several dispensable positions were cut during the restructuring.",
+     "ex_zh": "重组期间裁撤了几个可有可无的职位。",
+     "ex_ja": "組織再編の際、いくつかの不要なポストが削減された。",
+     "parts": [
+      [
+       "dis-",
+       "分开",
+       "分けて"
+      ],
+      [
+       "pens",
+       "称量",
+       "量る"
+      ],
+      [
+       "-able",
+       "能…的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "dispense“免除”+ -able → 可以免掉的 → 可有可无。反义词 indispensable。",
+      "ja": "dispense「免除する」＋ -able → なくて済む。反意語は indispensable。"
+     },
+     "forms": [
+      [
+       "indispensable (adj.)",
+       "不可或缺的",
+       "不可欠な"
+      ],
+      [
+       "dispensable item",
+       "非必需品",
+       "なくてもよい物"
+      ]
+     ]
+    },
+    {
+     "w": "perpendicular",
+     "pos": "adj.",
+     "ipa": "/ˌpɝpənˈdɪkjələr/",
+     "zh": "垂直的",
+     "ja": "垂直の",
+     "ex": "The new road runs perpendicular to the main highway.",
+     "ex_zh": "新路与主干道垂直相交。",
+     "ex_ja": "新しい道路は幹線道路と直角に走っている。",
+     "parts": [
+      [
+       "per-",
+       "贯穿",
+       "通して"
+      ],
+      [
+       "pend",
+       "悬挂",
+       "吊るす"
+      ],
+      [
+       "-ar",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "per“贯穿”+ pend“悬挂”→ 像铅锤线一样垂下 → 垂直。",
+      "ja": "per「通して」＋ pend「吊るす」→ 重りの糸のように垂れる → 垂直。"
+     },
+     "forms": [
+      [
+       "perpendicular to",
+       "与…垂直",
+       "〜に垂直な"
+      ],
+      [
+       "parallel (adj.)",
+       "平行的",
+       "平行な"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sist",
+   "title_zh": "词根 -sist-：站立",
+   "title_ja": "語根 -sist-：立つ",
+   "words": [
+    {
+     "w": "insist",
+     "pos": "v.",
+     "ipa": "/ɪnˈsɪst/",
+     "zh": "坚持；坚决要求",
+     "ja": "主張する；強く求める",
+     "ex": "The manager insisted on a written report by noon.",
+     "ex_zh": "经理坚持要求中午前交书面报告。",
+     "ex_ja": "部長は正午までに報告書を書面で出すよう強く求めた。",
+     "parts": [
+      [
+       "in-",
+       "在…上",
+       "上に"
+      ],
+      [
+       "sist",
+       "站立",
+       "立つ"
+      ]
+     ],
+     "note": {
+      "zh": "in“在上”+ sist“站”→ 站定不动 → 坚持。后接 on 或 that 从句。",
+      "ja": "in「上に」＋ sist「立つ」→ 動かず立つ → 主張する。on か that 節。"
+     },
+     "forms": [
+      [
+       "insist on",
+       "坚持…",
+       "〜を主張する"
+      ],
+      [
+       "insist that + 原形",
+       "坚持要求…",
+       "〜するよう主張する"
+      ]
+     ]
+    },
+    {
+     "w": "consist",
+     "pos": "v.",
+     "ipa": "/kənˈsɪst/",
+     "zh": "由…组成",
+     "ja": "〜から成る",
+     "ex": "The training program consists of three short modules.",
+     "ex_zh": "培训项目由三个简短的模块组成。",
+     "ex_ja": "研修プログラムは三つの短いモジュールから成る。",
+     "parts": [
+      [
+       "con-",
+       "一起",
+       "共に"
+      ],
+      [
+       "sist",
+       "站立",
+       "立つ"
+      ]
+     ],
+     "note": {
+      "zh": "con“一起”+ sist“站”→ 站在一起 → 组成。consist of 不用被动。",
+      "ja": "con「共に」＋ sist「立つ」→ 一緒に立つ → 成り立つ。受動態にしない。"
+     },
+     "forms": [
+      [
+       "consist of",
+       "由…组成",
+       "〜で構成される"
+      ],
+      [
+       "consistent (adj.)",
+       "一致的",
+       "一貫した"
+      ]
+     ]
+    },
+    {
+     "w": "persistent",
+     "pos": "adj.",
+     "ipa": "/pɚˈsɪstənt/",
+     "zh": "持续的；坚持不懈的",
+     "ja": "持続的な；粘り強い",
+     "ex": "A persistent error kept crashing the booking system.",
+     "ex_zh": "一个反复出现的错误让预订系统不断崩溃。",
+     "ex_ja": "しつこいエラーが予約システムを何度も止めた。",
+     "parts": [
+      [
+       "per-",
+       "贯穿",
+       "通して"
+      ],
+      [
+       "sist",
+       "站立",
+       "立つ"
+      ],
+      [
+       "-ent",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "per“始终”+ sist“站”→ 一直站着不退 → 持续的、顽强的。",
+      "ja": "per「通して」＋ sist「立つ」→ ずっと立ち続ける → 持続的な。"
+     },
+     "forms": [
+      [
+       "persist (v.)",
+       "坚持；持续",
+       "持続する"
+      ],
+      [
+       "persistence (n.)",
+       "毅力；持久",
+       "粘り強さ"
+      ]
+     ]
+    },
+    {
+     "w": "resistant",
+     "pos": "adj.",
+     "ipa": "/rɪˈzɪstənt/",
+     "zh": "有抵抗力的；耐…的",
+     "ja": "抵抗力のある；〜に強い",
+     "ex": "The new coating is resistant to heat and moisture.",
+     "ex_zh": "这种新涂层耐热耐潮。",
+     "ex_ja": "新しいコーティングは熱と湿気に強い。",
+     "parts": [
+      [
+       "re-",
+       "相反",
+       "逆らって"
+      ],
+      [
+       "sist",
+       "站立",
+       "立つ"
+      ],
+      [
+       "-ant",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "re“反”+ sist“站”→ 站在对面顶住 → 抵抗的。常与 to 连用。",
+      "ja": "re「逆」＋ sist「立つ」→ 向かい立つ → 抵抗する。to と共に。"
+     },
+     "forms": [
+      [
+       "resistant to",
+       "抗…的",
+       "〜に耐性のある"
+      ],
+      [
+       "water-resistant",
+       "防水的",
+       "耐水性の"
+      ]
+     ]
+    },
+    {
+     "w": "coexist",
+     "pos": "v.",
+     "ipa": "/ˌkoʊɪɡˈzɪst/",
+     "zh": "共存",
+     "ja": "共存する",
+     "ex": "Online and in-store sales can coexist in the same strategy.",
+     "ex_zh": "线上和店内销售可以在同一战略中共存。",
+     "ex_ja": "オンライン販売と店舗販売は同じ戦略の中で共存できる。",
+     "parts": [
+      [
+       "co-",
+       "共同",
+       "共に"
+      ],
+      [
+       "ex-",
+       "出",
+       "外に"
+      ],
+      [
+       "sist",
+       "站立",
+       "立つ"
+      ]
+     ],
+     "note": {
+      "zh": "co“共同”+ ex“出”+ sist“站”→ 一起站出来存在 → 共存。",
+      "ja": "co「共に」＋ ex「外に」＋ sist「立つ」→ 一緒に存在する → 共存。"
+     },
+     "forms": [
+      [
+       "coexistence (n.)",
+       "共存",
+       "共存"
+      ],
+      [
+       "coexist with",
+       "与…共存",
+       "〜と共存する"
+      ]
+     ]
+    },
+    {
+     "w": "exist",
+     "pos": "v.",
+     "ipa": "/ɪɡˈzɪst/",
+     "zh": "存在；生存",
+     "ja": "存在する",
+     "ex": "No record of the original order seems to exist.",
+     "ex_zh": "似乎不存在原始订单的记录。",
+     "ex_ja": "元の注文の記録は存在しないようだ。",
+     "parts": [
+      [
+       "ex-",
+       "出",
+       "外に"
+      ],
+      [
+       "sist",
+       "站立",
+       "立つ"
+      ]
+     ],
+     "note": {
+      "zh": "ex“出”+ sist“站”→ 站出来 → 存在。",
+      "ja": "ex「外に」＋ sist「立つ」→ 姿を現す → 存在する。"
+     },
+     "forms": [
+      [
+       "existing (adj.)",
+       "现有的",
+       "既存の"
+      ],
+      [
+       "existence (n.)",
+       "存在",
+       "存在"
+      ]
+     ]
+    },
+    {
+     "w": "insistent",
+     "pos": "adj.",
+     "ipa": "/ɪnˈsɪstənt/",
+     "zh": "坚持的；急切的",
+     "ja": "しつこく求める；強硬な",
+     "ex": "The supplier was insistent on payment in advance.",
+     "ex_zh": "供应商坚持要求预付款项。",
+     "ex_ja": "仕入先は前払いを強く求めた。",
+     "parts": [
+      [
+       "in-",
+       "在…上",
+       "上に"
+      ],
+      [
+       "sist",
+       "站立",
+       "立つ"
+      ],
+      [
+       "-ent",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "insist 的形容词，表示“坚持要求的”。",
+      "ja": "insist の形容詞で「強く求める」。"
+     },
+     "forms": [
+      [
+       "insistent on",
+       "坚持…",
+       "〜にこだわる"
+      ],
+      [
+       "insistence (n.)",
+       "坚持",
+       "主張"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fac",
+   "title_zh": "词根 -fac- / -fic-：做",
+   "title_ja": "語根 -fac-・-fic-：作る",
+   "words": [
+    {
+     "w": "factor",
+     "pos": "n.",
+     "ipa": "/ˈfæktɚ/",
+     "zh": "因素；要素",
+     "ja": "要因；要素",
+     "ex": "Price is the deciding factor for most of our customers.",
+     "ex_zh": "价格是大多数客户的决定性因素。",
+     "ex_ja": "ほとんどの顧客にとって価格が決め手となる要因だ。",
+     "parts": [
+      [
+       "fact",
+       "做；造成",
+       "作る"
+      ],
+      [
+       "-or",
+       "表示起作用的事物",
+       "〜するもの"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 facere“做”→ 起作用、造成结果的东西 → 因素。",
+      "ja": "ラテン語 facere「作る」→ 結果を生み出すもの → 要因。"
+     },
+     "forms": [
+      [
+       "key factor",
+       "关键因素",
+       "重要な要因"
+      ],
+      [
+       "factor in",
+       "把…考虑进去",
+       "〜を考慮に入れる"
+      ]
+     ]
+    },
+    {
+     "w": "factory",
+     "pos": "n.",
+     "ipa": "/ˈfæktəri/",
+     "zh": "工厂",
+     "ja": "工場",
+     "ex": "The new factory will employ about 400 workers.",
+     "ex_zh": "新工厂将雇用约400名工人。",
+     "ex_ja": "新しい工場は約400人を雇用する予定だ。",
+     "parts": [
+      [
+       "fact",
+       "做；制造",
+       "作る"
+      ],
+      [
+       "-ory",
+       "场所",
+       "場所"
+      ]
+     ],
+     "note": {
+      "zh": "fact“制造”+ -ory“场所”→ 制造东西的地方 → 工厂。",
+      "ja": "fact「作る」＋ -ory「場所」→ 物を作る場所 → 工場。"
+     },
+     "forms": [
+      [
+       "factory floor",
+       "车间",
+       "工場の現場"
+      ],
+      [
+       "factory-made",
+       "工厂制造的",
+       "工場製の"
+      ]
+     ]
+    },
+    {
+     "w": "deficient",
+     "pos": "adj.",
+     "ipa": "/dɪˈfɪʃənt/",
+     "zh": "不足的；有缺陷的",
+     "ja": "不足した；欠陥のある",
+     "ex": "The audit found the safety procedures deficient.",
+     "ex_zh": "审计发现安全程序存在缺陷。",
+     "ex_ja": "監査で安全手順に不備があることがわかった。",
+     "parts": [
+      [
+       "de-",
+       "向下；缺",
+       "欠いて"
+      ],
+      [
+       "fic",
+       "做",
+       "作る"
+      ],
+      [
+       "-ent",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "de“缺”+ fic“做”→ 做得不够 → 不足的。",
+      "ja": "de「欠く」＋ fic「作る」→ 十分に作れていない → 不足した。"
+     },
+     "forms": [
+      [
+       "deficiency (n.)",
+       "缺陷；不足",
+       "欠陥；不足"
+      ],
+      [
+       "deficient in",
+       "缺乏…",
+       "〜が不足した"
+      ]
+     ]
+    },
+    {
+     "w": "faction",
+     "pos": "n.",
+     "ipa": "/ˈfækʃən/",
+     "zh": "派系；小集团",
+     "ja": "派閥；党派",
+     "ex": "A faction within the board opposed the takeover.",
+     "ex_zh": "董事会内部的一个派系反对这次收购。",
+     "ex_ja": "取締役会内の一派が買収に反対した。",
+     "parts": [
+      [
+       "fact",
+       "做",
+       "作る"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 factio“一起行动的一伙人”，来自 facere“做”。",
+      "ja": "ラテン語 factio「一緒に行動する集団」。facere「作る」から。"
+     },
+     "forms": [
+      [
+       "rival faction",
+       "对立派系",
+       "対立する派閥"
+      ],
+      [
+       "factional (adj.)",
+       "派系的",
+       "派閥の"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "promo",
+   "title_zh": "主题：展会与促销推广",
+   "title_ja": "テーマ：展示会と販促",
+   "words": [
+    {
+     "w": "exhibitor",
+     "pos": "n.",
+     "ipa": "/ɪɡˈzɪbɪtɚ/",
+     "zh": "参展商",
+     "ja": "出展者",
+     "ex": "Each exhibitor receives a booth and two staff passes.",
+     "ex_zh": "每位参展商会获得一个展位和两张工作人员通行证。",
+     "ex_ja": "出展者にはブースとスタッフ用パス2枚が提供される。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，按整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚える。"
+     },
+     "forms": [
+      [
+       "exhibit (v.)",
+       "展出",
+       "展示する"
+      ],
+      [
+       "exhibition (n.)",
+       "展览会",
+       "展示会"
+      ]
+     ]
+    },
+    {
+     "w": "giveaway",
+     "pos": "n.",
+     "ipa": "/ˈɡɪvəˌweɪ/",
+     "zh": "赠品；免费赠送",
+     "ja": "景品；無料配布",
+     "ex": "The booth handed out pens and other giveaways.",
+     "ex_zh": "展位发放了钢笔和其他赠品。",
+     "ex_ja": "ブースではペンなどの景品が配られた。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，按整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚える。"
+     },
+     "forms": [
+      [
+       "give away",
+       "赠送",
+       "無料で配る"
+      ],
+      [
+       "free giveaway",
+       "免费赠品",
+       "無料の景品"
+      ]
+     ],
+     "hl": "giveaways"
+    },
+    {
+     "w": "networking",
+     "pos": "n.",
+     "ipa": "/ˈnɛtˌwɝkɪŋ/",
+     "zh": "人脉交流；社交",
+     "ja": "人脈作り；交流",
+     "ex": "The conference offers many networking opportunities.",
+     "ex_zh": "这次会议提供了很多人脉交流的机会。",
+     "ex_ja": "その会議には人脈作りの機会がたくさんある。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，按整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚える。"
+     },
+     "forms": [
+      [
+       "networking event",
+       "交流活动",
+       "交流イベント"
+      ],
+      [
+       "network (v.)",
+       "建立人脉",
+       "人脈を築く"
+      ]
+     ]
+    },
+    {
+     "w": "expo",
+     "pos": "n.",
+     "ipa": "/ˈɛkspoʊ/",
+     "zh": "博览会；展览",
+     "ja": "博覧会；展示会",
+     "ex": "Our firm will present new software at the trade expo.",
+     "ex_zh": "我们公司将在贸易博览会上展示新软件。",
+     "ex_ja": "当社は貿易博覧会で新しいソフトを発表する。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，按整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚える。"
+     },
+     "forms": [
+      [
+       "trade expo",
+       "贸易博览会",
+       "貿易博"
+      ],
+      [
+       "expo hall",
+       "展馆",
+       "展示ホール"
+      ]
+     ]
+    },
+    {
+     "w": "pavilion",
+     "pos": "n.",
+     "ipa": "/pəˈvɪljən/",
+     "zh": "展馆；大帐篷",
+     "ja": "パビリオン；仮設展示館",
+     "ex": "The automaker built a large pavilion at the fair.",
+     "ex_zh": "这家汽车制造商在博览会上搭建了一个大型展馆。",
+     "ex_ja": "その自動車メーカーは博覧会に大きなパビリオンを建てた。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，按整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚える。"
+     },
+     "forms": [
+      [
+       "national pavilion",
+       "国家馆",
+       "国別パビリオン"
+      ],
+      [
+       "pavilion entrance",
+       "展馆入口",
+       "パビリオンの入口"
+      ]
+     ]
+    },
+    {
+     "w": "kiosk",
+     "pos": "n.",
+     "ipa": "/ˈkiˌɑsk/",
+     "zh": "自助服务亭；小售亭",
+     "ja": "キオスク；売店",
+     "ex": "Visitors can print their badges at the self-service kiosk.",
+     "ex_zh": "参观者可以在自助服务亭打印自己的胸牌。",
+     "ex_ja": "来場者はセルフサービスの端末で名札を印刷できる。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，按整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚える。"
+     },
+     "forms": [
+      [
+       "information kiosk",
+       "信息亭",
+       "案内所"
+      ],
+      [
+       "ticket kiosk",
+       "售票亭",
+       "チケット売場"
+      ]
+     ]
+    },
+    {
+     "w": "teaser",
+     "pos": "n.",
+     "ipa": "/ˈtizɚ/",
+     "zh": "预告；引人期待的宣传",
+     "ja": "予告広告；ティザー",
+     "ex": "The company released a teaser before the product launch.",
+     "ex_zh": "公司在产品发布前先推出了预告。",
+     "ex_ja": "同社は製品発売前に予告広告を公開した。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，按整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚える。"
+     },
+     "forms": [
+      [
+       "teaser campaign",
+       "预热宣传",
+       "ティザーキャンペーン"
+      ],
+      [
+       "teaser video",
+       "预告视频",
+       "予告動画"
+      ]
+     ]
+    },
+    {
+     "w": "testimonial",
+     "pos": "n.",
+     "ipa": "/ˌtɛstəˈmoʊniəl/",
+     "zh": "客户评价；推荐语",
+     "ja": "利用者の声；推薦の言葉",
+     "ex": "The website features testimonials from satisfied customers.",
+     "ex_zh": "网站上刊登了满意客户的评价。",
+     "ex_ja": "ウェブサイトには満足した顧客の声が載っている。",
+     "parts": [
+      [
+       "test",
+       "证人；证明",
+       "証人"
+      ],
+      [
+       "-imonial",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 testis“证人”，testimonial 指为产品作“证”的话。",
+      "ja": "ラテン語 testis「証人」。商品を保証する言葉が testimonial。"
+     },
+     "forms": [
+      [
+       "customer testimonial",
+       "客户评价",
+       "顧客の声"
+      ],
+      [
+       "testimony (n.)",
+       "证词",
+       "証言"
+      ]
+     ]
+    },
+    {
+     "w": "leaflet",
+     "pos": "n.",
+     "ipa": "/ˈlifˌlɪt/",
+     "zh": "传单；小册子",
+     "ja": "チラシ；小冊子",
+     "ex": "Staff gave a leaflet to everyone who entered the hall.",
+     "ex_zh": "工作人员给每位进入大厅的人发了一张传单。",
+     "ex_ja": "スタッフはホールに入る全員にチラシを配った。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，按整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚える。"
+     },
+     "forms": [
+      [
+       "distribute leaflets",
+       "发传单",
+       "チラシを配る"
+      ],
+      [
+       "leaflet drop",
+       "投放传单",
+       "チラシの配布"
+      ]
+     ]
+    },
+    {
+     "w": "freebie",
+     "pos": "n.",
+     "ipa": "/ˈfribi/",
+     "zh": "免费赠品",
+     "ja": "無料の景品",
+     "ex": "Visitors lined up to collect freebies at the expo.",
+     "ex_zh": "参观者在博览会上排队领取免费赠品。",
+     "ex_ja": "来場者は博覧会で無料の景品をもらうために並んだ。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，按整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚える。"
+     },
+     "forms": [
+      [
+       "free sample",
+       "免费试用品",
+       "無料サンプル"
+      ],
+      [
+       "promotional item",
+       "促销品",
+       "販促品"
+      ]
+     ],
+     "hl": "freebies"
+    },
+    {
+     "w": "sampler",
+     "pos": "n.",
+     "ipa": "/ˈsæmplɚ/",
+     "zh": "试吃试用装；拼盘",
+     "ja": "お試しセット；盛り合わせ",
+     "ex": "The cafe offers a sampler of its five most popular teas.",
+     "ex_zh": "这家咖啡馆提供五款最受欢迎茶的试饮套装。",
+     "ex_ja": "そのカフェは人気の茶5種のお試しセットを提供している。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，按整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚える。"
+     },
+     "forms": [
+      [
+       "sample (n.)",
+       "样品",
+       "サンプル"
+      ],
+      [
+       "sampler pack",
+       "试用套装",
+       "お試しパック"
+      ]
+     ]
+    },
+    {
+     "w": "endorsement",
+     "pos": "n.",
+     "ipa": "/ɪnˈdɔrsmənt/",
+     "zh": "代言；认可；背书",
+     "ja": "推薦；支持表明",
+     "ex": "A celebrity endorsement boosted sales of the new line.",
+     "ex_zh": "名人代言提升了新系列的销量。",
+     "ex_ja": "有名人の推薦で新シリーズの売上が伸びた。",
+     "parts": [
+      [
+       "en-",
+       "使",
+       "〜にする"
+      ],
+      [
+       "dorse",
+       "背部",
+       "背中"
+      ],
+      [
+       "-ment",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 endosser“写在背面”（dos“背”），在背面签字表示认可 → 背书、代言。",
+      "ja": "古フランス語 endosser「裏に書く」（dos「背」）。裏書きして承認する → 推薦。"
+     },
+     "forms": [
+      [
+       "endorse (v.)",
+       "认可；代言",
+       "推薦する"
+      ],
+      [
+       "celebrity endorsement",
+       "名人代言",
+       "有名人の推薦"
+      ]
+     ]
+    },
+    {
+     "w": "mailer",
+     "pos": "n.",
+     "ipa": "/ˈmeɪlɚ/",
+     "zh": "邮寄宣传品；邮件发送者",
+     "ja": "郵送広告；ダイレクトメール",
+     "ex": "A colorful mailer announced the grand opening sale.",
+     "ex_zh": "一份色彩鲜艳的邮寄宣传单宣布了开业大促。",
+     "ex_ja": "カラフルなダイレクトメールがオープンセールを知らせた。",
+     "parts": [
+      [
+       "mail",
+       "邮件",
+       "郵便"
+      ],
+      [
+       "-er",
+       "做…的物",
+       "〜するもの"
+      ]
+     ],
+     "note": {
+      "zh": "mail“邮件”+ -er → 寄送的宣传品。mail 来自古法语 male“袋子”。",
+      "ja": "mail「郵便」＋ -er → 送られる広告物。mail は古フランス語 male「袋」から。"
+     },
+     "forms": [
+      [
+       "direct mailer",
+       "直邮广告",
+       "ダイレクトメール"
+      ],
+      [
+       "mailing list",
+       "邮寄名单",
+       "送付先リスト"
+      ]
+     ]
+    },
+    {
+     "w": "signup",
+     "pos": "n.",
+     "ipa": "/ˈsaɪnˌʌp/",
+     "zh": "注册；报名",
+     "ja": "登録；申し込み",
+     "ex": "Online signup for the workshop closes on Friday.",
+     "ex_zh": "研讨会的在线报名周五截止。",
+     "ex_ja": "ワークショップのオンライン申し込みは金曜日に締め切られる。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，按整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚える。"
+     },
+     "forms": [
+      [
+       "signup sheet",
+       "报名表",
+       "申込用紙"
+      ],
+      [
+       "sign up for",
+       "报名参加…",
+       "〜に申し込む"
+      ]
+     ]
+    },
+    {
+     "w": "crowdfunding",
+     "pos": "n.",
+     "ipa": "/ˈkraʊdˌfʌndɪŋ/",
+     "zh": "众筹",
+     "ja": "クラウドファンディング",
+     "ex": "The startup raised its launch budget through crowdfunding.",
+     "ex_zh": "这家初创公司通过众筹筹集了发布预算。",
+     "ex_ja": "そのスタートアップはクラウドファンディングで発売予算を集めた。",
+     "parts": [
+      [
+       "crowd",
+       "人群",
+       "群衆"
+      ],
+      [
+       "funding",
+       "资金",
+       "資金"
+      ]
+     ],
+     "note": {
+      "zh": "由 crowd“人群”+ funding“出资”复合而成，指向大众集资。",
+      "ja": "crowd「群衆」＋ funding「資金提供」の複合語。大勢から資金を集める。"
+     },
+     "forms": [
+      [
+       "crowdfunding campaign",
+       "众筹活动",
+       "クラウドファンディングの募集"
+      ],
+      [
+       "crowdfund (v.)",
+       "众筹",
+       "資金を募る"
+      ]
+     ]
+    },
+    {
+     "w": "tradeshow",
+     "pos": "n.",
+     "ipa": "/ˈtreɪdˌʃoʊ/",
+     "zh": "行业展会",
+     "ja": "見本市；展示会",
+     "ex": "We booked a double booth at the annual tradeshow.",
+     "ex_zh": "我们在年度行业展会上订了一个双倍展位。",
+     "ex_ja": "私たちは毎年の見本市でダブルブースを予約した。",
+     "parts": [
+      [
+       "trade",
+       "贸易",
+       "取引"
+      ],
+      [
+       "show",
+       "展示",
+       "展示"
+      ]
+     ],
+     "note": {
+      "zh": "由 trade“贸易”+ show“展示”复合而成；也写作 trade show。",
+      "ja": "trade「取引」＋ show「展示」の複合語。trade show とも書く。"
+     },
+     "forms": [
+      [
+       "attend a tradeshow",
+       "参加展会",
+       "見本市に参加する"
+      ],
+      [
+       "tradeshow booth",
+       "展会展位",
+       "見本市のブース"
+      ]
+     ]
+    },
+    {
+     "w": "statistic",
+     "pos": "n.",
+     "ipa": "/stəˈtɪstɪk/",
+     "zh": "统计数字；统计数据",
+     "ja": "統計の数字",
+     "ex": "One statistic in the sales report caught everyone's attention.",
+     "ex_zh": "销售报告中有一个统计数字引起了所有人的注意。",
+     "ex_ja": "売上報告書の中のある統計の数字が全員の目を引いた。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，按整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚える。"
+     },
+     "forms": [
+      [
+       "statistics (n.)",
+       "统计学；统计",
+       "統計"
+      ],
+      [
+       "statistical (adj.)",
+       "统计的",
+       "統計的な"
+      ]
+     ]
+    },
+    {
+     "w": "ribbon",
+     "pos": "n.",
+     "ipa": "/ˈrɪbən/",
+     "zh": "丝带；彩带",
+     "ja": "リボン",
+     "ex": "The mayor cut the ribbon to open the new exhibition hall.",
+     "ex_zh": "市长剪彩，为新展厅揭幕。",
+     "ex_ja": "市長はテープカットで新しい展示ホールを開館した。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，按整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚える。"
+     },
+     "forms": [
+      [
+       "ribbon cutting",
+       "剪彩",
+       "テープカット"
+      ],
+      [
+       "blue ribbon",
+       "优胜奖带",
+       "最優秀の証"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "estate",
+   "title_zh": "主题：房地产买卖与租住",
+   "title_ja": "テーマ：不動産の売買と賃貸",
+   "words": [
+    {
+     "w": "sublet",
+     "pos": "v.",
+     "ipa": "/sʌbˈlɛt/",
+     "zh": "转租",
+     "ja": "転貸する",
+     "ex": "She decided to sublet the office to a young design firm.",
+     "ex_zh": "她决定把办公室转租给一家年轻的设计公司。",
+     "ex_ja": "彼女はオフィスを若いデザイン会社に又貸しすることにした。",
+     "parts": [
+      [
+       "sub-",
+       "在下",
+       "下に"
+      ],
+      [
+       "let",
+       "出租",
+       "貸す"
+      ]
+     ],
+     "note": {
+      "zh": "sub“在下（再一层）”+ let“出租”→ 再转手租出去 → 转租。",
+      "ja": "sub「下（二次）」＋ let「貸す」→ 借りた物をさらに貸す → 転貸。"
+     },
+     "forms": [
+      [
+       "sublease (n./v.)",
+       "转租",
+       "転貸"
+      ],
+      [
+       "sublet agreement",
+       "转租协议",
+       "転貸契約"
+      ]
+     ]
+    },
+    {
+     "w": "realtor",
+     "pos": "n.",
+     "ipa": "/ˈriːəltɚ/",
+     "zh": "房地产经纪人",
+     "ja": "不動産業者",
+     "ex": "Our realtor arranged three viewings for Saturday.",
+     "ex_zh": "我们的房产经纪人安排了周六的三次看房。",
+     "ex_ja": "不動産業者が土曜日に3件の内見を手配してくれた。",
+     "parts": [
+      [
+       "real",
+       "不动产的",
+       "不動産の"
+      ],
+      [
+       "-tor",
+       "做…的人",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "real“不动产的”+ -tor“人”→ 经营不动产的人。美国用词。",
+      "ja": "real「不動産の」＋ -tor「人」→ 不動産を扱う人。米国の語。"
+     },
+     "forms": [
+      [
+       "real estate",
+       "房地产",
+       "不動産"
+      ],
+      [
+       "realty (n.)",
+       "不动产",
+       "不動産"
+      ]
+     ]
+    },
+    {
+     "w": "tenancy",
+     "pos": "n.",
+     "ipa": "/ˈtɛnənsi/",
+     "zh": "租赁期；租用",
+     "ja": "賃借期間；賃貸借",
+     "ex": "Her tenancy ends on the last day of next month.",
+     "ex_zh": "她的租期在下个月最后一天结束。",
+     "ex_ja": "彼女の賃貸期間は来月末日で終わる。",
+     "parts": [
+      [
+       "ten",
+       "握住",
+       "保つ"
+      ],
+      [
+       "-ancy",
+       "状态",
+       "状態"
+      ]
+     ],
+     "note": {
+      "zh": "ten“握住”+ -ancy → 把房子握在手里的状态 → 租用。",
+      "ja": "ten「保つ」＋ -ancy → 住まいを保持している状態 → 賃借。"
+     },
+     "forms": [
+      [
+       "tenant (n.)",
+       "租户",
+       "借主"
+      ],
+      [
+       "tenancy agreement",
+       "租赁合同",
+       "賃貸借契約"
+      ]
+     ]
+    },
+    {
+     "w": "apartment",
+     "pos": "n.",
+     "ipa": "/əˈpɑrtmənt/",
+     "zh": "公寓",
+     "ja": "アパート；マンション",
+     "ex": "The company provides each transferred worker with a furnished apartment.",
+     "ex_zh": "公司为每位调动的员工提供带家具的公寓。",
+     "ex_ja": "会社は転勤する社員に家具付きのアパートを用意する。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，按整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚える。"
+     },
+     "forms": [
+      [
+       "apartment building",
+       "公寓楼",
+       "集合住宅"
+      ],
+      [
+       "studio apartment",
+       "单间公寓",
+       "ワンルーム"
+      ]
+     ],
+     "hl": "apartment"
+    },
+    {
+     "w": "townhouse",
+     "pos": "n.",
+     "ipa": "/ˈtaʊnˌhaʊs/",
+     "zh": "联排住宅",
+     "ja": "タウンハウス",
+     "ex": "They bought a three-story townhouse near the station.",
+     "ex_zh": "他们在车站附近买了一栋三层联排住宅。",
+     "ex_ja": "彼らは駅の近くに3階建てのタウンハウスを買った。",
+     "parts": [
+      [
+       "town",
+       "城镇",
+       "町"
+      ],
+      [
+       "house",
+       "房子",
+       "家"
+      ]
+     ],
+     "note": {
+      "zh": "由 town“城镇”+ house“房子”复合而成，指连成一排的城市住宅。",
+      "ja": "town「町」＋ house「家」の複合語。連棟式の都市型住宅。"
+     },
+     "forms": [
+      [
+       "townhouse complex",
+       "联排住宅区",
+       "タウンハウス団地"
+      ],
+      [
+       "detached house",
+       "独栋住宅",
+       "一戸建て"
+      ]
+     ]
+    },
+    {
+     "w": "homeowner",
+     "pos": "n.",
+     "ipa": "/ˈhoʊmˌoʊnɚ/",
+     "zh": "房主；自有住房者",
+     "ja": "持ち家の所有者",
+     "ex": "Homeowners must pay property tax every year.",
+     "ex_zh": "房主每年都必须缴纳房产税。",
+     "ex_ja": "住宅所有者は毎年固定資産税を払わなければならない。",
+     "parts": [
+      [
+       "home",
+       "家",
+       "家"
+      ],
+      [
+       "owner",
+       "所有者",
+       "所有者"
+      ]
+     ],
+     "note": {
+      "zh": "由 home“家”+ owner“所有者”复合而成。",
+      "ja": "home「家」＋ owner「所有者」の複合語。"
+     },
+     "forms": [
+      [
+       "homeowners insurance",
+       "房屋保险",
+       "住宅所有者保険"
+      ],
+      [
+       "home ownership",
+       "拥有住房",
+       "住宅の所有"
+      ]
+     ]
+    },
+    {
+     "w": "neighborhood",
+     "pos": "n.",
+     "ipa": "/ˈneɪbɚˌhʊd/",
+     "zh": "街区；邻近地区",
+     "ja": "近隣；地域",
+     "ex": "The bakery has served the neighborhood for thirty years.",
+     "ex_zh": "这家面包店已为这一带居民服务了三十年。",
+     "ex_ja": "そのパン屋は30年間この地域に親しまれている。",
+     "parts": [
+      [
+       "neighbor",
+       "邻居",
+       "隣人"
+      ],
+      [
+       "-hood",
+       "状态；群体",
+       "集まり"
+      ]
+     ],
+     "note": {
+      "zh": "neighbor“邻居”+ -hood“集合、状态”→ 邻居们生活的区域。",
+      "ja": "neighbor「隣人」＋ -hood「集まり」→ 隣人が暮らす地域。"
+     },
+     "forms": [
+      [
+       "in the neighborhood",
+       "在附近",
+       "近所に"
+      ],
+      [
+       "neighboring (adj.)",
+       "邻近的",
+       "隣接する"
+      ]
+     ]
+    },
+    {
+     "w": "foreclosure",
+     "pos": "n.",
+     "ipa": "/fɔrˈkloʊʒɚ/",
+     "zh": "抵押品赎回权丧失；法拍",
+     "ja": "抵当権の実行；差し押さえ",
+     "ex": "Many families faced foreclosure when interest rates rose.",
+     "ex_zh": "利率上升时，许多家庭面临房产被法拍。",
+     "ex_ja": "金利が上がると、多くの家庭が差し押さえに直面した。",
+     "parts": [
+      [
+       "fore-",
+       "在外",
+       "外に"
+      ],
+      [
+       "clos",
+       "关闭",
+       "閉じる"
+      ],
+      [
+       "-ure",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "古法语 forclore“关在门外”：借款人被挡在房子之外。close 与 clos 同源。",
+      "ja": "古フランス語 forclore「外に閉め出す」。借り手が家から締め出される。"
+     },
+     "forms": [
+      [
+       "foreclose (v.)",
+       "取消赎回权",
+       "抵当権を実行する"
+      ],
+      [
+       "foreclosure sale",
+       "法拍",
+       "競売"
+      ]
+     ]
+    },
+    {
+     "w": "leaseholder",
+     "pos": "n.",
+     "ipa": "/ˈlisˌhoʊldɚ/",
+     "zh": "租约持有人；承租人",
+     "ja": "賃借権者",
+     "ex": "The leaseholder is responsible for minor repairs.",
+     "ex_zh": "承租人负责小型维修。",
+     "ex_ja": "賃借人が小さな修繕の責任を負う。",
+     "parts": [
+      [
+       "lease",
+       "租约",
+       "賃貸契約"
+      ],
+      [
+       "hold",
+       "持有",
+       "持つ"
+      ],
+      [
+       "-er",
+       "人",
+       "人"
+      ]
+     ],
+     "note": {
+      "zh": "由 lease“租约”+ hold“持有”+ -er“人”复合而成。",
+      "ja": "lease「賃貸契約」＋ hold「持つ」＋ -er「人」の複合語。"
+     },
+     "forms": [
+      [
+       "freeholder (n.)",
+       "产权所有人",
+       "自由保有権者"
+      ],
+      [
+       "lease agreement",
+       "租赁合同",
+       "賃貸契約"
+      ]
+     ]
+    },
+    {
+     "w": "walkthrough",
+     "pos": "n.",
+     "ipa": "/ˈwɔkˌθru/",
+     "zh": "房屋验收；实地查看",
+     "ja": "内覧；立ち会い確認",
+     "ex": "A final walkthrough is scheduled before the closing date.",
+     "ex_zh": "在交割日之前安排了最后一次房屋验收。",
+     "ex_ja": "引き渡し日の前に最終確認の内覧が予定されている。",
+     "parts": [
+      [
+       "walk",
+       "走",
+       "歩く"
+      ],
+      [
+       "through",
+       "穿过",
+       "通り抜けて"
+      ]
+     ],
+     "note": {
+      "zh": "由 walk“走”+ through“穿过”复合而成，指走遍房子逐处检查。",
+      "ja": "walk「歩く」＋ through「通り抜けて」の複合語。家を一通り見て回って確認する。"
+     },
+     "forms": [
+      [
+       "final walkthrough",
+       "最终验房",
+       "最終確認"
+      ],
+      [
+       "walk through (v.)",
+       "带着走一遍",
+       "一通り見て回る"
+      ]
+     ]
+    },
+    {
+     "w": "utilities",
+     "pos": "n.",
+     "ipa": "/juˈtɪlətiz/",
+     "zh": "水电煤等公用事业费",
+     "ja": "光熱費；公共料金",
+     "ex": "Utilities are included in the monthly rent.",
+     "ex_zh": "月租中包含水电煤等费用。",
+     "ex_ja": "月々の家賃に光熱費が含まれている。",
+     "parts": [
+      [
+       "ut",
+       "使用",
+       "使う"
+      ],
+      [
+       "-ility",
+       "性质；名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "ut“使用”+ -ility → 有用的东西 → 公用设施、水电气费。ut 词根已学过。",
+      "ja": "ut「使う」＋ -ility → 役立つもの → 公共サービス・光熱費。"
+     },
+     "forms": [
+      [
+       "utility bill",
+       "水电费账单",
+       "公共料金の請求書"
+      ],
+      [
+       "utilities included",
+       "含水电费",
+       "光熱費込み"
+      ]
+     ],
+     "hl": "Utilities"
+    },
+    {
+     "w": "closing",
+     "pos": "n.",
+     "ipa": "/ˈkloʊzɪŋ/",
+     "zh": "交割；成交",
+     "ja": "クロージング；契約完了",
+     "ex": "The closing is expected to take place on March 3.",
+     "ex_zh": "交割预计于3月3日进行。",
+     "ex_ja": "契約の完了は3月3日に行われる見込みだ。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，按整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚える。"
+     },
+     "forms": [
+      [
+       "closing date",
+       "交割日",
+       "引き渡し日"
+      ],
+      [
+       "closing costs",
+       "交割费用",
+       "諸費用"
+      ]
+     ]
+    },
+    {
+     "w": "easement",
+     "pos": "n.",
+     "ipa": "/ˈizmənt/",
+     "zh": "地役权",
+     "ja": "地役権",
+     "ex": "The utility company holds an easement across the property.",
+     "ex_zh": "公用事业公司在该地块上拥有地役权。",
+     "ex_ja": "公共事業会社はその敷地を通る地役権を持っている。",
+     "parts": [
+      [
+       "ease",
+       "方便；便利",
+       "便利さ"
+      ],
+      [
+       "-ment",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "ease“方便”+ -ment → 使用他人土地的便利权利 → 地役权。",
+      "ja": "ease「便利」＋ -ment → 他人の土地を使える便宜 → 地役権。"
+     },
+     "forms": [
+      [
+       "grant an easement",
+       "授予地役权",
+       "地役権を与える"
+      ],
+      [
+       "right of way",
+       "通行权",
+       "通行権"
+      ]
+     ]
+    },
+    {
+     "w": "staging",
+     "pos": "n.",
+     "ipa": "/ˈsteɪdʒɪŋ/",
+     "zh": "房屋布置展示；舞台搭建",
+     "ja": "ホームステージング；演出",
+     "ex": "Professional staging helped the house sell within a week.",
+     "ex_zh": "专业的房屋布置让这栋房子一周内就卖出去了。",
+     "ex_ja": "プロによる演出で家は1週間で売れた。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，按整词记忆。",
+      "ja": "信頼できる語根分解はないので、語全体で覚える。"
+     },
+     "forms": [
+      [
+       "home staging",
+       "房屋布置展示",
+       "ホームステージング"
+      ],
+      [
+       "stage (v.)",
+       "布置；上演",
+       "演出する"
+      ]
+     ]
+    },
+    {
+     "w": "avenue",
+     "pos": "n.",
+     "ipa": "/ˈævəˌnu/",
+     "zh": "大街；途径",
+     "ja": "大通り；手段",
+     "ex": "The new office sits on a busy avenue downtown.",
+     "ex_zh": "新办公室位于市中心一条繁忙的大街上。",
+     "ex_ja": "新しいオフィスは繁華街の大通り沿いにある。",
+     "parts": [
+      [
+       "a-",
+       "向",
+       "〜へ"
+      ],
+      [
+       "ven",
+       "来",
+       "来る"
+      ]
+     ],
+     "note": {
+      "zh": "a（=ad）“向”+ ven“来”→ 通向这里的路 → 大街；比喻“途径”。",
+      "ja": "a（=ad）「〜へ」＋ ven「来る」→ 向かって来る道 → 大通り。比喩で「手段」。"
+     },
+     "forms": [
+      [
+       "explore every avenue",
+       "探索一切途径",
+       "あらゆる手段を探る"
+      ],
+      [
+       "avenue of approach",
+       "途径",
+       "手段"
+      ]
+     ]
+    },
+    {
+     "w": "covenant",
+     "pos": "n.",
+     "ipa": "/ˈkʌvənənt/",
+     "zh": "契约条款；限制性条款",
+     "ja": "契約条項；約款",
+     "ex": "A covenant in the deed bans commercial signs on the street.",
+     "ex_zh": "地契中的一项条款禁止在街上设置商业招牌。",
+     "ex_ja": "権利証書の約款で、通りへの商業看板が禁止されている。",
+     "parts": [
+      [
+       "co-",
+       "一起",
+       "共に"
+      ],
+      [
+       "ven",
+       "来",
+       "来る"
+      ],
+      [
+       "-ant",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "co“一起”+ ven“来”→ 双方走到一起达成的约定 → 契约。",
+      "ja": "co「共に」＋ ven「来る」→ 双方が集まって結ぶ約束 → 契約。"
+     },
+     "forms": [
+      [
+       "restrictive covenant",
+       "限制性条款",
+       "制限条項"
+      ],
+      [
+       "convene (v.)",
+       "召集",
+       "招集する"
+      ]
+     ]
+    },
+    {
+     "w": "homebuyer",
+     "pos": "n.",
+     "ipa": "/ˈhoʊmˌbaɪɚ/",
+     "zh": "购房者",
+     "ja": "住宅購入者",
+     "ex": "First-time homebuyers may qualify for a special loan.",
+     "ex_zh": "首次购房者可能有资格申请特别贷款。",
+     "ex_ja": "初めての住宅購入者は特別なローンを利用できる場合がある。",
+     "parts": [
+      [
+       "home",
+       "家",
+       "家"
+      ],
+      [
+       "buyer",
+       "买家",
+       "買い手"
+      ]
+     ],
+     "note": {
+      "zh": "由 home“家”+ buyer“买家”复合而成。",
+      "ja": "home「家」＋ buyer「買い手」の複合語。"
+     },
+     "forms": [
+      [
+       "first-time homebuyer",
+       "首次购房者",
+       "初めての住宅購入者"
+      ],
+      [
+       "homebuying (n.)",
+       "购房",
+       "住宅購入"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}
