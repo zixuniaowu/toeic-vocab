@@ -1,0 +1,2446 @@
+{
+ "day": 44,
+ "date": "2026-11-16",
+ "title_zh": "四大词根 + 欺诈合规与垄断加盟创业融资",
+ "title_ja": "4つの語根＋不正・コンプライアンスと独占・加盟・起業資金",
+ "intro_zh": "今天的词根是 -sal-/-sil-/-sult-（跳）、-ver-（真实）、-lud-/-lus-（玩；耍弄）、-tort-（扭）；主题是欺诈、违规与合规调查，以及垄断、加盟与创业融资。",
+ "intro_ja": "今日の語根は -sal-・-sil-・-sult-（跳ぶ）、-ver-（真実）、-lud-・-lus-（遊ぶ；もてあそぶ）、-tort-（ねじる）。テーマは不正・違反とコンプライアンス調査、独占・フランチャイズと起業・資金調達。",
+ "voice": "en-US-AriaNeural",
+ "roots": [
+  {
+   "root": "-sal- / -sil- / -sult-",
+   "origin": "Latin salire, saltus",
+   "zh": "跳",
+   "ja": "跳ぶ",
+   "exp_zh": "来自拉丁语 salire（跳）。跳回来 → result；跳到别人身上 → insult；跳回原状 → resilient。⚠️ salary（薪水）来自 sal“盐”，不属于此词根。",
+   "exp_ja": "ラテン語 salire（跳ぶ）から。跳ね返る → result；飛びかかる → insult；元に跳ね戻る → resilient。⚠️ salary（給料）は sal「塩」由来で別語根。",
+   "examples": [
+    "result",
+    "insult",
+    "resilient",
+    "salient",
+    "assault"
+   ]
+  },
+  {
+   "root": "-ver-",
+   "origin": "Latin verus",
+   "zh": "真实",
+   "ja": "真実",
+   "exp_zh": "来自拉丁语 verus（真的）。使成真 → verify；真实性 → veracity；名副其实 → veritable。⚠️ very 也源自 verus，但现在已是普通副词；avert、convert 的 vert 是“转”，不是此词根。",
+   "exp_ja": "ラテン語 verus（真実の）から。真実にする → verify；真実性 → veracity；まぎれもない → veritable。⚠️ avert・convert の vert は「回す」で別語根。",
+   "examples": [
+    "veracity",
+    "verifiable",
+    "unverified",
+    "veritable",
+    "aver"
+   ]
+  },
+  {
+   "root": "-lud- / -lus-",
+   "origin": "Latin ludere, lusus",
+   "zh": "玩；耍弄",
+   "ja": "遊ぶ；もてあそぶ",
+   "exp_zh": "来自拉丁语 ludere（玩；嘲弄）。向着“玩”一下 → allude；玩着躲出去 → elude；被耍弄的感觉 → illusion。⚠️ ludicrous 同源，但 loud（大声）不属于此词根。",
+   "exp_ja": "ラテン語 ludere（遊ぶ；からかう）から。軽く触れる → allude；すり抜ける → elude；だまされた感覚 → illusion。⚠️ loud（大声の）は別語。",
+   "examples": [
+    "allude",
+    "elude",
+    "delude",
+    "illusion",
+    "prelude",
+    "collude"
+   ]
+  },
+  {
+   "root": "-tort-",
+   "origin": "Latin torquere, tortus",
+   "zh": "扭",
+   "ja": "ねじる",
+   "exp_zh": "来自拉丁语 torquere（扭）。彻底扭歪 → distort；向外拧出 → extort；把话拧回去 → retort。⚠️ torture（折磨）同源；tortoise（乌龟）来源不确定，不要硬套“扭”。",
+   "exp_ja": "ラテン語 torquere（ねじる）から。ねじ曲げる → distort；ねじり取る → extort；言い返す → retort。⚠️ tortoise（亀）は由来が不確かなので同源とは言えない。",
+   "examples": [
+    "distort",
+    "extort",
+    "contort",
+    "retort",
+    "tortuous"
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "sult",
+   "title_zh": "词根 -sal- / -sil- / -sult-：跳",
+   "title_ja": "語根 -sal- / -sil- / -sult-：跳ぶ",
+   "words": [
+    {
+     "w": "result",
+     "pos": "n./v.",
+     "ipa": "/rɪˈzʌlt/",
+     "zh": "结果；（因…）产生",
+     "ja": "結果；（〜の）結果として生じる",
+     "ex": "The new training program resulted in a 20 percent increase in sales.",
+     "ex_zh": "新的培训项目使销售额增长了20%。",
+     "ex_ja": "新しい研修プログラムの結果、売上が20％伸びた。",
+     "parts": [
+      [
+       "re-",
+       "回",
+       "後ろへ"
+      ],
+      [
+       "sult",
+       "跳",
+       "跳ぶ"
+      ]
+     ],
+     "note": {
+      "zh": "re“回”+ sult“跳”→ 跳回来的东西 → 结果。常考 result in（导致）/ result from（由…引起）。",
+      "ja": "re「後ろへ」＋ sult「跳ぶ」→ 跳ね返ってくるもの → 結果。result in（〜をもたらす）/ result from（〜から生じる）が頻出。"
+     },
+     "forms": [
+      [
+       "result in",
+       "导致",
+       "〜という結果になる"
+      ],
+      [
+       "result from",
+       "由…引起",
+       "〜から生じる"
+      ]
+     ]
+    },
+    {
+     "w": "resultant",
+     "pos": "adj.",
+     "ipa": "/rɪˈzʌltənt/",
+     "zh": "由此产生的",
+     "ja": "結果として生じる",
+     "ex": "The resultant delay forced us to reschedule the product launch.",
+     "ex_zh": "由此造成的延误迫使我们重新安排产品发布时间。",
+     "ex_ja": "その結果生じた遅れのため、製品発表の日程を組み直さざるを得なかった。",
+     "parts": [
+      [
+       "re-",
+       "回",
+       "後ろへ"
+      ],
+      [
+       "sult",
+       "跳",
+       "跳ぶ"
+      ],
+      [
+       "-ant",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "result 的形容词形式，指“作为结果而产生的”。",
+      "ja": "result の形容詞形で「結果として生じた」。"
+     },
+     "forms": [
+      [
+       "resultant cost",
+       "由此产生的费用",
+       "結果として生じる費用"
+      ],
+      [
+       "resulting (adj.)",
+       "随之而来的",
+       "結果として生じる"
+      ]
+     ]
+    },
+    {
+     "w": "insult",
+     "pos": "n./v.",
+     "ipa": "/ɪnˈsʌlt/",
+     "zh": "侮辱；冒犯",
+     "ja": "侮辱する；侮辱",
+     "ex": "The customer felt insulted when the clerk ignored his question.",
+     "ex_zh": "店员无视他的问题，这位顾客感到受到了冒犯。",
+     "ex_ja": "店員が質問を無視したので、その客は侮辱されたと感じた。",
+     "parts": [
+      [
+       "in-",
+       "向上",
+       "〜の上へ"
+      ],
+      [
+       "sult",
+       "跳",
+       "跳ぶ"
+      ]
+     ],
+     "note": {
+      "zh": "in“向上”+ sult“跳”→ 跳到别人身上 → 冒犯。名词时重音在前（ˈɪnsʌlt），动词在后。",
+      "ja": "in「〜の上へ」＋ sult「跳ぶ」→ 飛びかかる → 侮辱する。名詞は前に、動詞は後ろにアクセント。"
+     },
+     "forms": [
+      [
+       "insulting (adj.)",
+       "侮辱性的",
+       "侮辱的な"
+      ],
+      [
+       "take insult",
+       "感到被冒犯",
+       "侮辱と受け取る"
+      ]
+     ]
+    },
+    {
+     "w": "resilient",
+     "pos": "adj.",
+     "ipa": "/rɪˈzɪliənt/",
+     "zh": "有韧性的；恢复力强的",
+     "ja": "回復力のある；弾力のある",
+     "ex": "Our supply chain proved resilient during the port strike.",
+     "ex_zh": "在港口罢工期间，我们的供应链显示出了韧性。",
+     "ex_ja": "港湾ストの間、当社のサプライチェーンは強靭であることを示した。",
+     "parts": [
+      [
+       "re-",
+       "回",
+       "後ろへ"
+      ],
+      [
+       "sil",
+       "跳",
+       "跳ぶ"
+      ],
+      [
+       "-ent",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "re“回”+ sil“跳”→ 能弹回来的 → 有韧性的。",
+      "ja": "re「後ろへ」＋ sil「跳ぶ」→ 跳ね返る → 回復力のある。"
+     },
+     "forms": [
+      [
+       "resilience (n.)",
+       "韧性；恢复力",
+       "回復力"
+      ],
+      [
+       "resilient economy",
+       "有韧性的经济",
+       "回復力のある経済"
+      ]
+     ]
+    },
+    {
+     "w": "resilience",
+     "pos": "n.",
+     "ipa": "/rɪˈzɪliəns/",
+     "zh": "韧性；恢复力",
+     "ja": "回復力；強靭さ",
+     "ex": "The report praised the firm's financial resilience during the downturn.",
+     "ex_zh": "报告称赞该公司在经济低迷期的财务韧性。",
+     "ex_ja": "報告書は、不況期における同社の財務面の強靭さを称賛した。",
+     "parts": [
+      [
+       "re-",
+       "回",
+       "後ろへ"
+      ],
+      [
+       "sil",
+       "跳",
+       "跳ぶ"
+      ],
+      [
+       "-ence",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "resilient 的名词形式。",
+      "ja": "resilient の名詞形。"
+     },
+     "forms": [
+      [
+       "build resilience",
+       "增强韧性",
+       "回復力を高める"
+      ],
+      [
+       "economic resilience",
+       "经济韧性",
+       "経済的な回復力"
+      ]
+     ]
+    },
+    {
+     "w": "salient",
+     "pos": "adj.",
+     "ipa": "/ˈseɪliənt/",
+     "zh": "显著的；突出的",
+     "ja": "顕著な；際立った",
+     "ex": "Please summarize the salient points of the contract in one page.",
+     "ex_zh": "请用一页纸概括合同的要点。",
+     "ex_ja": "契約の要点を1ページにまとめてください。",
+     "parts": [
+      [
+       "sal",
+       "跳",
+       "跳ぶ"
+      ],
+      [
+       "-ent",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "sal“跳”→ 跳出来的 → 突出的。常见搭配 salient point / feature。",
+      "ja": "sal「跳ぶ」→ 飛び出した → 際立った。salient point / feature が定番。"
+     },
+     "forms": [
+      [
+       "salient feature",
+       "显著特点",
+       "際立った特徴"
+      ],
+      [
+       "salient point",
+       "要点",
+       "要点"
+      ]
+     ]
+    },
+    {
+     "w": "assault",
+     "pos": "n./v.",
+     "ipa": "/əˈsɔlt/",
+     "zh": "袭击；猛烈攻击",
+     "ja": "攻撃；襲う",
+     "ex": "The company faced an assault on its reputation after the data leak.",
+     "ex_zh": "数据泄露后，公司的声誉遭到了猛烈冲击。",
+     "ex_ja": "情報漏えいの後、同社は評判への猛攻にさらされた。",
+     "parts": [
+      [
+       "as-",
+       "向（ad-）",
+       "〜へ"
+      ],
+      [
+       "sault",
+       "跳（sal-）",
+       "跳ぶ"
+      ]
+     ],
+     "note": {
+      "zh": "as（ad-）“向”+ sault“跳”→ 扑向 → 攻击。",
+      "ja": "as（ad-「〜へ」）＋ sault「跳ぶ」→ 飛びかかる → 攻撃。"
+     },
+     "forms": [
+      [
+       "assault on",
+       "对…的攻击",
+       "〜への攻撃"
+      ],
+      [
+       "verbal assault",
+       "言语攻击",
+       "暴言"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ver",
+   "title_zh": "词根 -ver-：真实",
+   "title_ja": "語根 -ver-：真実",
+   "words": [
+    {
+     "w": "veracity",
+     "pos": "n.",
+     "ipa": "/vəˈræsəti/",
+     "zh": "真实性；诚实",
+     "ja": "真実性；正確さ",
+     "ex": "The editor checked the veracity of every statement in the article.",
+     "ex_zh": "编辑核实了文章中每一句话的真实性。",
+     "ex_ja": "編集者は記事中のすべての記述の真実性を確認した。",
+     "parts": [
+      [
+       "ver",
+       "真实",
+       "真実の"
+      ],
+      [
+       "-ity",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 verus“真的”+ -ity → 真实性。",
+      "ja": "ラテン語 verus「真実の」＋ -ity → 真実性。"
+     },
+     "forms": [
+      [
+       "question the veracity",
+       "质疑真实性",
+       "真実性を疑う"
+      ],
+      [
+       "veracious (adj.)",
+       "诚实的；真实的",
+       "正直な"
+      ]
+     ]
+    },
+    {
+     "w": "verifiable",
+     "pos": "adj.",
+     "ipa": "/ˈvɛrəˌfaɪəbəl/",
+     "zh": "可核实的；可证实的",
+     "ja": "検証可能な",
+     "ex": "All expense claims must be supported by verifiable receipts.",
+     "ex_zh": "所有费用报销都必须有可核实的收据作为凭证。",
+     "ex_ja": "すべての経費申請は、確認可能な領収書で裏付けられなければならない。",
+     "parts": [
+      [
+       "ver",
+       "真实",
+       "真実の"
+      ],
+      [
+       "-ify",
+       "使成为",
+       "〜にする"
+      ],
+      [
+       "-able",
+       "可…的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "ver“真”+ -ify“使成为”→ verify（核实）；+ -able → 可核实的。",
+      "ja": "ver「真実」＋ -ify「〜にする」→ verify（確かめる）；＋ -able → 検証可能な。"
+     },
+     "forms": [
+      [
+       "verify (v.)",
+       "核实",
+       "確認する"
+      ],
+      [
+       "verifiable data",
+       "可核实的数据",
+       "検証可能なデータ"
+      ]
+     ]
+    },
+    {
+     "w": "unverified",
+     "pos": "adj.",
+     "ipa": "/ʌnˈvɛrəˌfaɪd/",
+     "zh": "未经证实的",
+     "ja": "未確認の",
+     "ex": "Do not share unverified information with the press.",
+     "ex_zh": "请勿向媒体透露未经证实的信息。",
+     "ex_ja": "未確認の情報を報道機関に伝えてはならない。",
+     "parts": [
+      [
+       "un-",
+       "不",
+       "否定"
+      ],
+      [
+       "ver",
+       "真实",
+       "真実の"
+      ],
+      [
+       "-ified",
+       "已被…的",
+       "〜された"
+      ]
+     ],
+     "note": {
+      "zh": "un“不”+ verified“已核实的”。",
+      "ja": "un「否定」＋ verified「確認済みの」。"
+     },
+     "forms": [
+      [
+       "unverified claim",
+       "未经证实的说法",
+       "未確認の主張"
+      ],
+      [
+       "unverified account",
+       "未验证账户",
+       "未認証アカウント"
+      ]
+     ]
+    },
+    {
+     "w": "unverifiable",
+     "pos": "adj.",
+     "ipa": "/ʌnˈvɛrəˌfaɪəbəl/",
+     "zh": "无法核实的",
+     "ja": "検証できない",
+     "ex": "The auditors rejected several unverifiable entries in the ledger.",
+     "ex_zh": "审计员拒绝了账簿中几笔无法核实的记录。",
+     "ex_ja": "監査人は帳簿の検証できない記載をいくつか認めなかった。",
+     "parts": [
+      [
+       "un-",
+       "不",
+       "否定"
+      ],
+      [
+       "ver",
+       "真实",
+       "真実の"
+      ],
+      [
+       "-ifiable",
+       "可核实的",
+       "検証可能な"
+      ]
+     ],
+     "note": {
+      "zh": "un“不”+ verifiable“可核实的”。",
+      "ja": "un「否定」＋ verifiable「検証可能な」。"
+     },
+     "forms": [
+      [
+       "unverifiable source",
+       "无法核实的来源",
+       "検証不能な情報源"
+      ],
+      [
+       "verifiability (n.)",
+       "可核实性",
+       "検証可能性"
+      ]
+     ]
+    },
+    {
+     "w": "veritable",
+     "pos": "adj.",
+     "ipa": "/ˈvɛrətəbəl/",
+     "zh": "名副其实的；不折不扣的",
+     "ja": "まぎれもない；実に〜な",
+     "ex": "The new library is a veritable treasure for our research team.",
+     "ex_zh": "这个新图书馆对我们的研究团队来说是名副其实的宝库。",
+     "ex_ja": "新しい図書館は、私たちの研究チームにとってまさに宝の山だ。",
+     "parts": [
+      [
+       "ver",
+       "真实",
+       "真実の"
+      ],
+      [
+       "-it-",
+       "连接成分",
+       "つなぎ"
+      ],
+      [
+       "-able",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "ver“真”→ 真正的，用来强调。多用于书面语，放在名词前。",
+      "ja": "ver「真実」→ 本当の。強調に使う文語的な語で、名詞の前に置く。"
+     },
+     "forms": [
+      [
+       "a veritable feast",
+       "名副其实的盛宴",
+       "まさに大ごちそう"
+      ],
+      [
+       "verity (n.)",
+       "真理",
+       "真実"
+      ]
+     ]
+    },
+    {
+     "w": "aver",
+     "pos": "v.",
+     "ipa": "/əˈvɝ/",
+     "zh": "断言；声称",
+     "ja": "断言する；主張する",
+     "ex": "The defendant averred that he had never signed the agreement.",
+     "ex_zh": "被告断言他从未签署过该协议。",
+     "ex_ja": "被告は、その契約書に署名したことはないと断言した。",
+     "parts": [
+      [
+       "a-",
+       "向（ad-）",
+       "〜へ"
+      ],
+      [
+       "ver",
+       "真实",
+       "真実の"
+      ]
+     ],
+     "note": {
+      "zh": "a（ad-）“向”+ ver“真”→ 表明是真的 → 断言。常用于法律文书。",
+      "ja": "a（ad-「〜へ」）＋ ver「真実」→ 真実だと述べる → 断言する。法律文書で多用。"
+     },
+     "forms": [
+      [
+       "aver that",
+       "断言…",
+       "〜だと断言する"
+      ],
+      [
+       "averment (n.)",
+       "断言；主张",
+       "主張"
+      ]
+     ]
+    },
+    {
+     "w": "verity",
+     "pos": "n.",
+     "ipa": "/ˈvɛrəti/",
+     "zh": "真理；真实",
+     "ja": "真実；真理",
+     "ex": "The verity of the figures was confirmed by an independent auditor.",
+     "ex_zh": "这些数字的真实性已由独立审计师确认。",
+     "ex_ja": "その数字の真実性は独立した監査人によって確認された。",
+     "parts": [
+      [
+       "ver",
+       "真实",
+       "真実の"
+      ],
+      [
+       "-ity",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "ver“真”+ -ity → 真实。比 truth 更书面。",
+      "ja": "ver「真実」＋ -ity → 真実。truth より文語的。"
+     },
+     "forms": [
+      [
+       "eternal verity",
+       "永恒的真理",
+       "永遠の真理"
+      ],
+      [
+       "veracity (n.)",
+       "真实性",
+       "真実性"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "lud",
+   "title_zh": "词根 -lud- / -lus-：玩；耍弄",
+   "title_ja": "語根 -lud- / -lus-：遊ぶ；もてあそぶ",
+   "words": [
+    {
+     "w": "allude",
+     "pos": "v.",
+     "ipa": "/əˈlud/",
+     "zh": "暗指；提及",
+     "ja": "ほのめかす；それとなく言及する",
+     "ex": "The CEO alluded to possible layoffs without giving any details.",
+     "ex_zh": "首席执行官暗示可能裁员，但没有给出任何细节。",
+     "ex_ja": "CEOは詳細には触れずに、人員削減の可能性をほのめかした。",
+     "parts": [
+      [
+       "al-",
+       "向（ad-）",
+       "〜へ"
+      ],
+      [
+       "lude",
+       "玩；嘲弄",
+       "遊ぶ"
+      ]
+     ],
+     "note": {
+      "zh": "al（ad-）“向”+ lud“玩”→ 向着某事“玩笑”般带过 → 暗指。常接 allude to。",
+      "ja": "al（ad-「〜へ」）＋ lud「遊ぶ」→ 軽く触れる → ほのめかす。allude to が定番。"
+     },
+     "forms": [
+      [
+       "allude to",
+       "暗指；提及",
+       "〜にそれとなく触れる"
+      ],
+      [
+       "allusion (n.)",
+       "暗示；影射",
+       "ほのめかし"
+      ]
+     ]
+    },
+    {
+     "w": "elude",
+     "pos": "v.",
+     "ipa": "/ɪˈlud/",
+     "zh": "逃避；使困惑",
+     "ja": "逃れる；理解できない",
+     "ex": "The exact cause of the system failure still eludes our engineers.",
+     "ex_zh": "系统故障的确切原因至今仍让我们的工程师摸不着头脑。",
+     "ex_ja": "システム障害の正確な原因は、いまだにエンジニアたちには分からない。",
+     "parts": [
+      [
+       "e-",
+       "出（ex-）",
+       "外へ"
+      ],
+      [
+       "lude",
+       "玩；耍弄",
+       "遊ぶ"
+      ]
+     ],
+     "note": {
+      "zh": "e（ex-）“出”+ lud“玩”→ 玩着躲出去 → 逃避；（答案）抓不住。",
+      "ja": "e（ex-「外へ」）＋ lud「遊ぶ」→ 戯れてすり抜ける → 逃れる。"
+     },
+     "forms": [
+      [
+       "elusive (adj.)",
+       "难以捉摸的",
+       "つかみどころのない"
+      ],
+      [
+       "elude capture",
+       "逃避抓捕",
+       "逮捕を逃れる"
+      ]
+     ]
+    },
+    {
+     "w": "delude",
+     "pos": "v.",
+     "ipa": "/dɪˈlud/",
+     "zh": "欺骗；使产生错觉",
+     "ja": "惑わす；だます",
+     "ex": "Don't delude yourself into thinking the deadline will be extended.",
+     "ex_zh": "别自欺欺人，以为截止日期会延长。",
+     "ex_ja": "締め切りが延びるなどと思い込んで自分をごまかしてはいけない。",
+     "parts": [
+      [
+       "de-",
+       "向下；贬低",
+       "下へ"
+      ],
+      [
+       "lude",
+       "玩；耍弄",
+       "遊ぶ"
+      ]
+     ],
+     "note": {
+      "zh": "de“向下”+ lud“玩”→ 把人耍了 → 欺骗。多用 delude oneself。",
+      "ja": "de「下へ」＋ lud「遊ぶ」→ もてあそぶ → 惑わす。delude oneself の形が多い。"
+     },
+     "forms": [
+      [
+       "delude oneself",
+       "自欺欺人",
+       "自分を欺く"
+      ],
+      [
+       "delusion (n.)",
+       "错觉；妄想",
+       "錯覚；妄想"
+      ]
+     ]
+    },
+    {
+     "w": "illusion",
+     "pos": "n.",
+     "ipa": "/ɪˈluʒən/",
+     "zh": "错觉；幻想",
+     "ja": "錯覚；幻想",
+     "ex": "The mirrored walls create the illusion of a much larger lobby.",
+     "ex_zh": "镜面墙壁让大厅看起来大了很多。",
+     "ex_ja": "鏡張りの壁がロビーをずっと広く見せる錯覚を生む。",
+     "parts": [
+      [
+       "il-",
+       "向（in-）",
+       "〜に対して"
+      ],
+      [
+       "lus",
+       "玩；嘲弄",
+       "遊ぶ"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "il（in-）“对着”+ lus（lud）“玩”→ 被耍弄的感觉 → 错觉。",
+      "ja": "il（in-「〜に対して」）＋ lus（lud「遊ぶ」）→ もてあそばれた感覚 → 錯覚。"
+     },
+     "forms": [
+      [
+       "under the illusion",
+       "误以为",
+       "〜と錯覚して"
+      ],
+      [
+       "illusory (adj.)",
+       "虚幻的",
+       "幻の"
+      ]
+     ]
+    },
+    {
+     "w": "prelude",
+     "pos": "n.",
+     "ipa": "/ˈprɛljud/",
+     "zh": "前奏；序幕",
+     "ja": "前奏；序幕",
+     "ex": "The talks were seen as a prelude to a formal merger.",
+     "ex_zh": "这些会谈被视为正式合并的前奏。",
+     "ex_ja": "その会談は正式な合併への前触れと見られた。",
+     "parts": [
+      [
+       "pre-",
+       "在前",
+       "前に"
+      ],
+      [
+       "lude",
+       "玩；演奏",
+       "遊ぶ；演奏する"
+      ]
+     ],
+     "note": {
+      "zh": "pre“前”+ lud“玩；演出”→ 先演的一段 → 序曲。常用 a prelude to。",
+      "ja": "pre「前」＋ lud「遊ぶ；演じる」→ 先に演じるもの → 序曲。a prelude to が定番。"
+     },
+     "forms": [
+      [
+       "a prelude to",
+       "…的前奏",
+       "〜の前触れ"
+      ],
+      [
+       "interlude (n.)",
+       "间歇；插曲",
+       "合間"
+      ]
+     ]
+    },
+    {
+     "w": "collude",
+     "pos": "v.",
+     "ipa": "/kəˈlud/",
+     "zh": "串通；合谋",
+     "ja": "共謀する；結託する",
+     "ex": "The two suppliers were accused of colluding to fix prices.",
+     "ex_zh": "这两家供应商被指控串通操纵价格。",
+     "ex_ja": "その2社の供給業者は、価格を不正に決めるために共謀したとして訴えられた。",
+     "parts": [
+      [
+       "col-",
+       "一起（com-）",
+       "共に"
+      ],
+      [
+       "lude",
+       "玩；耍",
+       "遊ぶ"
+      ]
+     ],
+     "note": {
+      "zh": "col（com-）“一起”+ lud“玩”→ 一起耍手段 → 串通。",
+      "ja": "col（com-「共に」）＋ lud「遊ぶ」→ 一緒に仕組む → 共謀する。"
+     },
+     "forms": [
+      [
+       "collusion (n.)",
+       "串通；共谋",
+       "共謀"
+      ],
+      [
+       "collude with",
+       "与…串通",
+       "〜と共謀する"
+      ]
+     ]
+    },
+    {
+     "w": "elusive",
+     "pos": "adj.",
+     "ipa": "/ɪˈlusɪv/",
+     "zh": "难以捉摸的；难以实现的",
+     "ja": "とらえどころのない",
+     "ex": "Profitability has remained elusive for the start-up's first three years.",
+     "ex_zh": "这家初创公司头三年一直难以实现盈利。",
+     "ex_ja": "そのスタートアップは、最初の3年間は黒字化を果たせずにいた。",
+     "parts": [
+      [
+       "e-",
+       "出（ex-）",
+       "外へ"
+      ],
+      [
+       "lus",
+       "玩；耍",
+       "遊ぶ"
+      ],
+      [
+       "-ive",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "elude 的形容词形式，指“总是逃开抓不住的”。",
+      "ja": "elude の形容詞形で「いつもすり抜けてつかめない」。"
+     },
+     "forms": [
+      [
+       "elusive goal",
+       "难以实现的目标",
+       "達成しにくい目標"
+      ],
+      [
+       "prove elusive",
+       "始终难以做到",
+       "なかなか実現しない"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tort",
+   "title_zh": "词根 -tort-：扭",
+   "title_ja": "語根 -tort-：ねじる",
+   "words": [
+    {
+     "w": "distort",
+     "pos": "v.",
+     "ipa": "/dɪˈstɔrt/",
+     "zh": "扭曲；歪曲",
+     "ja": "ゆがめる；歪曲する",
+     "ex": "The chart distorts the data by starting the vertical axis at 50.",
+     "ex_zh": "这张图把纵轴从50开始，从而歪曲了数据。",
+     "ex_ja": "そのグラフは縦軸を50から始めることでデータをゆがめている。",
+     "parts": [
+      [
+       "dis-",
+       "分开；完全",
+       "離れて"
+      ],
+      [
+       "tort",
+       "扭",
+       "ねじる"
+      ]
+     ],
+     "note": {
+      "zh": "dis“彻底”+ tort“扭”→ 扭歪。",
+      "ja": "dis「完全に」＋ tort「ねじる」→ ねじ曲げる。"
+     },
+     "forms": [
+      [
+       "distortion (n.)",
+       "扭曲；失真",
+       "ゆがみ"
+      ],
+      [
+       "distort the facts",
+       "歪曲事实",
+       "事実を曲げる"
+      ]
+     ]
+    },
+    {
+     "w": "distortion",
+     "pos": "n.",
+     "ipa": "/dɪˈstɔrʃən/",
+     "zh": "扭曲；失真",
+     "ja": "ゆがみ；歪曲",
+     "ex": "The speakers produce almost no sound distortion even at high volume.",
+     "ex_zh": "这些扬声器即使在高音量下也几乎没有声音失真。",
+     "ex_ja": "このスピーカーは高音量でもほとんど音のひずみが出ない。",
+     "parts": [
+      [
+       "dis-",
+       "分开；完全",
+       "離れて"
+      ],
+      [
+       "tort",
+       "扭",
+       "ねじる"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "distort 的名词形式。",
+      "ja": "distort の名詞形。"
+     },
+     "forms": [
+      [
+       "market distortion",
+       "市场扭曲",
+       "市場のゆがみ"
+      ],
+      [
+       "distortion of facts",
+       "事实歪曲",
+       "事実の歪曲"
+      ]
+     ]
+    },
+    {
+     "w": "extort",
+     "pos": "v.",
+     "ipa": "/ɪkˈstɔrt/",
+     "zh": "勒索；敲诈",
+     "ja": "強要する；ゆすり取る",
+     "ex": "The hackers tried to extort money from the hospital.",
+     "ex_zh": "黑客试图向这家医院勒索钱财。",
+     "ex_ja": "ハッカーはその病院から金をゆすり取ろうとした。",
+     "parts": [
+      [
+       "ex-",
+       "向外",
+       "外へ"
+      ],
+      [
+       "tort",
+       "扭",
+       "ねじる"
+      ]
+     ],
+     "note": {
+      "zh": "ex“向外”+ tort“扭”→ 把东西硬拧出来 → 勒索。",
+      "ja": "ex「外へ」＋ tort「ねじる」→ ねじり取る → ゆすり取る。"
+     },
+     "forms": [
+      [
+       "extortion (n.)",
+       "勒索；敲诈",
+       "恐喝"
+      ],
+      [
+       "extort money from",
+       "向…勒索钱财",
+       "〜から金をゆすり取る"
+      ]
+     ]
+    },
+    {
+     "w": "extortion",
+     "pos": "n.",
+     "ipa": "/ɪkˈstɔrʃən/",
+     "zh": "勒索；敲诈",
+     "ja": "恐喝；ゆすり",
+     "ex": "The former manager was charged with extortion and fraud.",
+     "ex_zh": "这位前经理被控勒索和欺诈。",
+     "ex_ja": "元マネージャーは恐喝と詐欺の罪で起訴された。",
+     "parts": [
+      [
+       "ex-",
+       "向外",
+       "外へ"
+      ],
+      [
+       "tort",
+       "扭",
+       "ねじる"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "extort 的名词形式。",
+      "ja": "extort の名詞形。"
+     },
+     "forms": [
+      [
+       "extortionate (adj.)",
+       "（价格）过高的",
+       "法外な"
+      ],
+      [
+       "charged with extortion",
+       "被控勒索",
+       "恐喝罪で起訴される"
+      ]
+     ]
+    },
+    {
+     "w": "contort",
+     "pos": "v.",
+     "ipa": "/kənˈtɔrt/",
+     "zh": "使扭曲；使变形",
+     "ja": "ねじ曲げる；ゆがめる",
+     "ex": "The old pipes had contorted under the heat of the fire.",
+     "ex_zh": "旧管道在火灾的高温下已经扭曲变形。",
+     "ex_ja": "古い配管は火事の熱でねじ曲がっていた。",
+     "parts": [
+      [
+       "con-",
+       "一起；彻底",
+       "共に"
+      ],
+      [
+       "tort",
+       "扭",
+       "ねじる"
+      ]
+     ],
+     "note": {
+      "zh": "con“彻底”+ tort“扭”→ 完全扭曲。",
+      "ja": "con「完全に」＋ tort「ねじる」→ すっかりねじれる。"
+     },
+     "forms": [
+      [
+       "contortion (n.)",
+       "扭曲",
+       "ねじれ"
+      ],
+      [
+       "contorted (adj.)",
+       "扭曲的",
+       "ゆがんだ"
+      ]
+     ]
+    },
+    {
+     "w": "retort",
+     "pos": "n./v.",
+     "ipa": "/rɪˈtɔrt/",
+     "zh": "反驳；反唇相讥",
+     "ja": "言い返す；反論",
+     "ex": "The spokesperson's sharp retort silenced the critics.",
+     "ex_zh": "发言人尖锐的反驳让批评者哑口无言。",
+     "ex_ja": "広報担当者の鋭い反論が批判者を黙らせた。",
+     "parts": [
+      [
+       "re-",
+       "回",
+       "後ろへ"
+      ],
+      [
+       "tort",
+       "扭",
+       "ねじる"
+      ]
+     ],
+     "note": {
+      "zh": "re“回”+ tort“扭”→ 把话拧回去 → 反驳。",
+      "ja": "re「後ろへ」＋ tort「ねじる」→ 言葉を投げ返す → 反論する。"
+     },
+     "forms": [
+      [
+       "a sharp retort",
+       "尖锐的反驳",
+       "鋭い反論"
+      ],
+      [
+       "retort that",
+       "反驳说…",
+       "〜と言い返す"
+      ]
+     ]
+    },
+    {
+     "w": "tortuous",
+     "pos": "adj.",
+     "ipa": "/ˈtɔrtʃuəs/",
+     "zh": "曲折的；冗长复杂的",
+     "ja": "曲がりくねった；回りくどい",
+     "ex": "The approval process was tortuous and took nearly a year.",
+     "ex_zh": "审批过程曲折复杂，花了将近一年。",
+     "ex_ja": "承認の手続きは複雑でまわりくどく、1年近くかかった。",
+     "parts": [
+      [
+       "tort",
+       "扭",
+       "ねじる"
+      ],
+      [
+       "-uous",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "tort“扭”+ -uous → 弯弯曲曲的。⚠️ 不要和 torturous（折磨人的）混淆。",
+      "ja": "tort「ねじる」＋ -uous → 曲がりくねった。⚠️ torturous（苦痛に満ちた）とは別語。"
+     },
+     "forms": [
+      [
+       "tortuous route",
+       "曲折的路线",
+       "曲がりくねった道"
+      ],
+      [
+       "torturous (adj.)",
+       "折磨人的",
+       "苦痛を伴う"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fraud",
+   "title_zh": "主题：欺诈、违规与合规调查",
+   "title_ja": "テーマ：不正・違反とコンプライアンス調査",
+   "words": [
+    {
+     "w": "fraud",
+     "pos": "n.",
+     "ipa": "/frɔd/",
+     "zh": "欺诈；诈骗",
+     "ja": "詐欺",
+     "ex": "The bank detected fraud on several corporate credit cards.",
+     "ex_zh": "银行发现几张公司信用卡存在欺诈行为。",
+     "ex_ja": "銀行は複数の法人クレジットカードで不正利用を検知した。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，按整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "credit card fraud",
+       "信用卡诈骗",
+       "クレジットカード詐欺"
+      ],
+      [
+       "fraudulent (adj.)",
+       "欺诈的",
+       "詐欺的な"
+      ]
+     ]
+    },
+    {
+     "w": "embezzle",
+     "pos": "v.",
+     "ipa": "/ɪmˈbɛzəl/",
+     "zh": "侵吞；挪用（公款）",
+     "ja": "横領する",
+     "ex": "The accountant was fired for embezzling company funds.",
+     "ex_zh": "这名会计因侵吞公司资金被解雇。",
+     "ex_ja": "その会計係は会社の資金を横領して解雇された。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，按整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "embezzlement (n.)",
+       "侵占公款",
+       "横領"
+      ],
+      [
+       "embezzle funds",
+       "挪用资金",
+       "資金を横領する"
+      ]
+     ]
+    },
+    {
+     "w": "forgery",
+     "pos": "n.",
+     "ipa": "/ˈfɔrdʒəri/",
+     "zh": "伪造；伪造品",
+     "ja": "偽造；偽造品",
+     "ex": "The signature on the invoice turned out to be a forgery.",
+     "ex_zh": "发票上的签名被证明是伪造的。",
+     "ex_ja": "請求書の署名は偽造だと判明した。",
+     "parts": [
+      [
+       "forge",
+       "锻造；伪造",
+       "鍛える；偽造する"
+      ],
+      [
+       "-ery",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "forge 原指“锻造”，引申为“伪造”；+ -ery 表示行为或结果。",
+      "ja": "forge は本来「鍛える」で、「偽造する」に転じた。＋ -ery で行為・結果を表す。"
+     },
+     "forms": [
+      [
+       "forge (v.)",
+       "伪造",
+       "偽造する"
+      ],
+      [
+       "forger (n.)",
+       "伪造者",
+       "偽造者"
+      ]
+     ]
+    },
+    {
+     "w": "counterfeit",
+     "pos": "adj.",
+     "ipa": "/ˈkaʊntɚˌfɪt/",
+     "zh": "伪造的；假冒的",
+     "ja": "偽造の；偽の",
+     "ex": "Customs officers seized thousands of counterfeit handbags.",
+     "ex_zh": "海关人员查获了数千个假冒手袋。",
+     "ex_ja": "税関職員は偽ブランドのハンドバッグを数千個押収した。",
+     "parts": [
+      [
+       "counter-",
+       "相对；反",
+       "対して"
+      ],
+      [
+       "fit",
+       "做（来自 facere）",
+       "作る"
+      ]
+     ],
+     "note": {
+      "zh": "counter“对着”+ feit（来自拉丁语 facere“做”）→ 仿着做出来的 → 假冒。",
+      "ja": "counter「対して」＋ feit（ラテン語 facere「作る」由来）→ まねて作る → 偽造の。"
+     },
+     "forms": [
+      [
+       "counterfeit money",
+       "假钞",
+       "偽札"
+      ],
+      [
+       "counterfeit goods",
+       "假冒商品",
+       "偽造品"
+      ]
+     ]
+    },
+    {
+     "w": "laundering",
+     "pos": "n.",
+     "ipa": "/ˈlɔndərɪŋ/",
+     "zh": "洗钱",
+     "ja": "資金洗浄",
+     "ex": "The bank has strict rules to prevent money laundering.",
+     "ex_zh": "银行有严格的规定来防止洗钱。",
+     "ex_ja": "銀行は資金洗浄を防ぐために厳格な規則を設けている。",
+     "parts": [
+      [
+       "launder",
+       "洗涤",
+       "洗う"
+      ],
+      [
+       "-ing",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "launder“洗（衣物）”→ 比喻把非法钱“洗干净”。",
+      "ja": "launder「洗う」→ 不正な金を「きれいにする」という比喩。"
+     },
+     "forms": [
+      [
+       "money laundering",
+       "洗钱",
+       "マネーロンダリング"
+      ],
+      [
+       "launder (v.)",
+       "洗（钱）",
+       "洗浄する"
+      ]
+     ]
+    },
+    {
+     "w": "bribery",
+     "pos": "n.",
+     "ipa": "/ˈbraɪbəri/",
+     "zh": "贿赂；行贿",
+     "ja": "贈賄；収賄",
+     "ex": "The company introduced a hotline to report bribery.",
+     "ex_zh": "公司设立了举报贿赂的热线。",
+     "ex_ja": "会社は贈収賄を通報するためのホットラインを設けた。",
+     "parts": [
+      [
+       "bribe",
+       "贿赂",
+       "賄賂"
+      ],
+      [
+       "-ery",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "bribe + -ery → 行贿受贿的行为。",
+      "ja": "bribe ＋ -ery → 贈収賄の行為。"
+     },
+     "forms": [
+      [
+       "bribe (n./v.)",
+       "贿赂",
+       "賄賂（を贈る）"
+      ],
+      [
+       "anti-bribery policy",
+       "反贿赂政策",
+       "贈賄防止方針"
+      ]
+     ]
+    },
+    {
+     "w": "kickback",
+     "pos": "n.",
+     "ipa": "/ˈkɪkˌbæk/",
+     "zh": "回扣；贿赂性佣金",
+     "ja": "リベート；不正な謝礼",
+     "ex": "The buyer was fired for accepting kickbacks from vendors.",
+     "ex_zh": "这名采购员因收受供应商回扣被解雇。",
+     "ex_ja": "そのバイヤーは納入業者からリベートを受け取ったため解雇された。",
+     "parts": [
+      [
+       "kick",
+       "踢",
+       "蹴る"
+      ],
+      [
+       "back",
+       "回",
+       "戻す"
+      ]
+     ],
+     "note": {
+      "zh": "kick“踢”+ back“回”→ 把钱踢回给经手人 → 回扣。复合词。",
+      "ja": "kick「蹴る」＋ back「戻す」→ 金の一部を戻す → 不正リベート。複合語。"
+     },
+     "forms": [
+      [
+       "accept kickbacks",
+       "收受回扣",
+       "リベートを受け取る"
+      ],
+      [
+       "bribes and kickbacks",
+       "贿赂与回扣",
+       "賄賂とリベート"
+      ]
+     ]
+    },
+    {
+     "w": "whistleblower",
+     "pos": "n.",
+     "ipa": "/ˈwɪsəlˌbloʊɚ/",
+     "zh": "举报人；内部检举者",
+     "ja": "内部告発者",
+     "ex": "Federal law protects whistleblowers from retaliation.",
+     "ex_zh": "联邦法律保护举报人免遭报复。",
+     "ex_ja": "連邦法は内部告発者を報復から保護している。",
+     "parts": [
+      [
+       "whistle",
+       "哨子",
+       "笛"
+      ],
+      [
+       "blow",
+       "吹",
+       "吹く"
+      ],
+      [
+       "-er",
+       "表示人",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "whistle“哨子”+ blow“吹”+ -er → 吹哨的人 → 举报者。复合词。",
+      "ja": "whistle「笛」＋ blow「吹く」＋ -er → 笛を吹く人 → 内部告発者。複合語。"
+     },
+     "forms": [
+      [
+       "blow the whistle",
+       "举报；揭发",
+       "内部告発する"
+      ],
+      [
+       "whistleblower policy",
+       "举报人保护制度",
+       "内部通報制度"
+      ]
+     ]
+    },
+    {
+     "w": "forfeiture",
+     "pos": "n.",
+     "ipa": "/ˈfɔrfɪtʃɚ/",
+     "zh": "没收；丧失（权利）",
+     "ja": "没収；権利の喪失",
+     "ex": "Late payment may result in forfeiture of the deposit.",
+     "ex_zh": "逾期付款可能导致押金被没收。",
+     "ex_ja": "支払いが遅れると、保証金は没収されることがある。",
+     "parts": [
+      [
+       "for-",
+       "向外",
+       "外へ"
+      ],
+      [
+       "feit",
+       "做；犯（旧法语）",
+       "為す"
+      ]
+     ],
+     "note": {
+      "zh": "来自古法语 forfaire“犯错”，引申为因违约而丧失 → 没收。",
+      "ja": "古フランス語 forfaire「罪を犯す」から、違反で失う → 没収。"
+     },
+     "forms": [
+      [
+       "forfeit (v.)",
+       "丧失；被没收",
+       "失う；没収される"
+      ],
+      [
+       "forfeit the deposit",
+       "没收押金",
+       "保証金を失う"
+      ]
+     ]
+    },
+    {
+     "w": "restitution",
+     "pos": "n.",
+     "ipa": "/ˌrɛstəˈtuʃən/",
+     "zh": "赔偿；归还",
+     "ja": "賠償；返還",
+     "ex": "The court ordered the firm to make restitution to its customers.",
+     "ex_zh": "法院命令该公司向客户作出赔偿。",
+     "ex_ja": "裁判所は同社に顧客への賠償を命じた。",
+     "parts": [
+      [
+       "re-",
+       "再；回",
+       "再び"
+      ],
+      [
+       "stit",
+       "站立（sta-）",
+       "立つ"
+      ],
+      [
+       "-ution",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "re“回”+ stitu（立）→ 使回到原位 → 归还；赔偿。",
+      "ja": "re「元へ」＋ stitu（立つ）→ 元の位置に戻す → 返還・賠償。"
+     },
+     "forms": [
+      [
+       "make restitution",
+       "作出赔偿",
+       "賠償する"
+      ],
+      [
+       "restitution order",
+       "赔偿令",
+       "賠償命令"
+      ]
+     ]
+    },
+    {
+     "w": "infringement",
+     "pos": "n.",
+     "ipa": "/ɪnˈfrɪndʒmənt/",
+     "zh": "侵权；侵犯",
+     "ja": "侵害；違反",
+     "ex": "The lawsuit accuses the rival of patent infringement.",
+     "ex_zh": "这起诉讼指控竞争对手侵犯专利权。",
+     "ex_ja": "その訴訟は競合他社を特許権侵害で訴えている。",
+     "parts": [
+      [
+       "in-",
+       "在内",
+       "中へ"
+      ],
+      [
+       "fring",
+       "打破（frag-）",
+       "砕く"
+      ],
+      [
+       "-ment",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "in + fring（来自 frangere“打破”）→ 破坏他人权利 → 侵犯。",
+      "ja": "in ＋ fring（frangere「砕く」由来）→ 他者の権利を破る → 侵害。"
+     },
+     "forms": [
+      [
+       "patent infringement",
+       "专利侵权",
+       "特許権侵害"
+      ],
+      [
+       "infringe on",
+       "侵犯",
+       "〜を侵害する"
+      ]
+     ]
+    },
+    {
+     "w": "plagiarism",
+     "pos": "n.",
+     "ipa": "/ˈpleɪdʒəˌrɪzəm/",
+     "zh": "剽窃；抄袭",
+     "ja": "盗作；剽窃",
+     "ex": "The publisher withdrew the book after a charge of plagiarism.",
+     "ex_zh": "出版社在被指抄袭后撤回了这本书。",
+     "ex_ja": "出版社は盗作の指摘を受けて、その本を回収した。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，按整词记忆。（来自拉丁语 plagiarius“绑架者”，引申为“盗用他人作品”。）",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。（ラテン語 plagiarius「誘拐者」から「他人の作品を盗む」に転じた。）"
+     },
+     "forms": [
+      [
+       "plagiarize (v.)",
+       "剽窃",
+       "盗用する"
+      ],
+      [
+       "plagiarist (n.)",
+       "剽窃者",
+       "盗作者"
+      ]
+     ]
+    },
+    {
+     "w": "licensing",
+     "pos": "n.",
+     "ipa": "/ˈlaɪsənsɪŋ/",
+     "zh": "许可；授权经营",
+     "ja": "ライセンス供与；許認可",
+     "ex": "A licensing agreement lets the partner sell our software abroad.",
+     "ex_zh": "授权协议允许合作伙伴在海外销售我们的软件。",
+     "ex_ja": "ライセンス契約により、提携先は当社のソフトウェアを海外で販売できる。",
+     "parts": [
+      [
+       "license",
+       "许可证",
+       "許可"
+      ],
+      [
+       "-ing",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "license（许可）+ -ing → 授权经营。",
+      "ja": "license（許可）＋ -ing → ライセンス供与。"
+     },
+     "forms": [
+      [
+       "licensing agreement",
+       "授权协议",
+       "ライセンス契約"
+      ],
+      [
+       "licensee (n.)",
+       "被许可方",
+       "ライセンスを受ける人"
+      ]
+     ]
+    },
+    {
+     "w": "notarize",
+     "pos": "v.",
+     "ipa": "/ˈnoʊtəˌraɪz/",
+     "zh": "公证",
+     "ja": "公証する",
+     "ex": "Both signatures must be notarized before the contract is filed.",
+     "ex_zh": "合同归档前，双方签字都必须经过公证。",
+     "ex_ja": "契約書を提出する前に、双方の署名を公証してもらう必要がある。",
+     "parts": [
+      [
+       "not",
+       "标记；记录",
+       "印を付ける"
+      ],
+      [
+       "-ize",
+       "使…化",
+       "〜にする"
+      ]
+     ],
+     "note": {
+      "zh": "not（标记）→ notary 公证人；+ -ize → 办理公证。",
+      "ja": "not（印を付ける）→ notary（公証人）；＋ -ize → 公証する。"
+     },
+     "forms": [
+      [
+       "notary (n.)",
+       "公证人",
+       "公証人"
+      ],
+      [
+       "notarized copy",
+       "公证副本",
+       "公証済みの写し"
+      ]
+     ]
+    },
+    {
+     "w": "perjury",
+     "pos": "n.",
+     "ipa": "/ˈpɝdʒəri/",
+     "zh": "伪证；作伪证罪",
+     "ja": "偽証；偽証罪",
+     "ex": "He was convicted of perjury for lying under oath about the expense reports.",
+     "ex_zh": "他因在宣誓后就费用报告撒谎而被判作伪证罪。",
+     "ex_ja": "彼は経費報告書について宣誓のうえで嘘をついたとして、偽証罪で有罪となった。",
+     "parts": [
+      [
+       "per-",
+       "违背；错误地",
+       "誤って"
+      ],
+      [
+       "jur",
+       "发誓",
+       "誓う"
+      ],
+      [
+       "-y",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "per“违背”+ jur“发誓”→ 违背誓言 → 作伪证。",
+      "ja": "per「背いて」＋ jur「誓う」→ 誓いに背く → 偽証。"
+     },
+     "forms": [
+      [
+       "commit perjury",
+       "作伪证",
+       "偽証する"
+      ],
+      [
+       "perjure oneself",
+       "作伪证",
+       "偽証する"
+      ]
+     ]
+    },
+    {
+     "w": "disbursement",
+     "pos": "n.",
+     "ipa": "/dɪsˈbɝsmənt/",
+     "zh": "支付；拨款",
+     "ja": "支出；支払い",
+     "ex": "The finance team approves every disbursement over $5,000.",
+     "ex_zh": "财务团队审批每一笔超过5000美元的支出。",
+     "ex_ja": "経理チームは5,000ドルを超えるすべての支出を承認する。",
+     "parts": [
+      [
+       "dis-",
+       "分开",
+       "離れて"
+      ],
+      [
+       "purse",
+       "钱包",
+       "財布"
+      ],
+      [
+       "-ment",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "dis“分开”+ purse（钱包）→ 把钱从钱包里拿出 → 支付。（词形 disburse 由此而来。）",
+      "ja": "dis「分ける」＋ purse（財布）→ 財布から金を出す → 支出。"
+     },
+     "forms": [
+      [
+       "disburse (v.)",
+       "支付；拨付",
+       "支払う"
+      ],
+      [
+       "disbursement of funds",
+       "资金拨付",
+       "資金の支出"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "biz",
+   "title_zh": "主题：垄断、加盟与创业融资",
+   "title_ja": "テーマ：独占・フランチャイズと起業・資金調達",
+   "words": [
+    {
+     "w": "franchisee",
+     "pos": "n.",
+     "ipa": "/ˌfræntʃaɪˈzi/",
+     "zh": "加盟商；特许经营受许人",
+     "ja": "フランチャイジー；加盟店",
+     "ex": "Each franchisee pays a monthly fee to the head office.",
+     "ex_zh": "每家加盟商每月向总部缴纳一笔费用。",
+     "ex_ja": "各加盟店は毎月、本部に手数料を支払う。",
+     "parts": [
+      [
+       "franchise",
+       "特许经营",
+       "フランチャイズ"
+      ],
+      [
+       "-ee",
+       "接受者",
+       "〜される人"
+      ]
+     ],
+     "note": {
+      "zh": "franchise + -ee（接受者）→ 接受特许经营的一方。",
+      "ja": "franchise ＋ -ee（受け手）→ フランチャイズを受ける側。"
+     },
+     "forms": [
+      [
+       "franchise (n.)",
+       "特许经营权",
+       "フランチャイズ"
+      ],
+      [
+       "franchisor (n.)",
+       "特许方；总部",
+       "フランチャイザー"
+      ]
+     ]
+    },
+    {
+     "w": "franchisor",
+     "pos": "n.",
+     "ipa": "/ˈfræntʃaɪˌzɔr/",
+     "zh": "特许方；加盟总部",
+     "ja": "フランチャイザー；本部",
+     "ex": "The franchisor provides training and marketing support.",
+     "ex_zh": "特许方提供培训和营销支持。",
+     "ex_ja": "本部は研修と販売促進の支援を行う。",
+     "parts": [
+      [
+       "franchise",
+       "特许经营",
+       "フランチャイズ"
+      ],
+      [
+       "-or",
+       "施予者",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "franchise + -or（施予者）→ 授予特许经营的一方。",
+      "ja": "franchise ＋ -or（与える側）→ フランチャイズを与える側。"
+     },
+     "forms": [
+      [
+       "franchise fee",
+       "加盟费",
+       "加盟料"
+      ],
+      [
+       "franchisee (n.)",
+       "加盟商",
+       "加盟店"
+      ]
+     ]
+    },
+    {
+     "w": "monopoly",
+     "pos": "n.",
+     "ipa": "/məˈnɑpəli/",
+     "zh": "垄断；专营",
+     "ja": "独占；専売",
+     "ex": "The firm holds a monopoly on rail freight in the region.",
+     "ex_zh": "该公司垄断了本地区的铁路货运。",
+     "ex_ja": "その会社は地域の鉄道貨物輸送を独占している。",
+     "parts": [
+      [
+       "mono-",
+       "单一",
+       "単一の"
+      ],
+      [
+       "poly",
+       "卖",
+       "売る"
+      ]
+     ],
+     "note": {
+      "zh": "mono“单一”+ poly（来自希腊语 pōlein“卖”）→ 只有一家卖 → 垄断。",
+      "ja": "mono「単一」＋ poly（ギリシャ語 pōlein「売る」）→ 一社だけが売る → 独占。"
+     },
+     "forms": [
+      [
+       "have a monopoly on",
+       "垄断…",
+       "〜を独占している"
+      ],
+      [
+       "monopolize (v.)",
+       "垄断",
+       "独占する"
+      ]
+     ]
+    },
+    {
+     "w": "cartel",
+     "pos": "n.",
+     "ipa": "/kɑrˈtɛl/",
+     "zh": "卡特尔；同业垄断联盟",
+     "ja": "カルテル",
+     "ex": "Regulators fined the oil cartel for fixing prices.",
+     "ex_zh": "监管机构因价格操纵对这家石油卡特尔处以罚款。",
+     "ex_ja": "規制当局は価格を不正に決めたとして、その石油カルテルに罰金を科した。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，按整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "price-fixing cartel",
+       "价格操纵联盟",
+       "価格カルテル"
+      ],
+      [
+       "break up a cartel",
+       "瓦解卡特尔",
+       "カルテルを解体する"
+      ]
+     ]
+    },
+    {
+     "w": "antitrust",
+     "pos": "adj.",
+     "ipa": "/ˌæntiˈtrʌst/",
+     "zh": "反垄断的",
+     "ja": "独占禁止の",
+     "ex": "The merger is under review by antitrust authorities.",
+     "ex_zh": "这起合并正在接受反垄断机构的审查。",
+     "ex_ja": "その合併は独占禁止当局の審査を受けている。",
+     "parts": [
+      [
+       "anti-",
+       "反对",
+       "反対"
+      ],
+      [
+       "trust",
+       "托拉斯（垄断企业联合）",
+       "トラスト"
+      ]
+     ],
+     "note": {
+      "zh": "anti“反”+ trust（19世纪美国的垄断企业联合）→ 反垄断。",
+      "ja": "anti「反」＋ trust（19世紀米国の企業合同）→ 独占禁止。"
+     },
+     "forms": [
+      [
+       "antitrust law",
+       "反垄断法",
+       "独占禁止法"
+      ],
+      [
+       "antitrust review",
+       "反垄断审查",
+       "独占禁止の審査"
+      ]
+     ]
+    },
+    {
+     "w": "buyout",
+     "pos": "n.",
+     "ipa": "/ˈbaɪˌaʊt/",
+     "zh": "收购；买断",
+     "ja": "買収；買い取り",
+     "ex": "A management buyout kept the company independent.",
+     "ex_zh": "一次管理层收购使公司保持了独立。",
+     "ex_ja": "経営陣による買収で、会社は独立を保った。",
+     "parts": [
+      [
+       "buy",
+       "买",
+       "買う"
+      ],
+      [
+       "out",
+       "完全",
+       "完全に"
+      ]
+     ],
+     "note": {
+      "zh": "buy“买”+ out“完全”→ 买断全部股权 → 收购。复合词。",
+      "ja": "buy「買う」＋ out「完全に」→ 持ち分を全部買い取る → 買収。複合語。"
+     },
+     "forms": [
+      [
+       "management buyout",
+       "管理层收购",
+       "経営陣による買収"
+      ],
+      [
+       "buy out (v.)",
+       "买下全部股权",
+       "買い取る"
+      ]
+     ]
+    },
+    {
+     "w": "divestiture",
+     "pos": "n.",
+     "ipa": "/daɪˈvɛstəˌtʃɚ/",
+     "zh": "资产剥离；出售",
+     "ja": "事業の売却；資産の処分",
+     "ex": "The divestiture of the retail unit will be completed in March.",
+     "ex_zh": "零售部门的剥离将在3月完成。",
+     "ex_ja": "小売部門の売却は3月に完了する予定だ。",
+     "parts": [
+      [
+       "di-",
+       "分开（dis-）",
+       "離れて"
+      ],
+      [
+       "vest",
+       "衣服；授予",
+       "衣服"
+      ],
+      [
+       "-iture",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "di（dis-）“脱去”+ vest（衣服）→ 脱掉 → 剥离资产。",
+      "ja": "di（dis-「取り去る」）＋ vest（衣服）→ 脱ぎ捨てる → 事業を手放す。"
+     },
+     "forms": [
+      [
+       "divest (v.)",
+       "剥离；出售",
+       "売却する"
+      ],
+      [
+       "planned divestiture",
+       "计划中的剥离",
+       "予定されている売却"
+      ]
+     ]
+    },
+    {
+     "w": "startup",
+     "pos": "n.",
+     "ipa": "/ˈstɑrtˌʌp/",
+     "zh": "初创公司",
+     "ja": "新興企業；スタートアップ",
+     "ex": "The startup raised $3 million from angel investors.",
+     "ex_zh": "这家初创公司从天使投资人那里融到了300万美元。",
+     "ex_ja": "そのスタートアップはエンジェル投資家から300万ドルを調達した。",
+     "parts": [
+      [
+       "start",
+       "开始",
+       "始める"
+      ],
+      [
+       "up",
+       "起来",
+       "上に"
+      ]
+     ],
+     "note": {
+      "zh": "start“开始”+ up → 刚起步的企业。复合词。",
+      "ja": "start「始める」＋ up → 立ち上げたばかりの企業。複合語。"
+     },
+     "forms": [
+      [
+       "tech startup",
+       "科技初创公司",
+       "テック系スタートアップ"
+      ],
+      [
+       "startup costs",
+       "创业成本",
+       "創業費用"
+      ]
+     ]
+    },
+    {
+     "w": "incubator",
+     "pos": "n.",
+     "ipa": "/ˈɪnkjəˌbeɪtɚ/",
+     "zh": "孵化器；创业孵化机构",
+     "ja": "インキュベーター；起業支援施設",
+     "ex": "The university runs an incubator for student entrepreneurs.",
+     "ex_zh": "这所大学为学生创业者开办了一家孵化器。",
+     "ex_ja": "その大学は学生起業家のためのインキュベーターを運営している。",
+     "parts": [
+      [
+       "in-",
+       "在上",
+       "上に"
+      ],
+      [
+       "cub",
+       "躺；孵",
+       "横たわる"
+      ],
+      [
+       "-ator",
+       "表示物",
+       "〜する物"
+      ]
+     ],
+     "note": {
+      "zh": "in + cub（拉丁语 cubare“躺”）→ 伏在蛋上 → 孵化；孵化器。",
+      "ja": "in ＋ cub（ラテン語 cubare「横たわる」）→ 卵の上に伏す → 孵化器。"
+     },
+     "forms": [
+      [
+       "business incubator",
+       "企业孵化器",
+       "ビジネスインキュベーター"
+      ],
+      [
+       "incubate (v.)",
+       "孵化；培育",
+       "育成する"
+      ]
+     ]
+    },
+    {
+     "w": "accelerator",
+     "pos": "n.",
+     "ipa": "/ɪkˈsɛləˌreɪtɚ/",
+     "zh": "加速器；创业加速机构",
+     "ja": "アクセラレーター；加速装置",
+     "ex": "She joined a three-month accelerator program in San Francisco.",
+     "ex_zh": "她参加了旧金山一个为期三个月的创业加速项目。",
+     "ex_ja": "彼女はサンフランシスコの3か月間のアクセラレータープログラムに参加した。",
+     "parts": [
+      [
+       "ac-",
+       "向（ad-）",
+       "〜へ"
+      ],
+      [
+       "celer",
+       "快",
+       "速い"
+      ],
+      [
+       "-ator",
+       "表示物",
+       "〜する物"
+      ]
+     ],
+     "note": {
+      "zh": "ac（ad-）+ celer（拉丁语“快”）+ -ator → 使加快的东西。",
+      "ja": "ac（ad-）＋ celer（ラテン語「速い」）＋ -ator → 速める物。"
+     },
+     "forms": [
+      [
+       "accelerate (v.)",
+       "加速",
+       "加速する"
+      ],
+      [
+       "accelerator program",
+       "加速项目",
+       "アクセラレータープログラム"
+      ]
+     ]
+    },
+    {
+     "w": "prospectus",
+     "pos": "n.",
+     "ipa": "/prəˈspɛktəs/",
+     "zh": "募股说明书；招股书",
+     "ja": "目論見書；募集要項",
+     "ex": "Read the prospectus carefully before you invest in the fund.",
+     "ex_zh": "投资该基金前请仔细阅读募集说明书。",
+     "ex_ja": "そのファンドに投資する前に、目論見書をよく読んでください。",
+     "parts": [
+      [
+       "pro-",
+       "向前",
+       "前へ"
+      ],
+      [
+       "spect",
+       "看",
+       "見る"
+      ],
+      [
+       "-us",
+       "拉丁语名词词尾",
+       "ラテン語の語尾"
+      ]
+     ],
+     "note": {
+      "zh": "pro“向前”+ spect“看”→ 展望说明 → 招股说明书。",
+      "ja": "pro「前へ」＋ spect「見る」→ 見通しの説明書 → 目論見書。"
+     },
+     "forms": [
+      [
+       "fund prospectus",
+       "基金说明书",
+       "ファンドの目論見書"
+      ],
+      [
+       "prospectus for investors",
+       "投资者说明书",
+       "投資家向け目論見書"
+      ]
+     ]
+    },
+    {
+     "w": "insolvency",
+     "pos": "n.",
+     "ipa": "/ɪnˈsɑlvənsi/",
+     "zh": "无力偿债；资不抵债",
+     "ja": "支払い不能；債務超過",
+     "ex": "The company filed for insolvency after losing its biggest client.",
+     "ex_zh": "公司在失去最大客户后申请破产。",
+     "ex_ja": "その会社は最大の顧客を失った後、支払い不能を申請した。",
+     "parts": [
+      [
+       "in-",
+       "不",
+       "否定"
+      ],
+      [
+       "solv",
+       "解开；支付",
+       "解く"
+      ],
+      [
+       "-ency",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "in“不”+ solv“解；付清”→ 付不清债务 → 无力偿债。",
+      "ja": "in「否定」＋ solv「解く；払う」→ 債務を払えない → 支払い不能。"
+     },
+     "forms": [
+      [
+       "insolvent (adj.)",
+       "无力偿债的",
+       "支払い不能の"
+      ],
+      [
+       "insolvency proceedings",
+       "破产程序",
+       "倒産手続き"
+      ]
+     ]
+    },
+    {
+     "w": "liquidation",
+     "pos": "n.",
+     "ipa": "/ˌlɪkwɪˈdeɪʃən/",
+     "zh": "清算；变现",
+     "ja": "清算；現金化",
+     "ex": "The firm went into liquidation and its assets were sold.",
+     "ex_zh": "该公司进入清算程序，资产被出售。",
+     "ex_ja": "その会社は清算に入り、資産は売却された。",
+     "parts": [
+      [
+       "liquid",
+       "液体；流动的",
+       "液体の"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "liquid“液体”→ 资产“流动”变现 → 清算。",
+      "ja": "liquid「液体」→ 資産を流動化する → 清算。"
+     },
+     "forms": [
+      [
+       "go into liquidation",
+       "进入清算",
+       "清算に入る"
+      ],
+      [
+       "liquidate (v.)",
+       "清算；变现",
+       "清算する"
+      ]
+     ]
+    },
+    {
+     "w": "royalty",
+     "pos": "n.",
+     "ipa": "/ˈrɔɪəlti/",
+     "zh": "版税；特许权使用费",
+     "ja": "ロイヤリティ；著作権使用料",
+     "ex": "The author receives a 10 percent royalty on every copy sold.",
+     "ex_zh": "作者每售出一本可获得10%的版税。",
+     "ex_ja": "著者は売れた1冊ごとに10％の印税を受け取る。",
+     "parts": [
+      [
+       "roy",
+       "国王（royal）",
+       "王"
+      ],
+      [
+       "-alty",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "来自 royal“王室的”：原指向国王缴纳的权利金 → 使用费。",
+      "ja": "royal「王の」から。もとは王に納める権利金 → 使用料。"
+     },
+     "forms": [
+      [
+       "pay royalties",
+       "支付特许权使用费",
+       "ロイヤリティを払う"
+      ],
+      [
+       "royalty rate",
+       "版税率",
+       "ロイヤリティ率"
+      ]
+     ]
+    },
+    {
+     "w": "scalable",
+     "pos": "adj.",
+     "ipa": "/ˈskeɪləbəl/",
+     "zh": "可扩展的；可大规模推广的",
+     "ja": "拡張可能な；規模を拡大できる",
+     "ex": "We need a scalable system that can handle ten times more users.",
+     "ex_zh": "我们需要一个能处理十倍用户量的可扩展系统。",
+     "ex_ja": "10倍のユーザーを処理できる拡張性のあるシステムが必要だ。",
+     "parts": [
+      [
+       "scale",
+       "规模；攀登",
+       "規模"
+      ],
+      [
+       "-able",
+       "可…的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "scale“规模”+ -able → 能放大规模的。",
+      "ja": "scale「規模」＋ -able → 規模を拡大できる。"
+     },
+     "forms": [
+      [
+       "scalable model",
+       "可扩展的模式",
+       "拡張可能なモデル"
+      ],
+      [
+       "scalability (n.)",
+       "可扩展性",
+       "拡張性"
+      ]
+     ]
+    },
+    {
+     "w": "stipulation",
+     "pos": "n.",
+     "ipa": "/ˌstɪpjəˈleɪʃən/",
+     "zh": "约定；规定条件",
+     "ja": "約定；条件",
+     "ex": "The contract has a stipulation that payment is due within 30 days.",
+     "ex_zh": "合同规定款项须在30天内支付。",
+     "ex_ja": "契約には、支払いは30日以内とする旨の条件がある。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，按整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "stipulate (v.)",
+       "规定；约定",
+       "規定する"
+      ],
+      [
+       "on the stipulation that",
+       "以…为条件",
+       "〜という条件で"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}
