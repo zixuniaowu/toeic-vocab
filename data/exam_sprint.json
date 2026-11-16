@@ -4290,6 +4290,437 @@
      "src": "site+ep12"
     }
    ]
+  },
+  "45": {
+   "date": "2026-11-17",
+   "focus_zh": "考试当天：Test 3 Part 6 两篇（8 题）+ Part 7 两篇快速复习",
+   "focus_ja": "試験当日：Test 3 Part 6 の2題（8問）＋ Part 7 の2題を最終確認",
+   "grammar": [],
+   "part6": [
+    {
+     "id": "T3-Q131-134",
+     "label": "Test 3 · Q131–134",
+     "test": 3,
+     "part": 6,
+     "intro": "Questions 131-134 refer to the following notice.",
+     "docs": [
+      [
+       {
+        "t": "title",
+        "x": "Department of Industry Temporarily Closed"
+       },
+       {
+        "t": "p",
+        "x": "Posted: January 5"
+       },
+       {
+        "t": "p",
+        "x": "The Department of Industry will be closed today, January 5, and tomorrow, January 6, for an important software update -----(131) a shutdown of the computer system. Be advised that -----(132) this time period, license applications cannot be accepted online. However, to have an agent contact you, phone in and leave a voice message. Take note that you must include your full name and a -----(133) phone number. Both are required in order to receive a return call. -----(134)"
+       }
+      ]
+     ],
+     "questions": [
+      {
+       "no": 131,
+       "label": "Test 3 · Q131",
+       "q": null,
+       "options": [
+        "necessity",
+        "necessitating",
+        "necessary",
+        "necessities"
+       ],
+       "answer": "B",
+       "exp_zh": "空格后接宾语 a shutdown，修饰前面的名词 update，需要现在分词作后置定语：“需要关闭系统的软件更新”，选 (B) necessitating。",
+       "exp_ja": "空所の後に目的語 a shutdown が続き、前の名詞 update を後ろから修飾する現在分詞が必要。「システム停止を必要とする更新」で (B)。"
+      },
+      {
+       "no": 132,
+       "label": "Test 3 · Q132",
+       "q": null,
+       "options": [
+        "by",
+        "except",
+        "as",
+        "during"
+       ],
+       "answer": "D",
+       "exp_zh": "this time period（这段时间）前表示“在……期间”用 during，选 (D)。",
+       "exp_ja": "this time period の前で「～の間」を表す前置詞 during (D)。"
+      },
+      {
+       "no": 133,
+       "label": "Test 3 · Q133",
+       "q": null,
+       "options": [
+        "valid",
+        "validate",
+        "validates",
+        "validity"
+       ],
+       "answer": "A",
+       "exp_zh": "空格修饰名词 phone number，需要形容词 valid（有效的），选 (A)。",
+       "exp_ja": "名詞 phone number を修飾する形容詞 valid（有効な）(A)。"
+      },
+      {
+       "no": 134,
+       "label": "Test 3 · Q134",
+       "q": null,
+       "options": [
+        "You have successfully renewed your registration.",
+        "We will have additional agents to assist with the calls.",
+        "Users should regularly update their computers.",
+        "Agents will assist with identification cards."
+       ],
+       "answer": "B",
+       "exp_zh": "前文说网上申请暂停，请来电留言等待回电。接“我们将增派工作人员处理来电”最自然，选 (B)。A 与通知无关，C 是对用户的建议，D 无依据。",
+       "exp_ja": "オンライン申請ができないため電話で伝言を残すよう案内した後なので、「電話対応の担当者を増員する」が自然。(B)。"
+      }
+     ],
+     "src": "site+ep26"
+    },
+    {
+     "id": "T3-Q135-138",
+     "label": "Test 3 · Q135–138",
+     "test": 3,
+     "part": 6,
+     "intro": "Questions 135-138 refer to the following letter.",
+     "docs": [
+      [
+       {
+        "t": "p",
+        "x": "May 3"
+       },
+       {
+        "t": "p",
+        "x": "Celia Edgar\n24 Crystal Beach Road\nMiddletown, OH 45055"
+       },
+       {
+        "t": "p",
+        "x": "Dear Ms. Edgar,"
+       },
+       {
+        "t": "p",
+        "x": "Thank you for letting us know about your move. Your -----(135) deliveries of milk and orange juice will come to your new address starting on May 10. Your delivery day will move from Tuesdays to Thursdays, so please remember to put your empty bottles out every Wednesday night."
+       },
+       {
+        "t": "p",
+        "x": "If you need to postpone a delivery, or if you wish to change the items in your order, you can do so at www.mcgrathdairies.com/customerservice. We offer cottage cheese, yogurt, and eggs, -----(136) our fresh milk in glass bottles."
+       },
+       {
+        "t": "p",
+        "x": "We are pleased to count you among the growing number of people who -----(137) the convenience of home delivery. -----(138)"
+       },
+       {
+        "t": "p",
+        "x": "Sincerely,"
+       },
+       {
+        "t": "sign",
+        "x": "Francis Bunuan\nManager, McGrath Dairies"
+       }
+      ]
+     ],
+     "questions": [
+      {
+       "no": 135,
+       "label": "Test 3 · Q135",
+       "q": null,
+       "options": [
+        "hourly",
+        "daily",
+        "weekly",
+        "yearly"
+       ],
+       "answer": "C",
+       "exp_zh": "后文说送货日从周二改为周四，每周三晚上把空瓶放出来，说明是“每周”配送，选 (C) weekly。",
+       "exp_ja": "後で配達日が火曜から木曜に変わり、毎週水曜の夜に空き瓶を出すよう述べているので「毎週の」配達。(C)。"
+      },
+      {
+       "no": 136,
+       "label": "Test 3 · Q136",
+       "q": null,
+       "options": [
+        "as far as",
+        "on account of",
+        "in addition to",
+        "with regard to"
+       ],
+       "answer": "C",
+       "exp_zh": "“除了瓶装鲜奶之外，我们还提供茅屋奶酪、酸奶和鸡蛋”，选 (C) in addition to。",
+       "exp_ja": "「瓶入り牛乳に加えて、カッテージチーズ・ヨーグルト・卵も扱っている」なので (C) in addition to。"
+      },
+      {
+       "no": 137,
+       "label": "Test 3 · Q137",
+       "q": null,
+       "options": [
+        "enjoyment",
+        "enjoyable",
+        "enjoying",
+        "enjoy"
+       ],
+       "answer": "D",
+       "exp_zh": "关系代词 who 引导的从句缺少谓语，先行词 people 为复数，用动词原形 enjoy，选 (D)。",
+       "exp_ja": "関係代名詞 who の節に述語動詞が必要。先行詞 people は複数なので (D) enjoy。"
+      },
+      {
+       "no": 138,
+       "label": "Test 3 · Q138",
+       "q": null,
+       "options": [
+        "We look forward to continuing to serve you.",
+        "We encourage you to recycle your empty bottles.",
+        "We are currently hiring new delivery drivers.",
+        "We regret that this service is no longer available."
+       ],
+       "answer": "A",
+       "exp_zh": "信的结尾感谢客户继续使用送货服务，接“期待继续为您服务”最自然，选 (A)。D 与继续配送矛盾。",
+       "exp_ja": "引っ越し後も配達を続ける顧客への手紙の結びなので「今後もご利用をお待ちしています」が自然。(A)。"
+      }
+     ],
+     "src": "site+ep28"
+    }
+   ],
+   "reading": [
+    {
+     "id": "T3-Q161-163",
+     "label": "Test 3 · Q161–163",
+     "test": 3,
+     "part": 7,
+     "intro": "Questions 161-163 refer to the following e-mail.",
+     "docs": [
+      [
+       {
+        "t": "meta",
+        "rows": [
+         [
+          "To",
+          "Kendra Klasnik <kendra.klasnik@mailhost.com>"
+         ],
+         [
+          "From",
+          "Marco Vargas <marco.vargas@buslono.com>"
+         ],
+         [
+          "Subject",
+          "Next week"
+         ],
+         [
+          "Date",
+          "September 13"
+         ]
+        ]
+       },
+       {
+        "t": "p",
+        "x": "Hello, Kendra,"
+       },
+       {
+        "t": "p",
+        "x": "Welcome to Buslono Industries! My name is Marco, and I will be your peer mentor. As was likely explained to you, all new hires are paired with a peer mentor for the first six weeks of their employment. I will be your point of contact to help answer questions about company policies and culture and to help you get settled into your new position. — [1] —."
+       },
+       {
+        "t": "p",
+        "x": "I have been working for Buslono for nearly five years, first as a production assistant and now as a production leader. I have firsthand knowledge of the role you're about to take on. — [2] —."
+       },
+       {
+        "t": "p",
+        "x": "On your first day, September 20, your first stop will be at the HR department, where Ms. Stacey will get you set up with paperwork and an employee ID. — [3] —. From there, I will give you a tour of the offices and introduce you to our colleagues. Then we can all get lunch together in the cafeteria. — [4] —."
+       },
+       {
+        "t": "p",
+        "x": "I look forward to seeing you on Monday."
+       },
+       {
+        "t": "sign",
+        "x": "Marco Vargas\nProduction Leader, Buslono Industries"
+       }
+      ]
+     ],
+     "questions": [
+      {
+       "no": 161,
+       "label": "Test 3 · Q161",
+       "q": "What is one reason Mr. Vargas wrote to Ms. Klasnik?",
+       "options": [
+        "To offer her a job",
+        "To introduce himself",
+        "To outline her responsibilities",
+        "To answer a question about a policy"
+       ],
+       "answer": "B",
+       "exp_zh": "邮件开头 Vargas 先生欢迎对方入职，并说“我叫 Marco，将担任你的同伴导师”，然后介绍自己的工作经历，目的之一是自我介绍，选 (B)。",
+       "exp_ja": "冒頭で「私はマルコで、あなたのピアメンターを務める」と名乗り、自分の経歴も紹介しているので (B)。"
+      },
+      {
+       "no": 162,
+       "label": "Test 3 · Q162",
+       "q": "What is suggested about Ms. Klasnik?",
+       "options": [
+        "She will work in the production department.",
+        "She knows the location of the cafeteria.",
+        "She previously held a different position at Buslono Industries.",
+        "She will be Ms. Stacey's supervisor."
+       ],
+       "answer": "A",
+       "exp_zh": "Vargas 先生先做生产助理、现在是生产主管，他说“我对你即将担任的职务有亲身了解”，可推知 Klasnik 女士将在生产部门工作，选 (A)。她是新员工，C 错。",
+       "exp_ja": "Vargas さんは生産アシスタントを経て生産リーダーになり、「あなたが就く役割をよく知っている」と述べているので、Klasnik さんは生産部門で働くと考えられる。(A)。"
+      },
+      {
+       "no": 163,
+       "label": "Test 3 · Q163",
+       "q": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? \"I will meet you in her office at 10:30 A.M.\"",
+       "options": [
+        "[1]",
+        "[2]",
+        "[3]",
+        "[4]"
+       ],
+       "answer": "C",
+       "exp_zh": "插入句中的 her office 需要前面出现一位女性。[3] 前一句提到人事部的 Stacey 女士会帮她办手续和工牌，之后接“我 10:30 在她办公室和你碰面”，再接“从那里我带你参观”，逻辑通顺，选 (C)。",
+       "exp_ja": "挿入文の her office の「彼女」に当たる人物が直前に必要。[3] の前に人事部の Stacey さんが登場し、後に「そこからオフィスを案内する」と続くので (C)。"
+      }
+     ],
+     "src": "site+ep31"
+    },
+    {
+     "id": "T3-Q164-167",
+     "label": "Test 3 · Q164–167",
+     "test": 3,
+     "part": 7,
+     "intro": "Questions 164-167 refer to the following text-message chain.",
+     "docs": [
+      [
+       {
+        "t": "msg",
+        "who": "Sandra Melendez",
+        "time": "1:14 P.M.",
+        "x": "I'm hoping one of you can help me with something."
+       },
+       {
+        "t": "msg",
+        "who": "Lester Tabayoyong",
+        "time": "1:15 P.M.",
+        "x": "I'll certainly try. What do you need?"
+       },
+       {
+        "t": "msg",
+        "who": "Sandra Melendez",
+        "time": "1:16 P.M.",
+        "x": "I just called to schedule an appointment with Fountain of Clean, the company we've been using to wash the office windows."
+       },
+       {
+        "t": "msg",
+        "who": "Daria Krzyk",
+        "time": "1:17 P.M.",
+        "x": "The windows could sure use a cleaning! The construction project next door has kicked up a lot of dust."
+       },
+       {
+        "t": "msg",
+        "who": "Sandra Melendez",
+        "time": "1:18 P.M.",
+        "x": "Unfortunately, the Fountain of Clean telephone number has been disconnected, and their Web site is no longer available. It seems the company has gone out of business."
+       },
+       {
+        "t": "msg",
+        "who": "Lester Tabayoyong",
+        "time": "1:19 P.M.",
+        "x": "That's too bad. They always did a good job."
+       },
+       {
+        "t": "msg",
+        "who": "Sandra Melendez",
+        "time": "1:20 P.M.",
+        "x": "Do you know of any reliable window washers? Who did your last employer use?"
+       },
+       {
+        "t": "msg",
+        "who": "Lester Tabayoyong",
+        "time": "1:21 P.M.",
+        "x": "I think they also used Fountain of Clean."
+       },
+       {
+        "t": "msg",
+        "who": "Daria Krzyk",
+        "time": "1:22 P.M.",
+        "x": "I'm afraid I can't help you."
+       },
+       {
+        "t": "msg",
+        "who": "Lester Tabayoyong",
+        "time": "1:23 P.M.",
+        "x": "Ask Mr. Gortimer. He was the head of maintenance at his old company and might have some ideas."
+       },
+       {
+        "t": "msg",
+        "who": "Sandra Melendez",
+        "time": "1:24 P.M.",
+        "x": "I'll get in touch with him right away."
+       }
+      ]
+     ],
+     "questions": [
+      {
+       "no": 164,
+       "label": "Test 3 · Q164",
+       "q": "What does Ms. Melendez need?",
+       "options": [
+        "A service provider recommendation",
+        "A company handbook",
+        "A client's telephone number",
+        "A colleague's work history"
+       ],
+       "answer": "A",
+       "exp_zh": "原来的擦窗公司倒闭了，Melendez 问“你们知道可靠的擦窗公司吗？”，即需要推荐一家服务商，选 (A)。",
+       "exp_ja": "以前の窓清掃会社が廃業し、Melendez さんは「信頼できる窓清掃業者を知らないか」と尋ねている。業者の推薦が必要なので (A)。"
+      },
+      {
+       "no": 165,
+       "label": "Test 3 · Q165",
+       "q": "Why does Ms. Krzyk mention a construction project?",
+       "options": [
+        "To justify a significant expense",
+        "To note why the windows are particularly dirty",
+        "To complain about excessive noise",
+        "To express gratitude for additional office space"
+       ],
+       "answer": "B",
+       "exp_zh": "Krzyk 说窗户确实该擦了，因为隔壁工地扬起很多灰尘，是在说明窗户为何特别脏，选 (B)。",
+       "exp_ja": "Krzyk さんは隣の工事でほこりが舞っていると述べ、窓が特に汚れている理由を説明している。(B)。"
+      },
+      {
+       "no": 166,
+       "label": "Test 3 · Q166",
+       "q": "At 1:19 P.M., what does Mr. Tabayoyong most likely mean when he writes, \"That's too bad\"?",
+       "options": [
+        "He thought a task was performed poorly.",
+        "He does not care about a problem.",
+        "He cannot disclose a confidential source.",
+        "He is disappointed to learn some information."
+       ],
+       "answer": "D",
+       "exp_zh": "得知 Fountain of Clean 已倒闭后，他说“太可惜了，他们一直做得很好”，表示对这一消息感到遗憾，选 (D)。",
+       "exp_ja": "Fountain of Clean が廃業したと知り「残念だ、いつも良い仕事をしてくれた」と述べている。情報を聞いて残念に思っているので (D)。"
+      },
+      {
+       "no": 167,
+       "label": "Test 3 · Q167",
+       "q": "What will Ms. Melendez most likely do next?",
+       "options": [
+        "Contact a coworker",
+        "Make a reservation",
+        "Log on to a Web site",
+        "Schedule a delivery"
+       ],
+       "answer": "A",
+       "exp_zh": "Tabayoyong 建议去问同事 Gortimer 先生，Melendez 回答“我马上联系他”，选 (A)。",
+       "exp_ja": "同僚の Gortimer さんに聞くよう勧められ、Melendez さんは「すぐに連絡する」と答えている。(A)。"
+      }
+     ],
+     "src": "site+ep31"
+    }
+   ]
   }
  },
  "warmup": {

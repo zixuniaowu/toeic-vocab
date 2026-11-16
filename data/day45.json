@@ -1,0 +1,2182 @@
+{
+ "day": 45,
+ "date": "2026-11-17",
+ "title_zh": "四大词根 + 办公软件设备与采购监管谈判",
+ "title_ja": "4つの語根＋オフィスのソフト・機器と調達・監督・交渉",
+ "intro_zh": "今天的词根是 -pel-/-puls-（推；驱）、-clud-/-clus-（关；闭）、-rupt-（破；断）、-tain-/-ten-/-tent-（握；持）；主题是办公软件与数码设备，以及采购、监管与谈判。",
+ "intro_ja": "今日の語根は -pel-・-puls-（押す；駆る）、-clud-・-clus-（閉じる）、-rupt-（破る；断つ）、-tain-・-ten-・-tent-（持つ）。テーマはオフィスのソフトとデジタル機器、調達・監督・交渉。",
+ "voice": "en-US-AriaNeural",
+ "roots": [
+  {
+   "root": "-pel- / -puls-",
+   "origin": "Latin pellere, pulsus",
+   "zh": "推；驱",
+   "ja": "押す；駆る",
+   "exp_zh": "来自拉丁语 pellere（推）。推回去 → repel；从内部推动 → impel；向前推 → propulsion。⚠️ appeal（上诉；吸引）来自 appellare“呼唤”，不属于此词根。",
+   "exp_ja": "ラテン語 pellere（押す）から。押し返す → repel；内から駆り立てる → impel；前へ押す → propulsion。⚠️ appeal は appellare「呼びかける」由来で別語根。",
+   "examples": [
+    "repel",
+    "impel",
+    "propulsion",
+    "expulsion",
+    "impulsive"
+   ]
+  },
+  {
+   "root": "-clud- / -clus-",
+   "origin": "Latin claudere, clausus",
+   "zh": "关；闭",
+   "ja": "閉じる",
+   "exp_zh": "来自拉丁语 claudere（关闭）。关在里面 → include；关在门外 → exclusion；关起来隔开 → seclude。⚠️ close、clause 同源，cloud（云）不属于此词根。",
+   "exp_ja": "ラテン語 claudere（閉じる）から。中に閉じる → include；外に締め出す → exclusion；閉じて隔てる → seclude。⚠️ close・clause は同源、cloud（雲）は別語。",
+   "examples": [
+    "include",
+    "seclude",
+    "exclusion",
+    "inclusion",
+    "reclusive"
+   ]
+  },
+  {
+   "root": "-rupt-",
+   "origin": "Latin rumpere, ruptus",
+   "zh": "破；断",
+   "ja": "破る；断つ",
+   "exp_zh": "来自拉丁语 rumpere（打破）。冲破而出 → erupt；彻底败坏 → corruption；断开般地 → abruptly。⚠️ rapture（狂喜）来自 rapere“夺取”，不属于此词根。",
+   "exp_ja": "ラテン語 rumpere（破る）から。破って噴き出す → erupt；完全に壊す → corruption；ぷつりと断つ → abruptly。⚠️ rapture（歓喜）は rapere「奪う」由来で別語根。",
+   "examples": [
+    "erupt",
+    "rupture",
+    "corruption",
+    "incorruptible",
+    "abruptly"
+   ]
+  },
+  {
+   "root": "-tain- / -ten- / -tent-",
+   "origin": "Latin tenere",
+   "zh": "握；持",
+   "ja": "持つ",
+   "exp_zh": "来自拉丁语 tenere（握住）。握在一起 → contain；从下撑住 → sustain；握住不让走 → detain。⚠️ tent（帐篷）来自 tendere“伸展”，不属于此词根。",
+   "exp_ja": "ラテン語 tenere（持つ）から。まとめて持つ → contain；下から支える → sustain；つかんで離さない → detain。⚠️ tent（テント）は tendere「伸ばす」由来で別語根。",
+   "examples": [
+    "contain",
+    "sustain",
+    "detain",
+    "tenacious",
+    "tenable"
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "pel",
+   "title_zh": "词根 -pel- / -puls-：推；驱",
+   "title_ja": "語根 -pel- / -puls-：押す；駆る",
+   "words": [
+    {
+     "w": "repel",
+     "pos": "v.",
+     "ipa": "/rɪˈpɛl/",
+     "zh": "击退；使反感；排斥",
+     "ja": "撃退する；はねつける；不快にさせる",
+     "ex": "The coating is designed to repel water and dirt.",
+     "ex_zh": "这种涂层的作用是防水防污。",
+     "ex_ja": "このコーティングは水と汚れをはじくように作られている。",
+     "parts": [
+      [
+       "re-",
+       "回；向后",
+       "後ろへ"
+      ],
+      [
+       "pel",
+       "推；驱",
+       "押す；駆る"
+      ]
+     ],
+     "note": {
+      "zh": "re“向后”+ pel“推”→ 推回去 → 击退、排斥。",
+      "ja": "re「後ろへ」＋ pel「押す」→ 押し返す → 撃退する、はじく。"
+     },
+     "forms": [
+      [
+       "repellent (n./adj.)",
+       "驱虫剂；排斥的",
+       "忌避剤；はねつける"
+      ],
+      [
+       "water-repellent",
+       "防水的",
+       "撥水性の"
+      ]
+     ]
+    },
+    {
+     "w": "impel",
+     "pos": "v.",
+     "ipa": "/ɪmˈpɛl/",
+     "zh": "驱使；迫使",
+     "ja": "駆り立てる；強いる",
+     "ex": "A sense of duty impelled her to report the error.",
+     "ex_zh": "责任感促使她报告了这一错误。",
+     "ex_ja": "責任感から、彼女はそのミスを報告せざるをえなかった。",
+     "parts": [
+      [
+       "im-",
+       "向…；在内",
+       "〜へ"
+      ],
+      [
+       "pel",
+       "推；驱",
+       "押す；駆る"
+      ]
+     ],
+     "note": {
+      "zh": "im（in 的变体）“向内”+ pel“推”→ 从内部推动 → 驱使。常用 impel A to do。",
+      "ja": "im（in の変形）「中へ」＋ pel「押す」→ 内から突き動かす → 駆り立てる。impel A to do の形で使う。"
+     },
+     "forms": [
+      [
+       "feel impelled to do",
+       "觉得不得不做",
+       "〜せずにはいられない"
+      ],
+      [
+       "impelling force",
+       "推动力",
+       "推進力"
+      ]
+     ]
+    },
+    {
+     "w": "propulsion",
+     "pos": "n.",
+     "ipa": "/prəˈpʌlʃən/",
+     "zh": "推进；推动力",
+     "ja": "推進；推進力",
+     "ex": "The company develops electric propulsion systems for small boats.",
+     "ex_zh": "这家公司研发小型船只用的电力推进系统。",
+     "ex_ja": "その会社は小型船向けの電気推進システムを開発している。",
+     "parts": [
+      [
+       "pro-",
+       "向前",
+       "前へ"
+      ],
+      [
+       "puls",
+       "推；驱",
+       "押す；駆る"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "pro“向前”+ puls“推”+ -ion → 向前推的力量 → 推进。动词 propel。",
+      "ja": "pro「前へ」＋ puls「押す」＋ -ion → 前へ押す力 → 推進。動詞は propel。"
+     },
+     "forms": [
+      [
+       "propulsion system",
+       "推进系统",
+       "推進システム"
+      ],
+      [
+       "propel (v.)",
+       "推动；推进",
+       "推進する"
+      ]
+     ]
+    },
+    {
+     "w": "expulsion",
+     "pos": "n.",
+     "ipa": "/ɪkˈspʌlʃən/",
+     "zh": "驱逐；开除",
+     "ja": "追放；除名；退学処分",
+     "ex": "The club announced the expulsion of two members for unpaid fees.",
+     "ex_zh": "俱乐部宣布因拖欠会费开除两名会员。",
+     "ex_ja": "クラブは会費未納を理由に会員2名の除名を発表した。",
+     "parts": [
+      [
+       "ex-",
+       "向外",
+       "外へ"
+      ],
+      [
+       "puls",
+       "推；驱",
+       "押す；駆る"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "ex“向外”+ puls“推”+ -ion → 推出去 → 驱逐、开除。动词 expel。",
+      "ja": "ex「外へ」＋ puls「押す」＋ -ion → 押し出す → 追放、除名。動詞は expel。"
+     },
+     "forms": [
+      [
+       "expel (v.)",
+       "驱逐；开除",
+       "追放する"
+      ],
+      [
+       "expulsion from",
+       "被…开除",
+       "〜からの追放"
+      ]
+     ]
+    },
+    {
+     "w": "compulsion",
+     "pos": "n.",
+     "ipa": "/kəmˈpʌlʃən/",
+     "zh": "强制；强迫性冲动",
+     "ja": "強制；抑えがたい衝動",
+     "ex": "Employees are under no compulsion to attend the optional workshop.",
+     "ex_zh": "员工没有义务参加这场自愿参加的研讨会。",
+     "ex_ja": "従業員は任意のワークショップに参加する義務はない。",
+     "parts": [
+      [
+       "com-",
+       "彻底；一起",
+       "完全に"
+      ],
+      [
+       "puls",
+       "推；驱",
+       "押す；駆る"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "com“彻底”+ puls“推”+ -ion → 被彻底推着走 → 强制。形容词 compulsory（已用过）。",
+      "ja": "com「完全に」＋ puls「押す」＋ -ion → 押しつけられること → 強制。形容詞は compulsory。"
+     },
+     "forms": [
+      [
+       "under compulsion",
+       "被迫地",
+       "強制されて"
+      ],
+      [
+       "no compulsion to do",
+       "没有义务做…",
+       "〜する義務はない"
+      ]
+     ]
+    },
+    {
+     "w": "repulsive",
+     "pos": "adj.",
+     "ipa": "/rɪˈpʌlsɪv/",
+     "zh": "令人厌恶的；排斥的",
+     "ja": "不快な；嫌悪感を催させる",
+     "ex": "The smell from the storage room was so repulsive that we opened every window.",
+     "ex_zh": "仓库里的气味令人作呕，我们把所有窗户都打开了。",
+     "ex_ja": "倉庫の臭いがあまりにひどく、私たちはすべての窓を開けた。",
+     "parts": [
+      [
+       "re-",
+       "回；向后",
+       "後ろへ"
+      ],
+      [
+       "puls",
+       "推；驱",
+       "押す；駆る"
+      ],
+      [
+       "-ive",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "re“向后”+ puls“推”+ -ive → 让人想推开的 → 令人厌恶。名词 repulsion。",
+      "ja": "re「後ろへ」＋ puls「押す」＋ -ive → 押しのけたくなる → 不快な。名詞は repulsion。"
+     },
+     "forms": [
+      [
+       "repulsion (n.)",
+       "厌恶；排斥",
+       "嫌悪；反発"
+      ],
+      [
+       "repulsive behavior",
+       "令人反感的行为",
+       "不快な振る舞い"
+      ]
+     ]
+    },
+    {
+     "w": "impulsive",
+     "pos": "adj.",
+     "ipa": "/ɪmˈpʌlsɪv/",
+     "zh": "冲动的；一时兴起的",
+     "ja": "衝動的な",
+     "ex": "Impulsive spending can quickly exhaust a small department budget.",
+     "ex_zh": "冲动消费会很快耗尽一个小部门的预算。",
+     "ex_ja": "衝動的な支出は、小さな部署の予算をすぐに使い果たしかねない。",
+     "parts": [
+      [
+       "im-",
+       "向内",
+       "中へ"
+      ],
+      [
+       "puls",
+       "推；驱",
+       "押す；駆る"
+      ],
+      [
+       "-ive",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "im“向内”+ puls“推”+ -ive → 被内心一推就行动的 → 冲动的。名词 impulse（已用过）。",
+      "ja": "im「中へ」＋ puls「押す」＋ -ive → 内側の衝動で動く → 衝動的な。名詞は impulse。"
+     },
+     "forms": [
+      [
+       "impulsive buying",
+       "冲动购物",
+       "衝動買い"
+      ],
+      [
+       "impulsively (adv.)",
+       "冲动地",
+       "衝動的に"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "clud",
+   "title_zh": "词根 -clud- / -clus-：关；闭",
+   "title_ja": "語根 -clud- / -clus-：閉じる",
+   "words": [
+    {
+     "w": "include",
+     "pos": "v.",
+     "ipa": "/ɪnˈklud/",
+     "zh": "包括；包含",
+     "ja": "含む；含める",
+     "ex": "The monthly fee includes technical support and software updates.",
+     "ex_zh": "月费包括技术支持和软件更新。",
+     "ex_ja": "月額料金には技術サポートとソフトウェア更新が含まれる。",
+     "parts": [
+      [
+       "in-",
+       "在内",
+       "中に"
+      ],
+      [
+       "clud",
+       "关；闭",
+       "閉じる"
+      ]
+     ],
+     "note": {
+      "zh": "in“在内”+ clud“关”→ 关在里面 → 包括。",
+      "ja": "in「中に」＋ clud「閉じる」→ 中に閉じ込める → 含む。"
+     },
+     "forms": [
+      [
+       "including (prep.)",
+       "包括…在内",
+       "〜を含めて"
+      ],
+      [
+       "be included in",
+       "被包含在…中",
+       "〜に含まれる"
+      ]
+     ],
+     "tip": {
+      "zh": "TOEIC 常考 Price includes / is inclusive of … 等包含结构；include 本身不加 in。",
+      "ja": "include は他動詞。include in と続けない（be included in は受け身）。"
+     }
+    },
+    {
+     "w": "seclude",
+     "pos": "v.",
+     "ipa": "/sɪˈklud/",
+     "zh": "使隔绝；使隐居",
+     "ja": "隔離する；引きこもらせる",
+     "ex": "The resort is secluded from the main road by a thick forest.",
+     "ex_zh": "度假村被茂密的森林与主干道隔开。",
+     "ex_ja": "そのリゾートは深い森で幹線道路から隔てられている。",
+     "parts": [
+      [
+       "se-",
+       "分开",
+       "離して"
+      ],
+      [
+       "clud",
+       "关；闭",
+       "閉じる"
+      ]
+     ],
+     "note": {
+      "zh": "se“分开”+ clud“关”→ 关起来隔开 → 使隔绝。常用被动 secluded（僻静的）。",
+      "ja": "se「離して」＋ clud「閉じる」→ 閉じて離す → 隔離する。過去分詞 secluded（人里離れた）でよく使う。"
+     },
+     "forms": [
+      [
+       "a secluded beach",
+       "僻静的海滩",
+       "人里離れた浜辺"
+      ],
+      [
+       "seclusion (n.)",
+       "隔绝；隐居",
+       "隔絶；隠遁"
+      ]
+     ]
+    },
+    {
+     "w": "exclusion",
+     "pos": "n.",
+     "ipa": "/ɪkˈskluʒən/",
+     "zh": "排除；除外事项",
+     "ja": "除外；排除",
+     "ex": "The warranty lists several exclusions, including damage caused by water.",
+     "ex_zh": "保修条款列出了几项除外责任，包括进水造成的损坏。",
+     "ex_ja": "保証書には、水による損傷など、いくつかの免責事項が記載されている。",
+     "parts": [
+      [
+       "ex-",
+       "向外",
+       "外へ"
+      ],
+      [
+       "clus",
+       "关；闭",
+       "閉じる"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "ex“向外”+ clus“关”+ -ion → 关在门外 → 排除。with the exclusion of = 除…之外。",
+      "ja": "ex「外へ」＋ clus「閉じる」＋ -ion → 締め出す → 除外。with the exclusion of ＝ 〜を除いて。"
+     },
+     "forms": [
+      [
+       "with the exclusion of",
+       "除…之外",
+       "〜を除いて"
+      ],
+      [
+       "exclude (v.)",
+       "排除",
+       "除外する"
+      ]
+     ]
+    },
+    {
+     "w": "inclusion",
+     "pos": "n.",
+     "ipa": "/ɪnˈkluʒən/",
+     "zh": "包含；纳入",
+     "ja": "包含；組み入れ",
+     "ex": "The inclusion of a clear cancellation policy reduced customer complaints.",
+     "ex_zh": "加入明确的取消政策后，客户投诉减少了。",
+     "ex_ja": "明確なキャンセル規定を盛り込んだことで、顧客の苦情が減った。",
+     "parts": [
+      [
+       "in-",
+       "在内",
+       "中に"
+      ],
+      [
+       "clus",
+       "关；闭",
+       "閉じる"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "in“在内”+ clus“关”+ -ion → 关进去 → 纳入。形容词 inclusive（已用过）。",
+      "ja": "in「中に」＋ clus「閉じる」＋ -ion → 中に入れる → 包含。形容詞は inclusive。"
+     },
+     "forms": [
+      [
+       "inclusion of",
+       "纳入…",
+       "〜を含めること"
+      ],
+      [
+       "social inclusion",
+       "社会包容",
+       "社会的包摂"
+      ]
+     ]
+    },
+    {
+     "w": "occlude",
+     "pos": "v.",
+     "ipa": "/əˈklud/",
+     "zh": "堵塞；封闭",
+     "ja": "ふさぐ；閉塞させる",
+     "ex": "A fallen tree occluded the entrance to the tunnel.",
+     "ex_zh": "一棵倒下的树堵住了隧道入口。",
+     "ex_ja": "倒れた木がトンネルの入口をふさいだ。",
+     "parts": [
+      [
+       "oc-",
+       "对着；挡在前面",
+       "〜に向かって"
+      ],
+      [
+       "clud",
+       "关；闭",
+       "閉じる"
+      ]
+     ],
+     "note": {
+      "zh": "oc（ob 的变体）“挡在前面”+ clud“关”→ 堵住。多见于医学、牙科、技术文章。",
+      "ja": "oc（ob の変形）「立ちふさがって」＋ clud「閉じる」→ ふさぐ。医学・歯科・技術文書に多い。"
+     },
+     "forms": [
+      [
+       "occlusion (n.)",
+       "堵塞；咬合",
+       "閉塞；咬合"
+      ],
+      [
+       "occluded artery",
+       "堵塞的动脉",
+       "閉塞した動脈"
+      ]
+     ]
+    },
+    {
+     "w": "recluse",
+     "pos": "n.",
+     "ipa": "/ˈrɛklus/",
+     "zh": "隐居者；离群索居的人",
+     "ja": "隠遁者；世捨て人",
+     "ex": "The author became a recluse and rarely appeared at public events.",
+     "ex_zh": "这位作家成了隐士，很少出席公开活动。",
+     "ex_ja": "その作家は隠遁者となり、公の行事にはほとんど姿を見せなかった。",
+     "parts": [
+      [
+       "re-",
+       "向后；退",
+       "後ろへ"
+      ],
+      [
+       "clus",
+       "关；闭",
+       "閉じる"
+      ]
+     ],
+     "note": {
+      "zh": "re“向后”+ clus“关”→ 把自己关在后面 → 隐居者。",
+      "ja": "re「後ろへ」＋ clus「閉じる」→ 自分を閉ざす → 隠遁者。"
+     },
+     "forms": [
+      [
+       "reclusive (adj.)",
+       "隐居的",
+       "隠遁的"
+      ],
+      [
+       "live like a recluse",
+       "过隐居生活",
+       "世捨て人のように暮らす"
+      ]
+     ]
+    },
+    {
+     "w": "reclusive",
+     "pos": "adj.",
+     "ipa": "/rɪˈklusɪv/",
+     "zh": "隐居的；不爱交际的",
+     "ja": "隠遁的な；人づきあいを避ける",
+     "ex": "The reclusive founder has not given an interview in ten years.",
+     "ex_zh": "这位深居简出的创始人十年来没有接受过采访。",
+     "ex_ja": "人前に出ない創業者は、10年間インタビューに応じていない。",
+     "parts": [
+      [
+       "re-",
+       "向后；退",
+       "後ろへ"
+      ],
+      [
+       "clus",
+       "关；闭",
+       "閉じる"
+      ],
+      [
+       "-ive",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "recluse 的形容词形式：把自己封闭起来的 → 隐居的。",
+      "ja": "recluse の形容詞形：自分を閉ざした → 隠遁的な。"
+     },
+     "forms": [
+      [
+       "reclusive billionaire",
+       "深居简出的亿万富翁",
+       "人前に出ない大富豪"
+      ],
+      [
+       "recluse (n.)",
+       "隐居者",
+       "隠遁者"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rupt",
+   "title_zh": "词根 -rupt-：破；断",
+   "title_ja": "語根 -rupt-：破る；断つ",
+   "words": [
+    {
+     "w": "erupt",
+     "pos": "v.",
+     "ipa": "/ɪˈrʌpt/",
+     "zh": "爆发；喷发",
+     "ja": "噴火する；爆発する",
+     "ex": "Applause erupted when the CEO announced the record profits.",
+     "ex_zh": "首席执行官宣布创纪录的利润时，掌声爆发了。",
+     "ex_ja": "CEOが過去最高益を発表すると、拍手が沸き起こった。",
+     "parts": [
+      [
+       "e-",
+       "向外",
+       "外へ"
+      ],
+      [
+       "rupt",
+       "破；断",
+       "破る；裂く"
+      ]
+     ],
+     "note": {
+      "zh": "e（ex 的变体）“向外”+ rupt“破”→ 冲破而出 → 爆发、喷发。",
+      "ja": "e（ex の変形）「外へ」＋ rupt「破る」→ 破って噴き出す → 爆発する。"
+     },
+     "forms": [
+      [
+       "erupt into",
+       "突然变成…",
+       "突然〜に変わる"
+      ],
+      [
+       "eruption (n.)",
+       "爆发；喷发",
+       "噴火；爆発"
+      ]
+     ]
+    },
+    {
+     "w": "eruption",
+     "pos": "n.",
+     "ipa": "/ɪˈrʌpʃən/",
+     "zh": "爆发；喷发",
+     "ja": "噴火；突発",
+     "ex": "The volcanic eruption forced airlines to cancel hundreds of flights.",
+     "ex_zh": "火山喷发迫使航空公司取消了数百个航班。",
+     "ex_ja": "火山の噴火により、航空会社は数百便を欠航にした。",
+     "parts": [
+      [
+       "e-",
+       "向外",
+       "外へ"
+      ],
+      [
+       "rupt",
+       "破；断",
+       "破る；裂く"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "erupt 的名词形式：冲破而出 → 爆发。",
+      "ja": "erupt の名詞形：破って噴き出す → 噴火、突発。"
+     },
+     "forms": [
+      [
+       "volcanic eruption",
+       "火山喷发",
+       "火山の噴火"
+      ],
+      [
+       "an eruption of",
+       "…的爆发",
+       "〜の爆発"
+      ]
+     ]
+    },
+    {
+     "w": "rupture",
+     "pos": "n./v.",
+     "ipa": "/ˈrʌptʃɚ/",
+     "zh": "破裂；断裂",
+     "ja": "破裂；決裂",
+     "ex": "A pipe rupture flooded the basement and damaged stored files.",
+     "ex_zh": "水管破裂淹了地下室，损坏了存放的文件。",
+     "ex_ja": "配管の破裂で地下室が浸水し、保管していた書類が傷んだ。",
+     "parts": [
+      [
+       "rupt",
+       "破；断",
+       "破る；裂く"
+      ],
+      [
+       "-ure",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "rupt“破”+ -ure（名词后缀）→ 破裂。也可比喻关系破裂。",
+      "ja": "rupt「破る」＋ -ure（名詞語尾）→ 破裂。関係の決裂にも使う。"
+     },
+     "forms": [
+      [
+       "a ruptured pipe",
+       "破裂的管道",
+       "破裂した配管"
+      ],
+      [
+       "rupture in relations",
+       "关系破裂",
+       "関係の決裂"
+      ]
+     ]
+    },
+    {
+     "w": "corruption",
+     "pos": "n.",
+     "ipa": "/kəˈrʌpʃən/",
+     "zh": "腐败；贪污",
+     "ja": "腐敗；汚職",
+     "ex": "The new law aims to reduce corruption in public contracts.",
+     "ex_zh": "新法旨在减少公共合同中的腐败现象。",
+     "ex_ja": "新しい法律は、公共契約における汚職を減らすことを目的としている。",
+     "parts": [
+      [
+       "cor-",
+       "彻底",
+       "完全に"
+      ],
+      [
+       "rupt",
+       "破；断",
+       "破る；裂く"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "cor（com 的变体）“彻底”+ rupt“破”+ -ion → 彻底败坏 → 腐败。动词 corrupt（已用过）。",
+      "ja": "cor（com の変形）「完全に」＋ rupt「破る」＋ -ion → 完全に壊れる → 腐敗。動詞は corrupt。"
+     },
+     "forms": [
+      [
+       "corruption scandal",
+       "腐败丑闻",
+       "汚職スキャンダル"
+      ],
+      [
+       "corrupt (adj./v.)",
+       "腐败的；使腐化",
+       "腐敗した；堕落させる"
+      ]
+     ]
+    },
+    {
+     "w": "incorruptible",
+     "pos": "adj.",
+     "ipa": "/ˌɪnkəˈrʌptəbəl/",
+     "zh": "廉洁的；不会腐败的",
+     "ja": "清廉な；買収されない",
+     "ex": "The auditor was known as an incorruptible professional.",
+     "ex_zh": "这位审计员以廉洁的职业操守著称。",
+     "ex_ja": "その監査役は清廉な専門家として知られていた。",
+     "parts": [
+      [
+       "in-",
+       "不",
+       "〜ない"
+      ],
+      [
+       "cor-",
+       "彻底",
+       "完全に"
+      ],
+      [
+       "rupt",
+       "破；断",
+       "破る；裂く"
+      ],
+      [
+       "-ible",
+       "可…的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "in“不”+ corrupt“腐败”+ -ible“可…的” → 不会被腐化的 → 廉洁的。",
+      "ja": "in「〜ない」＋ corrupt「腐敗させる」＋ -ible「〜できる」→ 腐敗させられない → 清廉な。"
+     },
+     "forms": [
+      [
+       "incorruptible official",
+       "廉洁的官员",
+       "清廉な官僚"
+      ],
+      [
+       "corruptible (adj.)",
+       "可被腐化的",
+       "買収されやすい"
+      ]
+     ]
+    },
+    {
+     "w": "abruptly",
+     "pos": "adv.",
+     "ipa": "/əˈbrʌptli/",
+     "zh": "突然地；唐突地",
+     "ja": "突然；唐突に",
+     "ex": "The meeting ended abruptly when the power went out.",
+     "ex_zh": "停电后会议突然结束了。",
+     "ex_ja": "停電のため、会議は突然終わった。",
+     "parts": [
+      [
+       "ab-",
+       "离开",
+       "離れて"
+      ],
+      [
+       "rupt",
+       "破；断",
+       "破る；裂く"
+      ],
+      [
+       "-ly",
+       "副词后缀",
+       "副詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "ab“离开”+ rupt“断”+ -ly → 断开般地 → 突然地。形容词 abrupt（已用过）。",
+      "ja": "ab「離れて」＋ rupt「断つ」＋ -ly → ぷつりと切れるように → 突然。形容詞は abrupt。"
+     },
+     "forms": [
+      [
+       "stop abruptly",
+       "突然停止",
+       "突然止まる"
+      ],
+      [
+       "abruptly resign",
+       "突然辞职",
+       "突然辞職する"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tain",
+   "title_zh": "词根 -tain- / -ten- / -tent-：握；持",
+   "title_ja": "語根 -tain- / -ten- / -tent-：持つ",
+   "words": [
+    {
+     "w": "contain",
+     "pos": "v.",
+     "ipa": "/kənˈteɪn/",
+     "zh": "包含；容纳；控制",
+     "ja": "含む；収容する；抑える",
+     "ex": "Each box contains twelve sets of instructions.",
+     "ex_zh": "每个箱子里装有十二份说明书。",
+     "ex_ja": "各箱には説明書が12部入っている。",
+     "parts": [
+      [
+       "con-",
+       "一起；完全",
+       "共に"
+      ],
+      [
+       "tain",
+       "握；持",
+       "持つ"
+      ]
+     ],
+     "note": {
+      "zh": "con“一起”+ tain“握”→ 握在一起 → 容纳、包含。也指“控制（疫情、成本）”。",
+      "ja": "con「共に」＋ tain「持つ」→ まとめて持つ → 含む、収容する。「（費用・感染を）抑える」の意味もある。"
+     },
+     "forms": [
+      [
+       "contain costs",
+       "控制成本",
+       "コストを抑える"
+      ],
+      [
+       "container (n.)",
+       "容器；集装箱",
+       "容器；コンテナ"
+      ]
+     ],
+     "tip": {
+      "zh": "contain 多用于“内含物”；include 多用于“组成部分”。",
+      "ja": "contain は中身、include は構成要素に使うことが多い。"
+     }
+    },
+    {
+     "w": "containment",
+     "pos": "n.",
+     "ipa": "/kənˈteɪnmənt/",
+     "zh": "遏制；控制",
+     "ja": "封じ込め；抑制",
+     "ex": "Cost containment was the main goal of this year's budget plan.",
+     "ex_zh": "控制成本是今年预算计划的主要目标。",
+     "ex_ja": "今年の予算計画の主な目標はコストの抑制だった。",
+     "parts": [
+      [
+       "contain",
+       "包含；控制",
+       "含む；抑える"
+      ],
+      [
+       "-ment",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "contain“控制”+ -ment → 控制、遏制。常见搭配 cost containment。",
+      "ja": "contain「抑える」＋ -ment → 抑制。cost containment が頻出。"
+     },
+     "forms": [
+      [
+       "cost containment",
+       "成本控制",
+       "コスト抑制"
+      ],
+      [
+       "containment measures",
+       "遏制措施",
+       "封じ込め策"
+      ]
+     ]
+    },
+    {
+     "w": "sustain",
+     "pos": "v.",
+     "ipa": "/səˈsteɪn/",
+     "zh": "维持；支撑；遭受",
+     "ja": "維持する；支える；（損害を）受ける",
+     "ex": "The company cannot sustain such rapid growth without hiring more staff.",
+     "ex_zh": "不增加人手，公司无法维持这样的快速增长。",
+     "ex_ja": "その会社は、人員を増やさなければこれほどの急成長を持続できない。",
+     "parts": [
+      [
+       "sus-",
+       "从下",
+       "下から"
+      ],
+      [
+       "tain",
+       "握；持",
+       "持つ"
+      ]
+     ],
+     "note": {
+      "zh": "sus（sub 的变体）“从下”+ tain“握”→ 从下面撑住 → 维持。也指“遭受（损失、伤害）”。",
+      "ja": "sus（sub の変形）「下から」＋ tain「持つ」→ 下から支える → 維持する。「（損失・けがを）被る」の意味もある。"
+     },
+     "forms": [
+      [
+       "sustain damage",
+       "遭受损坏",
+       "損害を受ける"
+      ],
+      [
+       "sustainable (adj.)",
+       "可持续的",
+       "持続可能な"
+      ]
+     ]
+    },
+    {
+     "w": "sustenance",
+     "pos": "n.",
+     "ipa": "/ˈsʌstənəns/",
+     "zh": "食物；生计；维持",
+     "ja": "食物；生計；維持",
+     "ex": "The relief agency provided food and other basic sustenance to the flood victims.",
+     "ex_zh": "救援机构向洪灾灾民提供了食物和其他基本生活物资。",
+     "ex_ja": "救援団体は洪水の被災者に食料などの基本的な生活物資を提供した。",
+     "parts": [
+      [
+       "sus-",
+       "从下",
+       "下から"
+      ],
+      [
+       "ten",
+       "握；持",
+       "持つ"
+      ],
+      [
+       "-ance",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "sus“从下”+ ten“握”+ -ance → 支撑生命的东西 → 食物、生计。",
+      "ja": "sus「下から」＋ ten「持つ」＋ -ance → 命を支えるもの → 食物、生計。"
+     },
+     "forms": [
+      [
+       "means of sustenance",
+       "谋生手段",
+       "生計の手段"
+      ],
+      [
+       "sustain (v.)",
+       "维持",
+       "維持する"
+      ]
+     ]
+    },
+    {
+     "w": "detain",
+     "pos": "v.",
+     "ipa": "/dɪˈteɪn/",
+     "zh": "拘留；耽搁",
+     "ja": "拘留する；引き止める",
+     "ex": "Customs officers detained the shipment for further inspection.",
+     "ex_zh": "海关扣留了这批货物以便进一步检查。",
+     "ex_ja": "税関職員は追加検査のためその貨物を留め置いた。",
+     "parts": [
+      [
+       "de-",
+       "离开；向下",
+       "離して"
+      ],
+      [
+       "tain",
+       "握；持",
+       "持つ"
+      ]
+     ],
+     "note": {
+      "zh": "de“离开”+ tain“握”→ 握住不让走 → 拘留、扣留、耽搁。",
+      "ja": "de「離して」＋ tain「持つ」→ つかんで行かせない → 拘留する、引き止める。"
+     },
+     "forms": [
+      [
+       "detain a shipment",
+       "扣留货物",
+       "貨物を留め置く"
+      ],
+      [
+       "detainee (n.)",
+       "被拘留者",
+       "被拘束者"
+      ]
+     ]
+    },
+    {
+     "w": "detention",
+     "pos": "n.",
+     "ipa": "/dɪˈtɛnʃən/",
+     "zh": "拘留；扣留",
+     "ja": "拘留；留置",
+     "ex": "The goods were held in detention at the port for two weeks.",
+     "ex_zh": "这批货物在港口被扣留了两周。",
+     "ex_ja": "その商品は港で2週間留め置かれた。",
+     "parts": [
+      [
+       "de-",
+       "离开",
+       "離して"
+      ],
+      [
+       "tent",
+       "握；持",
+       "持つ"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "detain 的名词形式（tain → tent）：握住不放 → 扣留。",
+      "ja": "detain の名詞形（tain → tent）：つかんで離さない → 留置。"
+     },
+     "forms": [
+      [
+       "detention center",
+       "拘留中心",
+       "収容施設"
+      ],
+      [
+       "in detention",
+       "被扣留中",
+       "拘留中で"
+      ]
+     ]
+    },
+    {
+     "w": "tenacious",
+     "pos": "adj.",
+     "ipa": "/təˈneɪʃəs/",
+     "zh": "顽强的；坚持不懈的",
+     "ja": "粘り強い；執拗な",
+     "ex": "A tenacious negotiator, she refused to give up until the deal was signed.",
+     "ex_zh": "她是一位坚韧的谈判者，不到合同签订绝不放弃。",
+     "ex_ja": "彼女は粘り強い交渉人で、契約が結ばれるまで諦めなかった。",
+     "parts": [
+      [
+       "ten",
+       "握；持",
+       "持つ"
+      ],
+      [
+       "-acious",
+       "倾向于…的",
+       "〜しがちな"
+      ]
+     ],
+     "note": {
+      "zh": "ten“握”+ -acious“倾向…的”→ 紧握不放的 → 顽强的。名词 tenacity。",
+      "ja": "ten「持つ」＋ -acious「〜しがちな」→ 握って離さない → 粘り強い。名詞は tenacity。"
+     },
+     "forms": [
+      [
+       "tenacity (n.)",
+       "坚韧；顽强",
+       "粘り強さ"
+      ],
+      [
+       "tenacious competitor",
+       "顽强的竞争对手",
+       "粘り強い競争相手"
+      ]
+     ]
+    },
+    {
+     "w": "tenable",
+     "pos": "adj.",
+     "ipa": "/ˈtɛnəbəl/",
+     "zh": "站得住脚的；可坚守的",
+     "ja": "筋が通っている；擁護できる",
+     "ex": "Given the new data, the company's earlier forecast is no longer tenable.",
+     "ex_zh": "有了新数据，公司先前的预测已站不住脚。",
+     "ex_ja": "新しいデータを踏まえると、同社の以前の予測はもはや成り立たない。",
+     "parts": [
+      [
+       "ten",
+       "握；持",
+       "持つ"
+      ],
+      [
+       "-able",
+       "可…的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "ten“握”+ -able“可…的”→ 能守得住的 → （观点）站得住脚。反义 untenable。",
+      "ja": "ten「持つ」＋ -able「〜できる」→ 守り通せる → （主張が）成り立つ。反対語は untenable。"
+     },
+     "forms": [
+      [
+       "untenable (adj.)",
+       "站不住脚的",
+       "支持できない"
+      ],
+      [
+       "tenable position",
+       "站得住脚的立场",
+       "成り立つ立場"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "it",
+   "title_zh": "主题：办公软件与数码设备",
+   "title_ja": "テーマ：オフィスのソフトとデジタル機器",
+   "words": [
+    {
+     "w": "login",
+     "pos": "n.",
+     "ipa": "/ˈlɔɡɪn/",
+     "zh": "登录；登录账号",
+     "ja": "ログイン",
+     "ex": "Please enter your login and password to access the staff portal.",
+     "ex_zh": "请输入登录账号和密码以进入员工门户。",
+     "ex_ja": "社員ポータルにアクセスするには、ログイン情報とパスワードを入力してください。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，按整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "log in (v.)",
+       "登录",
+       "ログインする"
+      ],
+      [
+       "login page",
+       "登录页面",
+       "ログインページ"
+      ]
+     ]
+    },
+    {
+     "w": "username",
+     "pos": "n.",
+     "ipa": "/ˈjuzɚneɪm/",
+     "zh": "用户名",
+     "ja": "ユーザー名",
+     "ex": "Your username is the e-mail address you used to register.",
+     "ex_zh": "您的用户名就是注册时使用的电子邮箱地址。",
+     "ex_ja": "ユーザー名は、登録時に使ったメールアドレスです。",
+     "parts": [
+      [
+       "user",
+       "使用者",
+       "利用者"
+      ],
+      [
+       "name",
+       "名字",
+       "名前"
+      ]
+     ],
+     "note": {
+      "zh": "由 user“使用者”+ name“名字”复合而成。",
+      "ja": "user「利用者」＋ name「名前」の複合語。"
+     },
+     "forms": [
+      [
+       "forgot username",
+       "忘记用户名",
+       "ユーザー名を忘れた"
+      ],
+      [
+       "username and password",
+       "用户名和密码",
+       "ユーザー名とパスワード"
+      ]
+     ]
+    },
+    {
+     "w": "interface",
+     "pos": "n.",
+     "ipa": "/ˈɪntɚfeɪs/",
+     "zh": "界面；接口",
+     "ja": "インターフェース；画面",
+     "ex": "The new software has a simpler interface that new employees can learn quickly.",
+     "ex_zh": "新软件的界面更简单，新员工能很快学会。",
+     "ex_ja": "新しいソフトはインターフェースが簡単で、新入社員もすぐに覚えられる。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，按整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "user interface",
+       "用户界面",
+       "ユーザーインターフェース"
+      ],
+      [
+       "interface with",
+       "与…交互",
+       "〜と連携する"
+      ]
+     ]
+    },
+    {
+     "w": "plugin",
+     "pos": "n.",
+     "ipa": "/ˈplʌɡɪn/",
+     "zh": "插件",
+     "ja": "プラグイン",
+     "ex": "Install the plugin to add a calendar to your web page.",
+     "ex_zh": "安装这个插件，即可在网页中添加日历。",
+     "ex_ja": "プラグインを入れると、ウェブページにカレンダーを追加できる。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，按整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "install a plugin",
+       "安装插件",
+       "プラグインを導入する"
+      ],
+      [
+       "plugin (adj.)",
+       "即插即用的",
+       "差し込み式の"
+      ]
+     ]
+    },
+    {
+     "w": "debug",
+     "pos": "v.",
+     "ipa": "/diˈbʌɡ/",
+     "zh": "调试；排除故障",
+     "ja": "デバッグする；不具合を取り除く",
+     "ex": "The engineers worked overnight to debug the booking system.",
+     "ex_zh": "工程师们通宵调试预订系统。",
+     "ex_ja": "技術者たちは予約システムの不具合を取り除くため、徹夜で作業した。",
+     "parts": [
+      [
+       "de-",
+       "去除",
+       "取り除く"
+      ],
+      [
+       "bug",
+       "程序错误；虫",
+       "不具合；虫"
+      ]
+     ],
+     "note": {
+      "zh": "de“去除”+ bug“程序错误”→ 去掉错误 → 调试。",
+      "ja": "de「取り除く」＋ bug「不具合」→ バグを取る → デバッグする。"
+     },
+     "forms": [
+      [
+       "debugging (n.)",
+       "调试",
+       "デバッグ作業"
+      ],
+      [
+       "debug the code",
+       "调试代码",
+       "コードのバグを直す"
+      ]
+     ]
+    },
+    {
+     "w": "workflow",
+     "pos": "n.",
+     "ipa": "/ˈwɚkfloʊ/",
+     "zh": "工作流程",
+     "ja": "業務の流れ；ワークフロー",
+     "ex": "The new approval workflow cut processing time from five days to two.",
+     "ex_zh": "新的审批流程把处理时间从五天缩短到两天。",
+     "ex_ja": "新しい承認ワークフローにより、処理時間が5日から2日に短縮された。",
+     "parts": [
+      [
+       "work",
+       "工作",
+       "仕事"
+      ],
+      [
+       "flow",
+       "流动",
+       "流れ"
+      ]
+     ],
+     "note": {
+      "zh": "由 work“工作”+ flow“流动”复合而成。",
+      "ja": "work「仕事」＋ flow「流れ」の複合語。"
+     },
+     "forms": [
+      [
+       "streamline the workflow",
+       "精简流程",
+       "業務の流れを効率化する"
+      ],
+      [
+       "approval workflow",
+       "审批流程",
+       "承認フロー"
+      ]
+     ]
+    },
+    {
+     "w": "hyperlink",
+     "pos": "n.",
+     "ipa": "/ˈhaɪpɚlɪŋk/",
+     "zh": "超链接",
+     "ja": "ハイパーリンク",
+     "ex": "Click the hyperlink in the e-mail to confirm your registration.",
+     "ex_zh": "点击电子邮件中的超链接以确认注册。",
+     "ex_ja": "登録を確認するには、メール内のハイパーリンクをクリックしてください。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，按整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "click a hyperlink",
+       "点击超链接",
+       "リンクをクリックする"
+      ],
+      [
+       "link (n./v.)",
+       "链接；连接",
+       "リンク；つなぐ"
+      ]
+     ]
+    },
+    {
+     "w": "inbox",
+     "pos": "n.",
+     "ipa": "/ˈɪnbɑks/",
+     "zh": "收件箱",
+     "ja": "受信トレイ",
+     "ex": "Her inbox was full of unread messages after the holiday.",
+     "ex_zh": "假期过后，她的收件箱里塞满了未读邮件。",
+     "ex_ja": "休暇明け、彼女の受信トレイは未読メールでいっぱいだった。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，按整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "check one's inbox",
+       "查看收件箱",
+       "受信トレイを確認する"
+      ],
+      [
+       "inbox zero",
+       "清空收件箱",
+       "受信トレイを空にすること"
+      ]
+     ]
+    },
+    {
+     "w": "shortcut",
+     "pos": "n.",
+     "ipa": "/ˈʃɔrtkʌt/",
+     "zh": "快捷方式；捷径",
+     "ja": "ショートカット；近道",
+     "ex": "Use the keyboard shortcut to save your file quickly.",
+     "ex_zh": "使用键盘快捷键可以快速保存文件。",
+     "ex_ja": "キーボードのショートカットを使えば、すばやくファイルを保存できる。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，按整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "keyboard shortcut",
+       "键盘快捷键",
+       "キーボードショートカット"
+      ],
+      [
+       "take a shortcut",
+       "走捷径",
+       "近道をする"
+      ]
+     ]
+    },
+    {
+     "w": "bookmark",
+     "pos": "n./v.",
+     "ipa": "/ˈbʊkmɑrk/",
+     "zh": "书签；收藏（网页）",
+     "ja": "ブックマーク；ブックマークする",
+     "ex": "Bookmark this page so you can find the price list again.",
+     "ex_zh": "把这个页面加入书签，以便再次查看价目表。",
+     "ex_ja": "価格表をまた見られるように、このページをブックマークしてください。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，按整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "bookmark a site",
+       "收藏网站",
+       "サイトをブックマークする"
+      ],
+      [
+       "bookmarked page",
+       "已收藏的页面",
+       "ブックマーク済みのページ"
+      ]
+     ]
+    },
+    {
+     "w": "browser",
+     "pos": "n.",
+     "ipa": "/ˈbraʊzɚ/",
+     "zh": "浏览器；浏览者",
+     "ja": "ブラウザ；閲覧者",
+     "ex": "The site works best with the latest version of your browser.",
+     "ex_zh": "使用最新版本的浏览器时，网站效果最佳。",
+     "ex_ja": "このサイトは、最新バージョンのブラウザで最も快適に動作する。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，按整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "web browser",
+       "网页浏览器",
+       "ウェブブラウザ"
+      ],
+      [
+       "browse (v.)",
+       "浏览",
+       "閲覧する"
+      ]
+     ]
+    },
+    {
+     "w": "spam",
+     "pos": "n.",
+     "ipa": "/spæm/",
+     "zh": "垃圾邮件",
+     "ja": "迷惑メール",
+     "ex": "Our filter blocks more than 90 percent of spam before it reaches your inbox.",
+     "ex_zh": "我们的过滤器会在垃圾邮件到达收件箱之前拦截九成以上。",
+     "ex_ja": "当社のフィルターは、受信トレイに届く前に迷惑メールの9割以上を遮断する。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，按整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "spam filter",
+       "垃圾邮件过滤器",
+       "迷惑メールフィルター"
+      ],
+      [
+       "spam folder",
+       "垃圾邮件文件夹",
+       "迷惑メールフォルダ"
+      ]
+     ]
+    },
+    {
+     "w": "scanner",
+     "pos": "n.",
+     "ipa": "/ˈskænɚ/",
+     "zh": "扫描仪",
+     "ja": "スキャナー",
+     "ex": "Place the document face down on the scanner and press the green button.",
+     "ex_zh": "把文件正面朝下放在扫描仪上，然后按绿色按钮。",
+     "ex_ja": "書類を表向きではなく裏向きにしてスキャナーに置き、緑のボタンを押してください。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，按整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "scan (v.)",
+       "扫描",
+       "スキャンする"
+      ],
+      [
+       "barcode scanner",
+       "条码扫描器",
+       "バーコードスキャナー"
+      ]
+     ]
+    },
+    {
+     "w": "printer",
+     "pos": "n.",
+     "ipa": "/ˈprɪntɚ/",
+     "zh": "打印机",
+     "ja": "プリンター",
+     "ex": "The printer on the third floor is out of toner again.",
+     "ex_zh": "三楼的打印机又没墨粉了。",
+     "ex_ja": "3階のプリンターはまたトナー切れになっている。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，按整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "printer jam",
+       "打印机卡纸",
+       "プリンターの紙詰まり"
+      ],
+      [
+       "print out",
+       "打印出来",
+       "印刷する"
+      ]
+     ]
+    },
+    {
+     "w": "laptop",
+     "pos": "n.",
+     "ipa": "/ˈlæptɑp/",
+     "zh": "笔记本电脑",
+     "ja": "ノートパソコン",
+     "ex": "Employees may take their company laptops home during the renovation.",
+     "ex_zh": "装修期间，员工可以把公司的笔记本电脑带回家。",
+     "ex_ja": "改装中、従業員は会社のノートパソコンを自宅に持ち帰ってよい。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，按整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "laptop computer",
+       "笔记本电脑",
+       "ノートパソコン"
+      ],
+      [
+       "bring a laptop",
+       "带笔记本电脑",
+       "ノートパソコンを持参する"
+      ]
+     ]
+    },
+    {
+     "w": "toolbar",
+     "pos": "n.",
+     "ipa": "/ˈtulbɑr/",
+     "zh": "工具栏",
+     "ja": "ツールバー",
+     "ex": "You can customize the toolbar to show only the functions you use.",
+     "ex_zh": "你可以自定义工具栏，只显示常用的功能。",
+     "ex_ja": "ツールバーをカスタマイズして、よく使う機能だけを表示できる。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，按整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "menu bar",
+       "菜单栏",
+       "メニューバー"
+      ],
+      [
+       "customize the toolbar",
+       "自定义工具栏",
+       "ツールバーをカスタマイズする"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pro",
+   "title_zh": "主题：采购、监管与谈判",
+   "title_ja": "テーマ：調達・監督・交渉",
+   "words": [
+    {
+     "w": "accountability",
+     "pos": "n.",
+     "ipa": "/əˌkaʊntəˈbɪləti/",
+     "zh": "问责；责任",
+     "ja": "説明責任；責任",
+     "ex": "The board demanded greater accountability from department heads.",
+     "ex_zh": "董事会要求各部门负责人承担更大的责任。",
+     "ex_ja": "取締役会は、各部門長にいっそうの説明責任を求めた。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，按整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "accountable (adj.)",
+       "负有责任的",
+       "責任を負う"
+      ],
+      [
+       "hold … accountable",
+       "让…负责",
+       "〜に責任を取らせる"
+      ]
+     ],
+     "tip": {
+      "zh": "be accountable to 人 for 事：对某人就某事负责。",
+      "ja": "be accountable to 人 for 事 の形で覚える。"
+     }
+    },
+    {
+     "w": "transparency",
+     "pos": "n.",
+     "ipa": "/trænsˈpɛrənsi/",
+     "zh": "透明度；公开",
+     "ja": "透明性",
+     "ex": "The firm promised more transparency in its pricing.",
+     "ex_zh": "公司承诺提高定价的透明度。",
+     "ex_ja": "その会社は価格設定の透明性を高めると約束した。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，按整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "transparent (adj.)",
+       "透明的；公开的",
+       "透明な；公開された"
+      ],
+      [
+       "financial transparency",
+       "财务透明",
+       "財務の透明性"
+      ]
+     ]
+    },
+    {
+     "w": "regulator",
+     "pos": "n.",
+     "ipa": "/ˈrɛɡjəleɪtɚ/",
+     "zh": "监管机构；监管者",
+     "ja": "規制当局",
+     "ex": "The banking regulator approved the merger last week.",
+     "ex_zh": "银行业监管机构上周批准了这次合并。",
+     "ex_ja": "銀行の規制当局は先週、その合併を承認した。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，按整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "regulate (v.)",
+       "监管；调节",
+       "規制する"
+      ],
+      [
+       "regulatory (adj.)",
+       "监管的",
+       "規制の"
+      ]
+     ]
+    },
+    {
+     "w": "watchdog",
+     "pos": "n.",
+     "ipa": "/ˈwɑtʃdɔɡ/",
+     "zh": "监督机构；看门狗",
+     "ja": "監視機関；番犬",
+     "ex": "A consumer watchdog criticized the company's misleading advertisements.",
+     "ex_zh": "一家消费者监督组织批评了该公司的误导性广告。",
+     "ex_ja": "消費者監視団体は、その会社の誤解を招く広告を批判した。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，按整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "consumer watchdog",
+       "消费者监督组织",
+       "消費者監視団体"
+      ],
+      [
+       "watchdog group",
+       "监督团体",
+       "監視団体"
+      ]
+     ]
+    },
+    {
+     "w": "outsourcing",
+     "pos": "n.",
+     "ipa": "/ˈaʊtsɔrsɪŋ/",
+     "zh": "外包",
+     "ja": "外部委託；アウトソーシング",
+     "ex": "Outsourcing payroll saved the company about 15 percent a year.",
+     "ex_zh": "把工资核算外包使公司每年节省约15%的成本。",
+     "ex_ja": "給与計算を外部委託したことで、同社は年間約15％を節約できた。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，按整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "outsource (v.)",
+       "外包",
+       "外部に委託する"
+      ],
+      [
+       "outsource to",
+       "外包给…",
+       "〜に外注する"
+      ]
+     ]
+    },
+    {
+     "w": "sourcing",
+     "pos": "n.",
+     "ipa": "/ˈsɔrsɪŋ/",
+     "zh": "采购；货源选择",
+     "ja": "調達；仕入れ先の選定",
+     "ex": "The company is changing its sourcing strategy to reduce delivery times.",
+     "ex_zh": "公司正在调整采购策略，以缩短交货时间。",
+     "ex_ja": "同社は納期を短縮するため、調達戦略を見直している。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，按整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "source (v./n.)",
+       "采购；来源",
+       "調達する；供給元"
+      ],
+      [
+       "global sourcing",
+       "全球采购",
+       "グローバル調達"
+      ]
+     ]
+    },
+    {
+     "w": "tender",
+     "pos": "n./v.",
+     "ipa": "/ˈtɛndɚ/",
+     "zh": "投标；正式提出",
+     "ja": "入札；正式に提出する",
+     "ex": "Three firms submitted a tender for the road construction project.",
+     "ex_zh": "三家公司为这个道路建设项目提交了投标书。",
+     "ex_ja": "3社が道路建設プロジェクトの入札書を提出した。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，按整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "submit a tender",
+       "提交投标",
+       "入札書を提出する"
+      ],
+      [
+       "tender one's resignation",
+       "正式递交辞呈",
+       "辞表を提出する"
+      ]
+     ],
+     "tip": {
+      "zh": "tender 还可作形容词“嫩的；温柔的”，注意靠语境区分。",
+      "ja": "tender には形容詞「柔らかい；優しい」もあるので文脈で判断する。"
+     }
+    },
+    {
+     "w": "consortium",
+     "pos": "n.",
+     "ipa": "/kənˈsɔrtiəm/",
+     "zh": "联合体；财团",
+     "ja": "共同事業体；コンソーシアム",
+     "ex": "A consortium of local firms won the contract to build the new stadium.",
+     "ex_zh": "一个由本地企业组成的联合体中标了新体育场的建设合同。",
+     "ex_ja": "地元企業のコンソーシアムが新スタジアム建設の契約を獲得した。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，按整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "form a consortium",
+       "组成联合体",
+       "コンソーシアムを組む"
+      ],
+      [
+       "consortium member",
+       "联合体成员",
+       "コンソーシアムの構成員"
+      ]
+     ]
+    },
+    {
+     "w": "alliance",
+     "pos": "n.",
+     "ipa": "/əˈlaɪəns/",
+     "zh": "联盟；结盟",
+     "ja": "提携；同盟",
+     "ex": "The two airlines formed a strategic alliance to share routes.",
+     "ex_zh": "这两家航空公司结成战略联盟，共享航线。",
+     "ex_ja": "両航空会社は路線を共有するため、戦略的提携を結んだ。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，按整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "form an alliance",
+       "结成联盟",
+       "提携を結ぶ"
+      ],
+      [
+       "ally (n./v.)",
+       "盟友；结盟",
+       "同盟者；提携する"
+      ]
+     ]
+    },
+    {
+     "w": "subcontractor",
+     "pos": "n.",
+     "ipa": "/ˌsʌbˈkɑntræktɚ/",
+     "zh": "分包商",
+     "ja": "下請け業者",
+     "ex": "The general contractor hired a subcontractor to install the wiring.",
+     "ex_zh": "总承包商雇了一家分包商来安装电线。",
+     "ex_ja": "元請け業者は配線工事のために下請け業者を雇った。",
+     "parts": [
+      [
+       "sub-",
+       "下面；次",
+       "下の"
+      ],
+      [
+       "contractor",
+       "承包商",
+       "請負業者"
+      ]
+     ],
+     "note": {
+      "zh": "sub“下一级”+ contractor“承包商”→ 分包商。动词 subcontract。",
+      "ja": "sub「下の」＋ contractor「請負業者」→ 下請け業者。動詞は subcontract。"
+     },
+     "forms": [
+      [
+       "subcontract (v.)",
+       "分包",
+       "下請けに出す"
+      ],
+      [
+       "general contractor",
+       "总承包商",
+       "元請け業者"
+      ]
+     ]
+    },
+    {
+     "w": "wholesaler",
+     "pos": "n.",
+     "ipa": "/ˈhoʊlseɪlɚ/",
+     "zh": "批发商",
+     "ja": "卸売業者",
+     "ex": "The shop buys fresh produce directly from a local wholesaler.",
+     "ex_zh": "这家店直接从本地批发商那里进新鲜农产品。",
+     "ex_ja": "その店は地元の卸売業者から直接生鮮食品を仕入れている。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，按整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "wholesale (n./adj.)",
+       "批发（的）",
+       "卸売り（の）"
+      ],
+      [
+       "wholesale price",
+       "批发价",
+       "卸売価格"
+      ]
+     ]
+    },
+    {
+     "w": "windfall",
+     "pos": "n.",
+     "ipa": "/ˈwɪndfɔl/",
+     "zh": "意外之财；横财",
+     "ja": "思わぬ収入；棚ぼた",
+     "ex": "The sudden tax refund was a welcome windfall for the small business.",
+     "ex_zh": "这笔突如其来的退税对小企业来说是一笔受欢迎的意外之财。",
+     "ex_ja": "突然の税還付は、その小さな会社にとってありがたい思わぬ収入だった。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，按整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "windfall profit",
+       "意外利润",
+       "棚ぼた利益"
+      ],
+      [
+       "windfall tax",
+       "暴利税",
+       "超過利潤税"
+      ]
+     ]
+    },
+    {
+     "w": "accrual",
+     "pos": "n.",
+     "ipa": "/əˈkruəl/",
+     "zh": "应计；累积",
+     "ja": "発生計上；累積",
+     "ex": "Interest accrual begins on the first day after the due date.",
+     "ex_zh": "利息从到期日后的第一天开始累计。",
+     "ex_ja": "利息の発生は、支払期日の翌日から始まる。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，按整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "accrue (v.)",
+       "累积；应计",
+       "蓄積する；発生する"
+      ],
+      [
+       "accrued interest",
+       "应计利息",
+       "未収利息"
+      ]
+     ]
+    },
+    {
+     "w": "stalemate",
+     "pos": "n.",
+     "ipa": "/ˈsteɪlmeɪt/",
+     "zh": "僵局",
+     "ja": "行き詰まり；膠着状態",
+     "ex": "The talks ended in a stalemate over delivery dates.",
+     "ex_zh": "谈判因交货日期问题陷入僵局。",
+     "ex_ja": "交渉は納期をめぐって膠着状態に陥った。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，按整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "reach a stalemate",
+       "陷入僵局",
+       "行き詰まる"
+      ],
+      [
+       "break the stalemate",
+       "打破僵局",
+       "膠着状態を打開する"
+      ]
+     ]
+    },
+    {
+     "w": "ultimatum",
+     "pos": "n.",
+     "ipa": "/ˌʌltəˈmeɪtəm/",
+     "zh": "最后通牒",
+     "ja": "最後通告",
+     "ex": "The supplier issued an ultimatum: pay the overdue invoice or lose the account.",
+     "ex_zh": "供应商发出最后通牒：要么付清逾期发票，要么失去这个客户。",
+     "ex_ja": "仕入先は、期限超過の請求書を支払わなければ取引を打ち切ると最後通告を出した。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，按整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "issue an ultimatum",
+       "发出最后通牒",
+       "最後通告を出す"
+      ],
+      [
+       "give an ultimatum",
+       "下最后通牒",
+       "最後通告を突きつける"
+      ]
+     ]
+    },
+    {
+     "w": "expiry",
+     "pos": "n.",
+     "ipa": "/ɪkˈspaɪri/",
+     "zh": "到期；期满",
+     "ja": "期限切れ；満了",
+     "ex": "Please renew your membership before the expiry date.",
+     "ex_zh": "请在到期日之前续办会员资格。",
+     "ex_ja": "有効期限が切れる前に会員資格を更新してください。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，按整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "expiry date",
+       "到期日",
+       "有効期限"
+      ],
+      [
+       "expire (v.)",
+       "到期",
+       "期限が切れる"
+      ]
+     ],
+     "tip": {
+      "zh": "英式多用 expiry，美式多用 expiration，意思相同。",
+      "ja": "expiry は英式、expiration は米式で意味は同じ。"
+     }
+    }
+   ]
+  }
+ ]
+}
