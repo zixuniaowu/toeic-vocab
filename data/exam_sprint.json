@@ -4721,6 +4721,385 @@
      "src": "site+ep31"
     }
    ]
+  },
+  "46": {
+   "date": "2026-11-18",
+   "focus_zh": "考后轻复习：Part 5 复习 8 题 + Part 7 两篇（Test 3 新题）",
+   "focus_ja": "試験後の軽い復習：Part 5 復習8問＋Part 7 の2題（Test 3 未学習）",
+   "grammar": [
+    {
+     "id": "T1-Q110",
+     "label": "Test 1 · Q110",
+     "test": 1,
+     "no": 110,
+     "part": 5,
+     "q": "Bestform Stationery now sells quality paper goods through the mail, online, and in retail -------.",
+     "options": [
+      "store",
+      "stored",
+      "storing",
+      "stores"
+     ],
+     "answer": "D",
+     "topic_zh": "词性",
+     "topic_ja": "品詞",
+     "tip_zh": "retail stores：可数名词无冠词 → 复数",
+     "tip_ja": "retail stores：可算名詞に冠詞なし → 複数形",
+     "src": "ep51",
+     "exp_zh": "in retail ___ 需要名词，retail stores“零售店”；retail store 是可数名词，前面没有冠词，必须用复数 stores，D正确。store 单数缺冠词，stored/storing 是动词形式。",
+     "exp_ja": "in retail ___ には名詞が必要で、retail stores「小売店」となる。retail store は可算名詞で前に冠詞がないため、複数形 stores にする必要がある。Dが正解。単数の store は冠詞が欠け、stored/storing は動詞の形。",
+     "vocab_zh": "stationery 文具；quality 优质的；retail 零售",
+     "vocab_ja": "stationery 文房具；quality 上質な；retail 小売"
+    },
+    {
+     "id": "T1-Q121",
+     "label": "Test 1 · Q121",
+     "test": 1,
+     "no": 121,
+     "part": 5,
+     "q": "The marketing team made a ------- decision to keep conducting customer surveys.",
+     "options": [
+      "collect",
+      "collects",
+      "collective",
+      "collectively"
+     ],
+     "answer": "C",
+     "topic_zh": "词性",
+     "topic_ja": "品詞",
+     "tip_zh": "a + 形容词 + 名词 decision → collective",
+     "tip_ja": "a + 形容詞 + 名詞 decision → collective",
+     "src": "ep51",
+     "exp_zh": "冠词 a 与名词 decision 之间需要形容词，collective“集体的、共同的”，C正确。collect/collects 是动词，collectively 是副词，不能修饰名词。",
+     "exp_ja": "冠詞 a と名詞 decision の間には形容詞が必要。collective「集団の、共同の」が正解でC。collect/collects は動詞、collectively は副詞で、名詞を修飾できない。",
+     "vocab_zh": "collective decision 集体决定；conduct a survey 进行调查",
+     "vocab_ja": "collective decision 総意による決定；conduct a survey 調査を行う"
+    },
+    {
+     "id": "T2-Q107",
+     "label": "Test 2 · Q107",
+     "test": 2,
+     "no": 107,
+     "part": 5,
+     "q": "Residents are ------- asked to keep noise levels low when using the outdoor common areas.",
+     "options": [
+      "respect",
+      "respectful",
+      "respective",
+      "respectfully"
+     ],
+     "answer": "D",
+     "topic_zh": "词性",
+     "topic_ja": "品詞",
+     "tip_zh": "are + 副词 + asked（被动）→ respectfully",
+     "tip_ja": "are + 副詞 + asked（受動態）→ respectfully",
+     "src": "ep51",
+     "exp_zh": "Test 2 第107题，同样的结构，换成了被动语态。空格在 are 和过去分词 asked 中间，要副词，选D respectfully，“恭敬地、礼貌地”。are respectfully asked to 是告示里常见的客气说法，“敬请”。意思是：敬请住户在使用户外公共区域时保持低音量。B respectful 是形容词“有礼貌的”，C respective 是形容词“各自的”，A respect 是名词或动词。respectful 和 respective 长得很像，意思完全不同，要分清。",
+     "exp_ja": "Test 2 第107問は同じ形で、受動態になっています。空所は are と過去分詞 asked の間なので副詞が必要で、正解はD respectfully「謹んで、丁寧に」です。are respectfully asked to は掲示によく出る丁寧な言い方で「…していただくようお願いします」です。意味は「屋外の共用スペースを使うときは、音量を抑えていただくよう居住者の皆様にお願いします」。B respectful は形容詞「礼儀正しい」、C respective は形容詞「それぞれの」、A respect は名詞または動詞です。respectful と respective は形が似ていますが意味はまったく違うので、区別しましょう。"
+    },
+    {
+     "id": "T2-Q116",
+     "label": "Test 2 · Q116",
+     "test": 2,
+     "no": 116,
+     "part": 5,
+     "q": "The Wristly smartwatch ------- heart rate accurately but must be recharged every 48 hours.",
+     "options": [
+      "will be tracked",
+      "tracks",
+      "tracking",
+      "to track"
+     ],
+     "answer": "B",
+     "topic_zh": "时态 · 语态",
+     "topic_ja": "時制 · 態",
+     "tip_zh": "缺谓语 + 后有宾语 heart rate → 主动；单数主语、一般现在时 → tracks",
+     "tip_ja": "述語がない + 目的語 heart rate がある → 能動態；単数主語・現在形 → tracks",
+     "src": "ep52",
+     "exp_zh": "第一组，先判断主动还是被动。Test 2 第116题。第一步，找谓语：主语是 The Wristly smartwatch，“Wristly 智能手表”，空格后面是 heart rate，“心率”，再往后 but must be recharged，but 后面那个 must be recharged 是第二个谓语，前半句还没有谓语，所以空格要填谓语动词。C tracking 和D to track 是非谓语，不能单独做谓语，先排除。第二步，主动还是被动：空格后面有宾语 heart rate，手表“追踪”心率，是主语自己做的动作，要主动语态。A will be tracked 是被动，被动后面一般不能再直接跟宾语，排除。第三步，时态和单复数：说的是手表的功能，一直如此，用一般现在时，主语单数加 s，选B tracks。整句意思是：Wristly 智能手表能准确追踪心率，但每四十八小时必须充一次电。口诀：空格后面有宾语，多半用主动。",
+     "exp_ja": "最初のグループは、まず能動態か受動態かを判断します。Test 2 第116問。第1ステップは述語を探すことです。主語は The Wristly smartwatch「Wristly のスマートウォッチ」、空所の後ろは heart rate「心拍数」、さらに but must be recharged と続きます。but の後の must be recharged は2つ目の述語で、前半にはまだ述語がないので、空所には述語動詞が入ります。C tracking と D to track は述語になれない形なので、まず消去します。第2ステップは能動か受動かです。空所の後ろに目的語 heart rate があり、時計が心拍数を「記録する」のは主語自身の動作なので、能動態が必要です。A will be tracked は受動態で、受動態の後ろには普通、目的語を直接続けられないので消去します。第3ステップは時制と単数・複数です。時計の機能、つまりいつもそうであることを言っているので現在形で、主語が単数なので s を付けます。正解はB tracks です。文全体の意味は「Wristly のスマートウォッチは心拍数を正確に記録するが、48時間ごとに充電しなければならない」です。合言葉です。空所の後ろに目的語があれば、たいてい能動態です。"
+    },
+    {
+     "id": "T2-Q122",
+     "label": "Test 2 · Q122",
+     "test": 2,
+     "no": 122,
+     "part": 5,
+     "q": "The concert hall's acoustical design ------- to give audiences the best possible experience.",
+     "options": [
+      "adjustment",
+      "were adjusting",
+      "adjuster",
+      "is being adjusted"
+     ],
+     "answer": "D",
+     "topic_zh": "时态 · 语态",
+     "topic_ja": "時制 · 態",
+     "tip_zh": "设计“被调整” + 现在正在进行 → is being adjusted",
+     "tip_ja": "設計は「調整される」+ 現在進行中 → is being adjusted",
+     "src": "ep52",
+     "exp_zh": "第二组，时态和语态一起考。Test 2 第122题。主语是 The concert hall's acoustical design，“音乐厅的声学设计”，后面空格，再后面是 to give audiences the best possible experience，“为了给观众最好的体验”，这是表示目的的不定式，不是宾语。句子缺谓语，A adjustment“调整”和C adjuster“调节器”是名词，先排除。剩下B were adjusting 和D is being adjusted。设计是“被调整”的，要被动；主语 design 是单数，不能用 were。所以选D is being adjusted，这是现在进行时的被动，结构是 be 加 being 加过去分词，意思是“正在被调整”。整句意思是：音乐厅的声学设计正在调整，以便给观众最好的体验。B were adjusting 错两次：复数，又是主动。",
+     "exp_ja": "2つ目のグループは、時制と態を一緒に問う問題です。Test 2 第122問。主語は The concert hall's acoustical design「コンサートホールの音響設計」、その後ろが空所、さらに to give audiences the best possible experience「観客に最高の体験を提供するために」が続きます。これは目的を表す不定詞で、目的語ではありません。文には述語がないので、A adjustment「調整」と C adjuster「調整装置」は名詞なのでまず消去します。残るのは B were adjusting と D is being adjusted です。設計は「調整される」ものなので受動態が必要で、主語 design は単数なので were は使えません。正解はD is being adjusted です。これは現在進行形の受動態で、形は be 動詞と being と過去分詞、意味は「調整されているところだ」です。文全体の意味は「コンサートホールの音響設計は、観客に最高の体験を提供するため調整中だ」です。B were adjusting は、複数形で、しかも能動態という2つの点で間違いです。"
+    },
+    {
+     "id": "T3-Q102",
+     "label": "Test 3 · Q102",
+     "test": 3,
+     "no": 102,
+     "part": 5,
+     "q": "Fashiontrack Athleticwear ------- thousands of workers at its retail locations worldwide.",
+     "options": [
+      "employs",
+      "employer",
+      "employable",
+      "employing"
+     ],
+     "answer": "A",
+     "topic_zh": "词性",
+     "topic_ja": "品詞",
+     "tip_zh": "主语后缺谓语 → 动词 employs",
+     "tip_ja": "主語の後に述語がない → 動詞 employs",
+     "src": "ep51",
+     "exp_zh": "【解析册 p.181】主语 Fashiontrack Athleticwear 后面没有谓语动词，空格是谓语位置，选动词 (A) employs（雇用）。B 是名词，C 是形容词，D 是现在分词/动名词，不能单独作谓语。",
+     "exp_ja": "【解説冊子 p.181】主語の後に述語動詞がないので空所には動詞が入る。(A) employs が正解。B は名詞、C は形容詞、D は現在分詞／動名詞で述語になれない。",
+     "vocab_zh": [
+      "retail location 零售店"
+     ],
+     "vocab_ja": [
+      "retail location 小売店舗"
+     ]
+    },
+    {
+     "id": "T3-Q118",
+     "label": "Test 3 · Q118",
+     "test": 3,
+     "no": 118,
+     "part": 5,
+     "q": "Returns at Jebili's Treasure Trove ------- at the customer service desk near the entrance.",
+     "options": [
+      "to process",
+      "have processed",
+      "being processed",
+      "are processed"
+     ],
+     "answer": "D",
+     "topic_zh": "时态 · 语态",
+     "topic_ja": "時制 · 態",
+     "tip_zh": "退货“被处理” → 被动；复数主语 Returns、一般现在时 → are processed",
+     "tip_ja": "返品は「処理される」→ 受動態；複数主語 Returns・現在形 → are processed",
+     "src": "ep52",
+     "exp_zh": "句子缺少谓语，且主语 Returns（退货）是被处理的对象，用被动语态 (D) are processed。",
+     "exp_ja": "述語動詞がなく、主語 Returns（返品）は「処理される」側なので受動態 (D) are processed。",
+     "vocab_zh": [
+      "return 退货"
+     ],
+     "vocab_ja": [
+      "return 返品"
+     ]
+    },
+    {
+     "id": "T3-Q126",
+     "label": "Test 3 · Q126",
+     "test": 3,
+     "no": 126,
+     "part": 5,
+     "q": "Having ------- the same salary for three years, Mr. Shadid will be relieved to learn he is getting a raise this month.",
+     "options": [
+      "earned",
+      "offered",
+      "needed",
+      "required"
+     ],
+     "answer": "A",
+     "topic_zh": "时态 · 语态",
+     "topic_ja": "時制 · 態",
+     "tip_zh": "完成分词 Having + 过去分词：“已经挣了三年” → earned（看意思）",
+     "tip_ja": "完了分詞 Having + 過去分詞：「3年間もらってきた」→ earned（意味で選ぶ）",
+     "src": "ep52",
+     "exp_zh": "“三年来一直拿同样的薪水”，earn a salary 表示“挣工资”，选 (A)。",
+     "exp_ja": "「3年間同じ給料をもらってきた」の意で earn a salary (A)。",
+     "vocab_zh": [
+      "raise 加薪",
+      "relieved 放心的"
+     ],
+     "vocab_ja": [
+      "raise 昇給",
+      "relieved ほっとした"
+     ]
+    }
+   ],
+   "reading": [
+    {
+     "id": "T3-Q168-171",
+     "label": "Test 3 · Q168–171",
+     "test": 3,
+     "part": 7,
+     "intro": "Questions 168-171 refer to the following announcement.",
+     "docs": [
+      [
+       {
+        "t": "title",
+        "x": "Lusaka Business Alliance\nA Celebration of Accomplishments\nRoyal Nugget Hotel, Saturday, 12 June, 8:00–11:00 P.M."
+       },
+       {
+        "t": "p",
+        "x": "On 12 June, the Lusaka Business Alliance (LBA) will be presenting several local business leaders with awards to acknowledge their accomplishments. The event will be held in the ballroom of the Royal Nugget Hotel. Tickets are K 500 per person."
+       },
+       {
+        "t": "p",
+        "x": "On this occasion, we will also be presenting the Supremacy Award to Ms. Brenda Masebo for five decades of service to the Lusaka community. Her store, the Sketch Path, has for 40 years now been the place to go for the widest assortments of art and office supplies. Moreover, 15 years ago, she initiated the Lusaka Arts Jamboree, which brings numerous visual and performance artists to the city as well as tourists from across Central Africa. And last year, Ms. Masebo began an arts program for teens that has already drawn praise from the Ministry of Arts and Sciences."
+       },
+       {
+        "t": "p",
+        "x": "We will end the evening with an art auction. Auction items can be viewed, and tickets for the event can be purchased on the LBA's Web site, www.lusakabusinessalliance.org.zm. All proceeds raised from the auction will benefit the XJK Foundation, whose mission is to support recreational opportunities for local youth."
+       }
+      ]
+     ],
+     "questions": [
+      {
+       "no": 168,
+       "label": "Test 3 · Q168",
+       "q": "What can be concluded about Ms. Masebo?",
+       "options": [
+        "She recently started a business.",
+        "She has promoted the arts in various ways.",
+        "She has traveled extensively in Central Africa.",
+        "She used to be a government employee."
+       ],
+       "answer": "B",
+       "exp_zh": "第 2 段：她经营美术用品店 40 年、创办 Lusaka 艺术节、去年为青少年开设艺术项目，可见她以多种方式推广艺术，选 (B)。店已开 40 年，(A) 错。",
+       "exp_ja": "第2段落：画材店を40年経営し、芸術祭を創設し、昨年は10代向けの芸術プログラムを始めた。様々な形で芸術を振興してきたので (B)。"
+      },
+      {
+       "no": 169,
+       "label": "Test 3 · Q169",
+       "q": "The word \"drawn\" in paragraph 2, line 7, is closest in meaning to",
+       "options": [
+        "tightened",
+        "marked",
+        "attracted",
+        "illustrated"
+       ],
+       "answer": "C",
+       "exp_zh": "has already drawn praise from the Ministry 意为“已经赢得/引来了部委的赞扬”，draw = attract，选 (C)。",
+       "exp_ja": "has already drawn praise は「称賛を集めた」の意。draw = attract（引きつける）なので (C)。"
+      },
+      {
+       "no": 170,
+       "label": "Test 3 · Q170",
+       "q": "According to the announcement, what can visitors to the LBA Web site do?",
+       "options": [
+        "Buy admission tickets",
+        "Sign up to receive e-mail updates",
+        "View a list of current members",
+        "Nominate a colleague for an award"
+       ],
+       "answer": "A",
+       "exp_zh": "第 3 段：拍卖品可在网站上浏览，活动门票也可在 LBA 网站购买，选 (A)。",
+       "exp_ja": "第3段落：オークション品の閲覧とイベントのチケット購入が LBA のウェブサイトでできるとあるので (A)。"
+      },
+      {
+       "no": 171,
+       "label": "Test 3 · Q171",
+       "q": "What is one purpose of the event?",
+       "options": [
+        "To introduce the new director of an organization",
+        "To announce the creation of a new award",
+        "To celebrate a store's anniversary",
+        "To raise money for a cause"
+       ],
+       "answer": "D",
+       "exp_zh": "活动最后有艺术品拍卖，所得全部捐给支持本地青少年娱乐活动的 XJK 基金会，即为公益筹款，选 (D)。",
+       "exp_ja": "最後のオークションの収益はすべて地元の若者を支援する XJK 財団に寄付される。目的の一つは募金なので (D)。"
+      }
+     ],
+     "src": "site+ep32"
+    },
+    {
+     "id": "T3-Q158-160",
+     "label": "Test 3 · Q158–160",
+     "test": 3,
+     "part": 7,
+     "intro": "Questions 158-160 refer to the following job posting.",
+     "docs": [
+      [
+       {
+        "t": "title",
+        "x": "Information Technology Infrastructure Manager"
+       },
+       {
+        "t": "p",
+        "x": "**Erpop Video Services; Manchester, England**"
+       },
+       {
+        "t": "p",
+        "x": "**Description:** Trains and supervises technology team to ensure the secure and stable operation of the company's IT systems. This includes maintaining and optimising network and server infrastructure, data communications, and the company's telephone system. The infrastructure manager also oversees end-user customer service to resolve hardware and software issues in a timely manner."
+       },
+       {
+        "t": "p",
+        "x": "Assigns tasks to team members and evaluates their performance."
+       },
+       {
+        "t": "p",
+        "x": "Reports to the director of Information Technology, who determines departmental policies and procedures and evaluates the manager's performance."
+       },
+       {
+        "t": "p",
+        "x": "**Qualifications:** University degree in information technology and a minimum of five years of relevant experience."
+       },
+       {
+        "t": "p",
+        "x": "To apply, send résumé to hr@erpopvideoservices.co.uk."
+       }
+      ]
+     ],
+     "questions": [
+      {
+       "no": 158,
+       "label": "Test 3 · Q158",
+       "q": "What is indicated about the posted job?",
+       "options": [
+        "It involves the security of campus buildings.",
+        "It offers the possibility of job promotion.",
+        "It requires the maintenance of a telephone system.",
+        "It is a newly created position."
+       ],
+       "answer": "C",
+       "exp_zh": "职责描述中写着包括维护和优化网络、服务器基础设施、数据通信以及公司的电话系统(the company's telephone system)，选 (C)。",
+       "exp_ja": "職務内容に「ネットワーク・サーバー基盤、データ通信、会社の電話システムの保守と最適化」が含まれるので (C)。"
+      },
+      {
+       "no": 159,
+       "label": "Test 3 · Q159",
+       "q": "Who sets the IT infrastructure policies?",
+       "options": [
+        "The department manager",
+        "The department director",
+        "The infrastructure team members",
+        "The company president"
+       ],
+       "answer": "B",
+       "exp_zh": "招聘启事说该经理向 IT 部门总监汇报，而总监负责制定部门政策和程序(who determines departmental policies and procedures)，选 (B)。",
+       "exp_ja": "マネージャーは IT 部長の直属で、部長が「部門の方針と手順を決定する」とあるので (B)。"
+      },
+      {
+       "no": 160,
+       "label": "Test 3 · Q160",
+       "q": "What is a stated requirement for the position?",
+       "options": [
+        "Experience in financial administration",
+        "A high security clearance",
+        "Ability to work flexible hours",
+        "Previous work in a closely related role"
+       ],
+       "answer": "D",
+       "exp_zh": "资格要求写着 IT 相关学位以及至少五年相关工作经验(a minimum of five years of relevant experience)，即有相关岗位的工作经历，选 (D)。",
+       "exp_ja": "応募資格に「最低5年の関連経験」とあるので、関連職務での経験が必要。(D)。"
+      }
+     ],
+     "src": "site+ep31"
+    }
+   ]
   }
  },
  "warmup": {

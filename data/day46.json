@@ -1,0 +1,2190 @@
+{
+ "day": 46,
+ "date": "2026-11-18",
+ "title_zh": "四大词根 + 客户投诉与质量问题 + 培训认证与仓储安全",
+ "title_ja": "4つの語根＋顧客対応・品質問題＋研修・資格と倉庫・安全",
+ "intro_zh": "今天的词根是 -ced-/-ceed-/-cess-（走；让步）、-fin-（界限；终点）、-gress-（走；步）、-scrib-/-script-（写）；主题是客户投诉与质量问题，以及培训认证、仓储与安全。",
+ "intro_ja": "今日の語根は -ced-・-ceed-・-cess-（行く；譲る）、-fin-（境界；終わり）、-gress-（歩く；進む）、-scrib-・-script-（書く）。テーマは顧客対応・品質問題、そして研修・資格と倉庫・安全。",
+ "voice": "en-US-AriaNeural",
+ "roots": [
+  {
+   "root": "-ced- / -ceed- / -cess-",
+   "origin": "Latin cedere, cessus",
+   "zh": "走；让步",
+   "ja": "行く；譲る",
+   "exp_zh": "来自拉丁语 cedere（走，让步）。向前走 → procedure；接着走 → succeed；走出界限 → excess。⚠️ seed（种子）、cedar（雪松）与此词根无关。",
+   "exp_ja": "ラテン語 cedere（行く、譲る）から。前へ進む → procedure；後に続く → succeed；限度を越える → excess。⚠️ seed（種）・cedar（杉）は無関係。",
+   "examples": [
+    "cede",
+    "procedure",
+    "succeed",
+    "excess",
+    "accessory"
+   ]
+  },
+  {
+   "root": "-fin-",
+   "origin": "Latin finis",
+   "zh": "界限；终点",
+   "ja": "境界；終わり",
+   "exp_zh": "来自拉丁语 finis（终点，界限）。划清界限 → define；没有界限 → indefinite；有界限 → finite。⚠️ find（找到）来自日耳曼语，和 fin 无关。",
+   "exp_ja": "ラテン語 finis（終わり、境界）から。境界を定める → define；境界がない → indefinite；限りがある → finite。⚠️ find（見つける）は別系統の語。",
+   "examples": [
+    "definitive",
+    "indefinite",
+    "finite",
+    "confinement",
+    "redefine"
+   ]
+  },
+  {
+   "root": "-gress-",
+   "origin": "Latin gradi, gressus",
+   "zh": "走；步",
+   "ja": "歩く；進む",
+   "exp_zh": "来自拉丁语 gradi（走，迈步）。向前走 → progression；向后走 → regress；走出去 → egress。⚠️ grass（草）、great（伟大）与此词根无关。",
+   "exp_ja": "ラテン語 gradi（歩く）から。前へ歩く → progression；後ろへ歩く → regress；外へ出る → egress。⚠️ grass（草）・great（偉大な）は無関係。",
+   "examples": [
+    "regress",
+    "transgress",
+    "congress",
+    "progression",
+    "egress"
+   ]
+  },
+  {
+   "root": "-scrib- / -script-",
+   "origin": "Latin scribere, scriptus",
+   "zh": "写",
+   "ja": "書く",
+   "exp_zh": "来自拉丁语 scribere（书写）。写在下面 → subscriber；预先写好 → prescriptive；转着写 → transcription。⚠️ scrub（擦洗）与此词根无关。",
+   "exp_ja": "ラテン語 scribere（書く）から。下に書く → subscriber；前もって書く → prescriptive；移し書く → transcription。⚠️ scrub（こする）は無関係。",
+   "examples": [
+    "inscription",
+    "description",
+    "subscriber",
+    "prescriptive",
+    "transcription"
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "ced",
+   "title_zh": "词根 -ced- / -ceed- / -cess-：走；让步",
+   "title_ja": "語根 -ced- / -ceed- / -cess-：行く；譲る",
+   "words": [
+    {
+     "w": "cede",
+     "pos": "v.",
+     "ipa": "/siːd/",
+     "zh": "割让；让出（权利、土地）",
+     "ja": "譲渡する；割譲する",
+     "ex": "The company agreed to cede control of the project to its partner.",
+     "ex_zh": "公司同意把项目的控制权让给合作伙伴。",
+     "ex_ja": "会社はプロジェクトの管理権をパートナーに譲ることに同意した。",
+     "parts": [
+      [
+       "ced",
+       "走；让步",
+       "行く；譲る"
+      ]
+     ],
+     "note": {
+      "zh": "ced“走；让步”→ 让出去 → 割让。⚠️ 与 seed（种子）读音相近但无关。",
+      "ja": "ced「行く；譲る」→ 譲り渡す → 割譲する。⚠️ seed（種）とは別語。"
+     },
+     "forms": [
+      [
+       "cede control",
+       "交出控制权",
+       "支配権を譲る"
+      ],
+      [
+       "cession (n.)",
+       "让与",
+       "譲渡"
+      ]
+     ]
+    },
+    {
+     "w": "procedure",
+     "pos": "n.",
+     "ipa": "/prəˈsiːdʒɚ/",
+     "zh": "程序；手续；步骤",
+     "ja": "手順；手続き",
+     "ex": "All employees must follow the safety procedure when handling chemicals.",
+     "ex_zh": "员工处理化学品时必须遵守安全程序。",
+     "ex_ja": "従業員は化学薬品を扱う際、安全手順に従わなければならない。",
+     "parts": [
+      [
+       "pro-",
+       "向前",
+       "前へ"
+      ],
+      [
+       "ced",
+       "走",
+       "行く"
+      ],
+      [
+       "-ure",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "pro“向前”+ ced“走”+ -ure → 往前走的步骤 → 程序。",
+      "ja": "pro「前へ」＋ ced「行く」＋ -ure → 進めていく手順 → 手続き。"
+     },
+     "forms": [
+      [
+       "standard procedure",
+       "标准程序",
+       "標準的な手順"
+      ],
+      [
+       "procedural (adj.)",
+       "程序上的",
+       "手続き上の"
+      ]
+     ]
+    },
+    {
+     "w": "succeed",
+     "pos": "v.",
+     "ipa": "/səkˈsiːd/",
+     "zh": "成功；接替；继任",
+     "ja": "成功する；後を継ぐ",
+     "ex": "She will succeed the retiring director at the end of March.",
+     "ex_zh": "她将在三月底接替即将退休的主管。",
+     "ex_ja": "彼女は三月末に退職する部長の後任となる。",
+     "parts": [
+      [
+       "suc-",
+       "（sub-）下面；接着",
+       "下に；続いて"
+      ],
+      [
+       "ceed",
+       "走",
+       "行く"
+      ]
+     ],
+     "note": {
+      "zh": "suc（= sub）“接着”+ ceed“走”→ 接着走上去 → 接替；成功。",
+      "ja": "suc（＝sub）「続いて」＋ ceed「行く」→ 後に続く → 後任となる；成功する。"
+     },
+     "forms": [
+      [
+       "succeed in -ing",
+       "成功做成",
+       "〜に成功する"
+      ],
+      [
+       "succeed A as B",
+       "接替A担任B",
+       "AのあとBを継ぐ"
+      ]
+     ],
+     "tip": {
+      "zh": "succeed to the post 接任；succeed in 成功。TOEIC 常考“接替”义。",
+      "ja": "succeed to the post「後任になる」、succeed in「成功する」。TOEIC では「後任」の意味も頻出。"
+     }
+    },
+    {
+     "w": "success",
+     "pos": "n.",
+     "ipa": "/səkˈsɛs/",
+     "zh": "成功；成就",
+     "ja": "成功",
+     "ex": "The success of the new campaign exceeded our expectations.",
+     "ex_zh": "新宣传活动的成功超出了我们的预期。",
+     "ex_ja": "新しいキャンペーンの成功は私たちの予想を上回った。",
+     "parts": [
+      [
+       "suc-",
+       "（sub-）接着",
+       "続いて"
+      ],
+      [
+       "cess",
+       "走",
+       "行く"
+      ]
+     ],
+     "note": {
+      "zh": "suc + cess“走”→ 一步步走下去 → 达成 → 成功。动词 succeed。",
+      "ja": "suc ＋ cess「行く」→ 続けて進む → 達成 → 成功。動詞は succeed。"
+     },
+     "forms": [
+      [
+       "successful (adj.)",
+       "成功的",
+       "成功した"
+      ],
+      [
+       "successfully (adv.)",
+       "成功地",
+       "うまく"
+      ]
+     ]
+    },
+    {
+     "w": "excess",
+     "pos": "n.",
+     "ipa": "/ɪkˈsɛs/",
+     "zh": "过量；超出",
+     "ja": "超過；過剰",
+     "ex": "Any excess inventory will be moved to the second warehouse.",
+     "ex_zh": "多余的库存将转到第二个仓库。",
+     "ex_ja": "余剰在庫は第二倉庫へ移される。",
+     "parts": [
+      [
+       "ex-",
+       "向外",
+       "外へ"
+      ],
+      [
+       "cess",
+       "走",
+       "行く"
+      ]
+     ],
+     "note": {
+      "zh": "ex“向外”+ cess“走”→ 走出界限 → 超出、过量。形容词 excessive。",
+      "ja": "ex「外へ」＋ cess「行く」→ 限度を越えて出る → 超過。形容詞は excessive。"
+     },
+     "forms": [
+      [
+       "in excess of",
+       "超过",
+       "〜を超えて"
+      ],
+      [
+       "excess baggage",
+       "超重行李",
+       "超過手荷物"
+      ]
+     ],
+     "hl": "excess",
+     "tip": {
+      "zh": "in excess of ＝ more than，“超过”，常见于合同、公告。",
+      "ja": "in excess of ＝ more than「〜を超えて」。契約・告知で頻出。"
+     }
+    },
+    {
+     "w": "accessory",
+     "pos": "n.",
+     "ipa": "/ækˈsɛsəri/",
+     "zh": "配件；附件",
+     "ja": "付属品；アクセサリー",
+     "ex": "The store sells phone cases and other accessories at a discount.",
+     "ex_zh": "这家店折扣出售手机壳和其他配件。",
+     "ex_ja": "その店は携帯ケースなどの付属品を割引価格で販売している。",
+     "parts": [
+      [
+       "ac-",
+       "（ad-）向",
+       "〜へ"
+      ],
+      [
+       "cess",
+       "走",
+       "行く"
+      ],
+      [
+       "-ory",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "ac（= ad）“向”+ cess“走”+ -ory → 附带而来的东西 → 配件。",
+      "ja": "ac（＝ad）「〜へ」＋ cess「行く」＋ -ory → 付いてくるもの → 付属品。"
+     },
+     "forms": [
+      [
+       "accessories (n.)",
+       "配件（复数）",
+       "付属品（複数形）"
+      ],
+      [
+       "office accessories",
+       "办公用品配件",
+       "オフィス小物"
+      ]
+     ],
+     "hl": "accessories"
+    },
+    {
+     "w": "proceeds",
+     "pos": "n.",
+     "ipa": "/ˈproʊsidz/",
+     "zh": "收益；所得款项",
+     "ja": "収益；売上金",
+     "ex": "All proceeds from the charity event will go to the local hospital.",
+     "ex_zh": "慈善活动的全部收入将捐给当地医院。",
+     "ex_ja": "チャリティーイベントの収益はすべて地元の病院に寄付される。",
+     "parts": [
+      [
+       "pro-",
+       "向前",
+       "前へ"
+      ],
+      [
+       "ceed",
+       "走",
+       "行く"
+      ]
+     ],
+     "note": {
+      "zh": "pro“向前”+ ceed“走”→ 一路得来的 → 收益。⚠️ 名词 proceeds 读 /ˈproʊsidz/，动词 proceed 读 /proʊˈsiːd/，重音不同。",
+      "ja": "pro「前へ」＋ ceed「行く」→ 進んで得たもの → 収益。⚠️ 名詞 proceeds は /ˈproʊsidz/、動詞 proceed は /proʊˈsiːd/ でアクセントが違う。"
+     },
+     "forms": [
+      [
+       "net proceeds",
+       "净收益",
+       "純収益"
+      ],
+      [
+       "proceed (v.)",
+       "继续进行",
+       "進む；続行する"
+      ]
+     ],
+     "hl": "proceeds"
+    }
+   ]
+  },
+  {
+   "id": "fin",
+   "title_zh": "词根 -fin-：界限；终点",
+   "title_ja": "語根 -fin-：境界；終わり",
+   "words": [
+    {
+     "w": "definitive",
+     "pos": "adj.",
+     "ipa": "/dɪˈfɪnətɪv/",
+     "zh": "最终的；权威的；决定性的",
+     "ja": "決定的な；最終的な；決定版の",
+     "ex": "The committee will make a definitive decision on the budget next week.",
+     "ex_zh": "委员会下周将就预算做出最终决定。",
+     "ex_ja": "委員会は来週、予算について最終決定を下す。",
+     "parts": [
+      [
+       "de-",
+       "完全",
+       "完全に"
+      ],
+      [
+       "fin",
+       "界限；终点",
+       "境界；終わり"
+      ],
+      [
+       "-itive",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "de“完全”+ fin“界限”+ -itive → 划定了界限的 → 确定的、最终的。",
+      "ja": "de「完全に」＋ fin「境界」＋ -itive → 境界がはっきり定まった → 決定的な。"
+     },
+     "forms": [
+      [
+       "definitive answer",
+       "明确答复",
+       "明確な回答"
+      ],
+      [
+       "definitely (adv.)",
+       "肯定地",
+       "確実に"
+      ]
+     ]
+    },
+    {
+     "w": "indefinite",
+     "pos": "adj.",
+     "ipa": "/ɪnˈdɛfənət/",
+     "zh": "无限期的；不确定的",
+     "ja": "無期限の；不確定の",
+     "ex": "The festival has been postponed for an indefinite period due to the storm.",
+     "ex_zh": "由于风暴，音乐节被无限期推迟。",
+     "ex_ja": "嵐のため、フェスティバルは無期限で延期された。",
+     "parts": [
+      [
+       "in-",
+       "否定",
+       "否定"
+      ],
+      [
+       "de-",
+       "完全",
+       "完全に"
+      ],
+      [
+       "fin",
+       "界限",
+       "境界"
+      ],
+      [
+       "-ite",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "in“不”+ definite“有界限的”→ 没有界限的 → 无限期的。",
+      "ja": "in「否定」＋ definite「境界が定まった」→ 期限が定まらない → 無期限の。"
+     },
+     "forms": [
+      [
+       "indefinitely (adv.)",
+       "无限期地",
+       "無期限に"
+      ],
+      [
+       "indefinite leave",
+       "无限期休假",
+       "無期限の休暇"
+      ]
+     ],
+     "tip": {
+      "zh": "postponed indefinitely＝无限期推迟，TOEIC 公告文常见。",
+      "ja": "postponed indefinitely「無期限延期」はお知らせ文で頻出。"
+     }
+    },
+    {
+     "w": "finite",
+     "pos": "adj.",
+     "ipa": "/ˈfaɪnaɪt/",
+     "zh": "有限的",
+     "ja": "有限の",
+     "ex": "Our budget is finite, so we must set clear priorities.",
+     "ex_zh": "我们的预算有限，所以必须明确优先顺序。",
+     "ex_ja": "予算には限りがあるので、明確な優先順位をつけなければならない。",
+     "parts": [
+      [
+       "fin",
+       "界限；终点",
+       "境界；終わり"
+      ],
+      [
+       "-ite",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "fin“界限”+ -ite → 有界限的 → 有限的。反义词 infinite。",
+      "ja": "fin「境界」＋ -ite → 限りのある → 有限の。反対語は infinite。"
+     },
+     "forms": [
+      [
+       "finite resources",
+       "有限的资源",
+       "限りある資源"
+      ],
+      [
+       "infinite (adj.)",
+       "无限的",
+       "無限の"
+      ]
+     ]
+    },
+    {
+     "w": "refinement",
+     "pos": "n.",
+     "ipa": "/rɪˈfaɪnmənt/",
+     "zh": "改进；精炼；优雅",
+     "ja": "改良；洗練",
+     "ex": "The software update includes several refinements to the user interface.",
+     "ex_zh": "这次软件更新对用户界面做了多处改进。",
+     "ex_ja": "このソフトの更新には、ユーザーインターフェースのいくつかの改良が含まれている。",
+     "parts": [
+      [
+       "re-",
+       "再",
+       "再び"
+      ],
+      [
+       "fine",
+       "精细；纯（源自 fin“终点；极致”）",
+       "精製された"
+      ],
+      [
+       "-ment",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "re“再”+ refine（精炼）+ -ment → 再打磨 → 改进。",
+      "ja": "re「再び」＋ refine（精製する）＋ -ment → 磨き上げること → 改良。"
+     },
+     "forms": [
+      [
+       "refine (v.)",
+       "改进；精炼",
+       "改良する；精製する"
+      ],
+      [
+       "refined (adj.)",
+       "精制的；优雅的",
+       "精製された；洗練された"
+      ]
+     ],
+     "hl": "refinements"
+    },
+    {
+     "w": "confinement",
+     "pos": "n.",
+     "ipa": "/kənˈfaɪnmənt/",
+     "zh": "禁闭；限制；分娩",
+     "ja": "監禁；制限",
+     "ex": "Prolonged confinement in a small space can reduce productivity.",
+     "ex_zh": "长时间被困在狭小空间会降低工作效率。",
+     "ex_ja": "狭い空間に長時間閉じ込められると、生産性が下がることがある。",
+     "parts": [
+      [
+       "con-",
+       "一起；完全",
+       "共に；完全に"
+      ],
+      [
+       "fin",
+       "界限",
+       "境界"
+      ],
+      [
+       "-ement",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "con + fin“界限”+ -ement → 划在界限之内 → 限制、禁闭。动词 confine。",
+      "ja": "con ＋ fin「境界」＋ -ement → 境界内に囲う → 制限・監禁。動詞は confine。"
+     },
+     "forms": [
+      [
+       "confine A to B",
+       "把A限制在B",
+       "AをBに限る"
+      ],
+      [
+       "be confined to",
+       "局限于",
+       "〜に限られる"
+      ]
+     ]
+    },
+    {
+     "w": "redefine",
+     "pos": "v.",
+     "ipa": "/ˌriːdɪˈfaɪn/",
+     "zh": "重新定义；重新界定",
+     "ja": "再定義する",
+     "ex": "The new CEO plans to redefine the role of the marketing department.",
+     "ex_zh": "新任首席执行官打算重新界定市场部的职责。",
+     "ex_ja": "新CEOはマーケティング部の役割を再定義する計画だ。",
+     "parts": [
+      [
+       "re-",
+       "再",
+       "再び"
+      ],
+      [
+       "de-",
+       "完全",
+       "完全に"
+      ],
+      [
+       "fin",
+       "界限",
+       "境界"
+      ],
+      [
+       "-e",
+       "动词词尾",
+       "動詞の語尾"
+      ]
+     ],
+     "note": {
+      "zh": "re“再”+ define“划定界限”→ 重新界定。",
+      "ja": "re「再び」＋ define「境界を定める」→ 定義し直す。"
+     },
+     "forms": [
+      [
+       "redefine roles",
+       "重新界定职责",
+       "役割を見直す"
+      ],
+      [
+       "redefinition (n.)",
+       "重新定义",
+       "再定義"
+      ]
+     ]
+    },
+    {
+     "w": "definition",
+     "pos": "n.",
+     "ipa": "/ˌdɛfəˈnɪʃən/",
+     "zh": "定义；清晰度",
+     "ja": "定義；明確さ",
+     "ex": "The contract gives a clear definition of confidential information.",
+     "ex_zh": "合同对保密信息作了明确的定义。",
+     "ex_ja": "契約書は機密情報について明確な定義を示している。",
+     "parts": [
+      [
+       "de-",
+       "完全",
+       "完全に"
+      ],
+      [
+       "fin",
+       "界限",
+       "境界"
+      ],
+      [
+       "-ition",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "de + fin + -ition → 划清界限的说明 → 定义。",
+      "ja": "de ＋ fin ＋ -ition → 境界をはっきりさせる説明 → 定義。"
+     },
+     "forms": [
+      [
+       "define (v.)",
+       "定义；明确",
+       "定義する"
+      ],
+      [
+       "high definition",
+       "高清晰度",
+       "高精細"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gress",
+   "title_zh": "词根 -gress-：走；步",
+   "title_ja": "語根 -gress-：歩く；進む",
+   "words": [
+    {
+     "w": "regress",
+     "pos": "v.",
+     "ipa": "/rɪˈɡrɛs/",
+     "zh": "倒退；退步",
+     "ja": "後退する；退行する",
+     "ex": "Without regular practice, employees may regress to their old habits.",
+     "ex_zh": "如果不经常练习，员工可能会退回老习惯。",
+     "ex_ja": "定期的に練習しないと、従業員は元の習慣に戻ってしまうことがある。",
+     "parts": [
+      [
+       "re-",
+       "向后",
+       "後ろへ"
+      ],
+      [
+       "gress",
+       "走；步",
+       "歩く；進む"
+      ]
+     ],
+     "note": {
+      "zh": "re“向后”+ gress“走”→ 往回走 → 倒退。反义词 progress。",
+      "ja": "re「後ろへ」＋ gress「歩く」→ 後ろへ戻る → 後退する。反対語は progress。"
+     },
+     "forms": [
+      [
+       "regression (n.)",
+       "倒退；回归",
+       "後退；回帰"
+      ],
+      [
+       "regressive (adj.)",
+       "倒退的",
+       "後退的な"
+      ]
+     ]
+    },
+    {
+     "w": "transgress",
+     "pos": "v.",
+     "ipa": "/trænzˈɡrɛs/",
+     "zh": "违反；越界",
+     "ja": "違反する；越える",
+     "ex": "Staff who transgress the code of conduct may face disciplinary action.",
+     "ex_zh": "违反行为准则的员工可能受到纪律处分。",
+     "ex_ja": "行動規範に違反した社員は懲戒処分を受けることがある。",
+     "parts": [
+      [
+       "trans-",
+       "越过",
+       "越えて"
+      ],
+      [
+       "gress",
+       "走",
+       "歩く；進む"
+      ]
+     ],
+     "note": {
+      "zh": "trans“越过”+ gress“走”→ 走过界线 → 违反。",
+      "ja": "trans「越えて」＋ gress「歩く」→ 線を越える → 違反する。"
+     },
+     "forms": [
+      [
+       "transgression (n.)",
+       "违规；过失",
+       "違反；罪"
+      ],
+      [
+       "transgress a rule",
+       "违反规定",
+       "規則を破る"
+      ]
+     ]
+    },
+    {
+     "w": "congress",
+     "pos": "n.",
+     "ipa": "/ˈkɑŋɡrəs/",
+     "zh": "（代表）大会；国会",
+     "ja": "会議；大会；議会",
+     "ex": "Over 2,000 doctors attended the international medical congress in Osaka.",
+     "ex_zh": "两千多名医生参加了在大阪举行的国际医学大会。",
+     "ex_ja": "2,000人以上の医師が大阪での国際医学会議に参加した。",
+     "parts": [
+      [
+       "con-",
+       "一起",
+       "共に"
+      ],
+      [
+       "gress",
+       "走；聚集",
+       "歩く；集まる"
+      ]
+     ],
+     "note": {
+      "zh": "con“一起”+ gress“走”→ 走到一起 → 聚会 → 大会；国会。",
+      "ja": "con「共に」＋ gress「歩く」→ 集まって歩み寄る → 会議・議会。"
+     },
+     "forms": [
+      [
+       "congressional (adj.)",
+       "国会的",
+       "議会の"
+      ],
+      [
+       "Congress",
+       "（美国）国会",
+       "（米国）連邦議会"
+      ]
+     ]
+    },
+    {
+     "w": "progression",
+     "pos": "n.",
+     "ipa": "/prəˈɡrɛʃən/",
+     "zh": "进展；晋升；演进",
+     "ja": "進行；昇進の流れ；推移",
+     "ex": "The program offers a clear career progression for new graduates.",
+     "ex_zh": "该项目为应届毕业生提供清晰的职业晋升路径。",
+     "ex_ja": "そのプログラムは新卒者に明確なキャリアの昇進ルートを提供している。",
+     "parts": [
+      [
+       "pro-",
+       "向前",
+       "前へ"
+      ],
+      [
+       "gress",
+       "走",
+       "歩く；進む"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "pro“向前”+ gress“走”+ -ion → 往前走的过程 → 进展。",
+      "ja": "pro「前へ」＋ gress「歩く」＋ -ion → 前へ進む過程 → 進行。"
+     },
+     "forms": [
+      [
+       "career progression",
+       "职业发展路径",
+       "キャリアの進展"
+      ],
+      [
+       "progress (n./v.)",
+       "进展；前进",
+       "進歩；進む"
+      ]
+     ],
+     "tip": {
+      "zh": "career progression＝职业晋升路径，招聘广告常见。",
+      "ja": "career progression「キャリアアップの道筋」は求人広告で頻出。"
+     }
+    },
+    {
+     "w": "aggression",
+     "pos": "n.",
+     "ipa": "/əˈɡrɛʃən/",
+     "zh": "攻击性；侵略",
+     "ja": "攻撃性；侵略",
+     "ex": "The company has been criticized for its aggression toward smaller competitors.",
+     "ex_zh": "这家公司因对小竞争对手咄咄逼人而受到批评。",
+     "ex_ja": "その会社は小さな競合他社への攻撃的な姿勢を批判されている。",
+     "parts": [
+      [
+       "ag-",
+       "（ad-）向",
+       "〜へ"
+      ],
+      [
+       "gress",
+       "走；步",
+       "歩く；進む"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "ag（= ad）“向”+ gress“走”→ 向对方冲过去 → 攻击。形容词 aggressive。",
+      "ja": "ag（＝ad）「〜へ」＋ gress「歩く」→ 相手へ踏み込む → 攻撃。形容詞は aggressive。"
+     },
+     "forms": [
+      [
+       "aggressive (adj.)",
+       "积极的；好斗的",
+       "積極的な；攻撃的な"
+      ],
+      [
+       "aggressively (adv.)",
+       "积极地",
+       "積極的に"
+      ]
+     ]
+    },
+    {
+     "w": "digression",
+     "pos": "n.",
+     "ipa": "/daɪˈɡrɛʃən/",
+     "zh": "离题；题外话",
+     "ja": "脱線；余談",
+     "ex": "After a brief digression, the speaker returned to the main topic.",
+     "ex_zh": "简短离题之后，演讲者回到了主题。",
+     "ex_ja": "少し脱線したあと、講演者は本題に戻った。",
+     "parts": [
+      [
+       "di-",
+       "（dis-）离开",
+       "離れて"
+      ],
+      [
+       "gress",
+       "走",
+       "歩く"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "di（= dis）“离开”+ gress“走”→ 走离正路 → 离题。",
+      "ja": "di（＝dis）「離れて」＋ gress「歩く」→ 本筋から外れる → 脱線。"
+     },
+     "forms": [
+      [
+       "digress (v.)",
+       "离题",
+       "脱線する"
+      ],
+      [
+       "without digression",
+       "不离题地",
+       "脱線せずに"
+      ]
+     ]
+    },
+    {
+     "w": "egress",
+     "pos": "n.",
+     "ipa": "/ˈiːɡrɛs/",
+     "zh": "出口；外出（权利）",
+     "ja": "出口；退出",
+     "ex": "Emergency egress routes must be kept clear at all times.",
+     "ex_zh": "紧急疏散出口必须始终保持畅通。",
+     "ex_ja": "非常用の出口経路は常に空けておかなければならない。",
+     "parts": [
+      [
+       "e-",
+       "（ex-）向外",
+       "外へ"
+      ],
+      [
+       "gress",
+       "走",
+       "歩く"
+      ]
+     ],
+     "note": {
+      "zh": "e（= ex）“向外”+ gress“走”→ 走出去 → 出口。反义词 ingress（入口）。",
+      "ja": "e（＝ex）「外へ」＋ gress「歩く」→ 出ていくこと → 出口。反対語は ingress（入口）。"
+     },
+     "forms": [
+      [
+       "means of egress",
+       "出口通道",
+       "避難経路"
+      ],
+      [
+       "ingress (n.)",
+       "进入；入口",
+       "進入；入口"
+      ]
+     ],
+     "tip": {
+      "zh": "安全公告里 egress ＝ exit，偶见于 Part 7 通知。",
+      "ja": "安全に関する告知では egress ＝ exit。Part 7 の通知文で見かけることがある。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "scrib",
+   "title_zh": "词根 -scrib- / -script-：写",
+   "title_ja": "語根 -scrib- / -script-：書く",
+   "words": [
+    {
+     "w": "inscription",
+     "pos": "n.",
+     "ipa": "/ɪnˈskrɪpʃən/",
+     "zh": "铭文；题词",
+     "ja": "刻まれた文字；銘",
+     "ex": "The inscription on the plaque thanks the founders of the company.",
+     "ex_zh": "牌匾上的铭文感谢公司的创始人。",
+     "ex_ja": "銘板の文字は会社の創業者たちに感謝を述べている。",
+     "parts": [
+      [
+       "in-",
+       "在……里面",
+       "〜の中に"
+      ],
+      [
+       "script",
+       "写",
+       "書く"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "in“在上面”+ script“写”+ -ion → 刻写上去的字 → 铭文。",
+      "ja": "in「中に」＋ script「書く」＋ -ion → 刻み込んだ文字 → 銘。"
+     },
+     "forms": [
+      [
+       "inscribe (v.)",
+       "刻；题写",
+       "刻む；書き込む"
+      ],
+      [
+       "a gold inscription",
+       "金色铭文",
+       "金色の銘"
+      ]
+     ]
+    },
+    {
+     "w": "description",
+     "pos": "n.",
+     "ipa": "/dɪˈskrɪpʃən/",
+     "zh": "描述；说明；种类",
+     "ja": "説明；描写",
+     "ex": "Please read the job description carefully before you apply.",
+     "ex_zh": "申请之前请仔细阅读职位描述。",
+     "ex_ja": "応募の前に職務内容の説明をよく読んでください。",
+     "parts": [
+      [
+       "de-",
+       "向下；完全",
+       "下に；完全に"
+      ],
+      [
+       "script",
+       "写",
+       "書く"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "de“向下”+ script“写”+ -ion → 写下来 → 描述。",
+      "ja": "de「下へ」＋ script「書く」＋ -ion → 書き下ろす → 描写・説明。"
+     },
+     "forms": [
+      [
+       "job description",
+       "职位描述",
+       "職務記述書"
+      ],
+      [
+       "describe (v.)",
+       "描述",
+       "説明する"
+      ]
+     ],
+     "tip": {
+      "zh": "job description＝职位描述（工作职责说明），招聘题常见。",
+      "ja": "job description「職務内容の説明」は求人・人事の話題で頻出。"
+     }
+    },
+    {
+     "w": "subscriber",
+     "pos": "n.",
+     "ipa": "/səbˈskraɪbɚ/",
+     "zh": "订阅者；用户",
+     "ja": "購読者；加入者",
+     "ex": "The magazine now has more than 50,000 online subscribers.",
+     "ex_zh": "这本杂志现在有五万多名在线订阅者。",
+     "ex_ja": "その雑誌には現在、5万人以上のオンライン購読者がいる。",
+     "parts": [
+      [
+       "sub-",
+       "在下面",
+       "下に"
+      ],
+      [
+       "scrib",
+       "写",
+       "書く"
+      ],
+      [
+       "-er",
+       "表示人",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "sub“在下面”+ scrib“写”+ -er → 在文件下面签名的人 → 订阅者。",
+      "ja": "sub「下に」＋ scrib「書く」＋ -er → 文書の下に署名する人 → 購読者。"
+     },
+     "forms": [
+      [
+       "subscribe (v.)",
+       "订阅",
+       "購読する"
+      ],
+      [
+       "subscription (n.)",
+       "订阅",
+       "購読"
+      ]
+     ]
+    },
+    {
+     "w": "prescriptive",
+     "pos": "adj.",
+     "ipa": "/prɪˈskrɪptɪv/",
+     "zh": "规定性的；指令性的",
+     "ja": "規定的な；指示的な",
+     "ex": "The guidelines are prescriptive and leave little room for interpretation.",
+     "ex_zh": "这些指导方针是规定性的，几乎没有解释空间。",
+     "ex_ja": "そのガイドラインは規定的で、解釈の余地がほとんどない。",
+     "parts": [
+      [
+       "pre-",
+       "预先",
+       "前もって"
+      ],
+      [
+       "script",
+       "写",
+       "書く"
+      ],
+      [
+       "-ive",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "pre“预先”+ script“写”+ -ive → 预先写好的规定 → 规定性的。",
+      "ja": "pre「前もって」＋ script「書く」＋ -ive → あらかじめ書かれた決まり → 規定的な。"
+     },
+     "forms": [
+      [
+       "prescribe (v.)",
+       "规定；开处方",
+       "規定する；処方する"
+      ],
+      [
+       "prescription (n.)",
+       "处方；药方",
+       "処方箋"
+      ]
+     ]
+    },
+    {
+     "w": "transcription",
+     "pos": "n.",
+     "ipa": "/trænˈskrɪpʃən/",
+     "zh": "转录；文字记录",
+     "ja": "書き起こし；転写",
+     "ex": "The transcription of the interview will be available by Friday.",
+     "ex_zh": "采访的文字记录将在周五前准备好。",
+     "ex_ja": "インタビューの書き起こしは金曜日までに用意される。",
+     "parts": [
+      [
+       "trans-",
+       "转移；越过",
+       "移して"
+      ],
+      [
+       "script",
+       "写",
+       "書く"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "trans“转移”+ script“写”+ -ion → 把声音转写成文字 → 转录。",
+      "ja": "trans「移して」＋ script「書く」＋ -ion → 音声を文字に移す → 書き起こし。"
+     },
+     "forms": [
+      [
+       "transcript (n.)",
+       "文字记录；成绩单",
+       "記録；成績証明書"
+      ],
+      [
+       "transcribe (v.)",
+       "转录",
+       "書き起こす"
+      ]
+     ]
+    },
+    {
+     "w": "scribe",
+     "pos": "n.",
+     "ipa": "/skraɪb/",
+     "zh": "抄写员；书记",
+     "ja": "書記；写字生",
+     "ex": "In the past, a scribe copied every important document by hand.",
+     "ex_zh": "过去，抄写员要手抄每一份重要文件。",
+     "ex_ja": "昔は、書記がすべての重要書類を手で書き写していた。",
+     "parts": [
+      [
+       "scrib",
+       "写",
+       "書く"
+      ],
+      [
+       "-e",
+       "词尾",
+       "語末の e"
+      ]
+     ],
+     "note": {
+      "zh": "scrib“写”→ 写字的人 → 抄写员。",
+      "ja": "scrib「書く」→ 書く人 → 書記・写字生。"
+     },
+     "forms": [
+      [
+       "scribble (v.)",
+       "潦草地写",
+       "走り書きする"
+      ],
+      [
+       "script (n.)",
+       "脚本；文稿",
+       "脚本；原稿"
+      ]
+     ]
+    },
+    {
+     "w": "indescribable",
+     "pos": "adj.",
+     "ipa": "/ˌɪndɪˈskraɪbəbəl/",
+     "zh": "难以形容的；无法描述的",
+     "ja": "言葉で表せない",
+     "ex": "The view from the conference room was indescribable.",
+     "ex_zh": "会议室窗外的景色美得难以形容。",
+     "ex_ja": "会議室からの眺めは言葉で表せないほどだった。",
+     "parts": [
+      [
+       "in-",
+       "否定",
+       "否定"
+      ],
+      [
+       "de-",
+       "向下",
+       "下に"
+      ],
+      [
+       "scrib",
+       "写",
+       "書く"
+      ],
+      [
+       "-able",
+       "可……的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "in“不”+ de + scrib“写”+ -able“能……的” → 写不出来的 → 难以形容的。",
+      "ja": "in「否定」＋ de ＋ scrib「書く」＋ -able「〜できる」→ 書き表せない → 言葉にできない。"
+     },
+     "forms": [
+      [
+       "describe (v.)",
+       "描述",
+       "説明する"
+      ],
+      [
+       "indescribably (adv.)",
+       "难以形容地",
+       "言い表せないほど"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cs",
+   "title_zh": "主题：客户投诉与质量问题",
+   "title_ja": "テーマ：顧客対応と品質問題",
+   "words": [
+    {
+     "w": "apologetic",
+     "pos": "adj.",
+     "ipa": "/əˌpɑləˈdʒɛtɪk/",
+     "zh": "道歉的；表示歉意的",
+     "ja": "申し訳なさそうな；謝罪の",
+     "ex": "The manager was apologetic about the delay in delivery.",
+     "ex_zh": "经理对延迟发货表示歉意。",
+     "ex_ja": "部長は配送の遅れについて申し訳なさそうだった。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，按整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "apologize (v.)",
+       "道歉",
+       "謝る"
+      ],
+      [
+       "apologetic tone",
+       "歉意的语气",
+       "謝罪の口調"
+      ]
+     ]
+    },
+    {
+     "w": "escalation",
+     "pos": "n.",
+     "ipa": "/ˌɛskəˈleɪʃən/",
+     "zh": "升级；上报；加剧",
+     "ja": "段階的な拡大；上位への引き上げ",
+     "ex": "Complaints that cannot be solved at the counter are sent to escalation.",
+     "ex_zh": "在柜台无法解决的投诉会被上报升级处理。",
+     "ex_ja": "窓口で解決できない苦情は上位への引き上げに回される。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，按整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "escalate (v.)",
+       "升级；上报",
+       "拡大する；上位へ回す"
+      ],
+      [
+       "escalation procedure",
+       "升级流程",
+       "エスカレーション手順"
+      ]
+     ],
+     "hl": "escalation"
+    },
+    {
+     "w": "responsiveness",
+     "pos": "n.",
+     "ipa": "/rɪˈspɑnsɪvnəs/",
+     "zh": "响应速度；反应灵敏",
+     "ja": "対応の速さ；反応のよさ",
+     "ex": "Customers praised the support team for its responsiveness.",
+     "ex_zh": "顾客称赞客服团队响应迅速。",
+     "ex_ja": "顧客はサポートチームの対応の速さを称賛した。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，按整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "responsive (adj.)",
+       "反应快的",
+       "反応が早い"
+      ],
+      [
+       "respond (v.)",
+       "回应",
+       "応答する"
+      ]
+     ]
+    },
+    {
+     "w": "diplomatic",
+     "pos": "adj.",
+     "ipa": "/ˌdɪpləˈmætɪk/",
+     "zh": "圆滑的；有外交手腕的；外交的",
+     "ja": "如才ない；外交の",
+     "ex": "She gave a diplomatic reply to the angry customer.",
+     "ex_zh": "她对愤怒的顾客作了圆滑得体的回复。",
+     "ex_ja": "彼女は怒った顧客に角の立たない返事をした。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，按整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "diplomat (n.)",
+       "外交官",
+       "外交官"
+      ],
+      [
+       "diplomatically (adv.)",
+       "圆滑地",
+       "外交的に；如才なく"
+      ]
+     ]
+    },
+    {
+     "w": "placate",
+     "pos": "v.",
+     "ipa": "/ˈpleɪkeɪt/",
+     "zh": "安抚；抚慰",
+     "ja": "なだめる",
+     "ex": "The airline offered free meals to placate the delayed passengers.",
+     "ex_zh": "航空公司提供免费餐食来安抚延误的乘客。",
+     "ex_ja": "航空会社は遅延した乗客をなだめるために無料の食事を提供した。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，按整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "placate customers",
+       "安抚顾客",
+       "顧客をなだめる"
+      ],
+      [
+       "placating (adj.)",
+       "安抚的",
+       "なだめるような"
+      ]
+     ]
+    },
+    {
+     "w": "appease",
+     "pos": "v.",
+     "ipa": "/əˈpiːz/",
+     "zh": "平息；安抚；迁就",
+     "ja": "なだめる；宥める",
+     "ex": "The store issued a refund to appease the unhappy shopper.",
+     "ex_zh": "商店退了款来平息不满顾客的怒气。",
+     "ex_ja": "店は不満を持つ買い物客をなだめるために返金した。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，按整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "appeasement (n.)",
+       "绥靖；安抚",
+       "宥和；なだめること"
+      ],
+      [
+       "appease critics",
+       "平息批评者",
+       "批判をなだめる"
+      ]
+     ]
+    },
+    {
+     "w": "disgruntled",
+     "pos": "adj.",
+     "ipa": "/dɪsˈɡrʌntəld/",
+     "zh": "不满的；心怀不满的",
+     "ja": "不満を抱いた",
+     "ex": "A disgruntled customer posted a negative review online.",
+     "ex_zh": "一位心怀不满的顾客在网上发了差评。",
+     "ex_ja": "不満を抱いた顧客がネットに悪い評価を投稿した。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，按整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "disgruntled employee",
+       "心怀不满的员工",
+       "不満を抱えた社員"
+      ],
+      [
+       "gruntled",
+       "（少用）满意的",
+       "（まれ）満足した"
+      ]
+     ]
+    },
+    {
+     "w": "irate",
+     "pos": "adj.",
+     "ipa": "/aɪˈreɪt/",
+     "zh": "愤怒的；大怒的",
+     "ja": "激怒した",
+     "ex": "An irate caller demanded to speak to the manager.",
+     "ex_zh": "一位怒气冲冲的来电者要求和经理通话。",
+     "ex_ja": "激怒した電話の客は、責任者と話したいと要求した。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，按整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "irate customer",
+       "愤怒的顾客",
+       "怒った顧客"
+      ],
+      [
+       "ire (n.)",
+       "愤怒（文语）",
+       "怒り（文語）"
+      ]
+     ]
+    },
+    {
+     "w": "query",
+     "pos": "n.",
+     "ipa": "/ˈkwɪri/",
+     "zh": "询问；疑问；查询",
+     "ja": "問い合わせ；質問",
+     "ex": "Please send any billing queries to the accounts department.",
+     "ex_zh": "有关账单的任何疑问请发给财务部。",
+     "ex_ja": "請求に関するお問い合わせは経理部へお送りください。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，按整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "billing query",
+       "账单疑问",
+       "請求に関する問い合わせ"
+      ],
+      [
+       "query (v.)",
+       "质疑；询问",
+       "問い合わせる"
+      ]
+     ],
+     "hl": "queries",
+     "tip": {
+      "zh": "query ＝ inquiry / question，邮件和客服文中常见。",
+      "ja": "query ＝ inquiry / question。メールやカスタマーサポート文で頻出。"
+     }
+    },
+    {
+     "w": "swiftly",
+     "pos": "adv.",
+     "ipa": "/ˈswɪftli/",
+     "zh": "迅速地；很快地",
+     "ja": "素早く；迅速に",
+     "ex": "The team swiftly resolved the problem with the billing system.",
+     "ex_zh": "团队很快解决了计费系统的问题。",
+     "ex_ja": "チームは請求システムの問題を素早く解決した。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，按整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "swift (adj.)",
+       "迅速的",
+       "素早い"
+      ],
+      [
+       "act swiftly",
+       "迅速行动",
+       "素早く行動する"
+      ]
+     ]
+    },
+    {
+     "w": "substandard",
+     "pos": "adj.",
+     "ipa": "/ˌsʌbˈstændɚd/",
+     "zh": "不合格的；低于标准的",
+     "ja": "基準以下の；劣悪な",
+     "ex": "The shipment was returned because of substandard materials.",
+     "ex_zh": "由于材料不合格，这批货被退回了。",
+     "ex_ja": "資材が基準に満たなかったため、その出荷品は返品された。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，按整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "substandard quality",
+       "质量不合格",
+       "品質が基準以下"
+      ],
+      [
+       "standard (n.)",
+       "标准",
+       "基準"
+      ]
+     ]
+    },
+    {
+     "w": "shoddy",
+     "pos": "adj.",
+     "ipa": "/ˈʃɑdi/",
+     "zh": "粗制滥造的；劣质的",
+     "ja": "粗悪な；ずさんな",
+     "ex": "Customers complained about the shoddy workmanship of the new chairs.",
+     "ex_zh": "顾客投诉新椅子做工粗糙。",
+     "ex_ja": "顧客は新しい椅子の作りの粗さについて苦情を言った。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，按整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "shoddy work",
+       "粗劣的工作",
+       "ずさんな仕事"
+      ],
+      [
+       "shoddily (adv.)",
+       "粗劣地",
+       "粗悪に"
+      ]
+     ]
+    },
+    {
+     "w": "flawed",
+     "pos": "adj.",
+     "ipa": "/flɔːd/",
+     "zh": "有缺陷的；有瑕疵的",
+     "ja": "欠陥のある",
+     "ex": "The survey was flawed because the sample was too small.",
+     "ex_zh": "这项调查有缺陷，因为样本太小。",
+     "ex_ja": "サンプルが少なすぎたため、その調査には欠陥があった。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，按整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "flaw (n.)",
+       "缺陷",
+       "欠点"
+      ],
+      [
+       "flawless (adj.)",
+       "完美无瑕的",
+       "欠点のない"
+      ]
+     ]
+    },
+    {
+     "w": "deficiency",
+     "pos": "n.",
+     "ipa": "/dɪˈfɪʃənsi/",
+     "zh": "缺陷；不足",
+     "ja": "欠陥；不足",
+     "ex": "The inspection revealed several deficiencies in the safety system.",
+     "ex_zh": "检查发现安全系统存在多处缺陷。",
+     "ex_ja": "検査で安全システムのいくつかの不備が明らかになった。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，按整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "deficient (adj.)",
+       "不足的；有缺陷的",
+       "不足した"
+      ],
+      [
+       "deficiency in",
+       "在……方面的不足",
+       "〜の不足"
+      ]
+     ],
+     "hl": "deficiencies"
+    },
+    {
+     "w": "shortcoming",
+     "pos": "n.",
+     "ipa": "/ˈʃɔrtˌkʌmɪŋ/",
+     "zh": "缺点；不足",
+     "ja": "欠点；短所",
+     "ex": "The report points out the main shortcomings of the current system.",
+     "ex_zh": "报告指出了现行系统的主要缺点。",
+     "ex_ja": "報告書は現行システムの主な欠点を指摘している。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，按整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "short + coming",
+       "短 + 来（复合词）",
+       "複合語（short＋coming）"
+      ],
+      [
+       "address shortcomings",
+       "解决不足",
+       "欠点に対処する"
+      ]
+     ],
+     "hl": "shortcomings"
+    },
+    {
+     "w": "guarantee",
+     "pos": "n./v.",
+     "ipa": "/ˌɡɛrənˈtiː/",
+     "zh": "保证；担保；保证书",
+     "ja": "保証；保証する",
+     "ex": "We guarantee a full refund if you are not satisfied.",
+     "ex_zh": "如果您不满意，我们保证全额退款。",
+     "ex_ja": "ご満足いただけない場合は、全額返金をお約束します。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，按整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "money-back guarantee",
+       "退款保证",
+       "返金保証"
+      ],
+      [
+       "guaranteed (adj.)",
+       "有保证的",
+       "保証された"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tr",
+   "title_zh": "主题：培训认证与仓储安全",
+   "title_ja": "テーマ：研修・資格と倉庫・安全",
+   "words": [
+    {
+     "w": "seminar",
+     "pos": "n.",
+     "ipa": "/ˈsɛmənɑr/",
+     "zh": "研讨会；讲习会",
+     "ja": "セミナー；講習会",
+     "ex": "All new managers are required to attend the leadership seminar.",
+     "ex_zh": "所有新任经理都必须参加领导力研讨会。",
+     "ex_ja": "新任マネージャーは全員リーダーシップセミナーに出席しなければならない。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，按整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "attend a seminar",
+       "参加研讨会",
+       "セミナーに出席する"
+      ],
+      [
+       "seminar room",
+       "研讨室",
+       "セミナー室"
+      ]
+     ]
+    },
+    {
+     "w": "workshop",
+     "pos": "n.",
+     "ipa": "/ˈwɝkʃɑp/",
+     "zh": "研习班；工作坊；车间",
+     "ja": "ワークショップ；作業場",
+     "ex": "The workshop on time management will be held in Room 3.",
+     "ex_zh": "时间管理研习班将在3号房间举行。",
+     "ex_ja": "時間管理のワークショップは3号室で開催される。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，按整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "hold a workshop",
+       "举办研习班",
+       "ワークショップを開く"
+      ],
+      [
+       "workshop leader",
+       "研习班主持人",
+       "ワークショップの講師"
+      ]
+     ]
+    },
+    {
+     "w": "syllabus",
+     "pos": "n.",
+     "ipa": "/ˈsɪləbəs/",
+     "zh": "课程大纲；教学计划",
+     "ja": "シラバス；講義要綱",
+     "ex": "The syllabus lists all the topics covered in the training course.",
+     "ex_zh": "课程大纲列出了培训课程涵盖的所有主题。",
+     "ex_ja": "シラバスには研修コースで扱うすべてのテーマが載っている。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，按整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "course syllabus",
+       "课程大纲",
+       "授業の要綱"
+      ],
+      [
+       "syllabi / syllabuses",
+       "复数形式",
+       "複数形"
+      ]
+     ]
+    },
+    {
+     "w": "tutorial",
+     "pos": "n.",
+     "ipa": "/tuˈtɔriəl/",
+     "zh": "教程；辅导课",
+     "ja": "チュートリアル；個別指導",
+     "ex": "New users can watch a short tutorial before starting the software.",
+     "ex_zh": "新用户可以在开始使用软件前观看简短教程。",
+     "ex_ja": "新規ユーザーはソフトを使い始める前に短いチュートリアルを見られる。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，按整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "online tutorial",
+       "在线教程",
+       "オンラインの解説"
+      ],
+      [
+       "tutor (n./v.)",
+       "家庭教师；辅导",
+       "家庭教師；個別指導する"
+      ]
+     ]
+    },
+    {
+     "w": "certification",
+     "pos": "n.",
+     "ipa": "/ˌsɝtɪfɪˈkeɪʃən/",
+     "zh": "资格证书；认证",
+     "ja": "資格認定；証明書",
+     "ex": "Employees must obtain certification before operating the machine.",
+     "ex_zh": "员工必须先取得认证才能操作这台机器。",
+     "ex_ja": "従業員はその機械を操作する前に認定を取得しなければならない。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，按整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "certify (v.)",
+       "证明；认证",
+       "証明する；認定する"
+      ],
+      [
+       "certified (adj.)",
+       "有资格认证的",
+       "認定を受けた"
+      ]
+     ],
+     "tip": {
+      "zh": "certification ＝ 资格认证；certificate 是证书实物。",
+      "ja": "certification は「認定（資格取得）」、certificate は「証明書そのもの」。"
+     }
+    },
+    {
+     "w": "accreditation",
+     "pos": "n.",
+     "ipa": "/əˌkrɛdɪˈteɪʃən/",
+     "zh": "资质认证；认可",
+     "ja": "認定；認可",
+     "ex": "The university received full accreditation from the national board.",
+     "ex_zh": "这所大学获得了国家委员会的正式认证。",
+     "ex_ja": "その大学は国の審査機関から正式な認可を受けた。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，按整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "accredit (v.)",
+       "认可；授权",
+       "認定する"
+      ],
+      [
+       "accredited (adj.)",
+       "经认可的",
+       "認定を受けた"
+      ]
+     ]
+    },
+    {
+     "w": "proficiency",
+     "pos": "n.",
+     "ipa": "/prəˈfɪʃənsi/",
+     "zh": "熟练；精通",
+     "ja": "熟達；技能",
+     "ex": "Proof of English proficiency is required for this position.",
+     "ex_zh": "这个职位需要提供英语熟练程度的证明。",
+     "ex_ja": "この職には英語力の証明が必要だ。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，按整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "proficient (adj.)",
+       "熟练的",
+       "熟達した"
+      ],
+      [
+       "language proficiency",
+       "语言能力",
+       "語学力"
+      ]
+     ],
+     "tip": {
+      "zh": "be proficient in … ＝ 精通……，招聘广告常见。",
+      "ja": "be proficient in … 「〜に堪能だ」は求人広告で頻出。"
+     }
+    },
+    {
+     "w": "sabbatical",
+     "pos": "n.",
+     "ipa": "/səˈbætɪkəl/",
+     "zh": "长期休假（学术休假）",
+     "ja": "サバティカル；長期研修休暇",
+     "ex": "She took a six-month sabbatical to write a book on marketing.",
+     "ex_zh": "她请了六个月的长假去写一本营销方面的书。",
+     "ex_ja": "彼女は6か月のサバティカルを取って、マーケティングの本を書いた。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，按整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "on sabbatical",
+       "正在休长假",
+       "長期休暇中"
+      ],
+      [
+       "sabbatical leave",
+       "长期休假",
+       "研修休暇"
+      ]
+     ]
+    },
+    {
+     "w": "dismissal",
+     "pos": "n.",
+     "ipa": "/dɪsˈmɪsəl/",
+     "zh": "解雇；免职；驳回",
+     "ja": "解雇；免職",
+     "ex": "The employee filed a complaint about his unfair dismissal.",
+     "ex_zh": "这名员工就自己被不公平解雇提出了申诉。",
+     "ex_ja": "その従業員は不当解雇について苦情を申し立てた。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，按整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "dismiss (v.)",
+       "解雇；驳回",
+       "解雇する；却下する"
+      ],
+      [
+       "unfair dismissal",
+       "不当解雇",
+       "不当解雇"
+      ]
+     ]
+    },
+    {
+     "w": "warehouse",
+     "pos": "n.",
+     "ipa": "/ˈwɛrhaʊs/",
+     "zh": "仓库；货栈",
+     "ja": "倉庫",
+     "ex": "The goods are stored in a climate-controlled warehouse near the port.",
+     "ex_zh": "货物存放在港口附近一座恒温仓库里。",
+     "ex_ja": "商品は港近くの温度管理された倉庫に保管されている。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，按整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "warehouse manager",
+       "仓库主管",
+       "倉庫の管理者"
+      ],
+      [
+       "warehousing (n.)",
+       "仓储",
+       "倉庫業務"
+      ]
+     ]
+    },
+    {
+     "w": "hazard",
+     "pos": "n.",
+     "ipa": "/ˈhæzɚd/",
+     "zh": "危险；危害",
+     "ja": "危険；危険要因",
+     "ex": "Wet floors are a serious safety hazard in the kitchen.",
+     "ex_zh": "湿滑的地面是厨房里严重的安全隐患。",
+     "ex_ja": "濡れた床は厨房では重大な安全上の危険要因だ。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，按整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "hazardous (adj.)",
+       "有危险的",
+       "危険な"
+      ],
+      [
+       "health hazard",
+       "健康隐患",
+       "健康被害のリスク"
+      ]
+     ]
+    },
+    {
+     "w": "mitigate",
+     "pos": "v.",
+     "ipa": "/ˈmɪtəɡeɪt/",
+     "zh": "减轻；缓解",
+     "ja": "和らげる；軽減する",
+     "ex": "We installed new filters to mitigate the effects of dust in the factory.",
+     "ex_zh": "我们安装了新的过滤器来减轻工厂里灰尘的影响。",
+     "ex_ja": "工場の粉じんの影響を軽減するため、新しいフィルターを設置した。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，按整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "mitigation (n.)",
+       "缓解；减轻",
+       "軽減"
+      ],
+      [
+       "mitigate risk",
+       "降低风险",
+       "リスクを軽減する"
+      ]
+     ],
+     "tip": {
+      "zh": "mitigate risk / impact ＝ 降低风险；TOEIC 风险管理文常考。",
+      "ja": "mitigate risk / impact「リスク・影響を軽減する」。リスク管理の文で頻出。"
+     }
+    },
+    {
+     "w": "stockpile",
+     "pos": "n./v.",
+     "ipa": "/ˈstɑkpaɪl/",
+     "zh": "库存；储备；囤积",
+     "ja": "備蓄；買いだめする",
+     "ex": "The company built up a stockpile of spare parts before the holidays.",
+     "ex_zh": "公司在假期前囤积了一批备用零件。",
+     "ex_ja": "会社は休暇の前に予備部品を備蓄した。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，按整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "stockpile of",
+       "……的储备",
+       "〜の備蓄"
+      ],
+      [
+       "stockpile (v.)",
+       "囤积",
+       "備蓄する"
+      ]
+     ]
+    },
+    {
+     "w": "catering",
+     "pos": "n.",
+     "ipa": "/ˈkeɪtɚɪŋ/",
+     "zh": "餐饮服务；承办酒席",
+     "ja": "ケータリング；仕出し",
+     "ex": "The catering for the awards dinner was provided by a local restaurant.",
+     "ex_zh": "颁奖晚宴的餐饮由当地一家餐厅提供。",
+     "ex_ja": "授賞式ディナーの料理は地元のレストランが提供した。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，按整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "cater (v.)",
+       "提供餐饮；迎合",
+       "料理を提供する"
+      ],
+      [
+       "catering service",
+       "餐饮服务",
+       "ケータリングサービス"
+      ]
+     ]
+    },
+    {
+     "w": "accommodation",
+     "pos": "n.",
+     "ipa": "/əˌkɑməˈdeɪʃən/",
+     "zh": "住宿；膳宿",
+     "ja": "宿泊施設",
+     "ex": "The registration fee includes accommodation for two nights.",
+     "ex_zh": "报名费包含两晚的住宿。",
+     "ex_ja": "参加費には2泊分の宿泊が含まれている。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，按整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "accommodate (v.)",
+       "容纳；提供住宿",
+       "収容する；宿泊させる"
+      ],
+      [
+       "accommodations (n.)",
+       "（美）住宿",
+       "（米）宿泊設備"
+      ]
+     ],
+     "tip": {
+      "zh": "美式常用复数 accommodations；英式多用单数。",
+      "ja": "米国では accommodations と複数形が多く、英国では単数形が一般的。"
+     }
+    },
+    {
+     "w": "embark",
+     "pos": "v.",
+     "ipa": "/ɪmˈbɑrk/",
+     "zh": "登上（船、飞机）；着手",
+     "ja": "乗り込む；乗り出す",
+     "ex": "The company will embark on a major expansion plan next spring.",
+     "ex_zh": "公司将在明年春天着手一项大规模扩张计划。",
+     "ex_ja": "会社は来春、大規模な拡大計画に乗り出す。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，按整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "embark on",
+       "开始；着手",
+       "〜に乗り出す"
+      ],
+      [
+       "disembark (v.)",
+       "下船；下机",
+       "下船する；降りる"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}
