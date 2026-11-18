@@ -5100,6 +5100,448 @@
      "src": "site+ep31"
     }
    ]
+  },
+  "47": {
+   "date": "2026-11-19",
+   "focus_zh": "考后轻复习：Part 5 复习 8 题 + Part 7 两篇（Test 3 新题）",
+   "focus_ja": "試験後の軽い復習：Part 5 復習8問＋Part 7 の2題（Test 3）",
+   "grammar": [
+    {
+     "id": "T1-Q104",
+     "label": "Test 1 · Q104",
+     "test": 1,
+     "no": 104,
+     "part": 5,
+     "q": "Customers who wish to return an ------- to the Grover Garden Center are required to present a receipt.",
+     "options": [
+      "item",
+      "items",
+      "itemize",
+      "itemized"
+     ],
+     "answer": "A",
+     "topic_zh": "词性",
+     "topic_ja": "品詞",
+     "tip_zh": "an + 单数可数名词 item（return 的宾语）",
+     "tip_ja": "an + 単数の可算名詞 item（return の目的語）",
+     "src": "ep51",
+     "exp_zh": "冠词 an 后需要单数可数名词作 return 的宾语，item 正确。items 是复数不能与 an 连用；itemize 是动词“逐项列出”，itemized 是过去分词/形容词。",
+     "exp_ja": "冠詞 an の後には return の目的語となる単数の可算名詞が必要なので、item が正解。items は複数形で an と使えない。itemize は動詞「項目別に記載する」、itemized は過去分詞・形容詞。",
+     "vocab_zh": "return 退货；be required to 被要求；present a receipt 出示收据",
+     "vocab_ja": "return 返品；be required to ～するよう求められる；present a receipt レシートを提示する"
+    },
+    {
+     "id": "T1-Q108",
+     "label": "Test 1 · Q108",
+     "test": 1,
+     "no": 108,
+     "part": 5,
+     "q": "Amber Kitchen Supply ------- a one-year warranty on all its products.",
+     "options": [
+      "provider",
+      "provides",
+      "provide",
+      "providing"
+     ],
+     "answer": "B",
+     "topic_zh": "词性",
+     "topic_ja": "品詞",
+     "tip_zh": "缺谓语 → 动词；单数主语 → provides",
+     "tip_ja": "述語がない → 動詞；単数主語 → provides",
+     "src": "ep51",
+     "exp_zh": "句子缺谓语动词，主语 Amber Kitchen Supply 是单数（公司名），用第三人称单数 provides，B正确。provider 是名词，provide 主谓不一致，providing 不能单独作谓语。",
+     "exp_ja": "文に述語動詞がなく、主語 Amber Kitchen Supply は単数（社名）なので、三人称単数の provides が正解。provider は名詞、provide は主語と数が一致せず、providing は単独で述語になれない。",
+     "vocab_zh": "warranty 保修；supply 用品（店名中）",
+     "vocab_ja": "warranty 保証；supply 用品（店名の一部）"
+    },
+    {
+     "id": "T1-Q113",
+     "label": "Test 1 · Q113",
+     "test": 1,
+     "no": 113,
+     "part": 5,
+     "q": "The board of directors is seeking new members, ------- individuals with experience in the technology sector.",
+     "options": [
+      "especially",
+      "sincerely",
+      "positively",
+      "seriously"
+     ],
+     "answer": "A",
+     "topic_zh": "词汇",
+     "topic_ja": "語彙",
+     "tip_zh": "especially + 名词短语“尤其是……”",
+     "tip_ja": "especially + 名詞句「とくに…」",
+     "src": "ep55",
+     "exp_zh": "逗号后补充说明“尤其是有技术行业经验的人”，especially 可修饰名词短语表示强调，A正确。sincerely“真诚地”、positively“积极地”、seriously“认真地”与语境不符。",
+     "exp_ja": "カンマの後で「特に技術業界での経験がある人」と補足している。especially は名詞句を修飾して強調できるので、Aが正解。sincerely「心から」、positively「前向きに」、seriously「真剣に」は文脈に合わない。",
+     "vocab_zh": "board of directors 董事会；seek 寻找；sector 行业，领域",
+     "vocab_ja": "board of directors 取締役会；seek 探し求める；sector 業界、部門"
+    },
+    {
+     "id": "T1-Q124",
+     "label": "Test 1 · Q124",
+     "test": 1,
+     "no": 124,
+     "part": 5,
+     "q": "The contract will be awarded ------- all required documents are received.",
+     "options": [
+      "yet",
+      "instead",
+      "similarly",
+      "once"
+     ],
+     "answer": "D",
+     "topic_zh": "介词 vs 连词",
+     "topic_ja": "前置詞 vs 接続詞",
+     "tip_zh": "后面是完整句子 all required documents are received → 连词 once（一旦……就）",
+     "tip_ja": "後ろが完全な文 all required documents are received → 接続詞 once（いったん…すれば）",
+     "src": "ep53",
+     "exp_zh": "空格后是完整从句 all required documents are received，需要连词；once“一旦…就”，表示收到全部文件后就授予合同，D正确。yet 作连词意为“但是”不合逻辑，instead 和 similarly 是副词，不能连接从句。",
+     "exp_ja": "空所の後は完全な節 all required documents are received なので接続詞が必要。once「いったん～すれば」で、必要書類がすべて届けば契約を結ぶという意味になる。Dが正解。接続詞の yet「しかし」は論理が合わず、instead と similarly は副詞で節をつなげない。",
+     "vocab_zh": "award a contract 授予合同；required documents 必需文件",
+     "vocab_ja": "award a contract 契約を与える；required documents 必要書類"
+    },
+    {
+     "id": "T2-Q101",
+     "label": "Test 2 · Q101",
+     "test": 2,
+     "no": 101,
+     "part": 5,
+     "q": "Ms. O'Dell said she would make her ------- about the new team leader tomorrow.",
+     "options": [
+      "decision",
+      "decides",
+      "decisive",
+      "decisively"
+     ],
+     "answer": "A",
+     "topic_zh": "词性",
+     "topic_ja": "品詞",
+     "tip_zh": "所有格 her + 名词 decision（make 的宾语）",
+     "tip_ja": "所有格 her + 名詞 decision（make の目的語）",
+     "src": "ep51",
+     "exp_zh": "Test 2 第101题。空格前面是 make her，her 在这里是所有格“她的”，所有格后面要名词，而且这个名词是 make 的宾语，所以选A decision。make a decision 是“做决定”，这里换成 make her decision，“做出她的决定”。意思是：O’Dell 女士说，她明天会就新组长的人选做出决定。B decides 是动词，C decisive 是形容词“果断的”，D decisively 是副词。四个选项词根相同、词尾不同，就是典型的词性题，只看空格前后就能做。",
+     "exp_ja": "Test 2 第101問。空所の前は make her で、この her は所有格「彼女の」です。所有格の後には名詞が来て、その名詞は make の目的語にもなるので、正解はA decision です。make a decision は「決定する」で、ここでは make her decision「彼女の決定を下す」になっています。意味は「O’Dell さんは、新しいチームリーダーについて明日決定を下すと言った」。B decides は動詞、C decisive は形容詞「決断力のある」、D decisively は副詞です。4つの選択肢の語幹が同じで語尾だけ違うのが典型的な品詞の問題で、空所の前後だけ見れば解けます。"
+    },
+    {
+     "id": "T2-Q124",
+     "label": "Test 2 · Q124",
+     "test": 2,
+     "no": 124,
+     "part": 5,
+     "q": "Input from management is ------- requested in order to finish tomorrow's workshop agenda.",
+     "options": [
+      "urged",
+      "urgent",
+      "urgency",
+      "urgently"
+     ],
+     "answer": "D",
+     "topic_zh": "词性",
+     "topic_ja": "品詞",
+     "tip_zh": "is + 副词 + requested → urgently",
+     "tip_ja": "is + 副詞 + requested → urgently",
+     "src": "ep51",
+     "exp_zh": "Test 2 第124题，还是 be 动词加过去分词的被动语态，中间放副词。空格在 is 和 requested 中间，选D urgently，“紧急地”。意思是：为了完成明天研讨会的议程，现急需管理层提供意见。B urgent 是形容词“紧急的”，C urgency 是名词“紧迫”，A urged 是动词 urge 的过去式。三道连着看：has 后面、are 后面、is 后面，分词前面，都是副词位。",
+     "exp_ja": "Test 2 第124問も be 動詞と過去分詞の受動態で、間に副詞が入ります。空所は is と requested の間なので、正解はD urgently「至急」です。意味は「明日のワークショップの議題をまとめるため、経営陣からの意見が至急求められている」。B urgent は形容詞「緊急の」、C urgency は名詞「緊急性」、A urged は動詞 urge の過去形です。3問続けて見ると、has の後、are の後、is の後で、分詞の前はすべて副詞の位置です。"
+    },
+    {
+     "id": "T3-Q106",
+     "label": "Test 3 · Q106",
+     "test": 3,
+     "no": 106,
+     "part": 5,
+     "q": "The forms are ------- on our Web site and can be downloaded at your convenience.",
+     "options": [
+      "available",
+      "availability",
+      "availabilities",
+      "availableness"
+     ],
+     "answer": "A",
+     "topic_zh": "词性",
+     "topic_ja": "品詞",
+     "tip_zh": "be 动词后的表语 → 形容词 available",
+     "tip_ja": "be 動詞の後の補語 → 形容詞 available",
+     "src": "ep51",
+     "exp_zh": "be 动词 are 后作表语，且与 can be downloaded 并列描述表格的状态，需要形容词 available（可获得的），选 (A)。",
+     "exp_ja": "be 動詞の後の補語で、書類の状態を表す形容詞 available（入手できる）が正解 (A)。",
+     "vocab_zh": [
+      "at your convenience 在您方便时"
+     ],
+     "vocab_ja": [
+      "at your convenience ご都合のよいときに"
+     ]
+    },
+    {
+     "id": "T3-Q129",
+     "label": "Test 3 · Q129",
+     "test": 3,
+     "no": 129,
+     "part": 5,
+     "q": "After participating in many ------- structured debates, the political candidates appreciated a more relaxed group interview.",
+     "options": [
+      "high",
+      "higher",
+      "highly",
+      "highest"
+     ],
+     "answer": "C",
+     "topic_zh": "词性",
+     "topic_ja": "品詞",
+     "tip_zh": "副词修饰分词形容词 structured → highly",
+     "tip_ja": "副詞が分詞形容詞 structured を修飾 → highly",
+     "src": "ep51",
+     "exp_zh": "空格修饰过去分词（形容词）structured，需要副词 highly（高度地），选 (C)。",
+     "exp_ja": "形容詞化した過去分詞 structured を修飾する副詞 highly (C)。",
+     "vocab_zh": [
+      "highly structured 高度程式化的",
+      "candidate 候选人"
+     ],
+     "vocab_ja": [
+      "highly structured 型にはまった",
+      "candidate 候補者"
+     ]
+    }
+   ],
+   "reading": [
+    {
+     "id": "T3-Q172-175",
+     "label": "Test 3 · Q172–175",
+     "test": 3,
+     "part": 7,
+     "intro": "Questions 172-175 refer to the following memo.",
+     "docs": [
+      [
+       {
+        "t": "title",
+        "x": "MEMO"
+       },
+       {
+        "t": "meta",
+        "rows": [
+         [
+          "To",
+          "Sales Team, KL International Home Goods"
+         ],
+         [
+          "From",
+          "Alex Cardine, Director of Retail Sales"
+         ],
+         [
+          "Date",
+          "October 29"
+         ],
+         [
+          "Subject",
+          "Rice cookers"
+         ]
+        ]
+       },
+       {
+        "t": "p",
+        "x": "The central shipping warehouse has informed me that we have sold all our Jasmine 200 rice cookers. This is unfortunate because the Jasmine 200 is our most popular model and was expected to be a key item in our ongoing nationwide sale. We think many customers who see ads about the sale will inquire about it. — [1] —."
+       },
+       {
+        "t": "p",
+        "x": "The discount for the Jasmine 200 was 15 percent off the regular price. To remedy the national sale situation, the corporate office will allow us to offer the Lotus 600 model with the same 15 percent discount. — [2] —. Since the Lotus 600 is the top-of-the-line rice cooker, we expect many customers will want to take advantage of this substantial discount and purchase it. — [3] —."
+       },
+       {
+        "t": "p",
+        "x": "For those customers who are only interested in purchasing the Jasmine 200 during the sale, store managers may offer a rain check on the discount price. — [4] —. However, managers should inform those customers that there will be a six- to eight-week wait for that model."
+       }
+      ]
+     ],
+     "questions": [
+      {
+       "no": 172,
+       "label": "Test 3 · Q172",
+       "q": "What is one topic of the memo?",
+       "options": [
+        "A previously concluded sale",
+        "A newly released product",
+        "A recent pricing decision",
+        "A quality control problem"
+       ],
+       "answer": "C",
+       "exp_zh": "备忘录说明总部决定让 Lotus 600 也享受同样 15% 的折扣，这是最近的定价决定，选 (C)。促销仍在进行（ongoing），(A) 错。",
+       "exp_ja": "本社が Lotus 600 にも同じ15%割引を適用すると決めたことが述べられている。最近の価格決定なので (C)。セールは進行中なので (A) は誤り。"
+      },
+      {
+       "no": 173,
+       "label": "Test 3 · Q173",
+       "q": "What is suggested about the Lotus 600 ?",
+       "options": [
+        "It was not initially included in the nationwide sale.",
+        "It is the company's most popular product.",
+        "It is out of stock and needs to be reordered.",
+        "It is not selling well because of its high cost."
+       ],
+       "answer": "A",
+       "exp_zh": "为了弥补 Jasmine 200 售罄，总部才“允许”以同样折扣销售 Lotus 600，说明它原本不在全国促销范围内，选 (A)。最受欢迎的是 Jasmine 200。",
+       "exp_ja": "Jasmine 200 の品切れ対策として Lotus 600 の割引が「許可された」ので、元々は全国セールの対象外だったと分かる。(A)。最も人気なのは Jasmine 200。"
+      },
+      {
+       "no": 174,
+       "label": "Test 3 · Q174",
+       "q": "According to the memo, what should store managers communicate to customers?",
+       "options": [
+        "Production of the Lotus 600 will be discontinued soon.",
+        "Jasmine 200 rice cookers will not be available for six to eight weeks.",
+        "KL International Home Goods products are already heavily discounted.",
+        "Remodeling the store will take more than a month to complete."
+       ],
+       "answer": "B",
+       "exp_zh": "最后一句：店长应告知顾客，该型号（Jasmine 200）需要等待六到八周，选 (B)。",
+       "exp_ja": "最後の文：店長は顧客にその機種（Jasmine 200）は6〜8週間待ちになると伝えるべきとあるので (B)。"
+      },
+      {
+       "no": 175,
+       "label": "Test 3 · Q175",
+       "q": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? \"This problem needs to be addressed immediately.\"",
+       "options": [
+        "[1]",
+        "[2]",
+        "[3]",
+        "[4]"
+       ],
+       "answer": "A",
+       "exp_zh": "“这个问题需要立即处理”应紧接在描述问题之后：[1] 前说明最受欢迎的型号已售罄，且很多顾客会来询问；[1] 之后第 2 段开始给出补救措施（To remedy...），选 (A)。",
+       "exp_ja": "「この問題にはすぐに対処する必要がある」は問題の説明の直後に置く。[1] の前で人気機種の品切れと問い合わせの増加が述べられ、次の段落で対策（To remedy...）が示されるので (A)。"
+      }
+     ],
+     "src": "site+ep32"
+    },
+    {
+     "id": "T3-Q176-180",
+     "label": "Test 3 · Q176–180",
+     "test": 3,
+     "part": 7,
+     "intro": "Questions 176-180 refer to the following Web pages.",
+     "docs": [
+      [
+       {
+        "t": "p",
+        "x": "https://www.colettesbooks.co.uk/toppicks"
+       },
+       {
+        "t": "title",
+        "x": "Top Picks at Colette's Books"
+       },
+       {
+        "t": "p",
+        "x": "As spring comes to a close, readers turn to Colette's Books to find rewarding reads for the summer months. Every season, Colette's selects its top five new releases—and shoppers who purchase at least three of the five books receive 15% off their purchase."
+       },
+       {
+        "t": "p",
+        "x": "Here are our picks for this summer."
+       },
+       {
+        "t": "list",
+        "items": [
+         "Hidden by Clouds, by Rachel Polk. In the not-too-distant future, explorers land on a planet in a nearby galaxy and discover it is already inhabited.",
+         "Ten Days at Sea, by Ishan James. The author recounts the tale of a journey his grandparents made across the Atlantic in the late nineteenth century.",
+         "Taking to the Road, by Paige Tse. A musician's life is changed when he responds to an advertisement to join a band for a multicity tour.",
+         "How I Got Here, by Abel Umeh. Actor Abel Umeh takes a humorous look at his childhood and his eventual rise to celebrity.",
+         "Some Secrets Will Not Keep, by Asami Ishida. Amateur detective Eriko Ogawa must use all her skills to solve a mystery in a small Japanese village."
+        ]
+       },
+       {
+        "t": "p",
+        "x": "Let us know what you think of this season's selections by sharing your comments using our online form at www.colettesbooks.co.uk/readercomments, and sign up for our newsletter at www.colettesbooks.co.uk/newsletter."
+       }
+      ],
+      [
+       {
+        "t": "p",
+        "x": "https://www.colettesbooks.co.uk/readercomments"
+       },
+       {
+        "t": "p",
+        "x": "Last month, a friend recommended that I check out Colette's Books top picks, and now I am hooked. For the summer, I purchased three books from the list, and I have just finished the first. I was pleasantly surprised by Ishan James's suspenseful and deeply personal story. Who would have guessed that a voyage could be so interesting? It would make an excellent film. I definitely look forward to reading more of Colette's summer selections over the next two months."
+       },
+       {
+        "t": "sign",
+        "x": "— Omar Pitafi"
+       }
+      ]
+     ],
+     "questions": [
+      {
+       "no": 176,
+       "label": "Test 3 · Q176",
+       "q": "How often does Colette's Books create a list of top books?",
+       "options": [
+        "Every week",
+        "Every month",
+        "Every season",
+        "Every year"
+       ],
+       "answer": "C",
+       "exp_zh": "第 1 篇：Every season, Colette's selects its top five new releases，每季一次，选 (C)。",
+       "exp_ja": "1つ目の文書：Every season, Colette's selects its top five new releases とあり、季節ごとなので (C)。"
+      },
+      {
+       "no": 177,
+       "label": "Test 3 · Q177",
+       "q": "How can customers of Colette's Books receive a discount?",
+       "options": [
+        "By joining a readers club",
+        "By buying at least three recommended books",
+        "By leaving a review on a Web site",
+        "By subscribing to a weekly newsletter"
+       ],
+       "answer": "B",
+       "exp_zh": "第 1 篇：购买五本推荐书中至少三本可享 15% 折扣，选 (B)。",
+       "exp_ja": "1つ目の文書：5冊のうち少なくとも3冊購入すると15%引きになるので (B)。"
+      },
+      {
+       "no": 178,
+       "label": "Test 3 · Q178",
+       "q": "What would a reader of Hidden by Clouds most likely be interested in?",
+       "options": [
+        "Contemporary music",
+        "Detective stories",
+        "Weather events",
+        "Space travel"
+       ],
+       "answer": "D",
+       "exp_zh": "Hidden by Clouds 讲探险者登陆邻近星系的行星，属于太空旅行题材，选 (D)。",
+       "exp_ja": "Hidden by Clouds は探検家が近くの銀河の惑星に降り立つ話なので、宇宙旅行に関心がある読者向け。(D)。"
+      },
+      {
+       "no": 179,
+       "label": "Test 3 · Q179",
+       "q": "What book did Mr. Pitafi read?",
+       "options": [
+        "Ten Days at Sea",
+        "Taking to the Road",
+        "How I Got Here",
+        "Some Secrets Will Not Keep"
+       ],
+       "answer": "A",
+       "exp_zh": "双篇联系：Pitafi 读完了 Ishan James 关于航海（voyage）的故事；第 1 篇中 Ishan James 的书是 Ten Days at Sea，选 (A)。",
+       "exp_ja": "2文書参照：Pitafi さんは Ishan James の航海の物語を読み終えた。1つ目の文書で Ishan James の本は Ten Days at Sea なので (A)。"
+      },
+      {
+       "no": 180,
+       "label": "Test 3 · Q180",
+       "q": "What will Mr. Pitafi most likely do in the near future?",
+       "options": [
+        "Watch a film based on a book he read",
+        "Look for a book suggested by a friend",
+        "Buy another book by an author he likes",
+        "Read another book he recently purchased"
+       ],
+       "answer": "D",
+       "exp_zh": "他买了三本书，刚读完第一本，并期待在接下来两个月读更多夏季书单的书，所以接下来会读另一本已买的书，选 (D)。“可以拍成电影”只是评价，(A) 错。",
+       "exp_ja": "3冊買って1冊目を読み終え、今後2か月で他の選書も読むのを楽しみにしている。購入済みの別の本を読むと考えられるので (D)。映画は感想にすぎない。"
+      }
+     ],
+     "src": "site+ep32"
+    }
+   ]
   }
  },
  "warmup": {

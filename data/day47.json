@@ -1,0 +1,2149 @@
+{
+ "day": 47,
+ "date": "2026-11-19",
+ "title_zh": "四大词根 + 招聘与人事制度 + 财务报表与投资",
+ "title_ja": "4つの語根＋採用・人事制度＋財務報告・投資",
+ "intro_zh": "今天的词根是 -tend-/-tens-/-tent-（伸展）、-sist-/-stit-（站立）、-fer-（携带）、-dict-（说）；主题是招聘与人事制度，以及财务报表与投资。",
+ "intro_ja": "今日の語根は -tend-・-tens-・-tent-（伸ばす）、-sist-・-stit-（立つ）、-fer-（運ぶ）、-dict-（言う）。テーマは採用・人事制度、そして財務報告・投資。",
+ "voice": "en-US-AriaNeural",
+ "roots": [
+  {
+   "root": "-tend- / -tens- / -tent-",
+   "origin": "Latin tendere, tensus",
+   "zh": "伸展；倾向",
+   "ja": "伸ばす；向かう",
+   "exp_zh": "来自拉丁语 tendere（伸，拉紧）。拉紧 → intensify；一起较劲 → contend；伸出的组织 → tendon。⚠️ tent（帐篷）、tender（嫩的）不要混淆。",
+   "exp_ja": "ラテン語 tendere（伸ばす、張る）から。ぴんと張る → intensify；張り合う → contend；伸びる組織 → tendon。⚠️ tent（テント）とは別。",
+   "examples": [
+    "tendon",
+    "contend",
+    "pretentious",
+    "intensify",
+    "portend"
+   ]
+  },
+  {
+   "root": "-sist- / -stit-",
+   "origin": "Latin sistere, stare",
+   "zh": "站立",
+   "ja": "立つ",
+   "exp_zh": "来自拉丁语 sistere/stare（站立）。站住不让 → insistence；站在一起 → consistency；站开 → desist。⚠️ sister（姐妹）与此词根无关。",
+   "exp_ja": "ラテン語 sistere/stare（立つ）から。譲らず立つ → insistence；共に立つ → consistency；立ち去る → desist。⚠️ sister（姉妹）は無関係。",
+   "examples": [
+    "insistence",
+    "consistency",
+    "subsistence",
+    "desist",
+    "constituency"
+   ]
+  },
+  {
+   "root": "-fer-",
+   "origin": "Latin ferre",
+   "zh": "携带；搬运",
+   "ja": "運ぶ",
+   "exp_zh": "来自拉丁语 ferre（带，搬）。绕一圈 → circumference；向前递 → proffer；搬过去 → transferable。⚠️ fear（害怕）、fair（公平）与此词根无关。",
+   "exp_ja": "ラテン語 ferre（運ぶ）から。ぐるり → circumference；差し出す → proffer；移す → transferable。⚠️ fear（恐れ）・fair（公平）は無関係。",
+   "examples": [
+    "circumference",
+    "proffer",
+    "preferential",
+    "transferable",
+    "conferment"
+   ]
+  },
+  {
+   "root": "-dict-",
+   "origin": "Latin dicere, dictus",
+   "zh": "说",
+   "ja": "言う",
+   "exp_zh": "来自拉丁语 dicere（说）。对外宣布 → edict；离开宣布 → abdicate；说好话 → benediction。⚠️ dick- 开头的人名与此无关。",
+   "exp_ja": "ラテン語 dicere（言う）から。公に言う → edict；離れると言う → abdicate；良い言葉 → benediction。",
+   "examples": [
+    "edict",
+    "abdicate",
+    "indictment",
+    "addiction",
+    "benediction"
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "tend",
+   "title_zh": "词根 -tend- / -tens- / -tent-：伸展；倾向",
+   "title_ja": "語根 -tend- / -tens- / -tent-：伸ばす；向かう",
+   "words": [
+    {
+     "w": "contend",
+     "pos": "v.",
+     "ipa": "/kənˈtɛnd/",
+     "zh": "竞争；主张",
+     "ja": "競う；主張する",
+     "ex": "Three firms are contending for the government contract.",
+     "ex_zh": "三家公司正在争夺这份政府合同。",
+     "ex_ja": "3社が政府契約を争っている。",
+     "parts": [
+      [
+       "con-",
+       "一起",
+       "共に"
+      ],
+      [
+       "tend",
+       "伸展；倾向",
+       "伸ばす；向かう"
+      ]
+     ],
+     "note": {
+      "zh": "con“一起”+ tend“伸展”→ 互相较劲 → 竞争、主张。",
+      "ja": "con「共に」+ tend「伸ばす」→ 互いに張り合う → 競う、主張する。"
+     },
+     "forms": [
+      [
+       "contend with",
+       "应对",
+       "〜に対処する"
+      ],
+      [
+       "contender (n.)",
+       "竞争者",
+       "有力候補"
+      ]
+     ]
+    },
+    {
+     "w": "intensify",
+     "pos": "v.",
+     "ipa": "/ɪnˈtɛnsɪfaɪ/",
+     "zh": "加强；加剧",
+     "ja": "強める；激化する",
+     "ex": "The two companies intensified their price competition.",
+     "ex_zh": "两家公司加剧了价格竞争。",
+     "ex_ja": "2社は価格競争を激化させた。",
+     "parts": [
+      [
+       "in-",
+       "向内",
+       "中へ"
+      ],
+      [
+       "tens",
+       "伸展；绷紧",
+       "伸ばす；張る"
+      ],
+      [
+       "-ify",
+       "使……",
+       "〜化する"
+      ]
+     ],
+     "note": {
+      "zh": "in + tens 把弦绷紧 → 使更强烈。",
+      "ja": "in + tens「張る」→ ぴんと張る → 強める。"
+     },
+     "forms": [
+      [
+       "intensify efforts",
+       "加大力度",
+       "努力を強める"
+      ],
+      [
+       "intensive (adj.)",
+       "密集的",
+       "集中的な"
+      ]
+     ]
+    },
+    {
+     "w": "distend",
+     "pos": "v.",
+     "ipa": "/dɪˈstɛnd/",
+     "zh": "膨胀；肿胀",
+     "ja": "膨らむ；膨張させる",
+     "ex": "Heat can distend the plastic pipes and cause leaks.",
+     "ex_zh": "高温会使塑料管膨胀并导致漏水。",
+     "ex_ja": "熱でプラスチック管が膨張し、漏れの原因になる。",
+     "parts": [
+      [
+       "dis-",
+       "向各处",
+       "あちこちへ"
+      ],
+      [
+       "tend",
+       "伸展；倾向",
+       "伸ばす；向かう"
+      ]
+     ],
+     "note": {
+      "zh": "dis“分散”+ tend“伸展”→ 向外撑开 → 膨胀。",
+      "ja": "dis「散らす」+ tend「伸ばす」→ 外へ押し広げる → 膨張する。"
+     },
+     "forms": [
+      [
+       "distended (adj.)",
+       "膨胀的",
+       "膨れた"
+      ],
+      [
+       "distension (n.)",
+       "膨胀",
+       "膨張"
+      ]
+     ]
+    },
+    {
+     "w": "tendon",
+     "pos": "n.",
+     "ipa": "/ˈtɛndən/",
+     "zh": "肌腱",
+     "ja": "腱",
+     "ex": "The athlete missed the season with a torn tendon.",
+     "ex_zh": "这位运动员因肌腱撕裂缺席了整个赛季。",
+     "ex_ja": "その選手は腱を断裂してシーズンを欠場した。",
+     "parts": [
+      [
+       "tend",
+       "伸展",
+       "伸ばす"
+      ],
+      [
+       "-on",
+       "名词后缀",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "tend“伸展”→ 拉伸肌肉的组织 → 肌腱。",
+      "ja": "tend「伸ばす」→ 筋肉を引っ張る組織 → 腱。"
+     },
+     "forms": [
+      [
+       "Achilles tendon",
+       "跟腱",
+       "アキレス腱"
+      ],
+      [
+       "tendinitis (n.)",
+       "肌腱炎",
+       "腱炎"
+      ]
+     ]
+    },
+    {
+     "w": "pretentious",
+     "pos": "adj.",
+     "ipa": "/prɪˈtɛnʃəs/",
+     "zh": "自命不凡的；做作的",
+     "ja": "気取った；もったいぶった",
+     "ex": "The menu felt pretentious, with long names for simple dishes.",
+     "ex_zh": "菜单显得做作，简单的菜起了很长的名字。",
+     "ex_ja": "メニューは気取っていて、簡単な料理に長い名前がついていた。",
+     "parts": [
+      [
+       "pre-",
+       "在前",
+       "前に"
+      ],
+      [
+       "tent",
+       "伸展",
+       "伸ばす"
+      ],
+      [
+       "-ious",
+       "形容词后缀",
+       "形容詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "pre“前”+ tent“伸”→ 把自己伸到前面 → 自命不凡。",
+      "ja": "pre「前」+ tent「伸ばす」→ 自分を前へ出す → 気取った。"
+     },
+     "forms": [
+      [
+       "pretentious style",
+       "做作的风格",
+       "気取った様式"
+      ],
+      [
+       "pretension (n.)",
+       "自负",
+       "気取り"
+      ]
+     ]
+    },
+    {
+     "w": "extenuating",
+     "pos": "adj.",
+     "ipa": "/ɪkˈstɛnjueɪtɪŋ/",
+     "zh": "情有可原的",
+     "ja": "情状酌量の",
+     "ex": "Extenuating circumstances may excuse the late delivery.",
+     "ex_zh": "情有可原的情况也许可以为延迟交货开脱。",
+     "ex_ja": "やむを得ない事情があれば、納品の遅れは容赦される場合がある。",
+     "parts": [
+      [
+       "ex-",
+       "向外",
+       "外へ"
+      ],
+      [
+       "tenu",
+       "细；薄",
+       "細い"
+      ],
+      [
+       "-ating",
+       "形容词后缀",
+       "形容詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "来自 tenuis“细”：把罪责“拉薄” → 情有可原。⚠️ 与 tend“伸”近似但词源是“细”。",
+      "ja": "tenuis「細い」由来：責任を薄くする → 酌量。⚠️ tend「伸ばす」と似るが語源は「細い」。"
+     },
+     "forms": [
+      [
+       "extenuating circumstances",
+       "可减轻责任的情况",
+       "酌量すべき事情"
+      ],
+      [
+       "extenuate (v.)",
+       "减轻",
+       "軽くする"
+      ]
+     ]
+    },
+    {
+     "w": "portend",
+     "pos": "v.",
+     "ipa": "/pɔːrˈtɛnd/",
+     "zh": "预示；是……的预兆",
+     "ja": "前兆となる",
+     "ex": "Falling orders may portend a difficult year for the industry.",
+     "ex_zh": "订单下滑可能预示行业将迎来艰难的一年。",
+     "ex_ja": "受注の減少は業界にとって厳しい年の前兆かもしれない。",
+     "parts": [
+      [
+       "por-",
+       "向前",
+       "前へ"
+      ],
+      [
+       "tend",
+       "伸展",
+       "伸ばす"
+      ]
+     ],
+     "note": {
+      "zh": "por“向前”+ tend“伸”→ 向前伸展出的迹象 → 预示。",
+      "ja": "por「前へ」+ tend「伸ばす」→ 先に伸びる兆し → 前兆となる。"
+     },
+     "forms": [
+      [
+       "portend trouble",
+       "预示麻烦",
+       "問題の前兆となる"
+      ],
+      [
+       "portent (n.)",
+       "预兆",
+       "前兆"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sist",
+   "title_zh": "词根 -sist- / -stit-：站立",
+   "title_ja": "語根 -sist- / -stit-：立つ",
+   "words": [
+    {
+     "w": "insistence",
+     "pos": "n.",
+     "ipa": "/ɪnˈsɪstəns/",
+     "zh": "坚持；强烈要求",
+     "ja": "主張；強い要求",
+     "ex": "At the client's insistence, the meeting was moved to Monday.",
+     "ex_zh": "应客户的强烈要求，会议改到了周一。",
+     "ex_ja": "顧客の強い要望で、会議は月曜に移された。",
+     "parts": [
+      [
+       "in-",
+       "在上",
+       "上に"
+      ],
+      [
+       "sist",
+       "站立",
+       "立つ"
+      ],
+      [
+       "-ence",
+       "名词后缀",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "in + sist 站在上面不让步 → 坚持。",
+      "ja": "in + sist 譲らず立つ → 主張。"
+     },
+     "forms": [
+      [
+       "at the insistence of",
+       "应……的坚持",
+       "〜の強い要求で"
+      ],
+      [
+       "insist on (v.)",
+       "坚持",
+       "〜を主張する"
+      ]
+     ]
+    },
+    {
+     "w": "consistency",
+     "pos": "n.",
+     "ipa": "/kənˈsɪstənsi/",
+     "zh": "一致性；稳定性",
+     "ja": "一貫性；安定性",
+     "ex": "Customers expect consistency in the quality of our products.",
+     "ex_zh": "客户期待我们产品的质量稳定一致。",
+     "ex_ja": "顧客は当社製品の品質の一貫性を期待している。",
+     "parts": [
+      [
+       "con-",
+       "共同",
+       "共に"
+      ],
+      [
+       "sist",
+       "站立",
+       "立つ"
+      ],
+      [
+       "-ency",
+       "名词后缀",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "con“一起”+ sist“站”→ 站在一起不变 → 一致性。",
+      "ja": "con「共に」+ sist「立つ」→ ぶれずに並ぶ → 一貫性。"
+     },
+     "forms": [
+      [
+       "consistency of quality",
+       "质量的一致性",
+       "品質の一貫性"
+      ],
+      [
+       "consistent (adj.)",
+       "一贯的",
+       "一貫した"
+      ]
+     ]
+    },
+    {
+     "w": "subsistence",
+     "pos": "n.",
+     "ipa": "/səbˈsɪstəns/",
+     "zh": "生存；维持生计",
+     "ja": "生存；最低限の生活",
+     "ex": "The grant covers travel and a subsistence allowance.",
+     "ex_zh": "补助金涵盖差旅和生活津贴。",
+     "ex_ja": "助成金は旅費と生活手当をカバーする。",
+     "parts": [
+      [
+       "sub-",
+       "在下",
+       "下で"
+      ],
+      [
+       "sist",
+       "站立",
+       "立つ"
+      ],
+      [
+       "-ence",
+       "名词后缀",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "sub“在下”+ sist“站”→ 在底线上站住 → 维持生存。",
+      "ja": "sub「下で」+ sist「立つ」→ ぎりぎりで持ちこたえる → 生存。"
+     },
+     "forms": [
+      [
+       "subsistence allowance",
+       "生活津贴",
+       "生活手当"
+      ],
+      [
+       "subsist (v.)",
+       "维持生活",
+       "生存する"
+      ]
+     ]
+    },
+    {
+     "w": "institutional",
+     "pos": "adj.",
+     "ipa": "/ˌɪnstɪˈtuːʃənl/",
+     "zh": "机构的；制度上的",
+     "ja": "機関の；制度上の",
+     "ex": "Institutional investors hold most of the company's shares.",
+     "ex_zh": "机构投资者持有该公司的大部分股份。",
+     "ex_ja": "機関投資家が同社の株式の大半を保有している。",
+     "parts": [
+      [
+       "in-",
+       "在内",
+       "中に"
+      ],
+      [
+       "stit",
+       "站；设立",
+       "立つ；設ける"
+      ],
+      [
+       "-ution",
+       "名词后缀",
+       "名詞語尾"
+      ],
+      [
+       "-al",
+       "形容词后缀",
+       "形容詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "in + stit “站立；设立”→ 设立起来的机构 → 机构的。",
+      "ja": "in + stit「立てる」→ 設立された機関 → 機関の。"
+     },
+     "forms": [
+      [
+       "institutional investor",
+       "机构投资者",
+       "機関投資家"
+      ],
+      [
+       "institution (n.)",
+       "机构",
+       "機関"
+      ]
+     ]
+    },
+    {
+     "w": "desist",
+     "pos": "v.",
+     "ipa": "/dɪˈzɪst/",
+     "zh": "停止；放弃",
+     "ja": "やめる；中止する",
+     "ex": "The firm was ordered to desist from misleading advertising.",
+     "ex_zh": "该公司被责令停止误导性广告。",
+     "ex_ja": "同社は誤解を招く広告をやめるよう命じられた。",
+     "parts": [
+      [
+       "de-",
+       "离开",
+       "離れて"
+      ],
+      [
+       "sist",
+       "站立",
+       "立つ"
+      ]
+     ],
+     "note": {
+      "zh": "de“离开”+ sist“站”→ 站开、退出 → 停止。",
+      "ja": "de「離れて」+ sist「立つ」→ 立ち去る → やめる。"
+     },
+     "forms": [
+      [
+       "desist from",
+       "停止做……",
+       "〜をやめる"
+      ],
+      [
+       "cease and desist",
+       "勒令停止",
+       "停止命令"
+      ]
+     ]
+    },
+    {
+     "w": "preexisting",
+     "pos": "adj.",
+     "ipa": "/ˌpriːɪgˈzɪstɪŋ/",
+     "zh": "先前就存在的",
+     "ja": "既存の；以前からの",
+     "ex": "The policy does not cover preexisting conditions.",
+     "ex_zh": "该保单不涵盖既往病症。",
+     "ex_ja": "その保険は既往症を補償しない。",
+     "parts": [
+      [
+       "pre-",
+       "预先",
+       "前から"
+      ],
+      [
+       "ex-",
+       "出",
+       "外に"
+      ],
+      [
+       "sist",
+       "站立",
+       "立つ"
+      ],
+      [
+       "-ing",
+       "形容词后缀",
+       "形容詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "pre + ex + sist “先前站出来”→ 先前就存在。",
+      "ja": "pre + ex + sist「前から立っている」→ 既存の。"
+     },
+     "forms": [
+      [
+       "preexisting condition",
+       "既往症",
+       "既往症"
+      ],
+      [
+       "exist (v.)",
+       "存在",
+       "存在する"
+      ]
+     ]
+    },
+    {
+     "w": "constituency",
+     "pos": "n.",
+     "ipa": "/kənˈstɪtʃuənsi/",
+     "zh": "选区；支持群体",
+     "ja": "選挙区；支持層",
+     "ex": "The mayor met business owners in her constituency.",
+     "ex_zh": "市长会见了其选区内的企业主。",
+     "ex_ja": "市長は選挙区の事業主たちと会った。",
+     "parts": [
+      [
+       "con-",
+       "共同",
+       "共に"
+      ],
+      [
+       "stit",
+       "站；设立",
+       "立つ"
+      ],
+      [
+       "-uency",
+       "名词后缀",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "con + stit 一起设立 → 组成的群体 → 选区、支持群体。",
+      "ja": "con + stit「共に立てる」→ 構成する集団 → 選挙区、支持層。"
+     },
+     "forms": [
+      [
+       "constituency office",
+       "选区办事处",
+       "選挙区事務所"
+      ],
+      [
+       "constituent (n.)",
+       "选民；成分",
+       "有権者；構成要素"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fer",
+   "title_zh": "词根 -fer-：携带；搬运",
+   "title_ja": "語根 -fer-：運ぶ",
+   "words": [
+    {
+     "w": "preferential",
+     "pos": "adj.",
+     "ipa": "/ˌprɛfəˈrɛnʃəl/",
+     "zh": "优先的；优惠的",
+     "ja": "優先的な；優遇の",
+     "ex": "Members receive preferential rates on all conference rooms.",
+     "ex_zh": "会员享受所有会议室的优惠价。",
+     "ex_ja": "会員は全会議室を優待料金で利用できる。",
+     "parts": [
+      [
+       "pre-",
+       "在前",
+       "前に"
+      ],
+      [
+       "fer",
+       "携带；搬运",
+       "運ぶ"
+      ],
+      [
+       "-ential",
+       "形容词后缀",
+       "形容詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "pre“前”+ fer“带”→ 带到前面 → 优先的。",
+      "ja": "pre「前」+ fer「運ぶ」→ 前へ出す → 優先的な。"
+     },
+     "forms": [
+      [
+       "preferential treatment",
+       "优待",
+       "優遇措置"
+      ],
+      [
+       "prefer (v.)",
+       "更喜欢",
+       "好む"
+      ]
+     ]
+    },
+    {
+     "w": "transferable",
+     "pos": "adj.",
+     "ipa": "/trænsˈfɝːəbl/",
+     "zh": "可转让的；可迁移的",
+     "ja": "譲渡できる；転用できる",
+     "ex": "This ticket is not transferable to another person.",
+     "ex_zh": "这张票不可转让给他人。",
+     "ex_ja": "このチケットは他人に譲渡できない。",
+     "parts": [
+      [
+       "trans-",
+       "跨越",
+       "越えて"
+      ],
+      [
+       "fer",
+       "携带；搬运",
+       "運ぶ"
+      ],
+      [
+       "-able",
+       "可……的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "trans“跨越”+ fer“搬”+ able → 可搬到别处的。",
+      "ja": "trans「越えて」+ fer「運ぶ」+ able → 移せる。"
+     },
+     "forms": [
+      [
+       "transferable skills",
+       "可迁移的技能",
+       "転用できるスキル"
+      ],
+      [
+       "transfer (v.)",
+       "转移",
+       "移す"
+      ]
+     ]
+    },
+    {
+     "w": "conferment",
+     "pos": "n.",
+     "ipa": "/kənˈfɝːmənt/",
+     "zh": "授予",
+     "ja": "授与",
+     "ex": "The conferment of the award took place on Friday.",
+     "ex_zh": "奖项的授予仪式在周五举行。",
+     "ex_ja": "賞の授与は金曜日に行われた。",
+     "parts": [
+      [
+       "con-",
+       "一起",
+       "共に"
+      ],
+      [
+       "fer",
+       "携带；搬运",
+       "運ぶ"
+      ],
+      [
+       "-ment",
+       "名词后缀",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "con + fer 一起“带来”→ 授予。",
+      "ja": "con + fer 持ち寄って与える → 授与。"
+     },
+     "forms": [
+      [
+       "conferment of a degree",
+       "授予学位",
+       "学位の授与"
+      ],
+      [
+       "confer (v.)",
+       "授予；商议",
+       "授ける"
+      ]
+     ]
+    },
+    {
+     "w": "circumference",
+     "pos": "n.",
+     "ipa": "/sərˈkʌmfərəns/",
+     "zh": "周长；圆周",
+     "ja": "円周；周囲の長さ",
+     "ex": "The circumference of the storage tank is about 30 meters.",
+     "ex_zh": "储罐的周长约30米。",
+     "ex_ja": "貯蔵タンクの円周は約30メートルだ。",
+     "parts": [
+      [
+       "circum-",
+       "围绕",
+       "周りに"
+      ],
+      [
+       "fer",
+       "携带；搬运",
+       "運ぶ"
+      ],
+      [
+       "-ence",
+       "名词后缀",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "circum“围绕”+ fer“带”→ 绕一圈带过去 → 周长。",
+      "ja": "circum「周り」+ fer「運ぶ」→ ぐるりと運ぶ → 円周。"
+     },
+     "forms": [
+      [
+       "measure the circumference",
+       "测量周长",
+       "円周を測る"
+      ],
+      [
+       "circumferential (adj.)",
+       "圆周的",
+       "円周の"
+      ]
+     ]
+    },
+    {
+     "w": "proffer",
+     "pos": "v.",
+     "ipa": "/ˈprɑːfər/",
+     "zh": "提出；奉上",
+     "ja": "差し出す；申し出る",
+     "ex": "The supplier proffered a discount to keep the contract.",
+     "ex_zh": "供应商提出折扣以保住合同。",
+     "ex_ja": "供給元は契約を維持するために値引きを申し出た。",
+     "parts": [
+      [
+       "pro-",
+       "向前",
+       "前へ"
+      ],
+      [
+       "-ffer",
+       "带",
+       "運ぶ"
+      ]
+     ],
+     "note": {
+      "zh": "pro“向前”+ offer 同源（fer“带”）→ 向前递上 → 提出。",
+      "ja": "pro「前へ」+ offer と同源（fer「運ぶ」）→ 差し出す。"
+     },
+     "forms": [
+      [
+       "proffer advice",
+       "提出建议",
+       "助言を差し出す"
+      ],
+      [
+       "proffered (adj.)",
+       "提出的",
+       "差し出された"
+      ]
+     ]
+    },
+    {
+     "w": "vociferous",
+     "pos": "adj.",
+     "ipa": "/voʊˈsɪfərəs/",
+     "zh": "大声疾呼的；强烈的",
+     "ja": "声高な；騒々しい",
+     "ex": "Shareholders were vociferous in their opposition to the merger.",
+     "ex_zh": "股东们强烈反对这次合并。",
+     "ex_ja": "株主たちは合併に声高に反対した。",
+     "parts": [
+      [
+       "voc",
+       "声音",
+       "声"
+      ],
+      [
+       "fer",
+       "携带；搬运",
+       "運ぶ"
+      ],
+      [
+       "-ous",
+       "形容词后缀",
+       "形容詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "voc“声”+ fer“带”→ 带着声音 → 大声的。",
+      "ja": "voc「声」+ fer「運ぶ」→ 声を張り上げる → 声高な。"
+     },
+     "forms": [
+      [
+       "vociferous critic",
+       "激烈批评者",
+       "声高な批判者"
+      ],
+      [
+       "vociferously (adv.)",
+       "大声地",
+       "声高に"
+      ]
+     ]
+    },
+    {
+     "w": "fertilize",
+     "pos": "v.",
+     "ipa": "/ˈfɝːtəlaɪz/",
+     "zh": "施肥；使受精",
+     "ja": "肥料を与える；受精させる",
+     "ex": "Farmers fertilize the fields twice before the rainy season.",
+     "ex_zh": "农民在雨季前给田地施两次肥。",
+     "ex_ja": "農家は梅雨の前に畑に2回肥料をやる。",
+     "parts": [
+      [
+       "fer",
+       "携带；搬运",
+       "運ぶ"
+      ],
+      [
+       "-ize",
+       "使……",
+       "〜にする"
+      ]
+     ],
+     "note": {
+      "zh": "fer“结果”+ ize → 使土地能结果 → 施肥。",
+      "ja": "fer「実を結ぶ」+ ize → 実らせる → 肥料を与える。"
+     },
+     "forms": [
+      [
+       "fertilizer (n.)",
+       "肥料",
+       "肥料"
+      ],
+      [
+       "fertilization (n.)",
+       "施肥；受精",
+       "施肥；受精"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "dict",
+   "title_zh": "词根 -dict-：说",
+   "title_ja": "語根 -dict-：言う",
+   "words": [
+    {
+     "w": "indictment",
+     "pos": "n.",
+     "ipa": "/ɪnˈdaɪtmənt/",
+     "zh": "起诉；控告",
+     "ja": "起訴；告発",
+     "ex": "The indictment accuses the executive of tax fraud.",
+     "ex_zh": "起诉书指控该高管逃税。",
+     "ex_ja": "起訴状はその幹部を脱税で告発している。",
+     "parts": [
+      [
+       "in-",
+       "向内",
+       "中へ"
+      ],
+      [
+       "dict",
+       "说",
+       "言う"
+      ],
+      [
+       "-ment",
+       "名词后缀",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "来自 dict“说”，古形读 /daɪt/；注意发音不是 /dɪkt/。",
+      "ja": "dict「言う」由来。発音は /daɪt/ で、/dɪkt/ ではない。"
+     },
+     "forms": [
+      [
+       "grand jury indictment",
+       "大陪审团起诉",
+       "大陪審の起訴"
+      ],
+      [
+       "indict (v.)",
+       "起诉",
+       "起訴する"
+      ]
+     ]
+    },
+    {
+     "w": "diction",
+     "pos": "n.",
+     "ipa": "/ˈdɪkʃən/",
+     "zh": "措辞；发音",
+     "ja": "言葉遣い；発声",
+     "ex": "Clear diction is essential for a good presenter.",
+     "ex_zh": "清晰的吐字对优秀的演讲者至关重要。",
+     "ex_ja": "明瞭な発声は優れたプレゼンターに不可欠だ。",
+     "parts": [
+      [
+       "dict",
+       "说",
+       "言う"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "dict“说”→ 说话的方式 → 措辞、吐字。",
+      "ja": "dict「言う」→ 話し方 → 言葉遣い、発声。"
+     },
+     "forms": [
+      [
+       "clear diction",
+       "清晰的吐字",
+       "明瞭な発声"
+      ],
+      [
+       "dictionary (n.)",
+       "词典",
+       "辞書"
+      ]
+     ]
+    },
+    {
+     "w": "edict",
+     "pos": "n.",
+     "ipa": "/ˈiːdɪkt/",
+     "zh": "法令；布告",
+     "ja": "布告；勅令",
+     "ex": "The government issued an edict banning single-use plastics.",
+     "ex_zh": "政府颁布了禁止一次性塑料的法令。",
+     "ex_ja": "政府は使い捨てプラスチックを禁じる布告を出した。",
+     "parts": [
+      [
+       "e-",
+       "向外",
+       "外へ"
+      ],
+      [
+       "dict",
+       "说",
+       "言う"
+      ]
+     ],
+     "note": {
+      "zh": "e“向外”+ dict“说”→ 对外宣布 → 法令。",
+      "ja": "e「外へ」+ dict「言う」→ 公に言い渡す → 布告。"
+     },
+     "forms": [
+      [
+       "issue an edict",
+       "颁布法令",
+       "布告を出す"
+      ],
+      [
+       "royal edict",
+       "王室敕令",
+       "王令"
+      ]
+     ]
+    },
+    {
+     "w": "abdicate",
+     "pos": "v.",
+     "ipa": "/ˈæbdɪkeɪt/",
+     "zh": "放弃（职责）；退位",
+     "ja": "放棄する；退位する",
+     "ex": "The manager cannot abdicate responsibility for the team's errors.",
+     "ex_zh": "经理不能推卸对团队错误的责任。",
+     "ex_ja": "マネージャーはチームのミスに対する責任を放棄できない。",
+     "parts": [
+      [
+       "ab-",
+       "离开",
+       "離れて"
+      ],
+      [
+       "dict",
+       "说",
+       "言う"
+      ],
+      [
+       "-ate",
+       "动词后缀",
+       "動詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "ab“离开”+ dic“说”→ 宣布离开 → 放弃、退位。",
+      "ja": "ab「離れて」+ dic「言う」→ 離れると宣言する → 放棄、退位。"
+     },
+     "forms": [
+      [
+       "abdicate responsibility",
+       "推卸责任",
+       "責任を放棄する"
+      ],
+      [
+       "abdication (n.)",
+       "退位；放弃",
+       "退位"
+      ]
+     ]
+    },
+    {
+     "w": "indicative",
+     "pos": "adj.",
+     "ipa": "/ɪnˈdɪkətɪv/",
+     "zh": "表明的；象征的",
+     "ja": "示している；表す",
+     "ex": "The drop in sales is indicative of a wider problem.",
+     "ex_zh": "销量下滑说明存在更广泛的问题。",
+     "ex_ja": "売上の減少はより広い問題を示している。",
+     "parts": [
+      [
+       "in-",
+       "向",
+       "〜へ"
+      ],
+      [
+       "dic",
+       "说；指",
+       "言う；指す"
+      ],
+      [
+       "-ative",
+       "形容词后缀",
+       "形容詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "in + dic“指出”→ 指向、表明。",
+      "ja": "in + dic「指す」→ 指し示す → 示している。"
+     },
+     "forms": [
+      [
+       "indicative of",
+       "表明……",
+       "〜を示す"
+      ],
+      [
+       "indicator (n.)",
+       "指标",
+       "指標"
+      ]
+     ]
+    },
+    {
+     "w": "addiction",
+     "pos": "n.",
+     "ipa": "/əˈdɪkʃən/",
+     "zh": "成瘾；沉迷",
+     "ja": "中毒；依存",
+     "ex": "The campaign raises awareness about screen addiction.",
+     "ex_zh": "这项活动提高人们对屏幕成瘾的认识。",
+     "ex_ja": "そのキャンペーンは画面依存への意識を高める。",
+     "parts": [
+      [
+       "ad-",
+       "向",
+       "〜へ"
+      ],
+      [
+       "dict",
+       "说",
+       "言う"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "ad“向”+ dict“说”→ 古义“判给某人” → 被绑定 → 成瘾。",
+      "ja": "ad「〜へ」+ dict「言う」→ 古義「割り当てる」→ 縛られる → 依存。"
+     },
+     "forms": [
+      [
+       "drug addiction",
+       "毒瘾",
+       "薬物依存"
+      ],
+      [
+       "addictive (adj.)",
+       "使人上瘾的",
+       "中毒性のある"
+      ]
+     ]
+    },
+    {
+     "w": "benediction",
+     "pos": "n.",
+     "ipa": "/ˌbɛnəˈdɪkʃən/",
+     "zh": "祝福；祝祷",
+     "ja": "祝福",
+     "ex": "The ceremony ended with a short benediction.",
+     "ex_zh": "仪式以一段简短的祝福结束。",
+     "ex_ja": "式典は短い祝福の言葉で終わった。",
+     "parts": [
+      [
+       "bene-",
+       "好",
+       "良く"
+      ],
+      [
+       "dict",
+       "说",
+       "言う"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "bene“好”+ dict“说”→ 说好话 → 祝福。",
+      "ja": "bene「良い」+ dict「言う」→ 良い言葉 → 祝福。"
+     },
+     "forms": [
+      [
+       "give a benediction",
+       "致祝福",
+       "祝福を述べる"
+      ],
+      [
+       "benefit (n.)",
+       "好处",
+       "利益"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "hr",
+   "title_zh": "主题：招聘与人事制度",
+   "title_ja": "テーマ：採用・人事制度",
+   "words": [
+    {
+     "w": "headhunter",
+     "pos": "n.",
+     "ipa": "/ˈhɛdhʌntər/",
+     "zh": "猎头",
+     "ja": "ヘッドハンター",
+     "ex": "A headhunter contacted her about a position in Osaka.",
+     "ex_zh": "一位猎头就大阪的一个职位联系了她。",
+     "ex_ja": "ヘッドハンターが大阪のポストについて彼女に連絡した。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "hire a headhunter",
+       "聘请猎头",
+       "ヘッドハンターを雇う"
+      ],
+      [
+       "executive search",
+       "高管猎聘",
+       "エグゼクティブサーチ"
+      ]
+     ]
+    },
+    {
+     "w": "secondment",
+     "pos": "n.",
+     "ipa": "/sɪˈkɑːndmənt/",
+     "zh": "借调；外派",
+     "ja": "出向；派遣",
+     "ex": "She is on secondment to the Singapore office for six months.",
+     "ex_zh": "她被借调到新加坡办公室六个月。",
+     "ex_ja": "彼女は6か月間シンガポール支社に出向している。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "on secondment",
+       "借调中",
+       "出向中"
+      ],
+      [
+       "second (v.)",
+       "借调",
+       "出向させる"
+      ]
+     ]
+    },
+    {
+     "w": "mentorship",
+     "pos": "n.",
+     "ipa": "/ˈmɛntɔːrʃɪp/",
+     "zh": "导师指导",
+     "ja": "メンター制度；指導",
+     "ex": "The mentorship program pairs new hires with senior staff.",
+     "ex_zh": "导师计划让新员工与资深员工结对。",
+     "ex_ja": "メンター制度は新入社員とベテランを組ませる。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "mentorship program",
+       "导师计划",
+       "メンター制度"
+      ],
+      [
+       "mentor (n.)",
+       "导师",
+       "指導者"
+      ]
+     ]
+    },
+    {
+     "w": "timesheet",
+     "pos": "n.",
+     "ipa": "/ˈtaɪmʃiːt/",
+     "zh": "考勤表；工时表",
+     "ja": "勤務時間表",
+     "ex": "Please submit your timesheet by Friday noon.",
+     "ex_zh": "请在周五中午前提交工时表。",
+     "ex_ja": "金曜の正午までにタイムシートを提出してください。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "submit a timesheet",
+       "提交工时表",
+       "タイムシートを提出する"
+      ],
+      [
+       "approve timesheets",
+       "审批工时表",
+       "勤務表を承認する"
+      ]
+     ]
+    },
+    {
+     "w": "payslip",
+     "pos": "n.",
+     "ipa": "/ˈpeɪslɪp/",
+     "zh": "工资单",
+     "ja": "給与明細",
+     "ex": "Your payslip will be sent by email on the 25th.",
+     "ex_zh": "工资单将于25日通过邮件发送。",
+     "ex_ja": "給与明細は25日にメールで送られる。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "monthly payslip",
+       "月度工资单",
+       "月次給与明細"
+      ],
+      [
+       "payroll (n.)",
+       "工资表",
+       "給与計算"
+      ]
+     ]
+    },
+    {
+     "w": "entitlement",
+     "pos": "n.",
+     "ipa": "/ɪnˈtaɪtlmənt/",
+     "zh": "享有权；应得权益",
+     "ja": "受給資格；権利",
+     "ex": "Staff should check their annual leave entitlement in the handbook.",
+     "ex_zh": "员工应在手册中查看自己的年假额度。",
+     "ex_ja": "社員は就業規則で年次休暇の権利を確認すべきだ。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "leave entitlement",
+       "休假额度",
+       "休暇の権利"
+      ],
+      [
+       "entitled to (adj.)",
+       "有权享有",
+       "〜の資格がある"
+      ]
+     ]
+    },
+    {
+     "w": "absenteeism",
+     "pos": "n.",
+     "ipa": "/ˌæbsənˈtiːɪzəm/",
+     "zh": "旷工；缺勤率",
+     "ja": "常習的欠勤",
+     "ex": "The new schedule helped reduce absenteeism in the factory.",
+     "ex_zh": "新排班帮助降低了工厂的缺勤率。",
+     "ex_ja": "新しいシフトは工場の欠勤率の低下に役立った。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "reduce absenteeism",
+       "降低缺勤率",
+       "欠勤を減らす"
+      ],
+      [
+       "absentee (n.)",
+       "缺席者",
+       "欠席者"
+      ]
+     ]
+    },
+    {
+     "w": "morale",
+     "pos": "n.",
+     "ipa": "/məˈræl/",
+     "zh": "士气",
+     "ja": "士気",
+     "ex": "Free lunches on Fridays helped boost staff morale.",
+     "ex_zh": "周五的免费午餐有助于提升员工士气。",
+     "ex_ja": "金曜の無料ランチは社員の士気を高めた。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "boost morale",
+       "提升士气",
+       "士気を高める"
+      ],
+      [
+       "low morale",
+       "士气低落",
+       "士気の低下"
+      ]
+     ]
+    },
+    {
+     "w": "telework",
+     "pos": "n.",
+     "ipa": "/ˈtɛlɪwɝːk/",
+     "zh": "远程办公",
+     "ja": "テレワーク",
+     "ex": "The company allows telework up to three days a week.",
+     "ex_zh": "公司允许每周最多三天远程办公。",
+     "ex_ja": "会社は週3日までのテレワークを認めている。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "telework policy",
+       "远程办公制度",
+       "テレワーク制度"
+      ],
+      [
+       "teleworker (n.)",
+       "远程办公者",
+       "テレワーカー"
+      ]
+     ]
+    },
+    {
+     "w": "interviewee",
+     "pos": "n.",
+     "ipa": "/ˌɪntərvjuˈiː/",
+     "zh": "面试者；受访者",
+     "ja": "面接を受ける人",
+     "ex": "Each interviewee will meet three managers in one morning.",
+     "ex_zh": "每位面试者将在一个上午见三位经理。",
+     "ex_ja": "面接を受ける人は午前中に3人の部長と会う。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "interviewer (n.)",
+       "面试官",
+       "面接官"
+      ],
+      [
+       "job interviewee",
+       "求职面试者",
+       "求職の面接者"
+      ]
+     ]
+    },
+    {
+     "w": "teamwork",
+     "pos": "n.",
+     "ipa": "/ˈtiːmwɝːk/",
+     "zh": "团队合作",
+     "ja": "チームワーク",
+     "ex": "The project succeeded thanks to excellent teamwork.",
+     "ex_zh": "多亏了出色的团队合作，项目取得成功。",
+     "ex_ja": "優れたチームワークのおかげでプロジェクトは成功した。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "promote teamwork",
+       "促进团队合作",
+       "チームワークを促進する"
+      ],
+      [
+       "teamwork skills",
+       "团队合作能力",
+       "チームワーク力"
+      ]
+     ]
+    },
+    {
+     "w": "hiring",
+     "pos": "n.",
+     "ipa": "/ˈhaɪrɪŋ/",
+     "zh": "录用；招聘",
+     "ja": "採用",
+     "ex": "A hiring freeze has been in place since April.",
+     "ex_zh": "自四月起一直实行招聘冻结。",
+     "ex_ja": "4月から採用凍結が続いている。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "hiring freeze",
+       "停止招聘",
+       "採用凍結"
+      ],
+      [
+       "hiring manager",
+       "招聘经理",
+       "採用担当マネージャー"
+      ]
+     ]
+    },
+    {
+     "w": "recruitment",
+     "pos": "n.",
+     "ipa": "/rɪˈkruːtmənt/",
+     "zh": "招聘；招募",
+     "ja": "採用活動；募集",
+     "ex": "Recruitment for the summer internship opens next week.",
+     "ex_zh": "暑期实习的招聘下周开始。",
+     "ex_ja": "夏のインターンの募集は来週始まる。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "recruitment agency",
+       "招聘机构",
+       "人材紹介会社"
+      ],
+      [
+       "recruit (v.)",
+       "招聘",
+       "採用する"
+      ]
+     ]
+    },
+    {
+     "w": "ergonomic",
+     "pos": "adj.",
+     "ipa": "/ˌɝːgəˈnɑːmɪk/",
+     "zh": "符合人体工学的",
+     "ja": "人間工学に基づく",
+     "ex": "The office bought ergonomic chairs for all employees.",
+     "ex_zh": "办公室为所有员工购买了人体工学椅。",
+     "ex_ja": "オフィスは全社員に人間工学に基づく椅子を買った。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "ergonomic design",
+       "人体工学设计",
+       "人間工学デザイン"
+      ],
+      [
+       "ergonomics (n.)",
+       "人体工学",
+       "人間工学"
+      ]
+     ]
+    },
+    {
+     "w": "workload",
+     "pos": "n.",
+     "ipa": "/ˈwɝːkloʊd/",
+     "zh": "工作量",
+     "ja": "仕事量",
+     "ex": "Hiring two temps will ease the team's heavy workload.",
+     "ex_zh": "雇两名临时工将减轻团队繁重的工作量。",
+     "ex_ja": "派遣社員を2人雇えばチームの重い業務量が和らぐ。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "heavy workload",
+       "繁重的工作量",
+       "重い業務量"
+      ],
+      [
+       "workload balance",
+       "工作量平衡",
+       "業務量のバランス"
+      ]
+     ]
+    },
+    {
+     "w": "relocate",
+     "pos": "v.",
+     "ipa": "/ˌriːˈloʊkeɪt/",
+     "zh": "搬迁；调动",
+     "ja": "移転する；転勤させる",
+     "ex": "The firm will relocate its headquarters to Nagoya next spring.",
+     "ex_zh": "公司明年春天将把总部搬到名古屋。",
+     "ex_ja": "同社は来春、本社を名古屋に移転する。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "relocation (n.)",
+       "搬迁",
+       "移転"
+      ],
+      [
+       "relocation allowance",
+       "搬家补贴",
+       "転勤手当"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fin",
+   "title_zh": "主题：财务报表与投资",
+   "title_ja": "テーマ：財務報告・投資",
+   "words": [
+    {
+     "w": "reimbursement",
+     "pos": "n.",
+     "ipa": "/ˌriːɪmˈbɝːsmənt/",
+     "zh": "报销；补偿",
+     "ja": "払い戻し；立替金の精算",
+     "ex": "Please attach receipts to request reimbursement for travel costs.",
+     "ex_zh": "申请报销差旅费时请附上收据。",
+     "ex_ja": "出張費の精算を申請するには領収書を添付してください。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "request reimbursement",
+       "申请报销",
+       "精算を申請する"
+      ],
+      [
+       "reimburse (v.)",
+       "报销",
+       "払い戻す"
+      ]
+     ]
+    },
+    {
+     "w": "brokerage",
+     "pos": "n.",
+     "ipa": "/ˈbroʊkərɪdʒ/",
+     "zh": "经纪业务；佣金",
+     "ja": "仲介業；仲介手数料",
+     "ex": "The brokerage charges a small fee on every trade.",
+     "ex_zh": "这家经纪公司对每笔交易收取少量费用。",
+     "ex_ja": "その証券会社は取引ごとに少額の手数料を取る。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "brokerage fee",
+       "经纪佣金",
+       "仲介手数料"
+      ],
+      [
+       "brokerage firm",
+       "经纪公司",
+       "証券会社"
+      ]
+     ]
+    },
+    {
+     "w": "debenture",
+     "pos": "n.",
+     "ipa": "/dɪˈbɛntʃər/",
+     "zh": "公司债券；债权证",
+     "ja": "社債",
+     "ex": "The utility raised funds by issuing a ten-year debenture.",
+     "ex_zh": "这家公用事业公司通过发行十年期债券筹资。",
+     "ex_ja": "その公益企業は10年物の社債を発行して資金を調達した。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "issue debentures",
+       "发行债券",
+       "社債を発行する"
+      ],
+      [
+       "debenture holder",
+       "债券持有人",
+       "社債保有者"
+      ]
+     ]
+    },
+    {
+     "w": "debit",
+     "pos": "n.",
+     "ipa": "/ˈdɛbɪt/",
+     "zh": "借方；扣款",
+     "ja": "借方；引き落とし",
+     "ex": "The monthly fee is taken by direct debit from your account.",
+     "ex_zh": "月费通过直接扣款从您的账户中扣除。",
+     "ex_ja": "月額料金は口座から自動引き落としされる。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "direct debit",
+       "直接扣款",
+       "口座引き落とし"
+      ],
+      [
+       "debit card",
+       "借记卡",
+       "デビットカード"
+      ]
+     ]
+    },
+    {
+     "w": "derivative",
+     "pos": "n.",
+     "ipa": "/dɪˈrɪvətɪv/",
+     "zh": "衍生品",
+     "ja": "デリバティブ；派生物",
+     "ex": "Banks use derivatives to manage interest rate risk.",
+     "ex_zh": "银行使用衍生品管理利率风险。",
+     "ex_ja": "銀行はデリバティブで金利リスクを管理する。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "derivative product",
+       "衍生产品",
+       "派生商品"
+      ],
+      [
+       "derive from (v.)",
+       "源自",
+       "〜に由来する"
+      ]
+     ]
+    },
+    {
+     "w": "inflation",
+     "pos": "n.",
+     "ipa": "/ɪnˈfleɪʃən/",
+     "zh": "通货膨胀",
+     "ja": "インフレ",
+     "ex": "Rising inflation has pushed up the cost of raw materials.",
+     "ex_zh": "通胀上升推高了原材料成本。",
+     "ex_ja": "インフレの進行で原材料費が上がった。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "inflation rate",
+       "通胀率",
+       "インフレ率"
+      ],
+      [
+       "inflate (v.)",
+       "使膨胀",
+       "膨らませる"
+      ]
+     ]
+    },
+    {
+     "w": "lender",
+     "pos": "n.",
+     "ipa": "/ˈlɛndər/",
+     "zh": "贷款方；出借人",
+     "ja": "貸し手",
+     "ex": "The lender approved the loan within a week.",
+     "ex_zh": "贷款方在一周内批准了这笔贷款。",
+     "ex_ja": "貸し手は1週間以内に融資を承認した。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "mortgage lender",
+       "房贷机构",
+       "住宅ローン会社"
+      ],
+      [
+       "lend (v.)",
+       "借出",
+       "貸す"
+      ]
+     ]
+    },
+    {
+     "w": "securities",
+     "pos": "n.",
+     "ipa": "/sɪˈkjʊrətiz/",
+     "zh": "证券",
+     "ja": "有価証券",
+     "ex": "The company deals in government securities and corporate bonds.",
+     "ex_zh": "该公司经营政府证券和公司债券。",
+     "ex_ja": "同社は国債と社債などの有価証券を扱っている。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "securities firm",
+       "证券公司",
+       "証券会社"
+      ],
+      [
+       "securities market",
+       "证券市场",
+       "証券市場"
+      ]
+     ]
+    },
+    {
+     "w": "warrant",
+     "pos": "n.",
+     "ipa": "/ˈwɔːrənt/",
+     "zh": "认股权证；凭证；授权",
+     "ja": "新株予約権；令状；正当な理由",
+     "ex": "Investors received warrants to buy additional shares later.",
+     "ex_zh": "投资者获得了日后购买额外股份的认股权证。",
+     "ex_ja": "投資家は後日追加株式を買える権利を受け取った。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "search warrant",
+       "搜查令",
+       "捜索令状"
+      ],
+      [
+       "warrant (v.)",
+       "值得；证明有理",
+       "正当化する"
+      ]
+     ]
+    },
+    {
+     "w": "writeoff",
+     "pos": "n.",
+     "ipa": "/ˈraɪtɔːf/",
+     "zh": "注销；坏账核销",
+     "ja": "償却；貸倒損失",
+     "ex": "The bank announced a large writeoff of bad loans.",
+     "ex_zh": "银行宣布大规模核销坏账。",
+     "ex_ja": "銀行は不良債権の大規模な償却を発表した。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "tax writeoff",
+       "税前扣除",
+       "税務上の損金処理"
+      ],
+      [
+       "write off (v.)",
+       "注销",
+       "償却する"
+      ]
+     ],
+     "hl": "writeoff"
+    },
+    {
+     "w": "bullion",
+     "pos": "n.",
+     "ipa": "/ˈbʊljən/",
+     "zh": "金银块；金条",
+     "ja": "金塊；地金",
+     "ex": "The central bank holds gold bullion in its vaults.",
+     "ex_zh": "中央银行在金库里保存金条。",
+     "ex_ja": "中央銀行は金庫に金の地金を保管している。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "gold bullion",
+       "金条",
+       "金地金"
+      ],
+      [
+       "bullion market",
+       "金银市场",
+       "地金市場"
+      ]
+     ]
+    },
+    {
+     "w": "turnover",
+     "pos": "n.",
+     "ipa": "/ˈtɝːnoʊvər/",
+     "zh": "营业额；人员流动率",
+     "ja": "売上高；離職率",
+     "ex": "Annual turnover rose to 5 billion yen this year.",
+     "ex_zh": "今年年营业额增至50亿日元。",
+     "ex_ja": "今年の年間売上高は50億円に増えた。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "staff turnover",
+       "员工流动率",
+       "離職率"
+      ],
+      [
+       "turn over (v.)",
+       "翻转；周转",
+       "回転させる"
+      ]
+     ]
+    },
+    {
+     "w": "arbitrage",
+     "pos": "n.",
+     "ipa": "/ˈɑːrbɪtrɑːʒ/",
+     "zh": "套利",
+     "ja": "裁定取引",
+     "ex": "Traders profit from arbitrage between two currency markets.",
+     "ex_zh": "交易员通过两个外汇市场之间的套利获利。",
+     "ex_ja": "トレーダーは2つの為替市場間の裁定取引で利益を得る。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "arbitrage opportunity",
+       "套利机会",
+       "裁定取引の機会"
+      ],
+      [
+       "arbitrageur (n.)",
+       "套利者",
+       "裁定取引業者"
+      ]
+     ]
+    },
+    {
+     "w": "bondholder",
+     "pos": "n.",
+     "ipa": "/ˈbɑːndhoʊldər/",
+     "zh": "债券持有人",
+     "ja": "債券保有者",
+     "ex": "Bondholders will receive interest payments twice a year.",
+     "ex_zh": "债券持有人每年将收到两次利息。",
+     "ex_ja": "債券保有者は年2回利払いを受け取る。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "bondholder meeting",
+       "债权人会议",
+       "債券保有者集会"
+      ],
+      [
+       "shareholder (n.)",
+       "股东",
+       "株主"
+      ]
+     ]
+    },
+    {
+     "w": "stockbroker",
+     "pos": "n.",
+     "ipa": "/ˈstɑːkbroʊkər/",
+     "zh": "股票经纪人",
+     "ja": "株式仲買人",
+     "ex": "Her stockbroker advised selling the shares before the report.",
+     "ex_zh": "她的股票经纪人建议在报告发布前抛售股票。",
+     "ex_ja": "彼女の株式仲買人は、報告書の前に株を売るよう助言した。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "use a stockbroker",
+       "聘用股票经纪人",
+       "仲買人を使う"
+      ],
+      [
+       "broker (n.)",
+       "经纪人",
+       "仲介人"
+      ]
+     ]
+    },
+    {
+     "w": "underpayment",
+     "pos": "n.",
+     "ipa": "/ˌʌndərˈpeɪmənt/",
+     "zh": "少付；欠款",
+     "ja": "支払い不足",
+     "ex": "An underpayment of taxes can result in a penalty.",
+     "ex_zh": "少缴税款可能会导致罚款。",
+     "ex_ja": "税金の支払い不足は罰金につながることがある。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "underpayment of tax",
+       "少缴税",
+       "税の過少納付"
+      ],
+      [
+       "overpayment (n.)",
+       "多付",
+       "過払い"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}
