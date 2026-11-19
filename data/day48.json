@@ -1,0 +1,2308 @@
+{
+ "day": 48,
+ "date": "2026-11-20",
+ "title_zh": "四大词根 + IT 系统与数据 + 法律合同与协议",
+ "title_ja": "4つの語根＋ITシステム・データ＋法務・契約",
+ "intro_zh": "今天的词根是 -port-（携带）、-duc-/-duct-（引导）、-ject-（投掷）、-vis-/-vid-（看）；主题是 IT 系统与数据，以及法律合同与协议。",
+ "intro_ja": "今日の語根は -port-（運ぶ）、-duc-・-duct-（導く）、-ject-（投げる）、-vis-・-vid-（見る）。テーマは ITシステム・データ、そして法務・契約。",
+ "voice": "en-US-AriaNeural",
+ "roots": [
+  {
+   "root": "-port-",
+   "origin": "Latin portare",
+   "zh": "携带；搬运",
+   "ja": "運ぶ",
+   "exp_zh": "来自拉丁语 portare（搬运）。把消息带回 → reporter；运进来 → importer；运出去 → exportable。⚠️ portal（门户）来自 porta“门”，与 port“搬运”不同源。",
+   "exp_ja": "ラテン語 portare（運ぶ）から。情報を持ち帰る → reporter；運び込む → importer；運び出す → exportable。⚠️ portal（入口）は porta「門」由来で別系統。",
+   "examples": [
+    "reporter",
+    "importer",
+    "exportable",
+    "deport",
+    "purport"
+   ]
+  },
+  {
+   "root": "-duc- / -duct-",
+   "origin": "Latin ducere, ductus",
+   "zh": "引导；带领",
+   "ja": "導く",
+   "exp_zh": "来自拉丁语 ducere（引导）。引进来 → introduction；引回去 → reduction；引出潜力 → educator。⚠️ duck（鸭子）与此无关。",
+   "exp_ja": "ラテン語 ducere（導く）から。導き入れる → introduction；引き戻す → reduction；能力を引き出す → educator。⚠️ duck（アヒル）は無関係。",
+   "examples": [
+    "inducement",
+    "educator",
+    "reduction",
+    "introduction",
+    "conduit"
+   ]
+  },
+  {
+   "root": "-ject-",
+   "origin": "Latin jacere, jectus",
+   "zh": "投掷；抛",
+   "ja": "投げる",
+   "exp_zh": "来自拉丁语 jacere（投）。向外扔 → ejection；在中间扔进 → interject；向下扔 → dejection。⚠️ jet（喷射）与 jettison 同源，但 jacket 无关。",
+   "exp_ja": "ラテン語 jacere（投げる）から。外へ投げる → ejection；間に投げ込む → interject；下へ投げる → dejection。⚠️ jacket（上着）は無関係。",
+   "examples": [
+    "ejection",
+    "interject",
+    "projectile",
+    "abject",
+    "jettison"
+   ]
+  },
+  {
+   "root": "-vis- / -vid-",
+   "origin": "Latin videre, visus",
+   "zh": "看",
+   "ja": "見る",
+   "exp_zh": "来自拉丁语 videre（看）。向前看 → provision；再看一遍 → revision；有远见 → visionary。⚠️ divide（分开）、visit 与此不同源。",
+   "exp_ja": "ラテン語 videre（見る）から。先を見る → provision；もう一度見る → revision；先見性 → visionary。⚠️ divide（分ける）とは別系統。",
+   "examples": [
+    "envision",
+    "provision",
+    "visibility",
+    "visionary",
+    "revision"
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "port",
+   "title_zh": "词根 -port-：携带；搬运",
+   "title_ja": "語根 -port-：運ぶ",
+   "words": [
+    {
+     "w": "reporter",
+     "pos": "n.",
+     "ipa": "/rɪˈpɔrtər/",
+     "zh": "记者；报告人",
+     "ja": "記者；報告者",
+     "ex": "A reporter from the business daily asked the CEO about the merger.",
+     "ex_zh": "一位商业日报的记者就合并一事向首席执行官提问。",
+     "ex_ja": "経済紙の記者が合併についてCEOに質問した。",
+     "parts": [
+      [
+       "re-",
+       "回",
+       "戻して"
+      ],
+      [
+       "port",
+       "搬运",
+       "運ぶ"
+      ],
+      [
+       "-er",
+       "表示人",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "re“回”+ port“搬运”→ 把消息带回来的人 → 记者。",
+      "ja": "re「戻して」+ port「運ぶ」→ 情報を持ち帰る人 → 記者。"
+     },
+     "forms": [
+      [
+       "news reporter",
+       "新闻记者",
+       "報道記者"
+      ],
+      [
+       "report (v.)",
+       "报道；汇报",
+       "報告する"
+      ]
+     ]
+    },
+    {
+     "w": "importer",
+     "pos": "n.",
+     "ipa": "/ɪmˈpɔrtər/",
+     "zh": "进口商",
+     "ja": "輸入業者",
+     "ex": "The importer pays customs duties when the goods arrive at the port.",
+     "ex_zh": "货物抵达港口时，进口商需缴纳关税。",
+     "ex_ja": "商品が港に到着すると、輸入業者が関税を支払う。",
+     "parts": [
+      [
+       "im-",
+       "向内",
+       "中へ"
+      ],
+      [
+       "port",
+       "搬运",
+       "運ぶ"
+      ],
+      [
+       "-er",
+       "表示人",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "im（in）“向内”+ port“搬运”→ 把货运进来的人。",
+      "ja": "im（in）「中へ」+ port「運ぶ」→ 商品を運び込む人。"
+     },
+     "forms": [
+      [
+       "importer of record",
+       "法定进口商",
+       "輸入者（名義人）"
+      ],
+      [
+       "import (v.)",
+       "进口",
+       "輸入する"
+      ]
+     ]
+    },
+    {
+     "w": "exportable",
+     "pos": "adj.",
+     "ipa": "/ɛkˈspɔrtəbəl/",
+     "zh": "可出口的",
+     "ja": "輸出可能な",
+     "ex": "Only exportable goods that meet safety standards may leave the country.",
+     "ex_zh": "只有符合安全标准的可出口商品才能出境。",
+     "ex_ja": "安全基準を満たす輸出可能な商品だけが国外に出せる。",
+     "parts": [
+      [
+       "ex-",
+       "向外",
+       "外へ"
+      ],
+      [
+       "port",
+       "搬运",
+       "運ぶ"
+      ],
+      [
+       "-able",
+       "可……的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "ex“向外”+ port“搬运”+ able“可……”→ 能运出去的。",
+      "ja": "ex「外へ」+ port「運ぶ」+ able「〜できる」→ 運び出せる。"
+     },
+     "forms": [
+      [
+       "export (v./n.)",
+       "出口",
+       "輸出（する）"
+      ],
+      [
+       "export license",
+       "出口许可证",
+       "輸出許可証"
+      ]
+     ]
+    },
+    {
+     "w": "portability",
+     "pos": "n.",
+     "ipa": "/ˌpɔrtəˈbɪləti/",
+     "zh": "可携带性；便携性",
+     "ja": "持ち運びやすさ；移植性",
+     "ex": "Customers praised the laptop for its portability and long battery life.",
+     "ex_zh": "顾客称赞这款笔记本电脑便携且续航长。",
+     "ex_ja": "顧客はそのノートパソコンの携帯性と長持ちするバッテリーを称賛した。",
+     "parts": [
+      [
+       "port",
+       "搬运",
+       "運ぶ"
+      ],
+      [
+       "-abil",
+       "能够",
+       "〜できる"
+      ],
+      [
+       "-ity",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "port“搬运”→ portable 可携带的 → portability 可携带性。",
+      "ja": "port「運ぶ」→ portable 持ち運べる → portability 携帯性。"
+     },
+     "forms": [
+      [
+       "portable (adj.)",
+       "便携的",
+       "持ち運べる"
+      ],
+      [
+       "number portability",
+       "携号转网",
+       "番号ポータビリティ"
+      ]
+     ],
+     "hl": "portability"
+    },
+    {
+     "w": "supportive",
+     "pos": "adj.",
+     "ipa": "/səˈpɔrtɪv/",
+     "zh": "支持的；给予帮助的",
+     "ja": "協力的；支えとなる",
+     "ex": "Our manager is very supportive of employees who want to take courses.",
+     "ex_zh": "我们的经理非常支持想进修课程的员工。",
+     "ex_ja": "私たちの部長は、講座を受けたい社員をとても支援してくれる。",
+     "parts": [
+      [
+       "sup-",
+       "从下面",
+       "下から"
+      ],
+      [
+       "port",
+       "搬运",
+       "運ぶ"
+      ],
+      [
+       "-ive",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "sup（sub）“下面”+ port“搬运”→ 从下面托住 → 支持的。",
+      "ja": "sup（sub）「下から」+ port「運ぶ」→ 下から支える → 協力的な。"
+     },
+     "forms": [
+      [
+       "be supportive of",
+       "支持……",
+       "〜を支援する"
+      ],
+      [
+       "support (v.)",
+       "支持",
+       "支える"
+      ]
+     ]
+    },
+    {
+     "w": "deport",
+     "pos": "v.",
+     "ipa": "/dɪˈpɔrt/",
+     "zh": "驱逐出境",
+     "ja": "国外追放する",
+     "ex": "The government decided to deport travelers who stayed without valid visas.",
+     "ex_zh": "政府决定将无有效签证滞留的旅客驱逐出境。",
+     "ex_ja": "政府は有効なビザなしで滞在した旅行者を国外追放することを決めた。",
+     "parts": [
+      [
+       "de-",
+       "离开",
+       "離れて"
+      ],
+      [
+       "port",
+       "搬运",
+       "運ぶ"
+      ]
+     ],
+     "note": {
+      "zh": "de“离开”+ port“搬运”→ 搬走 → 驱逐出境。",
+      "ja": "de「離れて」+ port「運ぶ」→ 運び去る → 国外追放する。"
+     },
+     "forms": [
+      [
+       "deportation (n.)",
+       "驱逐出境",
+       "国外退去"
+      ],
+      [
+       "deportee (n.)",
+       "被驱逐者",
+       "被追放者"
+      ]
+     ]
+    },
+    {
+     "w": "purport",
+     "pos": "v.",
+     "ipa": "/pərˈpɔrt/",
+     "zh": "声称；意指",
+     "ja": "〜と称する；趣旨とする",
+     "ex": "The email purports to come from the bank, but it is a scam.",
+     "ex_zh": "这封电子邮件声称来自银行，实际上是诈骗。",
+     "ex_ja": "そのメールは銀行からだと称しているが、詐欺である。",
+     "parts": [
+      [
+       "pur-",
+       "向前",
+       "前へ"
+      ],
+      [
+       "port",
+       "搬运",
+       "運ぶ"
+      ]
+     ],
+     "note": {
+      "zh": "pur（pro）“向前”+ port“搬运”→ 把意思带出来 → 声称、意指。",
+      "ja": "pur（pro）「前へ」+ port「運ぶ」→ 意味を運び出す → 〜と称する。"
+     },
+     "forms": [
+      [
+       "purported (adj.)",
+       "据称的",
+       "〜とされる"
+      ],
+      [
+       "purportedly (adv.)",
+       "据称",
+       "伝えられるところでは"
+      ]
+     ],
+     "tip": {
+      "zh": "多见于“被动/分词”：a purported expert = 自称专家，带有怀疑语气。",
+      "ja": "a purported expert「自称専門家」のように疑いのニュアンスを含む。"
+     },
+     "hl": "purports"
+    }
+   ]
+  },
+  {
+   "id": "duc",
+   "title_zh": "词根 -duc- / -duct-：引导；带领",
+   "title_ja": "語根 -duc-・-duct-：導く",
+   "words": [
+    {
+     "w": "inducement",
+     "pos": "n.",
+     "ipa": "/ɪnˈdusmənt/",
+     "zh": "诱因；激励",
+     "ja": "誘因；奨励",
+     "ex": "A discount was offered as an inducement to sign up early.",
+     "ex_zh": "公司提供折扣，作为鼓励提前注册的诱因。",
+     "ex_ja": "早期登録を促す誘因として割引が提供された。",
+     "parts": [
+      [
+       "in-",
+       "向内",
+       "中へ"
+      ],
+      [
+       "duce",
+       "引导",
+       "導く"
+      ],
+      [
+       "-ment",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "in“向内”+ duce“引导”→ 引人进来 → 诱因。",
+      "ja": "in「中へ」+ duce「導く」→ 引き入れる → 誘因。"
+     },
+     "forms": [
+      [
+       "induce (v.)",
+       "引起；诱使",
+       "引き起こす"
+      ],
+      [
+       "financial inducement",
+       "经济激励",
+       "金銭的誘因"
+      ]
+     ]
+    },
+    {
+     "w": "induct",
+     "pos": "v.",
+     "ipa": "/ɪnˈdʌkt/",
+     "zh": "正式任命；吸收为成员",
+     "ja": "正式に迎え入れる",
+     "ex": "New board members will be inducted at the annual meeting.",
+     "ex_zh": "新董事将在年会上正式就任。",
+     "ex_ja": "新しい取締役は年次総会で正式に就任する。",
+     "parts": [
+      [
+       "in-",
+       "向内",
+       "中へ"
+      ],
+      [
+       "duct",
+       "引导",
+       "導く"
+      ]
+     ],
+     "note": {
+      "zh": "in“向内”+ duct“引导”→ 引进来 → 正式吸纳。",
+      "ja": "in「中へ」+ duct「導く」→ 引き入れる → 正式に迎える。"
+     },
+     "forms": [
+      [
+       "induction (n.)",
+       "就职；入职培训",
+       "就任；新人研修"
+      ],
+      [
+       "induct into",
+       "吸收进……",
+       "〜に迎え入れる"
+      ]
+     ]
+    },
+    {
+     "w": "educator",
+     "pos": "n.",
+     "ipa": "/ˈɛdʒəˌkeɪtər/",
+     "zh": "教育工作者",
+     "ja": "教育者",
+     "ex": "The conference brings together educators and corporate trainers.",
+     "ex_zh": "这场会议汇集了教育工作者和企业培训师。",
+     "ex_ja": "その会議には教育者と企業の研修担当者が集まる。",
+     "parts": [
+      [
+       "e-",
+       "向外",
+       "外へ"
+      ],
+      [
+       "duc",
+       "引导",
+       "導く"
+      ],
+      [
+       "-ator",
+       "表示人",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "e（ex）“向外”+ duc“引导”→ 把潜力引出来 → 教育；educator 即做这件事的人。",
+      "ja": "e（ex）「外へ」+ duc「導く」→ 能力を引き出す → 教育；educator はその人。"
+     },
+     "forms": [
+      [
+       "educate (v.)",
+       "教育",
+       "教育する"
+      ],
+      [
+       "education (n.)",
+       "教育",
+       "教育"
+      ]
+     ]
+    },
+    {
+     "w": "reducible",
+     "pos": "adj.",
+     "ipa": "/rɪˈdusəbəl/",
+     "zh": "可减少的；可简化的",
+     "ja": "減らせる；簡約できる",
+     "ex": "Most of the shipping costs are reducible if we order in bulk.",
+     "ex_zh": "如果批量订购，大部分运费都是可以降低的。",
+     "ex_ja": "まとめて注文すれば、送料の大部分は削減できる。",
+     "parts": [
+      [
+       "re-",
+       "往回",
+       "後ろへ"
+      ],
+      [
+       "duc",
+       "引导",
+       "導く"
+      ],
+      [
+       "-ible",
+       "可……的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "re“往回”+ duc“引导”→ 引回去 → 减少；ible 表示“可……”。",
+      "ja": "re「後ろへ」+ duc「導く」→ 引き戻す → 減らす；ible は「〜できる」。"
+     },
+     "forms": [
+      [
+       "reduce (v.)",
+       "减少",
+       "減らす"
+      ],
+      [
+       "irreducible (adj.)",
+       "不可减少的",
+       "減らせない"
+      ]
+     ]
+    },
+    {
+     "w": "reduction",
+     "pos": "n.",
+     "ipa": "/rɪˈdʌkʃən/",
+     "zh": "减少；降价",
+     "ja": "削減；値下げ",
+     "ex": "The company announced a ten percent reduction in operating costs.",
+     "ex_zh": "公司宣布运营成本减少百分之十。",
+     "ex_ja": "会社は運営費を10パーセント削減すると発表した。",
+     "parts": [
+      [
+       "re-",
+       "往回",
+       "後ろへ"
+      ],
+      [
+       "duct",
+       "引导",
+       "導く"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "re + duct → 引回、缩回 → 减少。",
+      "ja": "re + duct → 引き戻す → 削減。"
+     },
+     "forms": [
+      [
+       "price reduction",
+       "降价",
+       "値下げ"
+      ],
+      [
+       "staff reduction",
+       "裁员",
+       "人員削減"
+      ]
+     ],
+     "hl": "reduction"
+    },
+    {
+     "w": "introduction",
+     "pos": "n.",
+     "ipa": "/ˌɪntrəˈdʌkʃən/",
+     "zh": "介绍；引进",
+     "ja": "紹介；導入",
+     "ex": "The introduction of the new software saved the team several hours a week.",
+     "ex_zh": "新软件的引进让团队每周节省了几个小时。",
+     "ex_ja": "新しいソフトの導入で、チームは週に数時間節約できた。",
+     "parts": [
+      [
+       "intro-",
+       "向内",
+       "中へ"
+      ],
+      [
+       "duct",
+       "引导",
+       "導く"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "intro“向内”+ duct“引导”→ 引进来 → 介绍、引进。",
+      "ja": "intro「中へ」+ duct「導く」→ 引き入れる → 紹介・導入。"
+     },
+     "forms": [
+      [
+       "introduce (v.)",
+       "介绍；引进",
+       "紹介する；導入する"
+      ],
+      [
+       "introductory offer",
+       "新用户优惠",
+       "お試し価格"
+      ]
+     ],
+     "hl": "introduction"
+    },
+    {
+     "w": "conduit",
+     "pos": "n.",
+     "ipa": "/ˈkɑndwɪt/",
+     "zh": "管道；渠道",
+     "ja": "導管；パイプ役",
+     "ex": "The marketing team acts as a conduit between customers and the design department.",
+     "ex_zh": "市场团队是客户与设计部门之间的沟通渠道。",
+     "ex_ja": "マーケティングチームは顧客とデザイン部門の橋渡し役を務めている。",
+     "parts": [
+      [
+       "con-",
+       "一起",
+       "共に"
+      ],
+      [
+       "duit",
+       "引导（经古法语）",
+       "導く（古フランス語経由）"
+      ]
+     ],
+     "note": {
+      "zh": "来自中古拉丁语 conductus“引导”，con“一起”+ duc“引导” → 把东西引过去的管道。",
+      "ja": "中世ラテン語 conductus「導くもの」から。con「共に」+ duc「導く」→ 導く管。"
+     },
+     "forms": [
+      [
+       "electrical conduit",
+       "电线导管",
+       "電線管"
+      ],
+      [
+       "a conduit for",
+       "……的渠道",
+       "〜の媒介"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ject",
+   "title_zh": "词根 -ject-：投掷；抛",
+   "title_ja": "語根 -ject-：投げる",
+   "words": [
+    {
+     "w": "ejection",
+     "pos": "n.",
+     "ipa": "/ɪˈdʒɛkʃən/",
+     "zh": "弹出；驱逐",
+     "ja": "排出；追い出し",
+     "ex": "Press the button for the ejection of the memory card.",
+     "ex_zh": "按下按钮即可弹出存储卡。",
+     "ex_ja": "ボタンを押すとメモリーカードが排出される。",
+     "parts": [
+      [
+       "e-",
+       "向外",
+       "外へ"
+      ],
+      [
+       "ject",
+       "投掷",
+       "投げる"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "e（ex）“向外”+ ject“投掷”→ 扔出去 → 弹出、驱逐。",
+      "ja": "e（ex）「外へ」+ ject「投げる」→ 投げ出す → 排出・追放。"
+     },
+     "forms": [
+      [
+       "eject (v.)",
+       "弹出；逐出",
+       "排出する"
+      ],
+      [
+       "ejection seat",
+       "弹射座椅",
+       "射出座席"
+      ]
+     ],
+     "hl": "ejection"
+    },
+    {
+     "w": "interject",
+     "pos": "v.",
+     "ipa": "/ˌɪntərˈdʒɛkt/",
+     "zh": "插话",
+     "ja": "口を挟む",
+     "ex": "She interjected a question during the sales presentation.",
+     "ex_zh": "她在销售演示期间插了一个问题。",
+     "ex_ja": "彼女は販売プレゼンの最中に質問を差し挟んだ。",
+     "parts": [
+      [
+       "inter-",
+       "在……之间",
+       "間に"
+      ],
+      [
+       "ject",
+       "投掷",
+       "投げる"
+      ]
+     ],
+     "note": {
+      "zh": "inter“之间”+ ject“投掷”→ 在别人话语中间扔进一句 → 插话。",
+      "ja": "inter「間に」+ ject「投げる」→ 話の間に投げ込む → 口を挟む。"
+     },
+     "forms": [
+      [
+       "interjection (n.)",
+       "插话；感叹词",
+       "口出し；感嘆詞"
+      ],
+      [
+       "interject a comment",
+       "插一句话",
+       "コメントを挟む"
+      ]
+     ]
+    },
+    {
+     "w": "projectile",
+     "pos": "n.",
+     "ipa": "/prəˈdʒɛktəl/",
+     "zh": "投射物；抛射体",
+     "ja": "発射物",
+     "ex": "Workers must wear goggles to protect against flying projectiles.",
+     "ex_zh": "工人必须戴护目镜，以防飞出的碎物。",
+     "ex_ja": "作業員は飛んでくる破片から身を守るためゴーグルを着用しなければならない。",
+     "parts": [
+      [
+       "pro-",
+       "向前",
+       "前へ"
+      ],
+      [
+       "ject",
+       "投掷",
+       "投げる"
+      ],
+      [
+       "-ile",
+       "与……有关",
+       "〜に関する"
+      ]
+     ],
+     "note": {
+      "zh": "pro“向前”+ ject“投掷”→ 向前扔出的东西。",
+      "ja": "pro「前へ」+ ject「投げる」→ 前へ投げ出されるもの。"
+     },
+     "forms": [
+      [
+       "project (v.)",
+       "投射；预计",
+       "投影する；見積もる"
+      ],
+      [
+       "projectile (adj.)",
+       "抛射的",
+       "発射される"
+      ]
+     ]
+    },
+    {
+     "w": "abject",
+     "pos": "adj.",
+     "ipa": "/ˈæbdʒɛkt/",
+     "zh": "悲惨的；彻底的",
+     "ja": "惨めな；どん底の",
+     "ex": "Many families still live in abject poverty in the region.",
+     "ex_zh": "该地区仍有许多家庭生活在赤贫之中。",
+     "ex_ja": "その地域では今も多くの家庭が極貧の中で暮らしている。",
+     "parts": [
+      [
+       "ab-",
+       "离开；向下",
+       "離れて；下へ"
+      ],
+      [
+       "ject",
+       "投掷",
+       "投げる"
+      ]
+     ],
+     "note": {
+      "zh": "ab“离开/向下”+ ject“投掷”→ 被扔到底层 → 悲惨的。",
+      "ja": "ab「離れて・下へ」+ ject「投げる」→ 投げ捨てられた → 惨めな。"
+     },
+     "forms": [
+      [
+       "abject poverty",
+       "赤贫",
+       "極貧"
+      ],
+      [
+       "abject failure",
+       "彻底失败",
+       "惨敗"
+      ]
+     ],
+     "tip": {
+      "zh": "常与 poverty / failure 搭配，表示程度极端，不能修饰好事。",
+      "ja": "poverty や failure と結びつき、極端な悪い状態を表す。"
+     }
+    },
+    {
+     "w": "jettison",
+     "pos": "v.",
+     "ipa": "/ˈdʒɛtəsən/",
+     "zh": "抛弃；丢弃",
+     "ja": "投げ捨てる；放棄する",
+     "ex": "The board voted to jettison the unprofitable product line.",
+     "ex_zh": "董事会投票决定舍弃不盈利的产品线。",
+     "ex_ja": "取締役会は不採算の製品ラインを切り捨てることを決議した。",
+     "parts": [
+      [
+       "jet",
+       "投掷（拉丁语 jactare）",
+       "投げる（ラテン語 jactare）"
+      ]
+     ],
+     "note": {
+      "zh": "来自拉丁语 jactare“反复投掷”，与 jacere（ject）同源 → 把货物抛出船外 → 抛弃。",
+      "ja": "ラテン語 jactare「繰り返し投げる」から。jacere（ject）と同源 → 積み荷を海に投げる → 放棄する。"
+     },
+     "forms": [
+      [
+       "jettison a plan",
+       "放弃计划",
+       "計画を捨てる"
+      ],
+      [
+       "jettison cargo",
+       "抛货",
+       "積み荷を投棄する"
+      ]
+     ]
+    },
+    {
+     "w": "adjective",
+     "pos": "n.",
+     "ipa": "/ˈædʒɪktɪv/",
+     "zh": "形容词",
+     "ja": "形容詞",
+     "ex": "Choose the adjective that best describes the new product.",
+     "ex_zh": "请选出最能描述新产品的形容词。",
+     "ex_ja": "新製品を最もよく表す形容詞を選びなさい。",
+     "parts": [
+      [
+       "ad-",
+       "向……",
+       "〜へ"
+      ],
+      [
+       "ject",
+       "投掷；放置",
+       "投げる；置く"
+      ],
+      [
+       "-ive",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "ad“向”+ ject“投掷”→ 扔到名词旁边的词 → 形容词（语法术语）。",
+      "ja": "ad「〜へ」+ ject「投げる」→ 名詞に添えられる語 → 形容詞（文法用語）。"
+     },
+     "forms": [
+      [
+       "adjective clause",
+       "形容词从句",
+       "形容詞節"
+      ],
+      [
+       "adverb (n.)",
+       "副词",
+       "副詞"
+      ]
+     ]
+    },
+    {
+     "w": "dejection",
+     "pos": "n.",
+     "ipa": "/dɪˈdʒɛkʃən/",
+     "zh": "沮丧；失意",
+     "ja": "落胆；意気消沈",
+     "ex": "A sense of dejection spread through the office after the layoffs were announced.",
+     "ex_zh": "裁员消息公布后，办公室里弥漫着沮丧的情绪。",
+     "ex_ja": "人員削減の発表後、オフィスに落胆の空気が広がった。",
+     "parts": [
+      [
+       "de-",
+       "向下",
+       "下へ"
+      ],
+      [
+       "ject",
+       "投掷",
+       "投げる"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "de“向下”+ ject“投掷”→ 被扔下去 → 情绪低落。",
+      "ja": "de「下へ」+ ject「投げる」→ 投げ落とされる → 気持ちが沈む。"
+     },
+     "forms": [
+      [
+       "dejected (adj.)",
+       "沮丧的",
+       "落胆した"
+      ],
+      [
+       "in dejection",
+       "沮丧地",
+       "落胆して"
+      ]
+     ],
+     "hl": "dejection"
+    }
+   ]
+  },
+  {
+   "id": "vis",
+   "title_zh": "词根 -vis- / -vid-：看",
+   "title_ja": "語根 -vis-・-vid-：見る",
+   "words": [
+    {
+     "w": "envision",
+     "pos": "v.",
+     "ipa": "/ɛnˈvɪʒən/",
+     "zh": "设想；展望",
+     "ja": "思い描く",
+     "ex": "We envision a store that is fully powered by solar energy.",
+     "ex_zh": "我们设想一家完全由太阳能供电的商店。",
+     "ex_ja": "私たちは完全に太陽光で稼働する店舗を思い描いている。",
+     "parts": [
+      [
+       "en-",
+       "使……",
+       "〜にする"
+      ],
+      [
+       "vis",
+       "看",
+       "見る"
+      ],
+      [
+       "-ion",
+       "名词",
+       "名詞"
+      ]
+     ],
+     "note": {
+      "zh": "en“使”+ vision“视野、景象”（vis“看”）→ 在脑中看到 → 设想。",
+      "ja": "en「〜にする」+ vision「光景」（vis「見る」）→ 頭に描く → 構想する。"
+     },
+     "forms": [
+      [
+       "envision a future",
+       "展望未来",
+       "未来を描く"
+      ],
+      [
+       "envisage (v.)",
+       "设想",
+       "想定する"
+      ]
+     ]
+    },
+    {
+     "w": "provision",
+     "pos": "n.",
+     "ipa": "/prəˈvɪʒən/",
+     "zh": "条款；供应；准备",
+     "ja": "条項；供給；備え",
+     "ex": "The contract includes a provision for early termination.",
+     "ex_zh": "合同中包含提前终止的条款。",
+     "ex_ja": "その契約には早期解約の条項が含まれている。",
+     "parts": [
+      [
+       "pro-",
+       "向前",
+       "前へ"
+      ],
+      [
+       "vis",
+       "看",
+       "見る"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "pro“向前”+ vis“看”→ 往前看、预先准备 → 准备、条款。",
+      "ja": "pro「前へ」+ vis「見る」→ 先を見て備える → 備え・条項。"
+     },
+     "forms": [
+      [
+       "make provisions for",
+       "为……做准备",
+       "〜に備える"
+      ],
+      [
+       "provide (v.)",
+       "提供",
+       "提供する"
+      ]
+     ],
+     "tip": {
+      "zh": "provision 常表示合同“条款”，也可指“供应、储备”。",
+      "ja": "provision は契約の「条項」の意味が頻出。「供給・備蓄」の意味もある。"
+     },
+     "hl": "provision"
+    },
+    {
+     "w": "visibility",
+     "pos": "n.",
+     "ipa": "/ˌvɪzəˈbɪləti/",
+     "zh": "能见度；知名度",
+     "ja": "視界；認知度",
+     "ex": "Heavy fog reduced visibility on the highway to under fifty meters.",
+     "ex_zh": "浓雾使高速公路的能见度降到五十米以下。",
+     "ex_ja": "濃霧で高速道路の視界が50メートル以下に落ちた。",
+     "parts": [
+      [
+       "vis",
+       "看",
+       "見る"
+      ],
+      [
+       "-ibil",
+       "能够",
+       "〜できる"
+      ],
+      [
+       "-ity",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "vis“看”→ visible 看得见的 → visibility 能见度、知名度。",
+      "ja": "vis「見る」→ visible 見える → visibility 視界・認知度。"
+     },
+     "forms": [
+      [
+       "visible (adj.)",
+       "看得见的",
+       "見える"
+      ],
+      [
+       "online visibility",
+       "网络知名度",
+       "ネット上の認知度"
+      ]
+     ]
+    },
+    {
+     "w": "visionary",
+     "pos": "adj.",
+     "ipa": "/ˈvɪʒəˌnɛri/",
+     "zh": "有远见的；空想的",
+     "ja": "先見の明のある",
+     "ex": "The founder was a visionary leader who saw the market shift early.",
+     "ex_zh": "创始人是一位有远见的领导者，很早就看到市场的变化。",
+     "ex_ja": "創業者は市場の変化を早くから見抜いた先見性のあるリーダーだった。",
+     "parts": [
+      [
+       "vis",
+       "看",
+       "見る"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ],
+      [
+       "-ary",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "vision“视野、远见”+ ary → 有远见的；也可作名词“空想家”。",
+      "ja": "vision「先見」+ ary → 先見性のある；名詞では「先見者」。"
+     },
+     "forms": [
+      [
+       "visionary (n.)",
+       "有远见的人",
+       "先見者"
+      ],
+      [
+       "vision statement",
+       "愿景声明",
+       "ビジョン声明"
+      ]
+     ]
+    },
+    {
+     "w": "advisory",
+     "pos": "adj.",
+     "ipa": "/ədˈvaɪzəri/",
+     "zh": "咨询的；劝告的",
+     "ja": "助言の；注意喚起の",
+     "ex": "The company hired an advisory firm to review its pricing strategy.",
+     "ex_zh": "公司聘请了一家咨询公司来审查定价策略。",
+     "ex_ja": "会社は価格戦略を見直すため、コンサルティング会社を雇った。",
+     "parts": [
+      [
+       "ad-",
+       "向……",
+       "〜へ"
+      ],
+      [
+       "vis",
+       "看",
+       "見る"
+      ],
+      [
+       "-ory",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "ad“向”+ vis“看”→ 为别人“看”并出主意 → 咨询的。",
+      "ja": "ad「〜へ」+ vis「見る」→ 相手のために見て助言する → 助言の。"
+     },
+     "forms": [
+      [
+       "advisory board",
+       "顾问委员会",
+       "諮問委員会"
+      ],
+      [
+       "travel advisory",
+       "旅行警示",
+       "渡航情報"
+      ]
+     ],
+     "hl": "advisory"
+    },
+    {
+     "w": "preview",
+     "pos": "n.",
+     "ipa": "/ˈpriˌvju/",
+     "zh": "预览；试映",
+     "ja": "試写；プレビュー",
+     "ex": "Subscribers will get a free preview of the new season.",
+     "ex_zh": "订阅用户可以免费预览新一季内容。",
+     "ex_ja": "購読者は新シーズンを無料でプレビューできる。",
+     "parts": [
+      [
+       "pre-",
+       "预先",
+       "前もって"
+      ],
+      [
+       "view",
+       "看",
+       "見る"
+      ]
+     ],
+     "note": {
+      "zh": "pre“预先”+ view“看”（来自拉丁语 videre，与 vid/vis 同源）→ 预先看。",
+      "ja": "pre「前もって」+ view「見る」（ラテン語 videre 由来、vid/vis と同源）→ 先に見る。"
+     },
+     "forms": [
+      [
+       "print preview",
+       "打印预览",
+       "印刷プレビュー"
+      ],
+      [
+       "preview (v.)",
+       "预览",
+       "試写する"
+      ]
+     ]
+    },
+    {
+     "w": "revision",
+     "pos": "n.",
+     "ipa": "/rɪˈvɪʒən/",
+     "zh": "修订；修改",
+     "ja": "改訂；修正",
+     "ex": "Please send the revision of the budget report by noon.",
+     "ex_zh": "请在中午之前发送修订后的预算报告。",
+     "ex_ja": "正午までに予算報告書の改訂版を送ってください。",
+     "parts": [
+      [
+       "re-",
+       "再",
+       "再び"
+      ],
+      [
+       "vis",
+       "看",
+       "見る"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "re“再”+ vis“看”→ 再看一遍 → 修订。",
+      "ja": "re「再び」+ vis「見る」→ もう一度見直す → 改訂。"
+     },
+     "forms": [
+      [
+       "revise (v.)",
+       "修订",
+       "改訂する"
+      ],
+      [
+       "revised edition",
+       "修订版",
+       "改訂版"
+      ]
+     ],
+     "hl": "revision"
+    }
+   ]
+  },
+  {
+   "id": "it",
+   "title_zh": "主题：IT 系统与数据",
+   "title_ja": "テーマ：ITシステム・データ",
+   "words": [
+    {
+     "w": "configure",
+     "pos": "v.",
+     "ipa": "/kənˈfɪgjər/",
+     "zh": "配置；设置",
+     "ja": "設定する",
+     "ex": "The technician will configure the new printers for the whole floor.",
+     "ex_zh": "技术人员会为整层楼配置新打印机。",
+     "ex_ja": "技術者がフロア全体の新しいプリンターを設定する。",
+     "parts": [
+      [
+       "con-",
+       "一起",
+       "共に"
+      ],
+      [
+       "figure",
+       "形状；形成",
+       "形；形作る"
+      ]
+     ],
+     "note": {
+      "zh": "con“一起”+ figure“形成”→ 把各部分排列成形 → 配置。",
+      "ja": "con「共に」+ figure「形作る」→ 各部分を整える → 設定する。"
+     },
+     "forms": [
+      [
+       "configuration (n.)",
+       "配置",
+       "構成"
+      ],
+      [
+       "configure settings",
+       "设置参数",
+       "設定を行う"
+      ]
+     ]
+    },
+    {
+     "w": "peripheral",
+     "pos": "n.",
+     "ipa": "/pəˈrɪfərəl/",
+     "zh": "外围设备",
+     "ja": "周辺機器",
+     "ex": "Your keyboard and mouse are peripherals connected to the computer.",
+     "ex_zh": "你的键盘和鼠标是连接到电脑的外围设备。",
+     "ex_ja": "キーボードとマウスはコンピューターにつなぐ周辺機器だ。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "peripheral device",
+       "外围设备",
+       "周辺機器"
+      ],
+      [
+       "peripheral (adj.)",
+       "次要的；外围的",
+       "周辺の；二次的"
+      ]
+     ],
+     "tip": {
+      "zh": "作形容词时表示“次要的”：a peripheral issue。",
+      "ja": "形容詞では「二次的な」：a peripheral issue。"
+     }
+    },
+    {
+     "w": "cloud",
+     "pos": "n.",
+     "ipa": "/klaʊd/",
+     "zh": "云端；云服务",
+     "ja": "クラウド",
+     "ex": "All of our files are stored in the cloud and can be accessed anywhere.",
+     "ex_zh": "我们所有文件都存储在云端，随处可访问。",
+     "ex_ja": "当社のファイルはすべてクラウドに保存され、どこからでもアクセスできる。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "cloud storage",
+       "云存储",
+       "クラウドストレージ"
+      ],
+      [
+       "cloud-based (adj.)",
+       "基于云的",
+       "クラウド型の"
+      ]
+     ]
+    },
+    {
+     "w": "sync",
+     "pos": "v.",
+     "ipa": "/sɪŋk/",
+     "zh": "同步",
+     "ja": "同期する",
+     "ex": "Your calendar will sync automatically across all your devices.",
+     "ex_zh": "你的日历会在所有设备上自动同步。",
+     "ex_ja": "カレンダーはすべての端末間で自動的に同期される。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "synchronize (v.)",
+       "使同步",
+       "同期させる"
+      ],
+      [
+       "out of sync",
+       "不同步",
+       "同期していない"
+      ]
+     ],
+     "hl": "sync"
+    },
+    {
+     "w": "interoperable",
+     "pos": "adj.",
+     "ipa": "/ˌɪntərˈɑpərəbəl/",
+     "zh": "可互操作的",
+     "ja": "相互運用できる",
+     "ex": "The new system is interoperable with the software our partners use.",
+     "ex_zh": "新系统可与合作伙伴使用的软件互相操作。",
+     "ex_ja": "新システムはパートナーが使うソフトと相互運用できる。",
+     "parts": [
+      [
+       "inter-",
+       "之间",
+       "間で"
+      ],
+      [
+       "oper",
+       "工作；运作",
+       "働く；作動する"
+      ],
+      [
+       "-able",
+       "可……的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "inter“之间”+ oper“运作”+ able → 彼此之间可以运作。",
+      "ja": "inter「間で」+ oper「作動」+ able → 互いに動作できる。"
+     },
+     "forms": [
+      [
+       "interoperability (n.)",
+       "互操作性",
+       "相互運用性"
+      ],
+      [
+       "operate (v.)",
+       "操作",
+       "操作する"
+      ]
+     ]
+    },
+    {
+     "w": "biometric",
+     "pos": "adj.",
+     "ipa": "/ˌbaɪoʊˈmɛtrɪk/",
+     "zh": "生物识别的",
+     "ja": "生体認証の",
+     "ex": "Employees enter the lab using a biometric fingerprint scanner.",
+     "ex_zh": "员工通过生物识别指纹扫描仪进入实验室。",
+     "ex_ja": "社員は生体認証の指紋スキャナーで研究室に入る。",
+     "parts": [
+      [
+       "bio-",
+       "生命",
+       "生命"
+      ],
+      [
+       "metr",
+       "测量",
+       "測る"
+      ],
+      [
+       "-ic",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "bio“生命”+ metr“测量”→ 测量生物特征 → 生物识别。",
+      "ja": "bio「生命」+ metr「測る」→ 身体的特徴を測る → 生体認証の。"
+     },
+     "forms": [
+      [
+       "biometric data",
+       "生物识别数据",
+       "生体データ"
+      ],
+      [
+       "biometrics (n.)",
+       "生物识别技术",
+       "生体認証"
+      ]
+     ]
+    },
+    {
+     "w": "antivirus",
+     "pos": "adj.",
+     "ipa": "/ˌæntiˈvaɪrəs/",
+     "zh": "防病毒的",
+     "ja": "ウイルス対策の",
+     "ex": "All laptops must have up-to-date antivirus software installed.",
+     "ex_zh": "所有笔记本电脑都必须安装最新的杀毒软件。",
+     "ex_ja": "すべてのノートパソコンに最新のウイルス対策ソフトを入れなければならない。",
+     "parts": [
+      [
+       "anti-",
+       "反对；防",
+       "反対；対抗"
+      ],
+      [
+       "virus",
+       "病毒",
+       "ウイルス"
+      ]
+     ],
+     "note": {
+      "zh": "anti“防”+ virus“病毒”→ 防病毒。",
+      "ja": "anti「対抗」+ virus「ウイルス」→ ウイルス対策。"
+     },
+     "forms": [
+      [
+       "antivirus software",
+       "杀毒软件",
+       "ウイルス対策ソフト"
+      ],
+      [
+       "virus (n.)",
+       "病毒",
+       "ウイルス"
+      ]
+     ]
+    },
+    {
+     "w": "ransomware",
+     "pos": "n.",
+     "ipa": "/ˈrænsəmˌwɛr/",
+     "zh": "勒索软件",
+     "ja": "ランサムウェア",
+     "ex": "A ransomware attack locked the hospital's records until it paid.",
+     "ex_zh": "勒索软件攻击锁住了医院的记录，直到其付款。",
+     "ex_ja": "ランサムウェア攻撃で病院の記録は身代金を払うまでロックされた。",
+     "parts": [
+      [
+       "ransom",
+       "赎金",
+       "身代金"
+      ],
+      [
+       "-ware",
+       "软件",
+       "ソフトウェア"
+      ]
+     ],
+     "note": {
+      "zh": "ransom“赎金”+ ware（software 的 -ware）→ 索要赎金的软件。",
+      "ja": "ransom「身代金」+ ware（software の -ware）→ 身代金を要求するソフト。"
+     },
+     "forms": [
+      [
+       "ransom (n.)",
+       "赎金",
+       "身代金"
+      ],
+      [
+       "malware (n.)",
+       "恶意软件",
+       "マルウェア"
+      ]
+     ]
+    },
+    {
+     "w": "virtualization",
+     "pos": "n.",
+     "ipa": "/ˌvɜrtʃuələˈzeɪʃən/",
+     "zh": "虚拟化",
+     "ja": "仮想化",
+     "ex": "Server virtualization lets one machine run several systems at once.",
+     "ex_zh": "服务器虚拟化可以让一台机器同时运行多个系统。",
+     "ex_ja": "サーバーの仮想化により、1台で複数のシステムを同時に動かせる。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "virtual (adj.)",
+       "虚拟的",
+       "仮想の"
+      ],
+      [
+       "virtual machine",
+       "虚拟机",
+       "仮想マシン"
+      ]
+     ]
+    },
+    {
+     "w": "algorithm",
+     "pos": "n.",
+     "ipa": "/ˈælɡəˌrɪðəm/",
+     "zh": "算法",
+     "ja": "アルゴリズム",
+     "ex": "The search algorithm ranks results according to relevance.",
+     "ex_zh": "搜索算法根据相关性对结果排序。",
+     "ex_ja": "検索アルゴリズムは関連性に基づいて結果を順位付けする。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "recommendation algorithm",
+       "推荐算法",
+       "推薦アルゴリズム"
+      ],
+      [
+       "algorithmic (adj.)",
+       "算法的",
+       "アルゴリズムの"
+      ]
+     ]
+    },
+    {
+     "w": "dataset",
+     "pos": "n.",
+     "ipa": "/ˈdeɪtəˌsɛt/",
+     "zh": "数据集",
+     "ja": "データセット",
+     "ex": "The analysts cleaned the dataset before running the sales forecast.",
+     "ex_zh": "分析师在运行销售预测之前先清理了数据集。",
+     "ex_ja": "アナリストは売上予測を行う前にデータセットを整理した。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "large dataset",
+       "大型数据集",
+       "大規模データセット"
+      ],
+      [
+       "data (n.)",
+       "数据",
+       "データ"
+      ]
+     ]
+    },
+    {
+     "w": "metadata",
+     "pos": "n.",
+     "ipa": "/ˈmɛtəˌdeɪtə/",
+     "zh": "元数据",
+     "ja": "メタデータ",
+     "ex": "The file's metadata shows who created it and when it was last edited.",
+     "ex_zh": "文件的元数据显示了创建者和最后编辑时间。",
+     "ex_ja": "ファイルのメタデータには、作成者と最終編集日時が示されている。",
+     "parts": [
+      [
+       "meta-",
+       "关于；超越",
+       "〜についての；超えた"
+      ],
+      [
+       "data",
+       "数据",
+       "データ"
+      ]
+     ],
+     "note": {
+      "zh": "meta“关于”+ data“数据”→ 关于数据的数据。",
+      "ja": "meta「〜についての」+ data「データ」→ データについてのデータ。"
+     },
+     "forms": [
+      [
+       "metadata tag",
+       "元数据标签",
+       "メタデータタグ"
+      ],
+      [
+       "data (n.)",
+       "数据",
+       "データ"
+      ]
+     ]
+    },
+    {
+     "w": "uptime",
+     "pos": "n.",
+     "ipa": "/ˈʌpˌtaɪm/",
+     "zh": "正常运行时间",
+     "ja": "稼働時間",
+     "ex": "The hosting company guarantees ninety-nine percent uptime.",
+     "ex_zh": "托管公司保证百分之九十九的正常运行时间。",
+     "ex_ja": "ホスティング会社は99パーセントの稼働率を保証している。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "downtime (n.)",
+       "停机时间",
+       "停止時間"
+      ],
+      [
+       "uptime guarantee",
+       "可用性保证",
+       "稼働保証"
+      ]
+     ]
+    },
+    {
+     "w": "sandbox",
+     "pos": "n.",
+     "ipa": "/ˈsændˌbɑks/",
+     "zh": "沙盒（测试环境）",
+     "ja": "サンドボックス（試験環境）",
+     "ex": "Developers tested the update in a sandbox before releasing it.",
+     "ex_zh": "开发人员在发布前先在沙盒中测试了更新。",
+     "ex_ja": "開発者はリリース前にサンドボックスで更新をテストした。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "sandbox environment",
+       "沙盒环境",
+       "サンドボックス環境"
+      ],
+      [
+       "test environment",
+       "测试环境",
+       "テスト環境"
+      ]
+     ]
+    },
+    {
+     "w": "cache",
+     "pos": "n.",
+     "ipa": "/kæʃ/",
+     "zh": "缓存",
+     "ja": "キャッシュ",
+     "ex": "Clearing your browser cache can fix loading problems.",
+     "ex_zh": "清除浏览器缓存可以解决加载问题。",
+     "ex_ja": "ブラウザのキャッシュを消すと、読み込みの問題が直ることがある。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "clear the cache",
+       "清除缓存",
+       "キャッシュを消去する"
+      ],
+      [
+       "cache (v.)",
+       "缓存",
+       "キャッシュする"
+      ]
+     ],
+     "tip": {
+      "zh": "发音是 /kæʃ/，与 cash 同音，别读成 “ca-che”。",
+      "ja": "発音は /kæʃ/ で cash と同じ。"
+     }
+    },
+    {
+     "w": "touchscreen",
+     "pos": "n.",
+     "ipa": "/ˈtʌtʃˌskrin/",
+     "zh": "触摸屏",
+     "ja": "タッチスクリーン",
+     "ex": "The kiosk has a touchscreen that is easy for visitors to use.",
+     "ex_zh": "这台自助机有一块访客容易操作的触摸屏。",
+     "ex_ja": "その端末には、来訪者が使いやすいタッチスクリーンがある。",
+     "parts": [
+      [
+       "touch",
+       "触摸",
+       "触れる"
+      ],
+      [
+       "screen",
+       "屏幕",
+       "画面"
+      ]
+     ],
+     "note": {
+      "zh": "touch“触摸”+ screen“屏幕”→ 触摸屏（复合词）。",
+      "ja": "touch「触れる」+ screen「画面」→ タッチ画面（複合語）。"
+     },
+     "forms": [
+      [
+       "touchscreen display",
+       "触摸屏显示器",
+       "タッチパネル"
+      ],
+      [
+       "touch (v.)",
+       "触摸",
+       "触れる"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "legal",
+   "title_zh": "主题：法律合同与协议",
+   "title_ja": "テーマ：法務・契約",
+   "words": [
+    {
+     "w": "indemnify",
+     "pos": "v.",
+     "ipa": "/ɪnˈdɛmnəˌfaɪ/",
+     "zh": "赔偿；使免于损失",
+     "ja": "補償する；免責する",
+     "ex": "The supplier agreed to indemnify the buyer against any legal claims.",
+     "ex_zh": "供应商同意就任何法律索赔向买方作出赔偿。",
+     "ex_ja": "供給業者は、いかなる法的請求についても買い手を補償することに同意した。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "indemnity (n.)",
+       "赔偿；免责",
+       "補償；免責"
+      ],
+      [
+       "indemnify against",
+       "使免于……损失",
+       "〜から免責する"
+      ]
+     ]
+    },
+    {
+     "w": "negotiation",
+     "pos": "n.",
+     "ipa": "/nɪˌɡoʊʃiˈeɪʃən/",
+     "zh": "谈判；协商",
+     "ja": "交渉",
+     "ex": "The two firms are in negotiation over the terms of the lease.",
+     "ex_zh": "两家公司正就租约条款进行谈判。",
+     "ex_ja": "両社は賃貸契約の条件について交渉中だ。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "negotiate (v.)",
+       "谈判",
+       "交渉する"
+      ],
+      [
+       "under negotiation",
+       "正在谈判",
+       "交渉中"
+      ]
+     ],
+     "hl": "negotiation"
+    },
+    {
+     "w": "counterparty",
+     "pos": "n.",
+     "ipa": "/ˈkaʊntərˌpɑrti/",
+     "zh": "交易对手",
+     "ja": "取引相手",
+     "ex": "Each counterparty must sign the agreement before it takes effect.",
+     "ex_zh": "每个交易对手都必须在协议生效前签字。",
+     "ex_ja": "協定が発効する前に、各取引相手が署名しなければならない。",
+     "parts": [
+      [
+       "counter",
+       "对面的",
+       "向かい側の"
+      ],
+      [
+       "party",
+       "当事方",
+       "当事者"
+      ]
+     ],
+     "note": {
+      "zh": "counter“对面”+ party“当事方”→ 对方当事人。",
+      "ja": "counter「向かい側」+ party「当事者」→ 相手方。"
+     },
+     "forms": [
+      [
+       "contract counterparty",
+       "合同对方",
+       "契約の相手方"
+      ],
+      [
+       "party (n.)",
+       "当事方",
+       "当事者"
+      ]
+     ]
+    },
+    {
+     "w": "enforceable",
+     "pos": "adj.",
+     "ipa": "/ɪnˈfɔrsəbəl/",
+     "zh": "可强制执行的",
+     "ja": "強制力のある",
+     "ex": "A verbal promise may not be legally enforceable.",
+     "ex_zh": "口头承诺可能不具有法律强制力。",
+     "ex_ja": "口約束は法的に強制力がないかもしれない。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "enforce (v.)",
+       "执行；强制",
+       "執行する"
+      ],
+      [
+       "legally enforceable",
+       "具法律效力",
+       "法的拘束力のある"
+      ]
+     ]
+    },
+    {
+     "w": "arbitrator",
+     "pos": "n.",
+     "ipa": "/ˈɑrbɪˌtreɪtər/",
+     "zh": "仲裁人",
+     "ja": "仲裁人",
+     "ex": "An independent arbitrator will decide how to settle the dispute.",
+     "ex_zh": "一名独立仲裁人将决定如何解决这场争议。",
+     "ex_ja": "独立した仲裁人が紛争の解決方法を決める。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "arbitration (n.)",
+       "仲裁",
+       "仲裁"
+      ],
+      [
+       "arbitrate (v.)",
+       "仲裁",
+       "仲裁する"
+      ]
+     ]
+    },
+    {
+     "w": "deposition",
+     "pos": "n.",
+     "ipa": "/ˌdɛpəˈzɪʃən/",
+     "zh": "（庭外）证词；宣誓作证",
+     "ja": "証言録取",
+     "ex": "The manager gave a deposition about the contract dispute.",
+     "ex_zh": "经理就合同纠纷作了证词陈述。",
+     "ex_ja": "部長は契約紛争について証言録取に応じた。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "take a deposition",
+       "录取证词",
+       "証言を録取する"
+      ],
+      [
+       "testimony (n.)",
+       "证词",
+       "証言"
+      ]
+     ],
+     "tip": {
+      "zh": "法律场景指“宣誓证词”，不要与 deposit（存款）混淆。",
+      "ja": "法律の場面では「宣誓証言」。deposit（預金）と混同しない。"
+     }
+    },
+    {
+     "w": "guarantor",
+     "pos": "n.",
+     "ipa": "/ˌɡɛrənˈtɔr/",
+     "zh": "担保人",
+     "ja": "保証人",
+     "ex": "The bank asked for a guarantor before approving the loan.",
+     "ex_zh": "银行在批准贷款前要求提供担保人。",
+     "ex_ja": "銀行は融資を承認する前に保証人を求めた。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "guarantee (v./n.)",
+       "保证",
+       "保証（する）"
+      ],
+      [
+       "act as guarantor",
+       "担任担保人",
+       "保証人になる"
+      ]
+     ]
+    },
+    {
+     "w": "assignee",
+     "pos": "n.",
+     "ipa": "/əˌsaɪˈni/",
+     "zh": "受让人",
+     "ja": "譲受人",
+     "ex": "The assignee takes over all rights under the original contract.",
+     "ex_zh": "受让人承接原合同下的全部权利。",
+     "ex_ja": "譲受人は元の契約に基づくすべての権利を引き継ぐ。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "assign (v.)",
+       "转让；分配",
+       "譲渡する；割り当てる"
+      ],
+      [
+       "assignor (n.)",
+       "让与人",
+       "譲渡人"
+      ]
+     ]
+    },
+    {
+     "w": "licensee",
+     "pos": "n.",
+     "ipa": "/ˌlaɪsənˈsi/",
+     "zh": "被许可人",
+     "ja": "ライセンス使用者",
+     "ex": "The licensee must pay royalties each quarter.",
+     "ex_zh": "被许可人必须每季度支付版税。",
+     "ex_ja": "ライセンス使用者は四半期ごとに使用料を支払わなければならない。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "licensor (n.)",
+       "许可人",
+       "ライセンス提供者"
+      ],
+      [
+       "license (v./n.)",
+       "许可",
+       "許可（する）"
+      ]
+     ]
+    },
+    {
+     "w": "licensor",
+     "pos": "n.",
+     "ipa": "/ˈlaɪsənsər/",
+     "zh": "许可方",
+     "ja": "ライセンス提供者",
+     "ex": "The licensor retains ownership of the software code.",
+     "ex_zh": "许可方保留软件代码的所有权。",
+     "ex_ja": "ライセンス提供者はソフトウェアのコードの所有権を保持する。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "licensee (n.)",
+       "被许可人",
+       "ライセンス使用者"
+      ],
+      [
+       "licensing agreement",
+       "许可协议",
+       "ライセンス契約"
+      ]
+     ]
+    },
+    {
+     "w": "rescind",
+     "pos": "v.",
+     "ipa": "/rɪˈsɪnd/",
+     "zh": "撤销；废除",
+     "ja": "取り消す；撤回する",
+     "ex": "The company rescinded the job offer after the background check.",
+     "ex_zh": "背景调查后，公司撤回了这份录用通知。",
+     "ex_ja": "身元調査の後、会社は内定を取り消した。",
+     "parts": [
+      [
+       "re-",
+       "回",
+       "元へ"
+      ],
+      [
+       "scind",
+       "切（拉丁语 scindere）",
+       "切る（ラテン語 scindere）"
+      ]
+     ],
+     "note": {
+      "zh": "re“回”+ scind“切”→ 切回去、切断 → 撤销。",
+      "ja": "re「元へ」+ scind「切る」→ 切って無効にする → 取り消す。"
+     },
+     "forms": [
+      [
+       "rescission (n.)",
+       "撤销",
+       "取消し"
+      ],
+      [
+       "rescind a decision",
+       "撤销决定",
+       "決定を覆す"
+      ]
+     ]
+    },
+    {
+     "w": "ratification",
+     "pos": "n.",
+     "ipa": "/ˌrætəfɪˈkeɪʃən/",
+     "zh": "批准；追认",
+     "ja": "批准；承認",
+     "ex": "The treaty requires ratification by the board before it takes effect.",
+     "ex_zh": "该协议需经董事会批准后方可生效。",
+     "ex_ja": "その協定は発効前に取締役会の承認を必要とする。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "ratify (v.)",
+       "批准",
+       "批准する"
+      ],
+      [
+       "require ratification",
+       "需要批准",
+       "承認を要する"
+      ]
+     ]
+    },
+    {
+     "w": "nondisclosure",
+     "pos": "adj.",
+     "ipa": "/ˌnɑndɪsˈkloʊʒər/",
+     "zh": "保密的",
+     "ja": "秘密保持の",
+     "ex": "Every new employee signs a nondisclosure agreement on the first day.",
+     "ex_zh": "每位新员工在第一天都要签署保密协议。",
+     "ex_ja": "新入社員は全員、初日に秘密保持契約に署名する。",
+     "parts": [
+      [
+       "non-",
+       "不",
+       "〜でない"
+      ],
+      [
+       "dis-",
+       "分开；除去",
+       "離して"
+      ],
+      [
+       "close",
+       "关闭；覆盖",
+       "閉じる"
+      ],
+      [
+       "-ure",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "non“不”+ disclosure“披露”（dis“去掉”+ close“封闭”）→ 不披露。",
+      "ja": "non「〜でない」+ disclosure「開示」（dis「外す」+ close「閉じる」）→ 開示しない。"
+     },
+     "forms": [
+      [
+       "nondisclosure agreement (NDA)",
+       "保密协议",
+       "秘密保持契約"
+      ],
+      [
+       "disclose (v.)",
+       "披露",
+       "開示する"
+      ]
+     ],
+     "tip": {
+      "zh": "NDA 是 TOEIC 常见缩写，指 nondisclosure agreement。",
+      "ja": "NDA は nondisclosure agreement の略で、TOEIC 頻出。"
+     },
+     "hl": "nondisclosure"
+    },
+    {
+     "w": "exclusivity",
+     "pos": "n.",
+     "ipa": "/ˌɛkskluˈsɪvəti/",
+     "zh": "独家性；排他性",
+     "ja": "独占性",
+     "ex": "The deal gives the retailer exclusivity for six months.",
+     "ex_zh": "这笔交易让零售商获得六个月的独家经营权。",
+     "ex_ja": "この契約により、小売業者は6か月間の独占権を得る。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "exclusive (adj.)",
+       "独家的",
+       "独占的"
+      ],
+      [
+       "exclusivity clause",
+       "排他条款",
+       "独占条項"
+      ]
+     ]
+    },
+    {
+     "w": "statutory",
+     "pos": "adj.",
+     "ipa": "/ˈstætʃəˌtɔri/",
+     "zh": "法定的",
+     "ja": "法定の",
+     "ex": "Employees are entitled to a statutory minimum number of vacation days.",
+     "ex_zh": "员工有权享有法定的最低休假天数。",
+     "ex_ja": "従業員は法定の最低休暇日数を受ける権利がある。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "statute (n.)",
+       "成文法",
+       "制定法"
+      ],
+      [
+       "statutory holiday",
+       "法定假日",
+       "法定休日"
+      ]
+     ]
+    },
+    {
+     "w": "penalize",
+     "pos": "v.",
+     "ipa": "/ˈpinəˌlaɪz/",
+     "zh": "处罚；使吃亏",
+     "ja": "罰する；不利に扱う",
+     "ex": "Late payments will be penalized with a five percent fee.",
+     "ex_zh": "逾期付款将被处以百分之五的罚金。",
+     "ex_ja": "支払い遅延には5パーセントの手数料が科される。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はないので、単語ごと覚える。"
+     },
+     "forms": [
+      [
+       "penalty (n.)",
+       "罚款；处罚",
+       "罰金"
+      ],
+      [
+       "be penalized for",
+       "因……受罚",
+       "〜で罰せられる"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

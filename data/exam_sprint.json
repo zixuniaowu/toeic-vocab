@@ -5542,6 +5542,411 @@
      "src": "site+ep32"
     }
    ]
+  },
+  "48": {
+   "date": "2026-11-20",
+   "focus_zh": "考后轻复习：Part 5 复习 8 题 + Part 7 两篇（Test 1 新题）",
+   "focus_ja": "試験後の軽い復習：Part 5 復習8問＋Part 7 の2題（Test 1 未学習）",
+   "grammar": [
+    {
+     "id": "T1-Q106",
+     "label": "Test 1 · Q106",
+     "test": 1,
+     "no": 106,
+     "part": 5,
+     "q": "City officials reported that the renovations to the public library have progressed -------.",
+     "options": [
+      "steadiest",
+      "steadiness",
+      "steady",
+      "steadily"
+     ],
+     "answer": "D",
+     "topic_zh": "词性",
+     "topic_ja": "品詞",
+     "tip_zh": "不及物动词后 → 副词 steadily",
+     "tip_ja": "自動詞の後 → 副詞 steadily",
+     "src": "ep51",
+     "exp_zh": "空格修饰不及物动词 have progressed，需要副词 steadily（稳步地），D正确。steadiest 是形容词最高级，steadiness 是名词，steady 是形容词。",
+     "exp_ja": "空所は自動詞 have progressed を修飾するので、副詞 steadily（着実に）が必要。Dが正解。steadiest は形容詞の最上級、steadiness は名詞、steady は形容詞。",
+     "vocab_zh": "official 官员；renovation 翻修；progress 进展",
+     "vocab_ja": "official 当局者；renovation 改修；progress 進捗する"
+    },
+    {
+     "id": "T1-Q115",
+     "label": "Test 1 · Q115",
+     "test": 1,
+     "no": 115,
+     "part": 5,
+     "q": "Following an ------- break of ten years, the band The Myth Riders will resume its live shows.",
+     "options": [
+      "extend",
+      "extended",
+      "extension",
+      "extending"
+     ],
+     "answer": "B",
+     "topic_zh": "词性",
+     "topic_ja": "品詞",
+     "tip_zh": "分词形容词 extended：an + 形容词 + break",
+     "tip_ja": "分詞形容詞 extended：an + 形容詞 + break",
+     "src": "ep51",
+     "exp_zh": "冠词 an 与名词 break 之间需要形容词，extended“长期的、延长的”，B正确。extend 是动词，extension 是名词，extending 是现在分词（表主动“正在延长”，不合语义）。",
+     "exp_ja": "冠詞 an と名詞 break の間には形容詞が必要。extended「長期の、延長された」が正解でB。extend は動詞、extension は名詞、extending は現在分詞（「延長している」という能動の意味になり文意に合わない）。",
+     "vocab_zh": "following 在…之后；break 中断，休息；resume 恢复",
+     "vocab_ja": "following ～の後で；break 中断、休止；resume 再開する"
+    },
+    {
+     "id": "T1-Q123",
+     "label": "Test 1 · Q123",
+     "test": 1,
+     "no": 123,
+     "part": 5,
+     "q": "The delivery company has ------- experienced delays when transporting goods from the factory in Newcastle.",
+     "options": [
+      "occasioned",
+      "occasional",
+      "occasionally",
+      "occasioning"
+     ],
+     "answer": "C",
+     "topic_zh": "词性",
+     "topic_ja": "品詞",
+     "tip_zh": "has + 副词 + 过去分词 → occasionally",
+     "tip_ja": "has + 副詞 + 過去分詞 → occasionally",
+     "src": "ep51",
+     "exp_zh": "has 与过去分词 experienced 之间（完成时中间）放副词，occasionally“偶尔”，C正确。occasional 是形容词，occasioned/occasioning 是动词形式。",
+     "exp_ja": "has と過去分詞 experienced の間（完了形の間）には副詞が入るので、occasionally「時折」が正解でC。occasional は形容詞、occasioned/occasioning は動詞の形。",
+     "vocab_zh": "experience delays 遭遇延误；transport goods 运输货物",
+     "vocab_ja": "experience delays 遅延に見舞われる；transport goods 商品を輸送する"
+    },
+    {
+     "id": "T2-Q108",
+     "label": "Test 2 · Q108",
+     "test": 2,
+     "no": 108,
+     "part": 5,
+     "q": "Reno is becoming a ------- place for technology companies to establish their headquarters.",
+     "options": [
+      "popular",
+      "popularity",
+      "popularly",
+      "popularize"
+     ],
+     "answer": "A",
+     "topic_zh": "词性",
+     "topic_ja": "品詞",
+     "tip_zh": "a + 形容词 + 名词 place → popular",
+     "tip_ja": "a + 形容詞 + 名詞 place → popular",
+     "src": "ep51",
+     "exp_zh": "Test 2 第108题，和上一题同一个位置。空格在冠词 a 和名词 place 之间，要形容词，选A popular，“受欢迎的”。意思是：里诺正在成为科技公司设立总部的热门地点。B popularity 是名词“受欢迎程度”，C popularly 是副词，D popularize 是动词“使普及”。词尾帮你判断词性：ity 多是名词，ly 多是副词，ize 多是动词。",
+     "exp_ja": "Test 2 第108問は前の問題と同じ位置です。空所は冠詞 a と名詞 place の間なので形容詞が必要で、正解はA popular「人気のある」です。意味は「リノは、テクノロジー企業が本社を置く人気の場所になりつつある」。B popularity は名詞「人気」、C popularly は副詞、D popularize は動詞「普及させる」です。語尾が品詞を見分けるヒントになります。ity は名詞、ly は副詞、ize は動詞であることが多いです。"
+    },
+    {
+     "id": "T2-Q126",
+     "label": "Test 2 · Q126",
+     "test": 2,
+     "no": 126,
+     "part": 5,
+     "q": "Our consultants agree that a steep initial discount will provide enough ------- for customers to join the shopping club.",
+     "options": [
+      "motivate",
+      "motivation",
+      "motivates",
+      "motivator"
+     ],
+     "answer": "B",
+     "topic_zh": "词性",
+     "topic_ja": "品詞",
+     "tip_zh": "enough + 不可数名词 motivation",
+     "tip_ja": "enough + 不可算名詞 motivation",
+     "src": "ep51",
+     "exp_zh": "Test 2 第126题。空格前面是 provide enough，enough 后面接名词，表示“足够的什么”，再后面是 for customers to join，“让顾客加入”。名词有两个：B motivation“动力、积极性”和D motivator“激励者、激励因素”。motivator 是可数名词，单数前面需要冠词，而且意思是人或东西；这里说的是“足够的动力”，用不可数名词 motivation，选B。意思是：我们的顾问都认为，开头给一个大幅折扣，会给顾客足够的动力加入购物俱乐部。A motivate 和C motivates 是动词。",
+     "exp_ja": "Test 2 第126問。空所の前は provide enough で、enough の後には名詞が来て「十分な何か」を表します。その後ろは for customers to join「客が入会するための」です。名詞は2つあり、B motivation「動機、意欲」と D motivator「動機を与える人・もの」です。motivator は可算名詞で、単数なら冠詞が必要ですし、意味も人や物になります。ここは「十分な動機」なので、不可算名詞の motivation、正解はBです。意味は「当社のコンサルタントは、最初に大幅な割引をすれば、客がショッピングクラブに入会する十分な動機になるという意見で一致している」。A motivate と C motivates は動詞です。"
+    },
+    {
+     "id": "T3-Q104",
+     "label": "Test 3 · Q104",
+     "test": 3,
+     "no": 104,
+     "part": 5,
+     "q": "Mr. Mansour ------- predicted the consumer demand for new coffee products.",
+     "options": [
+      "correct",
+      "correcting",
+      "corrects",
+      "correctly"
+     ],
+     "answer": "D",
+     "topic_zh": "词性",
+     "topic_ja": "品詞",
+     "tip_zh": "主语和谓语动词之间 → 副词 correctly",
+     "tip_ja": "主語と述語動詞の間 → 副詞 correctly",
+     "src": "ep51",
+     "exp_zh": "【解析册 p.181】空格在主语 Mr. Mansour 和动词 predicted 之间，修饰动词需要副词，选 (D) correctly（准确地）。",
+     "exp_ja": "【解説冊子 p.181】主語と動詞 predicted の間で動詞を修飾するので副詞 (D) correctly（正確に）。",
+     "vocab_zh": [
+      "predict 预测",
+      "consumer demand 消费者需求"
+     ],
+     "vocab_ja": [
+      "predict 予測する",
+      "consumer demand 消費者需要"
+     ]
+    },
+    {
+     "id": "T3-Q108",
+     "label": "Test 3 · Q108",
+     "test": 3,
+     "no": 108,
+     "part": 5,
+     "q": "Employees are encouraged to update ------- in the shared calendar to avoid scheduling conflicts.",
+     "options": [
+      "appointing",
+      "appointments",
+      "appointed",
+      "appoint"
+     ],
+     "answer": "B",
+     "topic_zh": "词性",
+     "topic_ja": "品詞",
+     "tip_zh": "及物动词 update + 宾语名词 appointments",
+     "tip_ja": "他動詞 update + 目的語の名詞 appointments",
+     "src": "ep51",
+     "exp_zh": "update 是及物动词，空格作宾语需要名词，选 (B) appointments（预约、约会）。",
+     "exp_ja": "他動詞 update の目的語なので名詞 (B) appointments（予定、約束）。",
+     "vocab_zh": [
+      "scheduling conflict 日程冲突"
+     ],
+     "vocab_ja": [
+      "scheduling conflict 予定の重複"
+     ]
+    },
+    {
+     "id": "T3-Q110",
+     "label": "Test 3 · Q110",
+     "test": 3,
+     "no": 110,
+     "part": 5,
+     "q": "Connie's Adhesives is best known for manufacturing ------- multipurpose glues for automotive use.",
+     "options": [
+      "excel",
+      "excellent",
+      "excelled",
+      "excels"
+     ],
+     "answer": "B",
+     "topic_zh": "词性",
+     "topic_ja": "品詞",
+     "tip_zh": "形容词修饰名词短语 multipurpose glues → excellent",
+     "tip_ja": "形容詞が名詞句 multipurpose glues を修飾 → excellent",
+     "src": "ep51",
+     "exp_zh": "空格修饰名词 multipurpose glues，需要形容词，选 (B) excellent（优秀的）。",
+     "exp_ja": "名詞 multipurpose glues を修飾する形容詞が必要。(B) excellent。",
+     "vocab_zh": [
+      "adhesive 黏合剂",
+      "multipurpose 多用途的"
+     ],
+     "vocab_ja": [
+      "adhesive 接着剤",
+      "multipurpose 多目的の"
+     ]
+    }
+   ],
+   "reading": [
+    {
+     "id": "T1-Q155-157",
+     "label": "Test 1 · Q155–157",
+     "test": 1,
+     "part": 7,
+     "intro": "Questions 155-157 refer to the following Web page.",
+     "docs": [
+      [
+       {
+        "t": "meta",
+        "rows": [
+         [
+          "URL",
+          "https://www.taoblar.com/features"
+         ],
+         [
+          "Tabs",
+          "History | Features (selected) | Shop | Contact Us"
+         ]
+        ]
+       },
+       {
+        "t": "p",
+        "x": "A well-designed desk lamp is vital for any workspace, whether at home or in the office. Yet people tend to buy lamps without much thought, and some will undoubtedly settle on a less-than-ideal lighting solution. We think that with a bit of planning, however, consumers can avoid wasting their money and being disappointed with poor products."
+       },
+       {
+        "t": "p",
+        "x": "Every product manufactured by Taoblar, Inc., is fully adjustable to direct light where needed. The Model TT-1, for example, is our most compact lamp and is designed specifically for small or narrow computer desks. It has a very focused light, while Models TT-2 and TT-3 are intended for larger workspaces and thus cast a wider beam. Furthermore, all Taoblar, Inc., lamps are dimmable and have a simple knob for controlling the lamp's brightness to whatever degree the user wishes. This helps avoid eyestrain and fatigue."
+       },
+       {
+        "t": "p",
+        "x": "Our lamps have become mainstays in all types of workplaces. Recently, a panel of top design specialists examined the features of our product line and concluded that Taoblar, Inc., was worthy of their Excellence in Design award. To view all our offerings, visit our Shop page."
+       }
+      ]
+     ],
+     "questions": [
+      {
+       "no": 155,
+       "label": "Test 1 · Q155",
+       "q": "What does the Web page describe?",
+       "options": [
+        "Assembly instructions for computer workstations",
+        "An awards celebration for industrial design",
+        "The desirable aspects of Taoblar, Inc., products",
+        "The process Taoblar, Inc., uses to manufacture its products"
+       ],
+       "answer": "C",
+       "exp_zh": "这是 Features（特色）页面，介绍台灯可调节、可调光、防眼疲劳等优点，即产品的理想特性，C正确。没有组装说明(A)；奖项只是一句提及，没有颁奖典礼(B)；没讲生产流程(D)。",
+       "exp_ja": "これは Features（特長）のページで、デスクライトの高さ調整、調光、目の疲れ防止などの利点を紹介しているので、製品の望ましい特長がテーマ。Cが正解。組み立て説明はない（A）。賞については一言触れているだけで授賞式はない（B）。製造工程は説明していない（D）。"
+      },
+      {
+       "no": 156,
+       "label": "Test 1 · Q156",
+       "q": "What is suggested about the Model TT-1?",
+       "options": [
+        "It is based on a well-known work of art.",
+        "It is currently out of stock.",
+        "It is the company's best-selling product.",
+        "It is the smallest model the company makes."
+       ],
+       "answer": "D",
+       "exp_zh": "TT-1 is our most compact lamp（最紧凑的台灯），专为窄小桌面设计，即公司最小的型号，D正确。没有提艺术品(A)、缺货(B)或最畅销(C)。",
+       "exp_ja": "TT-1 is our most compact lamp（当社で最もコンパクトなライト）で、狭い机向けに設計されている。会社で最も小さいモデルということなので、Dが正解。美術品（A）、在庫切れ（B）、一番の売れ筋（C）には触れていない。"
+      },
+      {
+       "no": 157,
+       "label": "Test 1 · Q157",
+       "q": "What is indicated about Taoblar, Inc.?",
+       "options": [
+        "Its products have earned industry recognition.",
+        "Its products are known for their durability.",
+        "It recently redesigned an important lighting component.",
+        "It plans to open more stores in other regions."
+       ],
+       "answer": "A",
+       "exp_zh": "顶级设计专家小组认定该公司配得上 Excellence in Design award（卓越设计奖），即产品获得业界认可，A正确。没有提耐用性(B)、重新设计部件(C)或开新店(D)。",
+       "exp_ja": "一流のデザイン専門家の審査団が、同社は Excellence in Design award（優秀デザイン賞）にふさわしいと認めている。製品が業界で評価されたということなので、Aが正解。耐久性（B）、部品の再設計（C）、新店舗の開店（D）には触れていない。"
+      }
+     ],
+     "src": "site+ep12"
+    },
+    {
+     "id": "T1-Q164-167",
+     "label": "Test 1 · Q164–167",
+     "test": 1,
+     "part": 7,
+     "intro": "Questions 164-167 refer to the following e-mail.",
+     "docs": [
+      [
+       {
+        "t": "meta",
+        "rows": [
+         [
+          "To",
+          "Film Chat Distribution List"
+         ],
+         [
+          "From",
+          "<newsletter@filmchat.ca>"
+         ],
+         [
+          "Date",
+          "October 17"
+         ],
+         [
+          "Subject",
+          "Daily film chat"
+         ]
+        ]
+       },
+       {
+        "t": "p",
+        "x": "Dear Film Chat Friends,"
+       },
+       {
+        "t": "p",
+        "x": "Today's spotlight is on an early Peter Kucharsky film. In the past decade, Kucharsky has directed intense action films such as *Billion Dollar Rescue* and *Far Space Adventure*. These successes have established Kucharsky's reputation. But before directing blockbusters, Kucharsky explored other film genres."
+       },
+       {
+        "t": "p",
+        "x": "His first film from fifteen years ago, *Snow Song*, is a family drama. It tells the story of an older shop owner, played by Anna Bednarska, who lives with her bright and creative grandson, portrayed by actor and musician Bratan Malinowski. One day, while reading a book, the grandson comes across a poem that has a profound effect on him. In fact, it transforms both his and his grandmother's lives."
+       },
+       {
+        "t": "p",
+        "x": "The subject matter is completely different from that of Kucharsky's later films. And yet, we can already see Kucharsky's talent for making films that evoke emotion. Grandmother and grandson have occasional misunderstandings, but these are offset with moments of obvious love and devotion. Also noticeable is the director's ability to bring a touch of humor to all situations."
+       },
+       {
+        "t": "p",
+        "x": "To view this softer side of Kucharsky, be sure to check out a special matinee of *Snow Song* at the Bijou Film Festival this coming Saturday at 12 noon."
+       }
+      ]
+     ],
+     "questions": [
+      {
+       "no": 164,
+       "label": "Test 1 · Q164",
+       "q": "According to the e-mail, what is Peter Kucharsky known for?",
+       "options": [
+        "Acting in plays",
+        "Directing movies",
+        "Composing music",
+        "Publishing journalism"
+       ],
+       "answer": "B",
+       "exp_zh": "Kucharsky has directed intense action films... established Kucharsky's reputation，他以导演电影成名，B正确。演员是 Bednarska 和 Malinowski(A)；音乐人是 Malinowski(C)；Film Chat 是发新闻通讯的一方(D)。",
+       "exp_ja": "Kucharsky has directed intense action films... established Kucharsky's reputation とあり、彼は映画監督として名を上げたので、Bが正解。俳優は Bednarska と Malinowski（A）、ミュージシャンは Malinowski（C）、Film Chat はニュースレターを発行する側（D）。"
+      },
+      {
+       "no": 165,
+       "label": "Test 1 · Q165",
+       "q": "In the film Snow Song, what causes a change in the main characters' lives?",
+       "options": [
+        "A business failure",
+        "A family celebration",
+        "A work of literature",
+        "A misunderstanding"
+       ],
+       "answer": "C",
+       "exp_zh": "孙子读书时偶然读到一首诗，这首诗改变了他和祖母的生活（transforms both his and his grandmother's lives），诗是文学作品，C正确。没有生意失败(A)或家庭庆典(B)；误会只是偶尔出现，并非转折原因(D)。",
+       "exp_ja": "孫が読書中に偶然1編の詩を見つけ、その詩が彼と祖母の人生を変える（transforms both his and his grandmother's lives）。詩は文学作品なので、Cが正解。事業の失敗（A）や家族の祝い事（B）はなく、誤解はときどき起こるだけで転機の原因ではない（D）。"
+      },
+      {
+       "no": 166,
+       "label": "Test 1 · Q166",
+       "q": "Who is Bratan Malinowski?",
+       "options": [
+        "A performer",
+        "A newsletter subscriber",
+        "A boy's grandfather",
+        "A shop's owner"
+       ],
+       "answer": "A",
+       "exp_zh": "portrayed by actor and musician Bratan Malinowski，他是演员兼音乐人（饰演孙子），即表演者，A正确。店主祖母由 Bednarska 饰演(D)；片中没有祖父(C)；订阅者是收件人(B)。",
+       "exp_ja": "portrayed by actor and musician Bratan Malinowski とあり、彼は俳優兼ミュージシャン（孫役）で、演じる人なので、Aが正解。店主の祖母を演じるのは Bednarska（D）。作中に祖父は登場しない（C）。購読者はメールの受信者（B）。"
+      },
+      {
+       "no": 167,
+       "label": "Test 1 · Q167",
+       "q": "The word \"softer\" in paragraph 4, line 1, is closest in meaning to",
+       "options": [
+        "newer",
+        "smoother",
+        "quieter",
+        "gentler"
+       ],
+       "answer": "D",
+       "exp_zh": "this softer side of Kucharsky 指他不同于激烈动作片的、温情的一面（家庭剧、亲情、幽默），soft 在此意为“温和的”，gentler 正确。newer“更新的”与“早期作品”相反；smoother“更光滑”指质地；quieter“更安静”指声音。",
+       "exp_ja": "this softer side of Kucharsky は、激しいアクション映画とは違う、彼の温かみのある一面（家族ドラマ、肉親の情、ユーモア）を指し、soft はここでは「穏やかな」の意味。gentler が正解。newer「より新しい」は「初期作品」と逆、smoother「より滑らかな」は質感、quieter「より静かな」は音について言う語。"
+      }
+     ],
+     "src": "site+ep15"
+    }
+   ]
   }
  },
  "warmup": {
