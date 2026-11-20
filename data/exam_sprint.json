@@ -5947,6 +5947,417 @@
      "src": "site+ep15"
     }
    ]
+  },
+  "49": {
+   "date": "2026-11-21",
+   "focus_zh": "考后轻复习：Part 5 复习 8 题 + Part 7 两篇（Test 1 新题）",
+   "focus_ja": "試験後の軽い復習：Part 5 復習8問＋Part 7 の2題（Test 1 未学習）",
+   "grammar": [
+    {
+     "id": "T1-Q102",
+     "label": "Test 1 · Q102",
+     "test": 1,
+     "no": 102,
+     "part": 5,
+     "q": "Dr. Ko ------- his partners have a special interest in rehabilitative medicine.",
+     "options": [
+      "and",
+      "but",
+      "so",
+      "both"
+     ],
+     "answer": "A",
+     "topic_zh": "介词 vs 连词",
+     "topic_ja": "前置詞 vs 接続詞",
+     "tip_zh": "连接两个名词作主语 + 复数动词 have → and",
+     "tip_ja": "2つの名詞をつないで主語に + 複数の動詞 have → and",
+     "src": "ep53",
+     "exp_zh": "主语“Dr. Ko ___ his partners”连接两个名词，动词用复数 have，说明是并列主语“A and B”，A正确。but/so 不连接这种复数主语，both 需写成 both A and B。",
+     "exp_ja": "主語「Dr. Ko ___ his partners」は2つの名詞をつなぎ、動詞が複数形の have なので、「A and B」の並列主語だとわかる。Aが正解。but/so はこのような複数主語を作らず、both は both A and B の形が必要。",
+     "vocab_zh": "partner 合伙人；rehabilitative medicine 康复医学",
+     "vocab_ja": "partner 共同経営者；rehabilitative medicine リハビリテーション医学"
+    },
+    {
+     "id": "T1-Q111",
+     "label": "Test 1 · Q111",
+     "test": 1,
+     "no": 111,
+     "part": 5,
+     "q": "New residents should contact the Ewing Water Department ------- by e-mail or phone to activate their account.",
+     "options": [
+      "than",
+      "either",
+      "besides",
+      "as if"
+     ],
+     "answer": "B",
+     "topic_zh": "介词 vs 连词",
+     "topic_ja": "前置詞 vs 接続詞",
+     "tip_zh": "看到后面的 or → 成对连词 either A or B",
+     "tip_ja": "後ろの or に注目 → 相関接続詞 either A or B",
+     "src": "ep53",
+     "exp_zh": "与后面的 or 构成 either A or B“要么…要么…”，B正确。than 用于比较，besides“除…之外”，as if“好像”，都不能与 or 搭配。",
+     "exp_ja": "後ろの or と組み合わせて either A or B「AかBのどちらか」となるので、Bが正解。than は比較、besides は「～に加えて」、as if は「まるで～のように」で、いずれも or と組み合わせられない。",
+     "vocab_zh": "contact 联系；activate an account 激活账户",
+     "vocab_ja": "contact 連絡する；activate an account アカウントを有効にする"
+    },
+    {
+     "id": "T1-Q112",
+     "label": "Test 1 · Q112",
+     "test": 1,
+     "no": 112,
+     "part": 5,
+     "q": "Applications for the software engineer position ------- online at vntsystems.net.",
+     "options": [
+      "submitted",
+      "are submitting",
+      "must submit",
+      "must be submitted"
+     ],
+     "answer": "D",
+     "topic_zh": "时态 · 语态",
+     "topic_ja": "時制 · 態",
+     "tip_zh": "申请“被提交” → 被动；后无宾语 → must be submitted",
+     "tip_ja": "申請書は「提出される」→ 受動態；目的語なし → must be submitted",
+     "src": "ep52",
+     "exp_zh": "主语 Applications（申请）是被提交的对象，需用被动语态，must be submitted 正确。submitted 单独作谓语是主动过去式，are submitting 和 must submit 都是主动，后面也缺宾语。",
+     "exp_ja": "主語 Applications（応募書類）は提出される側なので受動態が必要。must be submitted が正解。submitted 単独では能動の過去形になり、are submitting と must submit も能動態で、しかも目的語が欠けている。",
+     "vocab_zh": "application 申请；position 职位；submit 提交",
+     "vocab_ja": "application 応募（書類）；position 職；submit 提出する"
+    },
+    {
+     "id": "T2-Q106",
+     "label": "Test 2 · Q106",
+     "test": 2,
+     "no": 106,
+     "part": 5,
+     "q": "All silverware orders ------- before midnight tonight will be shipped free of charge.",
+     "options": [
+      "place",
+      "places",
+      "placed",
+      "is placing"
+     ],
+     "answer": "C",
+     "topic_zh": "时态 · 语态",
+     "topic_ja": "時制 · 態",
+     "tip_zh": "已有谓语 will be shipped → 过去分词作后置定语 placed（= that are placed）",
+     "tip_ja": "述語 will be shipped がある → 過去分詞の後置修飾 placed（= that are placed）",
+     "src": "ep52",
+     "exp_zh": "第三组，句子已经有谓语了，空格就不能再放谓语，要用非谓语形式。Test 2 第106题。主语是 All silverware orders，“所有银餐具订单”，空格后面 before midnight tonight，“今晚午夜前”，然后是 will be shipped free of charge，“将免运费发货”。will be shipped 就是整个句子的谓语，所以A place、B places、D is placing 这些谓语形式都不行。空格要修饰 orders：订单是“被下的”，place an order 是“下订单”，订单和 place 是被动关系，用过去分词C placed 放在名词后面，相当于 orders that are placed，“被下的订单”。整句意思是：今晚午夜前下的所有银餐具订单都免运费。一个句子一般只有一个谓语，看到已经有谓语，就在分词、不定式里选。",
+     "exp_ja": "3つ目のグループは、文にすでに述語がある場合です。そのときは空所に述語は入らず、述語以外の形を使います。Test 2 第106問。主語は All silverware orders「銀食器の注文すべて」、空所の後ろは before midnight tonight「今夜0時までに」、そして will be shipped free of charge「送料無料で発送される」が続きます。この will be shipped が文全体の述語なので、A place、B places、D is placing のような述語の形はどれも入りません。空所は orders を修飾します。注文は「出される」ものです。place an order は「注文する」で、注文と place は受け身の関係なので、過去分詞のC placed を名詞の後ろに置きます。orders that are placed「出された注文」と同じ意味です。文全体の意味は「今夜0時までに出された銀食器の注文は、すべて送料無料で発送される」です。1つの文には普通、述語は1つだけです。すでに述語があれば、分詞や不定詞の中から選びましょう。"
+    },
+    {
+     "id": "T2-Q110",
+     "label": "Test 2 · Q110",
+     "test": 2,
+     "no": 110,
+     "part": 5,
+     "q": "Read the application guidelines carefully ------- submitting your résumé and cover letter.",
+     "options": [
+      "over",
+      "within",
+      "before",
+      "across"
+     ],
+     "answer": "C",
+     "topic_zh": "介词 vs 连词",
+     "topic_ja": "前置詞 vs 接続詞",
+     "tip_zh": "后面是动名词 submitting → 介词 before（“提交之前”）",
+     "tip_ja": "後ろが動名詞 submitting → 前置詞 before（「提出する前に」）",
+     "src": "ep53",
+     "exp_zh": "Test 2 第110题。Read the application guidelines carefully，“请仔细阅读申请须知”，空格后面是 submitting your résumé and cover letter，“提交简历和求职信”。submitting 是动名词，相当于名词，前面用介词。四个选项都是介词，所以看意思：先看须知，再交材料，“在提交之前”，选C before。A over“在……上方、超过”，B within“在……之内”，D across“横穿、遍及”，都表达不了时间先后。before 和 after 很特别，既能当介词，后面接名词或动名词，也能当连词，后面接句子，比如 before you submit your résumé 也对。résumé 是“简历”，cover letter 是“求职信”。",
+     "exp_ja": "Test 2 第110問。Read the application guidelines carefully「応募要項をよく読んでください」、空所の後ろは submitting your résumé and cover letter「履歴書とカバーレターを提出すること」です。submitting は動名詞で名詞と同じ働きをするので、前には前置詞を置きます。選択肢は4つとも前置詞なので意味で選びます。まず要項を読み、それから書類を出す、「提出する前に」なので、正解はC before です。A over「…の上に、…を超えて」、B within「…以内に」、D across「…を横切って、…全体に」は、どれも時間の前後を表せません。before と after は特別で、前置詞として名詞や動名詞を続けることも、接続詞として文を続けることもできます。たとえば before you submit your résumé も正しい形です。résumé は「履歴書」、cover letter は「カバーレター、添え状」です。"
+    },
+    {
+     "id": "T2-Q114",
+     "label": "Test 2 · Q114",
+     "test": 2,
+     "no": 114,
+     "part": 5,
+     "q": "The director of product marketing is confident ------- brand awareness in the eastern region will continue to grow.",
+     "options": [
+      "that",
+      "also",
+      "about",
+      "of"
+     ],
+     "answer": "A",
+     "topic_zh": "介词 vs 连词",
+     "topic_ja": "前置詞 vs 接続詞",
+     "tip_zh": "be confident + 完整句子 → 连词 that（about / of 后面只能接名词）",
+     "tip_ja": "be confident + 完全な文 → 接続詞 that（about / of の後ろは名詞だけ）",
+     "src": "ep53",
+     "exp_zh": "Test 2 第114题，最后一题是介词和连词的正面对决。The director of product marketing is confident，“产品营销总监很有信心”，空格后面是 brand awareness in the eastern region will continue to grow，主语 brand awareness，“品牌知名度”，谓语 will continue to grow，“会继续增长”，是完整的句子。C about 和D of 是介词，be confident of 和 be confident about 后面只能接名词，比如 be confident of success，不能接整个句子；B also 是副词。所以用连词 that，be confident that 加句子，“确信……”，选A。整句意思是：产品营销总监确信，东部地区的品牌知名度会继续提升。同样的道理，because 后面接句子，because of 后面接名词；although 接句子，despite 接名词。",
+     "exp_ja": "Test 2 第114問、最後は前置詞と接続詞の直接対決です。The director of product marketing is confident「製品マーケティング部長は自信を持っている」、空所の後ろは brand awareness in the eastern region will continue to grow で、主語は brand awareness「ブランド認知度」、述語は will continue to grow「伸び続ける」の完全な文です。C about と D of は前置詞で、be confident of や be confident about の後ろには be confident of success のように名詞しか置けず、文を丸ごと続けることはできません。B also は副詞です。ですから接続詞 that を使い、be confident that と文で「…と確信している」となり、正解はAです。文全体の意味は「製品マーケティング部長は、東部地域でのブランド認知度が伸び続けると確信している」です。同じ考え方で、because の後ろは文、because of の後ろは名詞、although の後ろは文、despite の後ろは名詞です。"
+    },
+    {
+     "id": "T3-Q113",
+     "label": "Test 3 · Q113",
+     "test": 3,
+     "no": 113,
+     "part": 5,
+     "q": "Employees must notify the human resources department of any address changes ------- ten days of moving.",
+     "options": [
+      "since",
+      "under",
+      "before",
+      "within"
+     ],
+     "answer": "D",
+     "topic_zh": "介词 vs 连词",
+     "topic_ja": "前置詞 vs 接続詞",
+     "tip_zh": "固定搭配 within ten days of + 动名词（搬家后十天内）",
+     "tip_ja": "決まった形 within ten days of + 動名詞（引っ越してから10日以内）",
+     "src": "ep53",
+     "exp_zh": "within ten days of moving“搬家后十天内”。介词 of 引出起点，只有 within 能构成此结构，选 (D)。",
+     "exp_ja": "within ten days of ...「～から10日以内に」。of と結びつくのは within。(D)。",
+     "vocab_zh": [
+      "notify A of B 通知 A 关于 B"
+     ],
+     "vocab_ja": [
+      "notify A of B A に B を知らせる"
+     ]
+    },
+    {
+     "id": "T3-Q123",
+     "label": "Test 3 · Q123",
+     "test": 3,
+     "no": 123,
+     "part": 5,
+     "q": "It is possible to buy repurposed construction components, ------- it is not recommended.",
+     "options": [
+      "then",
+      "similarly",
+      "because",
+      "though"
+     ],
+     "answer": "D",
+     "topic_zh": "介词 vs 连词",
+     "topic_ja": "前置詞 vs 接続詞",
+     "tip_zh": "两个完整句子 + 让步（可以买，但不推荐）→ 连词 though",
+     "tip_ja": "2つの完全な文 + 譲歩（買えるが勧められない）→ 接続詞 though",
+     "src": "ep53",
+     "exp_zh": "“可以买……，尽管不推荐”是让步关系，连接两个分句用连词 though，选 (D)。",
+     "exp_ja": "「買うことはできるが、推奨はされない」という譲歩関係。接続詞 though (D)。",
+     "vocab_zh": [
+      "repurposed 改作他用的，回收再利用的"
+     ],
+     "vocab_ja": [
+      "repurposed 再利用された"
+     ]
+    }
+   ],
+   "reading": [
+    {
+     "id": "T1-Q161-163",
+     "label": "Test 1 · Q161–163",
+     "test": 1,
+     "part": 7,
+     "intro": "Questions 161-163 refer to the following e-mail.",
+     "docs": [
+      [
+       {
+        "t": "meta",
+        "rows": [
+         [
+          "To",
+          "Angelina Noboa"
+         ],
+         [
+          "From",
+          "Oliver Robinson"
+         ],
+         [
+          "Subject",
+          "Information"
+         ],
+         [
+          "Date",
+          "1 October"
+         ],
+         [
+          "Attachment",
+          "Robinson book 1"
+         ]
+        ]
+       },
+       {
+        "t": "p",
+        "x": "Dear Angelina,"
+       },
+       {
+        "t": "p",
+        "x": "As a member of the Employee Wellness Committee, you know that we recently started a walking club here at Walbourne Manufacturing. You will be pleased to know that 32 employees have already signed up! —[1]—. A group walk is planned for 16 October, and we might get even more walkers to join before then. —[2]—. The group is planning to meet in the cafeteria as the starting point for the walk."
+       },
+       {
+        "t": "p",
+        "x": "Since you were unable to attend the last meeting, I also wanted to let you know that the committee has decided to create a cookbook containing healthy recipes submitted by employees. The recipes could be collected on an internal Web site. —[3]—. Alternatively, we could have the recipes printed and bound as a book, which we could then sell as a fund-raiser. —[4]—. I've attached a proposal to send to managers for approval. Let me know what you think!"
+       },
+       {
+        "t": "sign",
+        "x": "Sincerely,\n\nOliver"
+       }
+      ]
+     ],
+     "questions": [
+      {
+       "no": 161,
+       "label": "Test 1 · Q161",
+       "q": "Why did Mr. Robinson send the e-mail to Ms. Noboa?",
+       "options": [
+        "To ask her to join a club",
+        "To invite her to attend a fund-raiser",
+        "To provide an update on committee activities",
+        "To inform her that she has won a contest"
+       ],
+       "answer": "C",
+       "exp_zh": "她本身是委员会成员，邮件告知健步走俱乐部报名情况和她缺席的会议上决定的食谱书计划，即通报委员会的最新动态，C正确。没有邀请她入会(A)；募捐只是可能的方案(B)；没有比赛(D)。",
+       "exp_ja": "受信者はもともと委員会のメンバーで、メールはウォーキングクラブの申し込み状況と、彼女が欠席した会議で決まったレシピ本の計画を伝えている。委員会の最新状況の報告なので、Cが正解。入会の勧誘ではなく（A）、募金は検討中の案の1つにすぎず（B）、コンテストはない（D）。"
+      },
+      {
+       "no": 162,
+       "label": "Test 1 · Q162",
+       "q": "What is scheduled to take place on October 16?",
+       "options": [
+        "A book reading",
+        "An online party",
+        "An exercise event",
+        "A planning meeting"
+       ],
+       "answer": "C",
+       "exp_zh": "A group walk is planned for 16 October（10月16日集体健步走），走路属于运动活动，C正确。书是食谱计划(A)；网站是收集食谱用的(B)；不是策划会议(D)。",
+       "exp_ja": "A group walk is planned for 16 October（10月16日に集団ウォーキングを予定）とあり、ウォーキングは運動のイベントなので、Cが正解。本はレシピの計画（A）、ウェブサイトはレシピを集めるためのもの（B）、企画会議ではない（D）。"
+      },
+      {
+       "no": 163,
+       "label": "Test 1 · Q163",
+       "q": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? \"Books always make great gifts for friends and family.\"",
+       "options": [
+        "[1]",
+        "[2]",
+        "[3]",
+        "[4]"
+       ],
+       "answer": "D",
+       "exp_zh": "插入句说“书一直是送亲友的好礼物”，应放在“把食谱印刷装订成书作为募捐出售”之后，说明书会好卖，[4]正确。[1][2]在谈健步走；[3]在谈网站收集食谱，还没提到印成书。",
+       "exp_ja": "挿入文「本は昔から友人や家族への良い贈り物になる」は、「レシピを印刷・製本して本にし、募金のために販売する」の後に置くと、本がよく売れる理由の説明になる。[4]が正解。[1][2]はウォーキングの話、[3]はウェブサイトでのレシピ収集の話で、まだ本にすることに触れていない。"
+      }
+     ],
+     "src": "site+ep14"
+    },
+    {
+     "id": "T1-Q168-171",
+     "label": "Test 1 · Q168–171",
+     "test": 1,
+     "part": 7,
+     "intro": "Questions 168-171 refer to the following memo.",
+     "docs": [
+      [
+       {
+        "t": "title",
+        "x": "MEMO"
+       },
+       {
+        "t": "meta",
+        "rows": [
+         [
+          "To",
+          "All Nanvero Employees"
+         ],
+         [
+          "From",
+          "Clive Bataya, President"
+         ],
+         [
+          "Date",
+          "April 18"
+         ],
+         [
+          "Subject",
+          "New sabbatical-leave benefit"
+         ]
+        ]
+       },
+       {
+        "t": "p",
+        "x": "Nanvero is pleased to introduce our new sabbatical-leave program. Employees become eligible after ten years of service and can apply for up to six weeks of leave. Nanvero is offering staff members 50 percent of their usual salary while taking sabbatical."
+       },
+       {
+        "t": "p",
+        "x": "Sabbaticals free employees to engage in activities they normally would be unable to pursue. —[1]—. These may include traveling, especially overseas; volunteering, especially on extended projects or in another country; researching topics of interest or relevance to their careers; studying or training to advance or change careers; or pursuing arts-related activities, such as writing or painting."
+       },
+       {
+        "t": "p",
+        "x": "—[2]—. Advance requests will enable your supervisor to arrange coverage for your job while you are away. You may use available Paid Time Off (PTO) days to extend your sabbatical."
+       },
+       {
+        "t": "p",
+        "x": "We sincerely hope this new benefit will show our appreciation for our veteran employees. —[3]—. Visit the Human Resources tab of the Nanvero employee intranet for a complete set of rules and to access the sabbatical request form. The form must be completed online and submitted electronically. —[4]—."
+       }
+      ]
+     ],
+     "questions": [
+      {
+       "no": 168,
+       "label": "Test 1 · Q168",
+       "q": "What is one expectation of staff who ask to take sabbatical leave?",
+       "options": [
+        "They should be willing to receive reduced pay during this period.",
+        "They should agree not to work for any other company while on leave.",
+        "They should submit a report when they return from their sabbatical.",
+        "They should occasionally check in with management while out on leave."
+       ],
+       "answer": "A",
+       "exp_zh": "休假期间公司只支付平时工资的50%（50 percent of their usual salary），员工需接受减薪，A正确。文中没有禁止为其他公司工作(B)、回来交报告(C)或定期与管理层联系(D)。",
+       "exp_ja": "休暇中、会社は通常の給与の50%（50 percent of their usual salary）しか支払わないので、社員は減給を受け入れる必要がある。Aが正解。他社で働くことの禁止（B）、復帰後の報告書提出（C）、経営陣との定期的な連絡（D）は書かれていない。"
+      },
+      {
+       "no": 169,
+       "label": "Test 1 · Q169",
+       "q": "What is NOT mentioned as a reason for a sabbatical request?",
+       "options": [
+        "Conducting research",
+        "Traveling internationally",
+        "Advancing professional skills",
+        "Spending time with family members"
+       ],
+       "answer": "D",
+       "exp_zh": "列举的活动有：出国旅行(B)、志愿服务、研究感兴趣的课题(A)、学习培训以晋升或转行(C)、艺术活动。没有提到陪伴家人，D正确。",
+       "exp_ja": "挙げられている活動は、海外旅行（B）、ボランティア活動、関心のあるテーマの研究（A）、昇進や転職のための学習・研修（C）、芸術活動。家族と過ごすことには触れていないので、Dが正解。"
+      },
+      {
+       "no": 170,
+       "label": "Test 1 · Q170",
+       "q": "According to the memo, why is Nanvero implementing the new policy?",
+       "options": [
+        "To reduce employee turnover",
+        "To attract potential employees",
+        "To reward long-term employees",
+        "To save money on employee salaries"
+       ],
+       "answer": "C",
+       "exp_zh": "this new benefit will show our appreciation for our veteran employees（向老员工表达感谢），且服务满十年才有资格，即奖励长期员工，C正确。未提降低离职率(A)或吸引新员工(B)；省工资不是目的(D)。",
+       "exp_ja": "this new benefit will show our appreciation for our veteran employees（ベテラン社員への感謝を示す）とあり、勤続10年で資格が得られるので、長期勤続者への報奨が目的。Cが正解。離職率の低下（A）や新入社員の獲得（B）には触れておらず、人件費の節約は目的ではない（D）。"
+      },
+      {
+       "no": 171,
+       "label": "Test 1 · Q171",
+       "q": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? \"Sabbatical leave must be requested at least three months prior to the desired start date.\"",
+       "options": [
+        "[1]",
+        "[2]",
+        "[3]",
+        "[4]"
+       ],
+       "answer": "B",
+       "exp_zh": "插入句要求“至少提前三个月申请”，[2]后面紧接 Advance requests（提前申请可让主管安排替岗），前后呼应，B正确。[1]后在列举活动；[3]是感谢与说明规章；[4]在段末，与提前申请的说明不衔接。",
+       "exp_ja": "挿入文は「少なくとも3か月前までに申請すること」を求めている。[2]の直後に Advance requests（事前の申請により上司が代わりの人員を手配できる）が続くので、前後がかみ合う。Bが正解。[1]の後は活動の列挙、[3]は感謝と規定の説明、[4]は段落の最後で事前申請の説明とつながらない。"
+      }
+     ],
+     "src": "site+ep15"
+    }
+   ]
   }
  },
  "warmup": {

@@ -1,0 +1,2103 @@
+{
+ "day": 49,
+ "date": "2026-11-21",
+ "title_zh": "四大词根 + 促销与新品推广 + 办公工具与会议文档",
+ "title_ja": "4つの語根＋販促・新商品＋オフィスツール・会議資料",
+ "intro_zh": "今天的词根是 -form-（形状）、-fect-/-fac-（做）、-sta-/-stit-（站立）、-ten-/-tend-（伸展）；主题是促销与新品推广，以及办公工具与会议文档。",
+ "intro_ja": "今日の語根は -form-（形）、-fect-・-fac-（作る）、-sta-・-stit-（立つ）、-ten-・-tend-（伸ばす）。テーマは販促・新商品、そしてオフィスツール・会議資料。",
+ "voice": "en-US-AriaNeural",
+ "roots": [
+  {
+   "root": "-form-",
+   "origin": "Latin forma",
+   "zh": "形状；形式",
+   "ja": "形",
+   "exp_zh": "来自拉丁语 forma（形状）。完整做出来 → perform；赋予形式 → information；形态转换 → transformation。⚠️ 与 form（表格）同一个词，不是另一个词根。",
+   "exp_ja": "ラテン語 forma（形）から。完全に形にする → perform；形を与える → information；形が変わる → transformation。",
+   "examples": [
+    "perform",
+    "formula",
+    "formation",
+    "information",
+    "transformation",
+    "formality",
+    "informal"
+   ]
+  },
+  {
+   "root": "-fect- / -fac-",
+   "origin": "Latin facere, factus",
+   "zh": "做；制造",
+   "ja": "作る",
+   "exp_zh": "来自拉丁语 facere（做）。做出来的结果 → effect；做到底 → perfect；没做成 → ineffective。⚠️ affect（影响，动词）和 effect（结果，名词）是易混词。",
+   "exp_ja": "ラテン語 facere（作る）から。作り出された結果 → effect；やり遂げる → perfect；うまくいかない → ineffective。⚠️ affect（動詞）と effect（名詞）は混同しやすい。",
+   "examples": [
+    "effect",
+    "effectiveness",
+    "ineffective",
+    "perfect",
+    "perfection",
+    "imperfect",
+    "facsimile"
+   ]
+  },
+  {
+   "root": "-sta- / -stit-",
+   "origin": "Latin stare, status",
+   "zh": "站立；设立",
+   "ja": "立つ；定める",
+   "exp_zh": "来自拉丁语 stare（站立）。站不稳 → instability；共同立起的规则 → constitution；使回到原位 → reinstate。⚠️ overstate / understate 中的 state 是“陈述”，不是此词根。",
+   "exp_ja": "ラテン語 stare（立つ）から。安定しない → instability；皆で立てた決まり → constitution；元に戻す → reinstate。⚠️ overstate / understate の state は「述べる」で別の語。",
+   "examples": [
+    "station",
+    "statistical",
+    "reinstate",
+    "instability",
+    "constitution",
+    "overstate",
+    "understate"
+   ]
+  },
+  {
+   "root": "-ten- / -tend- / -tens-",
+   "origin": "Latin tendere, tentus",
+   "zh": "伸展；拉紧",
+   "ja": "伸ばす；張る",
+   "exp_zh": "来自拉丁语 tendere（伸展）。心朝某处伸 → intention / attention；拉紧 → tension；两边拉扯 → contention。⚠️ pretend 的 tend 同源，表示“把样子伸到前面”。",
+   "exp_ja": "ラテン語 tendere（伸ばす）から。心を向ける → intention / attention；ぴんと張る → tension；引き合う → contention。",
+   "examples": [
+    "intention",
+    "tension",
+    "pretend",
+    "attention",
+    "intensity",
+    "contention",
+    "extent"
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "form",
+   "title_zh": "词根 -form-：形状；形式",
+   "title_ja": "語根 -form-：形",
+   "words": [
+    {
+     "w": "perform",
+     "pos": "v.",
+     "ipa": "/pɚˈfɔrm/",
+     "zh": "执行；表现；演出",
+     "ja": "実行する；成果を出す；演じる",
+     "ex": "The new printer performs well even with large files.",
+     "ex_zh": "这台新打印机即使处理大文件也表现良好。",
+     "ex_ja": "新しいプリンターは大きなファイルでも問題なく動作する。",
+     "parts": [
+      [
+       "per-",
+       "彻底",
+       "完全に"
+      ],
+      [
+       "form",
+       "形成；形式",
+       "形づくる"
+      ]
+     ],
+     "note": {
+      "zh": "per“彻底”+ form“成形”→ 把事情完整做出来 → 执行、表现。",
+      "ja": "per「完全に」+ form「形づくる」→ 最後までやり遂げる → 実行する、成果を出す。"
+     },
+     "forms": [
+      [
+       "performance (n.)",
+       "业绩；表现",
+       "業績；性能"
+      ],
+      [
+       "perform a task",
+       "执行任务",
+       "作業を行う"
+      ]
+     ]
+    },
+    {
+     "w": "formula",
+     "pos": "n.",
+     "ipa": "/ˈfɔrmjələ/",
+     "zh": "公式；配方；方案",
+     "ja": "公式；調合法；方式",
+     "ex": "The company changed the formula of its best-selling shampoo.",
+     "ex_zh": "公司改变了其畅销洗发水的配方。",
+     "ex_ja": "会社は一番売れているシャンプーの処方を変更した。",
+     "parts": [
+      [
+       "form",
+       "形式；形状",
+       "形"
+      ],
+      [
+       "-ula",
+       "小词后缀",
+       "指小の接尾辞"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 formula 是 forma“形状、规范”的小词形，原指“小的规范”→ 公式。",
+      "ja": "ラテン語 formula は forma「形、規範」の指小形で、「小さな決まり」→ 公式。"
+     },
+     "forms": [
+      [
+       "a winning formula",
+       "成功的方案",
+       "成功の方程式"
+      ],
+      [
+       "formula for success",
+       "成功之道",
+       "成功の公式"
+      ]
+     ]
+    },
+    {
+     "w": "formation",
+     "pos": "n.",
+     "ipa": "/fɔrˈmeɪʃən/",
+     "zh": "形成；组建；队形",
+     "ja": "形成；編成；隊形",
+     "ex": "The formation of the joint venture was announced on Monday.",
+     "ex_zh": "合资企业的成立已于周一宣布。",
+     "ex_ja": "合弁会社の設立が月曜日に発表された。",
+     "parts": [
+      [
+       "form",
+       "形成",
+       "形づくる"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "form“形成”+ -ation“名词后缀”→ 形成的过程或结果。",
+      "ja": "form「形づくる」+ -ation「名詞を作る」→ 形成すること、その結果。"
+     },
+     "forms": [
+      [
+       "formation of a team",
+       "组建团队",
+       "チームの編成"
+      ],
+      [
+       "form (v.)",
+       "形成；组成",
+       "形成する"
+      ]
+     ]
+    },
+    {
+     "w": "information",
+     "pos": "n.",
+     "ipa": "/ˌɪnfɚˈmeɪʃən/",
+     "zh": "信息；资料；咨询",
+     "ja": "情報；案内",
+     "ex": "Please keep this information confidential until the press release.",
+     "ex_zh": "在新闻稿发布之前，请对此信息保密。",
+     "ex_ja": "プレスリリースが出るまで、この情報は秘密にしてください。",
+     "parts": [
+      [
+       "in-",
+       "向内",
+       "中へ"
+      ],
+      [
+       "form",
+       "赋予形状",
+       "形を与える"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "in“向内”+ form“赋形”→ 给头脑里“塑形”的东西 → 信息。",
+      "ja": "in「中へ」+ form「形を与える」→ 頭の中に形を与えるもの → 情報。"
+     },
+     "forms": [
+      [
+       "information desk",
+       "咨询台",
+       "案内所"
+      ],
+      [
+       "inform (v.)",
+       "通知",
+       "知らせる"
+      ]
+     ]
+    },
+    {
+     "w": "transformation",
+     "pos": "n.",
+     "ipa": "/ˌtrænsfɚˈmeɪʃən/",
+     "zh": "转型；彻底转变",
+     "ja": "変革；変容",
+     "ex": "The digital transformation reduced paperwork by half.",
+     "ex_zh": "数字化转型使文书工作减少了一半。",
+     "ex_ja": "デジタル変革によって書類作業が半分になった。",
+     "parts": [
+      [
+       "trans-",
+       "跨越；转换",
+       "越えて"
+      ],
+      [
+       "form",
+       "形态",
+       "形"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "trans“跨越”+ form“形态”→ 形态整个换掉 → 转型。",
+      "ja": "trans「越えて」+ form「形」→ 形が丸ごと変わる → 変革。"
+     },
+     "forms": [
+      [
+       "digital transformation",
+       "数字化转型",
+       "デジタル変革"
+      ],
+      [
+       "transform (v.)",
+       "使转变",
+       "変える"
+      ]
+     ]
+    },
+    {
+     "w": "formality",
+     "pos": "n.",
+     "ipa": "/fɔrˈmæləti/",
+     "zh": "正式手续；礼节",
+     "ja": "形式的な手続き；形式ばること",
+     "ex": "Signing the agreement is a mere formality at this stage.",
+     "ex_zh": "在这个阶段，签署协议只是走个形式。",
+     "ex_ja": "この段階では、契約書への署名は単なる形式的な手続きにすぎない。",
+     "parts": [
+      [
+       "form",
+       "形式",
+       "形式"
+      ],
+      [
+       "-al",
+       "形容词后缀",
+       "形容詞を作る"
+      ],
+      [
+       "-ity",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "form“形式”+ -al + -ity → 形式性 → 正式手续。",
+      "ja": "form「形式」+ -al + -ity → 形式であること → 正式な手続き。"
+     },
+     "forms": [
+      [
+       "a mere formality",
+       "纯属形式",
+       "単なる形式"
+      ],
+      [
+       "legal formalities",
+       "法律手续",
+       "法的手続き"
+      ]
+     ]
+    },
+    {
+     "w": "informal",
+     "pos": "adj.",
+     "ipa": "/ɪnˈfɔrməl/",
+     "zh": "非正式的；随意的",
+     "ja": "非公式の；くだけた",
+     "ex": "We held an informal meeting before the official announcement.",
+     "ex_zh": "我们在正式公告前开了一次非正式会议。",
+     "ex_ja": "正式発表の前に、非公式の会議を開いた。",
+     "parts": [
+      [
+       "in-",
+       "不；非",
+       "〜でない"
+      ],
+      [
+       "form",
+       "形式",
+       "形式"
+      ],
+      [
+       "-al",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "in“不”+ formal“正式的”→ 非正式的。",
+      "ja": "in「〜でない」+ formal「正式な」→ 非公式の。"
+     },
+     "forms": [
+      [
+       "informal dress",
+       "便装",
+       "カジュアルな服装"
+      ],
+      [
+       "informally (adv.)",
+       "非正式地",
+       "非公式に"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fect",
+   "title_zh": "词根 -fect- / -fac-：做；制造",
+   "title_ja": "語根 -fect- / -fac-：作る",
+   "words": [
+    {
+     "w": "effect",
+     "pos": "n.",
+     "ipa": "/ɪˈfɛkt/",
+     "zh": "效果；影响",
+     "ja": "効果；影響",
+     "ex": "The new policy will take effect on the first of April.",
+     "ex_zh": "新政策将于4月1日起生效。",
+     "ex_ja": "新しい方針は4月1日に施行される。",
+     "parts": [
+      [
+       "ef-",
+       "向外（ex-）",
+       "外へ"
+      ],
+      [
+       "fect",
+       "做；制造",
+       "作る"
+      ]
+     ],
+     "note": {
+      "zh": "ef（ex）“向外”+ fect“做”→ 做出来的结果 → 效果。⚠️ affect 是动词“影响”，effect 多为名词。",
+      "ja": "ef（ex）「外へ」+ fect「作る」→ 作り出された結果 → 効果。⚠️ affect は動詞「影響する」、effect は主に名詞。"
+     },
+     "forms": [
+      [
+       "take effect",
+       "生效",
+       "施行される"
+      ],
+      [
+       "side effect",
+       "副作用",
+       "副作用"
+      ]
+     ]
+    },
+    {
+     "w": "effectiveness",
+     "pos": "n.",
+     "ipa": "/ɪˈfɛktɪvnəs/",
+     "zh": "有效性；效力",
+     "ja": "有効性；効果",
+     "ex": "The survey measured the effectiveness of the training program.",
+     "ex_zh": "这项调查评估了培训项目的有效性。",
+     "ex_ja": "その調査は研修プログラムの有効性を測定した。",
+     "parts": [
+      [
+       "ef-",
+       "向外",
+       "外へ"
+      ],
+      [
+       "fect",
+       "做",
+       "作る"
+      ],
+      [
+       "-ive",
+       "形容词后缀",
+       "形容詞を作る"
+      ],
+      [
+       "-ness",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "effect 的形容词 effective 再加 -ness → 有效的程度。",
+      "ja": "effect の形容詞 effective に -ness を付けた形 → 有効である度合い。"
+     },
+     "forms": [
+      [
+       "cost effectiveness",
+       "成本效益",
+       "費用対効果"
+      ],
+      [
+       "effective (adj.)",
+       "有效的",
+       "効果的な"
+      ]
+     ]
+    },
+    {
+     "w": "ineffective",
+     "pos": "adj.",
+     "ipa": "/ˌɪnɪˈfɛktɪv/",
+     "zh": "无效的；效率低的",
+     "ja": "効果のない",
+     "ex": "The old filing system proved ineffective for such a large team.",
+     "ex_zh": "事实证明，旧的归档系统不适合这么大的团队。",
+     "ex_ja": "古いファイリング方式は、これほど大きなチームには効果がないとわかった。",
+     "parts": [
+      [
+       "in-",
+       "不",
+       "〜でない"
+      ],
+      [
+       "ef-",
+       "向外",
+       "外へ"
+      ],
+      [
+       "fect",
+       "做",
+       "作る"
+      ],
+      [
+       "-ive",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "in“不”+ effective“有效的”→ 无效的。",
+      "ja": "in「〜でない」+ effective「効果的な」→ 効果のない。"
+     },
+     "forms": [
+      [
+       "ineffective method",
+       "无效的方法",
+       "効果のない方法"
+      ],
+      [
+       "ineffectively (adv.)",
+       "无效地",
+       "効果なく"
+      ]
+     ]
+    },
+    {
+     "w": "perfect",
+     "pos": "adj.",
+     "ipa": "/ˈpɝfɪkt/",
+     "zh": "完美的；完全的",
+     "ja": "完璧な；完全な",
+     "ex": "She gave a perfect presentation to the board of directors.",
+     "ex_zh": "她向董事会做了一场完美的演讲。",
+     "ex_ja": "彼女は取締役会で完璧なプレゼンテーションを行った。",
+     "parts": [
+      [
+       "per-",
+       "彻底",
+       "完全に"
+      ],
+      [
+       "fect",
+       "做",
+       "作る"
+      ]
+     ],
+     "note": {
+      "zh": "per“彻底”+ fect“做”→ 做到底、做完整 → 完美。⚠️ 作动词时重音在后：to perfect /pɚˈfɛkt/。",
+      "ja": "per「完全に」+ fect「作る」→ やり遂げた → 完璧な。⚠️ 動詞では後ろにアクセント：to perfect /pɚˈfɛkt/。"
+     },
+     "forms": [
+      [
+       "perfect (v.)",
+       "使完善",
+       "完璧にする"
+      ],
+      [
+       "perfectly (adv.)",
+       "完美地",
+       "完璧に"
+      ]
+     ]
+    },
+    {
+     "w": "perfection",
+     "pos": "n.",
+     "ipa": "/pɚˈfɛkʃən/",
+     "zh": "完美；完善",
+     "ja": "完璧；完成",
+     "ex": "The chef prepared every dish to perfection.",
+     "ex_zh": "主厨把每道菜都做得完美无缺。",
+     "ex_ja": "シェフはどの料理も完璧に仕上げた。",
+     "parts": [
+      [
+       "per-",
+       "彻底",
+       "完全に"
+      ],
+      [
+       "fect",
+       "做",
+       "作る"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "perfect 加 -ion → 完美的状态。",
+      "ja": "perfect に -ion → 完璧な状態。"
+     },
+     "forms": [
+      [
+       "to perfection",
+       "完美地",
+       "申し分なく"
+      ],
+      [
+       "strive for perfection",
+       "追求完美",
+       "完璧を目指す"
+      ]
+     ]
+    },
+    {
+     "w": "imperfect",
+     "pos": "adj.",
+     "ipa": "/ɪmˈpɝfɪkt/",
+     "zh": "有缺陷的；不完美的",
+     "ja": "不完全な；欠陥のある",
+     "ex": "Please return any imperfect items to the supplier.",
+     "ex_zh": "请把任何有瑕疵的商品退还给供应商。",
+     "ex_ja": "不良品はすべて供給元に返品してください。",
+     "parts": [
+      [
+       "im-",
+       "不",
+       "〜でない"
+      ],
+      [
+       "per-",
+       "彻底",
+       "完全に"
+      ],
+      [
+       "fect",
+       "做",
+       "作る"
+      ]
+     ],
+     "note": {
+      "zh": "im（in）“不”+ perfect“完美的”→ 不完美的。",
+      "ja": "im（in）「〜でない」+ perfect「完璧な」→ 不完全な。"
+     },
+     "forms": [
+      [
+       "imperfection (n.)",
+       "缺陷",
+       "欠陥"
+      ],
+      [
+       "imperfect goods",
+       "次品",
+       "不良品"
+      ]
+     ]
+    },
+    {
+     "w": "facsimile",
+     "pos": "n.",
+     "ipa": "/fækˈsɪməli/",
+     "zh": "传真；复制品",
+     "ja": "ファクシミリ；複製",
+     "ex": "The contract was sent by facsimile because the scanner was broken.",
+     "ex_zh": "由于扫描仪坏了，合同是用传真发送的。",
+     "ex_ja": "スキャナーが壊れていたので、契約書はファクシミリで送られた。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：拉丁语 fac simile 原意“做得相似”，fac 与 fect 同源（做），但现代词已作为整体使用，按整词记忆最稳妥。",
+      "ja": "信頼できる語根分解はありません：ラテン語 fac simile「同じように作れ」が由来。fac は fect と同源（作る）だが、現代では一語として覚えるのが確実。"
+     },
+     "forms": [
+      [
+       "facsimile machine",
+       "传真机",
+       "ファクス機"
+      ],
+      [
+       "fax (n.)",
+       "传真（缩写）",
+       "ファクス（略）"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sta",
+   "title_zh": "词根 -sta- / -stit-：站立；设立",
+   "title_ja": "語根 -sta- / -stit-：立つ",
+   "words": [
+    {
+     "w": "station",
+     "pos": "n.",
+     "ipa": "/ˈsteɪʃən/",
+     "zh": "车站；站点；工作站",
+     "ja": "駅；局；持ち場",
+     "ex": "The conference venue is a five-minute walk from the station.",
+     "ex_zh": "会议场地离车站步行五分钟。",
+     "ex_ja": "会議会場は駅から歩いて5分だ。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：拉丁语 stare“站立”→ 站着的地方；但常见派生词多，建议按整词记忆。",
+      "ja": "信頼できる語根分解はありません：ラテン語 stare「立つ」→ 立つ場所、が由来。派生語が多いので一語として覚える。"
+     },
+     "forms": [
+      [
+       "gas station",
+       "加油站",
+       "ガソリンスタンド"
+      ],
+      [
+       "workstation",
+       "工作站",
+       "作業用端末"
+      ]
+     ]
+    },
+    {
+     "w": "statistical",
+     "pos": "adj.",
+     "ipa": "/stəˈtɪstɪkəl/",
+     "zh": "统计的；统计学上的",
+     "ja": "統計の；統計上の",
+     "ex": "The report includes a statistical analysis of customer complaints.",
+     "ex_zh": "报告包含对客户投诉的统计分析。",
+     "ex_ja": "報告書には顧客からの苦情の統計分析が含まれている。",
+     "parts": [
+      [
+       "statist",
+       "国家（state）相关的数据",
+       "国家に関する資料"
+      ],
+      [
+       "-ic-al",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "statistics 原指“国家（state）的数据”，加 -al 成形容词。",
+      "ja": "statistics は元々「国家（state）の資料」。-al で形容詞に。"
+     },
+     "forms": [
+      [
+       "statistics (n.)",
+       "统计；统计数据",
+       "統計"
+      ],
+      [
+       "statistical data",
+       "统计数据",
+       "統計データ"
+      ]
+     ]
+    },
+    {
+     "w": "reinstate",
+     "pos": "v.",
+     "ipa": "/ˌriɪnˈsteɪt/",
+     "zh": "使恢复；复职",
+     "ja": "復帰させる；復活させる",
+     "ex": "The company agreed to reinstate the employee after the review.",
+     "ex_zh": "审查之后，公司同意让这名员工复职。",
+     "ex_ja": "審査の後、会社はその従業員を復職させることに同意した。",
+     "parts": [
+      [
+       "re-",
+       "再",
+       "再び"
+      ],
+      [
+       "in-",
+       "使进入",
+       "〜させる"
+      ],
+      [
+       "state",
+       "处于（状态）",
+       "状態に置く"
+      ]
+     ],
+     "note": {
+      "zh": "re“再”+ in + state“使处于某状态”→ 使回到原来的状态 → 恢复。",
+      "ja": "re「再び」+ in + state「状態に置く」→ 元の状態に戻す → 復活させる。"
+     },
+     "forms": [
+      [
+       "reinstatement (n.)",
+       "恢复；复职",
+       "復職；復活"
+      ],
+      [
+       "reinstate a policy",
+       "恢复政策",
+       "方針を復活させる"
+      ]
+     ]
+    },
+    {
+     "w": "instability",
+     "pos": "n.",
+     "ipa": "/ˌɪnstəˈbɪləti/",
+     "zh": "不稳定；动荡",
+     "ja": "不安定",
+     "ex": "Political instability made investors cautious about the region.",
+     "ex_zh": "政局动荡使投资者对该地区持谨慎态度。",
+     "ex_ja": "政情不安のため、投資家はその地域に慎重になった。",
+     "parts": [
+      [
+       "in-",
+       "不",
+       "〜でない"
+      ],
+      [
+       "stab（sta）",
+       "站稳",
+       "立つ"
+      ],
+      [
+       "-ility",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "in“不”+ stability“稳定”→ 不稳定。sta“站立”是同一词根。",
+      "ja": "in「〜でない」+ stability「安定」→ 不安定。sta「立つ」が同じ語根。"
+     },
+     "forms": [
+      [
+       "stability (n.)",
+       "稳定",
+       "安定"
+      ],
+      [
+       "unstable (adj.)",
+       "不稳定的",
+       "不安定な"
+      ]
+     ]
+    },
+    {
+     "w": "constitution",
+     "pos": "n.",
+     "ipa": "/ˌkɑnstɪˈtuʃən/",
+     "zh": "宪法；章程；构成",
+     "ja": "憲法；規約；構成",
+     "ex": "The club's constitution requires an annual general meeting.",
+     "ex_zh": "俱乐部章程要求每年召开一次股东（会员）大会。",
+     "ex_ja": "そのクラブの規約は、年1回の総会の開催を定めている。",
+     "parts": [
+      [
+       "con-",
+       "共同",
+       "共に"
+      ],
+      [
+       "stit",
+       "建立；使站立",
+       "立てる"
+      ],
+      [
+       "-ution",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "con“共同”+ stit（sta）“立起”+ -ution → 共同立下的根本规则 → 宪法、章程。",
+      "ja": "con「共に」+ stit（sta）「立てる」+ -ution → 皆で定めた基本の決まり → 憲法、規約。"
+     },
+     "forms": [
+      [
+       "constitute (v.)",
+       "构成",
+       "構成する"
+      ],
+      [
+       "constitutional (adj.)",
+       "宪法的",
+       "憲法上の"
+      ]
+     ]
+    },
+    {
+     "w": "overstate",
+     "pos": "v.",
+     "ipa": "/ˌoʊvɚˈsteɪt/",
+     "zh": "夸大；言过其实",
+     "ja": "誇張する",
+     "ex": "It would be an overstatement to say sales have doubled.",
+     "ex_zh": "说销售额翻了一番有些夸大。",
+     "ex_ja": "売上が倍になったと言うのは誇張だ。",
+     "parts": [
+      [
+       "over-",
+       "过度",
+       "過度に"
+      ],
+      [
+       "state",
+       "陈述",
+       "述べる"
+      ]
+     ],
+     "note": {
+      "zh": "over“过度”+ state“陈述”→ 说得过头 → 夸大。这里 state 是“陈述”，不是 sta“站立”。",
+      "ja": "over「過度に」+ state「述べる」→ 言い過ぎる → 誇張する。ここでの state は「述べる」で sta「立つ」ではない。"
+     },
+     "forms": [
+      [
+       "overstatement (n.)",
+       "夸大",
+       "誇張"
+      ],
+      [
+       "understate (v.)",
+       "轻描淡写",
+       "控えめに言う"
+      ]
+     ]
+    },
+    {
+     "w": "understate",
+     "pos": "v.",
+     "ipa": "/ˌʌndɚˈsteɪt/",
+     "zh": "低估；轻描淡写",
+     "ja": "控えめに言う；過小に述べる",
+     "ex": "The report may understate the true cost of the project.",
+     "ex_zh": "这份报告可能低估了项目的真实成本。",
+     "ex_ja": "その報告書は、事業の真の費用を過小に見せているかもしれない。",
+     "parts": [
+      [
+       "under-",
+       "不足",
+       "不足して"
+      ],
+      [
+       "state",
+       "陈述",
+       "述べる"
+      ]
+     ],
+     "note": {
+      "zh": "under“不足”+ state“陈述”→ 说得不够 → 低估。",
+      "ja": "under「不足して」+ state「述べる」→ 言い足りない → 控えめに言う。"
+     },
+     "forms": [
+      [
+       "understatement (n.)",
+       "轻描淡写",
+       "控えめな表現"
+      ],
+      [
+       "overstate (v.)",
+       "夸大",
+       "誇張する"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ten",
+   "title_zh": "词根 -ten- / -tend- / -tens-：伸展；拉紧",
+   "title_ja": "語根 -ten- / -tend- / -tens-：伸ばす",
+   "words": [
+    {
+     "w": "intention",
+     "pos": "n.",
+     "ipa": "/ɪnˈtɛnʃən/",
+     "zh": "意图；打算",
+     "ja": "意図；つもり",
+     "ex": "Our intention is to open a second branch next year.",
+     "ex_zh": "我们的打算是明年开第二家分店。",
+     "ex_ja": "当社の意図は、来年2店舗目を開くことだ。",
+     "parts": [
+      [
+       "in-",
+       "朝向",
+       "〜に向かって"
+      ],
+      [
+       "tent（tend）",
+       "伸展；拉伸",
+       "伸ばす"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "in“朝向”+ tent“伸展”→ 心朝某方向伸过去 → 意图。",
+      "ja": "in「〜に向かって」+ tent「伸ばす」→ 心を向けて伸ばす → 意図。"
+     },
+     "forms": [
+      [
+       "intend (v.)",
+       "打算",
+       "〜するつもり"
+      ],
+      [
+       "letter of intent",
+       "意向书",
+       "意向書"
+      ]
+     ]
+    },
+    {
+     "w": "tension",
+     "pos": "n.",
+     "ipa": "/ˈtɛnʃən/",
+     "zh": "紧张；张力",
+     "ja": "緊張；張力",
+     "ex": "Tension rose between the two departments over the budget.",
+     "ex_zh": "两个部门之间因预算而关系紧张。",
+     "ex_ja": "予算をめぐって2つの部署の間で緊張が高まった。",
+     "parts": [
+      [
+       "tens",
+       "拉紧",
+       "引っ張る"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "tens“拉紧”+ -ion → 绷紧的状态 → 紧张。",
+      "ja": "tens「引っ張る」+ -ion → ぴんと張った状態 → 緊張。"
+     },
+     "forms": [
+      [
+       "ease the tension",
+       "缓和紧张",
+       "緊張を和らげる"
+      ],
+      [
+       "tense (adj.)",
+       "紧张的",
+       "緊張した"
+      ]
+     ]
+    },
+    {
+     "w": "pretend",
+     "pos": "v.",
+     "ipa": "/prɪˈtɛnd/",
+     "zh": "假装",
+     "ja": "〜のふりをする",
+     "ex": "He pretended not to hear the question during the meeting.",
+     "ex_zh": "会议上他假装没听见那个问题。",
+     "ex_ja": "彼は会議中、その質問が聞こえないふりをした。",
+     "parts": [
+      [
+       "pre-",
+       "在前",
+       "前に"
+      ],
+      [
+       "tend",
+       "伸展",
+       "伸ばす"
+      ]
+     ],
+     "note": {
+      "zh": "pre“在前”+ tend“伸出”→ 把某种样子伸到前面给人看 → 假装。",
+      "ja": "pre「前に」+ tend「伸ばす」→ 見せかけを前に出す → ふりをする。"
+     },
+     "forms": [
+      [
+       "pretense (n.)",
+       "假装",
+       "見せかけ"
+      ],
+      [
+       "pretend to be",
+       "假装是",
+       "〜のふりをする"
+      ]
+     ]
+    },
+    {
+     "w": "attention",
+     "pos": "n.",
+     "ipa": "/əˈtɛnʃən/",
+     "zh": "注意；关注",
+     "ja": "注意；関心",
+     "ex": "Please pay close attention to the safety instructions.",
+     "ex_zh": "请务必留意安全须知。",
+     "ex_ja": "安全上の注意に十分ご留意ください。",
+     "parts": [
+      [
+       "at-（ad-）",
+       "朝向",
+       "〜へ"
+      ],
+      [
+       "tent（tend）",
+       "伸展",
+       "伸ばす"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "at（ad）“朝向”+ tent“伸展”→ 心思朝某处伸过去 → 注意。",
+      "ja": "at（ad）「〜へ」+ tent「伸ばす」→ 心をそちらに伸ばす → 注意。"
+     },
+     "forms": [
+      [
+       "attention to detail",
+       "注重细节",
+       "細部への注意"
+      ],
+      [
+       "attentive (adj.)",
+       "细心的",
+       "注意深い"
+      ]
+     ]
+    },
+    {
+     "w": "intensity",
+     "pos": "n.",
+     "ipa": "/ɪnˈtɛnsəti/",
+     "zh": "强度；激烈程度",
+     "ja": "強さ；激しさ",
+     "ex": "The intensity of the competition forced us to lower our prices.",
+     "ex_zh": "竞争的激烈程度迫使我们降价。",
+     "ex_ja": "競争の激しさから、当社は価格を下げざるを得なかった。",
+     "parts": [
+      [
+       "in-",
+       "朝内",
+       "中へ"
+      ],
+      [
+       "tens",
+       "拉紧",
+       "引っ張る"
+      ],
+      [
+       "-ity",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "in + tens“拉紧”→ 绷得很紧 → 强度。",
+      "ja": "in + tens「引っ張る」→ ぎゅっと張る → 強さ。"
+     },
+     "forms": [
+      [
+       "intense (adj.)",
+       "强烈的",
+       "強烈な"
+      ],
+      [
+       "intensive (adj.)",
+       "密集的",
+       "集中的な"
+      ]
+     ]
+    },
+    {
+     "w": "contention",
+     "pos": "n.",
+     "ipa": "/kənˈtɛnʃən/",
+     "zh": "争论；论点",
+     "ja": "論争；主張",
+     "ex": "The main point of contention is who will pay for the repairs.",
+     "ex_zh": "争论的焦点是谁来支付维修费。",
+     "ex_ja": "争点は、誰が修理費を払うかだ。",
+     "parts": [
+      [
+       "con-",
+       "共同；相对",
+       "互いに"
+      ],
+      [
+       "tent（tend）",
+       "争；拉扯",
+       "争う（引き合う）"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "con“相对”+ tent“拉扯”→ 双方拉扯 → 争论；也指“所持的论点”。",
+      "ja": "con「互いに」+ tent「引き合う」→ 双方が引っ張り合う → 論争。「主張」の意味もある。"
+     },
+     "forms": [
+      [
+       "bone of contention",
+       "争论的焦点",
+       "争いの種"
+      ],
+      [
+       "contend (v.)",
+       "争夺；主张",
+       "争う；主張する"
+      ]
+     ]
+    },
+    {
+     "w": "extent",
+     "pos": "n.",
+     "ipa": "/ɪkˈstɛnt/",
+     "zh": "程度；范围",
+     "ja": "程度；範囲",
+     "ex": "We do not yet know the full extent of the damage.",
+     "ex_zh": "我们还不清楚损失的全部程度。",
+     "ex_ja": "被害の全容はまだわかっていない。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：extent 与 extend 形近、含义相关（ex“向外”+ tend“伸”），但在 TOEIC 中作固定搭配记忆：to some extent、to the extent that。",
+      "ja": "信頼できる語根分解はありません：extent は extend と形も意味も近い（ex「外へ」+ tend「伸ばす」）が、to some extent などの決まり文句として覚える。"
+     },
+     "forms": [
+      [
+       "to some extent",
+       "在某种程度上",
+       "ある程度"
+      ],
+      [
+       "to a large extent",
+       "在很大程度上",
+       "大部分は"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "retail",
+   "title_zh": "主题：促销与新品推广 · 仓储损耗",
+   "title_ja": "テーマ：販促・新商品 · 在庫と傷み",
+   "words": [
+    {
+     "w": "rebrand",
+     "pos": "v.",
+     "ipa": "/ˌriˈbrænd/",
+     "zh": "重塑品牌；更换品牌形象",
+     "ja": "ブランドを刷新する",
+     "ex": "The bank plans to rebrand its mobile app next spring.",
+     "ex_zh": "银行计划明年春天重塑其手机应用的品牌形象。",
+     "ex_ja": "その銀行は来春、モバイルアプリのブランドを刷新する予定だ。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：re-“再”+ brand 的组合，意思是“重新做品牌”，属透明复合词，无需词根拆分。",
+      "ja": "信頼できる語根分解はありません：re-「再び」+ brand の合成語で、意味は透明。語根の分解は不要。"
+     },
+     "forms": [
+      [
+       "rebranding (n.)",
+       "品牌重塑",
+       "ブランド刷新"
+      ],
+      [
+       "brand image",
+       "品牌形象",
+       "ブランドイメージ"
+      ]
+     ]
+    },
+    {
+     "w": "repackage",
+     "pos": "v.",
+     "ipa": "/ˌriˈpækɪdʒ/",
+     "zh": "重新包装；重新包装推出",
+     "ja": "包装し直す；形を変えて売り出す",
+     "ex": "We will repackage the product in recyclable boxes.",
+     "ex_zh": "我们将用可回收的盒子重新包装这款产品。",
+     "ex_ja": "当社は商品をリサイクル可能な箱に詰め替える。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：re-“再”+ package“包装”，属透明复合词。",
+      "ja": "信頼できる語根分解はありません：re-「再び」+ package「包装」の合成語で意味は透明。"
+     },
+     "forms": [
+      [
+       "repackaging (n.)",
+       "重新包装",
+       "再包装"
+      ],
+      [
+       "package (n.)",
+       "包装；套餐",
+       "包装；パッケージ"
+      ]
+     ]
+    },
+    {
+     "w": "markdown",
+     "pos": "n.",
+     "ipa": "/ˈmɑrkdaʊn/",
+     "zh": "降价；折扣",
+     "ja": "値下げ",
+     "ex": "Winter coats are on markdown until the end of the month.",
+     "ex_zh": "冬季大衣在月底前降价销售。",
+     "ex_ja": "冬物のコートは月末まで値下げ中だ。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：mark（标记）+ down（向下），“把价格标记得更低”，是复合词。",
+      "ja": "信頼できる語根分解はありません：mark（記す）+ down（下へ）の合成語。「値札を下げて記す」こと。"
+     },
+     "forms": [
+      [
+       "markdown sale",
+       "降价促销",
+       "値下げセール"
+      ],
+      [
+       "mark down (v.)",
+       "降价",
+       "値下げする"
+      ]
+     ]
+    },
+    {
+     "w": "upsell",
+     "pos": "v.",
+     "ipa": "/ˈʌpsɛl/",
+     "zh": "向上推销（推荐更高价产品）",
+     "ja": "より高額な商品を勧める",
+     "ex": "Sales staff are trained to upsell premium warranties.",
+     "ex_zh": "销售人员接受培训，向客户推荐高级保修服务。",
+     "ex_ja": "販売員は上位の保証プランを勧めるよう訓練されている。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：up（向上）+ sell（卖），复合词，不必拆根。",
+      "ja": "信頼できる語根分解はありません：up（上へ）+ sell（売る）の合成語。語根分解は不要。"
+     },
+     "forms": [
+      [
+       "upselling (n.)",
+       "向上销售",
+       "アップセル"
+      ],
+      [
+       "cross-sell (v.)",
+       "交叉销售",
+       "クロスセルする"
+      ]
+     ]
+    },
+    {
+     "w": "bundle",
+     "pos": "n.",
+     "ipa": "/ˈbʌndl/",
+     "zh": "捆绑套餐；一捆",
+     "ja": "セット商品；束",
+     "ex": "The bundle includes a laptop, a mouse, and a carrying case.",
+     "ex_zh": "这个套装包含一台笔记本电脑、一个鼠标和一个便携包。",
+     "ex_ja": "そのセットにはノートパソコンとマウス、ケースが含まれる。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：bundle 是日耳曼语来源的词，没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はありません：bundle は古いゲルマン語系の語で、語根分解はなし。一語で覚える。"
+     },
+     "forms": [
+      [
+       "bundle deal",
+       "捆绑优惠",
+       "セット割引"
+      ],
+      [
+       "bundle together",
+       "捆在一起",
+       "まとめる"
+      ]
+     ]
+    },
+    {
+     "w": "sweepstakes",
+     "pos": "n.",
+     "ipa": "/ˈswipsteɪks/",
+     "zh": "抽奖活动",
+     "ja": "懸賞；抽選キャンペーン",
+     "ex": "Customers who register online are entered into a sweepstakes.",
+     "ex_zh": "在线注册的顾客会自动参加抽奖。",
+     "ex_ja": "オンライン登録した顧客は抽選に自動参加となる。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：由 sweep 与 stakes（赌注）构成的复合词，作为整词记忆；常以 -s 结尾，单复数同形。",
+      "ja": "信頼できる語根分解はありません：sweep と stakes（賭け金）から成る合成語。一語で覚える。-s で終わるが単複同形。"
+     },
+     "forms": [
+      [
+       "enter a sweepstakes",
+       "参加抽奖",
+       "懸賞に応募する"
+      ],
+      [
+       "sweepstakes winner",
+       "抽奖得主",
+       "懸賞の当選者"
+      ]
+     ]
+    },
+    {
+     "w": "jingle",
+     "pos": "n.",
+     "ipa": "/ˈdʒɪŋgəl/",
+     "zh": "广告歌；广告曲",
+     "ja": "CMソング",
+     "ex": "The radio jingle made the new brand instantly memorable.",
+     "ex_zh": "这首电台广告歌让新品牌一下子令人难忘。",
+     "ex_ja": "そのラジオCMソングで新ブランドはすぐに覚えられた。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：jingle 是拟声词（模仿铃铛叮当声），没有词根可拆。",
+      "ja": "信頼できる語根分解はありません：jingle は鈴の音をまねた擬音語で、語根分解はなし。"
+     },
+     "forms": [
+      [
+       "advertising jingle",
+       "广告歌",
+       "広告ソング"
+      ],
+      [
+       "catchy jingle",
+       "朗朗上口的广告歌",
+       "耳に残るCMソング"
+      ]
+     ]
+    },
+    {
+     "w": "influencer",
+     "pos": "n.",
+     "ipa": "/ˈɪnfluənsɚ/",
+     "zh": "网红；有影响力的人",
+     "ja": "インフルエンサー",
+     "ex": "The cosmetics firm hired an influencer to promote its new line.",
+     "ex_zh": "这家化妆品公司请了一位网红来推广新系列。",
+     "ex_ja": "その化粧品会社は新シリーズを宣伝するためインフルエンサーを起用した。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：influence（影响）+ -er（人），透明派生；influence 本身来自拉丁语 fluere“流”，此处不展开。",
+      "ja": "信頼できる語根分解はありません：influence（影響）+ -er（人）の派生で意味は透明。"
+     },
+     "forms": [
+      [
+       "influencer marketing",
+       "网红营销",
+       "インフルエンサーマーケティング"
+      ],
+      [
+       "influence (v.)",
+       "影响",
+       "影響を与える"
+      ]
+     ]
+    },
+    {
+     "w": "placement",
+     "pos": "n.",
+     "ipa": "/ˈpleɪsmənt/",
+     "zh": "摆放；放置位置；安置",
+     "ja": "配置；陳列；紹介",
+     "ex": "Product placement in the store window boosted sales.",
+     "ex_zh": "店面橱窗里的产品陈列提高了销量。",
+     "ex_ja": "店のウィンドウでの商品陳列が売上を伸ばした。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：place（放置）+ -ment（名词后缀），透明派生。",
+      "ja": "信頼できる語根分解はありません：place（置く）+ -ment（名詞化）の派生で意味は透明。"
+     },
+     "forms": [
+      [
+       "product placement",
+       "产品植入；产品陈列",
+       "商品の陳列；プロダクトプレイスメント"
+      ],
+      [
+       "placement agency",
+       "职业介绍所",
+       "人材紹介会社"
+      ]
+     ]
+    },
+    {
+     "w": "demo",
+     "pos": "n.",
+     "ipa": "/ˈdɛmoʊ/",
+     "zh": "演示；试用版",
+     "ja": "デモ；実演",
+     "ex": "Visitors can request a free demo of the software at our booth.",
+     "ex_zh": "参观者可以在我们的展位申请软件的免费演示。",
+     "ex_ja": "来場者は当社ブースでソフトの無料デモを申し込める。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：demo 是 demonstration 的缩写；demonstrate 来自拉丁语 monstrare“显示”，此处整词记忆即可。",
+      "ja": "信頼できる語根分解はありません：demo は demonstration の略。整語で覚えれば十分。"
+     },
+     "forms": [
+      [
+       "live demo",
+       "现场演示",
+       "ライブデモ"
+      ],
+      [
+       "demo version",
+       "试用版",
+       "体験版"
+      ]
+     ]
+    },
+    {
+     "w": "beta",
+     "pos": "adj.",
+     "ipa": "/ˈbeɪtə/",
+     "zh": "测试版的；公测的",
+     "ja": "ベータ版の",
+     "ex": "The beta version of the app will be released to 500 users.",
+     "ex_zh": "该应用的测试版将向500名用户发布。",
+     "ex_ja": "アプリのベータ版は500人のユーザーに公開される。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：beta 是希腊字母第二位，在软件里指“第二阶段测试版”，没有词根可拆。",
+      "ja": "信頼できる語根分解はありません：beta はギリシャ文字の2番目。ソフトでは「第2段階の試験版」を指す。"
+     },
+     "forms": [
+      [
+       "beta test",
+       "公开测试",
+       "ベータテスト"
+      ],
+      [
+       "beta version",
+       "测试版",
+       "ベータ版"
+      ]
+     ]
+    },
+    {
+     "w": "haggle",
+     "pos": "v.",
+     "ipa": "/ˈhægəl/",
+     "zh": "讨价还价",
+     "ja": "値切る；交渉する",
+     "ex": "Customers are not allowed to haggle over the marked prices.",
+     "ex_zh": "顾客不得对标价讨价还价。",
+     "ex_ja": "顧客は表示価格について値切ることはできない。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：haggle 来自古英语相关词，没有可靠的词根拆分，整词记忆。",
+      "ja": "信頼できる語根分解はありません：haggle は古い語源で、語根分解はなし。一語で覚える。"
+     },
+     "forms": [
+      [
+       "haggle over the price",
+       "就价格讨价还价",
+       "値段を値切る"
+      ],
+      [
+       "haggling (n.)",
+       "讨价还价",
+       "値段交渉"
+      ]
+     ]
+    },
+    {
+     "w": "recall",
+     "pos": "n.",
+     "ipa": "/ˈrikɔl/",
+     "zh": "召回（缺陷产品）；回想",
+     "ja": "リコール；回収",
+     "ex": "The manufacturer issued a recall of 10,000 faulty chargers.",
+     "ex_zh": "制造商宣布召回一万个有缺陷的充电器。",
+     "ex_ja": "メーカーは欠陥のある充電器1万個のリコールを発表した。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：re“回”+ call“叫”，合成词；作名词时重音在前，作动词 /rɪˈkɔl/ 重音在后。",
+      "ja": "信頼できる語根分解はありません：re「戻す」+ call「呼ぶ」の合成語。名詞は前にアクセント、動詞 /rɪˈkɔl/ は後ろ。"
+     },
+     "forms": [
+      [
+       "product recall",
+       "产品召回",
+       "製品リコール"
+      ],
+      [
+       "recall (v.)",
+       "召回；想起",
+       "回収する；思い出す"
+      ]
+     ]
+    },
+    {
+     "w": "spoilage",
+     "pos": "n.",
+     "ipa": "/ˈspɔɪlɪdʒ/",
+     "zh": "变质；损耗",
+     "ja": "腐敗；傷み",
+     "ex": "Better packaging reduced spoilage during shipping.",
+     "ex_zh": "更好的包装减少了运输途中的变质损耗。",
+     "ex_ja": "梱包の改善で、輸送中の傷みが減った。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：spoil（变质；弄坏）+ -age（名词后缀），透明派生。",
+      "ja": "信頼できる語根分解はありません：spoil（傷む）+ -age（名詞化）の派生で意味は透明。"
+     },
+     "forms": [
+      [
+       "spoil (v.)",
+       "变质；宠坏",
+       "傷む；台無しにする"
+      ],
+      [
+       "spoilage rate",
+       "损耗率",
+       "廃棄率"
+      ]
+     ]
+    },
+    {
+     "w": "loading",
+     "pos": "n.",
+     "ipa": "/ˈloʊdɪŋ/",
+     "zh": "装货；装载",
+     "ja": "積み込み；ローディング",
+     "ex": "Loading of the trucks begins at six o'clock every morning.",
+     "ex_zh": "卡车每天早上六点开始装货。",
+     "ex_ja": "トラックへの積み込みは毎朝6時に始まる。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：load（装载）+ -ing，透明派生；也指网页“加载中”。",
+      "ja": "信頼できる語根分解はありません：load（積む）+ -ing の派生で意味は透明。ウェブの「読み込み中」の意味もある。"
+     },
+     "forms": [
+      [
+       "loading dock",
+       "装卸平台",
+       "荷積み場"
+      ],
+      [
+       "load (v.)",
+       "装载",
+       "積む"
+      ]
+     ]
+    },
+    {
+     "w": "shelving",
+     "pos": "n.",
+     "ipa": "/ˈʃɛlvɪŋ/",
+     "zh": "货架；架子",
+     "ja": "棚（設備）",
+     "ex": "New metal shelving was installed in the stockroom.",
+     "ex_zh": "库房里安装了新的金属货架。",
+     "ex_ja": "倉庫に新しい金属製の棚が設置された。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：shelf（架子）的复数变形 shelves + -ing；整词记忆。",
+      "ja": "信頼できる語根分解はありません：shelf の複数形 shelves に由来する -ing 形。一語で覚える。"
+     },
+     "forms": [
+      [
+       "shelf (n.)",
+       "架子",
+       "棚"
+      ],
+      [
+       "shelving unit",
+       "货架单元",
+       "棚ユニット"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "office",
+   "title_zh": "主题：办公工具与会议文档 · 设备维护",
+   "title_ja": "テーマ：オフィスツール・会議資料 · 設備保守",
+   "words": [
+    {
+     "w": "server",
+     "pos": "n.",
+     "ipa": "/ˈsɝvɚ/",
+     "zh": "服务器；服务员",
+     "ja": "サーバー；給仕係",
+     "ex": "The company moved its files to a new cloud server.",
+     "ex_zh": "公司把文件迁移到了新的云服务器上。",
+     "ex_ja": "会社はファイルを新しいクラウドサーバーに移した。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：serve（服务）+ -er（者）→ 提供服务的设备或人；serve 来自拉丁语 servire“服务”。",
+      "ja": "信頼できる語根分解はありません：serve（仕える）+ -er（者）→ サービスを提供するもの／人。"
+     },
+     "forms": [
+      [
+       "file server",
+       "文件服务器",
+       "ファイルサーバー"
+      ],
+      [
+       "server error",
+       "服务器错误",
+       "サーバーエラー"
+      ]
+     ]
+    },
+    {
+     "w": "modem",
+     "pos": "n.",
+     "ipa": "/ˈmoʊdɛm/",
+     "zh": "调制解调器",
+     "ja": "モデム",
+     "ex": "Please restart the modem if the internet connection drops.",
+     "ex_zh": "如果网络断线，请重启调制解调器。",
+     "ex_ja": "インターネットが切れたら、モデムを再起動してください。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：modem 由 modulator（调制器）和 demodulator（解调器）的头部拼合而成的缩略词。",
+      "ja": "信頼できる語根分解はありません：modulator と demodulator の頭を合わせた略語。語根分解はなし。"
+     },
+     "forms": [
+      [
+       "cable modem",
+       "有线调制解调器",
+       "ケーブルモデム"
+      ],
+      [
+       "router (n.)",
+       "路由器",
+       "ルーター"
+      ]
+     ]
+    },
+    {
+     "w": "widget",
+     "pos": "n.",
+     "ipa": "/ˈwɪdʒɪt/",
+     "zh": "小部件；小工具；某种产品",
+     "ja": "ウィジェット；小物",
+     "ex": "A weather widget appears on the home screen of the app.",
+     "ex_zh": "应用主屏幕上会显示一个天气小部件。",
+     "ex_ja": "アプリのホーム画面に天気ウィジェットが表示される。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：widget 是 20 世纪出现的口语词，常在案例中代指“某种产品”，没有可靠的词根拆分。",
+      "ja": "信頼できる語根分解はありません：widget は20世紀の口語で、例文では「ある製品」の代名詞的に使われる。語根分解はなし。"
+     },
+     "forms": [
+      [
+       "desktop widget",
+       "桌面小部件",
+       "デスクトップウィジェット"
+      ],
+      [
+       "widget factory",
+       "（举例用）小产品工厂",
+       "（例示用）部品工場"
+      ]
+     ]
+    },
+    {
+     "w": "avatar",
+     "pos": "n.",
+     "ipa": "/ˈævətɑr/",
+     "zh": "头像；虚拟形象",
+     "ja": "アバター",
+     "ex": "Employees can upload an avatar to their profile page.",
+     "ex_zh": "员工可以在个人主页上传头像。",
+     "ex_ja": "従業員はプロフィールページにアバターをアップロードできる。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：avatar 源自梵语，意为“降临”，在网络语境中指代用户的虚拟形象，整词记忆。",
+      "ja": "信頼できる語根分解はありません：avatar はサンスクリット語由来（「降臨」）。ネットでは利用者の分身を指す。"
+     },
+     "forms": [
+      [
+       "profile avatar",
+       "个人头像",
+       "プロフィール画像"
+      ],
+      [
+       "virtual avatar",
+       "虚拟形象",
+       "バーチャルアバター"
+      ]
+     ]
+    },
+    {
+     "w": "macro",
+     "pos": "n.",
+     "ipa": "/ˈmækroʊ/",
+     "zh": "宏（自动化指令）",
+     "ja": "マクロ",
+     "ex": "I recorded a macro that formats the monthly sales sheet.",
+     "ex_zh": "我录制了一个宏，用来自动设置每月销售表的格式。",
+     "ex_ja": "月次売上表の書式を整えるマクロを記録した。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：macro 是 macroinstruction 的缩写，来自希腊语 makros“大”。",
+      "ja": "信頼できる語根分解はありません：macro は macroinstruction の略で、ギリシャ語 makros「大きい」に由来。"
+     },
+     "forms": [
+      [
+       "run a macro",
+       "运行宏",
+       "マクロを実行する"
+      ],
+      [
+       "macro (adj.)",
+       "宏观的",
+       "大規模な"
+      ]
+     ]
+    },
+    {
+     "w": "footnote",
+     "pos": "n.",
+     "ipa": "/ˈfʊtnoʊt/",
+     "zh": "脚注",
+     "ja": "脚注",
+     "ex": "The figures are explained in a footnote at the bottom of the page.",
+     "ex_zh": "这些数字在页面底部的脚注中有说明。",
+     "ex_ja": "その数値はページ下部の脚注で説明されている。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：foot（底部）+ note（注释），透明复合词。",
+      "ja": "信頼できる語根分解はありません：foot（足元）+ note（注）の合成語で意味は透明。"
+     },
+     "forms": [
+      [
+       "see footnote",
+       "参见脚注",
+       "脚注を参照"
+      ],
+      [
+       "endnote (n.)",
+       "尾注",
+       "文末脚注"
+      ]
+     ]
+    },
+    {
+     "w": "header",
+     "pos": "n.",
+     "ipa": "/ˈhɛdɚ/",
+     "zh": "页眉；标题栏",
+     "ja": "ヘッダー；見出し部分",
+     "ex": "Insert the company logo in the header of every page.",
+     "ex_zh": "请在每一页的页眉中插入公司标志。",
+     "ex_ja": "各ページのヘッダーに会社のロゴを入れてください。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：head（头；顶部）+ -er，指位于顶部的部分。",
+      "ja": "信頼できる語根分解はありません：head（頭；上部）+ -er で、上部にあるもの。"
+     },
+     "forms": [
+      [
+       "email header",
+       "邮件头",
+       "メールヘッダー"
+      ],
+      [
+       "footer (n.)",
+       "页脚",
+       "フッター"
+      ]
+     ]
+    },
+    {
+     "w": "thumbnail",
+     "pos": "n.",
+     "ipa": "/ˈθʌmneɪl/",
+     "zh": "缩略图",
+     "ja": "サムネイル",
+     "ex": "Click the thumbnail to see the full-size photo.",
+     "ex_zh": "点击缩略图即可查看原尺寸照片。",
+     "ex_ja": "サムネイルをクリックすると原寸の写真が見られる。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：thumb（拇指）+ nail（指甲），比喻图像小如拇指指甲，透明复合词。",
+      "ja": "信頼できる語根分解はありません：thumb（親指）+ nail（爪）の合成語。親指の爪ほどの小さな画像。"
+     },
+     "forms": [
+      [
+       "thumbnail image",
+       "缩略图",
+       "サムネイル画像"
+      ],
+      [
+       "thumbnail sketch",
+       "简要概述",
+       "簡単な紹介"
+      ]
+     ]
+    },
+    {
+     "w": "slideshow",
+     "pos": "n.",
+     "ipa": "/ˈslaɪdʃoʊ/",
+     "zh": "幻灯片放映",
+     "ja": "スライドショー",
+     "ex": "She ran a slideshow of last year's events at the party.",
+     "ex_zh": "她在聚会上放映了去年活动的幻灯片。",
+     "ex_ja": "彼女はパーティーで昨年の行事のスライドショーを上映した。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：slide（幻灯片）+ show（放映），透明复合词。",
+      "ja": "信頼できる語根分解はありません：slide（スライド）+ show（上映）の合成語で意味は透明。"
+     },
+     "forms": [
+      [
+       "start the slideshow",
+       "开始放映",
+       "スライドショーを始める"
+      ],
+      [
+       "slide deck",
+       "幻灯片文稿",
+       "スライド資料"
+      ]
+     ]
+    },
+    {
+     "w": "lectern",
+     "pos": "n.",
+     "ipa": "/ˈlɛktɚn/",
+     "zh": "讲台；讲桌",
+     "ja": "講演台",
+     "ex": "The speaker placed her notes on the lectern and began.",
+     "ex_zh": "演讲者把讲稿放在讲台上，然后开始了演讲。",
+     "ex_ja": "講演者は原稿を演台に置いて話し始めた。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：来自中世纪拉丁语，与“阅读（lect-）”有关，但日常记忆整词即可；⚠️ 不要与 podium（站在其上的讲台）混淆。",
+      "ja": "信頼できる語根分解はありません：中世ラテン語由来で「読む」と関係するが、一語で覚えればよい。⚠️ podium（上に立つ壇）と混同しない。"
+     },
+     "forms": [
+      [
+       "podium (n.)",
+       "讲台（站立用）",
+       "演壇（立つ台）"
+      ],
+      [
+       "speak from the lectern",
+       "在讲台上发言",
+       "演台から話す"
+      ]
+     ]
+    },
+    {
+     "w": "motion",
+     "pos": "n.",
+     "ipa": "/ˈmoʊʃən/",
+     "zh": "动议；提案；运动",
+     "ja": "動議；提案",
+     "ex": "The board passed a motion to postpone the vote.",
+     "ex_zh": "董事会通过了推迟投票的动议。",
+     "ex_ja": "取締役会は採決を延期する動議を可決した。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：拉丁语 movere“移动”的派生；会议里指“提出的议案”。",
+      "ja": "信頼できる語根分解はありません：ラテン語 movere「動く」の派生。会議では「提出された議案」の意味。"
+     },
+     "forms": [
+      [
+       "pass a motion",
+       "通过动议",
+       "動議を可決する"
+      ],
+      [
+       "second the motion",
+       "附议",
+       "動議に賛成する"
+      ]
+     ]
+    },
+    {
+     "w": "generator",
+     "pos": "n.",
+     "ipa": "/ˈdʒɛnəreɪtɚ/",
+     "zh": "发电机；生成器",
+     "ja": "発電機；ジェネレーター",
+     "ex": "A backup generator kept the servers running during the blackout.",
+     "ex_zh": "停电期间，备用发电机让服务器保持运行。",
+     "ex_ja": "停電の間、非常用発電機がサーバーを動かし続けた。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：generate（产生）+ -or（者/物），来自拉丁语 generare“产生”，透明派生。",
+      "ja": "信頼できる語根分解はありません：generate（生み出す）+ -or（もの）の派生で意味は透明。"
+     },
+     "forms": [
+      [
+       "backup generator",
+       "备用发电机",
+       "非常用発電機"
+      ],
+      [
+       "generate (v.)",
+       "产生",
+       "生み出す"
+      ]
+     ]
+    },
+    {
+     "w": "refurbish",
+     "pos": "v.",
+     "ipa": "/riˈfɝbɪʃ/",
+     "zh": "翻新；整修",
+     "ja": "改装する；新品同様に直す",
+     "ex": "The hotel will refurbish all 200 guest rooms this winter.",
+     "ex_zh": "酒店将在今年冬天翻新全部200间客房。",
+     "ex_ja": "そのホテルは今冬、客室200室すべてを改装する。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：re“再”+ furbish“擦亮；整修”（古法语），furbish 单独很少用，按整词记忆。",
+      "ja": "信頼できる語根分解はありません：re「再び」+ furbish「磨く」（古フランス語）。furbish は単独ではほぼ使わず、一語で覚える。"
+     },
+     "forms": [
+      [
+       "refurbished (adj.)",
+       "翻新的",
+       "整備済みの"
+      ],
+      [
+       "refurbishment (n.)",
+       "翻新",
+       "改装"
+      ]
+     ]
+    },
+    {
+     "w": "retrofit",
+     "pos": "v.",
+     "ipa": "/ˈrɛtroʊfɪt/",
+     "zh": "改造；加装改装",
+     "ja": "後付け改修する",
+     "ex": "The factory was retrofitted with energy-saving lights.",
+     "ex_zh": "工厂加装改造了节能灯。",
+     "ex_ja": "その工場は省エネ照明に改修された。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：retro“向后；追加”+ fit“安装”→ 事后加装。retro 是拉丁语“向后”。",
+      "ja": "信頼できる語根分解はありません：retro「後から」+ fit「取り付ける」→ 後付けで取り付ける。retro はラテン語「後ろへ」。"
+     },
+     "forms": [
+      [
+       "retrofit project",
+       "改造项目",
+       "改修工事"
+      ],
+      [
+       "retrofit (n.)",
+       "改造",
+       "後付け改修"
+      ]
+     ]
+    },
+    {
+     "w": "sampling",
+     "pos": "n.",
+     "ipa": "/ˈsæmplɪŋ/",
+     "zh": "抽样；试用品发放",
+     "ja": "抽出調査；試供品配布",
+     "ex": "Product sampling in supermarkets increased sales of the new snack.",
+     "ex_zh": "在超市发放试吃品提升了这款新零食的销量。",
+     "ex_ja": "スーパーでの試食配布で新しいスナックの売上が伸びた。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：sample（样本）+ -ing，透明派生；sample 来自古法语 essample（例子）。",
+      "ja": "信頼できる語根分解はありません：sample（見本）+ -ing の派生で意味は透明。"
+     },
+     "forms": [
+      [
+       "random sampling",
+       "随机抽样",
+       "無作為抽出"
+      ],
+      [
+       "sample (n.)",
+       "样品",
+       "見本"
+      ]
+     ]
+    },
+    {
+     "w": "offboarding",
+     "pos": "n.",
+     "ipa": "/ˈɔfbɔrdɪŋ/",
+     "zh": "离职办理流程",
+     "ja": "退職手続き",
+     "ex": "Offboarding includes returning the laptop and the access card.",
+     "ex_zh": "离职办理包括归还笔记本电脑和门禁卡。",
+     "ex_ja": "退職手続きにはノートパソコンと入館証の返却が含まれる。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：off“离开”+ board“上船/入职”+ -ing，是 onboarding 的反义新词。",
+      "ja": "信頼できる語根分解はありません：off「離れる」+ board「乗る」+ -ing。onboarding の反対語として作られた新しい語。"
+     },
+     "forms": [
+      [
+       "onboarding (n.)",
+       "入职培训",
+       "入社手続き"
+      ],
+      [
+       "offboarding checklist",
+       "离职清单",
+       "退職チェックリスト"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}
