@@ -6358,6 +6358,498 @@
      "src": "site+ep15"
     }
    ]
+  },
+  "50": {
+   "date": "2026-11-22",
+   "focus_zh": "考后轻复习：Part 5 复习 8 题 + Part 7 两篇（Test 1 新题）",
+   "focus_ja": "試験後の軽い復習：Part 5 復習8問＋Part 7 の2題（Test 1 未学習）",
+   "grammar": [
+    {
+     "id": "T1-Q101",
+     "label": "Test 1 · Q101",
+     "test": 1,
+     "no": 101,
+     "part": 5,
+     "q": "Known for ------- outdoor sculptures, Irina Reyes also creates artwork on paper.",
+     "options": [
+      "her",
+      "she",
+      "hers",
+      "herself"
+     ],
+     "answer": "A",
+     "topic_zh": "关系词 · 代词",
+     "topic_ja": "関係詞 · 代名詞",
+     "tip_zh": "形容词 + 名词前 → 所有格 her",
+     "tip_ja": "形容詞 + 名詞の前 → 所有格 her",
+     "src": "ep54",
+     "exp_zh": "空格在名词短语 outdoor sculptures 前，需要所有格限定词 her，A正确。she 是主格，hers 是名词性物主代词（不能修饰名词），herself 是反身代词。",
+     "exp_ja": "空所は名詞句 outdoor sculptures の前なので、所有格の限定詞 her が必要。Aが正解。she は主格、hers は所有代名詞（名詞を修飾できない）、herself は再帰代名詞。",
+     "vocab_zh": "known for 以…闻名；sculpture 雕塑；artwork 艺术作品",
+     "vocab_ja": "known for ～で知られる；sculpture 彫刻；artwork 芸術作品"
+    },
+    {
+     "id": "T1-Q103",
+     "label": "Test 1 · Q103",
+     "test": 1,
+     "no": 103,
+     "part": 5,
+     "q": "Freshly made sandwiches can be purchased from the food truck ------- the rear of the parking lot.",
+     "options": [
+      "even",
+      "do",
+      "get",
+      "at"
+     ],
+     "answer": "D",
+     "topic_zh": "综合：介词 · 副词 · 连接",
+     "topic_ja": "総まとめ：前置詞 · 副詞 · つなぎ",
+     "tip_zh": "地点介词 at：at the rear of …“在……的后部”",
+     "tip_ja": "場所の前置詞 at：at the rear of …「…の奥に、後方に」",
+     "src": "ep57",
+     "exp_zh": "空格后是地点名词 the rear of the parking lot，需要介词，at（在…处）正确。even 是副词，do/get 是动词，都不能接名词作地点状语。",
+     "exp_ja": "空所の後は場所を表す名詞 the rear of the parking lot なので前置詞が必要。at（～で）が正解。even は副詞、do/get は動詞で、名詞を続けて場所を表すことはできない。",
+     "vocab_zh": "freshly made 新鲜制作的；rear 后部；parking lot 停车场",
+     "vocab_ja": "freshly made 作りたての；rear 後方；parking lot 駐車場"
+    },
+    {
+     "id": "T1-Q105",
+     "label": "Test 1 · Q105",
+     "test": 1,
+     "no": 105,
+     "part": 5,
+     "q": "The Mildorn Processing Plant ------- Nelson City upgraded its equipment for faster production.",
+     "options": [
+      "for",
+      "in",
+      "as",
+      "to"
+     ],
+     "answer": "B",
+     "topic_zh": "综合：介词 · 副词 · 连接",
+     "topic_ja": "総まとめ：前置詞 · 副詞 · つなぎ",
+     "tip_zh": "城市用 in：the plant in Nelson City",
+     "tip_ja": "都市には in：the plant in Nelson City",
+     "src": "ep57",
+     "exp_zh": "“位于 Nelson City 的加工厂”，表示地点的介词 in 正确。for/as/to 都不能表示“在某城市”。",
+     "exp_ja": "「Nelson City にある加工工場」なので、場所を表す前置詞 in が正解。for/as/to はいずれも「ある都市で」を表せない。",
+     "vocab_zh": "processing plant 加工厂；upgrade 升级；equipment 设备",
+     "vocab_ja": "processing plant 加工工場；upgrade 改良する；equipment 設備"
+    },
+    {
+     "id": "T2-Q102",
+     "label": "Test 2 · Q102",
+     "test": 2,
+     "no": 102,
+     "part": 5,
+     "q": "Use of the parking garage is limited to store employees ------- building residents.",
+     "options": [
+      "so",
+      "for",
+      "and",
+      "until"
+     ],
+     "answer": "C",
+     "topic_zh": "介词 vs 连词",
+     "topic_ja": "前置詞 vs 接続詞",
+     "tip_zh": "连接两个名词 store employees / building residents → and",
+     "tip_ja": "2つの名詞 store employees / building residents をつなぐ → and",
+     "src": "ep53",
+     "exp_zh": "Test 2 第102题，和上一题同一个考点。Use of the parking garage is limited to store employees，“停车楼只限商店员工使用”，空格后面是 building residents，“楼里的住户”。空格两边是两个同类的名词，要用并列连词 and 连起来：商店员工和住户都可以用，选C and。A so“所以”连接的是两个句子，表示结果；B for 作介词是“为了、给”，作连词是“因为”，意思都不对；D until“直到”表示时间。be limited to 是“仅限于”，后面接名词。整句意思是：停车楼仅供商店员工和楼内住户使用。",
+     "exp_ja": "Test 2 第102問は、前の問題と同じポイントです。Use of the parking garage is limited to store employees「立体駐車場の利用は店の従業員に限られる」、空所の後ろは building residents「建物の居住者」です。空所の両側は同じ種類の名詞が2つなので、等位接続詞 and でつなぎます。店の従業員と居住者の両方が使えるということで、正解はC and です。A so「だから」は2つの文をつないで結果を表します。B for は前置詞なら「…のために、…に」、接続詞なら「というのは」で、どちらも意味が合いません。D until「…まで」は時間を表します。be limited to は「…に限られる」で、後ろに名詞が来ます。文全体の意味は「立体駐車場は、店の従業員と建物の居住者だけが利用できる」です。"
+    },
+    {
+     "id": "T2-Q112",
+     "label": "Test 2 · Q112",
+     "test": 2,
+     "no": 112,
+     "part": 5,
+     "q": "Please let me know ------- I am eligible to receive a discount on my next purchase from your Web site.",
+     "options": [
+      "then",
+      "often",
+      "except",
+      "whether"
+     ],
+     "answer": "D",
+     "topic_zh": "介词 vs 连词",
+     "topic_ja": "前置詞 vs 接続詞",
+     "tip_zh": "let me know + 宾语从句 → whether（是否）",
+     "tip_ja": "let me know + 目的語の名詞節 → whether（…かどうか）",
+     "src": "ep53",
+     "exp_zh": "Test 2 第112题。连词不只连接两个句子，还能把一个句子变成名词，做宾语。Please let me know，“请告诉我”，know 后面要一个宾语，空格后面是 I am eligible to receive a discount on my next purchase，“我下次购物是否有资格享受折扣”，这是完整的句子。要把这个句子变成 know 的宾语，用连词 whether，“是否”，选D。A then“然后”和B often“经常”是副词，不能引导从句；C except“除了”意思不通。whether 和 if 都能表示“是否”，let me know whether 和 let me know if 都很常见。be eligible to do 是“有资格做某事”，purchase 是“购买、购买的东西”。",
+     "exp_ja": "Test 2 第112問。接続詞は2つの文をつなぐだけでなく、1つの文を名詞のまとまりにして目的語にすることもできます。Please let me know「教えてください」の know の後ろには目的語が必要で、空所の後ろの I am eligible to receive a discount on my next purchase「次回の購入で割引を受けられる資格がある」は完全な文です。この文を know の目的語にするには接続詞 whether「…かどうか」を使うので、正解はDです。A then「それから」と B often「よく」は副詞で節を導けません。C except「…を除いて」は意味が通りません。whether も if も「…かどうか」を表せて、let me know whether も let me know if もよく使います。be eligible to do は「…する資格がある」、purchase は「購入、購入品」です。"
+    },
+    {
+     "id": "T3-Q103",
+     "label": "Test 3 · Q103",
+     "test": 3,
+     "no": 103,
+     "part": 5,
+     "q": "Mr. Noe enjoys listening to audiobooks, ------- he does not mind his long commute to work.",
+     "options": [
+      "for",
+      "but",
+      "so",
+      "or"
+     ],
+     "answer": "C",
+     "topic_zh": "介词 vs 连词",
+     "topic_ja": "前置詞 vs 接続詞",
+     "tip_zh": "两个完整句子 + 因果关系（喜欢听书 → 不介意通勤）→ so",
+     "tip_ja": "2つの完全な文 + 因果関係（オーディオブックが好き → 通勤が苦にならない）→ so",
+     "src": "ep53",
+     "exp_zh": "【解析册 p.181】空格连接前后两个分句。“喜欢听有声书，所以不介意长时间通勤”是因果关系，选表示“所以”的并列连词 (C) so。A for 意为“因为”，因果方向相反；B but、D or 意思不通。",
+     "exp_ja": "【解説冊子 p.181】前後の節をつなぐ等位接続詞。「オーディオブックが好きなので、長い通勤も気にならない」という因果関係なので (C) so。(A) for は「なぜなら」で因果が逆、(B) but と (D) or は文意に合わない。",
+     "vocab_zh": [
+      "mind 介意",
+      "commute 通勤"
+     ],
+     "vocab_ja": [
+      "mind 気にする",
+      "commute 通勤"
+     ]
+    },
+    {
+     "id": "T3-Q115",
+     "label": "Test 3 · Q115",
+     "test": 3,
+     "no": 115,
+     "part": 5,
+     "q": "The recipe recommends ------- the batter for at least three minutes to ensure the ingredients are well combined.",
+     "options": [
+      "measuring",
+      "checking",
+      "pouring",
+      "mixing"
+     ],
+     "answer": "D",
+     "topic_zh": "词汇",
+     "topic_ja": "語彙",
+     "tip_zh": "mixing the batter“搅拌面糊”",
+     "tip_ja": "mixing the batter「生地を混ぜる」",
+     "src": "ep56",
+     "exp_zh": "为了让材料充分混合，要把面糊“搅拌”至少三分钟，选 (D) mixing。recommend 后接动名词。",
+     "exp_ja": "材料をよく混ぜ合わせるために生地を3分以上「混ぜる」ことを勧めている。(D) mixing。",
+     "vocab_zh": [
+      "batter 面糊",
+      "ingredient 材料"
+     ],
+     "vocab_ja": [
+      "batter 生地",
+      "ingredient 材料"
+     ]
+    },
+    {
+     "id": "T3-Q117",
+     "label": "Test 3 · Q117",
+     "test": 3,
+     "no": 117,
+     "part": 5,
+     "q": "Mr. Han left the ------- loan documents in an envelope on Mr. Oliver's desk.",
+     "options": [
+      "accomplished",
+      "satisfied",
+      "completed",
+      "inhabited"
+     ],
+     "answer": "C",
+     "topic_zh": "词汇",
+     "topic_ja": "語彙",
+     "tip_zh": "completed … documents“已填写完毕的文件”",
+     "tip_ja": "completed … documents「記入済みの書類」",
+     "src": "ep56",
+     "exp_zh": "修饰 loan documents（贷款文件），“填写完毕的文件”用 completed，选 (C)。",
+     "exp_ja": "loan documents（ローン書類）を修飾し「記入済みの」という意味になる completed (C)。",
+     "vocab_zh": [
+      "loan 贷款"
+     ],
+     "vocab_ja": [
+      "loan 融資、ローン"
+     ]
+    }
+   ],
+   "reading": [
+    {
+     "id": "T1-Q172-175",
+     "label": "Test 1 · Q172–175",
+     "test": 1,
+     "part": 7,
+     "intro": "Questions 172-175 refer to the following online chat discussion.",
+     "docs": [
+      [
+       {
+        "t": "msg",
+        "who": "Anne Wymer",
+        "time": "11:21 A.M.",
+        "x": "Good morning, everyone. I want to make certain everything is set for the trade show next week. It's such an important event for us, and I'll be away at my cousin's wedding."
+       },
+       {
+        "t": "msg",
+        "who": "Larry Bonnet",
+        "time": "11:22 A.M.",
+        "x": "The event coordinator has confirmed that our booth is ready. She also assured me that we'll have access to electrical outlets, wireless Internet, and space for demonstrations."
+       },
+       {
+        "t": "msg",
+        "who": "Hae-Jin Sung",
+        "time": "11:25 A.M.",
+        "x": "I have the posters and brochures. The photos are stunning! We also have videos to play in the booth. Some show us putting in counters, floors, and appliances, others show our projects in a before-and-after format, and one highlights our total redesign of the cooking area at the Marlton house. Our intern Jacob has been handling the social media. He'll be live streaming our event demonstrations on our Web site."
+       },
+       {
+        "t": "msg",
+        "who": "Larry Bonnet",
+        "time": "11:26 A.M.",
+        "x": "We really lucked out when we found Jacob!"
+       },
+       {
+        "t": "msg",
+        "who": "Hae-Jin Sung",
+        "time": "11:27 A.M.",
+        "x": "There's no question about it! So, yes, the materials and media are all set."
+       },
+       {
+        "t": "msg",
+        "who": "Martha Varela",
+        "time": "11:28 A.M.",
+        "x": "I'll be here handling in-home estimates and sales. I want to point out that if this quarter continues the way it's begun, our sales figures will be higher than they've ever been."
+       },
+       {
+        "t": "msg",
+        "who": "Anne Wymer",
+        "time": "11:30 A.M.",
+        "x": "Wonderful! OK, let's have a quick meeting on Thursday morning, but please let me know before that if any problems arise."
+       }
+      ]
+     ],
+     "questions": [
+      {
+       "no": 172,
+       "label": "Test 1 · Q172",
+       "q": "Where do the writers most likely work?",
+       "options": [
+        "At a photography studio",
+        "At an electrical-supply shop",
+        "At an event-planning company",
+        "At a kitchen-remodeling business"
+       ],
+       "answer": "D",
+       "exp_zh": "视频展示安装台面、地板和厨房电器，以及 Marlton 住宅烹饪区的整体改造，Varela 还负责上门估价，说明是厨房装修公司，D正确。照片只是宣传材料(A)；电源插座是展位设施(B)；活动协调员是展会方的人(C)。",
+       "exp_ja": "動画ではカウンタートップ、床、キッチン家電の取り付けや、Marlton の住宅の調理スペース全体の改装を紹介しており、Varela は訪問見積もりも担当しているので、キッチンリフォーム会社だとわかる。Dが正解。写真は宣伝材料にすぎない（A）。電源コンセントはブースの設備（B）。イベントコーディネーターは展示会側の人（C）。"
+      },
+      {
+       "no": 173,
+       "label": "Test 1 · Q173",
+       "q": "Why does Ms. Wymer mention her cousin's wedding?",
+       "options": [
+        "To explain why she will miss the trade show",
+        "To inform her colleagues of a change in the trade show's schedule",
+        "To suggest that she might arrive late to the trade show",
+        "To compare the trade show to a different type of event"
+       ],
+       "answer": "A",
+       "exp_zh": "她说展会很重要，而她将去参加表亲的婚礼（I'll be away），所以想事先确认一切就绪——说明她将缺席展会，A正确。没有改日程(B)；不是迟到而是不在(C)；没有比较(D)。",
+       "exp_ja": "彼女は展示会が重要だと言い、自分はいとこの結婚式に出るため不在になる（I'll be away）ので、事前にすべて整っているか確認したいと述べている。つまり展示会を欠席するので、Aが正解。日程は変更していない（B）。遅刻ではなく不在（C）。比較はしていない（D）。"
+      },
+      {
+       "no": 174,
+       "label": "Test 1 · Q174",
+       "q": "At 11:27 A.M., what does Ms. Sung most likely mean when she writes, \"There's no question about it\"?",
+       "options": [
+        "She agrees that an intern has done good work.",
+        "She thinks that a live streamed event was successful.",
+        "She can confirm that some items were delivered.",
+        "She believes that using social media is important."
+       ],
+       "answer": "A",
+       "exp_zh": "Bonnet 说“找到 Jacob 真是幸运”，Sung 回应“毫无疑问”，表示同意实习生 Jacob 干得好，A正确。直播还没进行(B)；与送货无关(C)；她赞同的是对 Jacob 的评价，而非社交媒体的重要性(D)。",
+       "exp_ja": "Bonnet が「Jacob が見つかって本当にラッキーだった」と言い、Sung が「間違いない」と応じている。インターンの Jacob がよくやっているという意見への同意なので、Aが正解。ライブ配信はまだ行われていない（B）。配送とは無関係（C）。彼女が同意しているのは Jacob への評価で、ソーシャルメディアの重要性ではない（D）。"
+      },
+      {
+       "no": 175,
+       "label": "Test 1 · Q175",
+       "q": "What does Ms. Varela indicate?",
+       "options": [
+        "That an appointment had to be rescheduled",
+        "That sales have been increasing at a favorable rate",
+        "That the quarter began more slowly than expected",
+        "That she may be late for a sales meeting"
+       ],
+       "answer": "B",
+       "exp_zh": "她说如果本季度保持开局的势头，销售额将创历史新高，即销售增长势头良好，B正确。没有改约(A)；开局很好而非缓慢(C)；没说开会迟到(D)。",
+       "exp_ja": "彼女は、今四半期がこの好スタートの勢いを保てば売上は過去最高になると言っており、売上が好調だということなので、Bが正解。予定の変更はない（A）。出だしは遅いのではなく好調（C）。会議に遅れるとは言っていない（D）。"
+      }
+     ],
+     "src": "site+ep15"
+    },
+    {
+     "id": "T1-Q176-180",
+     "label": "Test 1 · Q176–180",
+     "test": 1,
+     "part": 7,
+     "intro": "Questions 176-180 refer to the following checklist and report.",
+     "docs": [
+      [
+       {
+        "t": "title",
+        "x": "Vroman Manufacturing — Workplace Safety Inspection Checklist"
+       },
+       {
+        "t": "meta",
+        "rows": [
+         [
+          "Inspector",
+          "Tamar Nuriya, Operations Department (handwritten)"
+         ],
+         [
+          "Date completed",
+          "April 11 (handwritten)"
+         ]
+        ]
+       },
+       {
+        "t": "table",
+        "cols": [
+         "Area",
+         "Tasks",
+         "Time Completed"
+        ],
+        "rows": [
+         [
+          "Workshop",
+          "• Verify that safety glasses are available in the entryway.\n• Ensure that tools are in good condition.\n• Check all electrical cords for damage and fraying.\n• Inspect workstations for debris or hazards.\n• Take inventory of the first aid kit and replace any used and expired supplies.",
+          "9:00 a.m."
+         ],
+         [
+          "Storeroom",
+          "• Make sure aisles are clear of hazardous obstructions.\n• Confirm that shelving and stacks of boxes are stable.",
+          "10:15 a.m."
+         ],
+         [
+          "Offices",
+          "• Inspect each office and cubicle to verify that no electric heaters or other heat-producing devices are present.\n• Examine extension cords to make sure only one device is plugged into each cord.",
+          "11:00 a.m."
+         ],
+         [
+          "Lunchroom",
+          "• Confirm that refrigerator temperature is between 3 and 5 degrees Celsius.",
+          "11:45 a.m."
+         ]
+        ],
+        "cap": null
+       }
+      ],
+      [
+       {
+        "t": "title",
+        "x": "Workplace Safety Compliance Report"
+       },
+       {
+        "t": "meta",
+        "rows": [
+         [
+          "Filed by",
+          "Tamar Nuriya"
+         ],
+         [
+          "Report date",
+          "April 11"
+         ]
+        ]
+       },
+       {
+        "t": "p",
+        "x": "While performing the safety inspection for this month, I observed the following instances of noncompliance."
+       },
+       {
+        "t": "p",
+        "x": "In the workshop, a table saw at workstation 7 had a dull, rusty blade, which can prevent the saw from moving smoothly. I tagged the saw so that it would not be used until after repairs are made."
+       },
+       {
+        "t": "p",
+        "x": "In the storeroom, I found boxes stacked in an aisle where they were a tripping hazard. I told the manager they needed to be placed on the shelves."
+       },
+       {
+        "t": "p",
+        "x": "In office 114, I found an electric coffeepot in use. I advised the occupant to unplug and remove the item and stated that I would make an unannounced follow-up inspection."
+       }
+      ]
+     ],
+     "questions": [
+      {
+       "no": 176,
+       "label": "Test 1 · Q176",
+       "q": "According to the checklist, when was the first aid kit restocked?",
+       "options": [
+        "At 9:00 A.M.",
+        "At 10:15 A.M.",
+        "At 11:00 A.M.",
+        "At 11:45 A.M."
+       ],
+       "answer": "A",
+       "exp_zh": "清点急救箱并补充用品（Take inventory of the first aid kit and replace...）属于 Workshop 区域，完成时间是 9:00 a.m.，A正确。10:15是储藏室，11:00是办公室，11:45是午餐室。",
+       "exp_ja": "救急箱の中身を確認して用品を補充する（Take inventory of the first aid kit and replace...）のは Workshop エリアの項目で、完了時刻は午前9時なので、Aが正解。10時15分は倉庫、11時は事務所、11時45分は休憩室。"
+      },
+      {
+       "no": 177,
+       "label": "Test 1 · Q177",
+       "q": "How often is the checklist used?",
+       "options": [
+        "Daily",
+        "Weekly",
+        "Monthly",
+        "Annually"
+       ],
+       "answer": "C",
+       "exp_zh": "报告第一句 While performing the safety inspection for this month（本月的安全检查），说明检查表每月使用一次，C正确。",
+       "exp_ja": "報告書の最初の文 While performing the safety inspection for this month（今月の安全点検で）から、チェックリストは月に1回使われるとわかる。Cが正解。"
+      },
+      {
+       "no": 178,
+       "label": "Test 1 · Q178",
+       "q": "Where did Ms. Nuriya notice an obstruction?",
+       "options": [
+        "In the offices",
+        "In the workshop",
+        "In the lunchroom",
+        "In the storeroom"
+       ],
+       "answer": "D",
+       "exp_zh": "报告：储藏室过道里堆着箱子，有绊倒危险（tripping hazard），对应检查表中“确保过道没有危险障碍物”，D正确。办公室是咖啡壶问题(A)；车间是锯片生锈(B)；午餐室没问题(C)。",
+       "exp_ja": "報告書によると、倉庫の通路に箱が積まれていてつまずく危険（tripping hazard）がある。これはチェックリストの「通路に危険な障害物がないことを確認する」に当たるので、Dが正解。事務所はコーヒーメーカーの問題（A）、作業場はのこぎりの刃のさび（B）、休憩室は問題なし（C）。"
+      },
+      {
+       "no": 179,
+       "label": "Test 1 · Q179",
+       "q": "In the report, the word \"placed\" in paragraph 3, line 2, is closest in meaning to",
+       "options": [
+        "put",
+        "given",
+        "ranked",
+        "identified"
+       ],
+       "answer": "A",
+       "exp_zh": "they needed to be placed on the shelves“需要把箱子放到货架上”，place 意为“放置”，同 put，A正确。given“给予”、ranked“排名”、identified“识别”都不符。",
+       "exp_ja": "they needed to be placed on the shelves「箱を棚に置く必要があった」の place は「置く」の意味で put と同じなので、Aが正解。given「与えられる」、ranked「順位づけられる」、identified「特定される」は合わない。"
+      },
+      {
+       "no": 180,
+       "label": "Test 1 · Q180",
+       "q": "What does Ms. Nuriya indicate she will do?",
+       "options": [
+        "Repair a tool",
+        "Revisit an office",
+        "Label some boxes",
+        "File an additional report"
+       ],
+       "answer": "B",
+       "exp_zh": "她告诉114办公室的使用者拔掉咖啡壶，并说会进行一次不预先通知的复查（unannounced follow-up inspection），即再次去该办公室，B正确。锯子只是贴了标签等待维修，不是她修(A)；箱子要放上货架而非贴标签(C)；没说再交报告(D)。",
+       "exp_ja": "彼女は114号室の使用者にコーヒーメーカーのプラグを抜くよう伝え、予告なしの再点検（unannounced follow-up inspection）を行うと述べている。つまりその部屋を再び訪れるので、Bが正解。のこぎりはタグを付けて修理待ちにしただけで彼女が直すわけではない（A）。箱は棚に置くのであってラベルを貼るのではない（C）。報告書の再提出には触れていない（D）。"
+      }
+     ],
+     "src": "site+ep15"
+    }
+   ]
   }
  },
  "warmup": {

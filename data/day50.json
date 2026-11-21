@@ -1,0 +1,2327 @@
+{
+ "day": 50,
+ "date": "2026-11-22",
+ "title_zh": "四大词根 + 市场调研与数据分析 + 生产检验与设备维护",
+ "title_ja": "4つの語根＋市場調査・データ分析＋製造検査・設備保守",
+ "intro_zh": "今天的词根是 -uni-（一）、-trans-（跨越）、multi- / bi-（多；二）、-sub-（下；附属）；主题是市场调研与数据分析，以及生产检验与设备维护。",
+ "intro_ja": "今日の語根は -uni-（一つ）、-trans-（越えて）、multi- / bi-（多い；二つ）、-sub-（下；付属）。テーマは市場調査・データ分析、そして製造検査・設備保守。",
+ "voice": "en-US-AriaNeural",
+ "roots": [
+  {
+   "root": "-uni-",
+   "origin": "Latin unus",
+   "zh": "一",
+   "ja": "一つ",
+   "exp_zh": "来自拉丁语 unus（一）。合成一体 → unify；只有一个 → unique；一个整体 → unit。⚠️ university 也来自 universus（全体），但今天只学“一”的核心义。",
+   "exp_ja": "ラテン語 unus（一つ）から。一つにする → unify；一つしかない → unique；ひとまとまり → unit。",
+   "examples": [
+    "unify",
+    "unique",
+    "unit",
+    "union",
+    "unite",
+    "unity",
+    "unilateral"
+   ]
+  },
+  {
+   "root": "-trans-",
+   "origin": "Latin trans",
+   "zh": "跨越；穿过",
+   "ja": "越えて；通り抜けて",
+   "exp_zh": "来自拉丁语 trans（越过）。越过去走 → transit；越过去运 → transport；穿过去看见 → transparent。⚠️ transient 里是 trans + i（走），不是 transport 的 port。",
+   "exp_ja": "ラテン語 trans（越えて）から。越えて行く → transit；越えて運ぶ → transport；通して見える → transparent。",
+   "examples": [
+    "transit",
+    "transition",
+    "transparent",
+    "transplant",
+    "transport",
+    "transient",
+    "transatlantic"
+   ]
+  },
+  {
+   "root": "multi- / bi-",
+   "origin": "Latin multus / bis",
+   "zh": "多；二",
+   "ja": "多い；二つ",
+   "exp_zh": "multi 来自拉丁语 multus（多），bi 来自 bis（二次）。multinational = 多国的，bilingual = 双语的。⚠️ biweekly 有“每两周”和“每周两次”两种用法，写邮件要说清楚。",
+   "exp_ja": "multi はラテン語 multus（多い）、bi は bis（二度）から。multinational = 多国籍の、bilingual = 二言語の。⚠️ biweekly は「隔週」と「週2回」の両方の用法がある。",
+   "examples": [
+    "multinational",
+    "multiple",
+    "multilingual",
+    "multipurpose",
+    "bilingual",
+    "bilateral",
+    "biweekly"
+   ]
+  },
+  {
+   "root": "-sub-",
+   "origin": "Latin sub",
+   "zh": "下；附属；再分",
+   "ja": "下の；付属の；さらに",
+   "exp_zh": "来自拉丁语 sub（在下面）。主合同之下 → subcontract；总数之下 → subtotal；委员会之下 → subcommittee。",
+   "exp_ja": "ラテン語 sub（下に）から。主契約の下 → subcontract；合計の一部 → subtotal；委員会の下 → subcommittee。",
+   "examples": [
+    "subtotal",
+    "subcontract",
+    "subtitle",
+    "subdivision",
+    "subcommittee",
+    "substantial",
+    "subway"
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "uni",
+   "title_zh": "词根 -uni-：一",
+   "title_ja": "語根 -uni-：一つ",
+   "words": [
+    {
+     "w": "unify",
+     "pos": "v.",
+     "ipa": "/ˈjunɪfaɪ/",
+     "zh": "统一；使一体化",
+     "ja": "統一する；一本化する",
+     "ex": "The merger will unify the two sales teams under one manager.",
+     "ex_zh": "合并后，两个销售团队将统一由一位经理管理。",
+     "ex_ja": "合併後、2つの営業チームは1人のマネージャーの下に統合される。",
+     "parts": [
+      [
+       "uni-",
+       "一",
+       "一つ"
+      ],
+      [
+       "-fy",
+       "使成为",
+       "〜にする"
+      ]
+     ],
+     "note": {
+      "zh": "uni“一”+ -fy“使成为”→ 使成为一体 → 统一。",
+      "ja": "uni「一つ」+ -fy「〜にする」→ 一つにする → 統一する。"
+     },
+     "forms": [
+      [
+       "unified (adj.)",
+       "统一的",
+       "統一された"
+      ],
+      [
+       "unify the system",
+       "统一系统",
+       "システムを統一する"
+      ]
+     ]
+    },
+    {
+     "w": "unique",
+     "pos": "adj.",
+     "ipa": "/juˈnik/",
+     "zh": "独特的；唯一的",
+     "ja": "唯一の；独特の",
+     "ex": "Our software offers a unique feature that no competitor has.",
+     "ex_zh": "我们的软件有一项竞争对手都没有的独特功能。",
+     "ex_ja": "当社のソフトには、競合他社にはない独自の機能がある。",
+     "parts": [
+      [
+       "uni-",
+       "一",
+       "一つ"
+      ],
+      [
+       "-que",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "uni“一”→ 只有一个 → 独一无二。⚠️ 不能说 very unique 的“比较级”，unique 本身已是“唯一”。",
+      "ja": "uni「一つ」→ 一つしかない → 唯一の。"
+     },
+     "forms": [
+      [
+       "a unique opportunity",
+       "难得的机会",
+       "またとない機会"
+      ],
+      [
+       "uniquely (adv.)",
+       "独特地",
+       "独自に"
+      ]
+     ]
+    },
+    {
+     "w": "unit",
+     "pos": "n.",
+     "ipa": "/ˈjunɪt/",
+     "zh": "单位；部门；设备",
+     "ja": "単位；部門；ユニット",
+     "ex": "The accounting unit is located on the third floor.",
+     "ex_zh": "会计部门在三楼。",
+     "ex_ja": "経理部門は3階にある。",
+     "parts": [
+      [
+       "uni-",
+       "一",
+       "一つ"
+      ],
+      [
+       "-t",
+       "名词词尾",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "uni“一”→ 一个整体 → 单位、单元；在公司里也指“部门”。",
+      "ja": "uni「一つ」→ ひとまとまり → 単位、部門。"
+     },
+     "forms": [
+      [
+       "unit price",
+       "单价",
+       "単価"
+      ],
+      [
+       "a business unit",
+       "业务部门",
+       "事業部門"
+      ]
+     ]
+    },
+    {
+     "w": "union",
+     "pos": "n.",
+     "ipa": "/ˈjunjən/",
+     "zh": "工会；联合；结合",
+     "ja": "労働組合；連合；結合",
+     "ex": "The union and the management reached an agreement on overtime pay.",
+     "ex_zh": "工会和管理层就加班费达成了协议。",
+     "ex_ja": "組合と経営陣は残業代について合意に達した。",
+     "parts": [
+      [
+       "uni-",
+       "一",
+       "一つ"
+      ],
+      [
+       "-on",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "uni“一”→ 合成一体 → 联合；劳动者联合起来 → 工会。",
+      "ja": "uni「一つ」→ 一つになること → 連合；労働者の連合 → 組合。"
+     },
+     "forms": [
+      [
+       "labor union",
+       "工会",
+       "労働組合"
+      ],
+      [
+       "credit union",
+       "信用合作社",
+       "信用組合"
+      ]
+     ]
+    },
+    {
+     "w": "unite",
+     "pos": "v.",
+     "ipa": "/juˈnaɪt/",
+     "zh": "联合；团结",
+     "ja": "団結する；結合する",
+     "ex": "The two companies united to bid for the city contract.",
+     "ex_zh": "两家公司联手竞标这份市政合同。",
+     "ex_ja": "2社は協力して市の契約に入札した。",
+     "parts": [
+      [
+       "uni-",
+       "一",
+       "一つ"
+      ],
+      [
+       "-ite",
+       "动词词尾",
+       "動詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "uni“一”→ 合为一体 → 联合、团结。",
+      "ja": "uni「一つ」→ 一つになる → 団結する。"
+     },
+     "forms": [
+      [
+       "united (adj.)",
+       "联合的",
+       "団結した"
+      ],
+      [
+       "unite behind a plan",
+       "团结支持某计划",
+       "計画のもとに団結する"
+      ]
+     ]
+    },
+    {
+     "w": "unity",
+     "pos": "n.",
+     "ipa": "/ˈjunəti/",
+     "zh": "团结；一致",
+     "ja": "団結；統一性",
+     "ex": "Unity within the team is essential to finishing the project on time.",
+     "ex_zh": "团队内部的团结是按时完成项目的关键。",
+     "ex_ja": "期限内にプロジェクトを終えるにはチームの結束が不可欠だ。",
+     "parts": [
+      [
+       "uni-",
+       "一",
+       "一つ"
+      ],
+      [
+       "-ty",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "uni“一”+ -ty“名词后缀”→ 成为一体的状态 → 团结。",
+      "ja": "uni「一つ」+ -ty「名詞を作る」→ 一つである状態 → 団結。"
+     },
+     "forms": [
+      [
+       "team unity",
+       "团队团结",
+       "チームの結束"
+      ],
+      [
+       "unity of purpose",
+       "目标一致",
+       "目的の一致"
+      ]
+     ]
+    },
+    {
+     "w": "unilateral",
+     "pos": "adj.",
+     "ipa": "/ˌjunɪˈlætərəl/",
+     "zh": "单方面的",
+     "ja": "一方的な",
+     "ex": "The manager made a unilateral decision without consulting the team.",
+     "ex_zh": "经理没有征求团队意见就做出了单方面的决定。",
+     "ex_ja": "マネージャーはチームに相談せず、一方的に決定した。",
+     "parts": [
+      [
+       "uni-",
+       "一",
+       "一つ"
+      ],
+      [
+       "later",
+       "侧；边",
+       "側"
+      ],
+      [
+       "-al",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "uni“一”+ later“侧”+ -al → 只有一方的 → 单方面的。",
+      "ja": "uni「一つ」+ later「側」+ -al → 片側だけの → 一方的な。"
+     },
+     "forms": [
+      [
+       "unilateral action",
+       "单方面行动",
+       "一方的な措置"
+      ],
+      [
+       "bilateral (adj.)",
+       "双边的",
+       "二国間の；双方の"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "trans",
+   "title_zh": "词根 -trans-：跨越",
+   "title_ja": "語根 -trans-：越えて",
+   "words": [
+    {
+     "w": "transit",
+     "pos": "n.",
+     "ipa": "/ˈtrænzɪt/",
+     "zh": "运输；中转；过境",
+     "ja": "輸送；乗り継ぎ；通過",
+     "ex": "The parcel was damaged in transit.",
+     "ex_zh": "包裹在运输途中受损了。",
+     "ex_ja": "荷物は輸送中に破損した。",
+     "parts": [
+      [
+       "trans-",
+       "跨越",
+       "越えて"
+      ],
+      [
+       "it",
+       "走",
+       "行く"
+      ]
+     ],
+     "note": {
+      "zh": "trans“跨越”+ it“走”（拉丁语 ire）→ 走过去 → 运输、过境。",
+      "ja": "trans「越えて」+ it「行く」（ラテン語 ire）→ 通り過ぎる → 輸送、通過。"
+     },
+     "forms": [
+      [
+       "in transit",
+       "运输途中",
+       "輸送中"
+      ],
+      [
+       "public transit",
+       "公共交通",
+       "公共交通機関"
+      ]
+     ]
+    },
+    {
+     "w": "transition",
+     "pos": "n.",
+     "ipa": "/trænˈzɪʃən/",
+     "zh": "过渡；转变",
+     "ja": "移行；過渡期",
+     "ex": "The transition to the new accounting system will take three months.",
+     "ex_zh": "向新会计系统的过渡需要三个月。",
+     "ex_ja": "新しい会計システムへの移行には3か月かかる。",
+     "parts": [
+      [
+       "trans-",
+       "跨越",
+       "越えて"
+      ],
+      [
+       "it",
+       "走",
+       "行く"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "trans“跨越”+ it“走”+ -ion → 从一边走到另一边 → 过渡。",
+      "ja": "trans「越えて」+ it「行く」+ -ion → 一方から他方へ移ること → 移行。"
+     },
+     "forms": [
+      [
+       "smooth transition",
+       "平稳过渡",
+       "円滑な移行"
+      ],
+      [
+       "transition period",
+       "过渡期",
+       "移行期間"
+      ]
+     ]
+    },
+    {
+     "w": "transparent",
+     "pos": "adj.",
+     "ipa": "/trænˈspɛrənt/",
+     "zh": "透明的；公开透明的",
+     "ja": "透明な；透明性のある",
+     "ex": "The company promised to be transparent about its pricing.",
+     "ex_zh": "公司承诺在定价上保持透明。",
+     "ex_ja": "その会社は価格について透明性を保つと約束した。",
+     "parts": [
+      [
+       "trans-",
+       "穿过",
+       "通して"
+      ],
+      [
+       "par",
+       "显现",
+       "現れる"
+      ],
+      [
+       "-ent",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "trans“穿过”+ par“显现”→ 光能穿过、看得见 → 透明的；引申为“公开透明”。",
+      "ja": "trans「通して」+ par「現れる」→ 向こうが見える → 透明な；転じて「透明性のある」。"
+     },
+     "forms": [
+      [
+       "transparency (n.)",
+       "透明度",
+       "透明性"
+      ],
+      [
+       "a transparent process",
+       "公开透明的流程",
+       "透明性のあるプロセス"
+      ]
+     ]
+    },
+    {
+     "w": "transplant",
+     "pos": "v.",
+     "ipa": "/trænsˈplænt/",
+     "zh": "移植；迁移",
+     "ja": "移植する；移転させる",
+     "ex": "The company plans to transplant its call center to a smaller city.",
+     "ex_zh": "公司计划把呼叫中心迁到一座较小的城市。",
+     "ex_ja": "会社はコールセンターをより小さな都市に移す計画だ。",
+     "parts": [
+      [
+       "trans-",
+       "跨越",
+       "越えて"
+      ],
+      [
+       "plant",
+       "种植",
+       "植える"
+      ]
+     ],
+     "note": {
+      "zh": "trans“跨越”+ plant“种植”→ 换个地方种 → 移植、迁移。",
+      "ja": "trans「越えて」+ plant「植える」→ 別の場所に植える → 移植する。"
+     },
+     "forms": [
+      [
+       "transplant (n.)",
+       "移植",
+       "移植"
+      ],
+      [
+       "a transplanted office",
+       "迁移的办公室",
+       "移転したオフィス"
+      ]
+     ]
+    },
+    {
+     "w": "transport",
+     "pos": "v.",
+     "ipa": "/trænˈspɔrt/",
+     "zh": "运输",
+     "ja": "輸送する",
+     "ex": "Trucks transport the goods from the factory to the port.",
+     "ex_zh": "卡车把货物从工厂运到港口。",
+     "ex_ja": "トラックが工場から港まで商品を運ぶ。",
+     "parts": [
+      [
+       "trans-",
+       "跨越",
+       "越えて"
+      ],
+      [
+       "port",
+       "搬运",
+       "運ぶ"
+      ]
+     ],
+     "note": {
+      "zh": "trans“跨越”+ port“搬运”→ 搬到另一处 → 运输。",
+      "ja": "trans「越えて」+ port「運ぶ」→ 別の場所へ運ぶ → 輸送する。"
+     },
+     "forms": [
+      [
+       "transportation (n.)",
+       "运输；交通",
+       "輸送；交通機関"
+      ],
+      [
+       "transport costs",
+       "运输费",
+       "輸送費"
+      ]
+     ]
+    },
+    {
+     "w": "transient",
+     "pos": "adj.",
+     "ipa": "/ˈtrænʃənt/",
+     "zh": "短暂的；临时的",
+     "ja": "一時的な；短期滞在の",
+     "ex": "The hotel mainly serves transient guests rather than long-term residents.",
+     "ex_zh": "这家酒店主要接待短期住客，而不是长住客人。",
+     "ex_ja": "そのホテルは長期滞在者ではなく、短期の宿泊客が中心だ。",
+     "parts": [
+      [
+       "trans-",
+       "跨越",
+       "越えて"
+      ],
+      [
+       "-i-",
+       "走（ire）",
+       "行く"
+      ],
+      [
+       "-ent",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "trans“跨越”+ i“走”+ -ent → 路过的 → 短暂的、临时的。",
+      "ja": "trans「越えて」+ i「行く」+ -ent → 通り過ぎる → 一時的な。"
+     },
+     "forms": [
+      [
+       "transient guests",
+       "短期住客",
+       "短期滞在客"
+      ],
+      [
+       "transient workers",
+       "临时工",
+       "臨時労働者"
+      ]
+     ]
+    },
+    {
+     "w": "transatlantic",
+     "pos": "adj.",
+     "ipa": "/ˌtrænzətˈlæntɪk/",
+     "zh": "跨大西洋的",
+     "ja": "大西洋横断の",
+     "ex": "She booked a transatlantic flight for the sales conference.",
+     "ex_zh": "她为销售大会订了一张跨大西洋航班。",
+     "ex_ja": "彼女は営業会議のために大西洋横断便を予約した。",
+     "parts": [
+      [
+       "trans-",
+       "跨越",
+       "越えて"
+      ],
+      [
+       "Atlantic",
+       "大西洋",
+       "大西洋"
+      ]
+     ],
+     "note": {
+      "zh": "trans“跨越”+ Atlantic“大西洋”→ 横跨大西洋的。",
+      "ja": "trans「越えて」+ Atlantic「大西洋」→ 大西洋をまたぐ。"
+     },
+     "forms": [
+      [
+       "transatlantic flight",
+       "跨大西洋航班",
+       "大西洋横断便"
+      ],
+      [
+       "transpacific (adj.)",
+       "跨太平洋的",
+       "太平洋横断の"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "multi",
+   "title_zh": "词根 multi- / bi-：多；二",
+   "title_ja": "語根 multi- / bi-：多い；二つ",
+   "words": [
+    {
+     "w": "multinational",
+     "pos": "adj.",
+     "ipa": "/ˌmʌltiˈnæʃənəl/",
+     "zh": "跨国的；多国的",
+     "ja": "多国籍の",
+     "ex": "She works for a multinational corporation based in Osaka.",
+     "ex_zh": "她在一家总部位于大阪的跨国公司工作。",
+     "ex_ja": "彼女は大阪に本社を置く多国籍企業で働いている。",
+     "parts": [
+      [
+       "multi-",
+       "多",
+       "多くの"
+      ],
+      [
+       "nation",
+       "国家",
+       "国"
+      ],
+      [
+       "-al",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "multi“多”+ national“国家的”→ 多个国家的 → 跨国的。",
+      "ja": "multi「多くの」+ national「国の」→ 複数の国にまたがる → 多国籍の。"
+     },
+     "forms": [
+      [
+       "a multinational",
+       "跨国公司",
+       "多国籍企業"
+      ],
+      [
+       "multinational team",
+       "跨国团队",
+       "多国籍チーム"
+      ]
+     ]
+    },
+    {
+     "w": "multiple",
+     "pos": "adj.",
+     "ipa": "/ˈmʌltəpəl/",
+     "zh": "多个的；多重的",
+     "ja": "複数の；多様な",
+     "ex": "Multiple applicants have been invited for a second interview.",
+     "ex_zh": "多名应聘者已被邀请参加第二轮面试。",
+     "ex_ja": "複数の応募者が二次面接に招かれた。",
+     "parts": [
+      [
+       "multi-",
+       "多",
+       "多くの"
+      ],
+      [
+       "-ple",
+       "倍；折",
+       "〜重の"
+      ]
+     ],
+     "note": {
+      "zh": "multi“多”+ -ple“倍”→ 许多倍的 → 多个的。",
+      "ja": "multi「多くの」+ -ple「〜重」→ 何重もの → 複数の。"
+     },
+     "forms": [
+      [
+       "multiple choice",
+       "多项选择",
+       "多肢選択"
+      ],
+      [
+       "multiple times",
+       "多次",
+       "何度も"
+      ]
+     ]
+    },
+    {
+     "w": "multilingual",
+     "pos": "adj.",
+     "ipa": "/ˌmʌltiˈlɪŋgwəl/",
+     "zh": "多语言的；会多种语言的",
+     "ja": "多言語の",
+     "ex": "The hotel hired multilingual staff to assist foreign guests.",
+     "ex_zh": "酒店雇用了会多种语言的员工来接待外国客人。",
+     "ex_ja": "ホテルは外国人客に対応するため、多言語を話せるスタッフを採用した。",
+     "parts": [
+      [
+       "multi-",
+       "多",
+       "多くの"
+      ],
+      [
+       "lingu",
+       "语言；舌",
+       "言語"
+      ],
+      [
+       "-al",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "multi“多”+ lingu“语言”（拉丁语 lingua“舌头、语言”）→ 多语言的。",
+      "ja": "multi「多くの」+ lingu「言語」（ラテン語 lingua「舌・言語」）→ 多言語の。"
+     },
+     "forms": [
+      [
+       "multilingual support",
+       "多语言支持",
+       "多言語対応"
+      ],
+      [
+       "bilingual (adj.)",
+       "双语的",
+       "二か国語の"
+      ]
+     ]
+    },
+    {
+     "w": "multipurpose",
+     "pos": "adj.",
+     "ipa": "/ˌmʌltiˈpɝpəs/",
+     "zh": "多用途的",
+     "ja": "多目的の",
+     "ex": "The multipurpose room can be used for meetings or training.",
+     "ex_zh": "这间多功能室可用于开会或培训。",
+     "ex_ja": "この多目的室は会議にも研修にも使える。",
+     "parts": [
+      [
+       "multi-",
+       "多",
+       "多くの"
+      ],
+      [
+       "purpose",
+       "目的；用途",
+       "目的"
+      ]
+     ],
+     "note": {
+      "zh": "multi“多”+ purpose“用途”→ 多种用途的。",
+      "ja": "multi「多くの」+ purpose「目的」→ 多目的の。"
+     },
+     "forms": [
+      [
+       "multipurpose tool",
+       "多用途工具",
+       "多目的ツール"
+      ],
+      [
+       "multipurpose hall",
+       "多功能厅",
+       "多目的ホール"
+      ]
+     ]
+    },
+    {
+     "w": "bilingual",
+     "pos": "adj.",
+     "ipa": "/baɪˈlɪŋgwəl/",
+     "zh": "双语的；会两种语言的",
+     "ja": "二か国語を話す",
+     "ex": "We are looking for a bilingual receptionist who speaks English and Japanese.",
+     "ex_zh": "我们正在招聘一名会说英语和日语的双语前台。",
+     "ex_ja": "英語と日本語を話せるバイリンガルの受付係を募集している。",
+     "parts": [
+      [
+       "bi-",
+       "二",
+       "二つの"
+      ],
+      [
+       "lingu",
+       "语言",
+       "言語"
+      ],
+      [
+       "-al",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "bi“二”+ lingu“语言”+ -al → 两种语言的。",
+      "ja": "bi「二つの」+ lingu「言語」+ -al → 二言語の。"
+     },
+     "forms": [
+      [
+       "bilingual staff",
+       "双语员工",
+       "バイリンガルのスタッフ"
+      ],
+      [
+       "bilingual sign",
+       "双语标识",
+       "二か国語の表示"
+      ]
+     ]
+    },
+    {
+     "w": "bilateral",
+     "pos": "adj.",
+     "ipa": "/baɪˈlætərəl/",
+     "zh": "双边的；双方的",
+     "ja": "二国間の；双方の",
+     "ex": "The two countries signed a bilateral trade agreement.",
+     "ex_zh": "两国签署了一项双边贸易协定。",
+     "ex_ja": "両国は二国間貿易協定に署名した。",
+     "parts": [
+      [
+       "bi-",
+       "二",
+       "二つの"
+      ],
+      [
+       "later",
+       "侧",
+       "側"
+      ],
+      [
+       "-al",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "bi“二”+ later“侧”+ -al → 两侧的 → 双边的。",
+      "ja": "bi「二つの」+ later「側」+ -al → 両側の → 二国間の。"
+     },
+     "forms": [
+      [
+       "bilateral talks",
+       "双边会谈",
+       "二国間協議"
+      ],
+      [
+       "unilateral (adj.)",
+       "单方面的",
+       "一方的な"
+      ]
+     ]
+    },
+    {
+     "w": "biweekly",
+     "pos": "adj.",
+     "ipa": "/baɪˈwiklɪ/",
+     "zh": "每两周一次的",
+     "ja": "隔週の",
+     "ex": "The team holds a biweekly meeting to review progress.",
+     "ex_zh": "团队每两周开一次会，检查进度。",
+     "ex_ja": "チームは進捗確認のため、隔週で会議を開く。",
+     "parts": [
+      [
+       "bi-",
+       "二",
+       "二つの"
+      ],
+      [
+       "weekly",
+       "每周的",
+       "毎週の"
+      ]
+     ],
+     "note": {
+      "zh": "bi“二”+ weekly“每周的”→ 每两周的。⚠️ biweekly 也可能被理解为“每周两次”，TOEIC 里通常指“每两周一次”，邮件里最好写明。",
+      "ja": "bi「二つの」+ weekly「毎週の」→ 2週間ごとの。⚠️「週2回」の意味で使われることもあるが、TOEIC では通常「隔週」。"
+     },
+     "forms": [
+      [
+       "biweekly newsletter",
+       "双周刊简报",
+       "隔週のニュースレター"
+      ],
+      [
+       "bimonthly (adj.)",
+       "每两个月一次的",
+       "2か月に1度の"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sub",
+   "title_zh": "词根 -sub-：下；附属",
+   "title_ja": "語根 -sub-：下；付属",
+   "words": [
+    {
+     "w": "subtotal",
+     "pos": "n.",
+     "ipa": "/ˈsʌbtoʊtəl/",
+     "zh": "小计",
+     "ja": "小計",
+     "ex": "The subtotal does not include tax or shipping.",
+     "ex_zh": "小计不含税费和运费。",
+     "ex_ja": "小計には税と送料は含まれていない。",
+     "parts": [
+      [
+       "sub-",
+       "下；部分",
+       "下の；部分の"
+      ],
+      [
+       "total",
+       "总计",
+       "合計"
+      ]
+     ],
+     "note": {
+      "zh": "sub“下、部分”+ total“总计”→ 总数的一部分 → 小计。",
+      "ja": "sub「下の・部分の」+ total「合計」→ 合計の一部 → 小計。"
+     },
+     "forms": [
+      [
+       "order subtotal",
+       "订单小计",
+       "注文の小計"
+      ],
+      [
+       "grand total",
+       "总计",
+       "総合計"
+      ]
+     ]
+    },
+    {
+     "w": "subcontract",
+     "pos": "v.",
+     "ipa": "/ˌsʌbkənˈtrækt/",
+     "zh": "转包；分包",
+     "ja": "下請けに出す",
+     "ex": "The builder subcontracted the electrical work to a local firm.",
+     "ex_zh": "建筑商把电气工程分包给了一家本地公司。",
+     "ex_ja": "建設業者は電気工事を地元の会社に下請けに出した。",
+     "parts": [
+      [
+       "sub-",
+       "下",
+       "下の"
+      ],
+      [
+       "contract",
+       "合同；承包",
+       "契約"
+      ]
+     ],
+     "note": {
+      "zh": "sub“下”+ contract“合同”→ 在主合同之下再签合同 → 转包。",
+      "ja": "sub「下の」+ contract「契約」→ 元の契約の下でさらに契約する → 下請けに出す。"
+     },
+     "forms": [
+      [
+       "subcontractor (n.)",
+       "分包商",
+       "下請け業者"
+      ],
+      [
+       "subcontract work",
+       "转包工作",
+       "下請け作業"
+      ]
+     ]
+    },
+    {
+     "w": "subtitle",
+     "pos": "n.",
+     "ipa": "/ˈsʌbtaɪtəl/",
+     "zh": "字幕；副标题",
+     "ja": "字幕；副題",
+     "ex": "The training video has English subtitles for overseas staff.",
+     "ex_zh": "培训视频带有英文字幕，供海外员工观看。",
+     "ex_ja": "研修ビデオには海外スタッフ向けに英語の字幕が付いている。",
+     "parts": [
+      [
+       "sub-",
+       "下",
+       "下の"
+      ],
+      [
+       "title",
+       "标题",
+       "題"
+      ]
+     ],
+     "note": {
+      "zh": "sub“下”+ title“标题”→ 标题下面的小标题 / 画面下方的文字 → 副标题、字幕。",
+      "ja": "sub「下の」+ title「題」→ 題の下の題／画面下の文字 → 副題、字幕。"
+     },
+     "forms": [
+      [
+       "with subtitles",
+       "带字幕",
+       "字幕付き"
+      ],
+      [
+       "subtitle (v.)",
+       "加字幕",
+       "字幕を付ける"
+      ]
+     ]
+    },
+    {
+     "w": "subdivision",
+     "pos": "n.",
+     "ipa": "/ˈsʌbdɪvɪʒən/",
+     "zh": "细分；住宅小区",
+     "ja": "細分；分譲地",
+     "ex": "The developer plans a new subdivision of 120 homes near the station.",
+     "ex_zh": "开发商计划在车站附近建一个有120套住宅的新小区。",
+     "ex_ja": "開発業者は駅の近くに120戸の新しい分譲地を計画している。",
+     "parts": [
+      [
+       "sub-",
+       "下；再次",
+       "下の；さらに"
+      ],
+      [
+       "divis",
+       "分开",
+       "分ける"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "sub“再次”+ division“划分”→ 再划分出来的部分 → 细分、分块的土地 → 住宅小区。",
+      "ja": "sub「さらに」+ division「分割」→ さらに分けたもの → 細分、分譲地。"
+     },
+     "forms": [
+      [
+       "housing subdivision",
+       "住宅小区",
+       "分譲住宅地"
+      ],
+      [
+       "subdivide (v.)",
+       "再分",
+       "細分する"
+      ]
+     ]
+    },
+    {
+     "w": "subcommittee",
+     "pos": "n.",
+     "ipa": "/ˈsʌbkəmɪti/",
+     "zh": "小组委员会",
+     "ja": "小委員会",
+     "ex": "A subcommittee will review the budget proposal next week.",
+     "ex_zh": "一个小组委员会将于下周审议预算提案。",
+     "ex_ja": "小委員会が来週、予算案を審査する。",
+     "parts": [
+      [
+       "sub-",
+       "下；附属",
+       "下の；付属の"
+      ],
+      [
+       "committee",
+       "委员会",
+       "委員会"
+      ]
+     ],
+     "note": {
+      "zh": "sub“附属”+ committee“委员会”→ 隶属于委员会的小组。",
+      "ja": "sub「付属の」+ committee「委員会」→ 委員会に属する小グループ。"
+     },
+     "forms": [
+      [
+       "form a subcommittee",
+       "成立小组委员会",
+       "小委員会を設置する"
+      ],
+      [
+       "subcommittee member",
+       "小组委员",
+       "小委員会の委員"
+      ]
+     ]
+    },
+    {
+     "w": "substantial",
+     "pos": "adj.",
+     "ipa": "/səbˈstænʃəl/",
+     "zh": "大量的；实质性的",
+     "ja": "かなりの；実質的な",
+     "ex": "The company made a substantial investment in new equipment.",
+     "ex_zh": "公司在新设备上做了大量投资。",
+     "ex_ja": "会社は新しい設備にかなりの投資を行った。",
+     "parts": [
+      [
+       "sub-",
+       "在下面",
+       "下に"
+      ],
+      [
+       "stan",
+       "站立",
+       "立つ"
+      ],
+      [
+       "-tial",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "sub“在下面”+ stan“站立”（拉丁语 stare）→ 站在底下的东西 → 实体、本质 → 数量可观的。",
+      "ja": "sub「下に」+ stan「立つ」（ラテン語 stare）→ 土台として立つもの → 実質 → かなりの。"
+     },
+     "forms": [
+      [
+       "substantially (adv.)",
+       "大幅地",
+       "大幅に"
+      ],
+      [
+       "substantial increase",
+       "大幅增长",
+       "大幅な増加"
+      ]
+     ]
+    },
+    {
+     "w": "subway",
+     "pos": "n.",
+     "ipa": "/ˈsʌbweɪ/",
+     "zh": "地铁",
+     "ja": "地下鉄",
+     "ex": "Most employees take the subway to the office.",
+     "ex_zh": "大多数员工乘地铁去公司。",
+     "ex_ja": "社員の多くは地下鉄で出社する。",
+     "parts": [
+      [
+       "sub-",
+       "下",
+       "下の"
+      ],
+      [
+       "way",
+       "路",
+       "道"
+      ]
+     ],
+     "note": {
+      "zh": "sub“下”+ way“路”→ 地下的路 → 地铁（美式；英式多说 underground）。",
+      "ja": "sub「下の」+ way「道」→ 地下の道 → 地下鉄（米語。英語では underground）。"
+     },
+     "forms": [
+      [
+       "subway station",
+       "地铁站",
+       "地下鉄の駅"
+      ],
+      [
+       "subway line",
+       "地铁线",
+       "地下鉄の路線"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "analytics",
+   "title_zh": "主题：市场调研与数据分析",
+   "title_ja": "テーマ：市場調査とデータ分析",
+   "words": [
+    {
+     "w": "sample",
+     "pos": "n.",
+     "ipa": "/ˈsæmpəl/",
+     "zh": "样本；样品",
+     "ja": "見本；標本",
+     "ex": "We tested a sample of 500 customers before the launch.",
+     "ex_zh": "发布前我们测试了500名顾客的样本。",
+     "ex_ja": "発売前に、500人の顧客のサンプルでテストを行った。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：来自古法语 essample（例子），一般按整词记忆。",
+      "ja": "信頼できる語根分解はありません：古フランス語 essample（例）由来。一語で覚える。"
+     },
+     "forms": [
+      [
+       "sample size",
+       "样本量",
+       "サンプル数"
+      ],
+      [
+       "free sample",
+       "免费样品",
+       "無料サンプル"
+      ]
+     ]
+    },
+    {
+     "w": "trend",
+     "pos": "n.",
+     "ipa": "/trɛnd/",
+     "zh": "趋势；潮流",
+     "ja": "傾向；流行",
+     "ex": "Online shopping is the main trend in retail this year.",
+     "ex_zh": "网购是今年零售业的主要趋势。",
+     "ex_ja": "今年の小売業ではオンラインショッピングが主要な潮流だ。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：来自古英语，原指“转向”，按整词记忆。",
+      "ja": "信頼できる語根分解はありません：古英語由来で、もとは「向きを変える」。一語で覚える。"
+     },
+     "forms": [
+      [
+       "market trend",
+       "市场趋势",
+       "市場動向"
+      ],
+      [
+       "trend report",
+       "趋势报告",
+       "動向レポート"
+      ]
+     ]
+    },
+    {
+     "w": "correlation",
+     "pos": "n.",
+     "ipa": "/ˌkɔrəˈleɪʃən/",
+     "zh": "相关性；关联",
+     "ja": "相関；関連",
+     "ex": "The study found a strong correlation between price and sales.",
+     "ex_zh": "研究发现价格与销量之间有很强的相关性。",
+     "ex_ja": "調査により、価格と売上の間に強い相関があることがわかった。",
+     "parts": [
+      [
+       "cor-",
+       "一起（com-）",
+       "共に"
+      ],
+      [
+       "relat",
+       "关系",
+       "関係"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "cor（com）“一起”+ relation“关系”→ 相互关联 → 相关性。",
+      "ja": "cor（com）「共に」+ relation「関係」→ 互いに関係する → 相関。"
+     },
+     "forms": [
+      [
+       "a strong correlation",
+       "强相关",
+       "強い相関"
+      ],
+      [
+       "correlate (v.)",
+       "相关",
+       "相関する"
+      ]
+     ]
+    },
+    {
+     "w": "engagement",
+     "pos": "n.",
+     "ipa": "/ɪnˈgeɪdʒmənt/",
+     "zh": "参与度；约定；订婚",
+     "ja": "関与；約束；エンゲージメント",
+     "ex": "Social media engagement doubled after the campaign.",
+     "ex_zh": "活动之后，社交媒体的参与度翻了一番。",
+     "ex_ja": "キャンペーン後、ソーシャルメディアでのエンゲージメントが2倍になった。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：en + gage（抵押、承诺）+ -ment，含义随语境变化（参与、约定），按整词记忆。",
+      "ja": "信頼できる語根分解はありません：en + gage（誓約）+ -ment。文脈で意味が変わる（関与・約束）ので一語で覚える。"
+     },
+     "forms": [
+      [
+       "customer engagement",
+       "客户参与度",
+       "顧客エンゲージメント"
+      ],
+      [
+       "a prior engagement",
+       "先约",
+       "先約"
+      ]
+     ]
+    },
+    {
+     "w": "metric",
+     "pos": "n.",
+     "ipa": "/ˈmɛtrɪk/",
+     "zh": "指标；衡量标准",
+     "ja": "指標；測定基準",
+     "ex": "Customer satisfaction is the key metric for this department.",
+     "ex_zh": "客户满意度是这个部门的关键指标。",
+     "ex_ja": "顧客満足度はこの部門の重要な指標だ。",
+     "parts": [
+      [
+       "metr",
+       "测量",
+       "測る"
+      ],
+      [
+       "-ic",
+       "名词/形容词后缀",
+       "〜の"
+      ]
+     ],
+     "note": {
+      "zh": "metr“测量”（希腊语 metron）+ -ic → 衡量用的东西 → 指标。",
+      "ja": "metr「測る」（ギリシャ語 metron）+ -ic → 測るためのもの → 指標。"
+     },
+     "forms": [
+      [
+       "performance metrics",
+       "绩效指标",
+       "業績指標"
+      ],
+      [
+       "metric system",
+       "公制",
+       "メートル法"
+      ]
+     ]
+    },
+    {
+     "w": "analytics",
+     "pos": "n.",
+     "ipa": "/ˌænəˈlɪtɪks/",
+     "zh": "数据分析",
+     "ja": "分析（学）；アナリティクス",
+     "ex": "The marketing team uses web analytics to track visitors.",
+     "ex_zh": "营销团队用网站数据分析来追踪访客。",
+     "ex_ja": "マーケティングチームはウェブ解析で訪問者を追跡している。",
+     "parts": [
+      [
+       "ana-",
+       "向上；彻底",
+       "上へ；完全に"
+      ],
+      [
+       "lyt",
+       "松开；分解",
+       "解く"
+      ],
+      [
+       "-ics",
+       "学科后缀",
+       "〜学"
+      ]
+     ],
+     "note": {
+      "zh": "ana“彻底”+ lyt“松开”→ 彻底拆开来看 → 分析。analyze 同源。",
+      "ja": "ana「完全に」+ lyt「解く」→ 完全にほどいて見る → 分析。analyze と同源。"
+     },
+     "forms": [
+      [
+       "data analytics",
+       "数据分析",
+       "データ分析"
+      ],
+      [
+       "analyst (n.)",
+       "分析师",
+       "アナリスト"
+      ]
+     ]
+    },
+    {
+     "w": "segmentation",
+     "pos": "n.",
+     "ipa": "/ˌsɛgmənˈteɪʃən/",
+     "zh": "细分；市场细分",
+     "ja": "細分化；セグメンテーション",
+     "ex": "Market segmentation helped the firm target younger customers.",
+     "ex_zh": "市场细分帮助公司瞄准了更年轻的顾客。",
+     "ex_ja": "市場のセグメンテーションにより、会社は若い顧客に狙いを定められた。",
+     "parts": [
+      [
+       "seg",
+       "切；割",
+       "切る"
+      ],
+      [
+       "-ment",
+       "名词后缀",
+       "名詞を作る"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "seg“切”（拉丁语 secare，同 sect 词根）→ 切成块 → 细分。",
+      "ja": "seg「切る」（ラテン語 secare、sect と同系）→ 切り分ける → 細分化。"
+     },
+     "forms": [
+      [
+       "market segmentation",
+       "市场细分",
+       "市場細分化"
+      ],
+      [
+       "segment (n.)",
+       "部分；细分市场",
+       "区分；セグメント"
+      ]
+     ]
+    },
+    {
+     "w": "outlier",
+     "pos": "n.",
+     "ipa": "/ˈaʊtlaɪɚ/",
+     "zh": "异常值；离群点",
+     "ja": "外れ値；例外",
+     "ex": "One outlier distorted the average sales figure.",
+     "ex_zh": "一个异常值扭曲了平均销售额。",
+     "ex_ja": "1つの外れ値が平均売上高をゆがめた。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：out + lie（位于）+ -er，“躺在外面的东西”，透明复合词。",
+      "ja": "信頼できる語根分解はありません：out + lie（位置する）+ -er。「外に位置するもの」で意味は透明。"
+     },
+     "forms": [
+      [
+       "remove an outlier",
+       "剔除异常值",
+       "外れ値を除く"
+      ],
+      [
+       "statistical outlier",
+       "统计异常值",
+       "統計的外れ値"
+      ]
+     ]
+    },
+    {
+     "w": "variance",
+     "pos": "n.",
+     "ipa": "/ˈvɛriəns/",
+     "zh": "差异；方差",
+     "ja": "差異；分散",
+     "ex": "There was a large variance between the forecast and actual costs.",
+     "ex_zh": "预测与实际成本之间存在很大差异。",
+     "ex_ja": "予測と実際の費用の間には大きな差異があった。",
+     "parts": [
+      [
+       "vari",
+       "变化；不同",
+       "変わる"
+      ],
+      [
+       "-ance",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "vari“变化”（拉丁语 varius）+ -ance → 变化的程度 → 差异。",
+      "ja": "vari「変わる」（ラテン語 varius）+ -ance → 変化の度合い → 差異。"
+     },
+     "forms": [
+      [
+       "budget variance",
+       "预算差异",
+       "予算差異"
+      ],
+      [
+       "vary (v.)",
+       "变化",
+       "変わる"
+      ]
+     ]
+    },
+    {
+     "w": "cohort",
+     "pos": "n.",
+     "ipa": "/ˈkoʊhɔrt/",
+     "zh": "同期群体；一批人",
+     "ja": "同じ属性の集団；コホート",
+     "ex": "The new employee cohort will start training on Monday.",
+     "ex_zh": "这批新员工将于周一开始培训。",
+     "ex_ja": "今回の新入社員グループは月曜日に研修を始める。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：来自拉丁语 cohors（军队分队），按整词记忆。",
+      "ja": "信頼できる語根分解はありません：ラテン語 cohors（軍の部隊）由来。一語で覚える。"
+     },
+     "forms": [
+      [
+       "a cohort of trainees",
+       "一批学员",
+       "研修生の一団"
+      ],
+      [
+       "cohort analysis",
+       "群组分析",
+       "コホート分析"
+      ]
+     ]
+    },
+    {
+     "w": "baseline",
+     "pos": "n.",
+     "ipa": "/ˈbeɪslaɪn/",
+     "zh": "基线；基准",
+     "ja": "基準線；ベースライン",
+     "ex": "We measured current output to set a baseline.",
+     "ex_zh": "我们测量了当前产量以设定基准。",
+     "ex_ja": "基準を設けるため、現在の生産量を測定した。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：base（基础）+ line（线），透明复合词。",
+      "ja": "信頼できる語根分解はありません：base（土台）+ line（線）の合成語で意味は透明。"
+     },
+     "forms": [
+      [
+       "set a baseline",
+       "设定基准",
+       "基準を設定する"
+      ],
+      [
+       "baseline data",
+       "基准数据",
+       "基準データ"
+      ]
+     ]
+    },
+    {
+     "w": "indicator",
+     "pos": "n.",
+     "ipa": "/ˈɪndəkeɪtɚ/",
+     "zh": "指标；标志",
+     "ja": "指標；表示器",
+     "ex": "Rising orders are a good indicator of customer demand.",
+     "ex_zh": "订单增加是客户需求的良好指标。",
+     "ex_ja": "受注の増加は顧客需要の良い指標だ。",
+     "parts": [
+      [
+       "in-",
+       "向",
+       "中へ；向かって"
+      ],
+      [
+       "dic",
+       "指出；说",
+       "示す"
+      ],
+      [
+       "-ator",
+       "行为者后缀",
+       "〜するもの"
+      ]
+     ],
+     "note": {
+      "zh": "in“向”+ dic“指出”（拉丁语 dicare）+ -ator → 指出的东西 → 指标。",
+      "ja": "in「向かって」+ dic「示す」（ラテン語 dicare）+ -ator → 示すもの → 指標。"
+     },
+     "forms": [
+      [
+       "economic indicator",
+       "经济指标",
+       "経済指標"
+      ],
+      [
+       "indicate (v.)",
+       "表明",
+       "示す"
+      ]
+     ]
+    },
+    {
+     "w": "quantify",
+     "pos": "v.",
+     "ipa": "/ˈkwɑntɪfaɪ/",
+     "zh": "量化；用数量表示",
+     "ja": "数値化する",
+     "ex": "It is hard to quantify the benefits of employee training.",
+     "ex_zh": "员工培训的好处很难量化。",
+     "ex_ja": "従業員研修の効果を数値化するのは難しい。",
+     "parts": [
+      [
+       "quant",
+       "多少；数量",
+       "どれだけ"
+      ],
+      [
+       "-ify",
+       "使…化",
+       "〜にする"
+      ]
+     ],
+     "note": {
+      "zh": "quant“多少”（拉丁语 quantus）+ -ify“使成为”→ 变成数量 → 量化。",
+      "ja": "quant「どれだけ」（ラテン語 quantus）+ -ify「〜にする」→ 数にする → 数値化する。"
+     },
+     "forms": [
+      [
+       "quantity (n.)",
+       "数量",
+       "数量"
+      ],
+      [
+       "quantifiable (adj.)",
+       "可量化的",
+       "数値化できる"
+      ]
+     ]
+    },
+    {
+     "w": "tabulate",
+     "pos": "v.",
+     "ipa": "/ˈtæbjəleɪt/",
+     "zh": "制表；列表",
+     "ja": "表にまとめる",
+     "ex": "The assistant will tabulate the survey results by Friday.",
+     "ex_zh": "助理将在周五前把调查结果制成表格。",
+     "ex_ja": "アシスタントは金曜日までにアンケート結果を表にまとめる。",
+     "parts": [
+      [
+       "tabul",
+       "板；表",
+       "板；表"
+      ],
+      [
+       "-ate",
+       "动词词尾",
+       "動詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "tabul（拉丁语 tabula“板、表”）+ -ate → 做成表格 → 制表。table 同源。",
+      "ja": "tabul（ラテン語 tabula「板・表」）+ -ate → 表にする。table と同源。"
+     },
+     "forms": [
+      [
+       "tabulation (n.)",
+       "制表",
+       "集計"
+      ],
+      [
+       "tabulate data",
+       "整理数据成表",
+       "データを表にする"
+      ]
+     ]
+    },
+    {
+     "w": "keyword",
+     "pos": "n.",
+     "ipa": "/ˈkiwɝd/",
+     "zh": "关键词",
+     "ja": "キーワード",
+     "ex": "Use a relevant keyword in the title to attract more visitors.",
+     "ex_zh": "在标题中使用相关关键词以吸引更多访客。",
+     "ex_ja": "より多くの訪問者を呼ぶため、タイトルに関連するキーワードを入れてください。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：key（关键）+ word（词），透明复合词。",
+      "ja": "信頼できる語根分解はありません：key（重要な）+ word（語）の合成語で意味は透明。"
+     },
+     "forms": [
+      [
+       "search keyword",
+       "搜索关键词",
+       "検索キーワード"
+      ],
+      [
+       "keyword search",
+       "关键词搜索",
+       "キーワード検索"
+      ]
+     ]
+    },
+    {
+     "w": "traffic",
+     "pos": "n.",
+     "ipa": "/ˈtræfɪk/",
+     "zh": "流量；访问量；交通",
+     "ja": "アクセス数；交通量",
+     "ex": "Website traffic rose sharply after the new ad appeared.",
+     "ex_zh": "新广告出现后，网站流量大幅上升。",
+     "ex_ja": "新しい広告が出た後、ウェブサイトのアクセス数が急増した。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：来自意大利语 traffico（贸易），按整词记忆。",
+      "ja": "信頼できる語根分解はありません：イタリア語 traffico（取引）由来。一語で覚える。"
+     },
+     "forms": [
+      [
+       "website traffic",
+       "网站流量",
+       "ウェブサイトのアクセス数"
+      ],
+      [
+       "heavy traffic",
+       "交通拥堵",
+       "交通渋滞"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "factory",
+   "title_zh": "主题：生产检验与设备维护",
+   "title_ja": "テーマ：製造検査と設備保守",
+   "words": [
+    {
+     "w": "inspection",
+     "pos": "n.",
+     "ipa": "/ɪnˈspɛkʃən/",
+     "zh": "检查；检验",
+     "ja": "検査；点検",
+     "ex": "The safety inspection will take place on Thursday morning.",
+     "ex_zh": "安全检查将于周四上午进行。",
+     "ex_ja": "安全点検は木曜日の午前に行われる。",
+     "parts": [
+      [
+       "in-",
+       "向内",
+       "中へ"
+      ],
+      [
+       "spect",
+       "看",
+       "見る"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "in“向内”+ spect“看”→ 往里仔细看 → 检查。",
+      "ja": "in「中へ」+ spect「見る」→ 中をよく見る → 検査。"
+     },
+     "forms": [
+      [
+       "pass an inspection",
+       "通过检查",
+       "検査に合格する"
+      ],
+      [
+       "inspector (n.)",
+       "检查员",
+       "検査官"
+      ]
+     ]
+    },
+    {
+     "w": "machinery",
+     "pos": "n.",
+     "ipa": "/məˈʃinəri/",
+     "zh": "机械；机器设备",
+     "ja": "機械類",
+     "ex": "The factory invested in new machinery to raise output.",
+     "ex_zh": "工厂投资新机械来提高产量。",
+     "ex_ja": "工場は生産量を上げるため、新しい機械に投資した。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：machine（机器）+ -ery（集合名词后缀），是不可数名词。",
+      "ja": "信頼できる語根分解はありません：machine（機械）+ -ery（集合名詞を作る接尾辞）。不可算名詞。"
+     },
+     "forms": [
+      [
+       "heavy machinery",
+       "重型机械",
+       "重機"
+      ],
+      [
+       "machinery maintenance",
+       "设备维护",
+       "機械の保守"
+      ]
+     ]
+    },
+    {
+     "w": "tooling",
+     "pos": "n.",
+     "ipa": "/ˈtulɪŋ/",
+     "zh": "工装；加工设备",
+     "ja": "工具設備；金型・治具",
+     "ex": "New tooling is required before mass production can begin.",
+     "ex_zh": "量产开始前需要新的工装设备。",
+     "ex_ja": "量産を始める前に、新しい金型・治具が必要だ。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：tool（工具）+ -ing，透明派生。",
+      "ja": "信頼できる語根分解はありません：tool（工具）+ -ing の派生で意味は透明。"
+     },
+     "forms": [
+      [
+       "tooling cost",
+       "工装成本",
+       "金型費用"
+      ],
+      [
+       "retool (v.)",
+       "更换设备",
+       "設備を入れ替える"
+      ]
+     ]
+    },
+    {
+     "w": "calibration",
+     "pos": "n.",
+     "ipa": "/ˌkæləˈbreɪʃən/",
+     "zh": "校准",
+     "ja": "校正；較正",
+     "ex": "Regular calibration keeps the scales accurate.",
+     "ex_zh": "定期校准能保证秤的准确。",
+     "ex_ja": "定期的な校正により、はかりの精度が保たれる。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：来自 calibre（口径），按整词记忆；动词是 calibrate。",
+      "ja": "信頼できる語根分解はありません：calibre（口径）由来。動詞は calibrate。一語で覚える。"
+     },
+     "forms": [
+      [
+       "calibrate (v.)",
+       "校准",
+       "校正する"
+      ],
+      [
+       "calibration check",
+       "校准检查",
+       "校正チェック"
+      ]
+     ]
+    },
+    {
+     "w": "lubricate",
+     "pos": "v.",
+     "ipa": "/ˈlubrɪkeɪt/",
+     "zh": "润滑；给…上油",
+     "ja": "潤滑油を差す",
+     "ex": "Workers must lubricate the machine every week.",
+     "ex_zh": "工人必须每周给机器上油。",
+     "ex_ja": "作業員は毎週、機械に潤滑油を差さなければならない。",
+     "parts": [
+      [
+       "lubric",
+       "滑的",
+       "滑らかな"
+      ],
+      [
+       "-ate",
+       "动词词尾",
+       "動詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "lubric（拉丁语 lubricus“滑的”）+ -ate → 使变滑 → 润滑。",
+      "ja": "lubric（ラテン語 lubricus「滑らかな」）+ -ate → 滑らかにする → 潤滑する。"
+     },
+     "forms": [
+      [
+       "lubricant (n.)",
+       "润滑剂",
+       "潤滑剤"
+      ],
+      [
+       "lubrication (n.)",
+       "润滑",
+       "潤滑"
+      ]
+     ]
+    },
+    {
+     "w": "durability",
+     "pos": "n.",
+     "ipa": "/ˌdʊrəˈbɪləti/",
+     "zh": "耐用性；耐久性",
+     "ja": "耐久性",
+     "ex": "The brochure highlights the durability of the new tires.",
+     "ex_zh": "宣传册强调了新轮胎的耐用性。",
+     "ex_ja": "パンフレットは新しいタイヤの耐久性を強調している。",
+     "parts": [
+      [
+       "dur",
+       "持续；坚硬",
+       "続く"
+      ],
+      [
+       "-abil-",
+       "能…",
+       "〜できる"
+      ],
+      [
+       "-ity",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "dur“持续”（拉丁语 durare）+ -ability → 能持续的程度 → 耐用性。",
+      "ja": "dur「続く」（ラテン語 durare）+ -ability → 持続できる度合い → 耐久性。"
+     },
+     "forms": [
+      [
+       "durable (adj.)",
+       "耐用的",
+       "耐久性のある"
+      ],
+      [
+       "product durability",
+       "产品耐用性",
+       "製品の耐久性"
+      ]
+     ]
+    },
+    {
+     "w": "sturdy",
+     "pos": "adj.",
+     "ipa": "/ˈstɝdi/",
+     "zh": "结实的；坚固的",
+     "ja": "頑丈な",
+     "ex": "The sturdy shelves can hold up to 200 kilograms.",
+     "ex_zh": "这些结实的货架最多能承重200公斤。",
+     "ex_ja": "この頑丈な棚は最大200キロまで耐えられる。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：来自古法语，按整词记忆。",
+      "ja": "信頼できる語根分解はありません：古フランス語由来。一語で覚える。"
+     },
+     "forms": [
+      [
+       "sturdy construction",
+       "结实的结构",
+       "頑丈な造り"
+      ],
+      [
+       "sturdy box",
+       "结实的箱子",
+       "丈夫な箱"
+      ]
+     ]
+    },
+    {
+     "w": "wear",
+     "pos": "n.",
+     "ipa": "/wɛr/",
+     "zh": "磨损；穿着",
+     "ja": "摩耗；着用",
+     "ex": "The machine shows signs of wear and needs new parts.",
+     "ex_zh": "这台机器出现磨损迹象，需要换新零件。",
+     "ex_ja": "その機械は摩耗の兆候があり、新しい部品が必要だ。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：古英语的基本词，没有可拆分的词根。⚠️ 在这里是名词“磨损”，不是动词“穿”。",
+      "ja": "信頼できる語根分解はありません：古英語の基本語で分解できません。⚠️ ここでは名詞「摩耗」で、動詞「着る」ではない。"
+     },
+     "forms": [
+      [
+       "wear and tear",
+       "正常磨损",
+       "通常の摩耗"
+      ],
+      [
+       "outwear (v.)",
+       "比…耐用",
+       "〜より長持ちする"
+      ]
+     ]
+    },
+    {
+     "w": "corrosion",
+     "pos": "n.",
+     "ipa": "/kəˈroʊʒən/",
+     "zh": "腐蚀；锈蚀",
+     "ja": "腐食；さび",
+     "ex": "Salt air can cause corrosion on metal parts.",
+     "ex_zh": "含盐的空气会使金属部件腐蚀。",
+     "ex_ja": "塩分を含む空気は金属部品の腐食を引き起こす。",
+     "parts": [
+      [
+       "cor-",
+       "彻底（com-）",
+       "完全に"
+      ],
+      [
+       "rod",
+       "啃；咬",
+       "かじる"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "cor（com）“彻底”+ rod“啃咬”（拉丁语 rodere）→ 被一点点啃掉 → 腐蚀。rodent（啮齿动物）同源。",
+      "ja": "cor（com）「完全に」+ rod「かじる」（ラテン語 rodere）→ 少しずつ削られる → 腐食。rodent（げっ歯類）と同系。"
+     },
+     "forms": [
+      [
+       "corrosion-resistant",
+       "耐腐蚀的",
+       "耐食性の"
+      ],
+      [
+       "corrode (v.)",
+       "腐蚀",
+       "腐食する"
+      ]
+     ]
+    },
+    {
+     "w": "gasket",
+     "pos": "n.",
+     "ipa": "/ˈgæskɪt/",
+     "zh": "垫圈；密封垫",
+     "ja": "ガスケット；パッキン",
+     "ex": "A worn gasket caused the pipe to leak.",
+     "ex_zh": "磨损的垫圈导致管道漏水。",
+     "ex_ja": "摩耗したパッキンが原因で配管から水が漏れた。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：来源不确定的技术词，按整词记忆。",
+      "ja": "信頼できる語根分解はありません：語源がはっきりしない技術用語。一語で覚える。"
+     },
+     "forms": [
+      [
+       "replace the gasket",
+       "更换垫圈",
+       "パッキンを交換する"
+      ],
+      [
+       "rubber gasket",
+       "橡胶垫圈",
+       "ゴムパッキン"
+      ]
+     ]
+    },
+    {
+     "w": "valve",
+     "pos": "n.",
+     "ipa": "/vælv/",
+     "zh": "阀门；阀",
+     "ja": "バルブ；弁",
+     "ex": "Close the main valve before repairing the pipe.",
+     "ex_zh": "修理管道前请关闭总阀门。",
+     "ex_ja": "配管を修理する前に、元栓のバルブを閉めてください。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：来自拉丁语 valva（门扇），按整词记忆；与 value 无关。",
+      "ja": "信頼できる語根分解はありません：ラテン語 valva（扉）由来。一語で覚える。⚠️ value とは無関係。"
+     },
+     "forms": [
+      [
+       "safety valve",
+       "安全阀",
+       "安全弁"
+      ],
+      [
+       "shut-off valve",
+       "截止阀",
+       "止め弁"
+      ]
+     ]
+    },
+    {
+     "w": "scaffold",
+     "pos": "n.",
+     "ipa": "/ˈskæfoʊld/",
+     "zh": "脚手架",
+     "ja": "足場",
+     "ex": "Workers put up a scaffold around the old building.",
+     "ex_zh": "工人在老建筑周围搭起了脚手架。",
+     "ex_ja": "作業員は古い建物の周りに足場を組んだ。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：来自古法语，按整词记忆；常见搭配 scaffolding（脚手架，不可数）。",
+      "ja": "信頼できる語根分解はありません：古フランス語由来。一語で覚える。scaffolding（足場、不可算）もよく使う。"
+     },
+     "forms": [
+      [
+       "scaffolding (n.)",
+       "脚手架",
+       "足場"
+      ],
+      [
+       "erect a scaffold",
+       "搭脚手架",
+       "足場を組む"
+      ]
+     ]
+    },
+    {
+     "w": "fabrication",
+     "pos": "n.",
+     "ipa": "/ˌfæbrɪˈkeɪʃən/",
+     "zh": "制造；加工；捏造",
+     "ja": "製作；加工；でっち上げ",
+     "ex": "The company specializes in metal fabrication for the auto industry.",
+     "ex_zh": "这家公司专门为汽车行业做金属加工。",
+     "ex_ja": "その会社は自動車産業向けの金属加工を専門としている。",
+     "parts": [
+      [
+       "fabr",
+       "工匠；制作",
+       "職人；作る"
+      ],
+      [
+       "-ic-",
+       "（连接）",
+       "（連結）"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "fabr（拉丁语 faber“工匠”）+ -ation → 制作的过程 → 制造、加工；也有“捏造”义（制造谎言）。",
+      "ja": "fabr（ラテン語 faber「職人」）+ -ation → 作ること → 製作、加工；「でっち上げ」の意味もある。"
+     },
+     "forms": [
+      [
+       "fabricate (v.)",
+       "制造；捏造",
+       "製作する；捏造する"
+      ],
+      [
+       "fabric (n.)",
+       "织物",
+       "布地"
+      ]
+     ]
+    },
+    {
+     "w": "noncompliance",
+     "pos": "n.",
+     "ipa": "/ˌnɑnkəmˈplaɪəns/",
+     "zh": "不合规；不遵守",
+     "ja": "不遵守；違反",
+     "ex": "Noncompliance with safety rules may result in a fine.",
+     "ex_zh": "不遵守安全规定可能会被罚款。",
+     "ex_ja": "安全規則に従わない場合、罰金が科されることがある。",
+     "parts": [
+      [
+       "non-",
+       "不",
+       "〜でない"
+      ],
+      [
+       "com-",
+       "一起；完全",
+       "共に；完全に"
+      ],
+      [
+       "pli",
+       "填满；折叠",
+       "満たす"
+      ],
+      [
+       "-ance",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "non“不”+ compliance“遵从”→ 不遵从。compliance 来自 comply，与 -ple-/-pli-（满）同源。",
+      "ja": "non「〜でない」+ compliance「遵守」→ 遵守しないこと。compliance は comply から。-ple-/-pli-（満たす）と同系。"
+     },
+     "forms": [
+      [
+       "compliance (n.)",
+       "合规",
+       "法令遵守"
+      ],
+      [
+       "in compliance with",
+       "符合…规定",
+       "〜に準拠して"
+      ]
+     ]
+    },
+    {
+     "w": "sterilize",
+     "pos": "v.",
+     "ipa": "/ˈstɛrəlaɪz/",
+     "zh": "消毒；杀菌",
+     "ja": "殺菌する；滅菌する",
+     "ex": "All instruments must be sterilized before each use.",
+     "ex_zh": "所有器械每次使用前都必须消毒。",
+     "ex_ja": "すべての器具は使用前に滅菌しなければならない。",
+     "parts": [
+      [
+       "steril",
+       "不育的；无菌的",
+       "不毛の；無菌の"
+      ],
+      [
+       "-ize",
+       "使…化",
+       "〜にする"
+      ]
+     ],
+     "note": {
+      "zh": "steril（拉丁语 sterilis“不结果的”）+ -ize → 使“不育”→ 使无菌 → 消毒。",
+      "ja": "steril（ラテン語 sterilis「実を結ばない」）+ -ize → 菌を生まなくする → 殺菌する。"
+     },
+     "forms": [
+      [
+       "sterile (adj.)",
+       "无菌的",
+       "無菌の"
+      ],
+      [
+       "sterilization (n.)",
+       "消毒",
+       "殺菌"
+      ]
+     ]
+    },
+    {
+     "w": "retool",
+     "pos": "v.",
+     "ipa": "/riˈtul/",
+     "zh": "更换设备；重新调整",
+     "ja": "設備を入れ替える；立て直す",
+     "ex": "The plant will shut down for a week to retool its assembly line.",
+     "ex_zh": "工厂将停产一周，以更换装配线设备。",
+     "ex_ja": "工場は組立ラインの設備を入れ替えるため、1週間操業を止める。",
+     "parts": [
+      [
+       "re-",
+       "再",
+       "再び"
+      ],
+      [
+       "tool",
+       "工具；设备",
+       "道具；設備"
+      ]
+     ],
+     "note": {
+      "zh": "re“再”+ tool“工具”→ 重新配备工具 → 更换设备；引申为重新调整。",
+      "ja": "re「再び」+ tool「道具」→ 設備を入れ直す → 設備を入れ替える；転じて立て直す。"
+     },
+     "forms": [
+      [
+       "retooling (n.)",
+       "设备更新",
+       "設備の更新"
+      ],
+      [
+       "retool a strategy",
+       "调整策略",
+       "戦略を見直す"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}
