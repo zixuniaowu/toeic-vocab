@@ -6850,6 +6850,573 @@
      "src": "site+ep15"
     }
    ]
+  },
+  "51": {
+   "date": "2026-11-23",
+   "focus_zh": "考后轻复习：Part 5 复习 8 题 + Part 7 两篇（Test 1 新题）",
+   "focus_ja": "試験後の軽い復習：Part 5 復習8問＋Part 7 の2題（Test 1 未学習）",
+   "grammar": [
+    {
+     "id": "T1-Q107",
+     "label": "Test 1 · Q107",
+     "test": 1,
+     "no": 107,
+     "part": 5,
+     "q": "The Delfin Naval Museum is open from 10:00 A.M. ------- 5:30 P.M. Monday through Friday.",
+     "options": [
+      "since",
+      "until",
+      "during",
+      "except"
+     ],
+     "answer": "B",
+     "topic_zh": "综合：介词 · 副词 · 连接",
+     "topic_ja": "総まとめ：前置詞 · 副詞 · つなぎ",
+     "tip_zh": "from A until B“从A到B”",
+     "tip_ja": "from A until B「AからBまで」",
+     "src": "ep57",
+     "exp_zh": "固定搭配 from A until/to B“从A到B”，B正确。since 表示“自从”，接过去时间点且配完成时；during 接时间段名词；except“除了”意思不通。",
+     "exp_ja": "from A until/to B「AからBまで」の決まった形なので、Bが正解。since「～以来」は過去の時点を続け完了形と使う。during は期間を表す名詞を続ける。except「～を除いて」は意味が通らない。",
+     "vocab_zh": "naval 海军的；Monday through Friday 周一至周五",
+     "vocab_ja": "naval 海軍の；Monday through Friday 月曜から金曜まで"
+    },
+    {
+     "id": "T1-Q109",
+     "label": "Test 1 · Q109",
+     "test": 1,
+     "no": 109,
+     "part": 5,
+     "q": "The Blainesville Downtown Amphitheater hosts many events that are ------- with the city's residents.",
+     "options": [
+      "popular",
+      "careful",
+      "happy",
+      "helpful"
+     ],
+     "answer": "A",
+     "topic_zh": "词汇",
+     "topic_ja": "語彙",
+     "tip_zh": "be popular with …“受……欢迎”",
+     "tip_ja": "be popular with …「…に人気がある」",
+     "src": "ep55",
+     "exp_zh": "be popular with“受…欢迎”是固定搭配，A正确。careful with“对…小心”、happy with“对…满意”（主语应为人）、helpful“有帮助的”都与活动和居民的关系不符。",
+     "exp_ja": "be popular with「～に人気がある」の決まった表現なので、Aが正解。careful with「～に注意する」、happy with「～に満足している」（主語は人であるべき）、helpful「役に立つ」は、いずれもイベントと住民の関係に合わない。",
+     "vocab_zh": "amphitheater 露天剧场；host 举办；resident 居民",
+     "vocab_ja": "amphitheater 野外劇場；host 開催する；resident 住民"
+    },
+    {
+     "id": "T1-Q114",
+     "label": "Test 1 · Q114",
+     "test": 1,
+     "no": 114,
+     "part": 5,
+     "q": "Akemi's Café is looking forward to welcoming back customers ------- a two-month renovation project.",
+     "options": [
+      "because of",
+      "now that",
+      "after",
+      "when"
+     ],
+     "answer": "C",
+     "topic_zh": "介词 vs 连词",
+     "topic_ja": "前置詞 vs 接続詞",
+     "tip_zh": "后面是名词短语 a two-month renovation project → 介词 after",
+     "tip_ja": "後ろが名詞句 a two-month renovation project → 前置詞 after",
+     "src": "ep53",
+     "exp_zh": "空格后是名词短语 a two-month renovation project，需要介词；意思是“在两个月翻修工程之后迎回顾客”，after 正确。because of 意思不通（不是因为翻修而欢迎），now that 和 when 是连词，后面要接从句。",
+     "exp_ja": "空所の後は名詞句 a two-month renovation project なので前置詞が必要。「2か月の改修工事の後に客を迎える」という意味になる after が正解。because of は意味が通らず（改修が理由で歓迎するわけではない）、now that と when は接続詞で後に節が必要。",
+     "vocab_zh": "look forward to doing 期待；renovation 翻修",
+     "vocab_ja": "look forward to doing ～するのを楽しみにする；renovation 改修"
+    },
+    {
+     "id": "T1-Q116",
+     "label": "Test 1 · Q116",
+     "test": 1,
+     "no": 116,
+     "part": 5,
+     "q": "Travelers should ensure they have all required documents before ------- home.",
+     "options": [
+      "expanding",
+      "leaving",
+      "allowing",
+      "managing"
+     ],
+     "answer": "B",
+     "topic_zh": "词汇",
+     "topic_ja": "語彙",
+     "tip_zh": "before leaving home“离家出门之前”",
+     "tip_ja": "before leaving home「家を出る前に」",
+     "src": "ep56",
+     "exp_zh": "“离开家之前确认所有文件都带齐”，leave home“离家出门”，B正确。expanding“扩大”、allowing“允许”、managing“管理”都不合语义。",
+     "exp_ja": "「家を出る前に必要な書類がすべてそろっているか確認する」。leave home「家を出る」が正解でB。expanding「拡大する」、allowing「許可する」、managing「管理する」は意味が合わない。",
+     "vocab_zh": "ensure 确保；required documents 所需文件",
+     "vocab_ja": "ensure 確実にする；required documents 必要書類"
+    },
+    {
+     "id": "T2-Q103",
+     "label": "Test 2 · Q103",
+     "test": 2,
+     "no": 103,
+     "part": 5,
+     "q": "Mr. Iwosu's team members appreciate ------- strong leadership skills.",
+     "options": [
+      "he",
+      "his",
+      "himself",
+      "him"
+     ],
+     "answer": "B",
+     "topic_zh": "关系词 · 代词",
+     "topic_ja": "関係詞 · 代名詞",
+     "tip_zh": "形容词 + 名词前 → 所有格 his",
+     "tip_ja": "形容詞 + 名詞の前 → 所有格 his",
+     "src": "ep54",
+     "exp_zh": "Test 2 第103题，和上一题同一个考点。Mr. Iwosu's team members appreciate ------- strong leadership skills。空格后面 strong leadership skills，“强大的领导能力”，又是形容词加名词，前面要用所有格 his，选B。整句意思是：伊沃苏先生的团队成员很欣赏他出色的领导能力。A he 是主格；C himself 是反身代词；D him 是宾格，虽然 appreciate 后面要宾语，但宾语是 skills，him 不能放在名词前面修饰它。做这种题，先看空格后面：后面是名词，就用所有格 my、your、his、her、its、our、their。appreciate 是“欣赏、感激”，重音在 pre 上，leadership 是“领导能力”。",
+     "exp_ja": "Test 2 第103問は、前の問題と同じポイントです。Mr. Iwosu's team members appreciate ------- strong leadership skills。空所の後ろの strong leadership skills「優れたリーダーシップ能力」もまた形容詞と名詞なので、前には所有格の his が必要で、正解はBです。文全体の意味は「イウォス氏のチームのメンバーは、彼の優れたリーダーシップを高く評価している」です。A he は主格、C himself は再帰代名詞です。D him は目的格で、appreciate の後ろには確かに目的語が必要ですが、目的語は skills であり、him を名詞の前に置いて修飾することはできません。この種の問題では、まず空所の後ろを見ます。後ろが名詞なら、my、your、his、her、its、our、their の所有格を使います。appreciate は「高く評価する、感謝する」で、pre にアクセントがあります。leadership は「リーダーシップ、指導力」です。"
+    },
+    {
+     "id": "T2-Q104",
+     "label": "Test 2 · Q104",
+     "test": 2,
+     "no": 104,
+     "part": 5,
+     "q": "Please put the floor polisher ------- in the maintenance closet when you are finished with it.",
+     "options": [
+      "easy",
+      "back",
+      "very",
+      "already"
+     ],
+     "answer": "B",
+     "topic_zh": "综合：介词 · 副词 · 连接",
+     "topic_ja": "総まとめ：前置詞 · 副詞 · つなぎ",
+     "tip_zh": "put … back“放回原处”",
+     "tip_ja": "put … back「元の場所に戻す」",
+     "src": "ep57",
+     "exp_zh": "第二组，副词。Test 2 第104题。Please put the floor polisher ------- in the maintenance closet when you are finished with it。put something back 是“把东西放回原处”，back 是副词，“回原处”，选B back：请用完后把地板抛光机放回清洁用具储物间。A easy 是形容词，不能修饰动词 put；C very 只能修饰形容词或副词，不能单独放在这里；D already“已经”和请求、祈使句不搭。put back 这种“动词 + 副词”的短语很常见，比如 put away“收好”，give back“归还”。整句意思是：用完地板抛光机后，请把它放回清洁用具储物间。put back 是“放回”；polisher 是“抛光机、打蜡机”，动词 polish 是“擦亮”；maintenance 是“维护、保养”，maintenance closet 是放清洁用具的储物间。",
+     "exp_ja": "2つ目のグループは副詞です。Test 2 第104問。Please put the floor polisher ------- in the maintenance closet when you are finished with it。put something back は「物を元の場所に戻す」で、back は副詞の「元へ」なので、正解はB back です。「使い終わったら床磨き機を清掃用具入れに戻してください」となります。A easy は形容詞で、動詞 put を修飾できません。C very は形容詞や副詞を修飾するだけで、ここに単独では置けません。D already「すでに」は依頼や命令文と合いません。put back のような「動詞 ＋ 副詞」の句はよく出てきます。たとえば put away「片づける」、give back「返す」です。文全体の意味は「床磨き機を使い終わったら、清掃用具入れに戻してください」です。put back は「戻す」、polisher は「磨き機、ポリッシャー」で、動詞 polish は「磨く」です。maintenance は「保守、整備」で、maintenance closet は清掃用具を入れる物置です。"
+    },
+    {
+     "id": "T2-Q105",
+     "label": "Test 2 · Q105",
+     "test": 2,
+     "no": 105,
+     "part": 5,
+     "q": "Many companies are updating their ------- regarding social media use by employees.",
+     "options": [
+      "supplies",
+      "designs",
+      "policies",
+      "occasions"
+     ],
+     "answer": "C",
+     "topic_zh": "词汇",
+     "topic_ja": "語彙",
+     "tip_zh": "update policies regarding …“更新关于……的政策”",
+     "tip_ja": "update policies regarding …「…に関する方針を更新する」",
+     "src": "ep55",
+     "exp_zh": "第三组，名词词义。Test 2 第105题。Many companies are updating their ------- regarding social media use by employees。update 的宾语是什么？关于员工使用社交媒体的“政策、规定”，选C policies。A supplies“用品、补给”、B designs“设计”、D occasions“场合、时机”，放进去都说不通。regarding 是“关于”，相当于 about，后面接名词。整句意思是：很多公司正在更新关于员工使用社交媒体的政策。social media 是“社交媒体”，employee 是“员工”。",
+     "exp_ja": "3つ目のグループは名詞の意味です。Test 2 第105問。Many companies are updating their ------- regarding social media use by employees。update の目的語は何か。従業員のソーシャルメディア利用についての「方針、規定」なので、正解はC policies です。A supplies「備品、補給」、B designs「デザイン」、D occasions「機会、場合」はどれも意味が通りません。regarding は「…に関して」で about と同じく、後ろに名詞が来ます。文全体の意味は「多くの会社が、従業員のソーシャルメディア利用に関する方針を更新している」です。social media は「ソーシャルメディア」、employee は「従業員」です。"
+    },
+    {
+     "id": "T2-Q109",
+     "label": "Test 2 · Q109",
+     "test": 2,
+     "no": 109,
+     "part": 5,
+     "q": "The Blixian Company's survey ------- that many of its employees have a long commute.",
+     "options": [
+      "looked",
+      "found",
+      "ordered",
+      "chose"
+     ],
+     "answer": "B",
+     "topic_zh": "词汇",
+     "topic_ja": "語彙",
+     "tip_zh": "survey found that …“调查发现……”",
+     "tip_ja": "survey found that …「調査で…が分かった」",
+     "src": "ep55",
+     "exp_zh": "Test 2 第109题。The Blixian Company's survey ------- that many of its employees have a long commute。主语是 survey“调查”，后面接 that 从句“很多员工通勤时间很长”。调查“发现”某事，用 found，survey found that 是常见搭配，选B found。A looked 后面不能直接接 that 从句，要说 looked at / looked like；C ordered“命令、订购”和 D chose“选择”，主语是调查时都说不通。整句意思是：Blixian 公司的调查发现，很多员工通勤时间很长。commute 作名词是“通勤、上下班路程”，long commute 就是“通勤时间长、路途远”。",
+     "exp_ja": "Test 2 第109問。The Blixian Company's survey ------- that many of its employees have a long commute。主語は survey「調査」で、後ろに that 節「多くの従業員の通勤時間が長い」が続きます。調査が何かを「発見する」ときは found を使い、survey found that はよくある組み合わせなので、正解はB found です。A looked の後ろに that 節を直接続けることはできず、looked at や looked like にします。C ordered「命じる、注文する」と D chose「選ぶ」は、主語が調査だと意味が通りません。文全体の意味は「ブリクシアン社の調査で、多くの従業員の通勤時間が長いことが分かった」です。commute は名詞で「通勤」、long commute は「通勤時間が長い、遠い」です。"
+    }
+   ],
+   "reading": [
+    {
+     "id": "T1-Q181-185",
+     "label": "Test 1 · Q181–185",
+     "test": 1,
+     "part": 7,
+     "intro": "Questions 181-185 refer to the following production schedule and article.",
+     "docs": [
+      [
+       {
+        "t": "title",
+        "x": "Long Road Productions"
+       },
+       {
+        "t": "meta",
+        "rows": [
+         [
+          "Movie Title",
+          "*Anchored Ascent*"
+         ],
+         [
+          "Director",
+          "Lee Jiang"
+         ],
+         [
+          "Target Audience",
+          "18 to 30 year olds; adventure-story enthusiasts"
+         ]
+        ]
+       },
+       {
+        "t": "p",
+        "x": "**PRODUCTION SCHEDULE OVERVIEW** (tentative)"
+       },
+       {
+        "t": "p",
+        "x": "**Preproduction:** January"
+       },
+       {
+        "t": "list",
+        "items": [
+         "25 January – Financial projection report to investors",
+         "Finalise cast contracts – Vernon Scafidi, Jenn Ahn",
+         "Secure filming location permits and contracts"
+        ]
+       },
+       {
+        "t": "p",
+        "x": "**Production:** February–May"
+       },
+       {
+        "t": "list",
+        "items": [
+         "Principal filming",
+         "28 February and 25 May – Interim finance reports to investors"
+        ]
+       },
+       {
+        "t": "p",
+        "x": "**Postproduction:** June–August"
+       },
+       {
+        "t": "list",
+        "items": [
+         "Finalise edits to the film"
+        ]
+       },
+       {
+        "t": "p",
+        "x": "**Promotional campaign and launch:** September–October"
+       },
+       {
+        "t": "list",
+        "items": [
+         "15 September: Premiere film at Pinelands Film Festival",
+         "1 October: General distribution to cinemas",
+         "Weekly revenue report to investors"
+        ]
+       }
+      ],
+      [
+       {
+        "t": "title",
+        "x": "Director Lee Jiang Discusses *Anchored Ascent*"
+       },
+       {
+        "t": "p",
+        "x": "GALWAY (15 October)—After a month's delay, *Anchored Ascent* premiered at the Pinelands Film Festival this week. This film tells the true story of acclaimed mountain climber Quinn Deacon."
+       },
+       {
+        "t": "p",
+        "x": "According to the director, Lee Jiang, the film crew endured several production setbacks that caused concern among investors. First, lengthy negotiations with actor Vernon Scafidi ultimately fell through when his salary demands could not be met. \"Luckily, Mark Tobel was available to take on the role, and he joined our cast right at the beginning of February,\" Mr. Jiang explained, \"so we still could have met our production deadlines. However, filming of outdoor scenes was postponed for six weeks due to an unusually heavy snow season and impassable roads.\""
+       },
+       {
+        "t": "p",
+        "x": "The delay in outdoor camerawork meant Long Road Productions had to pay for an extension to their filming permit. \"In the end, though, starting a month later meant longer daylight hours, helping us make up some of the lost time.\" If the audience response at the Pinelands Film Festival is any indication, the movie's financial backers will be quite pleased with their return on investment."
+       },
+       {
+        "t": "p",
+        "x": "*Anchored Ascent* is now set for general distribution to cinemas on 1 November."
+       }
+      ]
+     ],
+     "questions": [
+      {
+       "no": 181,
+       "label": "Test 1 · Q181",
+       "q": "According to the production schedule, what is true about the investors?",
+       "options": [
+        "They are between the ages of 18 and 30.",
+        "They selected filming locations.",
+        "They attended the Pinelands Film Festival.",
+        "They received several financial updates."
+       ],
+       "answer": "D",
+       "exp_zh": "日程表中有：1月25日财务预测报告、2月28日和5月25日中期财务报告、上映后每周收入报告，投资者多次收到财务更新，D正确。18–30岁是目标观众(A)；拍摄地由制作方落实(B)；没说投资者出席电影节(C)。",
+       "exp_ja": "スケジュールには、1月25日の財務予測報告、2月28日と5月25日の中間財務報告、公開後の週ごとの収益報告があり、投資家は何度も財務の最新情報を受け取る。Dが正解。18～30歳は対象観客層（A）。ロケ地は制作側が確保する（B）。投資家が映画祭に出席するとは書かれていない（C）。"
+      },
+      {
+       "no": 182,
+       "label": "Test 1 · Q182",
+       "q": "What is the purpose of the article?",
+       "options": [
+        "To describe the difficulties encountered while making a film",
+        "To tell the true story that inspired a movie",
+        "To provide details about Mr. Jiang's career",
+        "To explain how filming permits are obtained"
+       ],
+       "answer": "A",
+       "exp_zh": "文章主体讲述拍摄中遇到的挫折：演员谈判破裂、大雪导致外景推迟、需付许可证延期费，即描述拍片过程中的困难，A正确。真实故事只是一句介绍(B)；没讲导演生平(C)；许可证只提延期费用(D)。",
+       "exp_ja": "記事の本文は撮影中の挫折、つまり俳優との交渉決裂、大雪によるロケの延期、許可証の延長料金の支払いについて述べており、撮影過程での困難を描いているので、Aが正解。実話であることは一言の紹介にすぎない（B）。監督の経歴は扱っていない（C）。許可証については延長料金に触れているだけ（D）。"
+      },
+      {
+       "no": 183,
+       "label": "Test 1 · Q183",
+       "q": "What caused the interruption in filming Anchored Ascent?",
+       "options": [
+        "Observance of a national holiday",
+        "A change in the film's director",
+        "Poor weather conditions",
+        "The need to pay for a new location"
+       ],
+       "answer": "C",
+       "exp_zh": "外景拍摄因异常大雪季和道路无法通行推迟了六周（unusually heavy snow season and impassable roads），即天气恶劣，C正确。没有节假日(A)；导演没换，换的是演员(B)；付费是许可证延期而非新场地(D)。",
+       "exp_ja": "ロケ撮影は例年にない大雪と通行不能な道路（unusually heavy snow season and impassable roads）のため6週間延期されたので、悪天候が原因。Cが正解。祝日はない（A）。交代したのは監督ではなく俳優（B）。支払いは許可証の延長のためで新しいロケ地のためではない（D）。"
+      },
+      {
+       "no": 184,
+       "label": "Test 1 · Q184",
+       "q": "During which phase of the production schedule did Mr. Tobel become involved with the film?",
+       "options": [
+        "Production",
+        "Preproduction",
+        "Postproduction",
+        "Promotional campaign and launch"
+       ],
+       "answer": "A",
+       "exp_zh": "双文章联系：Tobel 在2月初（right at the beginning of February）加入剧组，日程表中 Production 阶段是2月–5月，A正确。Preproduction 是1月(B)；Postproduction 是6–8月(C)；宣传上映是9–10月(D)。",
+       "exp_ja": "2つの文書の関連づけ：Tobel は2月初め（right at the beginning of February）に撮影チームに加わっており、スケジュールでは Production（制作）段階が2～5月なので、Aが正解。Preproduction は1月（B）、Postproduction は6～8月（C）、宣伝・公開は9～10月（D）。"
+      },
+      {
+       "no": 185,
+       "label": "Test 1 · Q185",
+       "q": "Based on the article, what is mentioned about the audience at the Pinelands Film Festival?",
+       "options": [
+        "They expected Mr. Scafidi to be in the film.",
+        "They enjoyed the film.",
+        "They watched the film in September.",
+        "They paid extra for tickets."
+       ],
+       "answer": "B",
+       "exp_zh": "文中说“从电影节观众的反应来看，投资者会对回报相当满意”，暗示观众很喜欢这部电影，B正确。Scafidi 谈判破裂，观众不会期待他(A)；电影推迟一个月，于10月首映（文章日期10月15日，“本周”），不是9月(C)；没提加价(D)。",
+       "exp_ja": "記事に「映画祭の観客の反応から見て、投資家は収益にかなり満足するだろう」とあり、観客がこの映画を大いに気に入ったことを示唆しているので、Bが正解。Scafidi とは交渉が決裂しており、観客が彼を期待することはない（A）。公開は1か月遅れて10月に初公開（記事の日付は10月15日で「今週」）なので9月ではない（C）。値上げには触れていない（D）。"
+      }
+     ],
+     "src": "site+ep15"
+    },
+    {
+     "id": "T1-Q186-190",
+     "label": "Test 1 · Q186–190",
+     "test": 1,
+     "part": 7,
+     "intro": "Questions 186-190 refer to the following e-mail, schedule, and map.",
+     "docs": [
+      [
+       {
+        "t": "meta",
+        "rows": [
+         [
+          "To",
+          "Harris Nofrim"
+         ],
+         [
+          "From",
+          "Sal Pollestro"
+         ],
+         [
+          "Date",
+          "September 10"
+         ],
+         [
+          "Subject",
+          "Cleaning service for Safferton Museum"
+         ]
+        ]
+       },
+       {
+        "t": "p",
+        "x": "Hello, Harris,"
+       },
+       {
+        "t": "p",
+        "x": "As you probably know, our cleaning service comes to the museum once a week on the day it is closed to the public. When the cleaners come on September 15, please let them in when they arrive at 8:00 a.m. Also, please make sure they wash the large windows in the pottery gallery. The windows there are frequently missed by cleaning crews because of the heavy curtains that often hide them."
+       },
+       {
+        "t": "p",
+        "x": "If you have any questions, please give me a call, or you can just ask me at tomorrow's staff meeting."
+       },
+       {
+        "t": "sign",
+        "x": "Thank you,\n\nSal"
+       }
+      ],
+      [
+       {
+        "t": "table",
+        "cols": [
+         "Date",
+         "Film",
+         "Showtimes"
+        ],
+        "rows": [
+         [
+          "Wednesday, Sept. 16",
+          "*Desert Colors*",
+          "10 A.M. and 2 P.M."
+         ],
+         [
+          "Wednesday, Sept. 16",
+          "*The Art of the Southwest*",
+          "Noon and 4 P.M."
+         ],
+         [
+          "Thursday, Sept. 17",
+          "*The Paintings of Lizzie McPhree*",
+          "10 A.M. and 2 P.M."
+         ],
+         [
+          "Thursday, Sept. 17",
+          "*Natural Gems of the Desert West*",
+          "Noon and 4 P.M."
+         ]
+        ],
+        "cap": "Video Viewing Area: Desert Week Films"
+       }
+      ],
+      [
+       {
+        "t": "title",
+        "x": "Safferton Museum (floor plan)"
+       },
+       {
+        "t": "table",
+        "cols": [
+         "Position",
+         "Room"
+        ],
+        "rows": [
+         [
+          "North side, left",
+          "Painting Gallery (Room 101)"
+         ],
+         [
+          "North side, center",
+          "Modern Sculpture Gallery (Room 102)"
+         ],
+         [
+          "North side, right (east end)",
+          "Museum Store"
+         ],
+         [
+          "Center corridor",
+          "Entrance and Lobby"
+         ],
+         [
+          "South side, left",
+          "Photography Gallery (Room 103)"
+         ],
+         [
+          "South side, center",
+          "Pottery Gallery (Room 104)"
+         ],
+         [
+          "South side, right",
+          "Video Viewing Area (Room 105)"
+         ]
+        ],
+        "cap": "Map (text version): the Museum Store is directly next to the Modern Sculpture Gallery; the Entrance and Lobby corridor runs between the north and south rows."
+       }
+      ]
+     ],
+     "questions": [
+      {
+       "no": 186,
+       "label": "Test 1 · Q186",
+       "q": "Who most likely is Mr. Nofrim?",
+       "options": [
+        "A pottery artist",
+        "A museum employee",
+        "A cleaning professional",
+        "An art collector"
+       ],
+       "answer": "B",
+       "exp_zh": "Sal 请 Harris 在清洁工到达时给他们开门，并提到“明天的员工会议（staff meeting）”，说明 Nofrim 是博物馆员工，B正确。他不是清洁人员本身(C)，只是负责开门；陶艺家(A)、收藏家(D)无依据。",
+       "exp_ja": "Sal は Harris に、清掃業者が来たらドアを開けて中に入れてほしいと頼み、「明日の職員会議（staff meeting）」にも触れているので、Nofrim は博物館の職員だとわかる。Bが正解。彼自身は清掃員ではなく、ドアを開ける担当にすぎない（C）。陶芸家（A）や収集家（D）である根拠はない。"
+      },
+      {
+       "no": 187,
+       "label": "Test 1 · Q187",
+       "q": "On what day of the week is the Safferton Museum closed?",
+       "options": [
+        "On Monday",
+        "On Tuesday",
+        "On Wednesday",
+        "On Thursday"
+       ],
+       "answer": "B",
+       "exp_zh": "双文章联系：清洁工在闭馆日来，日期是9月15日；日程表显示9月16日是星期三，所以9月15日是星期二，B正确。",
+       "exp_ja": "2つの文書の関連づけ：清掃業者は休館日の9月15日に来る。スケジュールでは9月16日が水曜日なので、9月15日は火曜日。Bが正解。"
+      },
+      {
+       "no": 188,
+       "label": "Test 1 · Q188",
+       "q": "According to the schedule, what video will be shown on September 17 at noon?",
+       "options": [
+        "Desert Colors",
+        "The Art of the Southwest",
+        "The Paintings of Lizzie McPhree",
+        "Natural Gems of the Desert West"
+       ],
+       "answer": "D",
+       "exp_zh": "日程表：9月17日（周四）中午12点和下午4点放映 Natural Gems of the Desert West，D正确。A、B是16日的；C是17日上午10点和下午2点。",
+       "exp_ja": "スケジュールでは、9月17日（木）の正午と午後4時に Natural Gems of the Desert West が上映されるので、Dが正解。A・Bは16日、Cは17日の午前10時と午後2時。"
+      },
+      {
+       "no": 189,
+       "label": "Test 1 · Q189",
+       "q": "In what room does Mr. Pollestro want the windows cleaned?",
+       "options": [
+        "In room 102",
+        "In room 103",
+        "In room 104",
+        "In room 105"
+       ],
+       "answer": "C",
+       "exp_zh": "邮件要求清洗陶艺馆（pottery gallery）的大窗户；地图上 Pottery Gallery 是 104 室，C正确。",
+       "exp_ja": "メールは陶芸展示室（pottery gallery）の大きな窓の清掃を依頼しており、地図で Pottery Gallery は104号室なので、Cが正解。"
+      },
+      {
+       "no": 190,
+       "label": "Test 1 · Q190",
+       "q": "According to the map, where is the museum store located?",
+       "options": [
+        "Adjacent to the painting gallery",
+        "Between the pottery gallery and the video viewing area",
+        "Next to the modern sculpture gallery",
+        "Directly across from the photography gallery"
+       ],
+       "answer": "C",
+       "exp_zh": "地图上 Museum Store 在北侧右端，紧挨着 Modern Sculpture Gallery（102室），C正确。绘画馆在另一端(A)；陶艺馆和视频区之间没有商店(B)；摄影馆在南侧左端，不在对面(D)。",
+       "exp_ja": "地図では Museum Store は北側の右端にあり、Modern Sculpture Gallery（102号室）のすぐ隣なので、Cが正解。絵画展示室は反対側の端（A）。陶芸展示室と映像コーナーの間に店はない（B）。写真展示室は南側の左端で、向かい側ではない（D）。"
+      }
+     ],
+     "src": "site+ep16"
+    }
+   ]
   }
  },
  "warmup": {

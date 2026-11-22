@@ -1,0 +1,2512 @@
+{
+ "day": 51,
+ "date": "2026-11-23",
+ "title_zh": "四大词根 + 出差旅行与酒店 + 银行与贷款",
+ "title_ja": "4つの語根＋出張・旅行とホテル＋銀行とローン",
+ "intro_zh": "今天的词根是 -vert- / -vers-（转）、-mit- / -miss-（送）、-pend- / -pens-（悬挂；称重支付）、-press-（压）；主题是出差旅行与酒店，以及银行与贷款。",
+ "intro_ja": "今日の語根は -vert- / -vers-（回す）、-mit- / -miss-（送る）、-pend- / -pens-（ぶら下がる；量る）、-press-（押す）。テーマは出張・旅行とホテル、銀行とローン。",
+ "voice": "en-US-AriaNeural",
+ "roots": [
+  {
+   "root": "-vert- / -vers-",
+   "origin": "Latin vertere",
+   "zh": "转；转向",
+   "ja": "回す；向ける",
+   "exp_zh": "来自拉丁语 vertere（转）。转成别的形态 → convert；朝不同方向转 → diverse / divert；倒过来转 → invert / inverse。⚠️ controversy 里的 contro 是“相对”，不是 control。",
+   "exp_ja": "ラテン語 vertere（回す）から。別の形に変える → convert；別々の方向へ → diverse / divert；ひっくり返す → invert / inverse。",
+   "examples": [
+    "inverse",
+    "version",
+    "converter",
+    "convertible",
+    "adversary",
+    "adversity",
+    "diversion",
+    "diversity",
+    "inversely",
+    "traverse"
+   ]
+  },
+  {
+   "root": "-mit- / -miss-",
+   "origin": "Latin mittere",
+   "zh": "送；放",
+   "ja": "送る；放つ",
+   "exp_zh": "来自拉丁语 mittere（送）。放行通过 → permit；全部交出 → commit；送出去 → emit / emission。⚠️ mit 与 miss 是同一词根的两种形式。",
+   "exp_ja": "ラテン語 mittere（送る）から。通してやる → permit；すっかり差し出す → commit；外へ送る → emission。mit と miss は同じ語根の2つの形。",
+   "examples": [
+    "transmitter",
+    "premise",
+    "permissive",
+    "surmise",
+    "demise",
+    "noncommittal",
+    "dismissive",
+    "commissioner",
+    "admissible",
+    "emissary",
+    "inadmissible"
+   ]
+  },
+  {
+   "root": "-pend- / -pens-",
+   "origin": "Latin pendere",
+   "zh": "悬挂；称重；支付",
+   "ja": "ぶら下がる；量る；支払う",
+   "exp_zh": "来自拉丁语 pendere。“悬挂”义：depend（挂在别人身上）、pending（悬着）；“称重支付”义：expend、expense、compensate、pension。",
+   "exp_ja": "ラテン語 pendere から。「ぶら下がる」：depend、pending。「量って支払う」：expend、expense、compensate、pension。",
+   "examples": [
+    "independent",
+    "independence",
+    "dependence",
+    "dependable",
+    "expendable",
+    "suspension",
+    "expenses",
+    "propensity",
+    "dispensary",
+    "pendulum"
+   ]
+  },
+  {
+   "root": "-press-",
+   "origin": "Latin premere",
+   "zh": "压",
+   "ja": "押す",
+   "exp_zh": "来自拉丁语 premere（压）。向外压 → express；压在一起 → compress；压进心里 → impress；往回压 → repress。",
+   "exp_ja": "ラテン語 premere（押す）から。外へ押し出す → express；押し縮める → compress；心に押す → impress；押し戻す → repress。",
+   "examples": [
+    "press",
+    "compress",
+    "compression",
+    "repress",
+    "depressed",
+    "expressive",
+    "compressor",
+    "depression",
+    "pressing",
+    "suppression",
+    "oppression",
+    "decompress",
+    "pressurize"
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "vert",
+   "title_zh": "词根 -vert- / -vers-：转",
+   "title_ja": "語根 -vert- / -vers-：回す・向ける",
+   "words": [
+    {
+     "w": "inverse",
+     "pos": "adj.",
+     "ipa": "/ɪnˈvɝs/",
+     "zh": "相反的；倒转的",
+     "ja": "逆の；反対の",
+     "ex": "There is an inverse relationship between price and demand.",
+     "ex_zh": "价格和需求之间存在反比关系。",
+     "ex_ja": "価格と需要の間には反比例の関係がある。",
+     "parts": [
+      [
+       "in-",
+       "向内；反向",
+       "中へ；反対に"
+      ],
+      [
+       "vers",
+       "转",
+       "回す"
+      ]
+     ],
+     "note": {
+      "zh": "in（反向）+ vers（转）→ 倒过来转 → 相反的。",
+      "ja": "in「反対に」+ vers「回す」→ 逆さまにする → 逆の。"
+     },
+     "forms": [
+      [
+       "inversely (adv.)",
+       "成反比地",
+       "反比例して"
+      ],
+      [
+       "in inverse order",
+       "按相反顺序",
+       "逆の順番で"
+      ]
+     ]
+    },
+    {
+     "w": "version",
+     "pos": "n.",
+     "ipa": "/ˈvɝʒən/",
+     "zh": "版本；说法",
+     "ja": "版；バージョン",
+     "ex": "Please download the latest version of the software.",
+     "ex_zh": "请下载该软件的最新版本。",
+     "ex_ja": "ソフトウェアの最新版をダウンロードしてください。",
+     "parts": [
+      [
+       "vers",
+       "转",
+       "回す"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "vers（转）+ -ion → 转出来的一种样子 → 版本、说法。",
+      "ja": "vers「回す」+ -ion → 変わった形の一つ → 版、バージョン。"
+     },
+     "forms": [
+      [
+       "a revised version",
+       "修订版",
+       "改訂版"
+      ],
+      [
+       "the final version",
+       "最终版",
+       "最終版"
+      ]
+     ]
+    },
+    {
+     "w": "converter",
+     "pos": "n.",
+     "ipa": "/kənˈvɝtɚ/",
+     "zh": "转换器；转换装置",
+     "ja": "変換器；コンバーター",
+     "ex": "You need a power converter to use this laptop in Europe.",
+     "ex_zh": "在欧洲使用这台笔记本电脑需要电源转换器。",
+     "ex_ja": "このノートパソコンをヨーロッパで使うには電源変換器が必要だ。",
+     "parts": [
+      [
+       "con-",
+       "完全",
+       "すっかり"
+      ],
+      [
+       "vert",
+       "转",
+       "回す"
+      ],
+      [
+       "-er",
+       "…的东西",
+       "〜するもの"
+      ]
+     ],
+     "note": {
+      "zh": "convert（转换）+ -er → 做转换的装置。",
+      "ja": "convert（変換する）+ -er → 変換する装置。"
+     },
+     "forms": [
+      [
+       "a currency converter",
+       "货币换算器",
+       "通貨換算ツール"
+      ],
+      [
+       "a file converter",
+       "文件格式转换器",
+       "ファイル変換ソフト"
+      ]
+     ]
+    },
+    {
+     "w": "convertible",
+     "pos": "adj.",
+     "ipa": "/kənˈvɝtəbəl/",
+     "zh": "可转换的；可兑换的",
+     "ja": "変換できる；兌換できる",
+     "ex": "The sofa is convertible into a bed for overnight guests.",
+     "ex_zh": "这张沙发可以改成床，供过夜的客人使用。",
+     "ex_ja": "そのソファは宿泊客用にベッドへ変えられる。",
+     "parts": [
+      [
+       "convert",
+       "转换",
+       "変換する"
+      ],
+      [
+       "-ible",
+       "可…的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "convert + -ible → 可以转换的。",
+      "ja": "convert + -ible → 変換できる。"
+     },
+     "forms": [
+      [
+       "convertible currency",
+       "可兑换货币",
+       "兌換可能な通貨"
+      ],
+      [
+       "convertible into",
+       "可转为",
+       "〜に変えられる"
+      ]
+     ]
+    },
+    {
+     "w": "adversary",
+     "pos": "n.",
+     "ipa": "/ˈædvɚˌsɛri/",
+     "zh": "对手；敌手",
+     "ja": "敵対者；競争相手",
+     "ex": "The two firms have been adversaries in the courtroom for years.",
+     "ex_zh": "这两家公司多年来一直是法庭上的对手。",
+     "ex_ja": "その2社は何年も法廷で争ってきた。",
+     "parts": [
+      [
+       "ad-",
+       "朝向",
+       "〜へ"
+      ],
+      [
+       "vers",
+       "转",
+       "向ける"
+      ],
+      [
+       "-ary",
+       "…的人",
+       "〜の人"
+      ]
+     ],
+     "note": {
+      "zh": "ad（朝向）+ vers（转）+ -ary → 迎面朝你转过来的人 → 对手。",
+      "ja": "ad「〜へ」+ vers「向ける」+ -ary → 向かい合う人 → 敵対者。"
+     },
+     "forms": [
+      [
+       "adversarial (adj.)",
+       "对抗性的",
+       "敵対的な"
+      ],
+      [
+       "a business adversary",
+       "商业对手",
+       "ビジネス上の競争相手"
+      ]
+     ]
+    },
+    {
+     "w": "adversity",
+     "pos": "n.",
+     "ipa": "/ædˈvɝsɪti/",
+     "zh": "逆境；不幸",
+     "ja": "逆境；困難",
+     "ex": "The team worked together to overcome adversity during the crisis.",
+     "ex_zh": "团队在危机期间齐心协力克服了逆境。",
+     "ex_ja": "チームは危機の間、力を合わせて逆境を乗り越えた。",
+     "parts": [
+      [
+       "ad-",
+       "朝向",
+       "〜へ"
+      ],
+      [
+       "vers",
+       "转",
+       "向ける"
+      ],
+      [
+       "-ity",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "adverse（不利的）+ -ity → 不利的处境 → 逆境。",
+      "ja": "adverse（不利な）+ -ity → 不利な状況 → 逆境。"
+     },
+     "forms": [
+      [
+       "in the face of adversity",
+       "面对逆境",
+       "逆境に直面して"
+      ],
+      [
+       "overcome adversity",
+       "克服逆境",
+       "逆境を乗り越える"
+      ]
+     ]
+    },
+    {
+     "w": "diversion",
+     "pos": "n.",
+     "ipa": "/dɪˈvɝʒən/",
+     "zh": "改道；转移；消遣",
+     "ja": "迂回；転用；気晴らし",
+     "ex": "A diversion on Route 9 added twenty minutes to our trip.",
+     "ex_zh": "9 号公路的绕行使我们的行程多了二十分钟。",
+     "ex_ja": "国道9号の迂回路のせいで、移動時間が20分延びた。",
+     "parts": [
+      [
+       "di-",
+       "分开",
+       "離れて"
+      ],
+      [
+       "vers",
+       "转",
+       "向ける"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "divert（转开）的名词形 → 改道、转移。",
+      "ja": "divert（そらす）の名詞形 → 迂回、転用。"
+     },
+     "forms": [
+      [
+       "traffic diversion",
+       "交通改道",
+       "交通の迂回"
+      ],
+      [
+       "a diversion of funds",
+       "资金挪用",
+       "資金の転用"
+      ]
+     ]
+    },
+    {
+     "w": "diversity",
+     "pos": "n.",
+     "ipa": "/dɪˈvɝsɪti/",
+     "zh": "多样性；多元化",
+     "ja": "多様性",
+     "ex": "The company promotes diversity in its hiring practices.",
+     "ex_zh": "公司在招聘中提倡多元化。",
+     "ex_ja": "その会社は採用において多様性を推進している。",
+     "parts": [
+      [
+       "di-",
+       "分开",
+       "離れて"
+      ],
+      [
+       "vers",
+       "转",
+       "向ける"
+      ],
+      [
+       "-ity",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "diverse（多样的）+ -ity → 多样性。",
+      "ja": "diverse（多様な）+ -ity → 多様性。"
+     },
+     "forms": [
+      [
+       "cultural diversity",
+       "文化多样性",
+       "文化的多様性"
+      ],
+      [
+       "workplace diversity",
+       "职场多元化",
+       "職場の多様性"
+      ]
+     ]
+    },
+    {
+     "w": "inversely",
+     "pos": "adv.",
+     "ipa": "/ɪnˈvɝsli/",
+     "zh": "相反地；成反比地",
+     "ja": "逆に；反比例して",
+     "ex": "Demand moves inversely with the price of the product.",
+     "ex_zh": "需求与产品价格成反比变动。",
+     "ex_ja": "需要は製品価格と反比例して動く。",
+     "parts": [
+      [
+       "in-",
+       "反向",
+       "反対に"
+      ],
+      [
+       "vers",
+       "转",
+       "回す"
+      ],
+      [
+       "-ly",
+       "副词后缀",
+       "副詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "inverse（相反的）+ -ly → 相反地。",
+      "ja": "inverse（逆の）+ -ly → 逆に。"
+     },
+     "forms": [
+      [
+       "inversely proportional",
+       "成反比",
+       "反比例の"
+      ],
+      [
+       "inverse (adj.)",
+       "相反的",
+       "逆の"
+      ]
+     ]
+    },
+    {
+     "w": "traverse",
+     "pos": "v.",
+     "ipa": "/trəˈvɝs/",
+     "zh": "横越；穿过",
+     "ja": "横切る；横断する",
+     "ex": "The pipeline traverses three countries before reaching the port.",
+     "ex_zh": "这条管道穿过三个国家后才到达港口。",
+     "ex_ja": "そのパイプラインは3か国を横断して港に達する。",
+     "parts": [
+      [
+       "tra-",
+       "（trans-）横过",
+       "越えて"
+      ],
+      [
+       "vers",
+       "转",
+       "向ける"
+      ]
+     ],
+     "note": {
+      "zh": "tra（横越）+ vers（转）→ 转着身横过去 → 穿过。",
+      "ja": "tra「越えて」+ vers「向ける」→ 横切る。"
+     },
+     "forms": [
+      [
+       "traversal (n.)",
+       "横越",
+       "横断"
+      ],
+      [
+       "traverse a region",
+       "穿越地区",
+       "地域を横断する"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mit",
+   "title_zh": "词根 -mit- / -miss-：送",
+   "title_ja": "語根 -mit- / -miss-：送る",
+   "words": [
+    {
+     "w": "transmitter",
+     "pos": "n.",
+     "ipa": "/trænzˈmɪtɚ/",
+     "zh": "发射器；发送者",
+     "ja": "送信機；送信者",
+     "ex": "The radio transmitter was moved to a taller tower.",
+     "ex_zh": "无线电发射器被移到了更高的塔上。",
+     "ex_ja": "無線送信機はもっと高い塔に移された。",
+     "parts": [
+      [
+       "trans-",
+       "跨越",
+       "越えて"
+      ],
+      [
+       "mit",
+       "送",
+       "送る"
+      ],
+      [
+       "-er",
+       "…的东西",
+       "〜するもの"
+      ]
+     ],
+     "note": {
+      "zh": "trans（跨越）+ mit（送）+ -er → 把信号送过去的装置。",
+      "ja": "trans「越えて」+ mit「送る」+ -er → 信号を送る装置。"
+     },
+     "forms": [
+      [
+       "transmit (v.)",
+       "发送；传输",
+       "送信する"
+      ],
+      [
+       "transmission (n.)",
+       "传输",
+       "伝送"
+      ]
+     ]
+    },
+    {
+     "w": "premise",
+     "pos": "n.",
+     "ipa": "/ˈprɛmɪs/",
+     "zh": "前提；（复数）房屋、场所",
+     "ja": "前提；（複数形で）敷地・構内",
+     "ex": "Smoking is not allowed on the premises.",
+     "ex_zh": "场所内禁止吸烟。",
+     "ex_ja": "構内は禁煙です。",
+     "parts": [
+      [
+       "pre-",
+       "之前",
+       "前に"
+      ],
+      [
+       "mise",
+       "送",
+       "送る"
+      ]
+     ],
+     "note": {
+      "zh": "pre（之前）+ mise（送）→ 先送出的前提。⚠️ 复数 premises 表示“场所、房产”，商务公告常见。",
+      "ja": "pre「前に」+ mise「送る」→ 先に出した前提。⚠️ 複数形 premises は「敷地・建物」。"
+     },
+     "forms": [
+      [
+       "on the premises",
+       "在场内",
+       "構内で"
+      ],
+      [
+       "the premise of",
+       "…的前提",
+       "〜の前提"
+      ]
+     ]
+    },
+    {
+     "w": "permissive",
+     "pos": "adj.",
+     "ipa": "/pɚˈmɪsɪv/",
+     "zh": "宽容的；许可的",
+     "ja": "寛容な；許容的",
+     "ex": "The company has a permissive policy on remote work.",
+     "ex_zh": "公司对远程办公的政策很宽松。",
+     "ex_ja": "その会社はリモートワークに寛容な方針を取っている。",
+     "parts": [
+      [
+       "per-",
+       "通过",
+       "通して"
+      ],
+      [
+       "miss",
+       "送",
+       "送る"
+      ],
+      [
+       "-ive",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "permit（允许）→ permissive：倾向于放行的、宽松的。",
+      "ja": "permit（許可する）→ permissive：何でも通しがちな、寛容な。"
+     },
+     "forms": [
+      [
+       "permissive policy",
+       "宽松的政策",
+       "寛容な方針"
+      ],
+      [
+       "permission (n.)",
+       "许可",
+       "許可"
+      ]
+     ]
+    },
+    {
+     "w": "surmise",
+     "pos": "v.",
+     "ipa": "/sɚˈmaɪz/",
+     "zh": "推测；猜测",
+     "ja": "推測する",
+     "ex": "We can only surmise why the client cancelled the order.",
+     "ex_zh": "我们只能推测客户为什么取消了订单。",
+     "ex_ja": "顧客がなぜ注文を取り消したのか、推測するしかない。",
+     "parts": [
+      [
+       "sur-",
+       "在上",
+       "上に"
+      ],
+      [
+       "mise",
+       "送",
+       "送る"
+      ]
+     ],
+     "note": {
+      "zh": "sur（在上）+ mise（送）→ 在已有信息之上再“送出”一个想法 → 推测。",
+      "ja": "sur「上に」+ mise「送る」→ 情報の上にさらに考えを出す → 推測する。"
+     },
+     "forms": [
+      [
+       "a surmise (n.)",
+       "推测",
+       "推測"
+      ],
+      [
+       "surmise that",
+       "推测…",
+       "〜だと推測する"
+      ]
+     ]
+    },
+    {
+     "w": "demise",
+     "pos": "n.",
+     "ipa": "/dɪˈmaɪz/",
+     "zh": "终结；消亡；逝世",
+     "ja": "終焉；消滅；死去",
+     "ex": "Poor management led to the demise of the once-popular brand.",
+     "ex_zh": "管理不善导致这个曾经受欢迎的品牌走向消亡。",
+     "ex_ja": "不適切な経営が、かつて人気だったブランドの終焉を招いた。",
+     "parts": [
+      [
+       "de-",
+       "离开",
+       "離れて"
+      ],
+      [
+       "mise",
+       "送",
+       "送る"
+      ]
+     ],
+     "note": {
+      "zh": "de（离开）+ mise（送）→ 被送走 → 终结、消亡。",
+      "ja": "de「離れて」+ mise「送る」→ 送り出される → 終焉。"
+     },
+     "forms": [
+      [
+       "the demise of",
+       "…的终结",
+       "〜の終焉"
+      ],
+      [
+       "cause the demise of",
+       "导致…消亡",
+       "〜の消滅を招く"
+      ]
+     ]
+    },
+    {
+     "w": "noncommittal",
+     "pos": "adj.",
+     "ipa": "/ˌnɑnkəˈmɪtəl/",
+     "zh": "不置可否的；态度含糊的",
+     "ja": "どっちつかずの；言質を与えない",
+     "ex": "The supplier gave a noncommittal answer about the delivery date.",
+     "ex_zh": "供应商对交货日期给出了模棱两可的回答。",
+     "ex_ja": "納入日について、仕入先は曖昧な返答をした。",
+     "parts": [
+      [
+       "non-",
+       "不",
+       "〜ない"
+      ],
+      [
+       "com-",
+       "完全",
+       "すっかり"
+      ],
+      [
+       "mit",
+       "送",
+       "送る"
+      ],
+      [
+       "-al",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "non（不）+ commit（承诺）+ -al → 不肯表态的。",
+      "ja": "non「〜ない」+ commit（約束する）+ -al → 態度を明らかにしない。"
+     },
+     "forms": [
+      [
+       "a noncommittal reply",
+       "含糊的答复",
+       "曖昧な返事"
+      ],
+      [
+       "commit (v.)",
+       "承诺",
+       "約束する"
+      ]
+     ]
+    },
+    {
+     "w": "dismissive",
+     "pos": "adj.",
+     "ipa": "/dɪsˈmɪsɪv/",
+     "zh": "轻视的；不屑一顾的",
+     "ja": "見下した；軽くあしらう",
+     "ex": "The client was dismissive of our first proposal.",
+     "ex_zh": "客户对我们的第一份提案不屑一顾。",
+     "ex_ja": "顧客は私たちの最初の提案を軽くあしらった。",
+     "parts": [
+      [
+       "dis-",
+       "分开",
+       "離れて"
+      ],
+      [
+       "miss",
+       "送",
+       "送る"
+      ],
+      [
+       "-ive",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "dismiss（打发走）+ -ive → 习惯把别人的意见打发走的 → 轻视的。",
+      "ja": "dismiss（退ける）+ -ive → 相手の意見を退けがちな → 見下した。"
+     },
+     "forms": [
+      [
+       "dismissive attitude",
+       "轻视的态度",
+       "見下した態度"
+      ],
+      [
+       "dismissively (adv.)",
+       "轻蔑地",
+       "軽んじて"
+      ]
+     ]
+    },
+    {
+     "w": "commissioner",
+     "pos": "n.",
+     "ipa": "/kəˈmɪʃənɚ/",
+     "zh": "委员；专员；长官",
+     "ja": "委員；長官；コミッショナー",
+     "ex": "The commissioner announced new safety rules for the industry.",
+     "ex_zh": "专员宣布了针对该行业的新安全规定。",
+     "ex_ja": "長官は業界向けの新しい安全規則を発表した。",
+     "parts": [
+      [
+       "com-",
+       "完全",
+       "すっかり"
+      ],
+      [
+       "miss",
+       "送",
+       "送る"
+      ],
+      [
+       "-ioner",
+       "…的人",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "commission（委托）+ -er → 受委托办事的人 → 委员、专员。",
+      "ja": "commission（委託）+ -er → 任された人 → 委員、長官。"
+     },
+     "forms": [
+      [
+       "a city commissioner",
+       "市政专员",
+       "市の委員"
+      ],
+      [
+       "commission (n.)",
+       "委员会；佣金",
+       "委員会；手数料"
+      ]
+     ]
+    },
+    {
+     "w": "admissible",
+     "pos": "adj.",
+     "ipa": "/ædˈmɪsəbəl/",
+     "zh": "可采纳的；允许进入的",
+     "ja": "許容される；証拠として認められる",
+     "ex": "Only admissible evidence can be presented in court.",
+     "ex_zh": "只有可采纳的证据才能在法庭上出示。",
+     "ex_ja": "証拠として認められるものだけが法廷で提示できる。",
+     "parts": [
+      [
+       "ad-",
+       "朝向",
+       "〜へ"
+      ],
+      [
+       "miss",
+       "送",
+       "送る"
+      ],
+      [
+       "-ible",
+       "可…的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "ad（朝向）+ miss（送）+ -ible → 可以放进来的 → 可采纳的。",
+      "ja": "ad「〜へ」+ miss「送る」+ -ible → 受け入れられる。"
+     },
+     "forms": [
+      [
+       "admissible evidence",
+       "有效证据",
+       "証拠能力のある証拠"
+      ],
+      [
+       "admit (v.)",
+       "准许；承认",
+       "認める"
+      ]
+     ]
+    },
+    {
+     "w": "emissary",
+     "pos": "n.",
+     "ipa": "/ˈɛməˌsɛri/",
+     "zh": "特使；使者",
+     "ja": "使者；特使",
+     "ex": "The company sent an emissary to negotiate with the overseas partner.",
+     "ex_zh": "公司派了一位特使与海外合作伙伴谈判。",
+     "ex_ja": "会社は海外の提携先と交渉するため使者を派遣した。",
+     "parts": [
+      [
+       "e-",
+       "（ex-）向外",
+       "外へ"
+      ],
+      [
+       "miss",
+       "送",
+       "送る"
+      ],
+      [
+       "-ary",
+       "…的人",
+       "〜の人"
+      ]
+     ],
+     "note": {
+      "zh": "e（向外）+ miss（送）+ -ary → 被派出去的人 → 特使。",
+      "ja": "e「外へ」+ miss「送る」+ -ary → 送り出された人 → 特使。"
+     },
+     "forms": [
+      [
+       "a special emissary",
+       "特别使者",
+       "特使"
+      ],
+      [
+       "emit (v.)",
+       "发出",
+       "発する"
+      ]
+     ]
+    },
+    {
+     "w": "inadmissible",
+     "pos": "adj.",
+     "ipa": "/ˌɪnædˈmɪsəbəl/",
+     "zh": "不可采纳的；不被允许的",
+     "ja": "認められない；証拠能力のない",
+     "ex": "The recording was ruled inadmissible in court.",
+     "ex_zh": "该录音被法院裁定为不可采纳。",
+     "ex_ja": "その録音は裁判所で証拠として認められなかった。",
+     "parts": [
+      [
+       "in-",
+       "不",
+       "〜ない"
+      ],
+      [
+       "ad-",
+       "朝向",
+       "〜へ"
+      ],
+      [
+       "miss",
+       "送",
+       "送る"
+      ],
+      [
+       "-ible",
+       "可…的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "in（不）+ admissible（可采纳的）→ 不可采纳的。",
+      "ja": "in「〜ない」+ admissible（認められる）→ 認められない。"
+     },
+     "forms": [
+      [
+       "inadmissible evidence",
+       "不可采纳的证据",
+       "証拠能力のない証拠"
+      ],
+      [
+       "admissible (adj.)",
+       "可采纳的",
+       "認められる"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pend",
+   "title_zh": "词根 -pend- / -pens-：悬挂；称重支付",
+   "title_ja": "語根 -pend- / -pens-：ぶら下がる・量る",
+   "words": [
+    {
+     "w": "independent",
+     "pos": "adj.",
+     "ipa": "/ˌɪndɪˈpɛndənt/",
+     "zh": "独立的；自主的",
+     "ja": "独立した；自立した",
+     "ex": "She works as an independent consultant for several firms.",
+     "ex_zh": "她作为独立顾问为几家公司工作。",
+     "ex_ja": "彼女は独立したコンサルタントとして数社の仕事をしている。",
+     "parts": [
+      [
+       "in-",
+       "不",
+       "〜ない"
+      ],
+      [
+       "de-",
+       "向下",
+       "下へ"
+      ],
+      [
+       "pend",
+       "悬挂",
+       "ぶら下がる"
+      ],
+      [
+       "-ent",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "in（不）+ depend（依赖）+ -ent → 不依赖他人 → 独立的。",
+      "ja": "in「〜ない」+ depend（頼る）+ -ent → 頼らない → 独立した。"
+     },
+     "forms": [
+      [
+       "independence (n.)",
+       "独立",
+       "独立"
+      ],
+      [
+       "independently (adv.)",
+       "独立地",
+       "独立して"
+      ]
+     ]
+    },
+    {
+     "w": "independence",
+     "pos": "n.",
+     "ipa": "/ˌɪndɪˈpɛndəns/",
+     "zh": "独立；自主",
+     "ja": "独立；自立",
+     "ex": "The new manager values independence and creativity.",
+     "ex_zh": "新经理看重独立性和创造力。",
+     "ex_ja": "新しいマネージャーは自主性と創造性を重んじる。",
+     "parts": [
+      [
+       "in-",
+       "不",
+       "〜ない"
+      ],
+      [
+       "de-",
+       "向下",
+       "下へ"
+      ],
+      [
+       "pend",
+       "悬挂",
+       "ぶら下がる"
+      ],
+      [
+       "-ence",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "independent 的名词形：不依赖他人的状态 → 独立。",
+      "ja": "independent の名詞形 → 独立。"
+     },
+     "forms": [
+      [
+       "financial independence",
+       "经济独立",
+       "経済的自立"
+      ],
+      [
+       "independent (adj.)",
+       "独立的",
+       "独立した"
+      ]
+     ]
+    },
+    {
+     "w": "dependence",
+     "pos": "n.",
+     "ipa": "/dɪˈpɛndəns/",
+     "zh": "依赖；依靠",
+     "ja": "依存",
+     "ex": "The firm wants to reduce its dependence on a single supplier.",
+     "ex_zh": "公司希望减少对单一供应商的依赖。",
+     "ex_ja": "その会社は1社の供給元への依存を減らしたい。",
+     "parts": [
+      [
+       "de-",
+       "向下",
+       "下へ"
+      ],
+      [
+       "pend",
+       "悬挂",
+       "ぶら下がる"
+      ],
+      [
+       "-ence",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "depend 的名词形：挂在别人身上的状态 → 依赖。",
+      "ja": "depend の名詞形 → 依存。"
+     },
+     "forms": [
+      [
+       "dependence on",
+       "对…的依赖",
+       "〜への依存"
+      ],
+      [
+       "over-dependence",
+       "过度依赖",
+       "過度の依存"
+      ]
+     ]
+    },
+    {
+     "w": "dependable",
+     "pos": "adj.",
+     "ipa": "/dɪˈpɛndəbəl/",
+     "zh": "可靠的；可信赖的",
+     "ja": "頼りになる；信頼できる",
+     "ex": "We are looking for a dependable partner for the long term.",
+     "ex_zh": "我们正在寻找一位长期可靠的合作伙伴。",
+     "ex_ja": "私たちは長期的に信頼できるパートナーを探している。",
+     "parts": [
+      [
+       "depend",
+       "依赖",
+       "頼る"
+      ],
+      [
+       "-able",
+       "可…的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "depend + -able → 可以依靠的 → 可靠的。",
+      "ja": "depend + -able → 頼ることができる → 信頼できる。"
+     },
+     "forms": [
+      [
+       "a dependable supplier",
+       "可靠的供应商",
+       "信頼できる供給元"
+      ],
+      [
+       "dependably (adv.)",
+       "可靠地",
+       "確実に"
+      ]
+     ]
+    },
+    {
+     "w": "expendable",
+     "pos": "adj.",
+     "ipa": "/ɪkˈspɛndəbəl/",
+     "zh": "可消耗的；不重要的",
+     "ja": "消耗品の；なくてもよい",
+     "ex": "Expendable supplies such as paper are stored in room 4.",
+     "ex_zh": "纸张等消耗品存放在 4 号房间。",
+     "ex_ja": "紙などの消耗品は4号室に保管されている。",
+     "parts": [
+      [
+       "ex-",
+       "向外",
+       "外へ"
+      ],
+      [
+       "pend",
+       "称重；支付",
+       "量る；支払う"
+      ],
+      [
+       "-able",
+       "可…的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "expend（耗费）+ -able → 可以被消耗掉的。",
+      "ja": "expend（費やす）+ -able → 消費してよい。"
+     },
+     "forms": [
+      [
+       "expendable items",
+       "消耗品",
+       "消耗品"
+      ],
+      [
+       "expend (v.)",
+       "耗费",
+       "費やす"
+      ]
+     ]
+    },
+    {
+     "w": "suspension",
+     "pos": "n.",
+     "ipa": "/səˈspɛnʃən/",
+     "zh": "暂停；中止；停职",
+     "ja": "停止；中断；停職",
+     "ex": "The suspension of the service was announced on Friday.",
+     "ex_zh": "该服务的暂停已于周五宣布。",
+     "ex_ja": "サービスの一時停止は金曜日に発表された。",
+     "parts": [
+      [
+       "sus-",
+       "（sub-）在下",
+       "下に"
+      ],
+      [
+       "pens",
+       "悬挂",
+       "ぶら下がる"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "sus（在下）+ pens（悬挂）+ -ion → 挂起来不动 → 暂停。",
+      "ja": "sus「下に」+ pens「ぶら下がる」+ -ion → 宙づりにする → 一時停止。"
+     },
+     "forms": [
+      [
+       "suspend (v.)",
+       "暂停",
+       "一時停止する"
+      ],
+      [
+       "suspension of operations",
+       "停止运营",
+       "操業停止"
+      ]
+     ]
+    },
+    {
+     "w": "expenses",
+     "pos": "n.",
+     "ipa": "/ɪkˈspɛnsɪz/",
+     "zh": "开支；费用（复数）",
+     "ja": "経費；諸費用",
+     "ex": "Please keep all receipts for your business expenses.",
+     "ex_zh": "请保存所有业务开支的收据。",
+     "ex_ja": "業務経費の領収書はすべて保管してください。",
+     "parts": [
+      [
+       "ex-",
+       "向外",
+       "外へ"
+      ],
+      [
+       "pens",
+       "称重；支付",
+       "量る；支払う"
+      ]
+     ],
+     "note": {
+      "zh": "expense 的复数，在商务里最常见，指各种花销；报销时说 expenses。",
+      "ja": "expense の複数形。精算では expenses と言う。"
+     },
+     "forms": [
+      [
+       "travel expenses",
+       "差旅费",
+       "出張費"
+      ],
+      [
+       "reimburse expenses",
+       "报销费用",
+       "経費を精算する"
+      ]
+     ]
+    },
+    {
+     "w": "propensity",
+     "pos": "n.",
+     "ipa": "/prəˈpɛnsɪti/",
+     "zh": "倾向；习性",
+     "ja": "傾向；性向",
+     "ex": "Consumers show a propensity to spend more during the holidays.",
+     "ex_zh": "消费者在假期往往会花更多钱。",
+     "ex_ja": "消費者は休暇中に多く支出する傾向がある。",
+     "parts": [
+      [
+       "pro-",
+       "向前",
+       "前へ"
+      ],
+      [
+       "pens",
+       "悬挂",
+       "ぶら下がる"
+      ],
+      [
+       "-ity",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "pro（向前）+ pens（悬挂）+ -ity → 向前倾斜 → 倾向。",
+      "ja": "pro「前へ」+ pens「ぶら下がる」+ -ity → 前に傾く → 傾向。"
+     },
+     "forms": [
+      [
+       "a propensity for",
+       "…的倾向",
+       "〜の傾向"
+      ],
+      [
+       "a propensity to",
+       "倾向于",
+       "〜しがちな傾向"
+      ]
+     ]
+    },
+    {
+     "w": "dispensary",
+     "pos": "n.",
+     "ipa": "/dɪˈspɛnsəri/",
+     "zh": "药房；配药处",
+     "ja": "調剤所；薬局",
+     "ex": "The company dispensary is open from nine to five.",
+     "ex_zh": "公司的药房开放时间是九点到五点。",
+     "ex_ja": "社内の診療所の薬局は9時から5時まで開いている。",
+     "parts": [
+      [
+       "dis-",
+       "分开",
+       "離れて"
+      ],
+      [
+       "pens",
+       "称重",
+       "量る"
+      ],
+      [
+       "-ary",
+       "…的场所",
+       "〜の場所"
+      ]
+     ],
+     "note": {
+      "zh": "dis（分开）+ pens（称重）+ -ary → 称好分发药品的地方。",
+      "ja": "dis「離れて」+ pens「量る」+ -ary → 量って分ける場所。"
+     },
+     "forms": [
+      [
+       "dispense (v.)",
+       "分发；配药",
+       "分配する；調剤する"
+      ],
+      [
+       "a dispenser (n.)",
+       "自动售货机",
+       "自動販売機"
+      ]
+     ]
+    },
+    {
+     "w": "pendulum",
+     "pos": "n.",
+     "ipa": "/ˈpɛndʒələm/",
+     "zh": "钟摆",
+     "ja": "振り子",
+     "ex": "Public opinion swung like a pendulum during the campaign.",
+     "ex_zh": "在竞选期间，舆论像钟摆一样来回摇摆。",
+     "ex_ja": "選挙戦の間、世論は振り子のように揺れた。",
+     "parts": [
+      [
+       "pend",
+       "悬挂",
+       "ぶら下がる"
+      ],
+      [
+       "-ulum",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "pend（悬挂）→ 挂着摆动的东西 → 钟摆。",
+      "ja": "pend「ぶら下がる」→ ぶら下がって揺れるもの → 振り子。"
+     },
+     "forms": [
+      [
+       "swing like a pendulum",
+       "像钟摆般摆动",
+       "振り子のように揺れる"
+      ],
+      [
+       "pending (adj.)",
+       "待定的",
+       "保留中の"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "press",
+   "title_zh": "词根 -press-：压",
+   "title_ja": "語根 -press-：押す",
+   "words": [
+    {
+     "w": "press",
+     "pos": "v.",
+     "ipa": "/prɛs/",
+     "zh": "按；压；催促",
+     "ja": "押す；迫る",
+     "ex": "Press the green button to start the machine.",
+     "ex_zh": "按绿色按钮启动机器。",
+     "ex_ja": "緑のボタンを押して機械を始動してください。",
+     "parts": [
+      [
+       "press",
+       "压",
+       "押す"
+      ]
+     ],
+     "note": {
+      "zh": "press 本身就是词根，“压”。press release = 新闻稿，press conference = 记者招待会。",
+      "ja": "press 自体が語根で「押す」。press release = プレスリリース。"
+     },
+     "forms": [
+      [
+       "press release",
+       "新闻稿",
+       "報道発表"
+      ],
+      [
+       "press conference",
+       "记者招待会",
+       "記者会見"
+      ]
+     ]
+    },
+    {
+     "w": "compress",
+     "pos": "v.",
+     "ipa": "/kəmˈprɛs/",
+     "zh": "压缩；精简",
+     "ja": "圧縮する；要約する",
+     "ex": "Please compress the files before sending them by email.",
+     "ex_zh": "发邮件前请先压缩文件。",
+     "ex_ja": "メールで送る前にファイルを圧縮してください。",
+     "parts": [
+      [
+       "com-",
+       "一起",
+       "共に"
+      ],
+      [
+       "press",
+       "压",
+       "押す"
+      ]
+     ],
+     "note": {
+      "zh": "com（一起）+ press（压）→ 压在一起 → 压缩。",
+      "ja": "com「共に」+ press「押す」→ 押し縮める → 圧縮する。"
+     },
+     "forms": [
+      [
+       "compressed (adj.)",
+       "压缩的",
+       "圧縮された"
+      ],
+      [
+       "compress a schedule",
+       "压缩日程",
+       "日程を詰める"
+      ]
+     ]
+    },
+    {
+     "w": "compression",
+     "pos": "n.",
+     "ipa": "/kəmˈprɛʃən/",
+     "zh": "压缩",
+     "ja": "圧縮",
+     "ex": "File compression saves a lot of storage space.",
+     "ex_zh": "文件压缩能节省大量存储空间。",
+     "ex_ja": "ファイルの圧縮は多くの保存容量を節約する。",
+     "parts": [
+      [
+       "com-",
+       "一起",
+       "共に"
+      ],
+      [
+       "press",
+       "压",
+       "押す"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "compress + -ion → 压缩（的过程）。",
+      "ja": "compress + -ion → 圧縮（すること）。"
+     },
+     "forms": [
+      [
+       "data compression",
+       "数据压缩",
+       "データ圧縮"
+      ],
+      [
+       "compression software",
+       "压缩软件",
+       "圧縮ソフト"
+      ]
+     ]
+    },
+    {
+     "w": "repress",
+     "pos": "v.",
+     "ipa": "/rɪˈprɛs/",
+     "zh": "压制；抑制",
+     "ja": "抑える；抑圧する",
+     "ex": "It is hard to repress a laugh during a serious meeting.",
+     "ex_zh": "在严肃的会议上很难忍住不笑。",
+     "ex_ja": "真剣な会議で笑いを抑えるのは難しい。",
+     "parts": [
+      [
+       "re-",
+       "向后；回",
+       "後ろへ"
+      ],
+      [
+       "press",
+       "压",
+       "押す"
+      ]
+     ],
+     "note": {
+      "zh": "re（向后）+ press（压）→ 往回压 → 压制。⚠️ 与 repeat 等的“再次”不同，这里的 re 是“向后”。",
+      "ja": "re「後ろへ」+ press「押す」→ 押し戻す → 抑える。"
+     },
+     "forms": [
+      [
+       "repression (n.)",
+       "压抑；镇压",
+       "抑圧"
+      ],
+      [
+       "repressed (adj.)",
+       "被压抑的",
+       "抑圧された"
+      ]
+     ]
+    },
+    {
+     "w": "depressed",
+     "pos": "adj.",
+     "ipa": "/dɪˈprɛst/",
+     "zh": "萧条的；沮丧的",
+     "ja": "不況の；落ち込んだ",
+     "ex": "Housing prices remain depressed in the region.",
+     "ex_zh": "该地区的房价依然低迷。",
+     "ex_ja": "その地域の住宅価格は低迷したままだ。",
+     "parts": [
+      [
+       "de-",
+       "向下",
+       "下へ"
+      ],
+      [
+       "press",
+       "压",
+       "押す"
+      ],
+      [
+       "-ed",
+       "形容词词尾",
+       "形容詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "de（向下）+ press（压）+ -ed → 被压低的 → 萧条的、沮丧的。",
+      "ja": "de「下へ」+ press「押す」+ -ed → 押し下げられた → 不況の、落ち込んだ。"
+     },
+     "forms": [
+      [
+       "a depressed market",
+       "低迷的市场",
+       "低迷した市場"
+      ],
+      [
+       "depress (v.)",
+       "压低；使沮丧",
+       "押し下げる"
+      ]
+     ]
+    },
+    {
+     "w": "expressive",
+     "pos": "adj.",
+     "ipa": "/ɪkˈsprɛsɪv/",
+     "zh": "富于表现力的",
+     "ja": "表現力に富む",
+     "ex": "The designer is known for her expressive style.",
+     "ex_zh": "这位设计师以富有表现力的风格闻名。",
+     "ex_ja": "そのデザイナーは表現力豊かなスタイルで知られている。",
+     "parts": [
+      [
+       "express",
+       "表达",
+       "表現する"
+      ],
+      [
+       "-ive",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "express + -ive → 善于表达的。",
+      "ja": "express + -ive → 表現力のある。"
+     },
+     "forms": [
+      [
+       "expressive power",
+       "表现力",
+       "表現力"
+      ],
+      [
+       "expressively (adv.)",
+       "富于表情地",
+       "表情豊かに"
+      ]
+     ]
+    },
+    {
+     "w": "compressor",
+     "pos": "n.",
+     "ipa": "/kəmˈprɛsɚ/",
+     "zh": "压缩机",
+     "ja": "圧縮機；コンプレッサー",
+     "ex": "The air compressor in the workshop needs regular maintenance.",
+     "ex_zh": "车间里的空气压缩机需要定期维护。",
+     "ex_ja": "作業場のエアコンプレッサーは定期的な保守が必要だ。",
+     "parts": [
+      [
+       "com-",
+       "一起",
+       "共に"
+      ],
+      [
+       "press",
+       "压",
+       "押す"
+      ],
+      [
+       "-or",
+       "…的东西",
+       "〜するもの"
+      ]
+     ],
+     "note": {
+      "zh": "compress（压缩）+ -or → 压缩用的机器。",
+      "ja": "compress（圧縮する）+ -or → 圧縮する機械。"
+     },
+     "forms": [
+      [
+       "air compressor",
+       "空气压缩机",
+       "エアコンプレッサー"
+      ],
+      [
+       "compress (v.)",
+       "压缩",
+       "圧縮する"
+      ]
+     ]
+    },
+    {
+     "w": "depression",
+     "pos": "n.",
+     "ipa": "/dɪˈprɛʃən/",
+     "zh": "萧条；沮丧；凹陷",
+     "ja": "不況；憂うつ；くぼみ",
+     "ex": "The depression of the 1930s changed the economy for decades.",
+     "ex_zh": "20 世纪 30 年代的大萧条改变了几十年的经济。",
+     "ex_ja": "1930年代の大恐慌は数十年にわたって経済を変えた。",
+     "parts": [
+      [
+       "de-",
+       "向下",
+       "下へ"
+      ],
+      [
+       "press",
+       "压",
+       "押す"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "de（向下）+ press（压）+ -ion → 向下压 → 萧条、凹陷、沮丧。",
+      "ja": "de「下へ」+ press「押す」+ -ion → 押し下げること → 不況、くぼみ。"
+     },
+     "forms": [
+      [
+       "economic depression",
+       "经济萧条",
+       "経済不況"
+      ],
+      [
+       "depress (v.)",
+       "压低",
+       "押し下げる"
+      ]
+     ]
+    },
+    {
+     "w": "pressing",
+     "pos": "adj.",
+     "ipa": "/ˈprɛsɪŋ/",
+     "zh": "紧迫的；迫切的",
+     "ja": "差し迫った；緊急の",
+     "ex": "We have a pressing need to hire more engineers.",
+     "ex_zh": "我们迫切需要招聘更多工程师。",
+     "ex_ja": "私たちはエンジニアを増員する必要に迫られている。",
+     "parts": [
+      [
+       "press",
+       "压",
+       "押す"
+      ],
+      [
+       "-ing",
+       "形容词后缀",
+       "形容詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "press（压）+ -ing → 压在身上的 → 紧迫的。",
+      "ja": "press「押す」+ -ing → のしかかる → 差し迫った。"
+     },
+     "forms": [
+      [
+       "a pressing issue",
+       "紧迫的问题",
+       "差し迫った問題"
+      ],
+      [
+       "pressing matters",
+       "紧急事务",
+       "急ぎの用件"
+      ]
+     ]
+    },
+    {
+     "w": "suppression",
+     "pos": "n.",
+     "ipa": "/səˈprɛʃən/",
+     "zh": "压制；抑制",
+     "ja": "抑制；鎮圧",
+     "ex": "Noise suppression technology improves the quality of video calls.",
+     "ex_zh": "降噪技术提高了视频通话的质量。",
+     "ex_ja": "ノイズ抑制技術はビデオ通話の質を高める。",
+     "parts": [
+      [
+       "sup-",
+       "（sub-）在下",
+       "下に"
+      ],
+      [
+       "press",
+       "压",
+       "押す"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "sup（在下）+ press（压）+ -ion → 压在下面 → 压制。",
+      "ja": "sup「下に」+ press「押す」+ -ion → 押さえ込む → 抑制。"
+     },
+     "forms": [
+      [
+       "suppress (v.)",
+       "压制",
+       "抑える"
+      ],
+      [
+       "noise suppression",
+       "降噪",
+       "ノイズ抑制"
+      ]
+     ]
+    },
+    {
+     "w": "oppression",
+     "pos": "n.",
+     "ipa": "/əˈprɛʃən/",
+     "zh": "压迫；压抑",
+     "ja": "抑圧；圧迫",
+     "ex": "The report discusses oppression of workers in the early factories.",
+     "ex_zh": "报告讨论了早期工厂中对工人的压迫。",
+     "ex_ja": "報告書は初期の工場における労働者への抑圧を論じている。",
+     "parts": [
+      [
+       "op-",
+       "（ob-）对着",
+       "向かって"
+      ],
+      [
+       "press",
+       "压",
+       "押す"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "op（对着）+ press（压）+ -ion → 对着压下去 → 压迫。",
+      "ja": "op「向かって」+ press「押す」+ -ion → 押しつぶす → 抑圧。"
+     },
+     "forms": [
+      [
+       "oppress (v.)",
+       "压迫",
+       "抑圧する"
+      ],
+      [
+       "oppressive (adj.)",
+       "压抑的；苛刻的",
+       "抑圧的な"
+      ]
+     ]
+    },
+    {
+     "w": "decompress",
+     "pos": "v.",
+     "ipa": "/ˌdikəmˈprɛs/",
+     "zh": "解压；减压；解压缩",
+     "ja": "解凍する；圧力を下げる；リラックスする",
+     "ex": "Decompress the file before opening it on your computer.",
+     "ex_zh": "在电脑上打开前，请先解压该文件。",
+     "ex_ja": "パソコンで開く前にファイルを解凍してください。",
+     "parts": [
+      [
+       "de-",
+       "相反；去除",
+       "反対に"
+      ],
+      [
+       "com-",
+       "一起",
+       "共に"
+      ],
+      [
+       "press",
+       "压",
+       "押す"
+      ]
+     ],
+     "note": {
+      "zh": "de（相反）+ compress（压缩）→ 解除压缩。也可指“放松减压”。",
+      "ja": "de「反対に」+ compress（圧縮する）→ 圧縮を解く。「くつろぐ」の意味も。"
+     },
+     "forms": [
+      [
+       "decompression (n.)",
+       "解压",
+       "減圧；解凍"
+      ],
+      [
+       "time to decompress",
+       "放松的时间",
+       "リラックスする時間"
+      ]
+     ]
+    },
+    {
+     "w": "pressurize",
+     "pos": "v.",
+     "ipa": "/ˈprɛʃəˌraɪz/",
+     "zh": "加压；对…施压",
+     "ja": "加圧する；圧力をかける",
+     "ex": "The cabin is pressurized to keep passengers comfortable at high altitude.",
+     "ex_zh": "机舱经过加压，使乘客在高空保持舒适。",
+     "ex_ja": "客室は高高度でも乗客が快適なように与圧されている。",
+     "parts": [
+      [
+       "press",
+       "压",
+       "押す"
+      ],
+      [
+       "-urize",
+       "使…化",
+       "〜にする"
+      ]
+     ],
+     "note": {
+      "zh": "pressure（压力）+ -ize → 使有压力 → 加压。",
+      "ja": "pressure（圧力）+ -ize → 圧をかける。"
+     },
+     "forms": [
+      [
+       "pressurized (adj.)",
+       "加压的",
+       "与圧された"
+      ],
+      [
+       "pressurize someone",
+       "向某人施压",
+       "人に圧力をかける"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "travel",
+   "title_zh": "主题：出差预订与行李",
+   "title_ja": "テーマ：出張の予約と荷物",
+   "words": [
+    {
+     "w": "luggage",
+     "pos": "n.",
+     "ipa": "/ˈlʌɡɪdʒ/",
+     "zh": "行李",
+     "ja": "手荷物；荷物",
+     "ex": "All luggage must be checked in at least an hour before departure.",
+     "ex_zh": "所有行李必须在出发前至少一小时办理托运。",
+     "ex_ja": "すべての荷物は出発の1時間前までに預けなければならない。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：luggage 是不可数名词，不能说 a luggage，要说 a piece of luggage。",
+      "ja": "信頼できる語根分解はありません：luggage は不可算名詞。a piece of luggage と言う。"
+     },
+     "forms": [
+      [
+       "carry-on luggage",
+       "随身行李",
+       "機内持ち込み手荷物"
+      ],
+      [
+       "a piece of luggage",
+       "一件行李",
+       "荷物1個"
+      ]
+     ]
+    },
+    {
+     "w": "booking",
+     "pos": "n.",
+     "ipa": "/ˈbʊkɪŋ/",
+     "zh": "预订",
+     "ja": "予約",
+     "ex": "Online booking is available twenty-four hours a day.",
+     "ex_zh": "网上预订全天二十四小时开放。",
+     "ex_ja": "オンライン予約は24時間利用できる。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：book 作动词时也是“预订”，booking 是它的名词形。",
+      "ja": "信頼できる語根分解はありません：動詞 book は「予約する」。booking はその名詞形。"
+     },
+     "forms": [
+      [
+       "make a booking",
+       "预订",
+       "予約する"
+      ],
+      [
+       "booking confirmation",
+       "预订确认",
+       "予約確認"
+      ]
+     ]
+    },
+    {
+     "w": "overbooked",
+     "pos": "adj.",
+     "ipa": "/ˌoʊvɚˈbʊkt/",
+     "zh": "超额预订的",
+     "ja": "予約超過の；オーバーブッキングの",
+     "ex": "The flight was overbooked, so some passengers were offered compensation.",
+     "ex_zh": "航班超额订座，一些乘客获得了补偿。",
+     "ex_ja": "その便は予約超過だったため、一部の乗客に補償が提示された。",
+     "parts": [
+      [
+       "over",
+       "超过",
+       "超えて"
+      ],
+      [
+       "book",
+       "预订",
+       "予約する"
+      ],
+      [
+       "-ed",
+       "形容词词尾",
+       "形容詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "over（超过）+ book（预订）+ -ed → 订得超过了容量。",
+      "ja": "over「超えて」+ book「予約する」+ -ed → 定員以上に予約された。"
+     },
+     "forms": [
+      [
+       "overbooking (n.)",
+       "超额预订",
+       "オーバーブッキング"
+      ],
+      [
+       "be overbooked",
+       "被订满超员",
+       "予約超過になる"
+      ]
+     ]
+    },
+    {
+     "w": "visa",
+     "pos": "n.",
+     "ipa": "/ˈvizə/",
+     "zh": "签证",
+     "ja": "ビザ；査証",
+     "ex": "Employees traveling abroad must apply for a work visa in advance.",
+     "ex_zh": "出国的员工必须提前申请工作签证。",
+     "ex_ja": "海外へ出張する社員は、事前に就労ビザを申請しなければならない。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：visa 来自拉丁语 charta visa（经审核的文件），整词记忆即可。",
+      "ja": "信頼できる語根分解はありません：ラテン語 charta visa（確認済みの書類）由来。"
+     },
+     "forms": [
+      [
+       "a tourist visa",
+       "旅游签证",
+       "観光ビザ"
+      ],
+      [
+       "visa application",
+       "签证申请",
+       "ビザ申請"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bank",
+   "title_zh": "主题：银行与贷款",
+   "title_ja": "テーマ：銀行とローン",
+   "words": [
+    {
+     "w": "withdrawal",
+     "pos": "n.",
+     "ipa": "/wɪðˈdrɔəl/",
+     "zh": "取款；撤回；退出",
+     "ja": "引き出し；撤回",
+     "ex": "The daily withdrawal limit at this ATM is five hundred dollars.",
+     "ex_zh": "这台自动取款机每天的取款上限是五百美元。",
+     "ex_ja": "このATMの1日の引き出し上限は500ドルだ。",
+     "parts": [
+      [
+       "with-",
+       "向后",
+       "後ろへ"
+      ],
+      [
+       "draw",
+       "拉",
+       "引く"
+      ],
+      [
+       "-al",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "with（向后）+ draw（拉）+ -al → 往回拉 → 取款、撤回。动词是 withdraw。",
+      "ja": "with「後ろへ」+ draw「引く」+ -al → 引き戻す → 引き出し、撤回。"
+     },
+     "forms": [
+      [
+       "withdraw (v.)",
+       "取出；撤回",
+       "引き出す；撤回する"
+      ],
+      [
+       "withdrawal limit",
+       "取款限额",
+       "引き出し限度額"
+      ]
+     ]
+    },
+    {
+     "w": "borrower",
+     "pos": "n.",
+     "ipa": "/ˈbɑroʊɚ/",
+     "zh": "借款人",
+     "ja": "借り手",
+     "ex": "Borrowers must submit proof of income with the application.",
+     "ex_zh": "借款人必须随申请提交收入证明。",
+     "ex_ja": "借り手は申込書とともに収入証明を提出しなければならない。",
+     "parts": [
+      [
+       "borrow",
+       "借入",
+       "借りる"
+      ],
+      [
+       "-er",
+       "…的人",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "borrow（借入）+ -er → 借钱的人。⚠️ borrow 是借入，lend 是借出。",
+      "ja": "borrow「借りる」+ -er → 借りる人。⚠️ borrow は借りる、lend は貸す。"
+     },
+     "forms": [
+      [
+       "borrow from",
+       "向…借",
+       "〜から借りる"
+      ],
+      [
+       "a first-time borrower",
+       "首次借款人",
+       "初めての借り手"
+      ]
+     ]
+    },
+    {
+     "w": "creditworthy",
+     "pos": "adj.",
+     "ipa": "/ˈkrɛdɪtˌwɝði/",
+     "zh": "信用良好的",
+     "ja": "信用力のある",
+     "ex": "Only creditworthy applicants are eligible for the card.",
+     "ex_zh": "只有信用良好的申请人才有资格办这张卡。",
+     "ex_ja": "信用力のある申込者だけがこのカードを申し込める。",
+     "parts": [
+      [
+       "credit",
+       "信用",
+       "信用"
+      ],
+      [
+       "worthy",
+       "值得的",
+       "値する"
+      ]
+     ],
+     "note": {
+      "zh": "credit（信用）+ worthy（值得）→ 值得给予信用的 → 信用良好。",
+      "ja": "credit「信用」+ worthy「値する」→ 信用に値する。"
+     },
+     "forms": [
+      [
+       "creditworthiness (n.)",
+       "信用度",
+       "信用力"
+      ],
+      [
+       "check creditworthiness",
+       "核查信用",
+       "信用力を確認する"
+      ]
+     ]
+    },
+    {
+     "w": "delinquent",
+     "pos": "adj.",
+     "ipa": "/dɪˈlɪŋkwənt/",
+     "zh": "拖欠的；逾期的",
+     "ja": "滞納している；延滞の",
+     "ex": "Delinquent accounts will be sent to a collection agency.",
+     "ex_zh": "逾期账户将被移交给催收机构。",
+     "ex_ja": "延滞している口座は回収業者に回される。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：delinquent 来自拉丁语 delinquere（疏忽），整词记忆；商务中常指“逾期未付”。",
+      "ja": "信頼できる語根分解はありません：ラテン語 delinquere（怠る）由来。ビジネスでは「延滞」。"
+     },
+     "forms": [
+      [
+       "delinquent payment",
+       "逾期付款",
+       "延滞した支払い"
+      ],
+      [
+       "delinquency (n.)",
+       "拖欠",
+       "延滞"
+      ]
+     ]
+    },
+    {
+     "w": "default",
+     "pos": "n.",
+     "ipa": "/dɪˈfɔlt/",
+     "zh": "违约；默认值",
+     "ja": "債務不履行；初期設定",
+     "ex": "The company is at risk of default on its bond payments.",
+     "ex_zh": "公司面临债券还款违约的风险。",
+     "ex_ja": "その会社は社債の返済で債務不履行に陥る恐れがある。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：default 既指“违约”，也指软件的“默认设置”，两个意思都常考。",
+      "ja": "信頼できる語根分解はありません：「債務不履行」と、ソフトの「初期設定」の両方の意味がある。"
+     },
+     "forms": [
+      [
+       "default on a loan",
+       "贷款违约",
+       "ローンを滞納する"
+      ],
+      [
+       "the default setting",
+       "默认设置",
+       "初期設定"
+      ]
+     ]
+    },
+    {
+     "w": "repayment",
+     "pos": "n.",
+     "ipa": "/rɪˈpeɪmənt/",
+     "zh": "偿还；还款",
+     "ja": "返済",
+     "ex": "The repayment period for this loan is five years.",
+     "ex_zh": "这笔贷款的还款期限是五年。",
+     "ex_ja": "この融資の返済期間は5年だ。",
+     "parts": [
+      [
+       "re-",
+       "回",
+       "戻す"
+      ],
+      [
+       "pay",
+       "支付",
+       "支払う"
+      ],
+      [
+       "-ment",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "re（回）+ pay（付）+ -ment → 把钱付回去 → 偿还。",
+      "ja": "re「戻す」+ pay「支払う」+ -ment → 返すこと → 返済。"
+     },
+     "forms": [
+      [
+       "repayment schedule",
+       "还款计划",
+       "返済計画"
+      ],
+      [
+       "repay (v.)",
+       "偿还",
+       "返済する"
+      ]
+     ]
+    },
+    {
+     "w": "refinance",
+     "pos": "v.",
+     "ipa": "/ˌrifəˈnæns/",
+     "zh": "再融资；重新贷款",
+     "ja": "借り換える；再融資する",
+     "ex": "Many homeowners refinanced when interest rates dropped.",
+     "ex_zh": "利率下降时，许多房主办理了再融资。",
+     "ex_ja": "金利が下がったとき、多くの住宅所有者がローンを借り換えた。",
+     "parts": [
+      [
+       "re-",
+       "再",
+       "再び"
+      ],
+      [
+       "finance",
+       "融资",
+       "融資する"
+      ]
+     ],
+     "note": {
+      "zh": "re（再）+ finance（融资）→ 再次融资 → 借新还旧。",
+      "ja": "re「再び」+ finance「融資する」→ 借り換える。"
+     },
+     "forms": [
+      [
+       "refinancing (n.)",
+       "再融资",
+       "借り換え"
+      ],
+      [
+       "refinance a loan",
+       "重新办理贷款",
+       "ローンを借り換える"
+      ]
+     ]
+    },
+    {
+     "w": "foreclose",
+     "pos": "v.",
+     "ipa": "/fɔrˈkloʊz/",
+     "zh": "取消抵押品赎回权；拍卖抵押物",
+     "ja": "担保物を差し押さえる",
+     "ex": "The bank may foreclose on the property if payments stop.",
+     "ex_zh": "如果停止还款，银行可能收回该房产。",
+     "ex_ja": "返済が止まれば、銀行はその物件を差し押さえることがある。",
+     "parts": [
+      [
+       "fore-",
+       "在外面",
+       "外へ"
+      ],
+      [
+       "close",
+       "关闭",
+       "閉じる"
+      ]
+     ],
+     "note": {
+      "zh": "fore（外）+ close（关闭）→ 把借款人关在权利之外 → 取消赎回权。",
+      "ja": "fore「外へ」+ close「閉じる」→ 権利を締め出す → 差し押さえる。"
+     },
+     "forms": [
+      [
+       "foreclosure (n.)",
+       "抵押品拍卖",
+       "差し押さえ"
+      ],
+      [
+       "foreclose on",
+       "收回（抵押物）",
+       "〜を差し押さえる"
+      ]
+     ]
+    },
+    {
+     "w": "savings",
+     "pos": "n.",
+     "ipa": "/ˈseɪvɪŋz/",
+     "zh": "存款；储蓄",
+     "ja": "貯金；預金",
+     "ex": "She keeps most of her savings in a high-interest account.",
+     "ex_zh": "她把大部分存款放在高息账户里。",
+     "ex_ja": "彼女は貯金の大半を高金利の口座に入れている。",
+     "parts": [
+      [
+       "sav",
+       "拯救；保留",
+       "救う；取っておく"
+      ],
+      [
+       "-ings",
+       "名词复数",
+       "名詞の複数形"
+      ]
+     ],
+     "note": {
+      "zh": "save（保留）+ -ings → 存下来的钱。作“存款”时一般用复数 savings。",
+      "ja": "save「取っておく」+ -ings → 貯めたお金。「貯金」は複数形 savings。"
+     },
+     "forms": [
+      [
+       "savings account",
+       "储蓄账户",
+       "普通預金口座"
+      ],
+      [
+       "cost savings",
+       "成本节约",
+       "コスト削減"
+      ]
+     ]
+    },
+    {
+     "w": "checking",
+     "pos": "adj.",
+     "ipa": "/ˈtʃɛkɪŋ/",
+     "zh": "（美国）活期支票的",
+     "ja": "当座の（米国）",
+     "ex": "He transferred money from his savings to his checking account.",
+     "ex_zh": "他把钱从储蓄账户转到了支票账户。",
+     "ex_ja": "彼は貯蓄口座から当座口座へお金を移した。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：checking account 是美式说法，指用于日常收支的活期账户；英式叫 current account。",
+      "ja": "信頼できる語根分解はありません：checking account は米式表現。英式は current account。"
+     },
+     "forms": [
+      [
+       "checking account",
+       "活期支票账户",
+       "当座預金口座"
+      ],
+      [
+       "checking balance",
+       "活期余额",
+       "当座預金残高"
+      ]
+     ]
+    },
+    {
+     "w": "lending",
+     "pos": "n.",
+     "ipa": "/ˈlɛndɪŋ/",
+     "zh": "贷款业务；借出",
+     "ja": "貸付；融資",
+     "ex": "The bank has tightened its lending standards this year.",
+     "ex_zh": "银行今年收紧了放贷标准。",
+     "ex_ja": "その銀行は今年、融資基準を厳しくした。",
+     "parts": [
+      [
+       "lend",
+       "借出",
+       "貸す"
+      ],
+      [
+       "-ing",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "lend（借出）+ -ing → 借出这件事 → 放贷。",
+      "ja": "lend「貸す」+ -ing → 貸し出すこと → 融資。"
+     },
+     "forms": [
+      [
+       "lending rate",
+       "贷款利率",
+       "貸出金利"
+      ],
+      [
+       "lending institution",
+       "贷款机构",
+       "金融機関"
+      ]
+     ]
+    },
+    {
+     "w": "wire",
+     "pos": "v.",
+     "ipa": "/waɪr/",
+     "zh": "电汇；汇款；接线",
+     "ja": "電信送金する；配線する",
+     "ex": "Please wire the payment to our account by the end of the week.",
+     "ex_zh": "请在本周末前把款项汇到我们的账户。",
+     "ex_ja": "今週末までに当社の口座へ代金を電信送金してください。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：wire 本义是“金属线”，wire transfer 即“电汇”。",
+      "ja": "信頼できる語根分解はありません：wire は本来「針金」。wire transfer は「電信送金」。"
+     },
+     "forms": [
+      [
+       "wire transfer",
+       "电汇",
+       "電信送金"
+      ],
+      [
+       "wire money",
+       "汇款",
+       "送金する"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}
