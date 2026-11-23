@@ -7417,6 +7417,440 @@
      "src": "site+ep16"
     }
    ]
+  },
+  "52": {
+   "date": "2026-11-24",
+   "focus_zh": "考后轻复习：Part 5 复习 8 题 + Part 7 两篇（Test 1）",
+   "focus_ja": "試験後の軽い復習：Part 5 復習8問＋Part 7 の2題（Test 1）",
+   "grammar": [
+    {
+     "id": "T1-Q117",
+     "label": "Test 1 · Q117",
+     "test": 1,
+     "no": 117,
+     "part": 5,
+     "q": "Quailux Depot has the right facilities for all your ------- storage needs at affordable rates.",
+     "options": [
+      "residing",
+      "to reside",
+      "residential",
+      "resides"
+     ],
+     "answer": "C",
+     "topic_zh": "综合：介词 · 副词 · 连接",
+     "topic_ja": "総まとめ：前置詞 · 副詞 · つなぎ",
+     "tip_zh": "your + 形容词 + 名词：residential",
+     "tip_ja": "your ＋ 形容詞 ＋ 名詞：residential",
+     "src": "ep57",
+     "exp_zh": "所有格 your 与名词 storage needs 之间需要形容词，residential“住宅的、居家的”，C正确。residing 是现在分词，to reside 是不定式，resides 是动词。",
+     "exp_ja": "所有格 your と名詞 storage needs の間には形容詞が必要。residential「住宅の、家庭の」が正解でC。residing は現在分詞、to reside は不定詞、resides は動詞。",
+     "vocab_zh": "facility 设施；storage 储存；affordable 实惠的；rate 价格",
+     "vocab_ja": "facility 施設；storage 保管；affordable 手頃な；rate 料金"
+    },
+    {
+     "id": "T1-Q118",
+     "label": "Test 1 · Q118",
+     "test": 1,
+     "no": 118,
+     "part": 5,
+     "q": "Following a review of the strongest résumés, Mr. Eiji Arakaki was ------- the most qualified individual for the position.",
+     "options": [
+      "neutrally",
+      "clearly",
+      "usually",
+      "very"
+     ],
+     "answer": "B",
+     "topic_zh": "词汇",
+     "topic_ja": "語彙",
+     "tip_zh": "clearly“显然、明显地”修饰表语",
+     "tip_ja": "clearly「明らかに」で述部を修飾",
+     "src": "ep56",
+     "exp_zh": "“审阅过最强的几份简历后，Arakaki 先生显然是最合格的人选”，clearly“明显地”修饰整个表语，B正确。neutrally“中立地”不通；usually“通常”与一次性的评审结果矛盾；very 不能修饰带 the most 的最高级名词短语。",
+     "exp_ja": "「最有力の履歴書を検討した結果、Arakaki さんが最も適任であることは明らかだった」。clearly「明らかに」が補語全体を修飾するので、Bが正解。neutrally「中立的に」は意味が通らず、usually「普段は」は一度きりの選考結果と矛盾し、very は the most を伴う最上級の名詞句を修飾できない。",
+     "vocab_zh": "review 审查；résumé 简历；qualified 合格的",
+     "vocab_ja": "review 検討する；résumé 履歴書；qualified 適任の"
+    },
+    {
+     "id": "T1-Q119",
+     "label": "Test 1 · Q119",
+     "test": 1,
+     "no": 119,
+     "part": 5,
+     "q": "A motorcycle dealership is opening a few blocks from where the old ------- used to be.",
+     "options": [
+      "me",
+      "us",
+      "one",
+      "other"
+     ],
+     "answer": "C",
+     "topic_zh": "关系词 · 代词",
+     "topic_ja": "関係詞 · 代名詞",
+     "tip_zh": "the old + ___ 代替前面的 dealership → one",
+     "tip_ja": "the old + ___ で前の dealership の代わり → one",
+     "src": "ep54",
+     "exp_zh": "空格代替前面提到的 dealership，“旧的那家店”，代词 one 可被形容词 old 修饰，C正确。me/us 是人称代词宾格，不能被 the old 修饰；other 不能单独作名词这样使用。",
+     "exp_ja": "空所は前に出た dealership の代わりで「古いほうの店」を表す。代名詞 one は形容詞 old で修飾できるので、Cが正解。me/us は人称代名詞の目的格で the old で修飾できない。other はこのように単独で名詞として使えない。",
+     "vocab_zh": "dealership 经销店；block 街区；used to 过去曾经",
+     "vocab_ja": "dealership 販売代理店；block 街区；used to かつて～していた"
+    },
+    {
+     "id": "T1-Q120",
+     "label": "Test 1 · Q120",
+     "test": 1,
+     "no": 120,
+     "part": 5,
+     "q": "Mr. Bajaj, a robotics expert, ------- provides consultation services to companies interested in industrial automation.",
+     "options": [
+      "highly",
+      "comparably",
+      "frequently",
+      "deeply"
+     ],
+     "answer": "C",
+     "topic_zh": "词汇",
+     "topic_ja": "語彙",
+     "tip_zh": "frequently“经常”修饰动词 provides",
+     "tip_ja": "frequently「しばしば」で動詞 provides を修飾",
+     "src": "ep56",
+     "exp_zh": "修饰动词 provides，“经常提供咨询服务”，frequently 正确。highly“高度地”多修饰形容词/过去分词；comparably“相当地”、deeply“深深地”不能修饰提供服务。",
+     "exp_ja": "動詞 provides を修飾して「頻繁にコンサルティングを提供する」となる frequently が正解。highly「高度に」は主に形容詞・過去分詞を修飾し、comparably「同等に」、deeply「深く」はサービスの提供を修飾するのに合わない。",
+     "vocab_zh": "robotics 机器人学；consultation 咨询；industrial automation 工业自动化",
+     "vocab_ja": "robotics ロボット工学；consultation コンサルティング；industrial automation 産業オートメーション"
+    },
+    {
+     "id": "T1-Q122",
+     "label": "Test 1 · Q122",
+     "test": 1,
+     "no": 122,
+     "part": 5,
+     "q": "Each Chefware pan ------- with a twelve-year customer satisfaction guarantee.",
+     "options": [
+      "includes",
+      "serves",
+      "adjusts",
+      "comes"
+     ],
+     "answer": "D",
+     "topic_zh": "词汇",
+     "topic_ja": "語彙",
+     "tip_zh": "come with …“附带、配有”",
+     "tip_ja": "come with …「…が付いている」",
+     "src": "ep55",
+     "exp_zh": "come with“附带、配有”是固定搭配：每只锅附带12年满意保证，D正确。includes 是及物动词，后面不需要 with；serves“供应”、adjusts“调整”与 with 搭配语义不通。",
+     "exp_ja": "come with「～が付いてくる」の決まった表現で、「各鍋には12年間の満足保証が付いている」となる。Dが正解。includes は他動詞で with は不要。serves「提供する」、adjusts「調整する」は with と組み合わせても意味が通らない。",
+     "vocab_zh": "come with 附带；satisfaction guarantee 满意保证",
+     "vocab_ja": "come with ～が付いている；satisfaction guarantee 満足保証"
+    },
+    {
+     "id": "T1-Q125",
+     "label": "Test 1 · Q125",
+     "test": 1,
+     "no": 125,
+     "part": 5,
+     "q": "The operations manual states which equipment parts must be lubricated at the ------- of the shift.",
+     "options": [
+      "start",
+      "day",
+      "place",
+      "side"
+     ],
+     "answer": "A",
+     "topic_zh": "词汇",
+     "topic_ja": "語彙",
+     "tip_zh": "at the start of the shift“在轮班开始时”",
+     "tip_ja": "at the start of the shift「シフトの開始時に」",
+     "src": "ep56",
+     "exp_zh": "at the start of the shift“在轮班开始时”，A正确。the day of the shift 说法不自然，place/side 不表示时间。",
+     "exp_ja": "at the start of the shift「シフトの開始時に」が正解でA。the day of the shift は不自然で、place/side は時を表さない。",
+     "vocab_zh": "operations manual 操作手册；lubricate 润滑；shift 轮班",
+     "vocab_ja": "operations manual 操作マニュアル；lubricate 注油する；shift 勤務シフト"
+    },
+    {
+     "id": "T2-Q111",
+     "label": "Test 2 · Q111",
+     "test": 2,
+     "no": 111,
+     "part": 5,
+     "q": "Because the budget is so -------, conference coordinators have planned a simple, low-cost welcoming event for attendees.",
+     "options": [
+      "fast",
+      "sharp",
+      "warm",
+      "tight"
+     ],
+     "answer": "D",
+     "topic_zh": "词汇",
+     "topic_ja": "語彙",
+     "tip_zh": "budget is tight“预算紧张”",
+     "tip_ja": "budget is tight「予算が厳しい」",
+     "src": "ep55",
+     "exp_zh": "Test 2 第111题。Because the budget is so -------, conference coordinators have planned a simple, low-cost welcoming event for attendees。后半句说会议协调人策划了一个简单、低成本的欢迎活动，原因当然是预算“紧张”。budget is tight 是固定说法，选D tight。A fast“快的”、B sharp“锋利的、急剧的”、C warm“温暖的”都不能形容预算紧。整句意思是：因为预算非常紧张，会议协调人为参加者策划了一个简单、低成本的欢迎活动。coordinator 是“协调人”，attendee 是“参加者”，low-cost 是“低成本的”。",
+     "exp_ja": "Test 2 第111問。Because the budget is so -------, conference coordinators have planned a simple, low-cost welcoming event for attendees。後半では、会議のコーディネーターがシンプルで低コストの歓迎イベントを企画したとあります。その理由は、予算が「厳しい」からです。budget is tight は決まりの言い方なので、正解はD tight です。A fast「速い」、B sharp「鋭い、急な」、C warm「温かい」はどれも予算の厳しさを表せません。文全体の意味は「予算がとても厳しいので、会議のコーディネーターは参加者向けにシンプルで低コストの歓迎イベントを企画した」です。coordinator は「調整役」、attendee は「参加者」、low-cost は「低コストの」です。"
+    },
+    {
+     "id": "T2-Q113",
+     "label": "Test 2 · Q113",
+     "test": 2,
+     "no": 113,
+     "part": 5,
+     "q": "Montco Bank takes extraordinary steps to keep your personal information -------.",
+     "options": [
+      "safe",
+      "safety",
+      "saving",
+      "saves"
+     ],
+     "answer": "A",
+     "topic_zh": "综合：介词 · 副词 · 连接",
+     "topic_ja": "総まとめ：前置詞 · 副詞 · つなぎ",
+     "tip_zh": "keep + 宾语 + 形容词（宾语补足语）",
+     "tip_ja": "keep ＋ 目的語 ＋ 形容詞（目的格補語）",
+     "src": "ep57",
+     "exp_zh": "第四组，补语和词性补漏。Test 2 第113题。Montco Bank takes extraordinary steps to keep your personal information -------。keep your personal information ------- 是“keep + 宾语 + 宾语补足语”的句型，让宾语保持某种状态，补足语用形容词，选A safe“安全的”。B safety 是名词“安全”，keep information safety 不成立；C saving 和 D saves 是动词 save 的形式。同样的句型还有 keep the room clean、keep customers happy、make the process easy。整句意思是：Montco 银行采取非同寻常的措施，保护你的个人信息安全。take steps 是“采取措施”；extraordinary 是“非凡的、非同寻常的”，注意发音，ordinary 前面的 extra 读得很轻，美式读音像 ik-STROR-duh-nair-ee。",
+     "exp_ja": "4つ目のグループは補語と品詞の補足です。Test 2 第113問。Montco Bank takes extraordinary steps to keep your personal information -------。keep your personal information ------- は「keep ＋ 目的語 ＋ 目的格補語」の文型で、目的語をある状態に保つ形です。補語には形容詞を使うので、正解はA safe「安全な」です。B safety は名詞「安全」で、keep information safety とは言えません。C saving と D saves は動詞 save の形です。同じ文型には keep the room clean、keep customers happy、make the process easy などがあります。文全体の意味は「モントコ銀行は、お客様の個人情報を安全に保つため特別な対策を講じている」です。take steps は「措置を講じる」です。extraordinary は「並外れた、特別な」で、発音に注意しましょう。ordinary の前の extra は軽く読まれ、アメリカ英語では ik-STROR-duh-nair-ee のように聞こえます。"
+    }
+   ],
+   "reading": [
+    {
+     "id": "T1-Q191-195",
+     "label": "Test 1 · Q191–195",
+     "test": 1,
+     "part": 7,
+     "intro": "Questions 191-195 refer to the following e-mails and newsletter article.",
+     "docs": [
+      [
+       {
+        "t": "meta",
+        "rows": [
+         [
+          "From",
+          "m.carmen@olive.com"
+         ],
+         [
+          "To",
+          "customerservice@valliegrocery.com"
+         ],
+         [
+          "Date",
+          "April 1"
+         ],
+         [
+          "Subject",
+          "Curbside pickup"
+         ]
+        ]
+       },
+       {
+        "t": "p",
+        "x": "Dear Vallie Grocery Customer Service,"
+       },
+       {
+        "t": "p",
+        "x": "I moved to Langley City last month and find that prices at your store are very competitive. However, I was surprised to learn that curbside pickup is not available. As a busy professional, I would find it extremely convenient to select and pay for groceries online, then pick everything up on my way home from work. I would even be willing to pay a small fee for this service."
+       },
+       {
+        "t": "p",
+        "x": "Would you consider offering curbside pickup? Doing so would provide an added incentive for me to patronize Vallie Grocery instead of the Foodmore located down the street from you."
+       },
+       {
+        "t": "sign",
+        "x": "Kind regards,\n\nMary Carmen"
+       }
+      ],
+      [
+       {
+        "t": "meta",
+        "rows": [
+         [
+          "From",
+          "tenyuu.sakai@valliegrocery.com"
+         ],
+         [
+          "To",
+          "lien.cheng@valliegrocery.com"
+         ],
+         [
+          "Date",
+          "June 15"
+         ],
+         [
+          "Subject",
+          "Curbside Pickup"
+         ]
+        ]
+       },
+       {
+        "t": "p",
+        "x": "Dear Ms. Cheng,"
+       },
+       {
+        "t": "p",
+        "x": "I am writing to let you know that every week at least two or three customers ask me why our store does not offer curbside pickup. I explain that our staff is too small and that our Web site is not set up for this service. I am increasingly concerned that we are losing customers to our closest competitor, which has been offering curbside pickup for several years. Since I have the technical skills to update our Web site to process online orders, I could update the Web site by the end of June, and if we hire one or more additional workers, I believe we could increase our store's profits and customer base."
+       },
+       {
+        "t": "sign",
+        "x": "Sincerely,\n\nTenyuu Sakai\nCustomer Service Manager"
+       }
+      ],
+      [
+       {
+        "t": "title",
+        "x": "Vallie Grocery Employee News — July Issue"
+       },
+       {
+        "t": "p",
+        "x": "**Curbside pickup to begin on August 1**"
+       },
+       {
+        "t": "p",
+        "x": "Vallie Grocery is implementing curbside pickup. Here is how it will work:"
+       },
+       {
+        "t": "list",
+        "items": [
+         "1. Customers place and pay for their orders online.",
+         "2. A team member collects and bags the groceries, then texts the customer.",
+         "3. Customers wait in a designated parking space and reply to the text with their space number.",
+         "4. A team member brings the groceries to the customer's vehicle."
+        ]
+       },
+       {
+        "t": "p",
+        "x": "Let's work together to make this new program a success!"
+       }
+      ]
+     ],
+     "questions": [
+      {
+       "no": 191,
+       "label": "Test 1 · Q191",
+       "q": "What does Ms. Carmen suggest in the first e-mail?",
+       "options": [
+        "Vallie Grocery is located between her home and her workplace.",
+        "She has lived in Langley City for many years.",
+        "Curbside pickup is no longer offered at Foodmore.",
+        "Foodmore's prices are lower than Vallie Grocery's."
+       ],
+       "answer": "A",
+       "exp_zh": "她说希望在线下单后“下班回家的路上（on my way home from work）”取货，暗示 Vallie 位于家和公司之间，A正确。她上个月才搬来(B)；她认为 Vallie 价格很有竞争力(D)；没说 Foodmore 停止取货服务(C)。",
+       "exp_ja": "彼女はオンラインで注文した商品を「仕事帰りに（on my way home from work）」受け取りたいと言っており、Vallie が自宅と職場の間にあることを示唆しているので、Aが正解。彼女は先月引っ越してきたばかり（B）。Vallie の価格は十分競争力があると考えている（D）。Foodmore が受け取りサービスをやめたとは書かれていない（C）。"
+      },
+      {
+       "no": 192,
+       "label": "Test 1 · Q192",
+       "q": "What can be concluded about Ms. Carmen?",
+       "options": [
+        "She was recently interviewed by Ms. Cheng.",
+        "She is one of many shoppers who requested curbside pickup.",
+        "She is employed in the food-services industry.",
+        "She believes that curbside pickup should be free."
+       ],
+       "answer": "B",
+       "exp_zh": "第二封邮件说每周至少有两三位顾客询问为何没有路边取货服务，可推断 Carmen 是众多提出此要求的顾客之一，B正确。她愿意付少量费用(D错)；她只说自己是忙碌的职场人士，未说行业(C)；没有被采访(A)。",
+       "exp_ja": "2通目のメールに、毎週少なくとも2、3人の客がなぜカーブサイドピックアップ（店頭受け取り）がないのか尋ねてくるとあるので、Carmen はこの要望を出した多くの客の1人だと推測できる。Bが正解。彼女は少額の料金なら払うと言っている（Dは誤り）。自分が忙しい会社員だと言っているだけで業界には触れていない（C）。取材は受けていない（A）。"
+      },
+      {
+       "no": 193,
+       "label": "Test 1 · Q193",
+       "q": "What is the purpose of the second e-mail?",
+       "options": [
+        "To suggest longer store hours",
+        "To schedule a meeting",
+        "To recommend a new service",
+        "To discuss a projected budget"
+       ],
+       "answer": "C",
+       "exp_zh": "Sakai 向上级说明顾客需求、竞争压力，并提出自己更新网站、增聘员工以开展路边取货，即推荐新服务，C正确。没有提营业时间(A)、开会(B)或预算(D)。",
+       "exp_ja": "Sakai は上司に、顧客の要望と競争上の圧力を説明し、自分がウェブサイトを更新し、スタッフを増員してカーブサイドピックアップを始めることを提案している。新サービスの推奨なので、Cが正解。営業時間（A）、会議（B）、予算（D）には触れていない。"
+      },
+      {
+       "no": 194,
+       "label": "Test 1 · Q194",
+       "q": "In the second e-mail, what does Mr. Sakai offer to do?",
+       "options": [
+        "Post a help-wanted sign in his store",
+        "Reassign some members of his team",
+        "Expand the customer complaint department",
+        "Add an enhancement to his employer's Web site"
+       ],
+       "answer": "D",
+       "exp_zh": "他说自己有技术能力，可以在6月底前更新网站以处理在线订单，即为公司网站增加功能，D正确。他建议雇人，但没说要贴招聘告示(A)；没说调配人员(B)或扩大投诉部门(C)。",
+       "exp_ja": "彼は技術的なスキルがあり、6月末までにウェブサイトをオンライン注文に対応できるよう更新できると言っており、会社のウェブサイトに機能を追加するということなので、Dが正解。人を雇うことは提案しているが求人の掲示を出すとは言っておらず（A）、人員の配置転換（B）や苦情対応部門の拡大（C）にも触れていない。"
+      },
+      {
+       "no": 195,
+       "label": "Test 1 · Q195",
+       "q": "What can be concluded about Vallie Grocery?",
+       "options": [
+        "It earned more profits from its delivery service than expected.",
+        "It requires customers to bring their own shopping bags.",
+        "It does not allow its employees to accept tips from customers.",
+        "It will have a larger staff in August than it did in April."
+       ],
+       "answer": "D",
+       "exp_zh": "四月时员工太少无法提供服务；Sakai 建议增聘人手，而新闻稿称8月1日起开始路边取货（由 team member 配货、送到车上），可推断8月时员工比4月多，D正确。没有配送利润(A)、自带购物袋(B)、小费(C)的信息。",
+       "exp_ja": "4月の時点ではスタッフが少なすぎてサービスを提供できなかった。Sakai は増員を提案し、プレスリリースでは8月1日からカーブサイドピックアップを開始する（team member が商品をそろえて車まで届ける）とあるので、8月には4月よりスタッフが多いと推測できる。Dが正解。配送の利益（A）、マイバッグ（B）、チップ（C）に関する情報はない。"
+      }
+     ],
+     "src": "site+ep16"
+    },
+    {
+     "id": "T1-Q149-150",
+     "label": "Test 1 · Q149–150",
+     "test": 1,
+     "part": 7,
+     "intro": "Questions 149-150 refer to the following notice.",
+     "docs": [
+      [
+       {
+        "t": "title",
+        "x": "Upcoming Bolano Lunch"
+       },
+       {
+        "t": "p",
+        "x": "It is time for a favourite annual tradition! Bolano, one of our most popular restaurant partners, is once again providing a free lunch on 2 June for the entire Kiyoti Event Planning staff in honour of our continued business collaboration. As everyone who has worked on an event with Bolano knows, their food is delicious. Please speak with the receptionist to register for the lunch by 31 May. We want to ensure that there is enough food for everyone."
+       },
+       {
+        "t": "p",
+        "x": "The lunch will be served buffet style in our cafeteria starting at noon. Beverages will also be provided, so there is no need for you to prepare anything for the event. We will be circulating a thank-you card for Bolano's staff, so please make sure to add your signature by 1 June. We look forward to seeing everyone there."
+       }
+      ]
+     ],
+     "questions": [
+      {
+       "no": 149,
+       "label": "Test 1 · Q149",
+       "q": "Why is Bolano providing lunch for Kiyoti Event Planning staff?",
+       "options": [
+        "To celebrate Kiyoti Event Planning's anniversary",
+        "To share samples of new menu items",
+        "To express appreciation for a business partnership",
+        "To demonstrate a new catering process"
+       ],
+       "answer": "C",
+       "exp_zh": "in honour of our continued business collaboration（为纪念双方持续的业务合作），即对合作关系表示感谢，C正确。文中没有提到周年庆(A)、新菜品试吃(B)或展示新餐饮流程(D)。",
+       "exp_ja": "in honour of our continued business collaboration（両社の継続的な業務提携を記念して）とあり、協力関係への感謝を表すものなので、Cが正解。記念日のお祝い（A）、新メニューの試食（B）、新しい飲食の手順の紹介（D）には触れていない。"
+      },
+      {
+       "no": 150,
+       "label": "Test 1 · Q150",
+       "q": "What are staff members asked to do before the event?",
+       "options": [
+        "Sign a card",
+        "Make a payment",
+        "Visit a restaurant",
+        "Prepare some decorations"
+       ],
+       "answer": "A",
+       "exp_zh": "please make sure to add your signature by 1 June（6月1日前在感谢卡上签名），活动是6月2日，A正确。午餐免费，无需付款(B)；在公司餐厅用餐，不用去餐馆(C)；文中说无需准备任何东西(D)。",
+       "exp_ja": "please make sure to add your signature by 1 June（6月1日までに感謝カードに署名してください）とあり、行事は6月2日なので、Aが正解。昼食は無料で支払いは不要（B）、社員食堂で食べるのでレストランに行く必要はない（C）、何も準備する必要はないと書かれている（D）。"
+      }
+     ],
+     "src": "site+ep10"
+    }
+   ]
   }
  },
  "warmup": {

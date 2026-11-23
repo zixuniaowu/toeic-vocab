@@ -1,0 +1,2312 @@
+{
+ "day": 52,
+ "date": "2026-11-24",
+ "title_zh": "四大词根 + 保险与理赔 + 宴会与活动布置",
+ "title_ja": "4つの語根＋保険と保険金請求＋宴会とイベントの準備",
+ "intro_zh": "今天的词根是 -gen-（生；种类）、-cred-（相信）、-rect- / -reg-（直；规则；统治）、-cur- / -curr-（跑）；主题是保险与理赔，以及宴会与活动布置。",
+ "intro_ja": "今日の語根は -gen-（生む；種類）、-cred-（信じる）、-rect- / -reg-（まっすぐ；規則；治める）、-cur- / -curr-（走る）。テーマは保険と保険金請求、宴会とイベントの準備。",
+ "voice": "en-US-AriaNeural",
+ "roots": [
+  {
+   "root": "-gen-",
+   "origin": "Latin genus / gignere",
+   "zh": "生；种类",
+   "ja": "生む；種類",
+   "exp_zh": "来自拉丁语 genus（种类、出身）和 gignere（生）。生出来 → generation；一个种类 → generic；同一种类 → homogeneous；本地生的 → indigenous。⚠️ congenial 与 gen 的关系不确定，别硬拆。",
+   "exp_ja": "ラテン語 genus（種類・出身）と gignere（生む）から。生まれる → generation；種類 → generic；同じ種類 → homogeneous；その土地で生まれた → indigenous。congenial は語根との関係が不確かなので分解しない。",
+   "examples": [
+    "generation",
+    "generosity",
+    "generic",
+    "generalize",
+    "genetic",
+    "engender",
+    "degenerate",
+    "homogeneous",
+    "indigenous"
+   ]
+  },
+  {
+   "root": "-cred-",
+   "origin": "Latin credere",
+   "zh": "相信",
+   "ja": "信じる",
+   "exp_zh": "来自拉丁语 credere（相信）。可以信 → credible；不能信 → incredible；轻易信 → credulous；给予信任 → accredit。⚠️ creditable（值得称赞）≠ credible（可信）。",
+   "exp_ja": "ラテン語 credere（信じる）から。信じられる → credible；信じがたい → incredible；すぐ信じる → credulous；信頼を与える → accredit。creditable（称賛に値する）≠ credible（信用できる）。",
+   "examples": [
+    "incredible",
+    "credibility",
+    "accredit",
+    "creditable",
+    "credulous",
+    "credence",
+    "credulity"
+   ]
+  },
+  {
+   "root": "-rect- / -reg-",
+   "origin": "Latin regere / rectus",
+   "zh": "直；规则；统治",
+   "ja": "まっすぐ；規則；治める",
+   "exp_zh": "来自拉丁语 regere（使笔直、统治）和 rectus（直的、正的）。引导 → direct / director；改正 → corrective；规则 → regular / regulatory；统治 → regime / regent。",
+   "exp_ja": "ラテン語 regere（まっすぐにする・治める）と rectus（正しい）から。導く → direct / director；正す → corrective；規則 → regular / regulatory；治める → regime / regent。",
+   "examples": [
+    "direction",
+    "director",
+    "incorrect",
+    "corrective",
+    "redirect",
+    "indirect",
+    "regular",
+    "irregular",
+    "regulatory",
+    "deregulate",
+    "regime",
+    "regimen",
+    "regent",
+    "directly"
+   ]
+  },
+  {
+   "root": "-cur- / -curr- / -curs-",
+   "origin": "Latin currere",
+   "zh": "跑",
+   "ja": "走る",
+   "exp_zh": "来自拉丁语 currere（跑）。朝你跑来 → occur；再跑回来 → recur；一起跑 → concurrent；匆匆跑过 → cursory；跑回求助 → recourse。",
+   "exp_ja": "ラテン語 currere（走る）から。向かって走ってくる → occur；また走ってくる → recur；一緒に走る → concurrent；走り抜ける → cursory；駆け戻って頼る → recourse。",
+   "examples": [
+    "currently",
+    "concurrently",
+    "occurrence",
+    "recurring",
+    "cursory",
+    "discourse",
+    "recourse"
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "gen",
+   "title_zh": "词根 -gen-：生；种类",
+   "title_ja": "語根 -gen-：生む・種類",
+   "words": [
+    {
+     "w": "generation",
+     "pos": "n.",
+     "ipa": "/ˌdʒɛnəˈreɪʃən/",
+     "zh": "一代人；产生；世代",
+     "ja": "世代；発生；一世代",
+     "ex": "The new generation of smartphones will be released next month.",
+     "ex_zh": "新一代智能手机将于下个月发布。",
+     "ex_ja": "新世代のスマートフォンは来月発売される。",
+     "parts": [
+      [
+       "gener",
+       "生；种类",
+       "生む；種類"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "gener（生）+ -ation → 生出来的一批 → 一代、产生。",
+      "ja": "gener「生む」+ -ation → 生み出されたもの → 世代、発生。"
+     },
+     "forms": [
+      [
+       "generate (v.)",
+       "产生",
+       "生み出す"
+      ],
+      [
+       "next generation",
+       "下一代",
+       "次世代"
+      ]
+     ]
+    },
+    {
+     "w": "generosity",
+     "pos": "n.",
+     "ipa": "/ˌdʒɛnəˈrɑsɪti/",
+     "zh": "慷慨；大方",
+     "ja": "寛大さ；気前のよさ",
+     "ex": "The festival was made possible by the generosity of local sponsors.",
+     "ex_zh": "这次节日得以举办，要归功于当地赞助商的慷慨。",
+     "ex_ja": "そのフェスティバルは地元スポンサーの寛大な支援のおかげで実現した。",
+     "parts": [
+      [
+       "gener",
+       "出身；高贵",
+       "生まれ；高貴"
+      ],
+      [
+       "-osity",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "generous 的名词形，原义是“出身高贵的人该有的大方”。",
+      "ja": "generous の名詞形。もとは「生まれの良い人らしい気前のよさ」。"
+     },
+     "forms": [
+      [
+       "generous (adj.)",
+       "慷慨的",
+       "気前のよい"
+      ],
+      [
+       "thank A for their generosity",
+       "感谢A的慷慨",
+       "Aの寛大さに感謝する"
+      ]
+     ]
+    },
+    {
+     "w": "generic",
+     "pos": "adj.",
+     "ipa": "/dʒəˈnɛrɪk/",
+     "zh": "通用的；无品牌的；一般的",
+     "ja": "一般的な；ブランドのない",
+     "ex": "The pharmacy sells a generic version of the medicine at half the price.",
+     "ex_zh": "药店以半价出售这种药的通用名（仿制）版本。",
+     "ex_ja": "薬局はその薬のジェネリック版を半額で販売している。",
+     "parts": [
+      [
+       "gener",
+       "种类",
+       "種類"
+      ],
+      [
+       "-ic",
+       "…的",
+       "〜の"
+      ]
+     ],
+     "note": {
+      "zh": "gener（种类）+ -ic → 属于整个种类的 → 通用的、无品牌的。",
+      "ja": "gener「種類」+ -ic → 種類全体に通じる → 一般的な、ブランドのない。"
+     },
+     "forms": [
+      [
+       "generic drug",
+       "仿制药",
+       "ジェネリック医薬品"
+      ],
+      [
+       "generic term",
+       "通用术语",
+       "総称"
+      ]
+     ]
+    },
+    {
+     "w": "generalize",
+     "pos": "v.",
+     "ipa": "/ˈdʒɛnrəˌlaɪz/",
+     "zh": "概括；推广；笼统而论",
+     "ja": "一般化する；概括する",
+     "ex": "It is unwise to generalize from a survey of only ten customers.",
+     "ex_zh": "仅凭十位客户的调查就下笼统结论是不明智的。",
+     "ex_ja": "わずか10人の顧客調査から一般論を導くのは賢明ではない。",
+     "parts": [
+      [
+       "gener",
+       "种类",
+       "種類"
+      ],
+      [
+       "-al",
+       "…的",
+       "〜の"
+      ],
+      [
+       "-ize",
+       "使…化",
+       "〜にする"
+      ]
+     ],
+     "note": {
+      "zh": "general（全类的）+ -ize → 变成对全体都适用 → 概括。",
+      "ja": "general「全体の」+ -ize → 全体に当てはめる → 一般化する。"
+     },
+     "forms": [
+      [
+       "generalization (n.)",
+       "概括；笼统的说法",
+       "一般化"
+      ],
+      [
+       "in general",
+       "总的来说",
+       "一般に"
+      ]
+     ]
+    },
+    {
+     "w": "genetic",
+     "pos": "adj.",
+     "ipa": "/dʒəˈnɛtɪk/",
+     "zh": "基因的；遗传的",
+     "ja": "遺伝子の；遺伝的な",
+     "ex": "The firm develops tests that detect genetic risks early.",
+     "ex_zh": "这家公司研发能早期检测遗传风险的检测。",
+     "ex_ja": "その会社は遺伝的リスクを早期に見つける検査を開発している。",
+     "parts": [
+      [
+       "gen",
+       "生；基因",
+       "生まれる；遺伝子"
+      ],
+      [
+       "-etic",
+       "…的",
+       "〜の"
+      ]
+     ],
+     "note": {
+      "zh": "gen（生）+ -etic → 与“生出来的特征”有关 → 基因的。",
+      "ja": "gen「生まれる」+ -etic → 生まれつきの特徴に関する → 遺伝の。"
+     },
+     "forms": [
+      [
+       "genetics (n.)",
+       "遗传学",
+       "遺伝学"
+      ],
+      [
+       "genetically modified",
+       "转基因的",
+       "遺伝子組み換えの"
+      ]
+     ]
+    },
+    {
+     "w": "congenial",
+     "pos": "adj.",
+     "ipa": "/kənˈdʒinjəl/",
+     "zh": "意气相投的；宜人的",
+     "ja": "気心の合う；快適な",
+     "ex": "The hotel offers a congenial atmosphere for business meetings.",
+     "ex_zh": "这家酒店为商务会议提供了宜人的氛围。",
+     "ex_ja": "そのホテルは商談に向いた心地よい雰囲気を提供している。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：congenial 来自 genial（愉快的），与 gen“生”未必同源，别硬拆。",
+      "ja": "信頼できる語根分解はありません：genial（愉快な）系で、gen「生む」との関係は確実でないので無理に分けない。"
+     },
+     "forms": [
+      [
+       "congenial colleague",
+       "合得来的同事",
+       "気の合う同僚"
+      ],
+      [
+       "genial (adj.)",
+       "和蔼的",
+       "愛想のよい"
+      ]
+     ]
+    },
+    {
+     "w": "engender",
+     "pos": "v.",
+     "ipa": "/ɪnˈdʒɛndɚ/",
+     "zh": "引起；产生",
+     "ja": "引き起こす；生む",
+     "ex": "Open communication engenders trust among team members.",
+     "ex_zh": "开诚布公的沟通会在团队成员之间产生信任。",
+     "ex_ja": "率直なコミュニケーションはチーム内に信頼を生む。",
+     "parts": [
+      [
+       "en-",
+       "使",
+       "〜させる"
+      ],
+      [
+       "gender",
+       "生",
+       "生む"
+      ]
+     ],
+     "note": {
+      "zh": "en（使）+ gender（生）→ 使其产生 → 引起。注意：和名词 gender（性别）同源但这里是动词“生出”。",
+      "ja": "en「〜させる」+ gender「生む」→ 生じさせる。名詞 gender（性別）と同源。"
+     },
+     "forms": [
+      [
+       "engender trust",
+       "产生信任",
+       "信頼を生む"
+      ],
+      [
+       "engender confusion",
+       "引起混乱",
+       "混乱を招く"
+      ]
+     ]
+    },
+    {
+     "w": "degenerate",
+     "pos": "v.",
+     "ipa": "/dɪˈdʒɛnəˌreɪt/",
+     "zh": "退化；恶化",
+     "ja": "悪化する；退化する",
+     "ex": "The discussion degenerated into an argument over budgets.",
+     "ex_zh": "讨论恶化成了关于预算的争吵。",
+     "ex_ja": "議論は予算をめぐる口論に悪化した。",
+     "parts": [
+      [
+       "de-",
+       "向下",
+       "下へ"
+      ],
+      [
+       "gener",
+       "种类；质",
+       "種類；質"
+      ],
+      [
+       "-ate",
+       "动词后缀",
+       "動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "de（向下）+ gener（种类）→ 掉出原来的“类别”，质量下降 → 退化、恶化。",
+      "ja": "de「下へ」+ gener「種類」→ 本来の質から落ちる → 悪化する。"
+     },
+     "forms": [
+      [
+       "degenerate into",
+       "恶化成…",
+       "〜に悪化する"
+      ],
+      [
+       "degeneration (n.)",
+       "退化",
+       "退化"
+      ]
+     ]
+    },
+    {
+     "w": "homogeneous",
+     "pos": "adj.",
+     "ipa": "/ˌhoʊməˈdʒiniəs/",
+     "zh": "同质的；同类的",
+     "ja": "同質の；均質な",
+     "ex": "The survey sample was too homogeneous to represent all customers.",
+     "ex_zh": "这份调查样本太同质化，无法代表所有客户。",
+     "ex_ja": "その調査の対象は均質すぎて、全顧客を代表できなかった。",
+     "parts": [
+      [
+       "homo-",
+       "相同",
+       "同じ"
+      ],
+      [
+       "gen",
+       "种类",
+       "種類"
+      ],
+      [
+       "-ous",
+       "…的",
+       "〜の"
+      ]
+     ],
+     "note": {
+      "zh": "homo（相同）+ gen（种类）+ -ous → 同一种类的 → 同质的。反义 heterogeneous。",
+      "ja": "homo「同じ」+ gen「種類」+ -ous → 同じ種類の → 同質の。反対語 heterogeneous。"
+     },
+     "forms": [
+      [
+       "homogeneity (n.)",
+       "同质性",
+       "同質性"
+      ],
+      [
+       "heterogeneous (adj.)",
+       "异质的",
+       "異質の"
+      ]
+     ]
+    },
+    {
+     "w": "indigenous",
+     "pos": "adj.",
+     "ipa": "/ɪnˈdɪdʒənəs/",
+     "zh": "本土的；原产的",
+     "ja": "土着の；固有の",
+     "ex": "The company sources materials from indigenous suppliers.",
+     "ex_zh": "公司从本地供应商那里采购材料。",
+     "ex_ja": "その会社は現地の土着の供給業者から材料を調達している。",
+     "parts": [
+      [
+       "indi-",
+       "在内",
+       "内に"
+      ],
+      [
+       "gen",
+       "生",
+       "生まれる"
+      ],
+      [
+       "-ous",
+       "…的",
+       "〜の"
+      ]
+     ],
+     "note": {
+      "zh": "indi（在内，古形 endo）+ gen（生）→ 在当地生出来的 → 本土的、原产的。",
+      "ja": "indi「内に」+ gen「生まれる」→ その土地で生まれた → 土着の。"
+     },
+     "forms": [
+      [
+       "indigenous species",
+       "本地物种",
+       "固有種"
+      ],
+      [
+       "indigenous people",
+       "原住民",
+       "先住民"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cred",
+   "title_zh": "词根 -cred-：相信",
+   "title_ja": "語根 -cred-：信じる",
+   "words": [
+    {
+     "w": "incredible",
+     "pos": "adj.",
+     "ipa": "/ɪnˈkrɛdəbəl/",
+     "zh": "难以置信的；极好的",
+     "ja": "信じられない；すばらしい",
+     "ex": "The team achieved incredible results in just three months.",
+     "ex_zh": "团队仅用三个月就取得了惊人的成果。",
+     "ex_ja": "チームはわずか3か月で信じられない成果を上げた。",
+     "parts": [
+      [
+       "in-",
+       "不",
+       "〜ない"
+      ],
+      [
+       "cred",
+       "相信",
+       "信じる"
+      ],
+      [
+       "-ible",
+       "可…的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "in（不）+ cred（相信）+ -ible（可…的）→ 不可相信 → 难以置信，口语里常表示“极好”。",
+      "ja": "in「〜ない」+ cred「信じる」+ -ible → 信じがたい。会話では「すばらしい」の意味も。"
+     },
+     "forms": [
+      [
+       "incredibly (adv.)",
+       "极其",
+       "信じられないほど"
+      ],
+      [
+       "credible (adj.)",
+       "可信的",
+       "信用できる"
+      ]
+     ]
+    },
+    {
+     "w": "credibility",
+     "pos": "n.",
+     "ipa": "/ˌkrɛdəˈbɪlɪti/",
+     "zh": "可信度；信誉",
+     "ja": "信頼性；信用",
+     "ex": "A data breach can seriously damage a company's credibility.",
+     "ex_zh": "数据泄露会严重损害公司的信誉。",
+     "ex_ja": "データ漏えいは会社の信頼性を大きく損なう。",
+     "parts": [
+      [
+       "cred",
+       "相信",
+       "信じる"
+      ],
+      [
+       "-ibility",
+       "名词后缀（可…性）",
+       "〜性"
+      ]
+     ],
+     "note": {
+      "zh": "cred（相信）+ -ibility → 值得相信的程度 → 可信度。",
+      "ja": "cred「信じる」+ -ibility → 信じられる度合い → 信頼性。"
+     },
+     "forms": [
+      [
+       "lose credibility",
+       "失去信誉",
+       "信用を失う"
+      ],
+      [
+       "build credibility",
+       "建立信誉",
+       "信頼を築く"
+      ]
+     ]
+    },
+    {
+     "w": "accredit",
+     "pos": "v.",
+     "ipa": "/əˈkrɛdɪt/",
+     "zh": "认可；授权；鉴定合格",
+     "ja": "認定する；承認する",
+     "ex": "The university is accredited by a national education board.",
+     "ex_zh": "这所大学经国家教育委员会认证。",
+     "ex_ja": "その大学は国の教育委員会に認定されている。",
+     "parts": [
+      [
+       "ac-",
+       "（ad-）朝向",
+       "〜へ"
+      ],
+      [
+       "cred",
+       "相信",
+       "信じる"
+      ]
+     ],
+     "note": {
+      "zh": "ac（向）+ cred（相信）→ 对其给予信任 → 认可、认证。",
+      "ja": "ac「〜へ」+ cred「信じる」→ 信頼を与える → 認定する。"
+     },
+     "forms": [
+      [
+       "accredited (adj.)",
+       "经认证的",
+       "認定された"
+      ],
+      [
+       "accreditation (n.)",
+       "认证",
+       "認定"
+      ]
+     ]
+    },
+    {
+     "w": "creditable",
+     "pos": "adj.",
+     "ipa": "/ˈkrɛdɪtəbəl/",
+     "zh": "值得称赞的；可嘉的",
+     "ja": "称賛に値する；立派な",
+     "ex": "The new team produced a creditable performance in its first quarter.",
+     "ex_zh": "新团队在第一季度交出了值得称赞的业绩。",
+     "ex_ja": "新チームは最初の四半期で立派な成績を残した。",
+     "parts": [
+      [
+       "credit",
+       "信用；称赞",
+       "信用；称賛"
+      ],
+      [
+       "-able",
+       "可…的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "credit（称赞）+ -able → 配得上称赞的。⚠️ 不要和 credible（可信的）混淆。",
+      "ja": "credit「称賛」+ -able → 称賛に値する。⚠️ credible（信用できる）と区別。"
+     },
+     "forms": [
+      [
+       "a creditable result",
+       "可嘉的成绩",
+       "立派な結果"
+      ],
+      [
+       "credible (adj.)",
+       "可信的",
+       "信用できる"
+      ]
+     ]
+    },
+    {
+     "w": "credulous",
+     "pos": "adj.",
+     "ipa": "/ˈkrɛdʒələs/",
+     "zh": "轻信的",
+     "ja": "だまされやすい；信じやすい",
+     "ex": "Credulous investors were misled by the false advertising.",
+     "ex_zh": "轻信的投资者被虚假广告误导了。",
+     "ex_ja": "だまされやすい投資家は虚偽広告に惑わされた。",
+     "parts": [
+      [
+       "cred",
+       "相信",
+       "信じる"
+      ],
+      [
+       "-ulous",
+       "易…的",
+       "〜しやすい"
+      ]
+     ],
+     "note": {
+      "zh": "cred（相信）+ -ulous（易…的）→ 容易相信 → 轻信的。",
+      "ja": "cred「信じる」+ -ulous「〜しやすい」→ 信じやすい。"
+     },
+     "forms": [
+      [
+       "credulity (n.)",
+       "轻信",
+       "軽信"
+      ],
+      [
+       "incredulous (adj.)",
+       "不相信的",
+       "信じられない様子の"
+      ]
+     ]
+    },
+    {
+     "w": "credence",
+     "pos": "n.",
+     "ipa": "/ˈkridns/",
+     "zh": "相信；可信性",
+     "ja": "信用；信憑性",
+     "ex": "The rumor gained credence after the company's silence.",
+     "ex_zh": "公司沉默之后，这个传闻更可信了。",
+     "ex_ja": "会社が沈黙したため、その噂は信憑性を増した。",
+     "parts": [
+      [
+       "cred",
+       "相信",
+       "信じる"
+      ],
+      [
+       "-ence",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "cred（相信）+ -ence → 被相信的状态。常见搭配：give / lend credence to。",
+      "ja": "cred「信じる」+ -ence → 信じられる状態。give / lend credence to が定番。"
+     },
+     "forms": [
+      [
+       "give credence to",
+       "相信；使显得可信",
+       "〜を信用する"
+      ],
+      [
+       "lend credence to",
+       "增加…的可信度",
+       "〜の信憑性を高める"
+      ]
+     ]
+    },
+    {
+     "w": "credulity",
+     "pos": "n.",
+     "ipa": "/krəˈdulɪti/",
+     "zh": "轻信；易受骗",
+     "ja": "軽信；だまされやすさ",
+     "ex": "The scam relied on the credulity of elderly customers.",
+     "ex_zh": "这起骗局利用了老年客户的轻信。",
+     "ex_ja": "その詐欺は高齢の顧客の信じやすさにつけ込んでいた。",
+     "parts": [
+      [
+       "cred",
+       "相信",
+       "信じる"
+      ],
+      [
+       "-ulity",
+       "名词后缀（…性）",
+       "〜性"
+      ]
+     ],
+     "note": {
+      "zh": "cred（相信）+ -ulity → 容易相信的特性 → 轻信。credulous 的名词形。",
+      "ja": "cred「信じる」+ -ulity → 信じやすい性質。credulous の名詞形。"
+     },
+     "forms": [
+      [
+       "credulous (adj.)",
+       "轻信的",
+       "信じやすい"
+      ],
+      [
+       "test one's credulity",
+       "考验人的轻信程度",
+       "信じやすさを試す"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rect",
+   "title_zh": "词根 -rect- / -reg-：直；规则；统治",
+   "title_ja": "語根 -rect- / -reg-：まっすぐ・規則・治める",
+   "words": [
+    {
+     "w": "direction",
+     "pos": "n.",
+     "ipa": "/dəˈrɛkʃən/",
+     "zh": "方向；指导；说明",
+     "ja": "方向；指示；方針",
+     "ex": "The company is moving in a new strategic direction.",
+     "ex_zh": "公司正朝着新的战略方向前进。",
+     "ex_ja": "会社は新たな戦略的方向へ進んでいる。",
+     "parts": [
+      [
+       "direct",
+       "指引；使成直线",
+       "導く；まっすぐにする"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "direct 来自拉丁语 dirigere（使笔直，引导）；direction → 被引导的方向。",
+      "ja": "direct はラテン語 dirigere（まっすぐにする）から。direction → 向かう方向、指示。"
+     },
+     "forms": [
+      [
+       "follow the directions",
+       "按说明做",
+       "指示に従う"
+      ],
+      [
+       "directions to the venue",
+       "去会场的路线",
+       "会場への道順"
+      ]
+     ]
+    },
+    {
+     "w": "director",
+     "pos": "n.",
+     "ipa": "/dəˈrɛktɚ/",
+     "zh": "主管；董事；导演",
+     "ja": "部長；取締役；監督",
+     "ex": "The director of marketing will present the new campaign.",
+     "ex_zh": "市场总监将介绍新的推广活动。",
+     "ex_ja": "マーケティング部長が新しいキャンペーンを発表する。",
+     "parts": [
+      [
+       "direct",
+       "引导；管理",
+       "導く；管理する"
+      ],
+      [
+       "-or",
+       "…的人",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "direct（引导）+ -or（人）→ 引导、管理的人 → 主管、董事。",
+      "ja": "direct「導く」+ -or「人」→ 導く人 → 部長、取締役。"
+     },
+     "forms": [
+      [
+       "board of directors",
+       "董事会",
+       "取締役会"
+      ],
+      [
+       "managing director",
+       "常务董事",
+       "専務取締役"
+      ]
+     ]
+    },
+    {
+     "w": "incorrect",
+     "pos": "adj.",
+     "ipa": "/ˌɪnkəˈrɛkt/",
+     "zh": "不正确的",
+     "ja": "正しくない；誤った",
+     "ex": "The invoice contained an incorrect billing address.",
+     "ex_zh": "发票上有一个不正确的账单地址。",
+     "ex_ja": "請求書には誤った請求先住所が記載されていた。",
+     "parts": [
+      [
+       "in-",
+       "不",
+       "〜ない"
+      ],
+      [
+       "cor-",
+       "（com-）完全",
+       "すっかり"
+      ],
+      [
+       "rect",
+       "直；正",
+       "まっすぐ；正しい"
+      ]
+     ],
+     "note": {
+      "zh": "in（不）+ cor（完全）+ rect（直、正）→ 不是“完全正”的 → 不正确。",
+      "ja": "in「〜ない」+ cor「すっかり」+ rect「正しい」→ 正しくない。"
+     },
+     "forms": [
+      [
+       "incorrectly (adv.)",
+       "不正确地",
+       "誤って"
+      ],
+      [
+       "correct (v.)",
+       "改正",
+       "訂正する"
+      ]
+     ]
+    },
+    {
+     "w": "corrective",
+     "pos": "adj.",
+     "ipa": "/kəˈrɛktɪv/",
+     "zh": "纠正的；补救的",
+     "ja": "是正の；矯正の",
+     "ex": "The plant took corrective action after the safety inspection.",
+     "ex_zh": "安全检查后，工厂采取了纠正措施。",
+     "ex_ja": "工場は安全検査の後に是正措置を取った。",
+     "parts": [
+      [
+       "cor-",
+       "（com-）完全",
+       "すっかり"
+      ],
+      [
+       "rect",
+       "直；正",
+       "まっすぐ；正しい"
+      ],
+      [
+       "-ive",
+       "有…性质的",
+       "〜の性質の"
+      ]
+     ],
+     "note": {
+      "zh": "cor（完全）+ rect（使正）+ -ive → 用来改正的 → 纠正的。",
+      "ja": "cor「すっかり」+ rect「正す」+ -ive → 正すための → 是正の。"
+     },
+     "forms": [
+      [
+       "corrective action",
+       "纠正措施",
+       "是正措置"
+      ],
+      [
+       "corrective measures",
+       "补救措施",
+       "是正策"
+      ]
+     ]
+    },
+    {
+     "w": "redirect",
+     "pos": "v.",
+     "ipa": "/ˌridəˈrɛkt/",
+     "zh": "重新引导；改寄；转发",
+     "ja": "向け直す；転送する",
+     "ex": "Please redirect all customer calls to the help desk.",
+     "ex_zh": "请把所有客户来电转接到服务台。",
+     "ex_ja": "顧客からの電話はすべてヘルプデスクに回してください。",
+     "parts": [
+      [
+       "re-",
+       "再；重新",
+       "再び"
+      ],
+      [
+       "direct",
+       "引导",
+       "導く"
+      ]
+     ],
+     "note": {
+      "zh": "re（重新）+ direct（引导）→ 改变去向 → 转向、转寄。",
+      "ja": "re「再び」+ direct「導く」→ 向きを変える → 転送する。"
+     },
+     "forms": [
+      [
+       "redirect funds",
+       "改拨资金",
+       "資金を振り向ける"
+      ],
+      [
+       "mail redirection",
+       "邮件改寄",
+       "郵便の転送"
+      ]
+     ]
+    },
+    {
+     "w": "indirect",
+     "pos": "adj.",
+     "ipa": "/ˌɪndəˈrɛkt/",
+     "zh": "间接的；不直接的",
+     "ja": "間接的な；遠回しの",
+     "ex": "Indirect costs such as rent should be included in the budget.",
+     "ex_zh": "租金等间接成本应计入预算。",
+     "ex_ja": "家賃などの間接費は予算に含めるべきだ。",
+     "parts": [
+      [
+       "in-",
+       "不",
+       "〜ない"
+      ],
+      [
+       "direct",
+       "直接的",
+       "直接の"
+      ]
+     ],
+     "note": {
+      "zh": "in（不）+ direct（直接）→ 不直接的 → 间接的。",
+      "ja": "in「〜ない」+ direct「直接の」→ 間接的な。"
+     },
+     "forms": [
+      [
+       "indirect cost",
+       "间接成本",
+       "間接費"
+      ],
+      [
+       "indirectly (adv.)",
+       "间接地",
+       "間接的に"
+      ]
+     ]
+    },
+    {
+     "w": "regular",
+     "pos": "adj.",
+     "ipa": "/ˈrɛgjəlɚ/",
+     "zh": "定期的；规则的；普通的",
+     "ja": "定期的な；規則的な；通常の",
+     "ex": "Regular maintenance keeps the machines running smoothly.",
+     "ex_zh": "定期维护让机器运转顺畅。",
+     "ex_ja": "定期的な保守点検で機械は順調に動く。",
+     "parts": [
+      [
+       "reg",
+       "直；规则",
+       "まっすぐ；規則"
+      ],
+      [
+       "-ular",
+       "…的",
+       "〜の"
+      ]
+     ],
+     "note": {
+      "zh": "reg（规则、直）+ -ular → 合乎规则的 → 定期的、一般的。",
+      "ja": "reg「規則」+ -ular → 規則にかなった → 定期的な、通常の。"
+     },
+     "forms": [
+      [
+       "on a regular basis",
+       "定期地",
+       "定期的に"
+      ],
+      [
+       "regularly (adv.)",
+       "定期地",
+       "定期的に"
+      ]
+     ]
+    },
+    {
+     "w": "irregular",
+     "pos": "adj.",
+     "ipa": "/ɪˈrɛgjəlɚ/",
+     "zh": "不规则的；不合规的",
+     "ja": "不規則な；不正規の",
+     "ex": "The auditor noticed irregular entries in the accounts.",
+     "ex_zh": "审计员发现账目中有不合规的记录。",
+     "ex_ja": "監査人は帳簿に不規則な記入があることに気づいた。",
+     "parts": [
+      [
+       "ir-",
+       "（in-）不",
+       "〜ない"
+      ],
+      [
+       "regular",
+       "规则的",
+       "規則的な"
+      ]
+     ],
+     "note": {
+      "zh": "ir（不）+ regular（规则的）→ 不规则的。ir- 是 in- 在 r 前的变体。",
+      "ja": "ir「〜ない」+ regular → 不規則な。ir- は r の前での in-。"
+     },
+     "forms": [
+      [
+       "irregularity (n.)",
+       "不规范；违规",
+       "不規則；不正"
+      ],
+      [
+       "irregular hours",
+       "不固定的工作时间",
+       "不規則な勤務時間"
+      ]
+     ]
+    },
+    {
+     "w": "regulatory",
+     "pos": "adj.",
+     "ipa": "/ˈrɛgjələˌtɔri/",
+     "zh": "监管的；管理的",
+     "ja": "規制の；監督の",
+     "ex": "The product must pass a regulatory review before launch.",
+     "ex_zh": "产品在上市前必须通过监管审查。",
+     "ex_ja": "その製品は発売前に規制当局の審査を通らなければならない。",
+     "parts": [
+      [
+       "regul",
+       "规则；管理",
+       "規則；管理"
+      ],
+      [
+       "-atory",
+       "…性的",
+       "〜の性質の"
+      ]
+     ],
+     "note": {
+      "zh": "regul（规则）+ -atory → 与制定、执行规则有关 → 监管的。",
+      "ja": "regul「規則」+ -atory → 規制に関する。"
+     },
+     "forms": [
+      [
+       "regulatory approval",
+       "监管批准",
+       "規制当局の承認"
+      ],
+      [
+       "regulatory body",
+       "监管机构",
+       "規制機関"
+      ]
+     ]
+    },
+    {
+     "w": "deregulate",
+     "pos": "v.",
+     "ipa": "/diˈrɛgjəˌleɪt/",
+     "zh": "解除管制；放宽监管",
+     "ja": "規制を緩和する",
+     "ex": "The government decided to deregulate the telecommunications market.",
+     "ex_zh": "政府决定放宽对电信市场的管制。",
+     "ex_ja": "政府は通信市場の規制を緩和することを決めた。",
+     "parts": [
+      [
+       "de-",
+       "去除",
+       "取り除く"
+      ],
+      [
+       "regul",
+       "规则",
+       "規則"
+      ],
+      [
+       "-ate",
+       "动词后缀",
+       "動詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "de（去除）+ regulate（管制）→ 取消管制。",
+      "ja": "de「取り除く」+ regulate（規制する）→ 規制を外す。"
+     },
+     "forms": [
+      [
+       "deregulation (n.)",
+       "放松管制",
+       "規制緩和"
+      ],
+      [
+       "regulate (v.)",
+       "管制",
+       "規制する"
+      ]
+     ]
+    },
+    {
+     "w": "regime",
+     "pos": "n.",
+     "ipa": "/reɪˈʒim/",
+     "zh": "制度；政权；管理体制",
+     "ja": "体制；制度",
+     "ex": "The new tax regime takes effect in April.",
+     "ex_zh": "新的税收制度将于四月生效。",
+     "ex_ja": "新しい税制は4月に施行される。",
+     "parts": [
+      [
+       "reg",
+       "统治；规则",
+       "統治；規則"
+      ]
+     ],
+     "note": {
+      "zh": "来自拉丁语 regere（统治，使笔直）→ 管理的体制。词尾 -me 来自法语。",
+      "ja": "ラテン語 regere（統治する）からフランス語経由。統治の仕組み、制度。"
+     },
+     "forms": [
+      [
+       "tax regime",
+       "税制",
+       "税制"
+      ],
+      [
+       "regime change",
+       "政权更迭",
+       "政権交代"
+      ]
+     ]
+    },
+    {
+     "w": "regimen",
+     "pos": "n.",
+     "ipa": "/ˈrɛdʒəmən/",
+     "zh": "养生法；规定的方案",
+     "ja": "養生法；規定の計画",
+     "ex": "The doctor outlined a daily exercise regimen for employees.",
+     "ex_zh": "医生为员工列出了每日锻炼方案。",
+     "ex_ja": "医師は従業員のために毎日の運動プログラムを示した。",
+     "parts": [
+      [
+       "reg",
+       "规则；管理",
+       "規則；管理"
+      ],
+      [
+       "-men",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "reg（规则）+ -men → 按规则执行的方案 → 养生法、规定方案。",
+      "ja": "reg「規則」+ -men → 規則的に行う計画 → 養生法。"
+     },
+     "forms": [
+      [
+       "fitness regimen",
+       "健身方案",
+       "運動プログラム"
+      ],
+      [
+       "regimen vs regime",
+       "regimen=方案；regime=制度",
+       "regimen=計画；regime=体制"
+      ]
+     ]
+    },
+    {
+     "w": "regent",
+     "pos": "n.",
+     "ipa": "/ˈridʒənt/",
+     "zh": "摄政；（大学）董事",
+     "ja": "摂政；（大学の）理事",
+     "ex": "A regent of the university spoke at the opening ceremony.",
+     "ex_zh": "一位大学董事在开幕式上致辞。",
+     "ex_ja": "大学の理事が開会式で挨拶した。",
+     "parts": [
+      [
+       "reg",
+       "统治",
+       "統治する"
+      ],
+      [
+       "-ent",
+       "…者",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "reg（统治）+ -ent（人）→ 掌管的人 → 摄政、校董。",
+      "ja": "reg「統治する」+ -ent「人」→ 治める人 → 摂政、理事。"
+     },
+     "forms": [
+      [
+       "board of regents",
+       "（大学）校董会",
+       "（大学の）理事会"
+      ],
+      [
+       "regency (n.)",
+       "摄政期",
+       "摂政時代"
+      ]
+     ]
+    },
+    {
+     "w": "directly",
+     "pos": "adv.",
+     "ipa": "/dəˈrɛktli/",
+     "zh": "直接地；立即",
+     "ja": "直接に；すぐに",
+     "ex": "Please send the report directly to the finance department.",
+     "ex_zh": "请把报告直接发给财务部。",
+     "ex_ja": "報告書は直接経理部に送ってください。",
+     "parts": [
+      [
+       "direct",
+       "直的；直接",
+       "まっすぐな；直接"
+      ],
+      [
+       "-ly",
+       "副词后缀",
+       "副詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "direct（直接）+ -ly → 直接地。也可表示“马上”：directly after the meeting。",
+      "ja": "direct「直接」+ -ly → 直接に。「すぐに」の意味もある。"
+     },
+     "forms": [
+      [
+       "directly after",
+       "紧接着…之后",
+       "〜の直後に"
+      ],
+      [
+       "report directly to",
+       "直接向…汇报",
+       "〜に直属する"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cur",
+   "title_zh": "词根 -cur- / -curr- / -curs-：跑",
+   "title_ja": "語根 -cur- / -curr- / -curs-：走る",
+   "words": [
+    {
+     "w": "currently",
+     "pos": "adv.",
+     "ipa": "/ˈkɝəntli/",
+     "zh": "目前；现在",
+     "ja": "現在；目下",
+     "ex": "We are currently reviewing three proposals from vendors.",
+     "ex_zh": "我们目前正在审查三家供应商的提案。",
+     "ex_ja": "現在、3社の業者からの提案を検討している。",
+     "parts": [
+      [
+       "curr",
+       "跑；流动",
+       "走る；流れる"
+      ],
+      [
+       "-ent",
+       "…的",
+       "〜の"
+      ],
+      [
+       "-ly",
+       "副词后缀",
+       "副詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "curr（跑、流）+ -ent → 正在流动的 → 当前的；current + -ly → 目前。",
+      "ja": "curr「走る・流れる」+ -ent → 今流れている → 現在の；+ -ly → 現在。"
+     },
+     "forms": [
+      [
+       "is currently + V-ing",
+       "目前正在…",
+       "現在〜している"
+      ],
+      [
+       "current (adj.)",
+       "当前的",
+       "現在の"
+      ]
+     ]
+    },
+    {
+     "w": "concurrently",
+     "pos": "adv.",
+     "ipa": "/kənˈkɝəntli/",
+     "zh": "同时地；并行地",
+     "ja": "同時に；並行して",
+     "ex": "The two projects will run concurrently through the spring.",
+     "ex_zh": "这两个项目将在整个春季同时进行。",
+     "ex_ja": "2つのプロジェクトは春の間ずっと並行して進行する。",
+     "parts": [
+      [
+       "con-",
+       "一起",
+       "共に"
+      ],
+      [
+       "curr",
+       "跑",
+       "走る"
+      ],
+      [
+       "-ent",
+       "…的",
+       "〜の"
+      ],
+      [
+       "-ly",
+       "副词后缀",
+       "副詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "con（一起）+ curr（跑）→ 一起跑 → 同时进行。",
+      "ja": "con「共に」+ curr「走る」→ 一緒に走る → 同時に。"
+     },
+     "forms": [
+      [
+       "concurrent (adj.)",
+       "同时发生的",
+       "同時の"
+      ],
+      [
+       "run concurrently",
+       "并行运行",
+       "並行して実行する"
+      ]
+     ]
+    },
+    {
+     "w": "occurrence",
+     "pos": "n.",
+     "ipa": "/əˈkɝəns/",
+     "zh": "发生；事件",
+     "ja": "発生；出来事",
+     "ex": "Power failures are a rare occurrence at this facility.",
+     "ex_zh": "停电在这个设施里很少发生。",
+     "ex_ja": "この施設では停電はめったに起こらない。",
+     "parts": [
+      [
+       "oc-",
+       "（ob-）朝向",
+       "〜へ"
+      ],
+      [
+       "curr",
+       "跑",
+       "走る"
+      ],
+      [
+       "-ence",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "oc（朝向）+ curr（跑）+ -ence → 跑到眼前的事 → 发生、事件。拼写常错：两个 c、两个 r。",
+      "ja": "oc「〜へ」+ curr「走る」+ -ence → 目の前に来た出来事。綴りは cc と rr。"
+     },
+     "forms": [
+      [
+       "a rare occurrence",
+       "罕见的事",
+       "めったにない出来事"
+      ],
+      [
+       "occur (v.)",
+       "发生",
+       "起こる"
+      ]
+     ]
+    },
+    {
+     "w": "recurring",
+     "pos": "adj.",
+     "ipa": "/rɪˈkɝɪŋ/",
+     "zh": "反复出现的；经常性的",
+     "ja": "繰り返し起こる；定期的な",
+     "ex": "Recurring payments are charged to the card on the first of each month.",
+     "ex_zh": "定期扣款在每月一日从卡上扣除。",
+     "ex_ja": "定期支払いは毎月1日にカードに請求される。",
+     "parts": [
+      [
+       "re-",
+       "再",
+       "再び"
+      ],
+      [
+       "cur",
+       "跑",
+       "走る"
+      ],
+      [
+       "-ing",
+       "…的",
+       "〜している"
+      ]
+     ],
+     "note": {
+      "zh": "re（再）+ cur（跑）→ 又跑回来 → 反复出现的。拼写：recur → recurring（r 双写）。",
+      "ja": "re「再び」+ cur「走る」→ また戻ってくる → 繰り返す。綴り：recur → recurring（r を重ねる）。"
+     },
+     "forms": [
+      [
+       "recurring payment",
+       "定期支付",
+       "定期支払い"
+      ],
+      [
+       "recurring problem",
+       "反复出现的问题",
+       "繰り返される問題"
+      ]
+     ]
+    },
+    {
+     "w": "cursory",
+     "pos": "adj.",
+     "ipa": "/ˈkɝsəri/",
+     "zh": "匆忙的；粗略的",
+     "ja": "ざっと済ませる；おざなりの",
+     "ex": "The inspector gave the documents only a cursory glance.",
+     "ex_zh": "检查员只是匆匆扫了一眼这些文件。",
+     "ex_ja": "検査官は書類にざっと目を通しただけだった。",
+     "parts": [
+      [
+       "curs",
+       "跑",
+       "走る"
+      ],
+      [
+       "-ory",
+       "…的",
+       "〜の"
+      ]
+     ],
+     "note": {
+      "zh": "curs（跑）+ -ory → 匆匆跑过的 → 粗略的。",
+      "ja": "curs「走る」+ -ory → 走り抜けるような → ざっとした。"
+     },
+     "forms": [
+      [
+       "a cursory glance",
+       "匆匆一瞥",
+       "ざっと見ること"
+      ],
+      [
+       "cursory review",
+       "粗略审阅",
+       "ざっとした確認"
+      ]
+     ]
+    },
+    {
+     "w": "discourse",
+     "pos": "n.",
+     "ipa": "/ˈdɪskɔrs/",
+     "zh": "论述；交谈；话语",
+     "ja": "談話；論述；言説",
+     "ex": "Public discourse about the merger has become heated.",
+     "ex_zh": "公众对这次合并的讨论已经变得激烈。",
+     "ex_ja": "合併をめぐる世間の議論は白熱している。",
+     "parts": [
+      [
+       "dis-",
+       "分散；各处",
+       "散らばって"
+      ],
+      [
+       "course",
+       "跑；过程",
+       "走る；流れ"
+      ]
+     ],
+     "note": {
+      "zh": "dis（分散）+ course（跑）→ 思路到处跑 → 谈话、论述。",
+      "ja": "dis「散らばって」+ course「走る」→ 話があちこち巡る → 談話、論述。"
+     },
+     "forms": [
+      [
+       "public discourse",
+       "公共讨论",
+       "公共の議論"
+      ],
+      [
+       "business discourse",
+       "商务话语",
+       "ビジネスの言説"
+      ]
+     ]
+    },
+    {
+     "w": "recourse",
+     "pos": "n.",
+     "ipa": "/ˈrikɔrs/",
+     "zh": "求助；依靠的办法；追索权",
+     "ja": "頼みの綱；償還請求権",
+     "ex": "Customers have legal recourse if the product is defective.",
+     "ex_zh": "产品有缺陷时，客户可以诉诸法律救济。",
+     "ex_ja": "製品に欠陥がある場合、顧客は法的手段に訴えられる。",
+     "parts": [
+      [
+       "re-",
+       "回",
+       "戻る"
+      ],
+      [
+       "course",
+       "跑",
+       "走る"
+      ]
+     ],
+     "note": {
+      "zh": "re（回）+ course（跑）→ 跑回去求助 → 求助的途径。常见：have recourse to。",
+      "ja": "re「戻る」+ course「走る」→ 助けを求めて駆け戻る → 頼る手段。have recourse to が定番。"
+     },
+     "forms": [
+      [
+       "legal recourse",
+       "法律救济",
+       "法的手段"
+      ],
+      [
+       "have recourse to",
+       "求助于",
+       "〜に頼る"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ins",
+   "title_zh": "主题：保险与理赔",
+   "title_ja": "テーマ：保険と保険金請求",
+   "words": [
+    {
+     "w": "insured",
+     "pos": "adj.",
+     "ipa": "/ɪnˈʃʊrd/",
+     "zh": "已投保的；被保险的",
+     "ja": "保険に加入している",
+     "ex": "All company vehicles must be insured against theft and damage.",
+     "ex_zh": "所有公司车辆都必须投保盗窃和损坏险。",
+     "ex_ja": "すべての社用車は盗難と損害の保険に加入しなければならない。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：insured 来自 insure（保险），不要和 ensure（确保）混淆。",
+      "ja": "信頼できる語根分解はありません：insure（保険をかける）の過去分詞形。ensure（確実にする）と区別。"
+     },
+     "forms": [
+      [
+       "the insured (n.)",
+       "被保险人",
+       "被保険者"
+      ],
+      [
+       "fully insured",
+       "全额投保的",
+       "全額保険がかかった"
+      ]
+     ]
+    },
+    {
+     "w": "uninsured",
+     "pos": "adj.",
+     "ipa": "/ˌʌnɪnˈʃʊrd/",
+     "zh": "未投保的",
+     "ja": "保険に入っていない",
+     "ex": "Uninsured losses must be paid by the company itself.",
+     "ex_zh": "未投保的损失必须由公司自行承担。",
+     "ex_ja": "保険のない損失は会社自身が負担しなければならない。",
+     "parts": [
+      [
+       "un-",
+       "不；没有",
+       "〜ない"
+      ],
+      [
+       "insured",
+       "已投保的",
+       "保険に入った"
+      ]
+     ],
+     "note": {
+      "zh": "un（没有）+ insured（已投保）→ 未投保的。",
+      "ja": "un「〜ない」+ insured → 保険に入っていない。"
+     },
+     "forms": [
+      [
+       "uninsured loss",
+       "未投保的损失",
+       "保険対象外の損失"
+      ],
+      [
+       "underinsured (adj.)",
+       "保额不足的",
+       "保険が不十分な"
+      ]
+     ]
+    },
+    {
+     "w": "assessor",
+     "pos": "n.",
+     "ipa": "/əˈsɛsɚ/",
+     "zh": "估价员；评估人",
+     "ja": "査定人；評価者",
+     "ex": "An assessor visited the site to estimate the fire damage.",
+     "ex_zh": "评估员到现场估算火灾损失。",
+     "ex_ja": "査定人が火災の損害を見積もるため現場を訪れた。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：assessor 来自拉丁语 assidere（坐在旁边协助评定），拆成零件意义不大。",
+      "ja": "信頼できる語根分解はありません：ラテン語 assidere（そばに座る）から。分解しても学習効果は低い。"
+     },
+     "forms": [
+      [
+       "insurance assessor",
+       "保险评估员",
+       "保険の査定人"
+      ],
+      [
+       "assess (v.)",
+       "评估",
+       "評価する"
+      ]
+     ]
+    },
+    {
+     "w": "actuary",
+     "pos": "n.",
+     "ipa": "/ˈæktʃuˌɛri/",
+     "zh": "精算师",
+     "ja": "保険数理士；アクチュアリー",
+     "ex": "The actuary calculated the risk of claims for the new policy.",
+     "ex_zh": "精算师为新保单计算了理赔风险。",
+     "ex_ja": "保険数理士は新しい保険のリスクを計算した。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：actuary 原指“记账员”，来自拉丁语 actuarius，今天专指计算保险风险的人。",
+      "ja": "信頼できる語根分解はありません：もとは「記録係」（ラテン語 actuarius）。今は保険リスクを計算する専門家。"
+     },
+     "forms": [
+      [
+       "actuarial (adj.)",
+       "精算的",
+       "保険数理の"
+      ],
+      [
+       "actuarial table",
+       "精算表",
+       "保険数理表"
+      ]
+     ]
+    },
+    {
+     "w": "casualty",
+     "pos": "n.",
+     "ipa": "/ˈkæʒuəlti/",
+     "zh": "伤亡人员；受害者；意外事故",
+     "ja": "死傷者；被害者；事故",
+     "ex": "The insurance company handles property and casualty claims.",
+     "ex_zh": "这家保险公司处理财产险和意外险的理赔。",
+     "ex_ja": "その保険会社は財産保険と傷害保険の請求を扱っている。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：casualty 与 casual（随意的）同源，原指“偶然发生的事”，所以才有“意外”的意思。",
+      "ja": "信頼できる語根分解はありません：casual（偶然の）と同系で、「偶然の出来事」から「事故・死傷」へ。"
+     },
+     "forms": [
+      [
+       "casualty insurance",
+       "意外伤害险",
+       "災害・傷害保険"
+      ],
+      [
+       "property and casualty",
+       "财产与意外险",
+       "損害保険"
+      ]
+     ]
+    },
+    {
+     "w": "arson",
+     "pos": "n.",
+     "ipa": "/ˈɑrsən/",
+     "zh": "纵火",
+     "ja": "放火",
+     "ex": "Investigators ruled out arson as the cause of the warehouse fire.",
+     "ex_zh": "调查人员排除了纵火是仓库火灾原因的可能。",
+     "ex_ja": "調査員は倉庫火災の原因として放火の可能性を否定した。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：arson 来自拉丁语 ardere（燃烧），在英语里就当作一个整词记。",
+      "ja": "信頼できる語根分解はありません：ラテン語 ardere（燃える）から。英語では一語として覚える。"
+     },
+     "forms": [
+      [
+       "suspected arson",
+       "涉嫌纵火",
+       "放火の疑い"
+      ],
+      [
+       "arsonist (n.)",
+       "纵火犯",
+       "放火犯"
+      ]
+     ]
+    },
+    {
+     "w": "burglary",
+     "pos": "n.",
+     "ipa": "/ˈbɝglɚi/",
+     "zh": "入室盗窃",
+     "ja": "住居侵入窃盗",
+     "ex": "The shop was covered by insurance against burglary.",
+     "ex_zh": "这家店投了防盗保险。",
+     "ex_ja": "その店は盗難保険に加入していた。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：burglary 指入室行窃；robbery 是当面抢劫，theft 是泛指偷窃。",
+      "ja": "信頼できる語根分解はありません：burglary は侵入しての窃盗、robbery は強盗、theft は窃盗全般。"
+     },
+     "forms": [
+      [
+       "burglar (n.)",
+       "入室盗贼",
+       "空き巣"
+      ],
+      [
+       "burglary alarm",
+       "防盗警报",
+       "防犯アラーム"
+      ]
+     ]
+    },
+    {
+     "w": "mishap",
+     "pos": "n.",
+     "ipa": "/ˈmɪsˌhæp/",
+     "zh": "小事故；倒霉事",
+     "ja": "ちょっとした事故；不運",
+     "ex": "A minor mishap during shipping damaged several boxes.",
+     "ex_zh": "运输途中的一个小意外损坏了几个箱子。",
+     "ex_ja": "輸送中のちょっとしたトラブルで数箱が破損した。",
+     "parts": [
+      [
+       "mis-",
+       "坏；错",
+       "悪い；誤った"
+      ],
+      [
+       "hap",
+       "运气；偶然",
+       "運；偶然"
+      ]
+     ],
+     "note": {
+      "zh": "mis（坏）+ hap（运气）→ 倒霉的偶然 → 小事故。hap 与 happen 同源。",
+      "ja": "mis「悪い」+ hap「運」→ 不運な出来事。hap は happen と同系。"
+     },
+     "forms": [
+      [
+       "without mishap",
+       "平安无事",
+       "無事に"
+      ],
+      [
+       "minor mishap",
+       "小意外",
+       "ちょっとした事故"
+      ]
+     ]
+    },
+    {
+     "w": "salvage",
+     "pos": "v.",
+     "ipa": "/ˈsælvɪdʒ/",
+     "zh": "抢救；回收",
+     "ja": "救出する；回収する",
+     "ex": "Workers managed to salvage most of the equipment after the flood.",
+     "ex_zh": "洪水过后，工人们抢救出了大部分设备。",
+     "ex_ja": "洪水の後、作業員はほとんどの機材を救い出すことができた。",
+     "parts": [
+      [
+       "salv",
+       "救；安全",
+       "救う；安全"
+      ],
+      [
+       "-age",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "salv（救）+ -age → 被救下来的东西 / 抢救。与 save 同源。",
+      "ja": "salv「救う」+ -age → 救い出されたもの。save と同系。"
+     },
+     "forms": [
+      [
+       "salvage value",
+       "残值；回收价值",
+       "残存価値"
+      ],
+      [
+       "salvage operation",
+       "抢救行动",
+       "救出作業"
+      ]
+     ]
+    },
+    {
+     "w": "appraiser",
+     "pos": "n.",
+     "ipa": "/əˈpreɪzɚ/",
+     "zh": "估价师；鉴定人",
+     "ja": "鑑定人；査定人",
+     "ex": "An independent appraiser valued the building before the sale.",
+     "ex_zh": "出售前，独立估价师对这栋楼进行了估价。",
+     "ex_ja": "売却前に独立した鑑定人がその建物を評価した。",
+     "parts": [
+      [
+       "ap-",
+       "（ad-）朝向",
+       "〜へ"
+      ],
+      [
+       "prais",
+       "价格；价值",
+       "価格；価値"
+      ],
+      [
+       "-er",
+       "…的人",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "ap（向）+ prais（价值）+ -er → 给东西定价值的人 → 估价师。⚠️ 别和 praise（称赞）混淆，二者拼写相近。",
+      "ja": "ap「〜へ」+ prais「価値」+ -er → 価値を決める人。⚠️ praise（称賛）と綴りが近い。"
+     },
+     "forms": [
+      [
+       "appraise (v.)",
+       "评估价值",
+       "評価する"
+      ],
+      [
+       "appraisal (n.)",
+       "评估",
+       "査定"
+      ]
+     ]
+    },
+    {
+     "w": "peril",
+     "pos": "n.",
+     "ipa": "/ˈpɛrəl/",
+     "zh": "危险；风险",
+     "ja": "危険；危機",
+     "ex": "The policy covers the building against fire and other perils.",
+     "ex_zh": "这份保单承保这栋建筑的火灾及其他风险。",
+     "ex_ja": "この保険は火災などの危険から建物を守る。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：peril 与 perilous（危险的）、imperil（使陷入险境）同族。保险条款里 peril = 承保的风险。",
+      "ja": "信頼できる語根分解はありません：perilous、imperil と同族。保険条項では「担保される危険」。"
+     },
+     "forms": [
+      [
+       "at your own peril",
+       "后果自负",
+       "自己の責任で"
+      ],
+      [
+       "perilous (adj.)",
+       "危险的",
+       "危険な"
+      ]
+     ]
+    },
+    {
+     "w": "coinsurance",
+     "pos": "n.",
+     "ipa": "/ˌkoʊɪnˈʃʊrəns/",
+     "zh": "共同保险；共付比例",
+     "ja": "共同保険；自己負担割合",
+     "ex": "Under the coinsurance clause, the patient pays twenty percent of the bill.",
+     "ex_zh": "按共付条款，患者支付账单的百分之二十。",
+     "ex_ja": "共同保険条項により、患者は請求額の20％を負担する。",
+     "parts": [
+      [
+       "co-",
+       "共同",
+       "共に"
+      ],
+      [
+       "insurance",
+       "保险",
+       "保険"
+      ]
+     ],
+     "note": {
+      "zh": "co（共同）+ insurance（保险）→ 保险公司与投保人共同承担 → 共付比例。",
+      "ja": "co「共に」+ insurance → 保険会社と加入者が分担 → 自己負担割合。"
+     },
+     "forms": [
+      [
+       "coinsurance rate",
+       "共付比例",
+       "自己負担率"
+      ],
+      [
+       "co-pay (n.)",
+       "自付额",
+       "自己負担金"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "event",
+   "title_zh": "主题：宴会与活动布置",
+   "title_ja": "テーマ：宴会とイベントの準備",
+   "words": [
+    {
+     "w": "tasting",
+     "pos": "n.",
+     "ipa": "/ˈteɪstɪŋ/",
+     "zh": "品尝（会）",
+     "ja": "試食（会）；テイスティング",
+     "ex": "The caterer invited us to a tasting before we chose the menu.",
+     "ex_zh": "餐饮公司邀请我们在定菜单前先试吃。",
+     "ex_ja": "ケータリング会社はメニューを決める前に試食へ招待してくれた。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：tasting 是 taste 加 -ing，活动场合常说 menu tasting / wine tasting。",
+      "ja": "信頼できる語根分解はありません：taste + -ing。イベントでは menu tasting / wine tasting とよく言う。"
+     },
+     "forms": [
+      [
+       "menu tasting",
+       "菜单试吃",
+       "メニューの試食"
+      ],
+      [
+       "wine tasting",
+       "品酒会",
+       "ワインの試飲会"
+      ]
+     ]
+    },
+    {
+     "w": "florist",
+     "pos": "n.",
+     "ipa": "/ˈflɔrɪst/",
+     "zh": "花商；花店",
+     "ja": "花屋",
+     "ex": "The florist will deliver the centerpieces to the hall at nine.",
+     "ex_zh": "花店会在九点把桌花送到大厅。",
+     "ex_ja": "花屋は9時に会場へテーブル装花を届ける。",
+     "parts": [
+      [
+       "flor",
+       "花",
+       "花"
+      ],
+      [
+       "-ist",
+       "…的人",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "flor（花）+ -ist（人）→ 卖花、做花艺的人。flower、flourish 同源。",
+      "ja": "flor「花」+ -ist「人」→ 花を扱う人。flower、flourish と同系。"
+     },
+     "forms": [
+      [
+       "florist shop",
+       "花店",
+       "花屋"
+      ],
+      [
+       "floral (adj.)",
+       "花的",
+       "花の"
+      ]
+     ]
+    },
+    {
+     "w": "decor",
+     "pos": "n.",
+     "ipa": "/deɪˈkɔr/",
+     "zh": "装饰；布置",
+     "ja": "装飾；内装",
+     "ex": "The hotel's elegant decor suits formal receptions.",
+     "ex_zh": "酒店典雅的装饰很适合正式招待会。",
+     "ex_ja": "そのホテルの上品な内装は正式なレセプションに向いている。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：decor 是 decoration 的缩略，重音在第二个音节 /deɪˈkɔr/。",
+      "ja": "信頼できる語根分解はありません：decoration の短縮形。アクセントは第2音節 /deɪˈkɔr/。"
+     },
+     "forms": [
+      [
+       "office decor",
+       "办公室装饰",
+       "オフィスの内装"
+      ],
+      [
+       "decorate (v.)",
+       "装饰",
+       "飾る"
+      ]
+     ]
+    },
+    {
+     "w": "dietary",
+     "pos": "adj.",
+     "ipa": "/ˈdaɪəˌtɛri/",
+     "zh": "饮食的",
+     "ja": "食事の；食事制限の",
+     "ex": "Please tell us about any dietary restrictions before the banquet.",
+     "ex_zh": "宴会前请告知任何饮食禁忌。",
+     "ex_ja": "宴会の前に食事制限があればお知らせください。",
+     "parts": [
+      [
+       "diet",
+       "饮食；生活方式",
+       "食事；生活様式"
+      ],
+      [
+       "-ary",
+       "…的",
+       "〜の"
+      ]
+     ],
+     "note": {
+      "zh": "diet（饮食）+ -ary → 与饮食有关的。",
+      "ja": "diet「食事」+ -ary → 食事に関する。"
+     },
+     "forms": [
+      [
+       "dietary restrictions",
+       "饮食禁忌",
+       "食事制限"
+      ],
+      [
+       "dietary needs",
+       "饮食需求",
+       "食事の必要"
+      ]
+     ]
+    },
+    {
+     "w": "entree",
+     "pos": "n.",
+     "ipa": "/ˈɑnˌtreɪ/",
+     "zh": "主菜",
+     "ja": "メインディッシュ",
+     "ex": "Guests may choose fish or chicken as their entree.",
+     "ex_zh": "客人可以选择鱼或鸡肉作为主菜。",
+     "ex_ja": "お客様はメインに魚か鶏肉をお選びいただけます。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：entree 来自法语，原意“入口”。美式英语里指主菜；英式指前菜，要注意。",
+      "ja": "信頼できる語根分解はありません：フランス語で「入口」。米語ではメイン料理、英国ではコースの前菜。"
+     },
+     "forms": [
+      [
+       "choice of entree",
+       "主菜可选",
+       "メインの選択"
+      ],
+      [
+       "side dish",
+       "配菜",
+       "付け合わせ"
+      ]
+     ]
+    },
+    {
+     "w": "bouquet",
+     "pos": "n.",
+     "ipa": "/boʊˈkeɪ/",
+     "zh": "花束",
+     "ja": "花束",
+     "ex": "The organizers presented the speaker with a bouquet of roses.",
+     "ex_zh": "主办方向演讲者献上一束玫瑰。",
+     "ex_ja": "主催者は講演者にバラの花束を贈った。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：bouquet 来自法语；词尾 -quet 不发 t 音，读 /boʊˈkeɪ/。",
+      "ja": "信頼できる語根分解はありません：フランス語由来。語末の t は発音せず /boʊˈkeɪ/。"
+     },
+     "forms": [
+      [
+       "a bouquet of flowers",
+       "一束花",
+       "花束"
+      ],
+      [
+       "floral bouquet",
+       "花束",
+       "フラワーブーケ"
+      ]
+     ]
+    },
+    {
+     "w": "ballroom",
+     "pos": "n.",
+     "ipa": "/ˈbɔlˌrum/",
+     "zh": "宴会厅；舞厅",
+     "ja": "大宴会場；舞踏室",
+     "ex": "The annual dinner will be held in the hotel ballroom.",
+     "ex_zh": "年度晚宴将在酒店宴会厅举行。",
+     "ex_ja": "年次ディナーはホテルの大宴会場で開催される。",
+     "parts": [
+      [
+       "ball",
+       "舞会",
+       "舞踏会"
+      ],
+      [
+       "room",
+       "房间",
+       "部屋"
+      ]
+     ],
+     "note": {
+      "zh": "ball（舞会）+ room（房间）→ 举办舞会的大厅 → 宴会厅。ball 在这里不是“球”。",
+      "ja": "ball「舞踏会」+ room「部屋」→ 大宴会場。ここの ball は「球」ではない。"
+     },
+     "forms": [
+      [
+       "grand ballroom",
+       "大宴会厅",
+       "大宴会場"
+      ],
+      [
+       "book the ballroom",
+       "预订宴会厅",
+       "宴会場を予約する"
+      ]
+     ]
+    },
+    {
+     "w": "usher",
+     "pos": "v.",
+     "ipa": "/ˈʌʃɚ/",
+     "zh": "引领；招待入座",
+     "ja": "案内する；誘導する",
+     "ex": "Staff will usher guests to their tables when the doors open.",
+     "ex_zh": "开门后，工作人员会引导客人入座。",
+     "ex_ja": "開場したらスタッフがお客様を席へ案内する。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：usher 来自拉丁语 ostiarius（门卫），既是名词“引座员”也是动词“引导”。",
+      "ja": "信頼できる語根分解はありません：ラテン語 ostiarius（門番）から。名詞「案内係」、動詞「案内する」。"
+     },
+     "forms": [
+      [
+       "usher in",
+       "迎来；开创",
+       "〜の幕開けとなる"
+      ],
+      [
+       "usher (n.)",
+       "引座员",
+       "案内係"
+      ]
+     ]
+    },
+    {
+     "w": "mingle",
+     "pos": "v.",
+     "ipa": "/ˈmɪŋgəl/",
+     "zh": "交际；融入人群",
+     "ja": "交流する；混ざり合う",
+     "ex": "Guests had time to mingle during the coffee break.",
+     "ex_zh": "咖啡休息时间，客人们可以相互交流。",
+     "ex_ja": "コーヒーブレイクの間、参加者は交流する時間があった。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：mingle 本义“混合”，社交场合指在人群中走动、和人聊天。",
+      "ja": "信頼できる語根分解はありません：もとは「混ぜる」。社交の場では人の間を回って話すこと。"
+     },
+     "forms": [
+      [
+       "mingle with guests",
+       "和宾客交流",
+       "客と交流する"
+      ],
+      [
+       "networking mixer",
+       "交流会",
+       "交流会"
+      ]
+     ]
+    },
+    {
+     "w": "marquee",
+     "pos": "n.",
+     "ipa": "/mɑrˈki/",
+     "zh": "大帐篷；（剧院）招牌",
+     "ja": "大型テント；ひさし看板",
+     "ex": "The wedding reception was held in a large marquee on the lawn.",
+     "ex_zh": "婚宴在草坪上的大帐篷里举行。",
+     "ex_ja": "結婚披露宴は芝生の大きなテントで行われた。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：marquee 来自法语 marquise；词尾 -quee 读 /ˈki/。英式常指活动大帐篷，美式也指剧院门口招牌。",
+      "ja": "信頼できる語根分解はありません：フランス語 marquise から。語末 -quee は /ki/。英国では大型テント、米国では劇場の看板。"
+     },
+     "forms": [
+      [
+       "a marquee event",
+       "重头活动",
+       "目玉イベント"
+      ],
+      [
+       "marquee name",
+       "头牌；大牌",
+       "看板となる名前"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}
