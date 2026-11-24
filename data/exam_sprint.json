@@ -7851,6 +7851,362 @@
      "src": "site+ep10"
     }
    ]
+  },
+  "53": {
+   "date": "2026-11-25",
+   "focus_zh": "考后轻复习：Part 5 复习 8 题 + Part 7 两篇（Test 1）",
+   "focus_ja": "試験後の軽い復習：Part 5 復習8問＋Part 7 の2題（Test 1）",
+   "grammar": [
+    {
+     "id": "T1-Q126",
+     "label": "Test 1 · Q126",
+     "test": 1,
+     "no": 126,
+     "part": 5,
+     "q": "The manager of Lucky Bridge Restaurant asked ------- willing to work overtime to write their name on a sign-up sheet.",
+     "options": [
+      "those",
+      "which",
+      "who",
+      "yours"
+     ],
+     "answer": "A",
+     "topic_zh": "关系词 · 代词",
+     "topic_ja": "関係詞 · 代名詞",
+     "tip_zh": "those (who are) willing to …“愿意……的那些人”；who 需要先行词和动词",
+     "tip_ja": "those (who are) willing to …「…する意志のある人たち」；who には先行詞と動詞が必要",
+     "src": "ep54",
+     "exp_zh": "those (who are) willing to...“那些愿意…的人”，those 后可直接接形容词短语作后置定语，且作 asked 的宾语，A正确。which/who 是关系词或疑问词，此处没有完整从句；yours 意思不通。",
+     "exp_ja": "those (who are) willing to...「～する意思のある人たち」。those の後には形容詞句を直接続けて後置修飾でき、asked の目的語にもなるので、Aが正解。which/who は関係詞・疑問詞だが、ここには完全な節がない。yours は意味が通らない。",
+     "vocab_zh": "work overtime 加班；sign-up sheet 报名表",
+     "vocab_ja": "work overtime 残業する；sign-up sheet 申込用紙"
+    },
+    {
+     "id": "T1-Q127",
+     "label": "Test 1 · Q127",
+     "test": 1,
+     "no": 127,
+     "part": 5,
+     "q": "As expected, the internal audit ------- that the company had overpaid for travel expenses by a small amount.",
+     "options": [
+      "having revealed",
+      "revealing",
+      "to reveal",
+      "revealed"
+     ],
+     "answer": "D",
+     "topic_zh": "时态 · 语态",
+     "topic_ja": "時制 · 態",
+     "tip_zh": "缺谓语 + 后有宾语从句 that... → 主动过去式 revealed",
+     "tip_ja": "述語がない + 目的語の that 節 → 能動の過去形 revealed",
+     "src": "ep52",
+     "exp_zh": "句子主语 the internal audit 后缺少谓语动词，只有过去式 revealed 能作谓语，D正确（从句 had overpaid 为过去完成时，主句用过去时）。having revealed、revealing、to reveal 都是非谓语形式。",
+     "exp_ja": "主語 the internal audit の後に述語動詞が欠けており、述語になれるのは過去形 revealed だけなので、Dが正解（従属節の had overpaid は過去完了、主節は過去形）。having revealed、revealing、to reveal はいずれも準動詞。",
+     "vocab_zh": "internal audit 内部审计；reveal 揭示；overpay 多付；travel expenses 差旅费",
+     "vocab_ja": "internal audit 内部監査；reveal 明らかにする；overpay 過払いする；travel expenses 出張費"
+    },
+    {
+     "id": "T1-Q128",
+     "label": "Test 1 · Q128",
+     "test": 1,
+     "no": 128,
+     "part": 5,
+     "q": "The latest ------- of decorations in stock indicates that Festal Seasons Ltd. is well prepared for the holiday rush.",
+     "options": [
+      "proposal",
+      "inventory",
+      "consideration",
+      "commitment"
+     ],
+     "answer": "B",
+     "topic_zh": "词汇",
+     "topic_ja": "語彙",
+     "tip_zh": "inventory of …“……的库存（清单）”",
+     "tip_ja": "inventory of …「…の在庫（一覧）」",
+     "src": "ep55",
+     "exp_zh": "“最新的库存装饰品清点结果表明公司已为假日高峰做好准备”，inventory“库存（清单）”与 in stock 呼应，B正确。proposal“提案”、consideration“考虑”、commitment“承诺”都不能与 of decorations in stock 搭配。",
+     "exp_ja": "「在庫の装飾品の最新の棚卸し結果から、会社が休暇シーズンの繁忙期に備えられていることがわかる」。inventory「在庫（一覧）、棚卸し」は in stock と呼応するので、Bが正解。proposal「提案」、consideration「検討」、commitment「約束」は of decorations in stock とつながらない。",
+     "vocab_zh": "inventory 库存，盘点；in stock 有库存；holiday rush 假日高峰",
+     "vocab_ja": "inventory 在庫、棚卸し；in stock 在庫がある；holiday rush 休暇シーズンの繁忙期"
+    },
+    {
+     "id": "T1-Q129",
+     "label": "Test 1 · Q129",
+     "test": 1,
+     "no": 129,
+     "part": 5,
+     "q": "Frinson Technologies' online catalog contains detailed ------- of its software products.",
+     "options": [
+      "computers",
+      "salespeople",
+      "predictions",
+      "descriptions"
+     ],
+     "answer": "D",
+     "topic_zh": "词汇",
+     "topic_ja": "語彙",
+     "tip_zh": "detailed descriptions of …“……的详细说明”",
+     "tip_ja": "detailed descriptions of …「…の詳しい説明」",
+     "src": "ep56",
+     "exp_zh": "产品目录里包含“软件产品的详细说明”，descriptions 正确。computers“电脑”、salespeople“销售人员”、predictions“预测”都不会是目录中关于软件的内容。",
+     "exp_ja": "製品カタログには「ソフトウェア製品の詳しい説明」が載っているので、descriptions が正解。computers「パソコン」、salespeople「販売員」、predictions「予測」はカタログ内のソフトウェアに関する内容としてふさわしくない。",
+     "vocab_zh": "catalog 目录；detailed 详细的；description 说明，描述",
+     "vocab_ja": "catalog カタログ；detailed 詳しい；description 説明、記述"
+    },
+    {
+     "id": "T2-Q115",
+     "label": "Test 2 · Q115",
+     "test": 2,
+     "no": 115,
+     "part": 5,
+     "q": "To meet heavy shipping demand, overtime will be ------- required across all production teams.",
+     "options": [
+      "hardly",
+      "eagerly",
+      "evenly",
+      "deeply"
+     ],
+     "answer": "C",
+     "topic_zh": "词汇",
+     "topic_ja": "語彙",
+     "tip_zh": "evenly“平均地、均衡地”修饰 required",
+     "tip_ja": "evenly「均等に」で required を修飾",
+     "src": "ep56",
+     "exp_zh": "Test 2 第115题。To meet heavy shipping demand, overtime will be ------- required across all production teams。后半有 across all production teams，“在所有生产团队之间”，所以加班是“平均地、均衡地”要求的，选C evenly。A hardly“几乎不”和前半句“满足大量发货需求”矛盾；B eagerly“热切地”不能修饰被要求；D deeply“深深地”不搭。整句意思是：为了满足大量的发货需求，所有生产团队都将被均衡地要求加班。meet demand 是“满足需求”，overtime 是“加班”，shipping 是“发货、运输”。",
+     "exp_ja": "Test 2 第115問。To meet heavy shipping demand, overtime will be ------- required across all production teams。後半に across all production teams「すべての生産チームにわたって」とあるので、残業は「均等に」求められることになります。正解はC evenly です。A hardly「ほとんど…ない」は前半の「大量の出荷需要に応える」と矛盾します。B eagerly「熱心に」は「求められる」を修飾できません。D deeply「深く」も合いません。文全体の意味は「大量の出荷需要に応えるため、すべての生産チームで均等に残業が求められる」です。meet demand は「需要を満たす」、overtime は「残業」、shipping は「出荷、輸送」です。"
+    },
+    {
+     "id": "T2-Q117",
+     "label": "Test 2 · Q117",
+     "test": 2,
+     "no": 117,
+     "part": 5,
+     "q": "Faraj Antar hopes to pursue a ------- in broadcasting as a news reporter.",
+     "options": [
+      "trail",
+      "view",
+      "purpose",
+      "career"
+     ],
+     "answer": "D",
+     "topic_zh": "词汇",
+     "topic_ja": "語彙",
+     "tip_zh": "pursue a career in …“在……领域发展事业”",
+     "tip_ja": "pursue a career in …「…の分野でキャリアを積む」",
+     "src": "ep56",
+     "exp_zh": "Test 2 第117题。Faraj Antar hopes to pursue a ------- in broadcasting as a news reporter。in broadcasting as a news reporter“在广播业当新闻记者”，说的是职业，pursue a career in 是“在……领域发展事业”，选D career。A trail“小径”、B view“看法、景色”、C purpose“目的”和 pursue 搭配都说不通这个意思。整句意思是：Faraj Antar 希望在广播电视业以新闻记者的身份发展事业。broadcasting 是“广播电视业”，reporter 是“记者”。",
+     "exp_ja": "Test 2 第117問。Faraj Antar hopes to pursue a ------- in broadcasting as a news reporter。in broadcasting as a news reporter「放送業界でニュース記者として」は職業の話で、pursue a career in は「…の分野でキャリアを積む」なので、正解はD career です。A trail「小道」、B view「見方、景色」、C purpose「目的」は、pursue と組み合わせてもこの意味になりません。文全体の意味は「ファラジ・アンタルは、放送業界でニュース記者としてキャリアを積みたいと思っている」です。broadcasting は「放送業界」、reporter は「記者」です。"
+    },
+    {
+     "id": "T2-Q118",
+     "label": "Test 2 · Q118",
+     "test": 2,
+     "no": 118,
+     "part": 5,
+     "q": "Any ------- to the awards banquet menu must be approved by the head chef, Delmiro Rois.",
+     "options": [
+      "reactions",
+      "modifications",
+      "administrations",
+      "portions"
+     ],
+     "answer": "B",
+     "topic_zh": "词汇",
+     "topic_ja": "語彙",
+     "tip_zh": "modification to …“对……的修改”",
+     "tip_ja": "modification to …「…への変更」",
+     "src": "ep56",
+     "exp_zh": "Test 2 第118题。Any ------- to the awards banquet menu must be approved by the head chef, Delmiro Rois。对颁奖宴会菜单的任何什么都必须经主厨批准？当然是“修改、改动”，选B modifications，modification to 后面接被修改的对象。A reactions“反应”、C administrations“管理、行政”、D portions“份、部分”放进去都说不通。整句意思是：对颁奖宴会菜单的任何修改，都必须经主厨 Delmiro Rois 批准。banquet 是“宴会”，approve 是“批准”。",
+     "exp_ja": "Test 2 第118問。Any ------- to the awards banquet menu must be approved by the head chef, Delmiro Rois。授賞式の晩餐会のメニューへのいかなる何も、料理長の承認が必要なのか。当然「変更」なので、正解はB modifications です。modification to の後ろに変更の対象が来ます。A reactions「反応」、C administrations「管理、行政」、D portions「1人前、部分」は意味が通りません。文全体の意味は「授賞式の晩餐会メニューへのいかなる変更も、料理長デルミロ・ロイスの承認が必要だ」です。banquet は「晩餐会、宴会」、approve は「承認する」です。"
+    },
+    {
+     "id": "T2-Q119",
+     "label": "Test 2 · Q119",
+     "test": 2,
+     "no": 119,
+     "part": 5,
+     "q": "Aubern Financial does not charge fees for transferring money ------- accounts.",
+     "options": [
+      "onto",
+      "upon",
+      "beside",
+      "between"
+     ],
+     "answer": "D",
+     "topic_zh": "综合：介词 · 副词 · 连接",
+     "topic_ja": "総まとめ：前置詞 · 副詞 · つなぎ",
+     "tip_zh": "between：在（两个及以上）……之间",
+     "tip_ja": "between：（2つ以上の）…の間で",
+     "src": "ep57",
+     "exp_zh": "Test 2 第119题。Aubern Financial does not charge fees for transferring money ------- accounts。在账户之间转账，“在……之间”用 between，选D between。accounts 是复数，transfer money between accounts 就是“在账户之间转账”。A onto“到……上面”，表示移动到表面上；B upon“在……之上”，比较正式，相当于 on；C beside“在……旁边”。这三个都是位置关系，不能表示“在账户之间”。另外注意 beside 和 besides 的区别：beside 是“在旁边”，besides 是“除了……还有”。整句意思是：Aubern 金融公司在账户之间转账不收手续费。charge 在这里是动词“收费”，charge fees 是“收取费用”；fee 是“费用、手续费”。",
+     "exp_ja": "Test 2 第119問。Aubern Financial does not charge fees for transferring money ------- accounts。口座の間でお金を移すので、「…の間で」を表す between を使い、正解はD between です。accounts は複数形で、transfer money between accounts は「口座間で送金する」です。A onto「…の上へ」は表面への移動、B upon「…の上に」はやや硬い言い方で on と同じ、C beside「…のそばに」です。この3つはどれも位置関係で、「口座の間で」は表せません。また beside と besides の違いにも注意しましょう。beside は「…のそばに」、besides は「…のほかに」です。文全体の意味は「オーバーン・フィナンシャルは口座間の送金に手数料を取らない」です。charge はここでは動詞で「料金を請求する」、charge fees は「手数料を取る」です。fee は「料金、手数料」です。"
+    }
+   ],
+   "reading": [
+    {
+     "id": "T1-Q158-160",
+     "label": "Test 1 · Q158–160",
+     "test": 1,
+     "part": 7,
+     "intro": "Questions 158-160 refer to the following e-mail.",
+     "docs": [
+      [
+       {
+        "t": "meta",
+        "rows": [
+         [
+          "To",
+          "Sue Koh <sue_koh@swipemail.com>"
+         ],
+         [
+          "From",
+          "Customer relations <customer_relations@harborhopferries.ca>"
+         ],
+         [
+          "Date",
+          "24 July"
+         ],
+         [
+          "Subject",
+          "Your recent trip"
+         ]
+        ]
+       },
+       {
+        "t": "p",
+        "x": "Dear Ms. Koh,"
+       },
+       {
+        "t": "p",
+        "x": "Thank you for using Harborhop Ferries on 7 July to go to Galiano Island and on 12 July to return from it. We hope you were pleased with our service."
+       },
+       {
+        "t": "p",
+        "x": "For 50 years now, Harborhop Ferries has helped to support and strengthen the economy of Galiano Island, bringing visitors to the area to enjoy its spectacular beaches, scenic biking and hiking trails, shops, and restaurants. While our role in boosting the island's economy might be small, we nevertheless take it very seriously. Therefore, so as to keep improving our service to the public, we invite you to take a few minutes to answer some questions about your experience with us. You can complete the survey on our Web site at www.harborhopferries.ca/survey."
+       },
+       {
+        "t": "p",
+        "x": "As a thank-you gift, we will send you a 20 percent discount voucher that you can apply toward the cost of your next trip with us. It is good for up to six months after the date of issue."
+       },
+       {
+        "t": "p",
+        "x": "Thank you for your time, and we look forward to seeing you again."
+       },
+       {
+        "t": "sign",
+        "x": "Sincerely,\n\nCustomer Relations, Harborhop Ferries"
+       }
+      ]
+     ],
+     "questions": [
+      {
+       "no": 158,
+       "label": "Test 1 · Q158",
+       "q": "What is suggested about Ms. Koh?",
+       "options": [
+        "She brought her bicycle on the boat.",
+        "She often uses Harborhop Ferries.",
+        "She usually visits Galiano Island in July.",
+        "She spent several nights on Galiano Island."
+       ],
+       "answer": "D",
+       "exp_zh": "她7月7日去岛上、7月12日返回，说明在岛上住了几晚，D正确。自行车道只是岛上景点介绍(A)；没有说她经常乘坐(B)或每年7月都去(C)。",
+       "exp_ja": "彼女は7月7日に島へ行き、7月12日に戻っているので、島に数泊したとわかる。Dが正解。自転車道は島の見どころの紹介にすぎず（A）、彼女がよく利用する（B）、毎年7月に行く（C）とは書かれていない。"
+      },
+      {
+       "no": 159,
+       "label": "Test 1 · Q159",
+       "q": "What is indicated about Harborhop Ferries?",
+       "options": [
+        "Its boats have onboard restaurants.",
+        "It has been in business for fifty years.",
+        "It offers service to Galiano Island several times a day.",
+        "It will stop service to Galiano Island in six months."
+       ],
+       "answer": "B",
+       "exp_zh": "For 50 years now, Harborhop Ferries has helped...（已经50年），即经营了五十年，B正确。餐厅是岛上的(A)；未提每天班次(C)；“六个月”是代金券有效期，不是停航(D)。",
+       "exp_ja": "For 50 years now, Harborhop Ferries has helped...（50年にわたり）とあり、50年間営業しているということなので、Bが正解。レストランは島のもの（A）。1日の便数には触れていない（C）。「6か月」はクーポンの有効期限で、運休ではない（D）。"
+      },
+      {
+       "no": 160,
+       "label": "Test 1 · Q160",
+       "q": "What is the purpose of the e-mail?",
+       "options": [
+        "To confirm a ferry reservation",
+        "To announce changes to a ferry service",
+        "To ask for feedback on a service provided",
+        "To report on the economic growth of an island"
+       ],
+       "answer": "C",
+       "exp_zh": "邮件邀请她花几分钟回答关于乘船体验的问题（survey），即征求对已提供服务的反馈，C正确。旅行已结束，不是确认预订(A)；没有宣布服务变化(B)；岛上经济只是背景介绍(D)。",
+       "exp_ja": "メールは、船旅の体験についての質問（survey）に数分間答えてほしいと依頼しており、提供済みのサービスへの意見を求めるものなので、Cが正解。旅行は終わっているので予約確認ではなく（A）、サービスの変更も発表しておらず（B）、島の経済は背景説明にすぎない（D）。"
+      }
+     ],
+     "src": "site+ep13"
+    },
+    {
+     "id": "T1-Q151-152",
+     "label": "Test 1 · Q151–152",
+     "test": 1,
+     "part": 7,
+     "intro": "Questions 151-152 refer to the following advertisement.",
+     "docs": [
+      [
+       {
+        "t": "title",
+        "x": "Pamela's Clothes for Kids—shop now!"
+       },
+       {
+        "t": "p",
+        "x": "[Illustration: a child's overalls and a child's dress on hangers]"
+       },
+       {
+        "t": "p",
+        "x": "Playtime clothes for children shouldn't be boring or trite! At Pamela's Clothes for Kids, we believe children's clothing should be comfortable, affordable, and stylish. This is why we use only quality materials and thoughtful designs across our entire line of clothing for children."
+       },
+       {
+        "t": "p",
+        "x": "Plus, moms and dads demand that the clothes kids play in must be sturdy and easy to launder. Our jeans, overalls, T-shirts, shoes, swimwear, chinos, shorts, and sweaters are all machine washable, stain resistant, and quick drying."
+       },
+       {
+        "t": "p",
+        "x": "Make a clothing playdate today for your youngsters at one of our fifteen retail locations! Or check us out online at https://pamelasclothesforkids.com."
+       }
+      ]
+     ],
+     "questions": [
+      {
+       "no": 151,
+       "label": "Test 1 · Q151",
+       "q": "What is being advertised?",
+       "options": [
+        "A new brand",
+        "A fashion show",
+        "A clothing store",
+        "A children's gathering"
+       ],
+       "answer": "C",
+       "exp_zh": "广告介绍 Pamela's Clothes for Kids 的童装，并邀请到15家门店或网店购物，是在宣传一家服装店，C正确。没有说是新品牌(A)；没有时装秀(B)；clothing playdate 是比喻“带孩子来买衣服”，并非儿童聚会(D)。",
+       "exp_ja": "広告は Pamela's Clothes for Kids の子ども服を紹介し、15の店舗かオンラインストアでの買い物を呼びかけているので、衣料品店の宣伝。Cが正解。新ブランドだとは書かれていない（A）。ファッションショーはない（B）。clothing playdate は「子どもを連れて服を買いに来る」ことのたとえで、子どもの集まりではない（D）。"
+      },
+      {
+       "no": 152,
+       "label": "Test 1 · Q152",
+       "q": "What is indicated about the line of clothing for children?",
+       "options": [
+        "It includes clothing that can be easily cleaned.",
+        "It is approved by school officials.",
+        "It was created by a famous fashion designer.",
+        "It will soon be available in retail stores."
+       ],
+       "answer": "A",
+       "exp_zh": "文中说衣服 easy to launder、machine washable、stain resistant（易洗、可机洗、防污），即容易清洗，A正确。未提学校认可(B)和知名设计师(C)；已经在15家门店销售，不是“即将上架”(D)。",
+       "exp_ja": "服は easy to launder、machine washable、stain resistant（洗いやすく、洗濯機で洗え、汚れに強い）と書かれており、手入れが簡単ということなので、Aが正解。学校の認定（B）や有名デザイナー（C）には触れておらず、すでに15店舗で販売中なので「まもなく発売」でもない（D）。"
+      }
+     ],
+     "src": "site+ep11"
+    }
+   ]
   }
  },
  "warmup": {

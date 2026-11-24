@@ -1,0 +1,2279 @@
+{
+ "day": 53,
+ "date": "2026-11-25",
+ "title_zh": "四大词根 + 职场行为与投诉处理 + 餐厅与餐饮服务",
+ "title_ja": "4つの語根＋職場の行動規範と苦情対応＋レストランと飲食サービス",
+ "intro_zh": "今天的词根是 -prob- / -prov-（检验；证明）、-test-（见证；证人）、-qual-（什么样的；性质）、-merc- / -mark-（商品；买卖）；主题是职场行为与投诉处理，以及餐厅与餐饮服务。",
+ "intro_ja": "今日の語根は -prob- / -prov-（試す・証明する）、-test-（証人・証言）、-qual-（どのような・性質）、-merc- / -mark-（商品・売買）。テーマは職場の行動規範と苦情対応、レストランと飲食サービス。",
+ "voice": "en-US-AriaNeural",
+ "roots": [
+  {
+   "root": "-prob- / -prov-",
+   "origin": "Latin probare",
+   "zh": "检验；证明",
+   "ja": "試す；証明する",
+   "exp_zh": "来自拉丁语 probare（检验、证明）。认可 → approve；很可能（经得起检验）→ probable；证明 → prove / proven；探查 → probe。⚠️ improve 来自古法语（获利），并非此词根。",
+   "exp_ja": "ラテン語 probare（試す・証明する）から。認める → approve；ありそう → probable；証明する → prove / proven；探る → probe。improve は古フランス語（利益を得る）由来で、この語根ではない。",
+   "examples": [
+    "approve",
+    "disapprove",
+    "probable",
+    "probability",
+    "improbable",
+    "prove",
+    "proven",
+    "unproven",
+    "probe"
+   ]
+  },
+  {
+   "root": "-test-",
+   "origin": "Latin testis / testari",
+   "zh": "见证；证人",
+   "ja": "証人；証言する",
+   "exp_zh": "来自拉丁语 testis（证人）和 testari（作证）。为…作证 → attest；共同作证争辩 → contest；公开作证反对 → protest；留下的证明 → testament。⚠️ test 在 testament 里也有“遗嘱”义，别和 text（文本）混淆。",
+   "exp_ja": "ラテン語 testis（証人）と testari（証言する）から。証明する → attest；争う → contest；公に抗議する → protest；証し → testament。",
+   "examples": [
+    "attest",
+    "attestation",
+    "contest",
+    "contestant",
+    "protest",
+    "protester",
+    "testament"
+   ]
+  },
+  {
+   "root": "-qual-",
+   "origin": "Latin qualis",
+   "zh": "什么样的；性质",
+   "ja": "どのような；性質",
+   "exp_zh": "来自拉丁语 qualis（什么样的）。使具备性质 → qualify；资格 → qualification；去掉资格 → disqualify；性质上的 → qualitative。",
+   "exp_ja": "ラテン語 qualis（どのような）から。資格を与える → qualify；資格 → qualification；失格 → disqualify；質的な → qualitative。",
+   "examples": [
+    "qualify",
+    "qualification",
+    "qualified",
+    "disqualify",
+    "unqualified",
+    "overqualified",
+    "qualitative",
+    "qualifier",
+    "qualifying"
+   ]
+  },
+  {
+   "root": "-merc- / -mark-",
+   "origin": "Latin merx / mercari",
+   "zh": "商品；买卖",
+   "ja": "商品；売買",
+   "exp_zh": "来自拉丁语 merx（商品）和 mercari（做买卖）。互相买卖 → commerce；做买卖的人 → merchant；买卖之地 → market。⚠️ mercy（慈悲）与此无关，别混淆。",
+   "exp_ja": "ラテン語 merx（商品）と mercari（取引する）から。売買し合う → commerce；商人 → merchant；取引の場 → market。mercy（慈悲）は無関係。",
+   "examples": [
+    "commerce",
+    "commercialize",
+    "merchant",
+    "merchandising",
+    "market",
+    "marketable"
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "prob",
+   "title_zh": "词根 -prob- / -prov-：检验；证明",
+   "title_ja": "語根 -prob- / -prov-：試す・証明する",
+   "words": [
+    {
+     "w": "approve",
+     "pos": "v.",
+     "ipa": "/əˈpruv/",
+     "zh": "批准；赞成",
+     "ja": "承認する；賛成する",
+     "ex": "The board will approve the new budget on Friday.",
+     "ex_zh": "董事会将在周五批准新预算。",
+     "ex_ja": "取締役会は金曜日に新しい予算を承認する。",
+     "parts": [
+      [
+       "ap-",
+       "（ad-）朝向",
+       "（ad-）〜へ"
+      ],
+      [
+       "prove",
+       "证明；检验",
+       "証明する；試す"
+      ]
+     ],
+     "note": {
+      "zh": "ap-（朝向）+ prove（检验、认可）→ 检验后认可 → 批准。拉丁语 approbare。",
+      "ja": "ap-（ad-「〜へ」）+ prove（試す・認める）→ 確かめて認める → 承認する。ラテン語 approbare。"
+     },
+     "forms": [
+      [
+       "approve of",
+       "赞成",
+       "〜に賛成する"
+      ],
+      [
+       "approved vendor",
+       "认可的供应商",
+       "承認済みの業者"
+      ]
+     ],
+     "tip": {
+      "zh": "approve 作“批准”时直接接宾语；表示“赞成”才加 of。",
+      "ja": "「承認する」は目的語を直接取り、「賛成する」のときだけ of を付ける。"
+     }
+    },
+    {
+     "w": "disapprove",
+     "pos": "v.",
+     "ipa": "/ˌdɪsəˈpruv/",
+     "zh": "不批准；不赞成",
+     "ja": "承認しない；反対する",
+     "ex": "The committee may disapprove the plan if costs keep rising.",
+     "ex_zh": "如果成本持续上升，委员会可能不批准该计划。",
+     "ex_ja": "費用が上がり続ければ、委員会は計画を承認しないかもしれない。",
+     "parts": [
+      [
+       "dis-",
+       "否定",
+       "否定"
+      ],
+      [
+       "approve",
+       "批准",
+       "承認する"
+      ]
+     ],
+     "note": {
+      "zh": "dis-（否定）+ approve（批准）→ 不批准、不赞成。",
+      "ja": "dis-（否定）+ approve（承認する）→ 承認しない、反対する。"
+     },
+     "forms": [
+      [
+       "disapproval (n.)",
+       "不赞成；否决",
+       "不承認；反対"
+      ],
+      [
+       "disapprove of",
+       "不赞成",
+       "〜に反対する"
+      ]
+     ]
+    },
+    {
+     "w": "probable",
+     "pos": "adj.",
+     "ipa": "/ˈprɑbəbəl/",
+     "zh": "很可能的；大概的",
+     "ja": "ありそうな；見込みの高い",
+     "ex": "A price increase is probable if the supplier raises its rates.",
+     "ex_zh": "如果供应商提价，涨价就很有可能。",
+     "ex_ja": "仕入先が料金を上げれば、値上げの可能性が高い。",
+     "parts": [
+      [
+       "prob",
+       "检验；证明",
+       "試す；証明する"
+      ],
+      [
+       "-able",
+       "能…的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "prob（检验）+ -able → 经得起检验、可以被认可的 → 很可能的。",
+      "ja": "prob「試す」+ -able → 確かめられる → ありそうな。"
+     },
+     "forms": [
+      [
+       "probably (adv.)",
+       "大概",
+       "おそらく"
+      ],
+      [
+       "probable cause",
+       "合理怀疑",
+       "相当な理由"
+      ]
+     ]
+    },
+    {
+     "w": "probability",
+     "pos": "n.",
+     "ipa": "/ˌprɑbəˈbɪləti/",
+     "zh": "可能性；概率",
+     "ja": "可能性；確率",
+     "ex": "There is a high probability that the shipment will arrive late.",
+     "ex_zh": "货物很有可能会晚到。",
+     "ex_ja": "荷物が遅れて届く可能性は高い。",
+     "parts": [
+      [
+       "prob",
+       "检验；证明",
+       "試す；証明する"
+      ],
+      [
+       "-abil-",
+       "能…",
+       "〜できる"
+      ],
+      [
+       "-ity",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "probable 的名词形 → 可能性、概率。",
+      "ja": "probable の名詞形 → 可能性、確率。"
+     },
+     "forms": [
+      [
+       "in all probability",
+       "十有八九",
+       "おそらく"
+      ],
+      [
+       "the probability of",
+       "…的可能性",
+       "〜の可能性"
+      ]
+     ]
+    },
+    {
+     "w": "improbable",
+     "pos": "adj.",
+     "ipa": "/ɪmˈprɑbəbəl/",
+     "zh": "不太可能的",
+     "ja": "ありそうもない",
+     "ex": "It is improbable that the merger will be completed this year.",
+     "ex_zh": "这次合并不太可能在今年完成。",
+     "ex_ja": "その合併が今年中に完了する見込みは低い。",
+     "parts": [
+      [
+       "im-",
+       "不",
+       "不"
+      ],
+      [
+       "prob",
+       "检验；证明",
+       "試す；証明する"
+      ],
+      [
+       "-able",
+       "能…的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "im-（不）+ probable（很可能）→ 不太可能。",
+      "ja": "im-（否定）+ probable（ありそうな）→ ありそうもない。"
+     },
+     "forms": [
+      [
+       "highly improbable",
+       "极不可能",
+       "極めてありそうもない"
+      ],
+      [
+       "unlikely (syn.)",
+       "不太可能（近义）",
+       "可能性が低い（類義）"
+      ]
+     ]
+    },
+    {
+     "w": "prove",
+     "pos": "v.",
+     "ipa": "/pruv/",
+     "zh": "证明；证实；结果是",
+     "ja": "証明する；〜と分かる",
+     "ex": "The pilot program proved that the new system saves time.",
+     "ex_zh": "试点项目证明新系统能节省时间。",
+     "ex_ja": "試験導入で、新システムが時間の節約になると実証された。",
+     "parts": [
+      [
+       "prov",
+       "检验；证明",
+       "試す；証明する"
+      ]
+     ],
+     "note": {
+      "zh": "来自拉丁语 probare（检验、证明），经古法语 prover。过去分词 proven / proved 都可。",
+      "ja": "ラテン語 probare（試す・証明する）から古フランス語 prover を経て。過去分詞は proven / proved。"
+     },
+     "forms": [
+      [
+       "prove to be",
+       "结果是",
+       "〜と判明する"
+      ],
+      [
+       "proof (n.)",
+       "证据；证明",
+       "証拠"
+      ]
+     ]
+    },
+    {
+     "w": "proven",
+     "pos": "adj.",
+     "ipa": "/ˈpruvən/",
+     "zh": "经证实的；有实绩的",
+     "ja": "実証済みの；実績のある",
+     "ex": "We are looking for a manager with a proven record in sales.",
+     "ex_zh": "我们在找有销售业绩证明的经理。",
+     "ex_ja": "営業で実績のある管理職を探している。",
+     "parts": [
+      [
+       "prov",
+       "检验；证明",
+       "試す；証明する"
+      ],
+      [
+       "-en",
+       "过去分词",
+       "過去分詞"
+      ]
+     ],
+     "note": {
+      "zh": "prove 的过去分词作形容词 → 经证实的、有实绩的。",
+      "ja": "prove の過去分詞が形容詞化 → 実証済みの。"
+     },
+     "forms": [
+      [
+       "proven track record",
+       "已证实的业绩",
+       "実証済みの実績"
+      ],
+      [
+       "a proven method",
+       "行之有效的方法",
+       "効果が実証された方法"
+      ]
+     ]
+    },
+    {
+     "w": "unproven",
+     "pos": "adj.",
+     "ipa": "/ʌnˈpruvən/",
+     "zh": "未经证实的",
+     "ja": "未実証の",
+     "ex": "The company hesitated to invest in an unproven technology.",
+     "ex_zh": "公司不愿投资一项未经证实的技术。",
+     "ex_ja": "会社は実証されていない技術への投資をためらった。",
+     "parts": [
+      [
+       "un-",
+       "不",
+       "不"
+      ],
+      [
+       "prov",
+       "检验；证明",
+       "試す；証明する"
+      ],
+      [
+       "-en",
+       "过去分词",
+       "過去分詞"
+      ]
+     ],
+     "note": {
+      "zh": "un-（不）+ proven（经证实的）→ 未经证实的。",
+      "ja": "un-（否定）+ proven（実証済みの）→ 未実証の。"
+     },
+     "forms": [
+      [
+       "unproven claim",
+       "未经证实的说法",
+       "裏付けのない主張"
+      ],
+      [
+       "unproven record",
+       "没有业绩",
+       "実績がないこと"
+      ]
+     ]
+    },
+    {
+     "w": "probe",
+     "pos": "v.",
+     "ipa": "/proʊb/",
+     "zh": "深入调查；探查",
+     "ja": "徹底的に調べる；探る",
+     "ex": "Auditors will probe the causes of the sudden loss.",
+     "ex_zh": "审计员将深入调查这笔突然亏损的原因。",
+     "ex_ja": "監査人は突然の損失の原因を詳しく調べる。",
+     "parts": [
+      [
+       "prob",
+       "检验；试探",
+       "試す；探る"
+      ],
+      [
+       "-e",
+       "词尾",
+       "語尾"
+      ]
+     ],
+     "note": {
+      "zh": "来自中世纪拉丁语 proba（检验），源于 probare。探针 → 探查、深入调查；名词也指“调查”。",
+      "ja": "中世ラテン語 proba（試験）、probare から。探針 → 探る。名詞は「調査」。"
+     },
+     "forms": [
+      [
+       "a probe into",
+       "对…的调查",
+       "〜への調査"
+      ],
+      [
+       "probing question",
+       "刨根问底的问题",
+       "鋭く突っ込む質問"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "test",
+   "title_zh": "词根 -test-：见证；证人",
+   "title_ja": "語根 -test-：証人・証言",
+   "words": [
+    {
+     "w": "attest",
+     "pos": "v.",
+     "ipa": "/əˈtɛst/",
+     "zh": "证明；证实",
+     "ja": "証明する；立証する",
+     "ex": "Her references attest to her skill as a project manager.",
+     "ex_zh": "她的推荐信证明了她作为项目经理的能力。",
+     "ex_ja": "彼女の推薦状はプロジェクトマネージャーとしての能力を証明している。",
+     "parts": [
+      [
+       "at-",
+       "（ad-）朝向",
+       "（ad-）〜へ"
+      ],
+      [
+       "test",
+       "见证；证人",
+       "証人；証言する"
+      ]
+     ],
+     "note": {
+      "zh": "at-（ad-，朝向）+ test（作证）→ 为…作证 → 证明。拉丁语 testis = 证人。",
+      "ja": "at-（ad-「〜へ」）+ test（証人）→ 証人として示す → 証明する。ラテン語 testis は「証人」。"
+     },
+     "forms": [
+      [
+       "attest to",
+       "证明…",
+       "〜を証明する"
+      ],
+      [
+       "attestation (n.)",
+       "证明；证词",
+       "証明；認証"
+      ]
+     ]
+    },
+    {
+     "w": "attestation",
+     "pos": "n.",
+     "ipa": "/ˌætɛˈsteɪʃən/",
+     "zh": "证明；认证书",
+     "ja": "証明；認証",
+     "ex": "The visa application requires an attestation from your employer.",
+     "ex_zh": "签证申请需要雇主出具证明。",
+     "ex_ja": "ビザの申請には雇用主の証明書が必要だ。",
+     "parts": [
+      [
+       "at-",
+       "（ad-）朝向",
+       "（ad-）〜へ"
+      ],
+      [
+       "test",
+       "见证；证人",
+       "証人"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "attest 的名词形 → 书面证明。",
+      "ja": "attest の名詞形 → 証明（書）。"
+     },
+     "forms": [
+      [
+       "attestation letter",
+       "证明信",
+       "証明書"
+      ],
+      [
+       "sign an attestation",
+       "签署证明",
+       "証明書に署名する"
+      ]
+     ]
+    },
+    {
+     "w": "contest",
+     "pos": "n.",
+     "ipa": "/ˈkɑnˌtɛst/",
+     "zh": "比赛；竞赛；争夺",
+     "ja": "コンテスト；競争",
+     "ex": "The winner of the design contest will receive a cash prize.",
+     "ex_zh": "设计比赛的获胜者将获得现金奖励。",
+     "ex_ja": "デザインコンテストの優勝者には賞金が贈られる。",
+     "parts": [
+      [
+       "con-",
+       "共同",
+       "共に"
+      ],
+      [
+       "test",
+       "见证；证人",
+       "証人"
+      ]
+     ],
+     "note": {
+      "zh": "con-（共同）+ test（作证）→ 双方各自提出证人对抗 → 争辩、竞赛。",
+      "ja": "con-（共に）+ test（証人）→ 双方が証人を立てて争う → 競争。"
+     },
+     "forms": [
+      [
+       "enter a contest",
+       "参加比赛",
+       "コンテストに参加する"
+      ],
+      [
+       "contest (v.)",
+       "对…提出异议",
+       "異議を唱える"
+      ]
+     ],
+     "tip": {
+      "zh": "名词重音在前 /ˈkɑntɛst/；动词“质疑、争夺”重音在后 /kənˈtɛst/。",
+      "ja": "名詞は前に、動詞（異議を唱える）は後ろにアクセント。"
+     }
+    },
+    {
+     "w": "contestant",
+     "pos": "n.",
+     "ipa": "/kənˈtɛstənt/",
+     "zh": "参赛者",
+     "ja": "参加者；出場者",
+     "ex": "Each contestant has five minutes to present a business plan.",
+     "ex_zh": "每位参赛者有五分钟陈述商业计划。",
+     "ex_ja": "各出場者は5分間でビジネスプランを発表する。",
+     "parts": [
+      [
+       "con-",
+       "共同",
+       "共に"
+      ],
+      [
+       "test",
+       "见证；证人",
+       "証人"
+      ],
+      [
+       "-ant",
+       "…的人",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "contest + -ant（…的人）→ 参赛者。",
+      "ja": "contest + -ant（〜する人）→ 出場者。"
+     },
+     "forms": [
+      [
+       "contest (n.)",
+       "比赛",
+       "コンテスト"
+      ],
+      [
+       "finalist (syn.)",
+       "入围决赛者",
+       "決勝進出者"
+      ]
+     ]
+    },
+    {
+     "w": "protest",
+     "pos": "n.",
+     "ipa": "/ˈproʊˌtɛst/",
+     "zh": "抗议；反对",
+     "ja": "抗議",
+     "ex": "Employees staged a protest against the proposed pay cut.",
+     "ex_zh": "员工针对拟议的减薪举行了抗议。",
+     "ex_ja": "従業員は提案された減給に抗議した。",
+     "parts": [
+      [
+       "pro-",
+       "在前；公开",
+       "前に；公に"
+      ],
+      [
+       "test",
+       "见证；证人",
+       "証人"
+      ]
+     ],
+     "note": {
+      "zh": "pro-（在前，公开）+ test（作证）→ 公开声明（反对）→ 抗议。",
+      "ja": "pro-（公に）+ test（証人）→ 公に宣言する → 抗議。"
+     },
+     "forms": [
+      [
+       "in protest",
+       "以示抗议",
+       "抗議として"
+      ],
+      [
+       "protest against",
+       "抗议…",
+       "〜に抗議する"
+      ]
+     ],
+     "tip": {
+      "zh": "名词重音在前 /ˈproʊtɛst/，动词 /prəˈtɛst/ 重音在后。",
+      "ja": "名詞は前、動詞は後ろにアクセント。"
+     }
+    },
+    {
+     "w": "protester",
+     "pos": "n.",
+     "ipa": "/ˈproʊˌtɛstɚ/",
+     "zh": "抗议者",
+     "ja": "抗議者",
+     "ex": "Several protesters gathered outside the factory gate.",
+     "ex_zh": "几名抗议者聚集在工厂门外。",
+     "ex_ja": "数人の抗議者が工場の門の外に集まった。",
+     "parts": [
+      [
+       "pro-",
+       "在前；公开",
+       "前に；公に"
+      ],
+      [
+       "test",
+       "见证；证人",
+       "証人"
+      ],
+      [
+       "-er",
+       "做…的人",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "protest + -er（…的人）→ 抗议者。",
+      "ja": "protest + -er（〜する人）→ 抗議者。"
+     },
+     "forms": [
+      [
+       "protest (n./v.)",
+       "抗议",
+       "抗議"
+      ],
+      [
+       "demonstrator (syn.)",
+       "示威者",
+       "デモ参加者"
+      ]
+     ]
+    },
+    {
+     "w": "testament",
+     "pos": "n.",
+     "ipa": "/ˈtɛstəmənt/",
+     "zh": "证明；明证；遗嘱",
+     "ja": "証し；証拠；遺言",
+     "ex": "The restored hall is a testament to the team's hard work.",
+     "ex_zh": "修复一新的大厅证明了团队的辛勤努力。",
+     "ex_ja": "修復されたホールはチームの努力の証しだ。",
+     "parts": [
+      [
+       "test",
+       "见证；证人",
+       "証人"
+      ],
+      [
+       "-ment",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "test（作证）+ -ment → 作证的东西 → 证明；遗嘱也是“立下的证明”。",
+      "ja": "test（証人）+ -ment → 証しとなるもの → 証拠；遺言。"
+     },
+     "forms": [
+      [
+       "a testament to",
+       "…的明证",
+       "〜の証し"
+      ],
+      [
+       "last will and testament",
+       "遗嘱",
+       "遺言書"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "qual",
+   "title_zh": "词根 -qual-：什么样的；性质",
+   "title_ja": "語根 -qual-：どのような・性質",
+   "words": [
+    {
+     "w": "qualify",
+     "pos": "v.",
+     "ipa": "/ˈkwɑləˌfaɪ/",
+     "zh": "使合格；有资格",
+     "ja": "資格を得る；資格を与える",
+     "ex": "Employees who work over a year qualify for the bonus plan.",
+     "ex_zh": "工作满一年的员工有资格参加奖金计划。",
+     "ex_ja": "1年以上勤務した従業員はボーナス制度の対象となる。",
+     "parts": [
+      [
+       "qual",
+       "什么样的；性质",
+       "どのような；性質"
+      ],
+      [
+       "-ify",
+       "使成为",
+       "〜にする"
+      ]
+     ],
+     "note": {
+      "zh": "qual（什么样的）+ -ify（使成为）→ 使具备所需“资质” → 有资格。拉丁语 qualis。",
+      "ja": "qual「どのような」+ -ify「〜にする」→ 必要な資質を備える → 資格がある。ラテン語 qualis。"
+     },
+     "forms": [
+      [
+       "qualify for",
+       "有资格获得",
+       "〜の資格がある"
+      ],
+      [
+       "qualify as",
+       "够得上",
+       "〜として認められる"
+      ]
+     ]
+    },
+    {
+     "w": "qualification",
+     "pos": "n.",
+     "ipa": "/ˌkwɑləfɪˈkeɪʃən/",
+     "zh": "资格；资历；限定条件",
+     "ja": "資格；要件；条件",
+     "ex": "The post requires a degree in accounting or an equivalent qualification.",
+     "ex_zh": "该职位需要会计学位或同等资格。",
+     "ex_ja": "この職には会計学の学位または同等の資格が必要だ。",
+     "parts": [
+      [
+       "qual",
+       "什么样的；性质",
+       "どのような；性質"
+      ],
+      [
+       "-ify",
+       "使成为",
+       "〜にする"
+      ],
+      [
+       "-cation",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "qualify 的名词形 → 资格、资历（也可指“附加条件”）。",
+      "ja": "qualify の名詞形 → 資格、要件（「但し書き」の意味もある）。"
+     },
+     "forms": [
+      [
+       "minimum qualifications",
+       "最低资格要求",
+       "最低限の資格要件"
+      ],
+      [
+       "without qualification",
+       "毫无保留地",
+       "無条件で"
+      ]
+     ]
+    },
+    {
+     "w": "qualified",
+     "pos": "adj.",
+     "ipa": "/ˈkwɑləˌfaɪd/",
+     "zh": "合格的；有资格的",
+     "ja": "資格のある；適任の",
+     "ex": "Only qualified electricians may work on the building's wiring.",
+     "ex_zh": "只有合格的电工才能处理大楼的线路。",
+     "ex_ja": "資格を持つ電気技師だけがビル内の配線作業を行える。",
+     "parts": [
+      [
+       "qual",
+       "什么样的；性质",
+       "どのような；性質"
+      ],
+      [
+       "-ified",
+       "被…的",
+       "〜された"
+      ]
+     ],
+     "note": {
+      "zh": "qualify 的过去分词作形容词 → 合格的、有资格的。",
+      "ja": "qualify の過去分詞が形容詞化 → 資格のある。"
+     },
+     "forms": [
+      [
+       "qualified candidate",
+       "合格的候选人",
+       "適格な候補者"
+      ],
+      [
+       "qualified to do",
+       "有资格做…",
+       "〜する資格がある"
+      ]
+     ]
+    },
+    {
+     "w": "disqualify",
+     "pos": "v.",
+     "ipa": "/dɪsˈkwɑləˌfaɪ/",
+     "zh": "取消资格",
+     "ja": "失格にする",
+     "ex": "Late submissions will disqualify an applicant from the contest.",
+     "ex_zh": "逾期提交会取消申请人的参赛资格。",
+     "ex_ja": "提出が遅れた応募者は失格となる。",
+     "parts": [
+      [
+       "dis-",
+       "否定；去除",
+       "否定；取り去る"
+      ],
+      [
+       "qualify",
+       "使合格",
+       "資格を与える"
+      ]
+     ],
+     "note": {
+      "zh": "dis-（去除）+ qualify（使合格）→ 取消资格。",
+      "ja": "dis-（取り去る）+ qualify（資格を与える）→ 失格にする。"
+     },
+     "forms": [
+      [
+       "disqualification (n.)",
+       "取消资格",
+       "失格"
+      ],
+      [
+       "be disqualified from",
+       "被取消…资格",
+       "〜から失格になる"
+      ]
+     ]
+    },
+    {
+     "w": "unqualified",
+     "pos": "adj.",
+     "ipa": "/ʌnˈkwɑləˌfaɪd/",
+     "zh": "不合格的；无保留的",
+     "ja": "資格のない；無条件の",
+     "ex": "The firm rejected three unqualified applicants.",
+     "ex_zh": "公司拒绝了三名不合格的申请人。",
+     "ex_ja": "会社は資格のない応募者3名を不採用とした。",
+     "parts": [
+      [
+       "un-",
+       "不",
+       "不"
+      ],
+      [
+       "qualified",
+       "合格的",
+       "資格のある"
+      ]
+     ],
+     "note": {
+      "zh": "un-（不）+ qualified（合格的）→ 不合格的；另有“完全的、无保留的”之义（unqualified success）。",
+      "ja": "un-（否定）+ qualified → 資格のない。「完全な」の意味もある（unqualified success）。"
+     },
+     "forms": [
+      [
+       "unqualified success",
+       "彻底的成功",
+       "完全な成功"
+      ],
+      [
+       "unqualified staff",
+       "不合格的员工",
+       "資格のない職員"
+      ]
+     ]
+    },
+    {
+     "w": "overqualified",
+     "pos": "adj.",
+     "ipa": "/ˌoʊvɚˈkwɑləˌfaɪd/",
+     "zh": "资历过高的",
+     "ja": "資格過剰の",
+     "ex": "The manager felt she was overqualified for the entry-level role.",
+     "ex_zh": "这位经理觉得自己对入门级职位来说资历过高了。",
+     "ex_ja": "その管理職は自分が入門レベルの職には資格過剰だと感じた。",
+     "parts": [
+      [
+       "over-",
+       "过度",
+       "過度に"
+      ],
+      [
+       "qualified",
+       "合格的",
+       "資格のある"
+      ]
+     ],
+     "note": {
+      "zh": "over-（过度）+ qualified（合格的）→ 资历过高的。",
+      "ja": "over-（過度に）+ qualified（資格のある）→ 資格過剰の。"
+     },
+     "forms": [
+      [
+       "overqualified for",
+       "对…来说资历过高",
+       "〜には過剰な資格"
+      ],
+      [
+       "underqualified (adj.)",
+       "资历不足的",
+       "資格不足の"
+      ]
+     ]
+    },
+    {
+     "w": "qualitative",
+     "pos": "adj.",
+     "ipa": "/ˈkwɑləˌteɪtɪv/",
+     "zh": "质的；定性的",
+     "ja": "質的な",
+     "ex": "The report combines survey figures with qualitative feedback.",
+     "ex_zh": "报告把调查数据和定性反馈结合起来。",
+     "ex_ja": "報告書は調査の数値と質的なフィードバックを組み合わせている。",
+     "parts": [
+      [
+       "qual",
+       "什么样的；性质",
+       "どのような；性質"
+      ],
+      [
+       "-itative",
+       "…性的",
+       "〜の性質の"
+      ]
+     ],
+     "note": {
+      "zh": "quality（性质）+ -ative → 与“质”有关的、定性的。",
+      "ja": "quality（性質）+ -ative → 質に関する。"
+     },
+     "forms": [
+      [
+       "quantitative (adj.)",
+       "定量的",
+       "量的な"
+      ],
+      [
+       "qualitative research",
+       "定性研究",
+       "質的調査"
+      ]
+     ]
+    },
+    {
+     "w": "qualifier",
+     "pos": "n.",
+     "ipa": "/ˈkwɑləˌfaɪɚ/",
+     "zh": "资格赛；限定词",
+     "ja": "予選；修飾語",
+     "ex": "Our team won its qualifier and will play in the national final.",
+     "ex_zh": "我们队赢了资格赛，将参加全国决赛。",
+     "ex_ja": "わがチームは予選に勝ち、全国決勝に出場する。",
+     "parts": [
+      [
+       "qual",
+       "什么样的；性质",
+       "どのような；性質"
+      ],
+      [
+       "-ify",
+       "使成为",
+       "〜にする"
+      ],
+      [
+       "-er",
+       "做…的人/物",
+       "〜するもの"
+      ]
+     ],
+     "note": {
+      "zh": "qualify + -er → 使取得资格的东西 → 资格赛（语法中还有“限定词”）。",
+      "ja": "qualify + -er → 資格を決めるもの → 予選（文法では修飾語）。"
+     },
+     "forms": [
+      [
+       "qualifying round",
+       "资格赛轮次",
+       "予選ラウンド"
+      ],
+      [
+       "qualify (v.)",
+       "使合格",
+       "資格を得る"
+      ]
+     ]
+    },
+    {
+     "w": "qualifying",
+     "pos": "adj.",
+     "ipa": "/ˈkwɑləˌfaɪɪŋ/",
+     "zh": "符合条件的；资格的",
+     "ja": "資格を満たす；予選の",
+     "ex": "Qualifying purchases of fifty dollars or more receive free shipping.",
+     "ex_zh": "满五十美元的符合条件的购买可享免运费。",
+     "ex_ja": "50ドル以上の対象購入は送料無料となる。",
+     "parts": [
+      [
+       "qual",
+       "什么样的；性质",
+       "どのような；性質"
+      ],
+      [
+       "-ify",
+       "使成为",
+       "〜にする"
+      ],
+      [
+       "-ing",
+       "现在分词",
+       "現在分詞"
+      ]
+     ],
+     "note": {
+      "zh": "qualify + -ing → 符合条件的（常见于促销条款）。",
+      "ja": "qualify + -ing → 条件を満たす（販促規約でよく使う）。"
+     },
+     "forms": [
+      [
+       "qualifying purchase",
+       "符合条件的购买",
+       "対象購入"
+      ],
+      [
+       "qualifying period",
+       "资格期间",
+       "資格取得期間"
+      ]
+     ],
+     "hl": "Qualifying"
+    }
+   ]
+  },
+  {
+   "id": "merc",
+   "title_zh": "词根 -merc- / -mark-：商品；买卖",
+   "title_ja": "語根 -merc- / -mark-：商品・売買",
+   "words": [
+    {
+     "w": "commerce",
+     "pos": "n.",
+     "ipa": "/ˈkɑmɚs/",
+     "zh": "商业；贸易",
+     "ja": "商業；通商",
+     "ex": "The chamber of commerce hosts a networking breakfast every month.",
+     "ex_zh": "商会每月举办一次交流早餐会。",
+     "ex_ja": "商工会議所は毎月交流朝食会を開いている。",
+     "parts": [
+      [
+       "com-",
+       "共同；互相",
+       "共に"
+      ],
+      [
+       "merc",
+       "商品；买卖",
+       "商品；売買"
+      ]
+     ],
+     "note": {
+      "zh": "com-（互相）+ merc（商品）→ 互相买卖 → 商业。拉丁语 merx = 商品。",
+      "ja": "com-（互いに）+ merc（商品）→ 売り買いし合う → 商業。ラテン語 merx は「商品」。"
+     },
+     "forms": [
+      [
+       "chamber of commerce",
+       "商会",
+       "商工会議所"
+      ],
+      [
+       "e-commerce",
+       "电子商务",
+       "電子商取引"
+      ]
+     ]
+    },
+    {
+     "w": "commercialize",
+     "pos": "v.",
+     "ipa": "/kəˈmɝʃəˌlaɪz/",
+     "zh": "使商业化",
+     "ja": "商品化する",
+     "ex": "The startup plans to commercialize its software next spring.",
+     "ex_zh": "这家初创公司计划明年春天把软件推向市场。",
+     "ex_ja": "そのスタートアップは来春ソフトの商用化を計画している。",
+     "parts": [
+      [
+       "com-",
+       "共同；互相",
+       "共に"
+      ],
+      [
+       "merc",
+       "商品；买卖",
+       "商品；売買"
+      ],
+      [
+       "-ialize",
+       "使…化",
+       "〜化する"
+      ]
+     ],
+     "note": {
+      "zh": "commerce → commercial（商业的）+ -ize（使…化）→ 商业化、投放市场。",
+      "ja": "commerce → commercial（商業の）+ -ize（〜化する）→ 商品化する。"
+     },
+     "forms": [
+      [
+       "commercialization (n.)",
+       "商业化",
+       "商業化"
+      ],
+      [
+       "commercial (adj.)",
+       "商业的；广告",
+       "商業の；コマーシャル"
+      ]
+     ]
+    },
+    {
+     "w": "merchant",
+     "pos": "n.",
+     "ipa": "/ˈmɝtʃənt/",
+     "zh": "商人；商家",
+     "ja": "商人；販売業者",
+     "ex": "Local merchants have agreed to join the street festival.",
+     "ex_zh": "当地商家已同意参加街头节。",
+     "ex_ja": "地元の商店主たちは通りの祭りに参加することに同意した。",
+     "parts": [
+      [
+       "merch",
+       "商品；买卖",
+       "商品；売買"
+      ],
+      [
+       "-ant",
+       "…的人",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "merch（买卖）+ -ant（…的人）→ 做买卖的人 → 商人。源于拉丁语 mercari（做买卖）。",
+      "ja": "merch（売買）+ -ant（〜する人）→ 商人。ラテン語 mercari（取引する）から。"
+     },
+     "forms": [
+      [
+       "merchant account",
+       "商户账户",
+       "加盟店口座"
+      ],
+      [
+       "merchant bank",
+       "商业银行",
+       "マーチャントバンク"
+      ]
+     ]
+    },
+    {
+     "w": "merchandising",
+     "pos": "n.",
+     "ipa": "/ˈmɝtʃənˌdaɪzɪŋ/",
+     "zh": "商品陈列；促销",
+     "ja": "商品陳列；販売促進",
+     "ex": "Good merchandising can lift sales without any price cuts.",
+     "ex_zh": "好的商品陈列无需降价也能提升销量。",
+     "ex_ja": "優れた商品陳列は値下げなしで売上を伸ばせる。",
+     "parts": [
+      [
+       "merch",
+       "商品；买卖",
+       "商品；売買"
+      ],
+      [
+       "-andise",
+       "货物",
+       "商品"
+      ],
+      [
+       "-ing",
+       "动名词",
+       "動名詞"
+      ]
+     ],
+     "note": {
+      "zh": "merchandise（商品）+ -ing → 商品的陈列与促销。",
+      "ja": "merchandise（商品）+ -ing → 陳列や販促活動。"
+     },
+     "forms": [
+      [
+       "visual merchandising",
+       "视觉陈列",
+       "ビジュアルマーチャンダイジング"
+      ],
+      [
+       "merchandise (n.)",
+       "商品",
+       "商品"
+      ]
+     ],
+     "hl": "merchandising"
+    },
+    {
+     "w": "market",
+     "pos": "n.",
+     "ipa": "/ˈmɑrkɪt/",
+     "zh": "市场；行情",
+     "ja": "市場；相場",
+     "ex": "The company plans to enter the European market next year.",
+     "ex_zh": "公司计划明年进入欧洲市场。",
+     "ex_ja": "その会社は来年ヨーロッパ市場に参入する計画だ。",
+     "parts": [
+      [
+       "mark",
+       "商品；买卖（merx）",
+       "商品；売買（merx）"
+      ],
+      [
+       "-et",
+       "词尾",
+       "語尾"
+      ]
+     ],
+     "note": {
+      "zh": "来自拉丁语 mercatus（买卖、集市），与 merx（商品）同源，经古法语传入。",
+      "ja": "ラテン語 mercatus（取引・市）から。merx（商品）と同源。"
+     },
+     "forms": [
+      [
+       "on the market",
+       "上市销售",
+       "市場に出ている"
+      ],
+      [
+       "market share",
+       "市场份额",
+       "市場シェア"
+      ]
+     ]
+    },
+    {
+     "w": "marketable",
+     "pos": "adj.",
+     "ipa": "/ˈmɑrkɪtəbəl/",
+     "zh": "有销路的；适销的",
+     "ja": "市場性のある",
+     "ex": "Her skills are highly marketable in the finance industry.",
+     "ex_zh": "她的技能在金融业非常抢手。",
+     "ex_ja": "彼女のスキルは金融業界で非常に需要がある。",
+     "parts": [
+      [
+       "market",
+       "市场",
+       "市場"
+      ],
+      [
+       "-able",
+       "能…的",
+       "〜できる"
+      ]
+     ],
+     "note": {
+      "zh": "market（市场；销售）+ -able → 能卖出去的 → 有销路的。",
+      "ja": "market（市場・販売）+ -able → 売れる → 市場性のある。"
+     },
+     "forms": [
+      [
+       "marketable skills",
+       "有市场价值的技能",
+       "市場価値のあるスキル"
+      ],
+      [
+       "marketing (n.)",
+       "市场营销",
+       "マーケティング"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "conduct",
+   "title_zh": "主题：职场行为与投诉处理",
+   "title_ja": "テーマ：職場の行動規範と苦情対応",
+   "words": [
+    {
+     "w": "reprimand",
+     "pos": "v.",
+     "ipa": "/ˈrɛprəˌmænd/",
+     "zh": "训斥；严厉批评",
+     "ja": "叱責する；懲戒する",
+     "ex": "The supervisor reprimanded the employee for repeated lateness.",
+     "ex_zh": "主管因该员工屡次迟到而对其严厉批评。",
+     "ex_ja": "上司は度重なる遅刻について従業員を叱責した。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：reprimand 来自法语，可追溯到拉丁语 reprimere（压下去），但现代英语里已不能自然拆分，直接记整体。",
+      "ja": "信頼できる語根分解はありません：フランス語経由でラテン語 reprimere（抑える）に遡るが、現代英語では分解せず丸ごと覚える。"
+     },
+     "forms": [
+      [
+       "a written reprimand",
+       "书面警告处分",
+       "文書による戒告"
+      ],
+      [
+       "reprimand for",
+       "因…训斥",
+       "〜で叱責する"
+      ]
+     ],
+     "hl": "reprimanded"
+    },
+    {
+     "w": "misconduct",
+     "pos": "n.",
+     "ipa": "/mɪsˈkɑndʌkt/",
+     "zh": "不当行为；渎职",
+     "ja": "不正行為；不品行",
+     "ex": "The manager was dismissed for serious misconduct.",
+     "ex_zh": "这位经理因严重的不当行为被解雇。",
+     "ex_ja": "その管理職は重大な不正行為で解雇された。",
+     "parts": [
+      [
+       "mis-",
+       "错误",
+       "誤った"
+      ],
+      [
+       "conduct",
+       "行为；引导",
+       "行い；導く"
+      ]
+     ],
+     "note": {
+      "zh": "mis-（错误）+ conduct（行为）→ 不当行为。",
+      "ja": "mis-（誤った）+ conduct（行い）→ 不正行為。"
+     },
+     "forms": [
+      [
+       "professional misconduct",
+       "职业不当行为",
+       "職業上の不正"
+      ],
+      [
+       "gross misconduct",
+       "严重违纪",
+       "重大な不品行"
+      ]
+     ]
+    },
+    {
+     "w": "harassment",
+     "pos": "n.",
+     "ipa": "/həˈræsmənt/",
+     "zh": "骚扰",
+     "ja": "嫌がらせ；ハラスメント",
+     "ex": "All staff must complete training on workplace harassment.",
+     "ex_zh": "所有员工必须完成职场骚扰防治培训。",
+     "ex_ja": "全従業員は職場のハラスメントに関する研修を修了しなければならない。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：harassment 来自法语 harasser（折腾、骚扰），无常见英语词根可拆，记整体。重音在第二音节。",
+      "ja": "信頼できる語根分解はありません：フランス語 harasser（苦しめる）から。英語で分解できる語根はなく、丸ごと覚える。アクセントは第2音節。"
+     },
+     "forms": [
+      [
+       "sexual harassment",
+       "性骚扰",
+       "セクシャルハラスメント"
+      ],
+      [
+       "harass (v.)",
+       "骚扰",
+       "嫌がらせをする"
+      ]
+     ]
+    },
+    {
+     "w": "complainant",
+     "pos": "n.",
+     "ipa": "/kəmˈpleɪnənt/",
+     "zh": "投诉人；原告",
+     "ja": "申立人；原告",
+     "ex": "The complainant requested that her name remain confidential.",
+     "ex_zh": "投诉人要求对她的姓名保密。",
+     "ex_ja": "申立人は自分の名前を秘密にするよう求めた。",
+     "parts": [
+      [
+       "complain",
+       "抱怨；投诉",
+       "不満を言う；申し立てる"
+      ],
+      [
+       "-ant",
+       "…的人",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "complain（投诉）+ -ant（…的人）→ 投诉人。",
+      "ja": "complain（申し立てる）+ -ant（〜する人）→ 申立人。"
+     },
+     "forms": [
+      [
+       "complaint (n.)",
+       "投诉",
+       "苦情"
+      ],
+      [
+       "file a complaint",
+       "提出投诉",
+       "苦情を申し立てる"
+      ]
+     ]
+    },
+    {
+     "w": "allegation",
+     "pos": "n.",
+     "ipa": "/ˌæləˈgeɪʃən/",
+     "zh": "指控；声称",
+     "ja": "申し立て；疑惑",
+     "ex": "The company denied the allegation of unfair hiring.",
+     "ex_zh": "公司否认了有关不公平招聘的指控。",
+     "ex_ja": "会社は不公正な採用の疑惑を否定した。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：allegation 来自拉丁语 allegare（援引、提出），但现代英语不能自然拆分；注意是指“未经证实的指控”。",
+      "ja": "信頼できる語根分解はありません：ラテン語 allegare（持ち出す）から。現代英語では分解せず、「証明されていない申し立て」と覚える。"
+     },
+     "forms": [
+      [
+       "allege (v.)",
+       "声称",
+       "主張する"
+      ],
+      [
+       "make an allegation",
+       "提出指控",
+       "申し立てをする"
+      ]
+     ]
+    },
+    {
+     "w": "impartial",
+     "pos": "adj.",
+     "ipa": "/ɪmˈpɑrʃəl/",
+     "zh": "公正的；不偏不倚的",
+     "ja": "公平な；偏りのない",
+     "ex": "An impartial panel will review all of the complaints.",
+     "ex_zh": "一个公正的小组将审查所有投诉。",
+     "ex_ja": "公平な委員会がすべての苦情を審査する。",
+     "parts": [
+      [
+       "im-",
+       "不",
+       "不"
+      ],
+      [
+       "part",
+       "部分；一方",
+       "部分；一方"
+      ],
+      [
+       "-ial",
+       "…的",
+       "〜の"
+      ]
+     ],
+     "note": {
+      "zh": "im-（不）+ part（一方）+ -ial → 不偏向一方的 → 公正的。",
+      "ja": "im-（否定）+ part（一方）+ -ial → どちらにも偏らない → 公平な。"
+     },
+     "forms": [
+      [
+       "impartiality (n.)",
+       "公正",
+       "公平さ"
+      ],
+      [
+       "impartial judge",
+       "公正的裁判",
+       "公平な判事"
+      ]
+     ]
+    },
+    {
+     "w": "retaliation",
+     "pos": "n.",
+     "ipa": "/rɪˌtæliˈeɪʃən/",
+     "zh": "报复",
+     "ja": "報復",
+     "ex": "The policy protects workers from retaliation for reporting problems.",
+     "ex_zh": "该政策保护员工不会因举报问题而遭到报复。",
+     "ex_ja": "その方針は、問題を報告した従業員を報復から守る。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：retaliation 来自拉丁语 retaliare（以同样方式回敬），现代英语里不再自然拆分，记整体即可。",
+      "ja": "信頼できる語根分解はありません：ラテン語 retaliare（同じやり方で返す）から。現代英語では分解せず丸ごと覚える。"
+     },
+     "forms": [
+      [
+       "retaliate (v.)",
+       "报复",
+       "報復する"
+      ],
+      [
+       "in retaliation for",
+       "作为对…的报复",
+       "〜への報復として"
+      ]
+     ]
+    },
+    {
+     "w": "bias",
+     "pos": "n.",
+     "ipa": "/ˈbaɪəs/",
+     "zh": "偏见；偏向",
+     "ja": "偏見；偏り",
+     "ex": "The survey was designed to avoid bias in the results.",
+     "ex_zh": "这项调查的设计是为了避免结果出现偏差。",
+     "ex_ja": "その調査は結果に偏りが出ないよう設計された。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：bias 来自法语 biais（斜），无可拆的英语词根。",
+      "ja": "信頼できる語根分解はありません：フランス語 biais（斜め）から。分解できる語根はない。"
+     },
+     "forms": [
+      [
+       "biased (adj.)",
+       "有偏见的",
+       "偏見のある"
+      ],
+      [
+       "without bias",
+       "不带偏见地",
+       "偏りなく"
+      ]
+     ]
+    },
+    {
+     "w": "discrimination",
+     "pos": "n.",
+     "ipa": "/dɪˌskrɪməˈneɪʃən/",
+     "zh": "歧视；辨别",
+     "ja": "差別；識別",
+     "ex": "The law prohibits discrimination based on age or gender.",
+     "ex_zh": "法律禁止基于年龄或性别的歧视。",
+     "ex_ja": "法律は年齢や性別に基づく差別を禁じている。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：discrimination 来自拉丁语 discriminare（区分开），内部结构较复杂，记整体即可；常见义是“歧视”。",
+      "ja": "信頼できる語根分解はありません：ラテン語 discriminare（区別する）から。構造が複雑なので丸ごと覚える。よく使う意味は「差別」。"
+     },
+     "forms": [
+      [
+       "discriminate against",
+       "歧视",
+       "〜を差別する"
+      ],
+      [
+       "age discrimination",
+       "年龄歧视",
+       "年齢差別"
+      ]
+     ]
+    },
+    {
+     "w": "ethics",
+     "pos": "n.",
+     "ipa": "/ˈɛθɪks/",
+     "zh": "道德规范；伦理",
+     "ja": "倫理；道徳",
+     "ex": "The company has a strict code of ethics for all employees.",
+     "ex_zh": "公司对所有员工都有严格的道德准则。",
+     "ex_ja": "会社はすべての従業員に厳しい倫理規定を設けている。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：ethics 来自希腊语 ēthos（品性、习惯），现代英语里记整体即可。",
+      "ja": "信頼できる語根分解はありません：ギリシャ語 ēthos（性格・習慣）から。現代英語では丸ごと覚える。"
+     },
+     "forms": [
+      [
+       "code of ethics",
+       "道德准则",
+       "倫理規定"
+      ],
+      [
+       "business ethics",
+       "商业道德",
+       "企業倫理"
+      ]
+     ]
+    },
+    {
+     "w": "warning",
+     "pos": "n.",
+     "ipa": "/ˈwɔrnɪŋ/",
+     "zh": "警告；告诫",
+     "ja": "警告；注意",
+     "ex": "He received a formal warning about his repeated absences.",
+     "ex_zh": "他因多次缺勤收到了正式警告。",
+     "ex_ja": "彼は繰り返しの欠勤について正式な警告を受けた。",
+     "parts": [
+      [
+       "warn",
+       "警告",
+       "警告する"
+      ],
+      [
+       "-ing",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "warn（警告）+ -ing → 警告。",
+      "ja": "warn（警告する）+ -ing → 警告。"
+     },
+     "forms": [
+      [
+       "written warning",
+       "书面警告",
+       "文書による警告"
+      ],
+      [
+       "without warning",
+       "毫无预兆地",
+       "予告なしに"
+      ]
+     ]
+    },
+    {
+     "w": "embezzlement",
+     "pos": "n.",
+     "ipa": "/ɪmˈbɛzəlmənt/",
+     "zh": "侵占；挪用公款",
+     "ja": "横領",
+     "ex": "The accountant was charged with embezzlement of company funds.",
+     "ex_zh": "这位会计被控挪用公司资金。",
+     "ex_ja": "その経理担当者は会社の資金の横領で起訴された。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：embezzle 来自古法语 besillier（毁坏、掠夺），英语里无法拆分，记整体。",
+      "ja": "信頼できる語根分解はありません：古フランス語 besillier（荒らす・奪う）から。英語では分解せず丸ごと覚える。"
+     },
+     "forms": [
+      [
+       "embezzle (v.)",
+       "侵占",
+       "横領する"
+      ],
+      [
+       "embezzlement of funds",
+       "挪用资金",
+       "資金の横領"
+      ]
+     ]
+    },
+    {
+     "w": "unethical",
+     "pos": "adj.",
+     "ipa": "/ʌnˈɛθɪkəl/",
+     "zh": "不道德的",
+     "ja": "非倫理的な",
+     "ex": "Accepting gifts from suppliers may be considered unethical.",
+     "ex_zh": "接受供应商的礼物可能被视为不道德。",
+     "ex_ja": "仕入先から贈り物を受け取るのは非倫理的とみなされることがある。",
+     "parts": [
+      [
+       "un-",
+       "不",
+       "不"
+      ],
+      [
+       "ethic",
+       "道德",
+       "倫理"
+      ],
+      [
+       "-al",
+       "…的",
+       "〜の"
+      ]
+     ],
+     "note": {
+      "zh": "un-（不）+ ethic（道德）+ -al → 不道德的。",
+      "ja": "un-（否定）+ ethic（倫理）+ -al → 非倫理的な。"
+     },
+     "forms": [
+      [
+       "ethical (adj.)",
+       "合乎道德的",
+       "倫理的な"
+      ],
+      [
+       "unethical behavior",
+       "不道德行为",
+       "非倫理的な行為"
+      ]
+     ]
+    },
+    {
+     "w": "fairness",
+     "pos": "n.",
+     "ipa": "/ˈfɛrnɪs/",
+     "zh": "公平；公正",
+     "ja": "公平さ",
+     "ex": "Employees questioned the fairness of the new bonus system.",
+     "ex_zh": "员工们质疑新奖金制度是否公平。",
+     "ex_ja": "従業員は新しい賞与制度の公平性に疑問を呈した。",
+     "parts": [
+      [
+       "fair",
+       "公平的",
+       "公平な"
+      ],
+      [
+       "-ness",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "fair（公平的）+ -ness → 公平。fair 是日耳曼语系的本族词。",
+      "ja": "fair（公平な）+ -ness → 公平さ。fair は英語本来の語。"
+     },
+     "forms": [
+      [
+       "in fairness",
+       "公平地说",
+       "公平を期して"
+      ],
+      [
+       "fair (adj.)",
+       "公平的",
+       "公平な"
+      ]
+     ]
+    },
+    {
+     "w": "discipline",
+     "pos": "n.",
+     "ipa": "/ˈdɪsəplɪn/",
+     "zh": "纪律；惩戒",
+     "ja": "規律；懲戒",
+     "ex": "The handbook explains the steps of progressive discipline.",
+     "ex_zh": "员工手册说明了逐级惩戒的步骤。",
+     "ex_ja": "社員手帳には段階的な懲戒の手順が説明されている。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：discipline 来自拉丁语 disciplina（教导），与 discipleship 同源，现代英语里记整体即可。",
+      "ja": "信頼できる語根分解はありません：ラテン語 disciplina（教え）から。現代英語では丸ごと覚える。"
+     },
+     "forms": [
+      [
+       "disciplinary action",
+       "惩戒措施",
+       "懲戒処分"
+      ],
+      [
+       "self-discipline",
+       "自律",
+       "自制心"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title_zh": "主题：餐厅与餐饮服务",
+   "title_ja": "テーマ：レストランと飲食サービス",
+   "words": [
+    {
+     "w": "menu",
+     "pos": "n.",
+     "ipa": "/ˈmɛnju/",
+     "zh": "菜单；菜式",
+     "ja": "メニュー；献立",
+     "ex": "The restaurant changes its lunch menu every week.",
+     "ex_zh": "这家餐厅每周更换午餐菜单。",
+     "ex_ja": "そのレストランはランチメニューを毎週変える。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：menu 来自法语 menu（细小的、详细的），意为“详细清单”，现代英语记整体。",
+      "ja": "信頼できる語根分解はありません：フランス語 menu（細かい）から。「詳しい一覧」の意。現代英語では丸ごと覚える。"
+     },
+     "forms": [
+      [
+       "set menu",
+       "套餐",
+       "セットメニュー"
+      ],
+      [
+       "menu item",
+       "菜单上的品项",
+       "メニューの品"
+      ]
+     ]
+    },
+    {
+     "w": "allergy",
+     "pos": "n.",
+     "ipa": "/ˈælɚdʒi/",
+     "zh": "过敏",
+     "ja": "アレルギー",
+     "ex": "Please inform the staff of any food allergy before ordering.",
+     "ex_zh": "点餐前请告知工作人员任何食物过敏。",
+     "ex_ja": "注文前に食物アレルギーがあればスタッフにお伝えください。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：allergy 来自德语 Allergie（希腊语 allos 另一个 + ergon 反应），现代英语记整体。",
+      "ja": "信頼できる語根分解はありません：ドイツ語 Allergie（ギリシャ語 allos「他の」+ ergon「反応」）から。現代英語では丸ごと覚える。"
+     },
+     "forms": [
+      [
+       "allergic (adj.)",
+       "过敏的",
+       "アレルギーのある"
+      ],
+      [
+       "food allergy",
+       "食物过敏",
+       "食物アレルギー"
+      ]
+     ],
+     "tip": {
+      "zh": "allergy 重音在第一音节，词尾 -gy 读 /dʒi/；形容词 allergic 重音在第二音节。",
+      "ja": "allergy は第1音節にアクセントで -gy は /dʒi/。形容詞 allergic は第2音節。"
+     }
+    },
+    {
+     "w": "waiter",
+     "pos": "n.",
+     "ipa": "/ˈweɪtɚ/",
+     "zh": "服务员",
+     "ja": "ウェイター",
+     "ex": "The waiter recommended the soup of the day.",
+     "ex_zh": "服务员推荐了今日例汤。",
+     "ex_ja": "ウェイターは本日のスープを勧めた。",
+     "parts": [
+      [
+       "wait",
+       "等候；服侍",
+       "待つ；給仕する"
+      ],
+      [
+       "-er",
+       "做…的人",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "wait（等候、服侍）+ -er（…的人）→ 服务员。",
+      "ja": "wait（待つ・給仕する）+ -er（〜する人）→ ウェイター。"
+     },
+     "forms": [
+      [
+       "waitress (n.)",
+       "女服务员",
+       "ウェイトレス"
+      ],
+      [
+       "waitstaff (n.)",
+       "餐厅服务人员",
+       "接客スタッフ"
+      ]
+     ]
+    },
+    {
+     "w": "kitchen",
+     "pos": "n.",
+     "ipa": "/ˈkɪtʃən/",
+     "zh": "厨房",
+     "ja": "台所；厨房",
+     "ex": "The restaurant's kitchen is open until ten o'clock.",
+     "ex_zh": "这家餐厅的厨房营业到十点。",
+     "ex_ja": "そのレストランの厨房は10時まで営業している。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：kitchen 来自古英语 cycene（源自拉丁语 coquere，烹饪），现代英语记整体。",
+      "ja": "信頼できる語根分解はありません：古英語 cycene（ラテン語 coquere「料理する」に由来）から。現代英語では丸ごと覚える。"
+     },
+     "forms": [
+      [
+       "kitchen staff",
+       "厨房人员",
+       "厨房スタッフ"
+      ],
+      [
+       "open kitchen",
+       "开放式厨房",
+       "オープンキッチン"
+      ]
+     ]
+    },
+    {
+     "w": "cafeteria",
+     "pos": "n.",
+     "ipa": "/ˌkæfɪˈtɪriə/",
+     "zh": "自助餐厅；食堂",
+     "ja": "カフェテリア；食堂",
+     "ex": "The company cafeteria serves breakfast from seven a.m.",
+     "ex_zh": "公司食堂早上七点开始供应早餐。",
+     "ex_ja": "社員食堂は午前7時から朝食を提供している。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：cafeteria 来自美式西班牙语 cafetería（咖啡店），记整体；重音在第三音节 -te-。",
+      "ja": "信頼できる語根分解はありません：米国スペイン語 cafetería（コーヒー店）から。丸ごと覚える。アクセントは -te-。"
+     },
+     "forms": [
+      [
+       "cafeteria tray",
+       "食堂托盘",
+       "食堂のトレイ"
+      ],
+      [
+       "staff cafeteria",
+       "员工食堂",
+       "社員食堂"
+      ]
+     ]
+    },
+    {
+     "w": "portion",
+     "pos": "n.",
+     "ipa": "/ˈpɔrʃən/",
+     "zh": "一份；部分",
+     "ja": "一人前；部分",
+     "ex": "The portions at this restaurant are generous.",
+     "ex_zh": "这家餐厅的分量很足。",
+     "ex_ja": "このレストランは量がたっぷりだ。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：portion 来自拉丁语 portio（份额），与 -port-（搬运）无关，别硬拆。",
+      "ja": "信頼できる語根分解はありません：ラテン語 portio（取り分）から。-port-（運ぶ）とは無関係なので分けない。"
+     },
+     "forms": [
+      [
+       "a large portion",
+       "大份",
+       "大盛り"
+      ],
+      [
+       "portion size",
+       "分量",
+       "1食分の量"
+      ]
+     ],
+     "hl": "portions"
+    },
+    {
+     "w": "garnish",
+     "pos": "n.",
+     "ipa": "/ˈgɑrnɪʃ/",
+     "zh": "配菜；装饰点缀",
+     "ja": "付け合わせ；飾り",
+     "ex": "The chef added a slice of lemon as a garnish.",
+     "ex_zh": "厨师加了一片柠檬作装饰。",
+     "ex_ja": "シェフは飾りにレモンのスライスを添えた。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：garnish 来自古法语 garnir（装备、装饰），记整体。",
+      "ja": "信頼できる語根分解はありません：古フランス語 garnir（備える・飾る）から。丸ごと覚える。"
+     },
+     "forms": [
+      [
+       "garnish (v.)",
+       "装饰（菜肴）",
+       "（料理に）添える"
+      ],
+      [
+       "side garnish",
+       "配菜点缀",
+       "付け合わせ"
+      ]
+     ]
+    },
+    {
+     "w": "sommelier",
+     "pos": "n.",
+     "ipa": "/ˌsʌməlˈjeɪ/",
+     "zh": "侍酒师",
+     "ja": "ソムリエ",
+     "ex": "The sommelier suggested a wine to go with the fish.",
+     "ex_zh": "侍酒师推荐了一款配鱼的葡萄酒。",
+     "ex_ja": "ソムリエは魚料理に合うワインを勧めた。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：sommelier 来自法语，原指管理饮食供应的官员，记整体；词尾读 /eɪ/。",
+      "ja": "信頼できる語根分解はありません：フランス語から。もとは飲食の供給を管理する役人。丸ごと覚える。語末は /eɪ/。"
+     },
+     "forms": [
+      [
+       "head sommelier",
+       "首席侍酒师",
+       "ヘッドソムリエ"
+      ],
+      [
+       "wine list",
+       "酒单",
+       "ワインリスト"
+      ]
+     ]
+    },
+    {
+     "w": "dessert",
+     "pos": "n.",
+     "ipa": "/dɪˈzɝt/",
+     "zh": "甜点",
+     "ja": "デザート",
+     "ex": "Dessert is included in the price of the set lunch.",
+     "ex_zh": "套餐午餐的价格包含甜点。",
+     "ex_ja": "セットランチの価格にはデザートが含まれている。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：dessert 来自法语 desservir（撤下餐桌）；与 desert（沙漠）拼写相近，dessert 有两个 s、重音在后。",
+      "ja": "信頼できる語根分解はありません：フランス語 desservir（食卓を片付ける）から。desert（砂漠）と紛らわしいが、dessert は s が2つでアクセントは後ろ。"
+     },
+     "forms": [
+      [
+       "dessert menu",
+       "甜点菜单",
+       "デザートメニュー"
+      ],
+      [
+       "dessert course",
+       "甜点环节",
+       "デザートコース"
+      ]
+     ]
+    },
+    {
+     "w": "seasonal",
+     "pos": "adj.",
+     "ipa": "/ˈsizənəl/",
+     "zh": "季节性的；应季的",
+     "ja": "季節の；季節限定の",
+     "ex": "The cafe offers a seasonal menu using local ingredients.",
+     "ex_zh": "这家咖啡馆提供使用本地食材的应季菜单。",
+     "ex_ja": "そのカフェは地元の食材を使った季節限定メニューを提供している。",
+     "parts": [
+      [
+       "season",
+       "季节",
+       "季節"
+      ],
+      [
+       "-al",
+       "…的",
+       "〜の"
+      ]
+     ],
+     "note": {
+      "zh": "season（季节）+ -al → 季节性的。",
+      "ja": "season（季節）+ -al → 季節の。"
+     },
+     "forms": [
+      [
+       "seasonal demand",
+       "季节性需求",
+       "季節的な需要"
+      ],
+      [
+       "seasonal worker",
+       "季节工",
+       "季節労働者"
+      ]
+     ]
+    },
+    {
+     "w": "leftover",
+     "pos": "n.",
+     "ipa": "/ˈlɛftˌoʊvɚ/",
+     "zh": "剩菜；剩余物",
+     "ja": "残り物；余り",
+     "ex": "Leftovers can be packed in a container to take home.",
+     "ex_zh": "剩菜可以装进容器带回家。",
+     "ex_ja": "残り物は容器に詰めて持ち帰れる。",
+     "parts": [
+      [
+       "left",
+       "剩下",
+       "残った"
+      ],
+      [
+       "over",
+       "多出",
+       "余り"
+      ]
+     ],
+     "note": {
+      "zh": "left（剩下的）+ over（多出）→ 吃剩的东西。常用复数。",
+      "ja": "left（残った）+ over（余り）→ 食べ残し。複数形でよく使う。"
+     },
+     "forms": [
+      [
+       "leftover food",
+       "剩饭菜",
+       "残り物"
+      ],
+      [
+       "leftover budget",
+       "剩余预算",
+       "余った予算"
+      ]
+     ],
+     "hl": "Leftovers"
+    },
+    {
+     "w": "condiment",
+     "pos": "n.",
+     "ipa": "/ˈkɑndəmənt/",
+     "zh": "调味品",
+     "ja": "薬味；調味料",
+     "ex": "Condiments such as ketchup and mustard are on each table.",
+     "ex_zh": "每张桌上都有番茄酱和芥末等调味品。",
+     "ex_ja": "各テーブルにはケチャップやマスタードなどの調味料が置いてある。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：condiment 来自拉丁语 condire（调味），现代英语里记整体。",
+      "ja": "信頼できる語根分解はありません：ラテン語 condire（味付けする）から。現代英語では丸ごと覚える。"
+     },
+     "forms": [
+      [
+       "condiment tray",
+       "调味品架",
+       "調味料トレイ"
+      ],
+      [
+       "table condiments",
+       "餐桌调味品",
+       "卓上調味料"
+      ]
+     ],
+     "hl": "Condiments"
+    },
+    {
+     "w": "seasoning",
+     "pos": "n.",
+     "ipa": "/ˈsizənɪŋ/",
+     "zh": "调料；调味",
+     "ja": "調味料；味付け",
+     "ex": "Add a little seasoning to the sauce before serving.",
+     "ex_zh": "上桌前在酱汁里加一点调料。",
+     "ex_ja": "提供前にソースに少し味付けをしてください。",
+     "parts": [
+      [
+       "season",
+       "给…调味",
+       "味付けする"
+      ],
+      [
+       "-ing",
+       "名词后缀",
+       "名詞を作る"
+      ]
+     ],
+     "note": {
+      "zh": "season（给…调味）+ -ing → 调味料。",
+      "ja": "season（味付けする）+ -ing → 調味料。"
+     },
+     "forms": [
+      [
+       "season with salt",
+       "用盐调味",
+       "塩で味付けする"
+      ],
+      [
+       "seasoning blend",
+       "混合调料",
+       "ミックススパイス"
+      ]
+     ]
+    },
+    {
+     "w": "napkin",
+     "pos": "n.",
+     "ipa": "/ˈnæpkɪn/",
+     "zh": "餐巾",
+     "ja": "ナプキン",
+     "ex": "Please place a clean napkin at each seat.",
+     "ex_zh": "请在每个座位上放一块干净的餐巾。",
+     "ex_ja": "各席に清潔なナプキンを置いてください。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：napkin 来自古法语 nape（桌布）+ 小词尾 -kin，现代英语记整体即可。",
+      "ja": "信頼できる語根分解はありません：古フランス語 nape（テーブルクロス）+ 縮小辞 -kin から。丸ごと覚える。"
+     },
+     "forms": [
+      [
+       "paper napkin",
+       "纸巾",
+       "紙ナプキン"
+      ],
+      [
+       "cloth napkin",
+       "布餐巾",
+       "布ナプキン"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}
