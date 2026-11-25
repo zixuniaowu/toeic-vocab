@@ -1,0 +1,2459 @@
+{
+ "day": 54,
+ "date": "2026-11-26",
+ "title_zh": "四大词根 + 生产标准与效率 + 房产与所有权",
+ "title_ja": "4つの語根＋生産基準と効率＋不動産と所有権",
+ "intro_zh": "今天的词根是 -sol-（单独；唯一）、-pur-（纯净）、mal-（坏；不良）、-pun- / -pen-（惩罚）；主题是生产标准与效率，以及房产与所有权。",
+ "intro_ja": "今日の語根は -sol-（ひとつだけ・唯一）、-pur-（純粋）、mal-（悪い・不良）、-pun- / -pen-（罰）。テーマは生産基準と効率、不動産と所有権。",
+ "voice": "en-US-AriaNeural",
+ "roots": [
+  {
+   "root": "-sol-",
+   "origin": "Latin solus",
+   "zh": "单独；唯一",
+   "ja": "ひとつだけ；唯一",
+   "exp_zh": "来自拉丁语 solus（单独的）。唯一的 → sole；独自的 → solo；孤独的 → solitary；荒凉 → desolate。⚠️ isolate / isolation 来自 insula（岛），意义相近但不同源；console（安慰）也不是此词根。",
+   "exp_ja": "ラテン語 solus（ひとつだけの）から。唯一の → sole；単独の → solo；孤独な → solitary；荒れ果てた → desolate。isolate / isolation は insula（島）由来で別源。console（慰める）もこの語根ではない。",
+   "examples": [
+    "sole",
+    "solo",
+    "soloist",
+    "solitary",
+    "solitude",
+    "isolate",
+    "isolation",
+    "isolated",
+    "desolate"
+   ]
+  },
+  {
+   "root": "-pur-",
+   "origin": "Latin purus",
+   "zh": "纯净；干净",
+   "ja": "清い；純粋な",
+   "exp_zh": "来自拉丁语 purus（干净的、纯的）。纯的 → pure；使纯净 → purify；清除 → purge；不纯 → impure。⚠️ purpose（目的）与此无关。",
+   "exp_ja": "ラテン語 purus（清い・純粋な）から。純粋な → pure；浄化する → purify；一掃する → purge；不純な → impure。purpose（目的）は無関係。",
+   "examples": [
+    "pure",
+    "purely",
+    "purity",
+    "purify",
+    "purification",
+    "purifier",
+    "impure",
+    "impurity",
+    "purge",
+    "purist"
+   ]
+  },
+  {
+   "root": "mal-",
+   "origin": "Latin male / malus",
+   "zh": "坏；不良",
+   "ja": "悪い；不良",
+   "exp_zh": "来自拉丁语 male（坏地）/ malus（坏的）。恶意 → malice；渎职 → malpractice；营养不良 → malnutrition；故障 → malfunction（已学）。⚠️ mall（购物中心）、male（男性）不是此词根。",
+   "exp_ja": "ラテン語 male（悪く）/ malus（悪い）から。悪意 → malice；業務上の過失 → malpractice；栄養不良 → malnutrition。mall（ショッピングモール）や male（男性）は別語。",
+   "examples": [
+    "malice",
+    "malpractice",
+    "malnutrition",
+    "malnourished",
+    "maltreat",
+    "malady",
+    "malign",
+    "malformed",
+    "malcontent",
+    "maladjusted"
+   ]
+  },
+  {
+   "root": "-pun- / -pen-",
+   "origin": "Latin poena",
+   "zh": "惩罚；刑罚",
+   "ja": "罰；刑罰",
+   "exp_zh": "来自拉丁语 poena（刑罚，原为希腊语借词）。惩罚 → punish；惩罚性的 → punitive；刑罚的 → penal；不受罚 → impunity；后悔 → repent。⚠️ pen（笔）、pending（待定）不是此词根。",
+   "exp_ja": "ラテン語 poena（刑罰、ギリシャ語由来）から。罰する → punish；懲罰的 → punitive；刑罰の → penal；罰を受けない → impunity；悔いる → repent。pen（ペン）や pending（未決）は別語。",
+   "examples": [
+    "punish",
+    "punishment",
+    "punitive",
+    "penal",
+    "impunity",
+    "penance",
+    "penitentiary",
+    "repent"
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "sol",
+   "title_zh": "词根 -sol-：单独；唯一",
+   "title_ja": "語根 -sol-：ひとつだけ・唯一",
+   "words": [
+    {
+     "w": "sole",
+     "pos": "adj.",
+     "ipa": "/soʊl/",
+     "zh": "唯一的；独家的",
+     "ja": "唯一の；独占的な",
+     "ex": "Ms. Park is the sole owner of the bakery.",
+     "ex_zh": "朴女士是这家面包店的唯一所有人。",
+     "ex_ja": "パクさんはそのパン屋の唯一のオーナーだ。",
+     "parts": [
+      [
+       "sol",
+       "单独；唯一",
+       "ひとつだけ；唯一"
+      ]
+     ],
+     "note": {
+      "zh": "来自拉丁语 solus（单独的）→ 唯一的。⚠️ 与 sole（鞋底、一种鱼）同形不同源。",
+      "ja": "ラテン語 solus（ひとつだけの）から → 唯一の。sole（靴底・魚）は同形異源。"
+     },
+     "forms": [
+      [
+       "sole agent",
+       "独家代理",
+       "総代理店"
+      ],
+      [
+       "sole responsibility",
+       "全部责任",
+       "全責任"
+      ]
+     ],
+     "tip": {
+      "zh": "sole 只作定语，放在名词前，如 the sole reason。",
+      "ja": "sole は名詞の前で使う。例：the sole reason。"
+     }
+    },
+    {
+     "w": "solo",
+     "pos": "adj.",
+     "ipa": "/ˈsoʊloʊ/",
+     "zh": "单独的；独自的",
+     "ja": "単独の；ひとりの",
+     "ex": "He completed the sales trip solo because his partner was ill.",
+     "ex_zh": "由于搭档生病，他独自完成了这次销售出差。",
+     "ex_ja": "パートナーが病気だったので、彼はひとりで営業出張をやり遂げた。",
+     "parts": [
+      [
+       "sol",
+       "单独",
+       "ひとつだけ"
+      ],
+      [
+       "-o",
+       "意大利语词尾",
+       "イタリア語の語尾"
+      ]
+     ],
+     "note": {
+      "zh": "意大利语借词，来自拉丁语 solus（单独）→ 独自的、独奏。",
+      "ja": "イタリア語経由の借用語。ラテン語 solus（ひとつだけ）から → 単独の・独奏。"
+     },
+     "forms": [
+      [
+       "solo trip",
+       "单人旅行",
+       "ひとり旅"
+      ],
+      [
+       "go solo",
+       "独自行动",
+       "ひとりで行く"
+      ]
+     ]
+    },
+    {
+     "w": "soloist",
+     "pos": "n.",
+     "ipa": "/ˈsoʊloʊɪst/",
+     "zh": "独奏者；独唱者",
+     "ja": "ソリスト；独奏者",
+     "ex": "The soloist at the company gala received a standing ovation.",
+     "ex_zh": "公司晚会上的独奏者获得了全场起立鼓掌。",
+     "ex_ja": "会社の祝賀会のソリストは総立ちの拍手を受けた。",
+     "parts": [
+      [
+       "solo",
+       "独自",
+       "ひとり"
+      ],
+      [
+       "-ist",
+       "……的人",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "solo（独自）+ -ist（人）→ 独奏者。",
+      "ja": "solo（ひとり）+ -ist（人）→ ソリスト。"
+     },
+     "forms": [
+      [
+       "soloist (n.)",
+       "独奏者",
+       "独奏者"
+      ],
+      [
+       "solo performance",
+       "独奏表演",
+       "独演"
+      ]
+     ]
+    },
+    {
+     "w": "solitary",
+     "pos": "adj.",
+     "ipa": "/ˈsɑləˌteri/",
+     "zh": "孤独的；独自的",
+     "ja": "孤独な；ひとりだけの",
+     "ex": "Not a solitary customer entered the shop during the storm.",
+     "ex_zh": "暴风雨期间，一位顾客也没有进店。",
+     "ex_ja": "嵐の間、店に入ってきた客はひとりもいなかった。",
+     "parts": [
+      [
+       "sol",
+       "单独",
+       "ひとつだけ"
+      ],
+      [
+       "-it-",
+       "连接成分",
+       "つなぎ"
+      ],
+      [
+       "-ary",
+       "……的",
+       "〜の"
+      ]
+     ],
+     "note": {
+      "zh": "sol（单独）+ -itary → 孤单的；常用于否定句强调“一个也没有”。",
+      "ja": "sol（ひとつだけ）+ -itary → 孤独な。否定文で「ひとつも〜ない」の強調にも使う。"
+     },
+     "forms": [
+      [
+       "solitary confinement",
+       "单独监禁",
+       "独房拘禁"
+      ],
+      [
+       "a solitary figure",
+       "孤零零的身影",
+       "ひとりぼっちの姿"
+      ]
+     ]
+    },
+    {
+     "w": "solitude",
+     "pos": "n.",
+     "ipa": "/ˈsɑləˌtud/",
+     "zh": "独处；孤独",
+     "ja": "ひとりでいること；孤独",
+     "ex": "Many writers need solitude to concentrate on their work.",
+     "ex_zh": "许多作家需要独处才能专注于写作。",
+     "ex_ja": "多くの作家は仕事に集中するためにひとりの時間を必要とする。",
+     "parts": [
+      [
+       "sol",
+       "单独",
+       "ひとつだけ"
+      ],
+      [
+       "-itude",
+       "状态",
+       "状態"
+      ]
+     ],
+     "note": {
+      "zh": "sol（单独）+ -itude（状态）→ 独处的状态。",
+      "ja": "sol（ひとつだけ）+ -itude（状態）→ ひとりでいる状態。"
+     },
+     "forms": [
+      [
+       "in solitude",
+       "独自一人",
+       "ひとりで"
+      ],
+      [
+       "seek solitude",
+       "寻求独处",
+       "静けさを求める"
+      ]
+     ]
+    },
+    {
+     "w": "isolate",
+     "pos": "v.",
+     "ipa": "/ˈaɪsəˌleɪt/",
+     "zh": "隔离；孤立",
+     "ja": "隔離する；孤立させる",
+     "ex": "Staff must isolate the damaged equipment from the main system.",
+     "ex_zh": "员工必须把损坏的设备与主系统隔离开。",
+     "ex_ja": "スタッフは破損した機器を主システムから切り離さなければならない。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：isolate 经意大利语来自拉丁语 insula（岛），意思是“使成为孤岛”，并非 sol- 同源，只是意义相近。",
+      "ja": "信頼できる語根分解はありません：isolate はイタリア語経由でラテン語 insula（島）から。「島にする」意で、sol- とは別源。"
+     },
+     "forms": [
+      [
+       "isolate A from B",
+       "把A与B隔离",
+       "AをBから隔離する"
+      ],
+      [
+       "isolated case",
+       "个别情况",
+       "個別のケース"
+      ]
+     ],
+     "tip": {
+      "zh": "isolate A from B：把 A 与 B 隔开。",
+      "ja": "isolate A from B：AをBから切り離す。"
+     }
+    },
+    {
+     "w": "isolation",
+     "pos": "n.",
+     "ipa": "/ˌaɪsəˈleɪʃən/",
+     "zh": "隔离；孤立",
+     "ja": "隔離；孤立",
+     "ex": "The isolation of the faulty server prevented further data loss.",
+     "ex_zh": "隔离故障服务器避免了数据的进一步丢失。",
+     "ex_ja": "故障したサーバーを隔離したことで、さらなるデータ損失を防げた。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：isolate 的名词形，来自 insula（岛），并非 sol-。",
+      "ja": "信頼できる語根分解はありません：isolate の名詞形。insula（島）由来で sol- ではない。"
+     },
+     "forms": [
+      [
+       "in isolation",
+       "孤立地",
+       "単独で"
+      ],
+      [
+       "isolation period",
+       "隔离期",
+       "隔離期間"
+      ]
+     ]
+    },
+    {
+     "w": "isolated",
+     "pos": "adj.",
+     "ipa": "/ˈaɪsəˌleɪtɪd/",
+     "zh": "偏僻的；孤立的",
+     "ja": "人里離れた；孤立した",
+     "ex": "The factory is located in an isolated area far from the city.",
+     "ex_zh": "工厂位于远离城市的偏僻地区。",
+     "ex_ja": "工場は都市から遠く離れた人里離れた場所にある。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：isolate 的过去分词形容词。",
+      "ja": "信頼できる語根分解はありません：isolate の過去分詞形。"
+     },
+     "forms": [
+      [
+       "an isolated incident",
+       "孤立事件",
+       "単発の出来事"
+      ],
+      [
+       "feel isolated",
+       "感到孤立",
+       "孤立感を覚える"
+      ]
+     ]
+    },
+    {
+     "w": "desolate",
+     "pos": "adj.",
+     "ipa": "/ˈdɛsələt/",
+     "zh": "荒凉的；凄凉的",
+     "ja": "荒れ果てた；寂しい",
+     "ex": "Closed factories left the town looking desolate.",
+     "ex_zh": "工厂关闭后，小镇显得一片荒凉。",
+     "ex_ja": "工場が閉鎖され、町は荒れ果てて見えた。",
+     "parts": [
+      [
+       "de-",
+       "完全",
+       "すっかり"
+      ],
+      [
+       "sol",
+       "单独",
+       "ひとつだけ"
+      ],
+      [
+       "-ate",
+       "形容词后缀",
+       "形容詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "de-（完全）+ sol（单独）→ 被彻底遗弃、独自一处 → 荒凉的。拉丁语 desolare。",
+      "ja": "de-（すっかり）+ sol（ひとつだけ）→ 見捨てられた → 荒れ果てた。ラテン語 desolare。"
+     },
+     "forms": [
+      [
+       "desolate area",
+       "荒凉地带",
+       "荒れ地"
+      ],
+      [
+       "desolation (n.)",
+       "荒凉",
+       "荒廃"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pur",
+   "title_zh": "词根 -pur-：纯净",
+   "title_ja": "語根 -pur-：純粋・清い",
+   "words": [
+    {
+     "w": "pure",
+     "pos": "adj.",
+     "ipa": "/pjʊr/",
+     "zh": "纯的；纯净的",
+     "ja": "純粋な；きれいな",
+     "ex": "The company guarantees that its bottled water is pure.",
+     "ex_zh": "公司保证其瓶装水是纯净的。",
+     "ex_ja": "同社は、ボトル入りの水が純粋であることを保証している。",
+     "parts": [
+      [
+       "pur",
+       "纯净",
+       "混じりけのない"
+      ]
+     ],
+     "note": {
+      "zh": "来自拉丁语 purus（干净的、纯的）。",
+      "ja": "ラテン語 purus（清い・純粋な）から。"
+     },
+     "forms": [
+      [
+       "pure cotton",
+       "纯棉",
+       "綿100％"
+      ],
+      [
+       "pure and simple",
+       "纯粹的",
+       "純然たる"
+      ]
+     ]
+    },
+    {
+     "w": "purely",
+     "pos": "adv.",
+     "ipa": "/ˈpjʊrli/",
+     "zh": "纯粹地；仅仅",
+     "ja": "純粋に；単に",
+     "ex": "The decision was made purely on financial grounds.",
+     "ex_zh": "这一决定纯粹是出于财务方面的考虑。",
+     "ex_ja": "その決定は純粋に財務上の理由でなされた。",
+     "parts": [
+      [
+       "pure",
+       "纯的",
+       "純粋な"
+      ],
+      [
+       "-ly",
+       "副词后缀",
+       "副詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "pure + -ly → 纯粹地、仅仅。",
+      "ja": "pure + -ly → 純粋に、単に。"
+     },
+     "forms": [
+      [
+       "purely for",
+       "纯粹为了",
+       "もっぱら〜のために"
+      ],
+      [
+       "not purely",
+       "不仅仅",
+       "単に〜ではない"
+      ]
+     ]
+    },
+    {
+     "w": "purity",
+     "pos": "n.",
+     "ipa": "/ˈpjʊrəti/",
+     "zh": "纯度；纯净",
+     "ja": "純度；清浄",
+     "ex": "Lab tests confirmed the purity of the chemical sample.",
+     "ex_zh": "实验室测试确认了该化学样品的纯度。",
+     "ex_ja": "検査で化学サンプルの純度が確認された。",
+     "parts": [
+      [
+       "pur",
+       "纯净",
+       "混じりけのない"
+      ],
+      [
+       "-ity",
+       "名词后缀",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "pur（纯）+ -ity → 纯度。",
+      "ja": "pur（純）+ -ity → 純度。"
+     },
+     "forms": [
+      [
+       "high purity",
+       "高纯度",
+       "高純度"
+      ],
+      [
+       "purity standards",
+       "纯度标准",
+       "純度基準"
+      ]
+     ]
+    },
+    {
+     "w": "purify",
+     "pos": "v.",
+     "ipa": "/ˈpjʊrəˌfaɪ/",
+     "zh": "净化；提纯",
+     "ja": "浄化する；精製する",
+     "ex": "The plant uses a new filter to purify river water.",
+     "ex_zh": "工厂用一种新型过滤器来净化河水。",
+     "ex_ja": "工場は新しいフィルターで川の水を浄化している。",
+     "parts": [
+      [
+       "pur",
+       "纯净",
+       "混じりけのない"
+      ],
+      [
+       "-ify",
+       "使……化",
+       "〜にする"
+      ]
+     ],
+     "note": {
+      "zh": "pur（纯）+ -ify（使变成）→ 使纯净 → 净化。",
+      "ja": "pur（純）+ -ify（〜にする）→ 浄化する。"
+     },
+     "forms": [
+      [
+       "water purifier",
+       "净水器",
+       "浄水器"
+      ],
+      [
+       "purify the air",
+       "净化空气",
+       "空気を浄化する"
+      ]
+     ]
+    },
+    {
+     "w": "purification",
+     "pos": "n.",
+     "ipa": "/ˌpjʊrəfəˈkeɪʃən/",
+     "zh": "净化；提纯",
+     "ja": "浄化；精製",
+     "ex": "Water purification is the main service offered by this firm.",
+     "ex_zh": "水净化是这家公司提供的主要服务。",
+     "ex_ja": "水の浄化がこの会社の主なサービスだ。",
+     "parts": [
+      [
+       "pur",
+       "纯净",
+       "混じりけのない"
+      ],
+      [
+       "-ific-",
+       "使……",
+       "〜にする"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "purify 的名词形 → 净化、提纯。",
+      "ja": "purify の名詞形 → 浄化。"
+     },
+     "forms": [
+      [
+       "purification system",
+       "净化系统",
+       "浄化システム"
+      ],
+      [
+       "purification process",
+       "净化过程",
+       "精製工程"
+      ]
+     ]
+    },
+    {
+     "w": "purifier",
+     "pos": "n.",
+     "ipa": "/ˈpjʊrəˌfaɪɚ/",
+     "zh": "净化器",
+     "ja": "浄化装置；清浄機",
+     "ex": "An air purifier was installed in every meeting room.",
+     "ex_zh": "每间会议室都安装了空气净化器。",
+     "ex_ja": "全ての会議室に空気清浄機が設置された。",
+     "parts": [
+      [
+       "pur",
+       "纯净",
+       "混じりけのない"
+      ],
+      [
+       "-ify",
+       "使……化",
+       "〜にする"
+      ],
+      [
+       "-er",
+       "……的器具",
+       "〜するもの"
+      ]
+     ],
+     "note": {
+      "zh": "purify + -er → 净化器。",
+      "ja": "purify + -er → 浄化装置。"
+     },
+     "forms": [
+      [
+       "air purifier",
+       "空气净化器",
+       "空気清浄機"
+      ],
+      [
+       "water purifier",
+       "净水器",
+       "浄水器"
+      ]
+     ]
+    },
+    {
+     "w": "impure",
+     "pos": "adj.",
+     "ipa": "/ɪmˈpjʊr/",
+     "zh": "不纯的；掺杂的",
+     "ja": "不純な；混ざりもののある",
+     "ex": "Impure materials can weaken the final product.",
+     "ex_zh": "不纯的材料会削弱最终产品。",
+     "ex_ja": "不純な原料は最終製品を弱くすることがある。",
+     "parts": [
+      [
+       "im-",
+       "不",
+       "否定"
+      ],
+      [
+       "pure",
+       "纯的",
+       "純粋な"
+      ]
+     ],
+     "note": {
+      "zh": "im-（不）+ pure（纯）→ 不纯的。",
+      "ja": "im-（否定）+ pure（純粋な）→ 不純な。"
+     },
+     "forms": [
+      [
+       "impure water",
+       "不洁净的水",
+       "不純な水"
+      ],
+      [
+       "impurity (n.)",
+       "杂质",
+       "不純物"
+      ]
+     ]
+    },
+    {
+     "w": "impurity",
+     "pos": "n.",
+     "ipa": "/ɪmˈpjʊrəti/",
+     "zh": "杂质；不纯",
+     "ja": "不純物；不純",
+     "ex": "Inspectors found an impurity in the latest batch of flour.",
+     "ex_zh": "检查员在最新一批面粉中发现了杂质。",
+     "ex_ja": "検査員は最新ロットの小麦粉から不純物を見つけた。",
+     "parts": [
+      [
+       "im-",
+       "不",
+       "否定"
+      ],
+      [
+       "pur",
+       "纯净",
+       "混じりけのない"
+      ],
+      [
+       "-ity",
+       "名词后缀",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "im-（不）+ pur（纯）+ -ity → 不纯物、杂质。",
+      "ja": "im-（否定）+ pur（純）+ -ity → 不純物。"
+     },
+     "forms": [
+      [
+       "remove impurities",
+       "去除杂质",
+       "不純物を取り除く"
+      ],
+      [
+       "trace impurities",
+       "微量杂质",
+       "微量の不純物"
+      ]
+     ]
+    },
+    {
+     "w": "purge",
+     "pos": "v.",
+     "ipa": "/pɝdʒ/",
+     "zh": "清除；清洗",
+     "ja": "一掃する；取り除く",
+     "ex": "IT staff will purge outdated files from the server this weekend.",
+     "ex_zh": "信息技术人员将在本周末从服务器上清除过期文件。",
+     "ex_ja": "ITスタッフは今週末、サーバーから古いファイルを削除する。",
+     "parts": [
+      [
+       "pur",
+       "纯净",
+       "混じりけのない"
+      ],
+      [
+       "-ge",
+       "来自 agere（推动）",
+       "agere（動かす）由来"
+      ]
+     ],
+     "note": {
+      "zh": "来自拉丁语 purgare（purus + agere）：弄干净 → 清除。",
+      "ja": "ラテン語 purgare（purus + agere）：きれいにする → 一掃する。"
+     },
+     "forms": [
+      [
+       "purge A of B",
+       "把A中的B清除",
+       "AからBを一掃する"
+      ],
+      [
+       "data purge",
+       "数据清理",
+       "データの消去"
+      ]
+     ]
+    },
+    {
+     "w": "purist",
+     "pos": "n.",
+     "ipa": "/ˈpjʊrɪst/",
+     "zh": "纯粹主义者",
+     "ja": "純粋主義者",
+     "ex": "A language purist objected to the slogan in the advertisement.",
+     "ex_zh": "一位语言纯粹主义者反对广告里的口号。",
+     "ex_ja": "言葉の純粋主義者は広告のスローガンに異議を唱えた。",
+     "parts": [
+      [
+       "pur",
+       "纯净",
+       "混じりけのない"
+      ],
+      [
+       "-ist",
+       "……的人",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "pur（纯）+ -ist（人）→ 坚持纯正的人。",
+      "ja": "pur（純）+ -ist（人）→ 純粋さにこだわる人。"
+     },
+     "forms": [
+      [
+       "purist approach",
+       "纯粹派做法",
+       "純粋主義的な方法"
+      ],
+      [
+       "purists (n.)",
+       "纯粹主义者们",
+       "純粋主義者たち"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mal",
+   "title_zh": "词根 mal-：坏；不良",
+   "title_ja": "語根 mal-：悪い・不良",
+   "words": [
+    {
+     "w": "malice",
+     "pos": "n.",
+     "ipa": "/ˈmælɪs/",
+     "zh": "恶意；敌意",
+     "ja": "悪意",
+     "ex": "The court found no evidence of malice in the manager’s actions.",
+     "ex_zh": "法院没有发现经理的行为带有恶意的证据。",
+     "ex_ja": "裁判所は、マネージャーの行動に悪意があった証拠を見つけなかった。",
+     "parts": [
+      [
+       "mal",
+       "坏；恶",
+       "悪い"
+      ],
+      [
+       "-ice",
+       "名词后缀",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "mal（坏）+ -ice → 恶意。拉丁语 malitia。",
+      "ja": "mal（悪い）+ -ice → 悪意。ラテン語 malitia。"
+     },
+     "forms": [
+      [
+       "without malice",
+       "没有恶意",
+       "悪意なく"
+      ],
+      [
+       "malicious (adj.)",
+       "恶意的",
+       "悪意のある"
+      ]
+     ]
+    },
+    {
+     "w": "malpractice",
+     "pos": "n.",
+     "ipa": "/mælˈpræktɪs/",
+     "zh": "玩忽职守；医疗事故",
+     "ja": "業務上の過失；医療過誤",
+     "ex": "The doctor was sued for medical malpractice.",
+     "ex_zh": "这位医生因医疗事故被起诉。",
+     "ex_ja": "その医師は医療過誤で訴えられた。",
+     "parts": [
+      [
+       "mal-",
+       "坏；不当",
+       "悪い・不当な"
+      ],
+      [
+       "practice",
+       "业务；做法",
+       "業務；実践"
+      ]
+     ],
+     "note": {
+      "zh": "mal-（不当）+ practice（执业）→ 不当执业、渎职。",
+      "ja": "mal-（不当な）+ practice（業務）→ 業務上の過失。"
+     },
+     "forms": [
+      [
+       "malpractice insurance",
+       "职业过失保险",
+       "専門職賠償責任保険"
+      ],
+      [
+       "legal malpractice",
+       "律师渎职",
+       "弁護過誤"
+      ]
+     ]
+    },
+    {
+     "w": "malnutrition",
+     "pos": "n.",
+     "ipa": "/ˌmælnuˈtrɪʃən/",
+     "zh": "营养不良",
+     "ja": "栄養不良",
+     "ex": "The charity works to reduce child malnutrition in rural areas.",
+     "ex_zh": "这家慈善机构致力于减少农村地区的儿童营养不良。",
+     "ex_ja": "その慈善団体は農村部の子どもの栄養不良を減らすために活動している。",
+     "parts": [
+      [
+       "mal-",
+       "坏；不良",
+       "悪い"
+      ],
+      [
+       "nutrition",
+       "营养",
+       "栄養"
+      ]
+     ],
+     "note": {
+      "zh": "mal-（不良）+ nutrition（营养）→ 营养不良。",
+      "ja": "mal-（悪い）+ nutrition（栄養）→ 栄養不良。"
+     },
+     "forms": [
+      [
+       "suffer from malnutrition",
+       "营养不良",
+       "栄養不良に苦しむ"
+      ],
+      [
+       "malnourished (adj.)",
+       "营养不良的",
+       "栄養不良の"
+      ]
+     ]
+    },
+    {
+     "w": "malnourished",
+     "pos": "adj.",
+     "ipa": "/mælˈnɝɪʃt/",
+     "zh": "营养不良的",
+     "ja": "栄養不良の",
+     "ex": "Aid workers found many malnourished children in the camp.",
+     "ex_zh": "救援人员在营地里发现许多营养不良的儿童。",
+     "ex_ja": "支援スタッフはキャンプで栄養不良の子どもを多数見つけた。",
+     "parts": [
+      [
+       "mal-",
+       "坏；不良",
+       "悪い"
+      ],
+      [
+       "nourish",
+       "滋养",
+       "養う"
+      ],
+      [
+       "-ed",
+       "形容词后缀",
+       "形容詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "mal-（不良）+ nourish（滋养）+ -ed → 营养不良的。",
+      "ja": "mal-（悪い）+ nourish（養う）+ -ed → 栄養不良の。"
+     },
+     "forms": [
+      [
+       "severely malnourished",
+       "严重营养不良",
+       "深刻な栄養不良の"
+      ],
+      [
+       "nourish (v.)",
+       "滋养",
+       "養う"
+      ]
+     ]
+    },
+    {
+     "w": "maltreat",
+     "pos": "v.",
+     "ipa": "/mælˈtrit/",
+     "zh": "虐待；粗暴对待",
+     "ja": "虐待する；酷使する",
+     "ex": "The inspectors reported that the kennel maltreated its animals.",
+     "ex_zh": "检查员报告说这家犬舍虐待动物。",
+     "ex_ja": "検査官は、そのケンネルが動物を虐待していたと報告した。",
+     "parts": [
+      [
+       "mal-",
+       "坏；不当",
+       "悪い"
+      ],
+      [
+       "treat",
+       "对待",
+       "扱う"
+      ]
+     ],
+     "note": {
+      "zh": "mal-（不当）+ treat（对待）→ 虐待。",
+      "ja": "mal-（不当に）+ treat（扱う）→ 虐待する。"
+     },
+     "forms": [
+      [
+       "maltreatment (n.)",
+       "虐待",
+       "虐待"
+      ],
+      [
+       "maltreat staff",
+       "苛待员工",
+       "従業員を酷使する"
+      ]
+     ]
+    },
+    {
+     "w": "malady",
+     "pos": "n.",
+     "ipa": "/ˈmælədi/",
+     "zh": "疾病；弊病",
+     "ja": "病気；病弊",
+     "ex": "Poor communication is a common malady in large organizations.",
+     "ex_zh": "沟通不畅是大型机构的常见弊病。",
+     "ex_ja": "コミュニケーション不足は大組織によくある病弊だ。",
+     "parts": [
+      [
+       "mal",
+       "坏",
+       "悪い"
+      ],
+      [
+       "-ady",
+       "来自 habitus（状态）",
+       "habitus（状態）由来"
+      ]
+     ],
+     "note": {
+      "zh": "来自古法语 maladie，源于拉丁语 male habitus（状态不好）→ 疾病。",
+      "ja": "古フランス語 maladie、ラテン語 male habitus（状態が悪い）から → 病気。"
+     },
+     "forms": [
+      [
+       "a social malady",
+       "社会弊病",
+       "社会の病弊"
+      ],
+      [
+       "chronic malady",
+       "慢性病",
+       "慢性疾患"
+      ]
+     ]
+    },
+    {
+     "w": "malign",
+     "pos": "v.",
+     "ipa": "/məˈlaɪn/",
+     "zh": "诽谤；中伤",
+     "ja": "中傷する",
+     "ex": "Competitors tried to malign the brand in online reviews.",
+     "ex_zh": "竞争对手试图在网上评论里诋毁这个品牌。",
+     "ex_ja": "競合他社はオンラインレビューでそのブランドを中傷しようとした。",
+     "parts": [
+      [
+       "mal",
+       "坏",
+       "悪い"
+      ],
+      [
+       "-ign",
+       "来自 genus（生）",
+       "genus（生まれ）由来"
+      ]
+     ],
+     "note": {
+      "zh": "来自拉丁语 malignus（天性坏的）→ 恶意中伤。⚠️ 作形容词时 malign 也表示“有害的”。",
+      "ja": "ラテン語 malignus（性質の悪い）から → 中傷する。形容詞では「有害な」の意味もある。"
+     },
+     "forms": [
+      [
+       "malign influence",
+       "恶劣影响",
+       "悪影響"
+      ],
+      [
+       "benign (adj.)",
+       "良性的；无害的",
+       "良性の；無害な"
+      ]
+     ]
+    },
+    {
+     "w": "malformed",
+     "pos": "adj.",
+     "ipa": "/mælˈfɔrmd/",
+     "zh": "畸形的；形状不良的",
+     "ja": "形の悪い；奇形の",
+     "ex": "Malformed parts were removed from the assembly line.",
+     "ex_zh": "畸形的零件被从装配线上拿掉了。",
+     "ex_ja": "形の不良な部品は組立ラインから外された。",
+     "parts": [
+      [
+       "mal-",
+       "坏；不良",
+       "悪い"
+      ],
+      [
+       "form",
+       "形状",
+       "形"
+      ],
+      [
+       "-ed",
+       "形容词后缀",
+       "形容詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "mal-（不良）+ form（形状）+ -ed → 形状不良的。",
+      "ja": "mal-（悪い）+ form（形）+ -ed → 形が不良の。"
+     },
+     "forms": [
+      [
+       "malformed data",
+       "格式错误的数据",
+       "不正な形式のデータ"
+      ],
+      [
+       "malformation (n.)",
+       "畸形",
+       "奇形"
+      ]
+     ]
+    },
+    {
+     "w": "malcontent",
+     "pos": "n.",
+     "ipa": "/ˈmælkənˌtɛnt/",
+     "zh": "不满分子",
+     "ja": "不平分子",
+     "ex": "A few malcontents spread rumors about the merger.",
+     "ex_zh": "少数不满分子散布了有关合并的谣言。",
+     "ex_ja": "数人の不平分子が合併についての噂を広めた。",
+     "parts": [
+      [
+       "mal-",
+       "坏；不",
+       "悪い"
+      ],
+      [
+       "content",
+       "满足的",
+       "満足した"
+      ]
+     ],
+     "note": {
+      "zh": "mal-（不）+ content（满足）→ 不满的人。",
+      "ja": "mal-（不）+ content（満足）→ 不満を抱く人。"
+     },
+     "forms": [
+      [
+       "discontented (adj.)",
+       "不满的",
+       "不満な"
+      ],
+      [
+       "malcontents (n.)",
+       "不满分子们",
+       "不平分子たち"
+      ]
+     ]
+    },
+    {
+     "w": "maladjusted",
+     "pos": "adj.",
+     "ipa": "/ˌmæləˈdʒʌstɪd/",
+     "zh": "适应不良的",
+     "ja": "適応できない",
+     "ex": "Some maladjusted settings caused the printer to jam.",
+     "ex_zh": "一些设置不当导致打印机卡纸。",
+     "ex_ja": "いくつかの不適切な設定がプリンターの紙詰まりを引き起こした。",
+     "parts": [
+      [
+       "mal-",
+       "坏；不良",
+       "悪い"
+      ],
+      [
+       "adjust",
+       "调整",
+       "調整する"
+      ],
+      [
+       "-ed",
+       "形容词后缀",
+       "形容詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "mal-（不良）+ adjust（调整）+ -ed → 调整不当的、适应不良的。",
+      "ja": "mal-（悪い）+ adjust（調整する）+ -ed → 調整不良の。"
+     },
+     "forms": [
+      [
+       "maladjustment (n.)",
+       "适应不良",
+       "不適応"
+      ],
+      [
+       "adjust to",
+       "适应",
+       "〜に順応する"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pun",
+   "title_zh": "词根 -pun- / -pen-：惩罚",
+   "title_ja": "語根 -pun- / -pen-：罰",
+   "words": [
+    {
+     "w": "punish",
+     "pos": "v.",
+     "ipa": "/ˈpʌnɪʃ/",
+     "zh": "惩罚；处罚",
+     "ja": "罰する",
+     "ex": "The firm will punish employees who leak confidential data.",
+     "ex_zh": "公司将处罚泄露机密数据的员工。",
+     "ex_ja": "会社は機密データを漏らした従業員を処罰する。",
+     "parts": [
+      [
+       "pun",
+       "惩罚",
+       "罰"
+      ],
+      [
+       "-ish",
+       "动词后缀",
+       "動詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "来自拉丁语 poena（刑罚）→ 古法语 punir → 惩罚。",
+      "ja": "ラテン語 poena（刑罰）→ 古フランス語 punir → 罰する。"
+     },
+     "forms": [
+      [
+       "punish A for B",
+       "因B惩罚A",
+       "BでAを罰する"
+      ],
+      [
+       "punishable (adj.)",
+       "应受惩罚的",
+       "罰せられる"
+      ]
+     ]
+    },
+    {
+     "w": "punishment",
+     "pos": "n.",
+     "ipa": "/ˈpʌnɪʃmənt/",
+     "zh": "惩罚；处罚",
+     "ja": "罰；処罰",
+     "ex": "The punishment for late filing is a fine of 100 dollars.",
+     "ex_zh": "逾期申报的处罚是罚款100美元。",
+     "ex_ja": "提出遅延の罰則は100ドルの罰金だ。",
+     "parts": [
+      [
+       "pun",
+       "惩罚",
+       "罰"
+      ],
+      [
+       "-ish",
+       "动词后缀",
+       "動詞語尾"
+      ],
+      [
+       "-ment",
+       "名词后缀",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "punish + -ment → 惩罚。",
+      "ja": "punish + -ment → 処罰。"
+     },
+     "forms": [
+      [
+       "severe punishment",
+       "严厉处罚",
+       "厳罰"
+      ],
+      [
+       "as punishment",
+       "作为惩罚",
+       "罰として"
+      ]
+     ]
+    },
+    {
+     "w": "punitive",
+     "pos": "adj.",
+     "ipa": "/ˈpjunətɪv/",
+     "zh": "惩罚性的",
+     "ja": "懲罰的な",
+     "ex": "The court imposed punitive damages on the company.",
+     "ex_zh": "法院对该公司判处惩罚性赔偿。",
+     "ex_ja": "裁判所は同社に懲罰的損害賠償を命じた。",
+     "parts": [
+      [
+       "pun",
+       "惩罚",
+       "罰"
+      ],
+      [
+       "-itive",
+       "形容词后缀",
+       "形容詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "pun（罚）+ -itive → 惩罚性的。",
+      "ja": "pun（罰）+ -itive → 懲罰的な。"
+     },
+     "forms": [
+      [
+       "punitive damages",
+       "惩罚性赔偿",
+       "懲罰的損害賠償"
+      ],
+      [
+       "punitive measures",
+       "惩罚措施",
+       "制裁措置"
+      ]
+     ]
+    },
+    {
+     "w": "penal",
+     "pos": "adj.",
+     "ipa": "/ˈpinəl/",
+     "zh": "刑罚的；刑事的",
+     "ja": "刑罰の；刑事の",
+     "ex": "The penal code lists the fines for each type of offense.",
+     "ex_zh": "刑法典列出了各类违法行为的罚款额。",
+     "ex_ja": "刑法典は違反の種類ごとの罰金を定めている。",
+     "parts": [
+      [
+       "pen",
+       "刑罚",
+       "刑罰"
+      ],
+      [
+       "-al",
+       "形容词后缀",
+       "形容詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "来自拉丁语 poena（刑罚）→ pen + -al → 刑罚的。",
+      "ja": "ラテン語 poena（刑罰）→ pen + -al → 刑罰の。"
+     },
+     "forms": [
+      [
+       "penal code",
+       "刑法典",
+       "刑法典"
+      ],
+      [
+       "penal system",
+       "刑罚制度",
+       "刑罰制度"
+      ]
+     ]
+    },
+    {
+     "w": "impunity",
+     "pos": "n.",
+     "ipa": "/ɪmˈpjunəti/",
+     "zh": "不受惩罚",
+     "ja": "罰を受けないこと",
+     "ex": "Companies cannot ignore safety rules with impunity.",
+     "ex_zh": "公司不能无视安全规定而不受惩罚。",
+     "ex_ja": "企業は安全規則を無視して罰を免れることはできない。",
+     "parts": [
+      [
+       "im-",
+       "不",
+       "否定"
+      ],
+      [
+       "pun",
+       "惩罚",
+       "罰"
+      ],
+      [
+       "-ity",
+       "名词后缀",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "im-（不）+ pun（罚）+ -ity → 不受惩罚。",
+      "ja": "im-（否定）+ pun（罰）+ -ity → 罰を受けないこと。"
+     },
+     "forms": [
+      [
+       "with impunity",
+       "不受惩罚地",
+       "罰を受けずに"
+      ],
+      [
+       "act with impunity",
+       "肆无忌惮",
+       "平然と行動する"
+      ]
+     ]
+    },
+    {
+     "w": "penance",
+     "pos": "n.",
+     "ipa": "/ˈpɛnəns/",
+     "zh": "忏悔；赎罪",
+     "ja": "悔悟；贖罪",
+     "ex": "As penance for the error, he stayed late to correct every invoice.",
+     "ex_zh": "为了弥补这个错误，他留到很晚更正了每一张发票。",
+     "ex_ja": "そのミスの償いとして、彼は遅くまで残って全ての請求書を訂正した。",
+     "parts": [
+      [
+       "pen",
+       "刑罚；悔",
+       "刑罰・悔い"
+      ],
+      [
+       "-ance",
+       "名词后缀",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "来自拉丁语 paenitentia（后悔），与 poena（刑罚）同源 → 赎罪。",
+      "ja": "ラテン語 paenitentia（後悔）から。poena（刑罰）と同源 → 贖罪。"
+     },
+     "forms": [
+      [
+       "do penance",
+       "赎罪",
+       "償いをする"
+      ],
+      [
+       "as penance",
+       "作为赎罪",
+       "償いとして"
+      ]
+     ]
+    },
+    {
+     "w": "penitentiary",
+     "pos": "n.",
+     "ipa": "/ˌpɛnəˈtɛnʃəri/",
+     "zh": "监狱（美）",
+     "ja": "刑務所（米）",
+     "ex": "The architect designed a new state penitentiary.",
+     "ex_zh": "这位建筑师设计了一座新的州立监狱。",
+     "ex_ja": "その建築家は新しい州立刑務所を設計した。",
+     "parts": [
+      [
+       "pen",
+       "悔；刑罚",
+       "悔い・刑罰"
+      ],
+      [
+       "-itent-",
+       "后悔",
+       "悔いる"
+      ],
+      [
+       "-iary",
+       "场所",
+       "場所"
+      ]
+     ],
+     "note": {
+      "zh": "来自拉丁语 paenitentia（后悔）→ 让人悔改的地方 → 监狱。",
+      "ja": "ラテン語 paenitentia（後悔）→ 悔い改める場所 → 刑務所。"
+     },
+     "forms": [
+      [
+       "state penitentiary",
+       "州立监狱",
+       "州立刑務所"
+      ],
+      [
+       "penitent (adj.)",
+       "悔过的",
+       "悔い改めた"
+      ]
+     ]
+    },
+    {
+     "w": "repent",
+     "pos": "v.",
+     "ipa": "/rɪˈpɛnt/",
+     "zh": "后悔；悔改",
+     "ja": "後悔する；悔い改める",
+     "ex": "The manager came to repent his hasty decision to cut the budget.",
+     "ex_zh": "经理后来为自己仓促削减预算的决定感到后悔。",
+     "ex_ja": "マネージャーは予算を削るという性急な決定を後悔するようになった。",
+     "parts": [
+      [
+       "re-",
+       "再；强调",
+       "再び・強調"
+      ],
+      [
+       "pent",
+       "后悔",
+       "悔いる"
+      ]
+     ],
+     "note": {
+      "zh": "re- + 拉丁语 paenitere（后悔）→ 悔改；与 poena（刑罚）同源。",
+      "ja": "re- + ラテン語 paenitere（後悔する）→ 悔い改める。poena（刑罰）と同源。"
+     },
+     "forms": [
+      [
+       "repent of",
+       "为……后悔",
+       "〜を悔いる"
+      ],
+      [
+       "repentance (n.)",
+       "悔改",
+       "悔悟"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mfg",
+   "title_zh": "主题：生产标准与效率",
+   "title_ja": "テーマ：生産基準と効率",
+   "words": [
+    {
+     "w": "standardize",
+     "pos": "v.",
+     "ipa": "/ˈstændɚˌdaɪz/",
+     "zh": "使标准化；统一规格",
+     "ja": "標準化する；規格を統一する",
+     "ex": "The company plans to standardize its invoice format worldwide.",
+     "ex_zh": "公司计划在全球统一发票格式。",
+     "ex_ja": "会社は請求書の書式を世界中で標準化する計画だ。",
+     "parts": [
+      [
+       "standard",
+       "标准",
+       "標準"
+      ],
+      [
+       "-ize",
+       "使……化",
+       "〜化する"
+      ]
+     ],
+     "note": {
+      "zh": "standard（标准）+ -ize（使……化）→ 标准化。",
+      "ja": "standard（標準）+ -ize（〜化する）→ 標準化する。"
+     },
+     "forms": [
+      [
+       "standardized test",
+       "标准化考试",
+       "標準化テスト"
+      ],
+      [
+       "standardize A across B",
+       "在B中统一A",
+       "Bの間でAを統一する"
+      ]
+     ]
+    },
+    {
+     "w": "standardization",
+     "pos": "n.",
+     "ipa": "/ˌstændɚdəˈzeɪʃən/",
+     "zh": "标准化",
+     "ja": "標準化；規格統一",
+     "ex": "Standardization of parts reduced repair costs.",
+     "ex_zh": "零件标准化降低了维修成本。",
+     "ex_ja": "部品の標準化が修理費用を下げた。",
+     "parts": [
+      [
+       "standard",
+       "标准",
+       "標準"
+      ],
+      [
+       "-iz-",
+       "使……化",
+       "〜化する"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "standardize 的名词形 → 标准化。",
+      "ja": "standardize の名詞形 → 標準化。"
+     },
+     "forms": [
+      [
+       "standardization of",
+       "……的标准化",
+       "〜の標準化"
+      ],
+      [
+       "industry standardization",
+       "行业标准化",
+       "業界の標準化"
+      ]
+     ]
+    },
+    {
+     "w": "uniformity",
+     "pos": "n.",
+     "ipa": "/ˌjunəˈfɔrməti/",
+     "zh": "一致性；统一",
+     "ja": "均一性；統一",
+     "ex": "Customers value the uniformity of quality across all our stores.",
+     "ex_zh": "顾客看重我们所有门店质量的一致性。",
+     "ex_ja": "顧客は全店舗にわたる品質の均一性を評価している。",
+     "parts": [
+      [
+       "uni-",
+       "一",
+       "ひとつ"
+      ],
+      [
+       "form",
+       "形状",
+       "形"
+      ],
+      [
+       "-ity",
+       "名词后缀",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "uni-（一）+ form（形式）+ -ity → 同一形式 → 一致性。",
+      "ja": "uni-（ひとつ）+ form（形）+ -ity → 均一性。"
+     },
+     "forms": [
+      [
+       "uniform (adj.)",
+       "统一的",
+       "均一な"
+      ],
+      [
+       "lack of uniformity",
+       "缺乏一致性",
+       "統一性の欠如"
+      ]
+     ]
+    },
+    {
+     "w": "reliability",
+     "pos": "n.",
+     "ipa": "/rɪˌlaɪəˈbɪləti/",
+     "zh": "可靠性",
+     "ja": "信頼性",
+     "ex": "The reliability of the new engine has been proven in tests.",
+     "ex_zh": "新发动机的可靠性已经在测试中得到证明。",
+     "ex_ja": "新型エンジンの信頼性はテストで証明されている。",
+     "parts": [
+      [
+       "re-",
+       "再；强调",
+       "再び・強調"
+      ],
+      [
+       "li",
+       "捆；依靠",
+       "縛る・頼る"
+      ],
+      [
+       "-ability",
+       "能……的性质",
+       "〜できること"
+      ]
+     ],
+     "note": {
+      "zh": "来自 rely（依靠，古法语 relier 再捆绑）+ -ability → 可靠性。",
+      "ja": "rely（頼る）+ -ability → 信頼性。"
+     },
+     "forms": [
+      [
+       "reliable (adj.)",
+       "可靠的",
+       "信頼できる"
+      ],
+      [
+       "product reliability",
+       "产品可靠性",
+       "製品の信頼性"
+      ]
+     ]
+    },
+    {
+     "w": "efficiency",
+     "pos": "n.",
+     "ipa": "/ɪˈfɪʃənsi/",
+     "zh": "效率；效能",
+     "ja": "効率",
+     "ex": "The new software improved office efficiency by 20 percent.",
+     "ex_zh": "新软件使办公效率提高了20%。",
+     "ex_ja": "新しいソフトウェアでオフィスの効率が20％向上した。",
+     "parts": [
+      [
+       "ef-",
+       "（ex-）出",
+       "（ex-）外へ"
+      ],
+      [
+       "fic",
+       "做",
+       "作る"
+      ],
+      [
+       "-iency",
+       "名词后缀",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "ef-（ex-，出）+ fic（做）→ 能做出成果 → 效率。",
+      "ja": "ef-（ex-，外へ）+ fic（作る）→ 成果を出す力 → 効率。"
+     },
+     "forms": [
+      [
+       "efficient (adj.)",
+       "高效的",
+       "効率的な"
+      ],
+      [
+       "energy efficiency",
+       "能源效率",
+       "エネルギー効率"
+      ]
+     ]
+    },
+    {
+     "w": "industrial",
+     "pos": "adj.",
+     "ipa": "/ɪnˈdʌstriəl/",
+     "zh": "工业的",
+     "ja": "工業の",
+     "ex": "The industrial park attracted several foreign manufacturers.",
+     "ex_zh": "这个工业园吸引了几家外国制造商。",
+     "ex_ja": "その工業団地は外国のメーカー数社を引きつけた。",
+     "parts": [
+      [
+       "industri",
+       "勤勉；工业",
+       "勤勉・工業"
+      ],
+      [
+       "-al",
+       "形容词后缀",
+       "形容詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "来自拉丁语 industria（勤勉）→ industry（工业）+ -al。",
+      "ja": "ラテン語 industria（勤勉）→ industry（工業）+ -al。"
+     },
+     "forms": [
+      [
+       "industrial park",
+       "工业园区",
+       "工業団地"
+      ],
+      [
+       "industrial output",
+       "工业产出",
+       "工業生産高"
+      ]
+     ]
+    },
+    {
+     "w": "longevity",
+     "pos": "n.",
+     "ipa": "/lɑnˈdʒɛvəti/",
+     "zh": "寿命；耐久性",
+     "ja": "寿命；耐久性",
+     "ex": "The longevity of this brand of battery is impressive.",
+     "ex_zh": "这个品牌电池的耐用性令人印象深刻。",
+     "ex_ja": "このブランドの電池の寿命は目を見張るものがある。",
+     "parts": [
+      [
+       "long",
+       "长",
+       "長い"
+      ],
+      [
+       "ev",
+       "时代；寿命",
+       "時代・寿命"
+      ],
+      [
+       "-ity",
+       "名词后缀",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "long（长）+ aevum（时代）+ -ity → 长寿 → 耐久性。",
+      "ja": "long（長い）+ aevum（時代）+ -ity → 長寿 → 耐久性。"
+     },
+     "forms": [
+      [
+       "product longevity",
+       "产品寿命",
+       "製品寿命"
+      ],
+      [
+       "career longevity",
+       "职业长久",
+       "キャリアの長さ"
+      ]
+     ]
+    },
+    {
+     "w": "prolong",
+     "pos": "v.",
+     "ipa": "/prəˈlɔŋ/",
+     "zh": "延长；拖长",
+     "ja": "延ばす；長引かせる",
+     "ex": "Regular maintenance will prolong the life of the machine.",
+     "ex_zh": "定期维护将延长机器的使用寿命。",
+     "ex_ja": "定期的な整備で機械の寿命が延びる。",
+     "parts": [
+      [
+       "pro-",
+       "向前",
+       "前へ"
+      ],
+      [
+       "long",
+       "长",
+       "長い"
+      ]
+     ],
+     "note": {
+      "zh": "pro-（向前）+ long（长）→ 往前拉长 → 延长。",
+      "ja": "pro-（前へ）+ long（長い）→ 延ばす。"
+     },
+     "forms": [
+      [
+       "prolonged (adj.)",
+       "长期的",
+       "長引く"
+      ],
+      [
+       "prolong the life of",
+       "延长……的寿命",
+       "〜の寿命を延ばす"
+      ]
+     ]
+    },
+    {
+     "w": "lessen",
+     "pos": "v.",
+     "ipa": "/ˈlɛsən/",
+     "zh": "减轻；减少",
+     "ja": "減らす；和らげる",
+     "ex": "Extra staff should lessen the workload during the holidays.",
+     "ex_zh": "增加人手应该能减轻假期期间的工作量。",
+     "ex_ja": "人員を増やせば、休暇中の仕事量を減らせるはずだ。",
+     "parts": [
+      [
+       "less",
+       "较少",
+       "より少ない"
+      ],
+      [
+       "-en",
+       "使……",
+       "〜にする"
+      ]
+     ],
+     "note": {
+      "zh": "less（较少）+ -en（使变成）→ 使变少 → 减轻。",
+      "ja": "less（より少ない）+ -en（〜にする）→ 減らす。"
+     },
+     "forms": [
+      [
+       "lessen the impact",
+       "减轻影响",
+       "影響を和らげる"
+      ],
+      [
+       "lesson (n.)",
+       "课程（拼写相近，易混）",
+       "授業（綴りが似ている）"
+      ]
+     ]
+    },
+    {
+     "w": "lengthen",
+     "pos": "v.",
+     "ipa": "/ˈlɛŋkθən/",
+     "zh": "延长；加长",
+     "ja": "長くする；延ばす",
+     "ex": "The airline decided to lengthen the runway at the main terminal.",
+     "ex_zh": "航空公司决定加长主航站楼的跑道。",
+     "ex_ja": "航空会社は主要ターミナルの滑走路を延長することにした。",
+     "parts": [
+      [
+       "length",
+       "长度",
+       "長さ"
+      ],
+      [
+       "-en",
+       "使……",
+       "〜にする"
+      ]
+     ],
+     "note": {
+      "zh": "length（长度）+ -en → 使变长 → 延长。",
+      "ja": "length（長さ）+ -en → 長くする。"
+     },
+     "forms": [
+      [
+       "lengthy (adj.)",
+       "冗长的",
+       "長ったらしい"
+      ],
+      [
+       "lengthen the deadline",
+       "延长截止日期",
+       "期限を延ばす"
+      ]
+     ]
+    },
+    {
+     "w": "elongate",
+     "pos": "v.",
+     "ipa": "/ɪˈlɔŋˌgeɪt/",
+     "zh": "拉长；延伸",
+     "ja": "引き伸ばす；細長くする",
+     "ex": "The heat can elongate the metal rods slightly.",
+     "ex_zh": "高温会使金属杆略微伸长。",
+     "ex_ja": "熱で金属棒がわずかに伸びることがある。",
+     "parts": [
+      [
+       "e-",
+       "（ex-）出",
+       "（ex-）外へ"
+      ],
+      [
+       "long",
+       "长",
+       "長い"
+      ],
+      [
+       "-ate",
+       "使……",
+       "〜にする"
+      ]
+     ],
+     "note": {
+      "zh": "e-（ex-，向外）+ long（长）+ -ate → 拉长。",
+      "ja": "e-（ex-，外へ）+ long（長い）+ -ate → 引き伸ばす。"
+     },
+     "forms": [
+      [
+       "elongated (adj.)",
+       "细长的",
+       "細長い"
+      ],
+      [
+       "elongation (n.)",
+       "延伸",
+       "伸び"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "prop",
+   "title_zh": "主题：房产与所有权",
+   "title_ja": "テーマ：不動産と所有権",
+   "words": [
+    {
+     "w": "property",
+     "pos": "n.",
+     "ipa": "/ˈprɑpɚti/",
+     "zh": "财产；房地产；属性",
+     "ja": "財産；不動産；特性",
+     "ex": "The company owns several properties near the airport.",
+     "ex_zh": "公司在机场附近拥有数处房产。",
+     "ex_ja": "その会社は空港近くに複数の不動産を所有している。",
+     "parts": [
+      [
+       "proper",
+       "自己的；适当的",
+       "自分の・適切な"
+      ],
+      [
+       "-ty",
+       "名词后缀",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "来自拉丁语 proprius（自己的）→ 属于自己的东西 → 财产。",
+      "ja": "ラテン語 proprius（自分の）→ 自分のもの → 財産。"
+     },
+     "forms": [
+      [
+       "real property",
+       "不动产",
+       "不動産"
+      ],
+      [
+       "intellectual property",
+       "知识产权",
+       "知的財産"
+      ]
+     ]
+    },
+    {
+     "w": "deed",
+     "pos": "n.",
+     "ipa": "/did/",
+     "zh": "契据；行为",
+     "ja": "証書；行為",
+     "ex": "The deed to the building was signed on Monday.",
+     "ex_zh": "这栋楼的契据于周一签署。",
+     "ex_ja": "そのビルの権利証書は月曜日に署名された。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：来自古英语 dæd（行为），法律上指已签署的“契约书”。",
+      "ja": "信頼できる語根分解はありません：古英語 dæd（行為）から。法律では署名済みの「証書」。"
+     },
+     "forms": [
+      [
+       "title deed",
+       "产权证书",
+       "権利証書"
+      ],
+      [
+       "sign the deed",
+       "签署契据",
+       "証書に署名する"
+      ]
+     ]
+    },
+    {
+     "w": "title",
+     "pos": "n.",
+     "ipa": "/ˈtaɪtəl/",
+     "zh": "产权；所有权；标题",
+     "ja": "所有権；権利；題名",
+     "ex": "The buyer received clear title to the land.",
+     "ex_zh": "买方获得了该土地的明确产权。",
+     "ex_ja": "買い手はその土地の明確な所有権を得た。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：来自拉丁语 titulus（标签、标题）。",
+      "ja": "信頼できる語根分解はありません：ラテン語 titulus（札・見出し）から。"
+     },
+     "forms": [
+      [
+       "title insurance",
+       "产权保险",
+       "権原保険"
+      ],
+      [
+       "clear title",
+       "无瑕疵产权",
+       "瑕疵のない権利"
+      ]
+     ],
+     "tip": {
+      "zh": "title 在房产语境下指“所有权”，不是“标题”。",
+      "ja": "不動産の文脈では「所有権」で、「題名」ではない。"
+     }
+    },
+    {
+     "w": "ownership",
+     "pos": "n.",
+     "ipa": "/ˈoʊnɚˌʃɪp/",
+     "zh": "所有权；所有",
+     "ja": "所有権；所有",
+     "ex": "Ownership of the building will pass to the bank next month.",
+     "ex_zh": "这栋楼的所有权将在下个月转给银行。",
+     "ex_ja": "そのビルの所有権は来月、銀行に移る。",
+     "parts": [
+      [
+       "own",
+       "拥有",
+       "所有する"
+      ],
+      [
+       "-er",
+       "……的人",
+       "〜する人"
+      ],
+      [
+       "-ship",
+       "身份；状态",
+       "状態"
+      ]
+     ],
+     "note": {
+      "zh": "own + -er + -ship → 拥有者的身份 → 所有权。",
+      "ja": "own + -er + -ship → 所有権。"
+     },
+     "forms": [
+      [
+       "transfer of ownership",
+       "所有权转让",
+       "所有権の移転"
+      ],
+      [
+       "home ownership",
+       "拥有住房",
+       "持ち家"
+      ]
+     ]
+    },
+    {
+     "w": "owner",
+     "pos": "n.",
+     "ipa": "/ˈoʊnɚ/",
+     "zh": "所有人；业主",
+     "ja": "持ち主；所有者",
+     "ex": "The owner of the restaurant is planning a second location.",
+     "ex_zh": "餐厅的老板正计划开第二家分店。",
+     "ex_ja": "そのレストランのオーナーは2号店を計画している。",
+     "parts": [
+      [
+       "own",
+       "拥有",
+       "所有する"
+      ],
+      [
+       "-er",
+       "……的人",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "own（拥有）+ -er → 所有者。",
+      "ja": "own（所有する）+ -er → 持ち主。"
+     },
+     "forms": [
+      [
+       "business owner",
+       "企业主",
+       "事業主"
+      ],
+      [
+       "homeowner (n.)",
+       "房主",
+       "持ち家の所有者"
+      ]
+     ]
+    },
+    {
+     "w": "proprietor",
+     "pos": "n.",
+     "ipa": "/prəˈpraɪətɚ/",
+     "zh": "所有人；业主",
+     "ja": "経営者；所有者",
+     "ex": "The proprietor of the hotel greeted every guest personally.",
+     "ex_zh": "酒店的店主亲自迎接每一位客人。",
+     "ex_ja": "ホテルの経営者は一人ひとりの客を自ら出迎えた。",
+     "parts": [
+      [
+       "propri",
+       "自己的",
+       "自分の"
+      ],
+      [
+       "-etor",
+       "……者",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "来自拉丁语 proprius（自己的）→ 拥有者、店主。",
+      "ja": "ラテン語 proprius（自分の）→ 所有者・店主。"
+     },
+     "forms": [
+      [
+       "sole proprietor",
+       "个人独资经营者",
+       "個人事業主"
+      ],
+      [
+       "proprietary (adj.)",
+       "专有的",
+       "専有の"
+      ]
+     ]
+    },
+    {
+     "w": "occupy",
+     "pos": "v.",
+     "ipa": "/ˈɑkjəˌpaɪ/",
+     "zh": "占用；占据",
+     "ja": "占有する；使用する",
+     "ex": "The tenant will occupy the third floor starting in March.",
+     "ex_zh": "租户将从三月起使用三楼。",
+     "ex_ja": "テナントは3月から3階を使用する。",
+     "parts": [
+      [
+       "oc-",
+       "（ob-）朝向",
+       "（ob-）〜へ"
+      ],
+      [
+       "cup",
+       "抓；拿",
+       "つかむ"
+      ]
+     ],
+     "note": {
+      "zh": "oc-（ob-，朝向）+ cup（抓，capere）→ 抓住 → 占据。",
+      "ja": "oc-（ob-，〜へ）+ cup（つかむ，capere）→ 占める。"
+     },
+     "forms": [
+      [
+       "occupancy (n.)",
+       "入住率；占用",
+       "入居；占有"
+      ],
+      [
+       "be occupied with",
+       "忙于",
+       "〜で忙しい"
+      ]
+     ]
+    },
+    {
+     "w": "rezone",
+     "pos": "v.",
+     "ipa": "/riˈzoʊn/",
+     "zh": "重新划分用途区",
+     "ja": "用途地域を変更する",
+     "ex": "The city voted to rezone the old warehouse district.",
+     "ex_zh": "市里投票决定重新规划旧仓库区的用途。",
+     "ex_ja": "市は旧倉庫地区の用途地域を変更することを決議した。",
+     "parts": [
+      [
+       "re-",
+       "再",
+       "再び"
+      ],
+      [
+       "zone",
+       "区域",
+       "地域"
+      ]
+     ],
+     "note": {
+      "zh": "re-（再）+ zone（区域）→ 重新划分区域。",
+      "ja": "re-（再び）+ zone（地域）→ 用途地域を変更する。"
+     },
+     "forms": [
+      [
+       "rezoning (n.)",
+       "区划变更",
+       "用途地域の変更"
+      ],
+      [
+       "rezone for",
+       "为……重新划分",
+       "〜用に用途変更する"
+      ]
+     ]
+    },
+    {
+     "w": "unfurnished",
+     "pos": "adj.",
+     "ipa": "/ʌnˈfɝnɪʃt/",
+     "zh": "不带家具的",
+     "ja": "家具なしの",
+     "ex": "They rented an unfurnished office on the fifth floor.",
+     "ex_zh": "他们租了五楼一间不带家具的办公室。",
+     "ex_ja": "彼らは5階の家具なしのオフィスを借りた。",
+     "parts": [
+      [
+       "un-",
+       "不；没有",
+       "〜ない"
+      ],
+      [
+       "furnish",
+       "配备家具",
+       "備え付ける"
+      ],
+      [
+       "-ed",
+       "形容词后缀",
+       "形容詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "un-（没有）+ furnish（配置）+ -ed → 不带家具的。",
+      "ja": "un-（ない）+ furnish（備える）+ -ed → 家具なしの。"
+     },
+     "forms": [
+      [
+       "furnished apartment",
+       "带家具的公寓",
+       "家具付きアパート"
+      ],
+      [
+       "furnish A with B",
+       "为A配备B",
+       "AにBを備える"
+      ]
+     ]
+    },
+    {
+     "w": "subtenant",
+     "pos": "n.",
+     "ipa": "/sʌbˈtɛnənt/",
+     "zh": "转租户",
+     "ja": "転借人",
+     "ex": "The subtenant pays rent directly to the main tenant.",
+     "ex_zh": "转租户直接向主租户支付租金。",
+     "ex_ja": "転借人は元のテナントに直接賃料を支払う。",
+     "parts": [
+      [
+       "sub-",
+       "下",
+       "下の"
+      ],
+      [
+       "ten",
+       "持有",
+       "持つ"
+      ],
+      [
+       "-ant",
+       "……的人",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "sub-（下）+ tenant（承租人）→ 二手租户。",
+      "ja": "sub-（下）+ tenant（借り手）→ 転借人。"
+     },
+     "forms": [
+      [
+       "sublet (v.)",
+       "转租",
+       "又貸しする"
+      ],
+      [
+       "tenant (n.)",
+       "租户",
+       "借り手"
+      ]
+     ]
+    },
+    {
+     "w": "freehold",
+     "pos": "n.",
+     "ipa": "/ˈfriˌhoʊld/",
+     "zh": "永久产权",
+     "ja": "自由保有権",
+     "ex": "The investor bought the freehold of the office tower.",
+     "ex_zh": "投资者购买了这栋办公大楼的永久产权。",
+     "ex_ja": "投資家はそのオフィスタワーの自由保有権を購入した。",
+     "parts": [
+      [
+       "free",
+       "自由",
+       "自由な"
+      ],
+      [
+       "hold",
+       "持有",
+       "保有する"
+      ]
+     ],
+     "note": {
+      "zh": "free（自由）+ hold（持有）→ 不受租期限制的所有权。",
+      "ja": "free（自由な）+ hold（保有）→ 期限のない所有権。"
+     },
+     "forms": [
+      [
+       "leasehold (n.)",
+       "租赁产权",
+       "賃借権"
+      ],
+      [
+       "freehold property",
+       "永久产权房产",
+       "自由保有不動産"
+      ]
+     ]
+    },
+    {
+     "w": "landlady",
+     "pos": "n.",
+     "ipa": "/ˈlændˌleɪdi/",
+     "zh": "女房东",
+     "ja": "女性の家主",
+     "ex": "The landlady agreed to repaint the apartment before we moved in.",
+     "ex_zh": "女房东同意在我们搬入前重新粉刷公寓。",
+     "ex_ja": "大家さんは私たちが入居する前にアパートを塗り直すことに同意した。",
+     "parts": [
+      [
+       "land",
+       "土地",
+       "土地"
+      ],
+      [
+       "lady",
+       "女士",
+       "女性"
+      ]
+     ],
+     "note": {
+      "zh": "land（土地）+ lady（女士）→ 女房东。",
+      "ja": "land（土地）+ lady（女性）→ 女性の家主。"
+     },
+     "forms": [
+      [
+       "landlord (n.)",
+       "房东",
+       "家主"
+      ],
+      [
+       "landlady and tenant",
+       "房东与租户",
+       "家主と借り手"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

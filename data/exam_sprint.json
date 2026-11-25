@@ -8207,6 +8207,344 @@
      "src": "site+ep11"
     }
    ]
+  },
+  "54": {
+   "date": "2026-11-26",
+   "focus_zh": "考后轻复习：Part 5 复习 8 题 + Part 7 两篇（Test 1）",
+   "focus_ja": "試験後の軽い復習：Part 5 復習8問＋Part 7 の2題（Test 1）",
+   "grammar": [
+    {
+     "id": "T1-Q130",
+     "label": "Test 1 · Q130",
+     "test": 1,
+     "no": 130,
+     "part": 5,
+     "q": "All bank transfers are ------- to review and could be delayed if an issue is identified.",
+     "options": [
+      "required",
+      "imaginary",
+      "conscious",
+      "subject"
+     ],
+     "answer": "D",
+     "topic_zh": "词汇",
+     "topic_ja": "語彙",
+     "tip_zh": "be subject to …“须经过……、受……制约”",
+     "tip_ja": "be subject to …「…の対象になる、…を受ける」",
+     "src": "ep56",
+     "exp_zh": "be subject to + 名词“受制于、需经过…”，所有银行转账都需经过审查，D正确。be required to 后接动词原形，review 在这里作名词不合；imaginary“虚构的”、conscious“意识到的”(搭配 of)不合语义。",
+     "exp_ja": "be subject to + 名詞「～の対象となる、～を受けなければならない」で、すべての銀行振込は審査の対象となる。Dが正解。be required to の後は動詞の原形が来るが、ここの review は名詞なので合わない。imaginary「架空の」、conscious「意識している」（of と結びつく）は意味が合わない。",
+     "vocab_zh": "bank transfer 银行转账；be subject to 须经…；identify 发现",
+     "vocab_ja": "bank transfer 銀行振込；be subject to ～の対象となる；identify 特定する"
+    },
+    {
+     "id": "T2-Q120",
+     "label": "Test 2 · Q120",
+     "test": 2,
+     "no": 120,
+     "part": 5,
+     "q": "Ana's Bread Company had been the only bakery in Springfield until a new ------- opened on Third Street last month.",
+     "options": [
+      "itself",
+      "whose",
+      "one",
+      "another"
+     ],
+     "answer": "C",
+     "topic_zh": "关系词 · 代词",
+     "topic_ja": "関係詞 · 代名詞",
+     "tip_zh": "a new + ___ 代替前面的 bakery → one（whose 是关系代词）",
+     "tip_ja": "a new + ___ で前の bakery の代わり → one（whose は関係代名詞）",
+     "src": "ep54",
+     "exp_zh": "Test 2 第120题，和上一题同一个考点，而且选项里有关系代词 whose。Ana's Bread Company had been the only bakery in Springfield until a new ------- opened on Third Street last month。a new 后面需要一个名词，代替前面的 bakery，a new one 就是 a new bakery，选C one。A itself 是反身代词，不能放在 a new 后面；B whose 是关系代词，表示“……的”，后面要接名词，比如 a bakery whose bread is popular，放在 a new 后面不成立；D another 本身就含有“另一个”的意思，不能和 a 连用。整句意思是：在上个月第三街开了一家新面包店之前，安娜面包公司一直是斯普林菲尔德唯一的面包店。注意前半句用了过去完成时 had been，表示到上个月为止一直如此。",
+     "exp_ja": "Test 2 第120問は前の問題と同じポイントで、しかも選択肢に関係代名詞の whose があります。Ana's Bread Company had been the only bakery in Springfield until a new ------- opened on Third Street last month。a new の後ろには前の bakery の代わりになる名詞が必要です。a new one は a new bakery のことなので、正解はC one です。A itself は再帰代名詞で、a new の後ろには置けません。B whose は関係代名詞で「その…が」という意味を表し、a bakery whose bread is popular のように後ろに名詞が必要なので、a new の後ろでは成り立ちません。D another はそれ自体に「もう1つの」という意味を含むので、a と一緒には使えません。文全体の意味は「先月サード・ストリートに新しいパン屋が開店するまで、アナズ・ブレッド・カンパニーはスプリングフィールドで唯一のパン屋だった」です。前半では過去完了の had been が使われ、先月までずっとそうだったことを表しています。"
+    },
+    {
+     "id": "T2-Q121",
+     "label": "Test 2 · Q121",
+     "test": 2,
+     "no": 121,
+     "part": 5,
+     "q": "When books are packed too ------- in a box, the strong pressure can deform their bindings.",
+     "options": [
+      "keenly",
+      "closely",
+      "patiently",
+      "greatly"
+     ],
+     "answer": "B",
+     "topic_zh": "词汇",
+     "topic_ja": "語彙",
+     "tip_zh": "packed too closely“装得太紧”",
+     "tip_ja": "packed too closely「詰めすぎる」",
+     "src": "ep56",
+     "exp_zh": "Test 2 第121题。When books are packed too ------- in a box, the strong pressure can deform their bindings。书在箱子里装得太什么，强大的压力会让书脊变形？装得太“紧密”，选B closely，packed too closely 是“挤得太紧”。A keenly“敏锐地、强烈地”、C patiently“耐心地”、D greatly“大大地”都不符合。整句意思是：当书在箱子里装得太紧时，强大的压力会让书脊变形。deform 是“使变形”，binding 是书的“装订、书脊”。",
+     "exp_ja": "Test 2 第121問。When books are packed too ------- in a box, the strong pressure can deform their bindings。本を箱にどのように詰めすぎると、強い圧力で製本がゆがむのか。「ぎっしりと」なので、正解はB closely です。packed too closely は「詰めすぎる」です。A keenly「鋭く、熱心に」、C patiently「辛抱強く」、D greatly「大いに」は合いません。文全体の意味は「本を箱に詰めすぎると、強い圧力で製本がゆがむことがある」です。deform は「変形させる」、binding は本の「製本、とじ」です。"
+    },
+    {
+     "id": "T2-Q123",
+     "label": "Test 2 · Q123",
+     "test": 2,
+     "no": 123,
+     "part": 5,
+     "q": "To be competitive in the hospitality industry, many hotels offer guests a ------- breakfast.",
+     "options": [
+      "steady",
+      "satisfied",
+      "hearty",
+      "positive"
+     ],
+     "answer": "C",
+     "topic_zh": "词汇",
+     "topic_ja": "語彙",
+     "tip_zh": "hearty breakfast“丰盛的早餐”",
+     "tip_ja": "hearty breakfast「しっかりした朝食」",
+     "src": "ep55",
+     "exp_zh": "Test 2 第123题。To be competitive in the hospitality industry, many hotels offer guests a ------- breakfast。为了在酒店业保持竞争力，很多酒店给客人提供什么样的早餐？hearty breakfast 是固定搭配，意思是“丰盛的早餐”，选C hearty。A steady“稳定的”不修饰早餐；B satisfied“感到满意的”是形容人的，可以说 satisfied guests，但不能说 satisfied breakfast；D positive“积极的”也不搭。整句意思是：为了在酒店业保持竞争力，很多酒店为客人提供丰盛的早餐。hospitality industry 是“酒店餐饮业、服务业”，competitive 是“有竞争力的”。",
+     "exp_ja": "Test 2 第123問。To be competitive in the hospitality industry, many hotels offer guests a ------- breakfast。ホテル業界で競争力を保つために、多くのホテルは客にどんな朝食を出すのか。hearty breakfast は決まりの組み合わせで、「しっかりした、ボリュームのある朝食」という意味なので、正解はC hearty です。A steady「安定した」は朝食を修飾しません。B satisfied「満足した」は人を表す語で、satisfied guests とは言えますが、satisfied breakfast とは言えません。D positive「前向きな」も合いません。文全体の意味は「ホスピタリティ業界で競争力を保つために、多くのホテルが客にボリュームのある朝食を提供している」です。hospitality industry は「ホテル・飲食などの接客業」、competitive は「競争力のある」です。"
+    },
+    {
+     "id": "T2-Q125",
+     "label": "Test 2 · Q125",
+     "test": 2,
+     "no": 125,
+     "part": 5,
+     "q": "------- the sensitive information they contain, completed forms should not be sent by e-mail.",
+     "options": [
+      "On account of",
+      "Such as",
+      "Rather than",
+      "As though"
+     ],
+     "answer": "A",
+     "topic_zh": "介词 vs 连词",
+     "topic_ja": "前置詞 vs 接続詞",
+     "tip_zh": "后面是名词短语 the sensitive information → 表原因的介词短语 On account of = because of",
+     "tip_ja": "後ろが名詞句 the sensitive information → 理由を表す前置詞句 On account of = because of",
+     "src": "ep53",
+     "exp_zh": "Test 2 第125题，介词也可以是好几个词组成的短语。空格后面是 the sensitive information they contain，“它们包含的敏感信息”，they contain 是修饰 information 的定语从句，核心还是名词 information；逗号后面是主句 completed forms should not be sent by e-mail，“填好的表格不应通过电子邮件发送”。前面是名词，用介词短语，意思是原因：因为有敏感信息，所以不能发邮件，选A On account of，等于 because of 和 due to。B Such as“例如”用来举例；C Rather than“而不是”表示取舍；D As though“好像”是连词，要接句子。sensitive 在这里是“敏感的、机密的”。",
+     "exp_ja": "Test 2 第125問。前置詞は何語かでできた句のこともあります。空所の後ろは the sensitive information they contain「それらに含まれる機密情報」で、they contain は information を修飾する関係詞節なので、中心は名詞の information です。コンマの後ろは主節の completed forms should not be sent by e-mail「記入済みの書類はメールで送るべきではない」です。前半が名詞なので前置詞句を使い、意味は理由です。機密情報があるのでメールで送れない、ということで、正解はA On account of です。because of や due to と同じ意味です。B Such as「たとえば」は例を挙げるとき、C Rather than「…ではなく」は選択を表し、D As though「まるで…のように」は接続詞で文が必要です。sensitive はここでは「機密の、扱いに注意が必要な」です。"
+    },
+    {
+     "id": "T2-Q127",
+     "label": "Test 2 · Q127",
+     "test": 2,
+     "no": 127,
+     "part": 5,
+     "q": "Although Ms. Choi's employment was only temporary, her contributions to our company have had a ------- effect.",
+     "options": [
+      "lasting",
+      "presenting",
+      "falling",
+      "covering"
+     ],
+     "answer": "A",
+     "topic_zh": "词汇",
+     "topic_ja": "語彙",
+     "tip_zh": "lasting effect“持久的影响”",
+     "tip_ja": "lasting effect「持続的な影響」",
+     "src": "ep55",
+     "exp_zh": "Test 2 第127题。Although Ms. Choi's employment was only temporary, her contributions to our company have had a ------- effect。Although 表示转折：虽然崔女士只是临时雇员，但她对公司的贡献产生了什么样的影响？和“临时”相反的是“持久的”，lasting effect 是固定搭配，选A lasting。B presenting“呈现的”、C falling“下降的”、D covering“覆盖的”都不合逻辑。整句意思是：虽然崔女士只是临时雇员，但她对公司的贡献产生了持久的影响。temporary 是“临时的”，contribution 是“贡献”，employment 是“雇用、职位”。",
+     "exp_ja": "Test 2 第127問。Although Ms. Choi's employment was only temporary, her contributions to our company have had a ------- effect。Although は逆接です。チェ氏の雇用は一時的だったが、会社への貢献はどんな影響を残したのか。「一時的」の反対は「持続する」なので、lasting effect という決まりの組み合わせを使い、正解はA lasting です。B presenting「提示する」、C falling「下がる」、D covering「覆う」はどれも論理に合いません。文全体の意味は「チェ氏の雇用は一時的だったが、当社への彼女の貢献は持続的な影響を残した」です。temporary は「一時的な」、contribution は「貢献」、employment は「雇用、職」です。"
+    },
+    {
+     "id": "T2-Q128",
+     "label": "Test 2 · Q128",
+     "test": 2,
+     "no": 128,
+     "part": 5,
+     "q": "The interns were given the option of stopping their work at 2:00 P.M. on Fridays, but ------- have chosen to do so.",
+     "options": [
+      "few",
+      "nobody",
+      "such",
+      "anyone"
+     ],
+     "answer": "A",
+     "topic_zh": "关系词 · 代词",
+     "topic_ja": "関係詞 · 代名詞",
+     "tip_zh": "不定代词 few 作主语 + 复数动词 have",
+     "tip_ja": "不定代名詞 few が主語 + 複数の動詞 have",
+     "src": "ep54",
+     "exp_zh": "Test 2 第128题。The interns were given the option of stopping their work at 2:00 P.M. on Fridays, but ------- have chosen to do so。空格是 have chosen 的主语。but 表示转折：实习生可以选择每周五下午两点下班，“但是很少有人这么选”。few 作代词表示“很少的人”，接复数动词 have，选A。B nobody 是单数，要用 has；C such 不能这样单独作主语；D anyone 放在肯定句里作主语意思不通，而且也要用 has。do so 代替前面的 stop their work at 2:00 P.M.，“这样做”。intern 是“实习生”，option 是“选择、选项”。",
+     "exp_ja": "Test 2 第128問。The interns were given the option of stopping their work at 2:00 P.M. on Fridays, but ------- have chosen to do so。空所は have chosen の主語です。but は逆接で、「インターンは毎週金曜の午後2時に仕事を終える選択肢を与えられたが、そうした人はほとんどいない」となります。few は代名詞で「ほとんどいない人」を表し、複数の動詞 have をとるので、正解はAです。B nobody は単数なので has が必要です。C such はこのように単独で主語になれません。D anyone を肯定文の主語にすると意味が通らず、やはり has が必要です。do so は前の stop their work at 2:00 P.M. の代わりで「そうする」という意味です。intern は「実習生、インターン」、option は「選択肢」です。"
+    },
+    {
+     "id": "T2-Q129",
+     "label": "Test 2 · Q129",
+     "test": 2,
+     "no": 129,
+     "part": 5,
+     "q": "Every quarter, Hanini Fashions ------- the employee who has made the most sales calls.",
+     "options": [
+      "reminds",
+      "offers",
+      "honors",
+      "admits"
+     ],
+     "answer": "C",
+     "topic_zh": "词汇",
+     "topic_ja": "語彙",
+     "tip_zh": "honor …“表彰、向……致敬”",
+     "tip_ja": "honor …「…を表彰する、たたえる」",
+     "src": "ep55",
+     "exp_zh": "Test 2 第129题。Every quarter, Hanini Fashions ------- the employee who has made the most sales calls。每个季度，Hanini 时装公司对打了最多销售电话的员工做什么？当然是“表彰”，选C honors。A reminds“提醒”，后面通常要接 of 或 to do，不能直接接 the employee 表示表彰；B offers“提供”，后面要接给的东西，offers the employee 少了宾语；D admits“承认、准许进入”意思不对。整句意思是：每个季度，Hanini 时装公司都会表彰打出最多销售电话的员工。quarter 是“季度”，sales call 是“销售电话、推销拜访”，fashion 是“时装”。",
+     "exp_ja": "Test 2 第129問。Every quarter, Hanini Fashions ------- the employee who has made the most sales calls。毎四半期、Hanini ファッション社は最も多くの営業電話をした従業員に何をするのか。もちろん「表彰する」なので、正解はC honors です。A reminds「思い出させる」は後ろに of や to do が続くことが多く、the employee を直接とって表彰の意味にはなりません。B offers「提供する」は与える物が必要で、offers the employee だけでは足りません。D admits「認める、入場を許可する」は意味が合いません。文全体の意味は「Hanini ファッション社は毎四半期、最も多くの営業電話をした従業員を表彰する」です。quarter は「四半期」、sales call は「営業電話、売り込み」、fashion は「ファッション」です。"
+    }
+   ],
+   "reading": [
+    {
+     "id": "T1-Q147-148",
+     "label": "Test 1 · Q147–148",
+     "test": 1,
+     "part": 7,
+     "intro": "Questions 147-148 refer to the following e-mail.",
+     "docs": [
+      [
+       {
+        "t": "meta",
+        "rows": [
+         [
+          "To",
+          "Ticket Holders"
+         ],
+         [
+          "From",
+          "Magenta Theater"
+         ],
+         [
+          "Date",
+          "November 12"
+         ],
+         [
+          "Subject",
+          "Chloe Chang concert"
+         ]
+        ]
+       },
+       {
+        "t": "p",
+        "x": "Dear Ticket Holder:"
+       },
+       {
+        "t": "p",
+        "x": "We regret to inform you that tomorrow's 8:00 P.M. performance by Chloe Chang has been postponed because the singer is ill. We apologize for any disappointment or inconvenience this situation causes. We ask that you please retain your tickets while we work to reschedule the performance. No other action is needed on your part at the moment. Details about the rescheduled performance date will be e-mailed to you as soon as they are available."
+       },
+       {
+        "t": "p",
+        "x": "For any questions, contact the Magenta Theater box office at 555-0112. Again, we sincerely apologize for the inconvenience."
+       },
+       {
+        "t": "sign",
+        "x": "Kind regards,\n\nMagenta Theater Staff"
+       }
+      ]
+     ],
+     "questions": [
+      {
+       "no": 147,
+       "label": "Test 1 · Q147",
+       "q": "What is the purpose of the e-mail?",
+       "options": [
+        "To explain a new procedure for purchasing tickets",
+        "To announce a change to a performance",
+        "To offer patrons discounted tickets for a performance",
+        "To promote an upcoming concert tour"
+       ],
+       "answer": "B",
+       "exp_zh": "邮件开头说明明天的演出因歌手生病而延期（has been postponed），即通知演出变更，B正确。没有提到购票新流程(A)、折扣票(C)或巡演宣传(D)。",
+       "exp_ja": "メールの冒頭で、明日の公演が歌手の病気のため延期された（has been postponed）と伝えており、公演の変更を知らせるものなので、Bが正解。チケット購入の新しい手順（A）、割引チケット（C）、ツアーの宣伝（D）には触れていない。"
+      },
+      {
+       "no": 148,
+       "label": "Test 1 · Q148",
+       "q": "What are ticket holders advised to do?",
+       "options": [
+        "Save their tickets",
+        "Send an e-mail to Ms. Chang",
+        "Call the box office immediately",
+        "Arrive at the theater by 8:00 P.M."
+       ],
+       "answer": "A",
+       "exp_zh": "We ask that you please retain your tickets（请保留门票），retain 换说为 save，A正确。邮件会发给持票人而非让其给 Chang 发邮件(B)；有问题才联系售票处，并非“立即”打电话(C)；演出已延期，无需8点到场(D)。",
+       "exp_ja": "We ask that you please retain your tickets（チケットを保管しておいてください）とあり、retain を save と言い換えたAが正解。メールはチケット所有者に送られるもので Chang にメールするわけではない（B）。問題がある場合にチケット売り場に連絡するのであり、「すぐに」電話するのではない（C）。公演は延期されたので8時に来場する必要はない（D）。"
+      }
+     ],
+     "src": "site+ep10"
+    },
+    {
+     "id": "T1-Q153-154",
+     "label": "Test 1 · Q153–154",
+     "test": 1,
+     "part": 7,
+     "intro": "Questions 153-154 refer to the following text-message chain.",
+     "docs": [
+      [
+       {
+        "t": "msg",
+        "who": "Luis Olivera",
+        "time": "8:10 A.M.",
+        "x": "I am confirming our 2:00 P.M. meeting today to discuss which engineers we want to hire for the Harland City water pipeline project. We interviewed five engineers, and we have two positions to fill."
+       },
+       {
+        "t": "msg",
+        "who": "Suzanne Arnold",
+        "time": "8:12 A.M.",
+        "x": "Yes, I'll be there. I have another meeting scheduled until 2:00 P.M., so I might be a few minutes late. Why don't I text you when I am on my way?"
+       },
+       {
+        "t": "msg",
+        "who": "Luis Olivera",
+        "time": "8:15 A.M.",
+        "x": "That makes sense. I also want to show you the design plans. Will Samantha Martinez from human resources be joining us for the meeting?"
+       },
+       {
+        "t": "msg",
+        "who": "Suzanne Arnold",
+        "time": "8:17 A.M.",
+        "x": "She's away at a conference this week, but she e-mailed the hiring guidelines to me. She wants our final determination by Monday."
+       },
+       {
+        "t": "msg",
+        "who": "Luis Olivera",
+        "time": "8:20 A.M.",
+        "x": "OK. See you this afternoon."
+       }
+      ]
+     ],
+     "questions": [
+      {
+       "no": 153,
+       "label": "Test 1 · Q153",
+       "q": "At 8:15 A.M., what does Mr. Olivera most likely mean when he writes, \"That makes sense\"?",
+       "options": [
+        "He is in favor of the pipeline design plans.",
+        "He agrees with Ms. Arnold's offer to send a notification.",
+        "He would prefer to meet Ms. Arnold on another day.",
+        "He understands that more engineers will probably be needed."
+       ],
+       "answer": "B",
+       "exp_zh": "Arnold 说可能迟到，提出“出发时给你发短信”(Why don't I text you...)，Olivera 回答 That makes sense，表示同意她发通知的提议，B正确。设计图是之后才提到的(A)；他仍约下午见(C)；人数是两个职位，没有说需要更多工程师(D)。",
+       "exp_ja": "Arnold が遅れるかもしれないと言い、「出発するときにメッセージを送ろうか」（Why don't I text you...）と提案し、Olivera が That makes sense と答えている。連絡するという提案への同意なので、Bが正解。設計図の話は後で出てくる（A）。彼は午後に会う約束を変えていない（C）。人数は2つのポジションの話で、もっと技術者が必要だとは言っていない（D）。"
+      },
+      {
+       "no": 154,
+       "label": "Test 1 · Q154",
+       "q": "What do Ms. Arnold and Mr. Olivera need to do by Monday?",
+       "options": [
+        "Interview some job candidates",
+        "Prepare a conference presentation",
+        "Decide who will be hired",
+        "Edit the guidelines Ms. Martinez sent"
+       ],
+       "answer": "C",
+       "exp_zh": "Martinez 希望周一前得到“最终决定”(final determination)，即决定雇用哪两位工程师，C正确。面试已经完成(A)；会议是 Martinez 去参加的(B)；指南只是发给了 Arnold，无需修改(D)。",
+       "exp_ja": "Martinez は月曜までに「最終決定」（final determination）、つまりどの2人の技術者を採用するかの決定を求めているので、Cが正解。面接はすでに終わっている（A）。会議に出るのは Martinez 本人（B）。ガイドラインは Arnold に送られただけで修正の必要はない（D）。"
+      }
+     ],
+     "src": "site+ep11"
+    }
+   ]
   }
  },
  "warmup": {
