@@ -8545,6 +8545,417 @@
      "src": "site+ep11"
     }
    ]
+  },
+  "55": {
+   "date": "2026-11-27",
+   "focus_zh": "考后轻复习：Part 5 复习 8 题 + Part 7 两篇（Test 3）",
+   "focus_ja": "試験後の軽い復習：Part 5 復習8問＋Part 7 の2題（Test 3）",
+   "grammar": [
+    {
+     "id": "T2-Q130",
+     "label": "Test 2 · Q130",
+     "test": 2,
+     "no": 130,
+     "part": 5,
+     "q": "------- snowy weather, city bus services may be delayed or canceled.",
+     "options": [
+      "As much as",
+      "In the event of",
+      "In order that",
+      "Even though"
+     ],
+     "answer": "B",
+     "topic_zh": "介词 vs 连词",
+     "topic_ja": "前置詞 vs 接続詞",
+     "tip_zh": "后面只有名词短语 snowy weather → 介词短语 In the event of（万一）",
+     "tip_ja": "後ろは名詞句 snowy weather だけ → 前置詞句 In the event of（万一…の場合）",
+     "src": "ep53",
+     "exp_zh": "Test 2 第130题。空格后面只有 snowy weather，“下雪天气”，是名词短语，没有动词；逗号后面是主句 city bus services may be delayed or canceled，“市内公交可能会延误或取消”。名词前面用介词短语，C In order that“为了”和D Even though“即使”都是连词，要接完整句子，先排除。A As much as 是“和……一样多、尽管”，意思不对。B In the event of 是“万一发生……、如果遇到……”，“万一下雪，公交可能延误或取消”，选B。In the event of 在通知和规章里很常见，和它意思相近的还有 in case of。canceled 是“被取消”，英式拼写是两个 l，cancelled。",
+     "exp_ja": "Test 2 第130問。空所の後ろは snowy weather「雪の天気」だけで、名詞句であり動詞がありません。コンマの後ろは主節の city bus services may be delayed or canceled「市バスは遅れたり運休したりすることがある」です。名詞の前には前置詞句を使うので、接続詞の C In order that「…するために」と D Even though「たとえ…でも」は文が必要なのでまず消去します。A As much as は「…と同じくらい、…ではあるが」で意味が合いません。B In the event of は「万一…の場合には」で、「雪の場合、バスが遅れたり運休したりすることがある」となるので、正解はBです。In the event of はお知らせや規則でよく見かけ、似た意味の表現に in case of もあります。canceled は「中止される」で、イギリス式のつづりは l が2つの cancelled です。"
+    },
+    {
+     "id": "T3-Q101",
+     "label": "Test 3 · Q101",
+     "test": 3,
+     "no": 101,
+     "part": 5,
+     "q": "Harbison and Company will be marking its 25-year anniversary ------- May 14.",
+     "options": [
+      "in",
+      "at",
+      "on",
+      "to"
+     ],
+     "answer": "C",
+     "topic_zh": "综合：介词 · 副词 · 连接",
+     "topic_ja": "総まとめ：前置詞 · 副詞 · つなぎ",
+     "tip_zh": "日期用 on：on May 14",
+     "tip_ja": "日付には on：on May 14",
+     "src": "ep57",
+     "exp_zh": "【解析册 p.181】空格后是日期 May 14。表示“在某日/某个日期”用介词 on，(C) 正确。",
+     "exp_ja": "【解説冊子 p.181】空所の後は日付 May 14。特定の日付の前には前置詞 on を使うので (C)。",
+     "vocab_zh": [
+      "mark 纪念，庆祝"
+     ],
+     "vocab_ja": [
+      "mark 記念する、祝う"
+     ]
+    },
+    {
+     "id": "T3-Q105",
+     "label": "Test 3 · Q105",
+     "test": 3,
+     "no": 105,
+     "part": 5,
+     "q": "Connect Net provides Internet service to ------- 40 percent of Monroe County.",
+     "options": [
+      "here",
+      "about",
+      "fast",
+      "today"
+     ],
+     "answer": "B",
+     "topic_zh": "综合：介词 · 副词 · 连接",
+     "topic_ja": "総まとめ：前置詞 · 副詞 · つなぎ",
+     "tip_zh": "about + 数字“大约”",
+     "tip_ja": "about ＋ 数字「約、およそ」",
+     "src": "ep57",
+     "exp_zh": "空格修饰数字 40 percent，表示“大约”的副词 about 最合适，选 (B)。其余选项不能修饰数量。",
+     "exp_ja": "空所は数字 40 percent を修飾する。「約、およそ」の意味の副詞 about が正解 (B)。他は数量を修飾できない。",
+     "vocab_zh": [
+      "about（副词）大约"
+     ],
+     "vocab_ja": [
+      "about（副詞）約"
+     ]
+    },
+    {
+     "id": "T3-Q107",
+     "label": "Test 3 · Q107",
+     "test": 3,
+     "no": 107,
+     "part": 5,
+     "q": "When operating at ------- capacity, the refinery can process 30,000 liters of olive oil each day.",
+     "options": [
+      "full",
+      "most",
+      "rich",
+      "tall"
+     ],
+     "answer": "A",
+     "topic_zh": "词汇",
+     "topic_ja": "語彙",
+     "tip_zh": "at full capacity“满负荷运转”",
+     "tip_ja": "at full capacity「フル稼働で」",
+     "src": "ep55",
+     "exp_zh": "固定搭配 at full capacity“满负荷运转”，选 (A)。",
+     "exp_ja": "at full capacity「フル稼働で」という決まった表現なので (A)。",
+     "vocab_zh": [
+      "at full capacity 满负荷",
+      "refinery 精炼厂"
+     ],
+     "vocab_ja": [
+      "at full capacity フル稼働で",
+      "refinery 精製所"
+     ]
+    },
+    {
+     "id": "T3-Q109",
+     "label": "Test 3 · Q109",
+     "test": 3,
+     "no": 109,
+     "part": 5,
+     "q": "Senior management will conduct a ------- on how to lead effective meetings at 2:30 P.M. next Monday.",
+     "options": [
+      "search",
+      "workshop",
+      "manual",
+      "decision"
+     ],
+     "answer": "B",
+     "topic_zh": "词汇",
+     "topic_ja": "語彙",
+     "tip_zh": "conduct a workshop“举办研讨班、工作坊”",
+     "tip_ja": "conduct a workshop「ワークショップを行う」",
+     "src": "ep56",
+     "exp_zh": "conduct a workshop on ... 意为“举办关于……的研讨会”，与“如何开好会议”及时间相符，选 (B)。",
+     "exp_ja": "conduct a workshop on ...「～についての研修会を行う」で、内容・日時とも合う (B)。",
+     "vocab_zh": [
+      "conduct 举办，实施"
+     ],
+     "vocab_ja": [
+      "conduct 実施する"
+     ]
+    },
+    {
+     "id": "T3-Q111",
+     "label": "Test 3 · Q111",
+     "test": 3,
+     "no": 111,
+     "part": 5,
+     "q": "After making your online purchase, please ------- the on-screen instructions to take a short survey.",
+     "options": [
+      "guide",
+      "chase",
+      "follow",
+      "uphold"
+     ],
+     "answer": "C",
+     "topic_zh": "词汇",
+     "topic_ja": "語彙",
+     "tip_zh": "follow the instructions“按照说明操作”",
+     "tip_ja": "follow the instructions「指示に従う」",
+     "src": "ep55",
+     "exp_zh": "follow the instructions“按照说明操作”是固定搭配，选 (C)。",
+     "exp_ja": "follow the instructions「指示に従う」という決まった組み合わせ。(C)。",
+     "vocab_zh": [
+      "on-screen 屏幕上的",
+      "survey 调查"
+     ],
+     "vocab_ja": [
+      "on-screen 画面上の",
+      "survey アンケート"
+     ]
+    },
+    {
+     "id": "T3-Q112",
+     "label": "Test 3 · Q112",
+     "test": 3,
+     "no": 112,
+     "part": 5,
+     "q": "The IT technicians will give ------- two months to execute the software transition.",
+     "options": [
+      "themselves",
+      "their",
+      "they",
+      "theirs"
+     ],
+     "answer": "A",
+     "topic_zh": "关系词 · 代词",
+     "topic_ja": "関係詞 · 代名詞",
+     "tip_zh": "give 的间接宾语 = 主语本身 → 反身代词 themselves",
+     "tip_ja": "give の間接目的語 = 主語自身 → 再帰代名詞 themselves",
+     "src": "ep54",
+     "exp_zh": "give 的间接宾语与主语 The IT technicians 是同一对象（给他们自己两个月），用反身代词 (A) themselves。",
+     "exp_ja": "give の間接目的語が主語 The IT technicians 自身を指すので再帰代名詞 (A) themselves。",
+     "vocab_zh": [
+      "execute 执行",
+      "transition 过渡，迁移"
+     ],
+     "vocab_ja": [
+      "execute 実行する",
+      "transition 移行"
+     ]
+    },
+    {
+     "id": "T3-Q114",
+     "label": "Test 3 · Q114",
+     "test": 3,
+     "no": 114,
+     "part": 5,
+     "q": "Premium subscribers have lifetime ------- to courses on Eduton Academy's online learning platform.",
+     "options": [
+      "accessible",
+      "access",
+      "accessing",
+      "accessed"
+     ],
+     "answer": "B",
+     "topic_zh": "词性",
+     "topic_ja": "品詞",
+     "tip_zh": "have lifetime access to：名词 access",
+     "tip_ja": "have lifetime access to：名詞 access",
+     "src": "ep51",
+     "exp_zh": "have 的宾语需要名词，lifetime 作定语修饰，access to ...“使用……的权限”，选 (B)。",
+     "exp_ja": "have の目的語となる名詞が必要。access to ...「～の利用権」。(B)。",
+     "vocab_zh": [
+      "lifetime 终身的",
+      "subscriber 订阅者"
+     ],
+     "vocab_ja": [
+      "lifetime 生涯の、無期限の",
+      "subscriber 会員、購読者"
+     ]
+    }
+   ],
+   "reading": [
+    {
+     "id": "T3-Q147-149",
+     "label": "Test 3 · Q147–149",
+     "test": 3,
+     "part": 7,
+     "intro": "Questions 147-149 refer to the following advertisement.",
+     "docs": [
+      [
+       {
+        "t": "title",
+        "x": "Airbest Airlines"
+       },
+       {
+        "t": "p",
+        "x": "Convenience, Comfort, Care"
+       },
+       {
+        "t": "p",
+        "x": "Named Best Customer Service by International Business Travel Magazine"
+       },
+       {
+        "t": "list",
+        "items": [
+         "Daily flights operating out of St. Louis",
+         "New European destinations: Frankfurt and Oslo",
+         "Direct flights early in the morning and overnight (Get to meetings and back home within 24 hours!)",
+         "Excellent amenities, including fully reclining seats, a wide selection of inflight entertainment options, and chef-prepared cuisine that passengers can select online before traveling"
+        ]
+       },
+       {
+        "t": "p",
+        "x": "Book online at www.airbestairlines.com."
+       }
+      ]
+     ],
+     "questions": [
+      {
+       "no": 147,
+       "label": "Test 3 · Q147",
+       "q": "Who most likely is the advertisement for?",
+       "options": [
+        "Airline pilots",
+        "Business travelers",
+        "Airport employees",
+        "Tour guides"
+       ],
+       "answer": "B",
+       "exp_zh": "广告提到被《国际商务旅行》杂志评为最佳客服，且有“赶去开会、24 小时内回家”的直飞航班，目标客户是商务旅客，选 (B)。",
+       "exp_ja": "International Business Travel Magazine に選ばれたこと、「会議に出て24時間以内に帰宅」という直行便の宣伝から、対象は出張者。(B)。"
+      },
+      {
+       "no": 148,
+       "label": "Test 3 · Q148",
+       "q": "What is indicated about Airbest Airlines?",
+       "options": [
+        "It was mentioned in a magazine.",
+        "It is based in Oslo.",
+        "It is hiring flight attendants.",
+        "It recently acquired new airplanes."
+       ],
+       "answer": "A",
+       "exp_zh": "广告说该公司被 International Business Travel Magazine 评为最佳客服，即在杂志上被提到，选 (A)。Oslo 只是新航点，航班从 St. Louis 出发。",
+       "exp_ja": "International Business Travel Magazine で最優秀顧客サービスに選ばれたとあるので (A)。Oslo は新しい就航地にすぎない。"
+      },
+      {
+       "no": 149,
+       "label": "Test 3 · Q149",
+       "q": "What is included in the amenities on Airbest Airlines?",
+       "options": [
+        "Especially wide seats",
+        "Entertainment choices unavailable elsewhere",
+        "Wireless Internet service",
+        "Food that can be ordered before a flight"
+       ],
+       "answer": "D",
+       "exp_zh": "设施说明中提到乘客可在出行前在线选择厨师烹制的餐食(chef-prepared cuisine that passengers can select online before traveling)，选 (D)。座椅是“全平躺”而非“特别宽”；娱乐只说选择多，没说别处没有；未提无线网络。",
+       "exp_ja": "「旅行前にオンラインで選べるシェフの料理」とあるので (D)。座席は「フルリクライニング」で幅の記述はなく、Wi-Fi の言及もない。"
+      }
+     ],
+     "src": "site+ep26"
+    },
+    {
+     "id": "T3-Q150-151",
+     "label": "Test 3 · Q150–151",
+     "test": 3,
+     "part": 7,
+     "intro": "Questions 150-151 refer to the following e-mail.",
+     "docs": [
+      [
+       {
+        "t": "meta",
+        "rows": [
+         [
+          "To",
+          "Mr. Jason Henare"
+         ],
+         [
+          "From",
+          "Ms. Sarah Rotessa"
+         ],
+         [
+          "Re",
+          "Access authorisation"
+         ],
+         [
+          "Date",
+          "8 August"
+         ],
+         [
+          "Attachment",
+          "Signature verification form"
+         ]
+        ]
+       },
+       {
+        "t": "p",
+        "x": "Dear Mr. Henare,"
+       },
+       {
+        "t": "p",
+        "x": "The Bank of Pukekohe has received your request to grant another person access to your account. In order to proceed, we require both the current account holder and the person who needs access to complete a signature verification form."
+       },
+       {
+        "t": "p",
+        "x": "As the account holder, you will need to print out the attached form and sign where indicated. You are also responsible for obtaining Ms. Mahoney's signature."
+       },
+       {
+        "t": "p",
+        "x": "Once the form has been signed by you and Ms. Mahoney, either return the form by mail or scan it and send it back to me as an e-mail attachment."
+       },
+       {
+        "t": "p",
+        "x": "If you have any questions, please contact me at 09 555 0109, ext. 513."
+       },
+       {
+        "t": "p",
+        "x": "Thank you."
+       },
+       {
+        "t": "sign",
+        "x": "Sarah Rotessa, Personal Accounts Manager\nBank of Pukekohe\n228 Wesley Street\nPukekohe, Auckland 2120"
+       }
+      ]
+     ],
+     "questions": [
+      {
+       "no": 150,
+       "label": "Test 3 · Q150",
+       "q": "What is the purpose of the e-mail?",
+       "options": [
+        "To cancel a transaction",
+        "To provide instructions",
+        "To correct an error",
+        "To announce policy changes"
+       ],
+       "answer": "B",
+       "exp_zh": "邮件说明了授权他人使用账户需要的步骤：打印附件表格、签名、取得 Mahoney 女士签名、邮寄或扫描寄回，目的是提供操作说明，选 (B)。",
+       "exp_ja": "口座へのアクセス権付与の手続き（書式を印刷して署名、Mahoney さんの署名をもらい、郵送かスキャンで返送）を説明しているので (B)。"
+      },
+      {
+       "no": 151,
+       "label": "Test 3 · Q151",
+       "q": "What is Ms. Mahoney expected to do?",
+       "options": [
+        "Pay a banking fee",
+        "Forward an e-mail",
+        "Sign a document",
+        "Close a bank account"
+       ],
+       "answer": "C",
+       "exp_zh": "邮件要求账户持有人和需要权限的人都填写签名核实表，并说 Henare 先生负责取得 Mahoney 女士的签名，所以她需要签署文件，选 (C)。",
+       "exp_ja": "口座名義人とアクセスが必要な人の両方が署名確認書に記入する必要があり、Mahoney さんの署名をもらうよう書かれているので (C)。"
+      }
+     ],
+     "src": "site+ep27"
+    }
+   ]
   }
  },
  "warmup": {

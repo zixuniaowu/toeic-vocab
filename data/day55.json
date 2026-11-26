@@ -1,0 +1,2544 @@
+{
+ "day": 55,
+ "date": "2026-11-27",
+ "title_zh": "四大词根 + 规划财务与产能 + 工程与设施",
+ "title_ja": "4つの語根＋計画・財務・生産能力＋エンジニアリングと施設",
+ "intro_zh": "今天的词根是 -sist- / -sta-（站立）、-struct-（建造）、-mov- / -mot-（移动）、-cur-（关心；照料）；主题是规划、财务与产能，以及工程与设施。",
+ "intro_ja": "今日の語根は -sist- / -sta-（立つ）、-struct-（建てる）、-mov- / -mot-（動かす）、-cur-（気にかける）。テーマは計画・財務・生産能力、エンジニアリングと施設。",
+ "voice": "en-US-AriaNeural",
+ "roots": [
+  {
+   "root": "-sist- / -sta-",
+   "origin": "Latin sistere / stare",
+   "zh": "站立",
+   "ja": "立つ",
+   "exp_zh": "来自拉丁语 sistere / stare（站立）。一直站着 → persist；站出来对抗 → resist；站到旁边帮忙 → assist；稳固 → stable；建立 → establish；不变 → constant。⚠️ stagnate 来自 stagnum（池塘），不是此词根。",
+   "exp_ja": "ラテン語 sistere / stare（立つ）から。最後まで立つ → persist；逆らう → resist；そばで助ける → assist；安定 → stable；設立 → establish；一定 → constant。stagnate は stagnum（池）由来で別源。",
+   "examples": [
+    "persistence",
+    "resistance",
+    "assistance",
+    "subsist",
+    "unstable",
+    "stabilize",
+    "constant",
+    "instant"
+   ]
+  },
+  {
+   "root": "-struct- / -stru-",
+   "origin": "Latin struere",
+   "zh": "堆建；建造",
+   "ja": "積み上げる；建てる",
+   "exp_zh": "来自拉丁语 struere（堆起、建造）。建设 → construction；阻塞 → obstruction；破坏 → destructive；上 / 下部结构 → superstructure / substructure。",
+   "exp_ja": "ラテン語 struere（積む・建てる）から。建設 → construction；妨害 → obstruction；破壊的 → destructive；上部・下部構造 → superstructure / substructure。",
+   "examples": [
+    "construction",
+    "obstruction",
+    "destructive",
+    "destruct",
+    "substructure",
+    "superstructure",
+    "instrumental"
+   ]
+  },
+  {
+   "root": "-mov- / -mot-",
+   "origin": "Latin movere",
+   "zh": "移动",
+   "ja": "動かす",
+   "exp_zh": "来自拉丁语 movere（移动）。移走 → remove；晋升 → promotion；骚动 → commotion；动力 → motivation。",
+   "exp_ja": "ラテン語 movere（動かす）から。取り除く → remove；昇進 → promotion；騒ぎ → commotion；動機づけ → motivation。",
+   "examples": [
+    "remove",
+    "movement",
+    "promotion",
+    "commotion",
+    "mobility",
+    "motivation"
+   ]
+  },
+  {
+   "root": "-cur-",
+   "origin": "Latin cura",
+   "zh": "关心；照料",
+   "ja": "気にかける；世話",
+   "exp_zh": "来自拉丁语 cura（关心、照料）。好奇 → curious；用心做 → accurate；无忧 → secure；张罗采购 → procure；治疗 → cure。",
+   "exp_ja": "ラテン語 cura（気づかい・世話）から。好奇心 → curious；正確 → accurate；安心 → secure；調達 → procure；治療 → cure。",
+   "examples": [
+    "curious",
+    "curiosity",
+    "accurate",
+    "inaccurate",
+    "secure",
+    "insecure",
+    "security",
+    "procure",
+    "cure",
+    "curative"
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "sta",
+   "title_zh": "词根 -sist- / -sta-：站立",
+   "title_ja": "語根 -sist- / -sta-：立つ",
+   "words": [
+    {
+     "w": "persistence",
+     "pos": "n.",
+     "ipa": "/pɚˈsɪstəns/",
+     "zh": "坚持；持续",
+     "ja": "粘り強さ；持続",
+     "ex": "Her persistence helped the team win the contract.",
+     "ex_zh": "她的坚持帮助团队拿下了合同。",
+     "ex_ja": "彼女の粘り強さがチームの契約獲得につながった。",
+     "parts": [
+      [
+       "per-",
+       "一直",
+       "最後まで"
+      ],
+      [
+       "sist",
+       "站立",
+       "立つ"
+      ],
+      [
+       "-ence",
+       "名词后缀",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "per-（一直）+ sist（站立）→ 坚持到底。",
+      "ja": "per-（最後まで）+ sist（立つ）→ 粘り強さ。"
+     },
+     "forms": [
+      [
+       "persistent (adj.)",
+       "坚持的",
+       "粘り強い"
+      ],
+      [
+       "persist in",
+       "坚持做",
+       "〜し続ける"
+      ]
+     ]
+    },
+    {
+     "w": "resistance",
+     "pos": "n.",
+     "ipa": "/rɪˈzɪstəns/",
+     "zh": "抵抗；阻力",
+     "ja": "抵抗；反対",
+     "ex": "There was strong resistance to the new dress code.",
+     "ex_zh": "对新着装规定有强烈的抵制。",
+     "ex_ja": "新しい服装規定には強い反発があった。",
+     "parts": [
+      [
+       "re-",
+       "反",
+       "逆らって"
+      ],
+      [
+       "sist",
+       "站立",
+       "立つ"
+      ],
+      [
+       "-ance",
+       "名词后缀",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "re-（反）+ sist（站立）→ 站出来对抗。",
+      "ja": "re-（逆）+ sist（立つ）→ 抵抗。"
+     },
+     "forms": [
+      [
+       "resist (v.)",
+       "抵抗",
+       "抵抗する"
+      ],
+      [
+       "resistant (adj.)",
+       "耐……的",
+       "〜に強い"
+      ]
+     ]
+    },
+    {
+     "w": "assistance",
+     "pos": "n.",
+     "ipa": "/əˈsɪstəns/",
+     "zh": "协助；帮助",
+     "ja": "援助；手伝い",
+     "ex": "Customers may request assistance at the front desk.",
+     "ex_zh": "顾客可以在前台请求协助。",
+     "ex_ja": "お客様は受付で支援を依頼できます。",
+     "parts": [
+      [
+       "as-",
+       "（ad-）向",
+       "〜へ"
+      ],
+      [
+       "sist",
+       "站立",
+       "立つ"
+      ],
+      [
+       "-ance",
+       "名词后缀",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "as-（ad-，向）+ sist（站立）→ 站到旁边帮忙。",
+      "ja": "as-（ad-，〜へ）+ sist（立つ）→ 助ける。"
+     },
+     "forms": [
+      [
+       "financial assistance",
+       "经济援助",
+       "経済的支援"
+      ],
+      [
+       "assistant (n.)",
+       "助理",
+       "アシスタント"
+      ]
+     ]
+    },
+    {
+     "w": "subsist",
+     "pos": "v.",
+     "ipa": "/səbˈsɪst/",
+     "zh": "维持生存；靠……生活",
+     "ja": "生計を立てる；存続する",
+     "ex": "Many small farms subsist on seasonal sales.",
+     "ex_zh": "许多小农场靠季节性销售维持生计。",
+     "ex_ja": "多くの小規模農場は季節的な売上で生計を立てている。",
+     "parts": [
+      [
+       "sub-",
+       "下",
+       "下に"
+      ],
+      [
+       "sist",
+       "站立",
+       "立つ"
+      ]
+     ],
+     "note": {
+      "zh": "sub-（下）+ sist（站立）→ 站得住 → 维生。",
+      "ja": "sub-（下）+ sist（立つ）→ 存続する。"
+     },
+     "forms": [
+      [
+       "subsist on",
+       "靠……生活",
+       "〜で生計を立てる"
+      ],
+      [
+       "subsistence (n.)",
+       "生计",
+       "生存"
+      ]
+     ]
+    },
+    {
+     "w": "unstable",
+     "pos": "adj.",
+     "ipa": "/ʌnˈsteɪbəl/",
+     "zh": "不稳定的",
+     "ja": "不安定な",
+     "ex": "The unstable market made investors cautious.",
+     "ex_zh": "不稳定的市场让投资者变得谨慎。",
+     "ex_ja": "不安定な市場は投資家を慎重にさせた。",
+     "parts": [
+      [
+       "un-",
+       "不",
+       "〜ない"
+      ],
+      [
+       "stab",
+       "稳固",
+       "安定した"
+      ],
+      [
+       "-le",
+       "形容词后缀",
+       "形容詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "un-（不）+ stable（稳固，sta- 站立）→ 不稳定。",
+      "ja": "un-（ない）+ stable（安定，sta- 立つ）→ 不安定な。"
+     },
+     "forms": [
+      [
+       "unstable economy",
+       "不稳定的经济",
+       "不安定な経済"
+      ],
+      [
+       "stability (n.)",
+       "稳定",
+       "安定"
+      ]
+     ]
+    },
+    {
+     "w": "stabilize",
+     "pos": "v.",
+     "ipa": "/ˈsteɪbəˌlaɪz/",
+     "zh": "使稳定",
+     "ja": "安定させる",
+     "ex": "The bank acted quickly to stabilize the currency.",
+     "ex_zh": "银行迅速采取行动稳定货币。",
+     "ex_ja": "銀行は通貨を安定させるため素早く動いた。",
+     "parts": [
+      [
+       "stabil",
+       "稳固",
+       "安定した"
+      ],
+      [
+       "-ize",
+       "使……化",
+       "〜化する"
+      ]
+     ],
+     "note": {
+      "zh": "stabil（稳固，sta- 站立）+ -ize → 使稳定。",
+      "ja": "stabil（安定，sta- 立つ）+ -ize → 安定させる。"
+     },
+     "forms": [
+      [
+       "stabilization (n.)",
+       "稳定化",
+       "安定化"
+      ],
+      [
+       "stabilize prices",
+       "稳定物价",
+       "物価を安定させる"
+      ]
+     ]
+    },
+    {
+     "w": "establish",
+     "pos": "v.",
+     "ipa": "/ɪˈstæblɪʃ/",
+     "zh": "建立；确立",
+     "ja": "設立する；確立する",
+     "ex": "The firm plans to establish a branch in Osaka.",
+     "ex_zh": "公司计划在大阪设立分公司。",
+     "ex_ja": "その会社は大阪に支店を設立する予定だ。",
+     "parts": [
+      [
+       "e-",
+       "（es-）加强",
+       "強調"
+      ],
+      [
+       "stabl",
+       "稳固",
+       "固定した"
+      ],
+      [
+       "-ish",
+       "动词后缀",
+       "動詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "来自拉丁语 stabilire（使稳固），与 sta-（站立）同源。",
+      "ja": "ラテン語 stabilire（固定する）から。sta-（立つ）と同源。"
+     },
+     "forms": [
+      [
+       "well established",
+       "根基稳固的",
+       "確立された"
+      ],
+      [
+       "establishment (n.)",
+       "机构；设立",
+       "設立；施設"
+      ]
+     ]
+    },
+    {
+     "w": "static",
+     "pos": "adj.",
+     "ipa": "/ˈstætɪk/",
+     "zh": "静止的；不变的",
+     "ja": "静的な；変化のない",
+     "ex": "Sales figures remained static throughout the quarter.",
+     "ex_zh": "整个季度销售额保持不变。",
+     "ex_ja": "四半期を通じて売上高は変わらなかった。",
+     "parts": [
+      [
+       "stat",
+       "站立",
+       "立つ"
+      ],
+      [
+       "-ic",
+       "……的",
+       "〜の"
+      ]
+     ],
+     "note": {
+      "zh": "来自希腊语 statikos（使静止），sta-（站立）同源。",
+      "ja": "ギリシャ語 statikos（静止させる）から。sta-（立つ）と同源。"
+     },
+     "forms": [
+      [
+       "static electricity",
+       "静电",
+       "静電気"
+      ],
+      [
+       "static price",
+       "价格不变",
+       "価格が変わらない"
+      ]
+     ]
+    },
+    {
+     "w": "stagnate",
+     "pos": "v.",
+     "ipa": "/ˈstægˌneɪt/",
+     "zh": "停滞；不景气",
+     "ja": "停滞する",
+     "ex": "Wages have stagnated for the past three years.",
+     "ex_zh": "工资在过去三年里一直停滞不前。",
+     "ex_ja": "賃金はここ3年間停滞している。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：stagnate 来自拉丁语 stagnum（静水池塘），并非 sta- 站立，只是形近。",
+      "ja": "信頼できる語根分解はありません：stagnate はラテン語 stagnum（淀んだ池）から。sta- とは別源。"
+     },
+     "forms": [
+      [
+       "stagnation (n.)",
+       "停滞",
+       "停滞"
+      ],
+      [
+       "stagnant (adj.)",
+       "停滞的",
+       "停滞した"
+      ]
+     ]
+    },
+    {
+     "w": "constant",
+     "pos": "adj.",
+     "ipa": "/ˈkɑnstənt/",
+     "zh": "持续的；不变的",
+     "ja": "絶え間ない；一定の",
+     "ex": "The factory runs at a constant temperature.",
+     "ex_zh": "工厂在恒定的温度下运转。",
+     "ex_ja": "工場は一定の温度で稼働している。",
+     "parts": [
+      [
+       "con-",
+       "一起；完全",
+       "共に"
+      ],
+      [
+       "st",
+       "站立",
+       "立つ"
+      ],
+      [
+       "-ant",
+       "形容词后缀",
+       "形容詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "con-（完全）+ st（站立）→ 站得稳 → 不变的。",
+      "ja": "con-（完全に）+ st（立つ）→ 一定の。"
+     },
+     "forms": [
+      [
+       "constantly (adv.)",
+       "不断地",
+       "絶えず"
+      ],
+      [
+       "constant demand",
+       "持续需求",
+       "安定した需要"
+      ]
+     ]
+    },
+    {
+     "w": "instant",
+     "pos": "adj.",
+     "ipa": "/ˈɪnstənt/",
+     "zh": "立即的；速食的",
+     "ja": "即時の；インスタントの",
+     "ex": "The company offers instant refunds for defective items.",
+     "ex_zh": "公司对瑕疵商品提供即时退款。",
+     "ex_ja": "その会社は不良品に即時返金を行っている。",
+     "parts": [
+      [
+       "in-",
+       "在……上",
+       "〜の上に"
+      ],
+      [
+       "st",
+       "站立",
+       "立つ"
+      ],
+      [
+       "-ant",
+       "形容词后缀",
+       "形容詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "in-（在上）+ st（站立）→ 紧贴着站 → 迫近的、立即的。",
+      "ja": "in-（上に）+ st（立つ）→ 迫った・即時の。"
+     },
+     "forms": [
+      [
+       "instantly (adv.)",
+       "立刻",
+       "すぐに"
+      ],
+      [
+       "instant message",
+       "即时消息",
+       "インスタントメッセージ"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "stru",
+   "title_zh": "词根 -stru- / -struct-：建造",
+   "title_ja": "語根 -stru- / -struct-：建てる",
+   "words": [
+    {
+     "w": "construction",
+     "pos": "n.",
+     "ipa": "/kənˈstrʌkʃən/",
+     "zh": "建设；施工",
+     "ja": "建設；工事",
+     "ex": "Construction of the new terminal begins in April.",
+     "ex_zh": "新航站楼将于四月开工。",
+     "ex_ja": "新ターミナルの建設は4月に始まる。",
+     "parts": [
+      [
+       "con-",
+       "一起",
+       "共に"
+      ],
+      [
+       "struct",
+       "堆建",
+       "建てる"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "con-（一起）+ struct（堆建）+ -ion → 建设。",
+      "ja": "con-（共に）+ struct（建てる）+ -ion → 建設。"
+     },
+     "forms": [
+      [
+       "under construction",
+       "施工中",
+       "建設中"
+      ],
+      [
+       "construction site",
+       "工地",
+       "建設現場"
+      ]
+     ]
+    },
+    {
+     "w": "obstruction",
+     "pos": "n.",
+     "ipa": "/əbˈstrʌkʃən/",
+     "zh": "阻塞；障碍",
+     "ja": "妨害；障害物",
+     "ex": "An obstruction in the hallway blocked the fire exit.",
+     "ex_zh": "走廊里的障碍物挡住了消防通道。",
+     "ex_ja": "廊下の障害物が非常口をふさいでいた。",
+     "parts": [
+      [
+       "ob-",
+       "相对",
+       "向かって"
+      ],
+      [
+       "struct",
+       "堆建",
+       "建てる"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "ob-（相对）+ struct（堆建）→ 在面前堆东西 → 阻塞。",
+      "ja": "ob-（向かって）+ struct（建てる）→ 行く手をふさぐ。"
+     },
+     "forms": [
+      [
+       "obstruct (v.)",
+       "阻挡",
+       "妨げる"
+      ],
+      [
+       "remove an obstruction",
+       "清除障碍",
+       "障害物を取り除く"
+      ]
+     ]
+    },
+    {
+     "w": "destructive",
+     "pos": "adj.",
+     "ipa": "/dɪˈstrʌktɪv/",
+     "zh": "破坏性的",
+     "ja": "破壊的な",
+     "ex": "The storm was highly destructive to local farms.",
+     "ex_zh": "这场风暴对当地农场破坏极大。",
+     "ex_ja": "その嵐は地元の農場に大きな被害を与えた。",
+     "parts": [
+      [
+       "de-",
+       "拆除",
+       "取り壊す"
+      ],
+      [
+       "struct",
+       "堆建",
+       "建てる"
+      ],
+      [
+       "-ive",
+       "形容词后缀",
+       "形容詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "de-（拆除）+ struct（堆建）+ -ive → 破坏性的。",
+      "ja": "de-（取り壊す）+ struct（建てる）+ -ive → 破壊的な。"
+     },
+     "forms": [
+      [
+       "destruction (n.)",
+       "破坏",
+       "破壊"
+      ],
+      [
+       "destroy (v.)",
+       "毁坏",
+       "破壊する"
+      ]
+     ]
+    },
+    {
+     "w": "destruct",
+     "pos": "v.",
+     "ipa": "/dɪˈstrʌkt/",
+     "zh": "自毁；毁坏",
+     "ja": "自壊する；破壊する",
+     "ex": "The old files will self-destruct after thirty days.",
+     "ex_zh": "旧文件将在三十天后自动销毁。",
+     "ex_ja": "古いファイルは30日後に自動消去される。",
+     "parts": [
+      [
+       "de-",
+       "拆除",
+       "取り壊す"
+      ],
+      [
+       "struct",
+       "堆建",
+       "建てる"
+      ]
+     ],
+     "note": {
+      "zh": "de-（拆除）+ struct（堆建）→ 拆毁。",
+      "ja": "de-（取り壊す）+ struct（建てる）→ 壊す。"
+     },
+     "forms": [
+      [
+       "self-destruct",
+       "自毁",
+       "自壊する"
+      ],
+      [
+       "destructive (adj.)",
+       "破坏性的",
+       "破壊的な"
+      ]
+     ]
+    },
+    {
+     "w": "substructure",
+     "pos": "n.",
+     "ipa": "/ˈsʌbˌstrʌktʃɚ/",
+     "zh": "基础结构；地基",
+     "ja": "下部構造；基礎",
+     "ex": "Engineers inspected the substructure of the bridge.",
+     "ex_zh": "工程师检查了桥梁的下部结构。",
+     "ex_ja": "技術者は橋の下部構造を点検した。",
+     "parts": [
+      [
+       "sub-",
+       "下",
+       "下に"
+      ],
+      [
+       "struct",
+       "堆建",
+       "建てる"
+      ],
+      [
+       "-ure",
+       "名词后缀",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "sub-（下）+ struct（堆建）+ -ure → 底下的结构。",
+      "ja": "sub-（下）+ struct（建てる）+ -ure → 下部構造。"
+     },
+     "forms": [
+      [
+       "substructure inspection",
+       "基础检查",
+       "基礎点検"
+      ],
+      [
+       "structure (n.)",
+       "结构",
+       "構造"
+      ]
+     ]
+    },
+    {
+     "w": "superstructure",
+     "pos": "n.",
+     "ipa": "/ˈsupɚˌstrʌktʃɚ/",
+     "zh": "上层建筑；上部结构",
+     "ja": "上部構造",
+     "ex": "The superstructure of the ship was repainted last month.",
+     "ex_zh": "船的上层结构上个月重新刷了漆。",
+     "ex_ja": "その船の上部構造は先月塗り直された。",
+     "parts": [
+      [
+       "super-",
+       "上",
+       "上に"
+      ],
+      [
+       "struct",
+       "堆建",
+       "建てる"
+      ],
+      [
+       "-ure",
+       "名词后缀",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "super-（上）+ struct（堆建）+ -ure → 上部结构。",
+      "ja": "super-（上）+ struct（建てる）+ -ure → 上部構造。"
+     },
+     "forms": [
+      [
+       "superstructure (n.)",
+       "上部结构",
+       "上部構造"
+      ],
+      [
+       "substructure (n.)",
+       "下部结构",
+       "下部構造"
+      ]
+     ]
+    },
+    {
+     "w": "instrumental",
+     "pos": "adj.",
+     "ipa": "/ˌɪnstrəˈmɛntəl/",
+     "zh": "起重要作用的；乐器的",
+     "ja": "役立つ；楽器の",
+     "ex": "She was instrumental in closing the merger deal.",
+     "ex_zh": "她在促成并购交易中起了关键作用。",
+     "ex_ja": "彼女は合併契約の成立に重要な役割を果たした。",
+     "parts": [
+      [
+       "in-",
+       "在……中",
+       "中に"
+      ],
+      [
+       "stru",
+       "堆建；装备",
+       "備える"
+      ],
+      [
+       "-ment",
+       "名词后缀",
+       "名詞語尾"
+      ],
+      [
+       "-al",
+       "形容词后缀",
+       "形容詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "instrument（工具）来自拉丁语 instruere（装备），与 struct 同源 → 起工具作用的。",
+      "ja": "instrument（道具）はラテン語 instruere（備える）から。struct と同源 → 手段として役立つ。"
+     },
+     "forms": [
+      [
+       "be instrumental in",
+       "在……中起关键作用",
+       "〜で重要な役割を果たす"
+      ],
+      [
+       "instrument (n.)",
+       "工具；乐器",
+       "道具；楽器"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mov",
+   "title_zh": "词根 -mov- / -mot-：移动",
+   "title_ja": "語根 -mov- / -mot-：動く",
+   "words": [
+    {
+     "w": "remove",
+     "pos": "v.",
+     "ipa": "/rɪˈmuv/",
+     "zh": "移走；删除",
+     "ja": "取り除く；削除する",
+     "ex": "Please remove all personal items from the lockers.",
+     "ex_zh": "请把所有个人物品从储物柜中拿走。",
+     "ex_ja": "ロッカーから私物をすべて取り出してください。",
+     "parts": [
+      [
+       "re-",
+       "离开",
+       "取り去って"
+      ],
+      [
+       "mov",
+       "移动",
+       "動かす"
+      ],
+      [
+       "-e",
+       "词尾",
+       "語尾"
+      ]
+     ],
+     "note": {
+      "zh": "re-（离开）+ mov（移动）→ 移走。",
+      "ja": "re-（取り去って）+ mov（動かす）→ 取り除く。"
+     },
+     "forms": [
+      [
+       "remove A from B",
+       "把A从B移除",
+       "AをBから取り除く"
+      ],
+      [
+       "removal (n.)",
+       "移除",
+       "除去"
+      ]
+     ]
+    },
+    {
+     "w": "movement",
+     "pos": "n.",
+     "ipa": "/ˈmuvmənt/",
+     "zh": "移动；运动；动向",
+     "ja": "動き；運動",
+     "ex": "The report shows a movement toward remote work.",
+     "ex_zh": "报告显示出向远程办公转变的趋势。",
+     "ex_ja": "報告書はリモートワークへの動きを示している。",
+     "parts": [
+      [
+       "mov",
+       "移动",
+       "動かす"
+      ],
+      [
+       "-ment",
+       "名词后缀",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "mov（移动）+ -ment → 移动、动向。",
+      "ja": "mov（動かす）+ -ment → 動き。"
+     },
+     "forms": [
+      [
+       "price movement",
+       "价格波动",
+       "価格変動"
+      ],
+      [
+       "labor movement",
+       "劳工运动",
+       "労働運動"
+      ]
+     ]
+    },
+    {
+     "w": "promotion",
+     "pos": "n.",
+     "ipa": "/prəˈmoʊʃən/",
+     "zh": "晋升；促销",
+     "ja": "昇進；販売促進",
+     "ex": "He received a promotion after two years at the firm.",
+     "ex_zh": "他在公司工作两年后获得了晋升。",
+     "ex_ja": "彼は入社2年後に昇進した。",
+     "parts": [
+      [
+       "pro-",
+       "向前",
+       "前へ"
+      ],
+      [
+       "mot",
+       "移动",
+       "動かす"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "pro-（向前）+ mot（移动）+ -ion → 往前推 → 晋升、促销。",
+      "ja": "pro-（前へ）+ mot（動かす）+ -ion → 昇進・販促。"
+     },
+     "forms": [
+      [
+       "sales promotion",
+       "促销",
+       "販売促進"
+      ],
+      [
+       "promote (v.)",
+       "晋升；推广",
+       "昇進させる；宣伝する"
+      ]
+     ]
+    },
+    {
+     "w": "commotion",
+     "pos": "n.",
+     "ipa": "/kəˈmoʊʃən/",
+     "zh": "骚动；混乱",
+     "ja": "騒ぎ；動揺",
+     "ex": "A sudden commotion interrupted the shareholders' meeting.",
+     "ex_zh": "突如其来的骚动打断了股东大会。",
+     "ex_ja": "突然の騒ぎが株主総会を中断させた。",
+     "parts": [
+      [
+       "com-",
+       "一起",
+       "共に"
+      ],
+      [
+       "mot",
+       "移动",
+       "動かす"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "com-（一起）+ mot（移动）+ -ion → 一起乱动 → 骚动。",
+      "ja": "com-（共に）+ mot（動かす）+ -ion → 騒ぎ。"
+     },
+     "forms": [
+      [
+       "cause a commotion",
+       "引起骚动",
+       "騒ぎを起こす"
+      ],
+      [
+       "create a commotion",
+       "制造混乱",
+       "混乱を招く"
+      ]
+     ]
+    },
+    {
+     "w": "mobility",
+     "pos": "n.",
+     "ipa": "/moʊˈbɪləti/",
+     "zh": "流动性；机动性",
+     "ja": "移動性；流動性",
+     "ex": "The new tablet gives sales staff greater mobility.",
+     "ex_zh": "新平板让销售人员更加机动。",
+     "ex_ja": "新しいタブレットは営業スタッフの機動性を高める。",
+     "parts": [
+      [
+       "mob",
+       "移动（mov-）",
+       "動く"
+      ],
+      [
+       "-ility",
+       "名词后缀",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "来自拉丁语 mobilis（可移动的），源于 movere（移动）。",
+      "ja": "ラテン語 mobilis（動かせる）から。movere（動かす）に由来。"
+     },
+     "forms": [
+      [
+       "mobile (adj.)",
+       "可移动的",
+       "移動式の"
+      ],
+      [
+       "social mobility",
+       "社会流动",
+       "社会的流動性"
+      ]
+     ]
+    },
+    {
+     "w": "motivation",
+     "pos": "n.",
+     "ipa": "/ˌmoʊtəˈveɪʃən/",
+     "zh": "动力；积极性",
+     "ja": "動機づけ；意欲",
+     "ex": "Clear goals improve employee motivation.",
+     "ex_zh": "明确的目标能提高员工的积极性。",
+     "ex_ja": "明確な目標は従業員の意欲を高める。",
+     "parts": [
+      [
+       "mot",
+       "移动",
+       "動かす"
+      ],
+      [
+       "-iv-",
+       "形容词成分",
+       "形容詞成分"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "mot（移动）→ 推动人行动的力量 → 动力。",
+      "ja": "mot（動かす）→ 人を動かす力 → 動機づけ。"
+     },
+     "forms": [
+      [
+       "motivate (v.)",
+       "激励",
+       "やる気にさせる"
+      ],
+      [
+       "motivated (adj.)",
+       "积极的",
+       "意欲的な"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cur",
+   "title_zh": "词根 -cur-：关心；照料",
+   "title_ja": "語根 -cur-：気にかける・世話",
+   "words": [
+    {
+     "w": "curious",
+     "pos": "adj.",
+     "ipa": "/ˈkjʊriəs/",
+     "zh": "好奇的",
+     "ja": "好奇心の強い",
+     "ex": "Customers were curious about the new product line.",
+     "ex_zh": "顾客对新产品线很好奇。",
+     "ex_ja": "顧客は新しい製品ラインに興味津々だった。",
+     "parts": [
+      [
+       "cur",
+       "关心；照料",
+       "気にかける"
+      ],
+      [
+       "-ious",
+       "形容词后缀",
+       "形容詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "来自拉丁语 cura（关心）→ 关心 → 好奇。",
+      "ja": "ラテン語 cura（気づかい）から → 気になる。"
+     },
+     "forms": [
+      [
+       "curious about",
+       "对……好奇",
+       "〜に興味がある"
+      ],
+      [
+       "curiously (adv.)",
+       "奇怪地",
+       "不思議なことに"
+      ]
+     ]
+    },
+    {
+     "w": "curiosity",
+     "pos": "n.",
+     "ipa": "/ˌkjʊriˈɑsəti/",
+     "zh": "好奇心",
+     "ja": "好奇心",
+     "ex": "Curiosity led her to study data analysis.",
+     "ex_zh": "好奇心促使她学习数据分析。",
+     "ex_ja": "好奇心から彼女はデータ分析を学ぶことにした。",
+     "parts": [
+      [
+       "cur",
+       "关心",
+       "気にかける"
+      ],
+      [
+       "-iosity",
+       "名词后缀",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "cur（关心）+ -iosity → 好奇心。",
+      "ja": "cur（気にかける）+ -iosity → 好奇心。"
+     },
+     "forms": [
+      [
+       "out of curiosity",
+       "出于好奇",
+       "好奇心から"
+      ],
+      [
+       "curious (adj.)",
+       "好奇的",
+       "好奇心の強い"
+      ]
+     ]
+    },
+    {
+     "w": "accurate",
+     "pos": "adj.",
+     "ipa": "/ˈækjərət/",
+     "zh": "准确的",
+     "ja": "正確な",
+     "ex": "Please make sure the figures are accurate.",
+     "ex_zh": "请确保数字准确无误。",
+     "ex_ja": "数字が正確であることを確認してください。",
+     "parts": [
+      [
+       "ac-",
+       "（ad-）向",
+       "〜へ"
+      ],
+      [
+       "cur",
+       "关心",
+       "気にかける"
+      ],
+      [
+       "-ate",
+       "形容词后缀",
+       "形容詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "ac-（ad-，向）+ cur（关心）→ 用心做 → 准确。",
+      "ja": "ac-（ad-，〜へ）+ cur（気にかける）→ 正確な。"
+     },
+     "forms": [
+      [
+       "accuracy (n.)",
+       "准确性",
+       "正確さ"
+      ],
+      [
+       "accurately (adv.)",
+       "准确地",
+       "正確に"
+      ]
+     ]
+    },
+    {
+     "w": "inaccurate",
+     "pos": "adj.",
+     "ipa": "/ɪnˈækjərət/",
+     "zh": "不准确的",
+     "ja": "不正確な",
+     "ex": "The invoice contained several inaccurate entries.",
+     "ex_zh": "发票上有几处不准确的条目。",
+     "ex_ja": "請求書にはいくつか不正確な記載があった。",
+     "parts": [
+      [
+       "in-",
+       "不",
+       "〜ない"
+      ],
+      [
+       "accurate",
+       "准确的",
+       "正確な"
+      ]
+     ],
+     "note": {
+      "zh": "in-（不）+ accurate（准确）→ 不准确。",
+      "ja": "in-（ない）+ accurate（正確な）→ 不正確な。"
+     },
+     "forms": [
+      [
+       "inaccuracy (n.)",
+       "不准确",
+       "不正確さ"
+      ],
+      [
+       "inaccurate data",
+       "错误数据",
+       "不正確なデータ"
+      ]
+     ]
+    },
+    {
+     "w": "secure",
+     "pos": "adj.",
+     "ipa": "/sɪˈkjʊr/",
+     "zh": "安全的；牢固的",
+     "ja": "安全な；確実な",
+     "ex": "Keep your password in a secure place.",
+     "ex_zh": "请把密码放在安全的地方。",
+     "ex_ja": "パスワードは安全な場所に保管してください。",
+     "parts": [
+      [
+       "se-",
+       "离开；没有",
+       "離れて"
+      ],
+      [
+       "cur",
+       "忧虑；关心",
+       "心配"
+      ],
+      [
+       "-e",
+       "词尾",
+       "語尾"
+      ]
+     ],
+     "note": {
+      "zh": "se-（没有）+ cur（忧虑）→ 无忧的 → 安全的。",
+      "ja": "se-（ない）+ cur（心配）→ 安心な → 安全な。"
+     },
+     "forms": [
+      [
+       "secure a loan",
+       "获得贷款",
+       "融資を確保する"
+      ],
+      [
+       "secure (v.)",
+       "确保；固定",
+       "確保する"
+      ]
+     ]
+    },
+    {
+     "w": "insecure",
+     "pos": "adj.",
+     "ipa": "/ˌɪnsɪˈkjʊr/",
+     "zh": "不安全的；缺乏安全感的",
+     "ja": "安全でない；不安な",
+     "ex": "The insecure network exposed customer records.",
+     "ex_zh": "不安全的网络暴露了客户记录。",
+     "ex_ja": "安全でないネットワークが顧客記録をさらした。",
+     "parts": [
+      [
+       "in-",
+       "不",
+       "〜ない"
+      ],
+      [
+       "secure",
+       "安全的",
+       "安全な"
+      ]
+     ],
+     "note": {
+      "zh": "in-（不）+ secure（安全）→ 不安全。",
+      "ja": "in-（ない）+ secure（安全な）→ 安全でない。"
+     },
+     "forms": [
+      [
+       "insecurity (n.)",
+       "不安全感",
+       "不安"
+      ],
+      [
+       "job insecurity",
+       "工作不稳定",
+       "雇用不安"
+      ]
+     ]
+    },
+    {
+     "w": "security",
+     "pos": "n.",
+     "ipa": "/sɪˈkjʊrəti/",
+     "zh": "安全；保障；证券",
+     "ja": "安全；警備；証券",
+     "ex": "Building security checks every visitor's ID.",
+     "ex_zh": "大楼保安会检查每位访客的证件。",
+     "ex_ja": "ビルの警備は来訪者全員の身分証を確認する。",
+     "parts": [
+      [
+       "se-",
+       "没有",
+       "ない"
+      ],
+      [
+       "cur",
+       "忧虑",
+       "心配"
+      ],
+      [
+       "-ity",
+       "名词后缀",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "se-（没有）+ cur（忧虑）+ -ity → 安全。",
+      "ja": "se-（ない）+ cur（心配）+ -ity → 安全。"
+     },
+     "forms": [
+      [
+       "security deposit",
+       "押金",
+       "敷金"
+      ],
+      [
+       "social security",
+       "社会保障",
+       "社会保障"
+      ]
+     ]
+    },
+    {
+     "w": "procure",
+     "pos": "v.",
+     "ipa": "/proʊˈkjʊr/",
+     "zh": "采购；获得",
+     "ja": "調達する",
+     "ex": "The department will procure new laptops next month.",
+     "ex_zh": "该部门下个月将采购新笔记本电脑。",
+     "ex_ja": "その部署は来月新しいノートPCを調達する。",
+     "parts": [
+      [
+       "pro-",
+       "为了",
+       "〜のために"
+      ],
+      [
+       "cur",
+       "关心；照料",
+       "気にかける"
+      ],
+      [
+       "-e",
+       "词尾",
+       "語尾"
+      ]
+     ],
+     "note": {
+      "zh": "pro-（为了）+ cur（照料）→ 负责张罗 → 采购。",
+      "ja": "pro-（〜のために）+ cur（気にかける）→ 調達する。"
+     },
+     "forms": [
+      [
+       "procurement (n.)",
+       "采购",
+       "調達"
+      ],
+      [
+       "procure supplies",
+       "采购用品",
+       "物資を調達する"
+      ]
+     ]
+    },
+    {
+     "w": "cure",
+     "pos": "n./v.",
+     "ipa": "/kjʊr/",
+     "zh": "治愈；解决办法",
+     "ja": "治療；解決策",
+     "ex": "There is no quick cure for declining sales.",
+     "ex_zh": "销售下滑没有速效的解决办法。",
+     "ex_ja": "売上減少に特効薬はない。",
+     "parts": [
+      [
+       "cur",
+       "关心；照料",
+       "気にかける"
+      ],
+      [
+       "-e",
+       "词尾",
+       "語尾"
+      ]
+     ],
+     "note": {
+      "zh": "来自拉丁语 cura（关心、照料）→ 治疗。",
+      "ja": "ラテン語 cura（世話）→ 治療。"
+     },
+     "forms": [
+      [
+       "cure for",
+       "……的疗法",
+       "〜の治療法"
+      ],
+      [
+       "cure a problem",
+       "解决问题",
+       "問題を解決する"
+      ]
+     ]
+    },
+    {
+     "w": "curative",
+     "pos": "adj.",
+     "ipa": "/ˈkjʊrətɪv/",
+     "zh": "有疗效的",
+     "ja": "治療効果のある",
+     "ex": "The clinic specializes in curative treatments.",
+     "ex_zh": "该诊所专门从事治疗性疗法。",
+     "ex_ja": "そのクリニックは治療的な処置を専門にしている。",
+     "parts": [
+      [
+       "cur",
+       "治疗",
+       "治す"
+      ],
+      [
+       "-ative",
+       "形容词后缀",
+       "形容詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "cur（治疗）+ -ative → 有疗效的。",
+      "ja": "cur（治す）+ -ative → 治療効果のある。"
+     },
+     "forms": [
+      [
+       "curative effect",
+       "疗效",
+       "治療効果"
+      ],
+      [
+       "cure (n.)",
+       "治愈",
+       "治療"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "plan",
+   "title_zh": "主题：规划、财务与产能",
+   "title_ja": "テーマ：計画・財務・生産能力",
+   "words": [
+    {
+     "w": "determination",
+     "pos": "n.",
+     "ipa": "/dɪˌtɝməˈneɪʃən/",
+     "zh": "决心；判定",
+     "ja": "決意；決定",
+     "ex": "The judge's determination is expected on Friday.",
+     "ex_zh": "法官的裁定预计周五公布。",
+     "ex_ja": "裁判官の判断は金曜日に出る見込みだ。",
+     "parts": [
+      [
+       "de-",
+       "彻底",
+       "完全に"
+      ],
+      [
+       "termin",
+       "界限",
+       "境界"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "de-（彻底）+ termin（界限）→ 划定界限 → 决定。",
+      "ja": "de-（完全に）+ termin（境界）→ 決定。"
+     },
+     "forms": [
+      [
+       "with determination",
+       "坚决地",
+       "断固として"
+      ],
+      [
+       "determine (v.)",
+       "确定",
+       "決定する"
+      ]
+     ]
+    },
+    {
+     "w": "predetermine",
+     "pos": "v.",
+     "ipa": "/ˌpridɪˈtɝmɪn/",
+     "zh": "预先决定",
+     "ja": "あらかじめ決める",
+     "ex": "The budget will predetermine how many hires we make.",
+     "ex_zh": "预算将预先决定我们招多少人。",
+     "ex_ja": "予算によって採用人数があらかじめ決まる。",
+     "parts": [
+      [
+       "pre-",
+       "预先",
+       "前もって"
+      ],
+      [
+       "de-",
+       "彻底",
+       "完全に"
+      ],
+      [
+       "termin",
+       "界限",
+       "境界"
+      ]
+     ],
+     "note": {
+      "zh": "pre-（预先）+ de-（彻底）+ termin（界限）→ 事先划定。",
+      "ja": "pre-（前もって）+ de-（完全に）+ termin（境界）→ 事前に決める。"
+     },
+     "forms": [
+      [
+       "predetermined (adj.)",
+       "预定的",
+       "あらかじめ決められた"
+      ],
+      [
+       "at a predetermined time",
+       "在预定时间",
+       "所定の時刻に"
+      ]
+     ]
+    },
+    {
+     "w": "indeterminate",
+     "pos": "adj.",
+     "ipa": "/ˌɪndɪˈtɝmənət/",
+     "zh": "不确定的",
+     "ja": "不確定の",
+     "ex": "The contract has an indeterminate end date.",
+     "ex_zh": "合同的结束日期不确定。",
+     "ex_ja": "その契約には終了日が定まっていない。",
+     "parts": [
+      [
+       "in-",
+       "不",
+       "〜ない"
+      ],
+      [
+       "de-",
+       "彻底",
+       "完全に"
+      ],
+      [
+       "termin",
+       "界限",
+       "境界"
+      ],
+      [
+       "-ate",
+       "形容词后缀",
+       "形容詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "in-（不）+ de- + termin（界限）→ 没有划定界限。",
+      "ja": "in-（ない）+ de- + termin（境界）→ 定まっていない。"
+     },
+     "forms": [
+      [
+       "indeterminate period",
+       "不确定期间",
+       "不定期間"
+      ],
+      [
+       "determinate (adj.)",
+       "确定的",
+       "確定した"
+      ]
+     ]
+    },
+    {
+     "w": "terminus",
+     "pos": "n.",
+     "ipa": "/ˈtɝmənəs/",
+     "zh": "终点站",
+     "ja": "終点；ターミナル駅",
+     "ex": "The bus terminus is two blocks from our office.",
+     "ex_zh": "公交终点站离我们办公室两个街区。",
+     "ex_ja": "バスの終点は当社のオフィスから2ブロックだ。",
+     "parts": [
+      [
+       "termin",
+       "界限；终点",
+       "境界"
+      ],
+      [
+       "-us",
+       "拉丁语词尾",
+       "ラテン語語尾"
+      ]
+     ],
+     "note": {
+      "zh": "来自拉丁语 terminus（边界、终点）。",
+      "ja": "ラテン語 terminus（境界・終点）から。"
+     },
+     "forms": [
+      [
+       "terminal (n.)",
+       "终点站；航站楼",
+       "ターミナル"
+      ],
+      [
+       "terminate (v.)",
+       "终止",
+       "終了させる"
+      ]
+     ]
+    },
+    {
+     "w": "finance",
+     "pos": "n./v.",
+     "ipa": "/ˈfaɪˌnæns/",
+     "zh": "财务；融资",
+     "ja": "財務；資金調達",
+     "ex": "She works in finance at a large trading company.",
+     "ex_zh": "她在一家大型贸易公司从事财务工作。",
+     "ex_ja": "彼女は大手商社で財務の仕事をしている。",
+     "parts": [
+      [
+       "fin",
+       "结束；支付",
+       "終わり"
+      ],
+      [
+       "-ance",
+       "名词后缀",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "来自古法语 finer（支付、结清），源于 fin（终结）。",
+      "ja": "古フランス語 finer（支払う）から。fin（終わり）に由来。"
+     },
+     "forms": [
+      [
+       "finance a project",
+       "为项目融资",
+       "事業に資金を出す"
+      ],
+      [
+       "financial (adj.)",
+       "财务的",
+       "財務の"
+      ]
+     ]
+    },
+    {
+     "w": "finish",
+     "pos": "v.",
+     "ipa": "/ˈfɪnɪʃ/",
+     "zh": "完成；结束",
+     "ja": "終える",
+     "ex": "Please finish the report before the meeting.",
+     "ex_zh": "请在会议前完成报告。",
+     "ex_ja": "会議の前に報告書を仕上げてください。",
+     "parts": [
+      [
+       "fin",
+       "结束",
+       "終わり"
+      ],
+      [
+       "-ish",
+       "动词后缀",
+       "動詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "来自拉丁语 finire（结束），源于 finis（终点）。",
+      "ja": "ラテン語 finire（終える）から。finis（終わり）に由来。"
+     },
+     "forms": [
+      [
+       "finish -ing",
+       "做完……",
+       "〜し終える"
+      ],
+      [
+       "finishing touches",
+       "收尾工作",
+       "仕上げ"
+      ]
+     ]
+    },
+    {
+     "w": "finale",
+     "pos": "n.",
+     "ipa": "/fɪˈnæli/",
+     "zh": "结局；压轴",
+     "ja": "最終幕；フィナーレ",
+     "ex": "The fireworks were a fitting finale to the festival.",
+     "ex_zh": "烟火为这场庆典画上了完美句号。",
+     "ex_ja": "花火は祭りにふさわしい締めくくりだった。",
+     "parts": [
+      [
+       "fin",
+       "结束",
+       "終わり"
+      ],
+      [
+       "-ale",
+       "意大利语词尾",
+       "イタリア語の語尾"
+      ]
+     ],
+     "note": {
+      "zh": "意大利语借词，来自拉丁语 finis（结束）→ 终曲。",
+      "ja": "イタリア語経由の借用語。ラテン語 finis（終わり）から → 終幕。"
+     },
+     "forms": [
+      [
+       "grand finale",
+       "压轴大结局",
+       "大団円"
+      ],
+      [
+       "final (adj.)",
+       "最终的",
+       "最終の"
+      ]
+     ]
+    },
+    {
+     "w": "refinery",
+     "pos": "n.",
+     "ipa": "/rɪˈfaɪnəri/",
+     "zh": "炼油厂；精炼厂",
+     "ja": "精製所；製油所",
+     "ex": "The refinery reduced output during maintenance work.",
+     "ex_zh": "炼油厂在维护期间降低了产量。",
+     "ex_ja": "製油所は保守作業中に生産を減らした。",
+     "parts": [
+      [
+       "re-",
+       "再",
+       "再び"
+      ],
+      [
+       "fin",
+       "精细；纯",
+       "精製した"
+      ],
+      [
+       "-ery",
+       "场所",
+       "場所"
+      ]
+     ],
+     "note": {
+      "zh": "re-（再）+ fine（精炼，fin- 精细）+ -ery（场所）→ 精炼厂。",
+      "ja": "re-（再び）+ fine（精製）+ -ery（場所）→ 精製所。"
+     },
+     "forms": [
+      [
+       "oil refinery",
+       "炼油厂",
+       "製油所"
+      ],
+      [
+       "refine (v.)",
+       "提炼；改进",
+       "精製する；洗練する"
+      ]
+     ]
+    },
+    {
+     "w": "capacity",
+     "pos": "n.",
+     "ipa": "/kəˈpæsəti/",
+     "zh": "容量；产能；能力",
+     "ja": "容量；生産能力",
+     "ex": "The hall has a seating capacity of five hundred.",
+     "ex_zh": "大厅可容纳五百个座位。",
+     "ex_ja": "そのホールの収容人数は500席だ。",
+     "parts": [
+      [
+       "cap",
+       "容纳；抓取",
+       "受け入れる"
+      ],
+      [
+       "-acity",
+       "名词后缀",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "来自拉丁语 capax（能容纳的），源于 capere（拿、容）。",
+      "ja": "ラテン語 capax（容れられる）から。capere（取る）に由来。"
+     },
+     "forms": [
+      [
+       "at full capacity",
+       "满负荷",
+       "フル稼働で"
+      ],
+      [
+       "production capacity",
+       "产能",
+       "生産能力"
+      ]
+     ]
+    },
+    {
+     "w": "capability",
+     "pos": "n.",
+     "ipa": "/ˌkeɪpəˈbɪləti/",
+     "zh": "能力；性能",
+     "ja": "能力；性能",
+     "ex": "The new software has advanced reporting capabilities.",
+     "ex_zh": "新软件具备先进的报表功能。",
+     "ex_ja": "新しいソフトには高度なレポート機能がある。",
+     "parts": [
+      [
+       "cap",
+       "容纳；抓取",
+       "受け入れる"
+      ],
+      [
+       "-ability",
+       "能力",
+       "能力"
+      ]
+     ],
+     "note": {
+      "zh": "来自 capable（有能力的），源于拉丁语 capere。",
+      "ja": "capable（能力のある）から。ラテン語 capere に由来。"
+     },
+     "forms": [
+      [
+       "capable (adj.)",
+       "有能力的",
+       "有能な"
+      ],
+      [
+       "beyond our capability",
+       "超出我们的能力",
+       "当社の能力を超えて"
+      ]
+     ]
+    },
+    {
+     "w": "anticipate",
+     "pos": "v.",
+     "ipa": "/ænˈtɪsəˌpeɪt/",
+     "zh": "预期；预料",
+     "ja": "予期する",
+     "ex": "We anticipate a rise in orders this winter.",
+     "ex_zh": "我们预计今年冬天订单会增加。",
+     "ex_ja": "今年の冬は注文が増えると見込んでいる。",
+     "parts": [
+      [
+       "anti-",
+       "（ante-）先",
+       "先に"
+      ],
+      [
+       "cip",
+       "拿；取",
+       "取る"
+      ],
+      [
+       "-ate",
+       "动词后缀",
+       "動詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "anti-（ante-，先）+ cip（capere，拿）→ 先拿到 → 预料。",
+      "ja": "anti-（ante-，先に）+ cip（capere，取る）→ 先取りする → 予期する。"
+     },
+     "forms": [
+      [
+       "anticipation (n.)",
+       "预期",
+       "予期"
+      ],
+      [
+       "in anticipation of",
+       "预计……",
+       "〜に備えて"
+      ]
+     ]
+    },
+    {
+     "w": "renovation",
+     "pos": "n.",
+     "ipa": "/ˌrɛnəˈveɪʃən/",
+     "zh": "翻新；装修",
+     "ja": "改装；リフォーム",
+     "ex": "The lobby is closed for renovation until May.",
+     "ex_zh": "大堂因翻新关闭至五月。",
+     "ex_ja": "ロビーは5月まで改装のため閉鎖される。",
+     "parts": [
+      [
+       "re-",
+       "再",
+       "再び"
+      ],
+      [
+       "nov",
+       "新",
+       "新しい"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "re-（再）+ nov（新）+ -ation → 重新变新。",
+      "ja": "re-（再び）+ nov（新しい）+ -ation → 改装。"
+     },
+     "forms": [
+      [
+       "renovate (v.)",
+       "翻新",
+       "改装する"
+      ],
+      [
+       "under renovation",
+       "装修中",
+       "改装中"
+      ]
+     ]
+    },
+    {
+     "w": "renew",
+     "pos": "v.",
+     "ipa": "/rɪˈnu/",
+     "zh": "续订；更新",
+     "ja": "更新する",
+     "ex": "You must renew your membership by the end of June.",
+     "ex_zh": "你必须在六月底前续办会员资格。",
+     "ex_ja": "6月末までに会員資格を更新しなければならない。",
+     "parts": [
+      [
+       "re-",
+       "再",
+       "再び"
+      ],
+      [
+       "new",
+       "新",
+       "新しい"
+      ]
+     ],
+     "note": {
+      "zh": "re-（再）+ new（新）→ 更新、续期。",
+      "ja": "re-（再び）+ new（新しい）→ 更新する。"
+     },
+     "forms": [
+      [
+       "renewal (n.)",
+       "续订",
+       "更新"
+      ],
+      [
+       "renew a contract",
+       "续签合同",
+       "契約を更新する"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fac",
+   "title_zh": "主題：工程与设施",
+   "title_ja": "テーマ：エンジニアリングと施設",
+   "words": [
+    {
+     "w": "engineer",
+     "pos": "n.",
+     "ipa": "/ˌɛnʤəˈnɪr/",
+     "zh": "工程师",
+     "ja": "技術者；エンジニア",
+     "ex": "The engineer explained the design to the clients.",
+     "ex_zh": "工程师向客户讲解了设计方案。",
+     "ex_ja": "技術者は顧客に設計を説明した。",
+     "parts": [
+      [
+       "engine",
+       "发动机；巧思",
+       "装置"
+      ],
+      [
+       "-eer",
+       "……的人",
+       "〜する人"
+      ]
+     ],
+     "note": {
+      "zh": "engine 来自拉丁语 ingenium（才智）+ -eer（人）→ 工程师。",
+      "ja": "engine はラテン語 ingenium（才能）から + -eer（人）→ 技術者。"
+     },
+     "forms": [
+      [
+       "software engineer",
+       "软件工程师",
+       "ソフトウェア技術者"
+      ],
+      [
+       "engineering (n.)",
+       "工程",
+       "工学"
+      ]
+     ]
+    },
+    {
+     "w": "propeller",
+     "pos": "n.",
+     "ipa": "/prəˈpɛlɚ/",
+     "zh": "螺旋桨",
+     "ja": "プロペラ",
+     "ex": "The propeller on the ferry needs to be replaced.",
+     "ex_zh": "渡轮的螺旋桨需要更换。",
+     "ex_ja": "フェリーのプロペラを交換する必要がある。",
+     "parts": [
+      [
+       "pro-",
+       "向前",
+       "前へ"
+      ],
+      [
+       "pel",
+       "推",
+       "押す"
+      ],
+      [
+       "-er",
+       "……的东西",
+       "〜するもの"
+      ]
+     ],
+     "note": {
+      "zh": "pro-（向前）+ pel（推）+ -er → 向前推进的东西。",
+      "ja": "pro-（前へ）+ pel（押す）+ -er → 推進するもの。"
+     },
+     "forms": [
+      [
+       "propel (v.)",
+       "推动",
+       "推進する"
+      ],
+      [
+       "propulsion (n.)",
+       "推进力",
+       "推進力"
+      ]
+     ]
+    },
+    {
+     "w": "sanitary",
+     "pos": "adj.",
+     "ipa": "/ˈsænəˌtɛri/",
+     "zh": "卫生的",
+     "ja": "衛生的な",
+     "ex": "Restaurants must maintain sanitary conditions.",
+     "ex_zh": "餐厅必须保持卫生条件。",
+     "ex_ja": "飲食店は衛生的な状態を保たなければならない。",
+     "parts": [
+      [
+       "san",
+       "健康",
+       "健康"
+      ],
+      [
+       "-itary",
+       "……的",
+       "〜の"
+      ]
+     ],
+     "note": {
+      "zh": "来自拉丁语 sanitas（健康）。",
+      "ja": "ラテン語 sanitas（健康）から。"
+     },
+     "forms": [
+      [
+       "sanitary conditions",
+       "卫生条件",
+       "衛生状態"
+      ],
+      [
+       "unsanitary (adj.)",
+       "不卫生的",
+       "不衛生な"
+      ]
+     ]
+    },
+    {
+     "w": "sane",
+     "pos": "adj.",
+     "ipa": "/seɪn/",
+     "zh": "理智的；明智的",
+     "ja": "分別のある；正気の",
+     "ex": "It is not sane to ignore safety warnings.",
+     "ex_zh": "无视安全警告是不明智的。",
+     "ex_ja": "安全警告を無視するのは賢明ではない。",
+     "parts": [
+      [
+       "san",
+       "健康",
+       "健康"
+      ],
+      [
+       "-e",
+       "词尾",
+       "語尾"
+      ]
+     ],
+     "note": {
+      "zh": "来自拉丁语 sanus（健康的、清醒的）。",
+      "ja": "ラテン語 sanus（健康な）から。"
+     },
+     "forms": [
+      [
+       "a sane decision",
+       "明智的决定",
+       "分別のある決定"
+      ],
+      [
+       "sanity (n.)",
+       "理智",
+       "正気"
+      ]
+     ]
+    },
+    {
+     "w": "fluency",
+     "pos": "n.",
+     "ipa": "/ˈfluənsi/",
+     "zh": "流利；流畅",
+     "ja": "流暢さ",
+     "ex": "Fluency in English is required for this position.",
+     "ex_zh": "这个职位要求英语流利。",
+     "ex_ja": "この職務には英語の流暢さが求められる。",
+     "parts": [
+      [
+       "flu",
+       "流",
+       "流れる"
+      ],
+      [
+       "-ency",
+       "名词后缀",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "flu（流）+ -ency → 像水流一样顺畅。",
+      "ja": "flu（流れる）+ -ency → 流暢さ。"
+     },
+     "forms": [
+      [
+       "fluent (adj.)",
+       "流利的",
+       "流暢な"
+      ],
+      [
+       "fluent in",
+       "精通",
+       "〜に堪能な"
+      ]
+     ]
+    },
+    {
+     "w": "effluent",
+     "pos": "n.",
+     "ipa": "/ˈɛfluənt/",
+     "zh": "废水；排出物",
+     "ja": "排水；廃液",
+     "ex": "The plant must treat its effluent before release.",
+     "ex_zh": "工厂必须先处理废水再排放。",
+     "ex_ja": "その工場は排水を放流前に処理しなければならない。",
+     "parts": [
+      [
+       "ef-",
+       "（ex-）向外",
+       "外へ"
+      ],
+      [
+       "flu",
+       "流",
+       "流れる"
+      ],
+      [
+       "-ent",
+       "名词后缀",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "ef-（ex-，向外）+ flu（流）→ 流出来的东西。",
+      "ja": "ef-（ex-，外へ）+ flu（流れる）→ 流れ出るもの。"
+     },
+     "forms": [
+      [
+       "industrial effluent",
+       "工业废水",
+       "工業排水"
+      ],
+      [
+       "treat effluent",
+       "处理废水",
+       "排水を処理する"
+      ]
+     ]
+    },
+    {
+     "w": "respiration",
+     "pos": "n.",
+     "ipa": "/ˌrɛspəˈreɪʃən/",
+     "zh": "呼吸",
+     "ja": "呼吸",
+     "ex": "Staff monitor the patient's respiration every hour.",
+     "ex_zh": "工作人员每小时监测患者的呼吸。",
+     "ex_ja": "スタッフは1時間ごとに患者の呼吸を確認する。",
+     "parts": [
+      [
+       "re-",
+       "再",
+       "再び"
+      ],
+      [
+       "spir",
+       "呼吸",
+       "息をする"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "re-（再）+ spir（呼吸）+ -ation → 呼吸。",
+      "ja": "re-（再び）+ spir（息をする）+ -ation → 呼吸。"
+     },
+     "forms": [
+      [
+       "respiratory (adj.)",
+       "呼吸的",
+       "呼吸の"
+      ],
+      [
+       "respirator (n.)",
+       "呼吸器",
+       "人工呼吸器"
+      ]
+     ]
+    },
+    {
+     "w": "dome",
+     "pos": "n.",
+     "ipa": "/doʊm/",
+     "zh": "圆顶；穹顶",
+     "ja": "ドーム；丸屋根",
+     "ex": "The museum is famous for its glass dome.",
+     "ex_zh": "这座博物馆以其玻璃穹顶闻名。",
+     "ex_ja": "その美術館はガラスのドームで有名だ。",
+     "parts": [],
+     "note": {
+      "zh": "没有可靠的词根拆分：dome 来自意大利语 duomo / 拉丁语 domus（房屋），在现代英语中视为单词记忆。",
+      "ja": "信頼できる語根分解はありません：dome はイタリア語 duomo／ラテン語 domus（家）から。単語として覚えましょう。"
+     },
+     "forms": [
+      [
+       "glass dome",
+       "玻璃穹顶",
+       "ガラスのドーム"
+      ],
+      [
+       "domed (adj.)",
+       "圆顶的",
+       "ドーム型の"
+      ]
+     ]
+    },
+    {
+     "w": "domicile",
+     "pos": "n.",
+     "ipa": "/ˈdɑməˌsaɪl/",
+     "zh": "住所；户籍所在地",
+     "ja": "居住地；住所",
+     "ex": "Please state your country of domicile on the form.",
+     "ex_zh": "请在表格上填写您的居住国。",
+     "ex_ja": "フォームに居住国を記入してください。",
+     "parts": [
+      [
+       "dom",
+       "房屋",
+       "家"
+      ],
+      [
+       "-icile",
+       "居住",
+       "住む"
+      ]
+     ],
+     "note": {
+      "zh": "来自拉丁语 domus（房屋）+ colere（居住）。",
+      "ja": "ラテン語 domus（家）+ colere（住む）から。"
+     },
+     "forms": [
+      [
+       "country of domicile",
+       "居住国",
+       "居住国"
+      ],
+      [
+       "domestic (adj.)",
+       "国内的；家庭的",
+       "国内の；家庭の"
+      ]
+     ]
+    },
+    {
+     "w": "freedom",
+     "pos": "n.",
+     "ipa": "/ˈfridəm/",
+     "zh": "自由",
+     "ja": "自由",
+     "ex": "Flexible hours give employees more freedom.",
+     "ex_zh": "弹性工时给了员工更多自由。",
+     "ex_ja": "フレックスタイムは従業員に自由を与える。",
+     "parts": [
+      [
+       "free",
+       "自由",
+       "自由な"
+      ],
+      [
+       "-dom",
+       "状态",
+       "状態"
+      ]
+     ],
+     "note": {
+      "zh": "free（自由）+ -dom（状态）→ 自由。注意：与 domus 无关，是英语后缀。",
+      "ja": "free（自由な）+ -dom（状態）→ 自由。-dom は英語の接尾辞で domus とは無関係。"
+     },
+     "forms": [
+      [
+       "freedom of choice",
+       "选择自由",
+       "選択の自由"
+      ],
+      [
+       "financial freedom",
+       "财务自由",
+       "経済的自由"
+      ]
+     ]
+    },
+    {
+     "w": "pulse",
+     "pos": "n.",
+     "ipa": "/pʌls/",
+     "zh": "脉搏；脉冲",
+     "ja": "脈拍；パルス",
+     "ex": "The nurse checked the patient's pulse.",
+     "ex_zh": "护士检查了患者的脉搏。",
+     "ex_ja": "看護師は患者の脈拍を確認した。",
+     "parts": [
+      [
+       "puls",
+       "敲击；推",
+       "打つ"
+      ],
+      [
+       "-e",
+       "词尾",
+       "語尾"
+      ]
+     ],
+     "note": {
+      "zh": "来自拉丁语 pulsus（敲击），源于 pellere（推、敲）。",
+      "ja": "ラテン語 pulsus（打つこと）から。pellere（押す）に由来。"
+     },
+     "forms": [
+      [
+       "pulse rate",
+       "脉率",
+       "脈拍数"
+      ],
+      [
+       "pulse survey",
+       "脉动调查",
+       "パルスサーベイ"
+      ]
+     ]
+    },
+    {
+     "w": "spirit",
+     "pos": "n.",
+     "ipa": "/ˈspɪrɪt/",
+     "zh": "精神；士气",
+     "ja": "精神；士気",
+     "ex": "Team spirit improved after the retreat.",
+     "ex_zh": "团建之后团队士气提高了。",
+     "ex_ja": "研修旅行のあとチームの士気が上がった。",
+     "parts": [
+      [
+       "spir",
+       "呼吸",
+       "息"
+      ],
+      [
+       "-it",
+       "名词后缀",
+       "名詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "来自拉丁语 spiritus（呼吸、气息）→ 精神。",
+      "ja": "ラテン語 spiritus（息）→ 精神。"
+     },
+     "forms": [
+      [
+       "in good spirits",
+       "心情好",
+       "上機嫌で"
+      ],
+      [
+       "team spirit",
+       "团队精神",
+       "チームワーク"
+      ]
+     ]
+    },
+    {
+     "w": "capacious",
+     "pos": "adj.",
+     "ipa": "/kəˈpeɪʃəs/",
+     "zh": "宽敞的；容量大的",
+     "ja": "広々とした；容量の大きい",
+     "ex": "The car has a capacious trunk for sample cases.",
+     "ex_zh": "这辆车有容量很大的后备箱可放样品箱。",
+     "ex_ja": "その車にはサンプルケースを積める広いトランクがある。",
+     "parts": [
+      [
+       "cap",
+       "容纳",
+       "受け入れる"
+      ],
+      [
+       "-acious",
+       "形容词后缀",
+       "形容詞語尾"
+      ]
+     ],
+     "note": {
+      "zh": "来自拉丁语 capax（能容纳的），与 capacity 同源。",
+      "ja": "ラテン語 capax（容れられる）から。capacity と同源。"
+     },
+     "forms": [
+      [
+       "capacious bag",
+       "大容量的包",
+       "大容量のバッグ"
+      ],
+      [
+       "capacity (n.)",
+       "容量",
+       "容量"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}
