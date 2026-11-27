@@ -8956,6 +8956,355 @@
      "src": "site+ep27"
     }
    ]
+  },
+  "56": {
+   "date": "2026-11-28",
+   "focus_zh": "考后轻复习：Part 5 复习 8 题 + Part 7 两篇（Test 3）",
+   "focus_ja": "試験後の軽い復習：Part 5 復習8問＋Part 7 の2題（Test 3）",
+   "grammar": [
+    {
+     "id": "T3-Q116",
+     "label": "Test 3 · Q116",
+     "test": 3,
+     "no": 116,
+     "part": 5,
+     "q": "Hickory Creek is not far from Fairview, so you can easily visit ------- in a single day.",
+     "options": [
+      "which",
+      "both",
+      "none",
+      "fewer"
+     ],
+     "answer": "B",
+     "topic_zh": "关系词 · 代词",
+     "topic_ja": "関係詞 · 代名詞",
+     "tip_zh": "前面提到两个地方 → both“两个都”（which 后面没有从句）",
+     "tip_ja": "前に2つの場所 → both「両方とも」（which の後ろに節がない）",
+     "src": "ep54",
+     "exp_zh": "前文提到两个地点 Hickory Creek 和 Fairview，“一天内可以轻松游览两地”，代词 both 作宾语，选 (B)。",
+     "exp_ja": "前に2つの地名が出ているので「両方」を指す代名詞 both が目的語に入る。(B)。"
+    },
+    {
+     "id": "T3-Q119",
+     "label": "Test 3 · Q119",
+     "test": 3,
+     "no": 119,
+     "part": 5,
+     "q": "Seasonal employees at Waterslide Park receive their ------- paycheck one week after the close of the season.",
+     "options": [
+      "final",
+      "steady",
+      "absolute",
+      "fortunate"
+     ],
+     "answer": "A",
+     "topic_zh": "词汇",
+     "topic_ja": "語彙",
+     "tip_zh": "final paycheck“最后一笔工资”",
+     "tip_ja": "final paycheck「最後の給与」",
+     "src": "ep56",
+     "exp_zh": "季节结束后一周领取“最后一笔”工资，选 (A) final。",
+     "exp_ja": "シーズン終了の1週間後に受け取るのは「最後の」給与。(A) final。",
+     "vocab_zh": [
+      "seasonal 季节性的",
+      "paycheck 工资"
+     ],
+     "vocab_ja": [
+      "seasonal 季節雇用の",
+      "paycheck 給与"
+     ]
+    },
+    {
+     "id": "T3-Q120",
+     "label": "Test 3 · Q120",
+     "test": 3,
+     "no": 120,
+     "part": 5,
+     "q": "------- time you make a purchase with your Pierce Card, a portion of the transaction will be donated to the charity of your choice.",
+     "options": [
+      "Yet",
+      "Beside",
+      "Each",
+      "Until"
+     ],
+     "answer": "C",
+     "topic_zh": "综合：介词 · 副词 · 连接",
+     "topic_ja": "総まとめ：前置詞 · 副詞 · つなぎ",
+     "tip_zh": "Each time + 句子“每当……”，相当于连词",
+     "tip_ja": "Each time ＋ 文「…するたびに」で接続詞の働き",
+     "src": "ep57",
+     "exp_zh": "each time + 句子 = “每当……”，相当于连词，选 (C)。",
+     "exp_ja": "each time + 節で「～するたびに」。(C) Each。",
+     "vocab_zh": [
+      "portion 一部分",
+      "charity 慈善机构"
+     ],
+     "vocab_ja": [
+      "portion 一部",
+      "charity 慈善団体"
+     ]
+    },
+    {
+     "id": "T3-Q121",
+     "label": "Test 3 · Q121",
+     "test": 3,
+     "no": 121,
+     "part": 5,
+     "q": "Griffley Architects is working ------- with Lim Construction to create a state-of-the-art office building on Bell Street.",
+     "options": [
+      "previously",
+      "scarcely",
+      "cooperatively",
+      "immensely"
+     ],
+     "answer": "C",
+     "topic_zh": "词汇",
+     "topic_ja": "語彙",
+     "tip_zh": "work cooperatively with …“与……合作”",
+     "tip_ja": "work cooperatively with …「…と協力して働く」",
+     "src": "ep55",
+     "exp_zh": "work cooperatively with ...“与……合作”，选 (C)。A 与现在进行时冲突，B、D 语义不符。",
+     "exp_ja": "work cooperatively with ...「～と協力して取り組む」。(C)。",
+     "vocab_zh": [
+      "state-of-the-art 最先进的"
+     ],
+     "vocab_ja": [
+      "state-of-the-art 最新式の"
+     ]
+    },
+    {
+     "id": "T3-Q122",
+     "label": "Test 3 · Q122",
+     "test": 3,
+     "no": 122,
+     "part": 5,
+     "q": "Glate's laminate flooring looks just like ------- wood, but it is much easier to maintain.",
+     "options": [
+      "authentication",
+      "authenticity",
+      "authenticate",
+      "authentic"
+     ],
+     "answer": "D",
+     "topic_zh": "词性",
+     "topic_ja": "品詞",
+     "tip_zh": "just like + 形容词 + 名词 wood → authentic",
+     "tip_ja": "just like + 形容詞 + 名詞 wood → authentic",
+     "src": "ep51",
+     "exp_zh": "空格修饰名词 wood，需要形容词 authentic（真正的），选 (D)。",
+     "exp_ja": "名詞 wood を修飾する形容詞 authentic（本物の）。(D)。",
+     "vocab_zh": [
+      "laminate 层压的",
+      "maintain 保养"
+     ],
+     "vocab_ja": [
+      "laminate ラミネート（合板）",
+      "maintain 手入れする"
+     ]
+    },
+    {
+     "id": "T3-Q124",
+     "label": "Test 3 · Q124",
+     "test": 3,
+     "no": 124,
+     "part": 5,
+     "q": "A library card will be issued to any Mountain City resident ------- requests one.",
+     "options": [
+      "who",
+      "what",
+      "whatever",
+      "whoever"
+     ],
+     "answer": "A",
+     "topic_zh": "关系词 · 代词",
+     "topic_ja": "関係詞 · 代名詞",
+     "tip_zh": "先行词 resident（人）+ 后面缺主语 → 主格关系代词 who",
+     "tip_ja": "先行詞 resident（人）+ 後ろに主語がない → 主格の関係代名詞 who",
+     "src": "ep54",
+     "exp_zh": "空格引导定语从句修饰先行词 resident（人），且在从句中作主语，用关系代词 who，选 (A)。whoever 本身含先行词，不能接在名词后。",
+     "exp_ja": "先行詞 resident（人）を修飾する関係代名詞で、節内の主語になる who (A)。whoever は先行詞を含むため不可。",
+     "vocab_zh": [
+      "issue 发放"
+     ],
+     "vocab_ja": [
+      "issue 発行する"
+     ]
+    },
+    {
+     "id": "T3-Q125",
+     "label": "Test 3 · Q125",
+     "test": 3,
+     "no": 125,
+     "part": 5,
+     "q": "------- businesses switched to Birijon Web-Hosting Services after its closest competitor experienced server failures.",
+     "options": [
+      "Despite",
+      "Over",
+      "Beyond",
+      "More"
+     ],
+     "answer": "D",
+     "topic_zh": "综合：介词 · 副词 · 连接",
+     "topic_ja": "総まとめ：前置詞 · 副詞 · つなぎ",
+     "tip_zh": "More + 名词作主语（三个介词干扰项）",
+     "tip_ja": "More ＋ 名詞で主語（前置詞3つがひっかけ）",
+     "src": "ep57",
+     "exp_zh": "空格修饰名词 businesses 作主语，“更多企业转向……”，形容词 More，选 (D)。A、B、C 是介词，使句子缺少主语。",
+     "exp_ja": "主語 businesses を修飾する形容詞 More「より多くの企業」(D)。他は前置詞で主語がなくなる。",
+     "vocab_zh": [
+      "competitor 竞争对手"
+     ],
+     "vocab_ja": [
+      "competitor 競合他社"
+     ]
+    },
+    {
+     "id": "T3-Q127",
+     "label": "Test 3 · Q127",
+     "test": 3,
+     "no": 127,
+     "part": 5,
+     "q": "Everyone should have received a copy of the staff directory that ------- last week.",
+     "options": [
+      "distributed",
+      "distributing",
+      "was distributed",
+      "was distributing"
+     ],
+     "answer": "C",
+     "topic_zh": "时态 · 语态",
+     "topic_ja": "時制 · 態",
+     "tip_zh": "last week → 过去时；目录“被分发” → was distributed（关系从句 that 的谓语）",
+     "tip_ja": "last week → 過去形；名簿は「配布される」→ was distributed（関係詞節 that の述語）",
+     "src": "ep52",
+     "exp_zh": "先行词 directory（名册）是被分发的对象，last week 表示过去，用一般过去时被动 (C) was distributed。",
+     "exp_ja": "先行詞 directory は「配布された」側で、last week なので過去の受動態 (C)。",
+     "vocab_zh": [
+      "staff directory 员工名册"
+     ],
+     "vocab_ja": [
+      "staff directory 社員名簿"
+     ]
+    }
+   ],
+   "reading": [
+    {
+     "id": "T3-Q152-153",
+     "label": "Test 3 · Q152–153",
+     "test": 3,
+     "part": 7,
+     "intro": "Questions 152-153 refer to the following notice.",
+     "docs": [
+      [
+       {
+        "t": "title",
+        "x": "Pinebrook Manors Policy Update: Good News for Grillers"
+       },
+       {
+        "t": "p",
+        "x": "The Pinebrook Manors Homeowners Association has recently made a policy change to Item 19.3 on page 28 of our Community Standards Guide. As of 9 June, homeowners will be permitted to use a charcoal, gas, or propane grill on their patios in the back of their houses without approval from the homeowners association. However, if you plan to connect a grill to the natural gas line, you will need written permission from the association before installation. The office has the appropriate forms for this request. In all cases, grills must be placed on the cement patio, no closer than four feet from the house."
+       },
+       {
+        "t": "p",
+        "x": "Thank you. We hope you enjoy safe barbecuing!"
+       }
+      ]
+     ],
+     "questions": [
+      {
+       "no": 152,
+       "label": "Test 3 · Q152",
+       "q": "Who is the notice written for?",
+       "options": [
+        "Workers at a construction company",
+        "Business owners in a specific area",
+        "Subscribers to a local newspaper",
+        "Residents of a private community"
+       ],
+       "answer": "D",
+       "exp_zh": "通知由 Pinebrook Manors 业主协会发布，内容是社区标准指南的修改，对象是该社区的住户，选 (D)。",
+       "exp_ja": "Pinebrook Manors の住宅所有者協会が地域の規約変更を知らせているので、対象はその住宅地の住民。(D)。"
+      },
+      {
+       "no": 153,
+       "label": "Test 3 · Q153",
+       "q": "What will be allowed as of June 9?",
+       "options": [
+        "The use of barbecue grills",
+        "The installation of back patios",
+        "Access to a public cooking area",
+        "Paid access to a natural gas line"
+       ],
+       "answer": "A",
+       "exp_zh": "通知说自 6 月 9 日起，业主无需协会批准即可在后院露台使用木炭、燃气或丙烷烤架，选 (A)。",
+       "exp_ja": "6月9日から協会の承認なしに裏のパティオで炭・ガス・プロパンのグリルを使えるとあるので (A)。"
+      }
+     ],
+     "src": "site+ep28"
+    },
+    {
+     "id": "T3-Q154-155",
+     "label": "Test 3 · Q154–155",
+     "test": 3,
+     "part": 7,
+     "intro": "Questions 154-155 refer to the following review.",
+     "docs": [
+      [
+       {
+        "t": "title",
+        "x": "Hoskuld Tours is the Best Tour Operator in Iceland!"
+       },
+       {
+        "t": "p",
+        "x": "★★★★★"
+       },
+       {
+        "t": "p",
+        "x": "If you're planning to visit Reykjavik, be sure to check out Hoskuld Tours. It offers the best group walking tours I've ever been on—and I have been on many, all over the globe. The guides are friendly and knowledgeable. Over the course of two and a half hours, you'll see just about every important landmark in central Reykjavik at a very reasonable cost. After the tour, you can enjoy a meal at one of the city's classy restaurants and spend the afternoon at the Icelandic History Museum."
+       },
+       {
+        "t": "p",
+        "x": "Hoskuld Tours also offers boat excursions for whale watching. Unfortunately, I missed my chance. I would have gone on one of these excursions if my visit to Iceland had been longer, but I will definitely do it on my next visit."
+       },
+       {
+        "t": "sign",
+        "x": "—Elise Chae"
+       }
+      ]
+     ],
+     "questions": [
+      {
+       "no": 154,
+       "label": "Test 3 · Q154",
+       "q": "What is suggested about Ms. Chae?",
+       "options": [
+        "She is an experienced traveler.",
+        "She used to work in Reykjavik.",
+        "She took a walking tour that lasted all day.",
+        "She thinks that her restaurant meal cost too much."
+       ],
+       "answer": "A",
+       "exp_zh": "她说这是她参加过的最好的徒步游，而且“我在世界各地参加过很多”(I have been on many, all over the globe)，可见她旅行经验丰富，选 (A)。行程只有两个半小时，C 错。",
+       "exp_ja": "「世界中で数多くのツアーに参加してきた」とあるので旅慣れていると分かる。(A)。ツアーは2時間半なので (C) は誤り。"
+      },
+      {
+       "no": 155,
+       "label": "Test 3 · Q155",
+       "q": "What does Ms. Chae plan to do on her next visit to Iceland?",
+       "options": [
+        "Visit a museum",
+        "See a city landmark",
+        "Go whale watching",
+        "Hire a private tour guide"
+       ],
+       "answer": "C",
+       "exp_zh": "她说这次错过了观鲸游船，下次来一定要去(I will definitely do it on my next visit)，选 (C)。",
+       "exp_ja": "クジラウォッチングの船に今回は乗れなかったが「次の訪問では必ず参加する」と書いているので (C)。"
+      }
+     ],
+     "src": "site+ep29"
+    }
+   ]
   }
  },
  "warmup": {

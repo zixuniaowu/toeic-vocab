@@ -1,0 +1,2153 @@
+{
+ "day": 56,
+ "date": "2026-11-28",
+ "title_zh": "四大词根 + 提案投标与合同条款 + 数字媒体与办公网络",
+ "title_ja": "4つの語根＋提案・入札・契約条項＋デジタルメディアとオフィスネットワーク",
+ "intro_zh": "今天的词根是 -part-（部分）、-opt-（选择）、-propri-（自己的）、-clar-（清楚）；主题是提案、投标与合同条款，以及数字媒体与办公网络。",
+ "intro_ja": "今日の語根は -part-（部分）、-opt-（選ぶ）、-propri-（自分の）、-clar-（明確）。テーマは提案・入札・契約条項、デジタルメディアとオフィスネットワーク。",
+ "voice": "en-US-AriaNeural",
+ "roots": [
+  {
+   "root": "-part-",
+   "origin": "Latin pars, partis",
+   "zh": "部分；份额",
+   "ja": "部分；分け前",
+   "exp_zh": "来自拉丁语 pars（部分）。一部分 → partial；分到一份的人 → partner；分出来的块 → department；离开 → depart；拿一份 → participation。",
+   "exp_ja": "ラテン語 pars（部分）から。一部 → partial；分け前を持つ人 → partner；分けた区分 → department；離れる → depart；分け前を取る → participation。",
+   "examples": [
+    "partial",
+    "partially",
+    "partner",
+    "partnership",
+    "department",
+    "particular",
+    "particularly",
+    "counterpart",
+    "depart",
+    "partake",
+    "impartiality",
+    "participation"
+   ]
+  },
+  {
+   "root": "-opt-",
+   "origin": "Latin optare",
+   "zh": "选择",
+   "ja": "選ぶ",
+   "exp_zh": "来自拉丁语 optare（选择）。选项 → option；选来用 → adopt；选择退出 → opt out。⚠️ optimal / optimism 来自 optimus（最好的），不是此词根。",
+   "exp_ja": "ラテン語 optare（選ぶ）から。選択肢 → option；選び取る → adopt；脱退する → opt out。optimal / optimism は optimus（最良の）由来で別源。",
+   "examples": [
+    "option",
+    "optional",
+    "optionally",
+    "opt",
+    "adopt",
+    "adoption",
+    "adopter"
+   ]
+  },
+  {
+   "root": "-propri-",
+   "origin": "Latin proprius",
+   "zh": "自己的；本分",
+   "ja": "自分の；本来の",
+   "exp_zh": "来自拉丁语 proprius（自己的）。据为己有 / 划拨 → appropriation；合乎本分 → appropriate；得体 → propriety；所有人 → proprietorship。",
+   "exp_ja": "ラテン語 proprius（自分の）から。自分のものにする・充当 → appropriation；本来にふさわしい → appropriate；礼儀 → propriety；所有者 → proprietorship。",
+   "examples": [
+    "appropriately",
+    "inappropriate",
+    "appropriation",
+    "misappropriation",
+    "propriety",
+    "proprietorship"
+   ]
+  },
+  {
+   "root": "-clar-",
+   "origin": "Latin clarus",
+   "zh": "明亮；清楚",
+   "ja": "明るい；明確",
+   "exp_zh": "来自拉丁语 clarus（明亮、清楚）。清晰度 → clarity；使清楚 → clarify / clarification；clear 也经古法语来自 clarus。",
+   "exp_ja": "ラテン語 clarus（明るい・明確）から。明確さ → clarity；はっきりさせる → clarify / clarification；clear も古フランス語経由で clarus 由来。",
+   "examples": [
+    "clarity",
+    "clarification",
+    "clearly",
+    "unclear"
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "part",
+   "title_zh": "词根 -part-：部分",
+   "title_ja": "語根 -part-：部分",
+   "words": [
+    {
+     "w": "partial",
+     "pos": "adj.",
+     "ipa": "/ˈpɑrʃəl/",
+     "zh": "部分的；偏袒的",
+     "ja": "部分的な；偏った",
+     "ex": "The client made a partial payment on the invoice.",
+     "ex_zh": "客户支付了发票的一部分款项。",
+     "ex_ja": "顧客は請求書の一部だけを支払った。",
+     "parts": [
+      [
+       "part",
+       "部分",
+       "部分"
+      ],
+      [
+       "-ial",
+       "形容词后缀",
+       "形容詞語尾"
+      ]
+     ],
+     "forms": [
+      [
+       "partial payment",
+       "部分付款",
+       "一部支払い"
+      ],
+      [
+       "partially (adv.)",
+       "部分地",
+       "部分的に"
+      ]
+     ],
+     "note": {
+      "zh": "part（部分）+ -ial → 只是一部分的。",
+      "ja": "part（部分）+ -ial → 一部分の。"
+     }
+    },
+    {
+     "w": "partially",
+     "pos": "adv.",
+     "ipa": "/ˈpɑrʃəli/",
+     "zh": "部分地；不完全地",
+     "ja": "部分的に",
+     "ex": "The road is partially blocked by construction work.",
+     "ex_zh": "道路被施工部分堵住了。",
+     "ex_ja": "道路は工事で一部ふさがれている。",
+     "parts": [
+      [
+       "part",
+       "部分",
+       "部分"
+      ],
+      [
+       "-ial",
+       "形容词后缀",
+       "形容詞語尾"
+      ],
+      [
+       "-ly",
+       "副词后缀",
+       "副詞語尾"
+      ]
+     ],
+     "forms": [
+      [
+       "partially refund",
+       "部分退款",
+       "一部返金する"
+      ],
+      [
+       "partial (adj.)",
+       "部分的",
+       "部分的な"
+      ]
+     ],
+     "note": {
+      "zh": "part（部分）+ -ial + -ly → 部分地。",
+      "ja": "part（部分）+ -ial + -ly → 部分的に。"
+     }
+    },
+    {
+     "w": "partner",
+     "pos": "n.",
+     "ipa": "/ˈpɑrtnɚ/",
+     "zh": "合伙人；合作伙伴",
+     "ja": "パートナー；共同経営者",
+     "ex": "She became a partner at the law firm last year.",
+     "ex_zh": "她去年成为这家律师事务所的合伙人。",
+     "ex_ja": "彼女は昨年その法律事務所のパートナーになった。",
+     "parts": [
+      [
+       "part",
+       "部分；份额",
+       "分け前"
+      ],
+      [
+       "-ner",
+       "人（名词后缀）",
+       "人を表す語尾"
+      ]
+     ],
+     "forms": [
+      [
+       "business partner",
+       "合作伙伴",
+       "ビジネスパートナー"
+      ],
+      [
+       "partner with",
+       "与……合作",
+       "〜と提携する"
+      ]
+     ],
+     "note": {
+      "zh": "part（份额）→ 分担份额的人 → 合伙人。",
+      "ja": "part（分け前）→ 分け前を持つ人 → パートナー。"
+     }
+    },
+    {
+     "w": "partnership",
+     "pos": "n.",
+     "ipa": "/ˈpɑrtnɚˌʃɪp/",
+     "zh": "合作关系；合伙企业",
+     "ja": "提携；共同経営",
+     "ex": "The two firms formed a partnership to enter the Asian market.",
+     "ex_zh": "两家公司结成合作关系进军亚洲市场。",
+     "ex_ja": "2社はアジア市場に参入するため提携した。",
+     "parts": [
+      [
+       "part",
+       "部分；份额",
+       "分け前"
+      ],
+      [
+       "-ner",
+       "人",
+       "人"
+      ],
+      [
+       "-ship",
+       "关系；状态",
+       "関係・状態"
+      ]
+     ],
+     "forms": [
+      [
+       "in partnership with",
+       "与……合作",
+       "〜と提携して"
+      ],
+      [
+       "form a partnership",
+       "建立合作",
+       "提携を結ぶ"
+      ]
+     ],
+     "note": {
+      "zh": "partner（合伙人）+ -ship（关系）→ 合作关系。",
+      "ja": "partner（共同経営者）+ -ship（関係）→ 提携。"
+     }
+    },
+    {
+     "w": "department",
+     "pos": "n.",
+     "ipa": "/dɪˈpɑrtmənt/",
+     "zh": "部门；系",
+     "ja": "部署；学部",
+     "ex": "Please send the report to the marketing department.",
+     "ex_zh": "请把报告发给市场部。",
+     "ex_ja": "そのレポートをマーケティング部に送ってください。",
+     "parts": [
+      [
+       "de-",
+       "分离",
+       "分ける"
+      ],
+      [
+       "part",
+       "部分",
+       "部分"
+      ],
+      [
+       "-ment",
+       "名词后缀",
+       "名詞語尾"
+      ]
+     ],
+     "forms": [
+      [
+       "department head",
+       "部门主管",
+       "部長"
+      ],
+      [
+       "department store",
+       "百货商店",
+       "百貨店"
+      ]
+     ],
+     "note": {
+      "zh": "de-（分离）+ part（部分）+ -ment → 分出来的一块 → 部门。",
+      "ja": "de-（分ける）+ part（部分）+ -ment → 分けた区分 → 部署。"
+     }
+    },
+    {
+     "w": "particular",
+     "pos": "adj.",
+     "ipa": "/pɚˈtɪkjələr/",
+     "zh": "特定的；讲究的",
+     "ja": "特定の；こだわりのある",
+     "ex": "Do you have a particular date in mind for the meeting?",
+     "ex_zh": "您对会议有特定的日期吗？",
+     "ex_ja": "会議について特にご希望の日程はありますか。",
+     "parts": [
+      [
+       "part",
+       "部分",
+       "部分"
+      ],
+      [
+       "-icul",
+       "小的",
+       "小さい"
+      ],
+      [
+       "-ar",
+       "形容词后缀",
+       "形容詞語尾"
+      ]
+     ],
+     "forms": [
+      [
+       "in particular",
+       "尤其",
+       "特に"
+      ],
+      [
+       "particulars (n.)",
+       "详情",
+       "詳細"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 particula（小部分）+ -ar → 个别的、特定的。",
+      "ja": "ラテン語 particula（小さな部分）+ -ar → 個々の・特定の。"
+     }
+    },
+    {
+     "w": "particularly",
+     "pos": "adv.",
+     "ipa": "/pɚˈtɪkjələrli/",
+     "zh": "特别；尤其",
+     "ja": "特に",
+     "ex": "The new design is particularly popular with young customers.",
+     "ex_zh": "新设计特别受年轻顾客欢迎。",
+     "ex_ja": "新しいデザインは若い顧客に特に人気だ。",
+     "parts": [
+      [
+       "part",
+       "部分",
+       "部分"
+      ],
+      [
+       "-icul",
+       "小的",
+       "小さい"
+      ],
+      [
+       "-ar-ly",
+       "形容词+副词后缀",
+       "形容詞＋副詞語尾"
+      ]
+     ],
+     "forms": [
+      [
+       "particularly useful",
+       "特别有用",
+       "特に役立つ"
+      ],
+      [
+       "not particularly",
+       "不太",
+       "あまり〜ない"
+      ]
+     ],
+     "note": {
+      "zh": "particular（特定的）+ -ly → 尤其。",
+      "ja": "particular（特定の）+ -ly → 特に。"
+     }
+    },
+    {
+     "w": "counterpart",
+     "pos": "n.",
+     "ipa": "/ˈkaʊntɚˌpɑrt/",
+     "zh": "对应的人（物）；同行",
+     "ja": "対応する人（物）；相手方",
+     "ex": "The CEO met with her counterpart from the Osaka office.",
+     "ex_zh": "首席执行官与大阪办公室的对等负责人会面。",
+     "ex_ja": "CEOは大阪支社の対応する責任者と会った。",
+     "parts": [
+      [
+       "counter-",
+       "相对",
+       "対応して"
+      ],
+      [
+       "part",
+       "部分；角色",
+       "役割"
+      ]
+     ],
+     "forms": [
+      [
+       "counterpart in",
+       "对等职位的人",
+       "相当する役職の人"
+      ],
+      [
+       "one's counterpart",
+       "对方",
+       "相手側"
+      ]
+     ],
+     "note": {
+      "zh": "counter-（相对）+ part（角色）→ 对应角色。",
+      "ja": "counter-（対応して）+ part（役割）→ 対応する人。"
+     }
+    },
+    {
+     "w": "depart",
+     "pos": "v.",
+     "ipa": "/dɪˈpɑrt/",
+     "zh": "出发；离开",
+     "ja": "出発する；離れる",
+     "ex": "The train will depart from Platform 5 at nine.",
+     "ex_zh": "列车将于九点从5号站台出发。",
+     "ex_ja": "列車は9時に5番ホームから出発する。",
+     "parts": [
+      [
+       "de-",
+       "离开",
+       "離れて"
+      ],
+      [
+       "part",
+       "部分；分开",
+       "分ける"
+      ]
+     ],
+     "forms": [
+      [
+       "depart from",
+       "从……出发",
+       "〜から出発する"
+      ],
+      [
+       "departure (n.)",
+       "出发",
+       "出発"
+      ]
+     ],
+     "note": {
+      "zh": "de-（离开）+ part（分开）→ 分开 → 离开、出发。",
+      "ja": "de-（離れて）+ part（分ける）→ 離れる・出発する。"
+     }
+    },
+    {
+     "w": "partake",
+     "pos": "v.",
+     "ipa": "/pɑrˈteɪk/",
+     "zh": "参加；分享",
+     "ja": "参加する；分け合う",
+     "ex": "Employees are invited to partake in the charity event.",
+     "ex_zh": "欢迎员工参加这次慈善活动。",
+     "ex_ja": "従業員はそのチャリティー行事に参加するよう招待されている。",
+     "parts": [
+      [
+       "part",
+       "部分",
+       "部分"
+      ],
+      [
+       "take",
+       "拿",
+       "取る"
+      ]
+     ],
+     "forms": [
+      [
+       "partake in",
+       "参加",
+       "〜に参加する"
+      ],
+      [
+       "partake of",
+       "分享（食物）",
+       "〜を分け合って食べる"
+      ]
+     ],
+     "note": {
+      "zh": "part（部分）+ take（拿）→ 拿一份 → 参与、分享。",
+      "ja": "part（部分）+ take（取る）→ 分け前を取る → 参加する。"
+     }
+    },
+    {
+     "w": "impartiality",
+     "pos": "n.",
+     "ipa": "/ɪmˌpɑrʃiˈæləti/",
+     "zh": "公正；不偏不倚",
+     "ja": "公平さ；中立",
+     "ex": "The committee must maintain impartiality when reviewing bids.",
+     "ex_zh": "委员会在评审投标时必须保持公正。",
+     "ex_ja": "委員会は入札を審査する際に公平性を保たなければならない。",
+     "parts": [
+      [
+       "im-",
+       "不",
+       "〜ない"
+      ],
+      [
+       "part",
+       "部分；偏向一方",
+       "一方に偏る"
+      ],
+      [
+       "-ial-ity",
+       "形容词+名词后缀",
+       "形容詞＋名詞語尾"
+      ]
+     ],
+     "forms": [
+      [
+       "impartial (adj.)",
+       "公正的",
+       "公平な"
+      ],
+      [
+       "maintain impartiality",
+       "保持公正",
+       "公平性を保つ"
+      ]
+     ],
+     "note": {
+      "zh": "im-（不）+ partial（偏袒的）+ -ity → 不偏袒。",
+      "ja": "im-（ない）+ partial（偏った）+ -ity → 公平。"
+     }
+    },
+    {
+     "w": "participation",
+     "pos": "n.",
+     "ipa": "/pɑrˌtɪsəˈpeɪʃən/",
+     "zh": "参加；参与",
+     "ja": "参加",
+     "ex": "Active participation is encouraged during the workshop.",
+     "ex_zh": "欢迎在研讨会期间积极参与。",
+     "ex_ja": "ワークショップ中は積極的な参加が歓迎される。",
+     "parts": [
+      [
+       "part",
+       "部分",
+       "部分"
+      ],
+      [
+       "-icip",
+       "拿",
+       "取る"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞語尾"
+      ]
+     ],
+     "forms": [
+      [
+       "participation fee",
+       "参加费",
+       "参加費"
+      ],
+      [
+       "in participation",
+       "参与中",
+       "参加して"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 pars（部分）+ capere（拿）→ 拿一份 → 参加。",
+      "ja": "ラテン語 pars（部分）+ capere（取る）→ 分け前を取る → 参加。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "opt",
+   "title_zh": "词根 -opt-：选择",
+   "title_ja": "語根 -opt-：選ぶ",
+   "words": [
+    {
+     "w": "option",
+     "pos": "n.",
+     "ipa": "/ˈɑpʃən/",
+     "zh": "选项；选择权",
+     "ja": "選択肢；オプション",
+     "ex": "Customers have the option of paying in installments.",
+     "ex_zh": "顾客可以选择分期付款。",
+     "ex_ja": "顧客は分割払いを選ぶことができる。",
+     "parts": [
+      [
+       "opt",
+       "选择",
+       "選ぶ"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞語尾"
+      ]
+     ],
+     "forms": [
+      [
+       "have no option but to",
+       "别无选择只能",
+       "〜するしかない"
+      ],
+      [
+       "stock option",
+       "股票期权",
+       "ストックオプション"
+      ]
+     ],
+     "note": {
+      "zh": "opt（选择）+ -ion → 可选的东西。",
+      "ja": "opt（選ぶ）+ -ion → 選択肢。"
+     }
+    },
+    {
+     "w": "optional",
+     "pos": "adj.",
+     "ipa": "/ˈɑpʃənəl/",
+     "zh": "可选的；非强制的",
+     "ja": "任意の；選択制の",
+     "ex": "Attendance at the evening reception is optional.",
+     "ex_zh": "晚间招待会可自愿参加。",
+     "ex_ja": "夜のレセプションへの出席は任意だ。",
+     "parts": [
+      [
+       "opt",
+       "选择",
+       "選ぶ"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞語尾"
+      ],
+      [
+       "-al",
+       "形容词后缀",
+       "形容詞語尾"
+      ]
+     ],
+     "forms": [
+      [
+       "optional extras",
+       "可选配件",
+       "オプション品"
+      ],
+      [
+       "mandatory (adj.)",
+       "强制的",
+       "必須の"
+      ]
+     ],
+     "note": {
+      "zh": "option（选项）+ -al → 可选的。",
+      "ja": "option（選択肢）+ -al → 任意の。"
+     }
+    },
+    {
+     "w": "optionally",
+     "pos": "adv.",
+     "ipa": "/ˈɑpʃənəli/",
+     "zh": "可选地；任意地",
+     "ja": "任意で",
+     "ex": "Fees may optionally be paid by credit card.",
+     "ex_zh": "费用可以选择用信用卡支付。",
+     "ex_ja": "料金は任意でクレジットカードで支払える。",
+     "parts": [
+      [
+       "opt",
+       "选择",
+       "選ぶ"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞語尾"
+      ],
+      [
+       "-al-ly",
+       "形容词+副词后缀",
+       "形容詞＋副詞語尾"
+      ]
+     ],
+     "forms": [
+      [
+       "optional (adj.)",
+       "可选的",
+       "任意の"
+      ],
+      [
+       "option (n.)",
+       "选项",
+       "選択肢"
+      ]
+     ],
+     "note": {
+      "zh": "option + -al + -ly → 可选地。",
+      "ja": "option + -al + -ly → 任意で。"
+     }
+    },
+    {
+     "w": "opt",
+     "pos": "v.",
+     "ipa": "/ɑpt/",
+     "zh": "选择；决定采用",
+     "ja": "選ぶ；〜することにする",
+     "ex": "Many staff opted to work from home on Fridays.",
+     "ex_zh": "许多员工选择周五在家办公。",
+     "ex_ja": "多くのスタッフが金曜日は在宅勤務を選んだ。",
+     "parts": [
+      [
+       "opt",
+       "选择",
+       "選ぶ"
+      ]
+     ],
+     "forms": [
+      [
+       "opt for",
+       "选择",
+       "〜を選ぶ"
+      ],
+      [
+       "opt out",
+       "退出",
+       "脱退する"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 optare（选择）。",
+      "ja": "ラテン語 optare（選ぶ）から。"
+     }
+    },
+    {
+     "w": "adopt",
+     "pos": "v.",
+     "ipa": "/əˈdɑpt/",
+     "zh": "采用；收养",
+     "ja": "採用する；養子にする",
+     "ex": "The company plans to adopt a new accounting system.",
+     "ex_zh": "公司计划采用新的会计系统。",
+     "ex_ja": "会社は新しい会計システムを採用する予定だ。",
+     "parts": [
+      [
+       "ad-",
+       "向",
+       "〜へ"
+      ],
+      [
+       "opt",
+       "选择",
+       "選ぶ"
+      ]
+     ],
+     "forms": [
+      [
+       "adopt a policy",
+       "采用政策",
+       "方針を採用する"
+      ],
+      [
+       "adopted (adj.)",
+       "被采用的",
+       "採用された"
+      ]
+     ],
+     "note": {
+      "zh": "ad-（向）+ opt（选择）→ 选来用 → 采用。",
+      "ja": "ad-（〜へ）+ opt（選ぶ）→ 選び取る → 採用する。"
+     }
+    },
+    {
+     "w": "adoption",
+     "pos": "n.",
+     "ipa": "/əˈdɑpʃən/",
+     "zh": "采用；收养",
+     "ja": "採用；養子縁組",
+     "ex": "The adoption of the new software was completed in May.",
+     "ex_zh": "新软件的采用于五月完成。",
+     "ex_ja": "新しいソフトの導入は5月に完了した。",
+     "parts": [
+      [
+       "ad-",
+       "向",
+       "〜へ"
+      ],
+      [
+       "opt",
+       "选择",
+       "選ぶ"
+      ],
+      [
+       "-ion",
+       "名词后缀",
+       "名詞語尾"
+      ]
+     ],
+     "forms": [
+      [
+       "widespread adoption",
+       "广泛采用",
+       "広い普及"
+      ],
+      [
+       "adopt (v.)",
+       "采用",
+       "採用する"
+      ]
+     ],
+     "note": {
+      "zh": "adopt（采用）+ -ion → 采用的行为。",
+      "ja": "adopt（採用する）+ -ion → 採用すること。"
+     }
+    },
+    {
+     "w": "adopter",
+     "pos": "n.",
+     "ipa": "/əˈdɑptɚ/",
+     "zh": "采用者",
+     "ja": "採用者；導入者",
+     "ex": "Early adopters gave the app positive reviews.",
+     "ex_zh": "早期使用者对这款应用给出了好评。",
+     "ex_ja": "初期採用者はそのアプリに好意的な評価を付けた。",
+     "parts": [
+      [
+       "ad-",
+       "向",
+       "〜へ"
+      ],
+      [
+       "opt",
+       "选择",
+       "選ぶ"
+      ],
+      [
+       "-er",
+       "……的人",
+       "〜する人"
+      ]
+     ],
+     "forms": [
+      [
+       "early adopter",
+       "早期使用者",
+       "アーリーアダプター"
+      ],
+      [
+       "adopt (v.)",
+       "采用",
+       "採用する"
+      ]
+     ],
+     "note": {
+      "zh": "adopt（采用）+ -er → 采用的人。",
+      "ja": "adopt（採用する）+ -er → 採用する人。"
+     }
+    },
+    {
+     "w": "optimal",
+     "pos": "adj.",
+     "ipa": "/ˈɑptəməl/",
+     "zh": "最佳的；最理想的",
+     "ja": "最適な",
+     "ex": "Store the samples at optimal temperature to keep them fresh.",
+     "ex_zh": "请将样品保存在最佳温度下以保持新鲜。",
+     "ex_ja": "サンプルは新鮮に保つため最適な温度で保管してください。",
+     "parts": [],
+     "forms": [
+      [
+       "optimal level",
+       "最佳水平",
+       "最適なレベル"
+      ],
+      [
+       "optimize (v.)",
+       "优化",
+       "最適化する"
+      ]
+     ],
+     "note": {
+      "zh": "没有可靠的词根拆分：optimal 来自拉丁语 optimus（最好的），不是 opt-（选择），只是形近。",
+      "ja": "信頼できる語根分解はありません：optimal はラテン語 optimus（最良の）由来で、opt-（選ぶ）とは別源。"
+     }
+    },
+    {
+     "w": "optimism",
+     "pos": "n.",
+     "ipa": "/ˈɑptəˌmɪzəm/",
+     "zh": "乐观；乐观主义",
+     "ja": "楽観；楽観主義",
+     "ex": "There is optimism about next year's sales figures.",
+     "ex_zh": "人们对明年的销售数字持乐观态度。",
+     "ex_ja": "来年の売上高には楽観的な見方がある。",
+     "parts": [],
+     "forms": [
+      [
+       "cautious optimism",
+       "谨慎乐观",
+       "慎重な楽観"
+      ],
+      [
+       "optimist (n.)",
+       "乐观的人",
+       "楽観主義者"
+      ]
+     ],
+     "note": {
+      "zh": "没有可靠的词根拆分：optimism 来自拉丁语 optimus（最好的），与 opt-（选择）不同源。",
+      "ja": "信頼できる語根分解はありません：optimism はラテン語 optimus（最良の）由来で、opt-（選ぶ）とは別源。"
+     }
+    },
+    {
+     "w": "optimistic",
+     "pos": "adj.",
+     "ipa": "/ˌɑptəˈmɪstɪk/",
+     "zh": "乐观的",
+     "ja": "楽観的な",
+     "ex": "Managers are optimistic about the upcoming launch.",
+     "ex_zh": "经理们对即将到来的发布持乐观态度。",
+     "ex_ja": "管理職たちは今度の発売に楽観的だ。",
+     "parts": [],
+     "forms": [
+      [
+       "optimistic about",
+       "对……乐观",
+       "〜に楽観的"
+      ],
+      [
+       "pessimistic (adj.)",
+       "悲观的",
+       "悲観的な"
+      ]
+     ],
+     "note": {
+      "zh": "没有可靠的词根拆分：optimistic 来自拉丁语 optimus（最好的），与 opt-（选择）不同源。",
+      "ja": "信頼できる語根分解はありません：optimistic はラテン語 optimus（最良の）由来で、opt-（選ぶ）とは別源。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "propri",
+   "title_zh": "词根 -propri-：自己的",
+   "title_ja": "語根 -propri-：自分の",
+   "words": [
+    {
+     "w": "appropriately",
+     "pos": "adv.",
+     "ipa": "/əˈproʊpriətli/",
+     "zh": "适当地；恰当地",
+     "ja": "適切に",
+     "ex": "Please dress appropriately for the client meeting.",
+     "ex_zh": "请穿着得体地参加客户会议。",
+     "ex_ja": "顧客との会議には適切な服装で来てください。",
+     "parts": [
+      [
+       "ap-",
+       "（ad-）向",
+       "〜へ"
+      ],
+      [
+       "propri",
+       "自己的",
+       "自分の"
+      ],
+      [
+       "-ate-ly",
+       "形容词+副词后缀",
+       "形容詞＋副詞語尾"
+      ]
+     ],
+     "forms": [
+      [
+       "appropriate (adj.)",
+       "适当的",
+       "適切な"
+      ],
+      [
+       "dress appropriately",
+       "着装得体",
+       "適切な服装をする"
+      ]
+     ],
+     "note": {
+      "zh": "ap-（向）+ propri（自己的）→ 使成为自己所适合的 → 适当。",
+      "ja": "ap-（〜へ）+ propri（自分の）→ 自分に合う → 適切に。"
+     }
+    },
+    {
+     "w": "inappropriate",
+     "pos": "adj.",
+     "ipa": "/ˌɪnəˈproʊpriət/",
+     "zh": "不适当的；不合适的",
+     "ja": "不適切な",
+     "ex": "The manager said the comment was inappropriate for the workplace.",
+     "ex_zh": "经理说这条评论在职场上不合适。",
+     "ex_ja": "マネージャーはそのコメントは職場にふさわしくないと言った。",
+     "parts": [
+      [
+       "in-",
+       "不",
+       "〜ない"
+      ],
+      [
+       "ap-",
+       "（ad-）向",
+       "〜へ"
+      ],
+      [
+       "propri",
+       "自己的",
+       "自分の"
+      ],
+      [
+       "-ate",
+       "形容词后缀",
+       "形容詞語尾"
+      ]
+     ],
+     "forms": [
+      [
+       "inappropriate behavior",
+       "不当行为",
+       "不適切な行為"
+      ],
+      [
+       "appropriate (adj.)",
+       "适当的",
+       "適切な"
+      ]
+     ],
+     "note": {
+      "zh": "in-（不）+ appropriate（适当的）→ 不适当。",
+      "ja": "in-（ない）+ appropriate（適切な）→ 不適切。"
+     }
+    },
+    {
+     "w": "appropriation",
+     "pos": "n.",
+     "ipa": "/əˌproʊpriˈeɪʃən/",
+     "zh": "拨款；占用",
+     "ja": "予算の割当；充当",
+     "ex": "The board approved an appropriation for new equipment.",
+     "ex_zh": "董事会批准了一笔购买新设备的拨款。",
+     "ex_ja": "取締役会は新しい設備のための予算の割当を承認した。",
+     "parts": [
+      [
+       "ap-",
+       "（ad-）向",
+       "〜へ"
+      ],
+      [
+       "propri",
+       "自己的",
+       "自分の"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞語尾"
+      ]
+     ],
+     "forms": [
+      [
+       "budget appropriation",
+       "预算拨款",
+       "予算の割当"
+      ],
+      [
+       "appropriate (v.)",
+       "拨出",
+       "充当する"
+      ]
+     ],
+     "note": {
+      "zh": "ap-（向）+ propri（自己的）+ -ation → 划归自己用 → 拨款。",
+      "ja": "ap-（〜へ）+ propri（自分の）+ -ation → 自分のものにする → 充当。"
+     }
+    },
+    {
+     "w": "misappropriation",
+     "pos": "n.",
+     "ipa": "/ˌmɪsəˌproʊpriˈeɪʃən/",
+     "zh": "挪用；侵占",
+     "ja": "横領；不正流用",
+     "ex": "The auditor found evidence of misappropriation of funds.",
+     "ex_zh": "审计员发现了挪用资金的证据。",
+     "ex_ja": "監査人は資金の不正流用の証拠を見つけた。",
+     "parts": [
+      [
+       "mis-",
+       "错误",
+       "誤って"
+      ],
+      [
+       "ap-",
+       "（ad-）向",
+       "〜へ"
+      ],
+      [
+       "propri",
+       "自己的",
+       "自分の"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞語尾"
+      ]
+     ],
+     "forms": [
+      [
+       "misappropriation of funds",
+       "挪用资金",
+       "資金の不正流用"
+      ],
+      [
+       "misappropriate (v.)",
+       "挪用",
+       "不正流用する"
+      ]
+     ],
+     "note": {
+      "zh": "mis-（错误）+ appropriation（据为己有）→ 不当占用。",
+      "ja": "mis-（誤って）+ appropriation（自分のものにする）→ 不正流用。"
+     }
+    },
+    {
+     "w": "propriety",
+     "pos": "n.",
+     "ipa": "/prəˈpraɪəti/",
+     "zh": "得体；礼仪；适当",
+     "ja": "礼儀正しさ；妥当性",
+     "ex": "The staff were reminded to act with propriety at the gala.",
+     "ex_zh": "员工被提醒在晚宴上要举止得体。",
+     "ex_ja": "スタッフはガラで礼儀正しく振る舞うよう注意された。",
+     "parts": [
+      [
+       "propri",
+       "自己的；本分",
+       "本来の"
+      ],
+      [
+       "-ety",
+       "名词后缀",
+       "名詞語尾"
+      ]
+     ],
+     "forms": [
+      [
+       "financial propriety",
+       "财务合规",
+       "財務上の適正さ"
+      ],
+      [
+       "impropriety (n.)",
+       "不当行为",
+       "不適切な行為"
+      ]
+     ],
+     "note": {
+      "zh": "propri（自己的，合乎本分）+ -ety → 得体、合乎规矩。",
+      "ja": "propri（自分の・本来の）+ -ety → 礼儀・妥当性。"
+     }
+    },
+    {
+     "w": "proprietorship",
+     "pos": "n.",
+     "ipa": "/prəˈpraɪətɚˌʃɪp/",
+     "zh": "所有权；独资经营",
+     "ja": "所有権；個人事業",
+     "ex": "He runs the shop as a sole proprietorship.",
+     "ex_zh": "他以独资企业的形式经营这家店。",
+     "ex_ja": "彼はその店を個人事業として経営している。",
+     "parts": [
+      [
+       "propri",
+       "自己的",
+       "自分の"
+      ],
+      [
+       "-etor",
+       "人",
+       "人"
+      ],
+      [
+       "-ship",
+       "状态；关系",
+       "状態"
+      ]
+     ],
+     "forms": [
+      [
+       "sole proprietorship",
+       "个人独资企业",
+       "個人事業主"
+      ],
+      [
+       "proprietor (n.)",
+       "所有人",
+       "所有者"
+      ]
+     ],
+     "note": {
+      "zh": "proprietor（所有人）+ -ship → 所有权、独资企业。",
+      "ja": "proprietor（所有者）+ -ship → 所有権・個人事業。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "clar",
+   "title_zh": "词根 -clar-：清楚",
+   "title_ja": "語根 -clar-：明るい・明確",
+   "words": [
+    {
+     "w": "clarity",
+     "pos": "n.",
+     "ipa": "/ˈklɛrəti/",
+     "zh": "清晰；明确",
+     "ja": "明確さ；透明性",
+     "ex": "The report lacks clarity in its budget section.",
+     "ex_zh": "报告的预算部分不够清晰。",
+     "ex_ja": "その報告書は予算の部分が明確さに欠ける。",
+     "parts": [
+      [
+       "clar",
+       "清楚",
+       "明るい・明確な"
+      ],
+      [
+       "-ity",
+       "名词后缀",
+       "名詞語尾"
+      ]
+     ],
+     "forms": [
+      [
+       "with clarity",
+       "清楚地",
+       "明確に"
+      ],
+      [
+       "lack clarity",
+       "缺乏清晰",
+       "明確さに欠ける"
+      ]
+     ],
+     "note": {
+      "zh": "拉丁语 clarus（明亮、清楚）+ -ity → 清晰度。",
+      "ja": "ラテン語 clarus（明るい・明確な）+ -ity → 明確さ。"
+     }
+    },
+    {
+     "w": "clarification",
+     "pos": "n.",
+     "ipa": "/ˌklɛrəfəˈkeɪʃən/",
+     "zh": "澄清；说明",
+     "ja": "明確化；説明",
+     "ex": "We need clarification on the refund policy.",
+     "ex_zh": "我们需要对退款政策做出澄清。",
+     "ex_ja": "返金方針について説明が必要です。",
+     "parts": [
+      [
+       "clar",
+       "清楚",
+       "明るい・明確な"
+      ],
+      [
+       "-ify",
+       "使……",
+       "〜にする"
+      ],
+      [
+       "-ation",
+       "名词后缀",
+       "名詞語尾"
+      ]
+     ],
+     "forms": [
+      [
+       "request clarification",
+       "请求说明",
+       "説明を求める"
+      ],
+      [
+       "clarify (v.)",
+       "澄清",
+       "明確にする"
+      ]
+     ],
+     "note": {
+      "zh": "clar（清楚）+ -ify（使）+ -ation → 使其清楚的过程。",
+      "ja": "clar（明確な）+ -ify（にする）+ -ation → 明確にすること。"
+     }
+    },
+    {
+     "w": "clearly",
+     "pos": "adv.",
+     "ipa": "/ˈklɪrli/",
+     "zh": "清楚地；显然",
+     "ja": "はっきりと；明らかに",
+     "ex": "Please write your name clearly on the form.",
+     "ex_zh": "请在表格上清楚地写下您的姓名。",
+     "ex_ja": "用紙に名前をはっきりと書いてください。",
+     "parts": [
+      [
+       "clear",
+       "清楚",
+       "明確な"
+      ],
+      [
+       "-ly",
+       "副词后缀",
+       "副詞語尾"
+      ]
+     ],
+     "forms": [
+      [
+       "clearly stated",
+       "明确说明的",
+       "明確に述べられた"
+      ],
+      [
+       "speak clearly",
+       "说清楚",
+       "はっきり話す"
+      ]
+     ],
+     "note": {
+      "zh": "clear 经古法语 cler 来自拉丁语 clarus（明亮）+ -ly。",
+      "ja": "clear は古フランス語 cler を経てラテン語 clarus（明るい）から + -ly。"
+     }
+    },
+    {
+     "w": "unclear",
+     "pos": "adj.",
+     "ipa": "/ʌnˈklɪr/",
+     "zh": "不清楚的；不明确的",
+     "ja": "不明確な",
+     "ex": "The instructions in the manual were unclear.",
+     "ex_zh": "手册中的说明不清楚。",
+     "ex_ja": "マニュアルの説明は分かりにくかった。",
+     "parts": [
+      [
+       "un-",
+       "不",
+       "〜ない"
+      ],
+      [
+       "clear",
+       "清楚",
+       "明確な"
+      ]
+     ],
+     "forms": [
+      [
+       "remain unclear",
+       "仍不明确",
+       "不明なままだ"
+      ],
+      [
+       "clear (adj.)",
+       "清楚的",
+       "明確な"
+      ]
+     ],
+     "note": {
+      "zh": "un-（不）+ clear（清楚，源自拉丁语 clarus）→ 不清楚。",
+      "ja": "un-（ない）+ clear（明確な、ラテン語 clarus 由来）→ 不明確。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "prop",
+   "title_zh": "主题：提案、投标与合同条款",
+   "title_ja": "テーマ：提案・入札・契約条項",
+   "words": [
+    {
+     "w": "proposal",
+     "pos": "n.",
+     "ipa": "/prəˈpoʊzəl/",
+     "zh": "提案；方案",
+     "ja": "提案；企画書",
+     "ex": "Our team submitted a proposal for the new project.",
+     "ex_zh": "我们团队为新项目提交了一份提案。",
+     "ex_ja": "私たちのチームは新プロジェクトの提案書を提出した。",
+     "parts": [],
+     "forms": [
+      [
+       "submit a proposal",
+       "提交提案",
+       "提案を提出する"
+      ],
+      [
+       "propose (v.)",
+       "提议",
+       "提案する"
+      ]
+     ],
+     "note": {
+      "zh": "没有可靠的词根拆分：此处不展开词源，整词记忆即可。",
+      "ja": "信頼できる語根分解は示しません。単語ごと覚えましょう。"
+     }
+    },
+    {
+     "w": "proposition",
+     "pos": "n.",
+     "ipa": "/ˌprɑpəˈzɪʃən/",
+     "zh": "提议；主张",
+     "ja": "提案；命題",
+     "ex": "The company made an attractive business proposition to investors.",
+     "ex_zh": "公司向投资者提出了有吸引力的商业提议。",
+     "ex_ja": "会社は投資家に魅力的な事業提案を行った。",
+     "parts": [],
+     "forms": [
+      [
+       "business proposition",
+       "商业提议",
+       "ビジネス上の提案"
+      ],
+      [
+       "value proposition",
+       "价值主张",
+       "バリュープロポジション"
+      ]
+     ],
+     "note": {
+      "zh": "没有可靠的词根拆分：此处不展开词源，整词记忆即可。",
+      "ja": "信頼できる語根分解は示しません。単語ごと覚えましょう。"
+     }
+    },
+    {
+     "w": "pitch",
+     "pos": "n./v.",
+     "ipa": "/pɪtʃ/",
+     "zh": "推销；游说；提案",
+     "ja": "売り込み；提案する",
+     "ex": "The team prepared a short pitch for the investors.",
+     "ex_zh": "团队为投资者准备了一份简短的推介。",
+     "ex_ja": "チームは投資家向けに短い売り込みを用意した。",
+     "parts": [],
+     "forms": [
+      [
+       "sales pitch",
+       "推销话术",
+       "セールストーク"
+      ],
+      [
+       "pitch an idea",
+       "提出想法",
+       "アイデアを売り込む"
+      ]
+     ],
+     "note": {
+      "zh": "没有可靠的词根拆分：此处不展开词源，整词记忆即可。",
+      "ja": "信頼できる語根分解は示しません。単語ごと覚えましょう。"
+     }
+    },
+    {
+     "w": "bidding",
+     "pos": "n.",
+     "ipa": "/ˈbɪdɪŋ/",
+     "zh": "投标；竞价",
+     "ja": "入札；競り",
+     "ex": "Bidding for the construction contract closes on Friday.",
+     "ex_zh": "建筑合同的投标周五截止。",
+     "ex_ja": "建設契約の入札は金曜日に締め切られる。",
+     "parts": [],
+     "forms": [
+      [
+       "competitive bidding",
+       "竞争性投标",
+       "競争入札"
+      ],
+      [
+       "bid (v./n.)",
+       "投标；出价",
+       "入札する；入札"
+      ]
+     ],
+     "note": {
+      "zh": "没有可靠的词根拆分：此处不展开词源，整词记忆即可。",
+      "ja": "信頼できる語根分解は示しません。単語ごと覚えましょう。"
+     }
+    },
+    {
+     "w": "bidder",
+     "pos": "n.",
+     "ipa": "/ˈbɪdɚ/",
+     "zh": "投标人；出价人",
+     "ja": "入札者",
+     "ex": "The lowest bidder will be awarded the contract.",
+     "ex_zh": "报价最低的投标人将获得合同。",
+     "ex_ja": "最低額の入札者が契約を獲得する。",
+     "parts": [],
+     "forms": [
+      [
+       "lowest bidder",
+       "最低价投标人",
+       "最低入札者"
+      ],
+      [
+       "successful bidder",
+       "中标者",
+       "落札者"
+      ]
+     ],
+     "note": {
+      "zh": "没有可靠的词根拆分：此处不展开词源，整词记忆即可。",
+      "ja": "信頼できる語根分解はありません。単語ごと覚えましょう。"
+     }
+    },
+    {
+     "w": "scope",
+     "pos": "n.",
+     "ipa": "/skoʊp/",
+     "zh": "范围；余地",
+     "ja": "範囲；余地",
+     "ex": "The scope of the project has been expanded.",
+     "ex_zh": "项目的范围已经扩大。",
+     "ex_ja": "プロジェクトの範囲が拡大された。",
+     "parts": [],
+     "forms": [
+      [
+       "scope of work",
+       "工作范围",
+       "作業範囲"
+      ],
+      [
+       "beyond the scope of",
+       "超出……范围",
+       "〜の範囲を超えて"
+      ]
+     ],
+     "note": {
+      "zh": "没有可靠的词根拆分：此处不展开词源，整词记忆即可。",
+      "ja": "信頼できる語根分解はありません。単語ごと覚えましょう。"
+     }
+    },
+    {
+     "w": "reciprocal",
+     "pos": "adj.",
+     "ipa": "/rɪˈsɪprəkəl/",
+     "zh": "互惠的；相互的",
+     "ja": "相互の；互恵的",
+     "ex": "The two airlines signed a reciprocal agreement on baggage.",
+     "ex_zh": "两家航空公司签署了行李互惠协议。",
+     "ex_ja": "2つの航空会社は手荷物に関する相互協定に署名した。",
+     "parts": [],
+     "forms": [
+      [
+       "reciprocal agreement",
+       "互惠协议",
+       "相互協定"
+      ],
+      [
+       "reciprocate (v.)",
+       "回报",
+       "お返しをする"
+      ]
+     ],
+     "note": {
+      "zh": "没有可靠的词根拆分：此处不展开词源，整词记忆即可。",
+      "ja": "信頼できる語根分解はありません。単語ごと覚えましょう。"
+     }
+    },
+    {
+     "w": "signatory",
+     "pos": "n.",
+     "ipa": "/ˈsɪɡnəˌtɔri/",
+     "zh": "签署人；签约方",
+     "ja": "署名者；締約者",
+     "ex": "Each signatory must initial every page of the contract.",
+     "ex_zh": "每位签署人都必须在合同每一页签名缩写。",
+     "ex_ja": "各署名者は契約書の各ページにイニシャルを記入しなければならない。",
+     "parts": [],
+     "forms": [
+      [
+       "authorized signatory",
+       "授权签字人",
+       "署名権限者"
+      ],
+      [
+       "signatory to",
+       "……的签署方",
+       "〜の署名者"
+      ]
+     ],
+     "note": {
+      "zh": "没有可靠的词根拆分：此处不展开词源，整词记忆即可。",
+      "ja": "信頼できる語根分解はありません。単語ごと覚えましょう。"
+     }
+    },
+    {
+     "w": "addendum",
+     "pos": "n.",
+     "ipa": "/əˈdɛndəm/",
+     "zh": "附录；补充条款",
+     "ja": "追記；補遺",
+     "ex": "An addendum to the lease was signed by both parties.",
+     "ex_zh": "租约的补充条款已由双方签署。",
+     "ex_ja": "賃貸契約の追加条項が双方によって署名された。",
+     "parts": [],
+     "forms": [
+      [
+       "contract addendum",
+       "合同补充条款",
+       "契約の追加条項"
+      ],
+      [
+       "addenda (n.pl.)",
+       "附录（复数）",
+       "補遺（複数形）"
+      ]
+     ],
+     "note": {
+      "zh": "没有可靠的词根拆分：此处不展开词源，整词记忆即可。",
+      "ja": "信頼できる語根分解はありません。単語ごと覚えましょう。"
+     }
+    },
+    {
+     "w": "prerequisite",
+     "pos": "n.",
+     "ipa": "/priˈrɛkwəzɪt/",
+     "zh": "先决条件；前提",
+     "ja": "前提条件",
+     "ex": "Two years of experience is a prerequisite for the position.",
+     "ex_zh": "两年经验是该职位的先决条件。",
+     "ex_ja": "2年の経験がその職の前提条件だ。",
+     "parts": [],
+     "forms": [
+      [
+       "prerequisite for",
+       "……的先决条件",
+       "〜の前提条件"
+      ],
+      [
+       "prerequisite course",
+       "先修课",
+       "必修の前提科目"
+      ]
+     ],
+     "note": {
+      "zh": "没有可靠的词根拆分：此处不展开词源，整词记忆即可。",
+      "ja": "信頼できる語根分解はありません。単語ごと覚えましょう。"
+     }
+    },
+    {
+     "w": "viable",
+     "pos": "adj.",
+     "ipa": "/ˈvaɪəbəl/",
+     "zh": "可行的；能存活的",
+     "ja": "実行可能な",
+     "ex": "The committee found the plan to be commercially viable.",
+     "ex_zh": "委员会认为该计划在商业上可行。",
+     "ex_ja": "委員会はその計画は商業的に実現可能だと判断した。",
+     "parts": [],
+     "forms": [
+      [
+       "viable option",
+       "可行方案",
+       "実行可能な選択肢"
+      ],
+      [
+       "economically viable",
+       "经济上可行",
+       "経済的に成り立つ"
+      ]
+     ],
+     "note": {
+      "zh": "没有可靠的词根拆分：此处不展开词源，整词记忆即可。",
+      "ja": "信頼できる語根分解はありません。単語ごと覚えましょう。"
+     }
+    },
+    {
+     "w": "unsolicited",
+     "pos": "adj.",
+     "ipa": "/ˌʌnsəˈlɪsətəd/",
+     "zh": "未经请求的；主动提供的",
+     "ja": "頼まれていない",
+     "ex": "We do not accept unsolicited proposals from vendors.",
+     "ex_zh": "我们不接受供应商主动提交的提案。",
+     "ex_ja": "当社は業者からの売り込み提案は受け付けていません。",
+     "parts": [],
+     "forms": [
+      [
+       "unsolicited email",
+       "垃圾邮件",
+       "迷惑メール"
+      ],
+      [
+       "unsolicited advice",
+       "不请自来的建议",
+       "頼まれていない助言"
+      ]
+     ],
+     "note": {
+      "zh": "没有可靠的词根拆分：此处不展开词源，整词记忆即可。",
+      "ja": "信頼できる語根分解はありません。単語ごと覚えましょう。"
+     }
+    },
+    {
+     "w": "timeframe",
+     "pos": "n.",
+     "ipa": "/ˈtaɪmˌfreɪm/",
+     "zh": "时间范围；期限",
+     "ja": "期間；時間枠",
+     "ex": "What is the timeframe for completing the renovation?",
+     "ex_zh": "装修完工的时间范围是多久？",
+     "ex_ja": "改装工事を終える期間はどのくらいですか。",
+     "parts": [],
+     "forms": [
+      [
+       "within the timeframe",
+       "在时限内",
+       "期間内に"
+      ],
+      [
+       "tight timeframe",
+       "时间紧",
+       "厳しい期間"
+      ]
+     ],
+     "note": {
+      "zh": "没有可靠的词根拆分：time + frame 的复合词，按整词记忆。",
+      "ja": "time + frame の複合語。単語ごと覚えましょう。"
+     }
+    },
+    {
+     "w": "outcome",
+     "pos": "n.",
+     "ipa": "/ˈaʊtˌkʌm/",
+     "zh": "结果；成果",
+     "ja": "結果；成果",
+     "ex": "We are pleased with the outcome of the negotiations.",
+     "ex_zh": "我们对谈判的结果感到满意。",
+     "ex_ja": "私たちは交渉の結果に満足している。",
+     "parts": [],
+     "forms": [
+      [
+       "positive outcome",
+       "积极成果",
+       "良い結果"
+      ],
+      [
+       "outcome of",
+       "……的结果",
+       "〜の結果"
+      ]
+     ],
+     "note": {
+      "zh": "没有可靠的词根拆分：out + come 的复合词，按整词记忆。",
+      "ja": "out + come の複合語。単語ごと覚えましょう。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "media",
+   "title_zh": "主题：数字媒体与办公网络",
+   "title_ja": "テーマ：デジタルメディアとオフィスネットワーク",
+   "words": [
+    {
+     "w": "newsletter",
+     "pos": "n.",
+     "ipa": "/ˈnuzˌlɛtɚ/",
+     "zh": "简报；通讯",
+     "ja": "ニュースレター；会報",
+     "ex": "Our monthly newsletter goes out on the first of each month.",
+     "ex_zh": "我们的月度简报在每月一日发出。",
+     "ex_ja": "当社の月刊ニュースレターは毎月1日に配信される。",
+     "parts": [],
+     "forms": [
+      [
+       "subscribe to the newsletter",
+       "订阅简报",
+       "ニュースレターを購読する"
+      ],
+      [
+       "company newsletter",
+       "公司内刊",
+       "社内報"
+      ]
+     ],
+     "note": {
+      "zh": "没有可靠的词根拆分：news + letter 的复合词，按整词记忆。",
+      "ja": "news + letter の複合語。単語ごと覚えましょう。"
+     }
+    },
+    {
+     "w": "bulletin",
+     "pos": "n.",
+     "ipa": "/ˈbʊlətɪn/",
+     "zh": "公告；简报",
+     "ja": "掲示；会報",
+     "ex": "A bulletin on the safety changes was posted in the lobby.",
+     "ex_zh": "关于安全变更的公告张贴在大厅。",
+     "ex_ja": "安全面の変更に関する掲示がロビーに貼られた。",
+     "parts": [],
+     "forms": [
+      [
+       "bulletin board",
+       "布告栏；公告板",
+       "掲示板"
+      ],
+      [
+       "news bulletin",
+       "新闻简报",
+       "ニュース速報"
+      ]
+     ],
+     "note": {
+      "zh": "没有可靠的词根拆分：此处不展开词源，整词记忆即可。",
+      "ja": "信頼できる語根分解はありません。単語ごと覚えましょう。"
+     }
+    },
+    {
+     "w": "magazine",
+     "pos": "n.",
+     "ipa": "/ˈmæɡəˌzin/",
+     "zh": "杂志",
+     "ja": "雑誌",
+     "ex": "Her article will appear in next month's magazine.",
+     "ex_zh": "她的文章将刊登在下个月的杂志上。",
+     "ex_ja": "彼女の記事は来月号の雑誌に掲載される。",
+     "parts": [],
+     "forms": [
+      [
+       "magazine subscription",
+       "杂志订阅",
+       "雑誌の定期購読"
+      ],
+      [
+       "trade magazine",
+       "行业杂志",
+       "業界誌"
+      ]
+     ],
+     "note": {
+      "zh": "没有可靠的词根拆分：此处不展开词源，整词记忆即可。",
+      "ja": "信頼できる語根分解はありません。単語ごと覚えましょう。"
+     }
+    },
+    {
+     "w": "upload",
+     "pos": "v.",
+     "ipa": "/ˈʌpˌloʊd/",
+     "zh": "上传",
+     "ja": "アップロードする",
+     "ex": "Please upload your résumé to the company website.",
+     "ex_zh": "请把简历上传到公司网站。",
+     "ex_ja": "履歴書を会社のウェブサイトにアップロードしてください。",
+     "parts": [],
+     "forms": [
+      [
+       "upload a file",
+       "上传文件",
+       "ファイルをアップロードする"
+      ],
+      [
+       "download (v.)",
+       "下载",
+       "ダウンロードする"
+      ]
+     ],
+     "note": {
+      "zh": "没有可靠的词根拆分：up + load 的复合词，按整词记忆。",
+      "ja": "up + load の複合語。単語ごと覚えましょう。"
+     }
+    },
+    {
+     "w": "install",
+     "pos": "v.",
+     "ipa": "/ɪnˈstɔl/",
+     "zh": "安装；设置",
+     "ja": "取り付ける；インストールする",
+     "ex": "The technician will install the new software tomorrow.",
+     "ex_zh": "技术人员明天将安装新软件。",
+     "ex_ja": "技術者が明日新しいソフトをインストールする。",
+     "parts": [],
+     "forms": [
+      [
+       "install software",
+       "安装软件",
+       "ソフトをインストールする"
+      ],
+      [
+       "installation (n.)",
+       "安装",
+       "設置"
+      ]
+     ],
+     "note": {
+      "zh": "没有可靠的词根拆分：此处不展开词源，整词记忆即可。",
+      "ja": "信頼できる語根分解はありません。単語ごと覚えましょう。"
+     }
+    },
+    {
+     "w": "database",
+     "pos": "n.",
+     "ipa": "/ˈdeɪtəˌbeɪs/",
+     "zh": "数据库",
+     "ja": "データベース",
+     "ex": "All customer records are stored in a secure database.",
+     "ex_zh": "所有客户记录都存放在安全的数据库中。",
+     "ex_ja": "すべての顧客記録は安全なデータベースに保存されている。",
+     "parts": [],
+     "forms": [
+      [
+       "update the database",
+       "更新数据库",
+       "データベースを更新する"
+      ],
+      [
+       "customer database",
+       "客户数据库",
+       "顧客データベース"
+      ]
+     ],
+     "note": {
+      "zh": "没有可靠的词根拆分：data + base 的复合词，按整词记忆。",
+      "ja": "data + base の複合語。単語ごと覚えましょう。"
+     }
+    },
+    {
+     "w": "network",
+     "pos": "n.",
+     "ipa": "/ˈnɛtˌwɝk/",
+     "zh": "网络；人脉网",
+     "ja": "ネットワーク；通信網",
+     "ex": "The office network was down for two hours this morning.",
+     "ex_zh": "办公室网络今天早上中断了两个小时。",
+     "ex_ja": "オフィスのネットワークは今朝2時間止まった。",
+     "parts": [],
+     "forms": [
+      [
+       "computer network",
+       "计算机网络",
+       "コンピューターネットワーク"
+      ],
+      [
+       "professional network",
+       "职场人脉",
+       "仕事上の人脈"
+      ]
+     ],
+     "note": {
+      "zh": "没有可靠的词根拆分：net + work 的复合词，按整词记忆。",
+      "ja": "net + work の複合語。単語ごと覚えましょう。"
+     }
+    },
+    {
+     "w": "homepage",
+     "pos": "n.",
+     "ipa": "/ˈhoʊmˌpeɪdʒ/",
+     "zh": "主页；首页",
+     "ja": "ホームページ；トップページ",
+     "ex": "The sale was announced on our homepage.",
+     "ex_zh": "促销活动已在我们的主页上公布。",
+     "ex_ja": "セールは当社のホームページで告知された。",
+     "parts": [],
+     "forms": [
+      [
+       "visit the homepage",
+       "访问主页",
+       "トップページを訪れる"
+      ],
+      [
+       "website (n.)",
+       "网站",
+       "ウェブサイト"
+      ]
+     ],
+     "note": {
+      "zh": "没有可靠的词根拆分：home + page 的复合词，按整词记忆。",
+      "ja": "home + page の複合語。単語ごと覚えましょう。"
+     }
+    },
+    {
+     "w": "website",
+     "pos": "n.",
+     "ipa": "/ˈwɛbˌsaɪt/",
+     "zh": "网站",
+     "ja": "ウェブサイト",
+     "ex": "You can find the full schedule on our website.",
+     "ex_zh": "您可以在我们的网站上找到完整日程。",
+     "ex_ja": "全日程は当社のウェブサイトでご覧いただけます。",
+     "parts": [],
+     "forms": [
+      [
+       "company website",
+       "公司网站",
+       "会社のウェブサイト"
+      ],
+      [
+       "visit our website",
+       "访问我们的网站",
+       "当社のサイトをご覧ください"
+      ]
+     ],
+     "note": {
+      "zh": "没有可靠的词根拆分：web + site 的复合词，按整词记忆。",
+      "ja": "web + site の複合語。単語ごと覚えましょう。"
+     }
+    },
+    {
+     "w": "forward",
+     "pos": "v.",
+     "ipa": "/ˈfɔrwɚd/",
+     "zh": "转发；转寄",
+     "ja": "転送する",
+     "ex": "Could you forward the email to the whole team?",
+     "ex_zh": "您能把这封邮件转发给整个团队吗？",
+     "ex_ja": "そのメールをチーム全員に転送してもらえますか。",
+     "parts": [],
+     "forms": [
+      [
+       "forward an email",
+       "转发邮件",
+       "メールを転送する"
+      ],
+      [
+       "look forward to",
+       "期待",
+       "〜を楽しみにする"
+      ]
+     ],
+     "note": {
+      "zh": "没有可靠的词根拆分：for + ward 的古英语构词，这里只按整词记忆。",
+      "ja": "整詞で覚えましょう（古英語由来で語根分解は示しません）。"
+     }
+    },
+    {
+     "w": "reply",
+     "pos": "v./n.",
+     "ipa": "/rɪˈplaɪ/",
+     "zh": "答复；回复",
+     "ja": "返信する；返事",
+     "ex": "Please reply to this message by the end of the day.",
+     "ex_zh": "请在今天下班前回复这条消息。",
+     "ex_ja": "本日中にこのメッセージに返信してください。",
+     "parts": [],
+     "forms": [
+      [
+       "reply to",
+       "回复",
+       "〜に返信する"
+      ],
+      [
+       "in reply to",
+       "针对……的回复",
+       "〜への返信として"
+      ]
+     ],
+     "note": {
+      "zh": "没有可靠的词根拆分：此处不展开词源，整词记忆即可。",
+      "ja": "信頼できる語根分解はありません。単語ごと覚えましょう。"
+     }
+    },
+    {
+     "w": "cookie",
+     "pos": "n.",
+     "ipa": "/ˈkʊki/",
+     "zh": "曲奇饼；网站 cookie",
+     "ja": "クッキー；ウェブのクッキー",
+     "ex": "The website asks visitors to accept cookies.",
+     "ex_zh": "该网站要求访客接受 cookie。",
+     "ex_ja": "そのウェブサイトは訪問者にクッキーの許可を求めている。",
+     "parts": [],
+     "forms": [
+      [
+       "accept cookies",
+       "接受 cookie",
+       "クッキーを許可する"
+      ],
+      [
+       "browser cookie",
+       "浏览器 cookie",
+       "ブラウザのクッキー"
+      ]
+     ],
+     "note": {
+      "zh": "没有可靠的词根拆分：此处不展开词源，整词记忆即可。",
+      "ja": "信頼できる語根分解はありません。単語ごと覚えましょう。"
+     }
+    },
+    {
+     "w": "podcast",
+     "pos": "n.",
+     "ipa": "/ˈpɑdˌkæst/",
+     "zh": "播客",
+     "ja": "ポッドキャスト",
+     "ex": "She hosts a weekly podcast about small business.",
+     "ex_zh": "她主持一档关于小企业的每周播客。",
+     "ex_ja": "彼女は中小企業についての週刊ポッドキャストを配信している。",
+     "parts": [],
+     "forms": [
+      [
+       "listen to a podcast",
+       "收听播客",
+       "ポッドキャストを聞く"
+      ],
+      [
+       "podcast episode",
+       "播客节目",
+       "ポッドキャストの回"
+      ]
+     ],
+     "note": {
+      "zh": "没有可靠的词根拆分：pod（iPod）+ broadcast 的混合词，按整词记忆。",
+      "ja": "iPod と broadcast の混成語。単語ごと覚えましょう。"
+     }
+    },
+    {
+     "w": "episode",
+     "pos": "n.",
+     "ipa": "/ˈɛpəˌsoʊd/",
+     "zh": "一集；插曲",
+     "ja": "エピソード；放送回",
+     "ex": "The latest episode features an interview with the founder.",
+     "ex_zh": "最新一集收录了对创始人的访谈。",
+     "ex_ja": "最新回には創業者へのインタビューが含まれている。",
+     "parts": [],
+     "forms": [
+      [
+       "latest episode",
+       "最新一集",
+       "最新回"
+      ],
+      [
+       "pilot episode",
+       "试播集",
+       "パイロット版"
+      ]
+     ],
+     "note": {
+      "zh": "没有可靠的词根拆分：此处不展开词源，整词记忆即可。",
+      "ja": "信頼できる語根分解はありません。単語ごと覚えましょう。"
+     }
+    }
+   ]
+  }
+ ]
+}
